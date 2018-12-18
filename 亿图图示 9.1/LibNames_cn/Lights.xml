@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Lights">
+    <Elem Prompt="灯1- 绿色" Name="灯1- 绿色" PromptU="Light1- green" NameU="Light1- green"/>
+    <Elem Prompt="灯1- 橙色" Name="灯1- 橙色" PromptU="Light1- orange" NameU="Light1- orange"/>
+    <Elem Prompt="灯1- 红色" Name="灯1- 红色" PromptU="Light1- red" NameU="Light1- red"/>
+    <Elem Prompt="灯2- 绿色" Name="灯2- 绿色" PromptU="Light2- green" NameU="Light2- green"/>
+    <Elem Prompt="灯2- 橙色" Name="灯2- 橙色" PromptU="Light2- orange" NameU="Light2- orange"/>
+    <Elem Prompt="Light2- 红色" Name="灯2- 红色" PromptU="Light2- red" NameU="Light2- red"/>
+    <Elem Prompt="灯3- 绿色" Name="灯3- 绿色" PromptU="Light3- green" NameU="Light3- green"/>
+    <Elem Prompt="灯3- 红色" Name="灯3- 红色" PromptU="Light3- red" NameU="Light3- red"/>
+    <Elem Prompt="灯3- 黄色" Name="灯3- 黄色" PromptU="Light3- yellow" NameU="Light3- yellow"/>
+    <Elem Prompt="灯4- 绿色" Name="灯4- 绿色" PromptU="Light4- green" NameU="Light4- green"/>
+    <Elem Prompt="灯4- 红色" Name="灯4- 红色" PromptU="Light4- red" NameU="Light4- red"/>
+    <Elem Prompt="灯4- 黄色" Name="灯4- 黄色" PromptU="Light4- yellow" NameU="Light4- yellow"/>
+    <Elem Prompt="灯5- 绿色" Name="灯5- 绿色" PromptU="Light5- green" NameU="Light5- green"/>
+    <Elem Prompt="灯5- 橙色" Name="灯5- 橙色" PromptU="Light5- orange" NameU="Light5- orange"/>
+    <Elem Prompt="灯5- 红色" Name="灯5- 红色" PromptU="Light5- red" NameU="Light5- red"/>
+    <Elem Prompt="灯6- 绿色" Name="灯6- 绿色" PromptU="Light6- green" NameU="Light6- green"/>
+    <Elem Prompt="灯6- 红色" Name="灯6- 红色" PromptU="Light6- red" NameU="Light6- red"/>
+    <Elem Prompt="灯6- 黄色" Name="灯6- 黄色" PromptU="Light6- yellow" NameU="Light6- yellow"/>
+    <Elem Prompt="灯7- 绿色" Name="灯7- 绿色" PromptU="Light7- green" NameU="Light7- green"/>
+    <Elem Prompt="灯7- 橙色" Name="灯7- 橙色" PromptU="Light7- orange" NameU="Light7- orange"/>
+    <Elem Prompt="灯7- 红色" Name="灯7- 红色" PromptU="Light7- red" NameU="Light7- red"/>
+    <Elem Prompt="灯8- 绿色" Name="灯8- 绿色" PromptU="Light8- green" NameU="Light8- green"/>
+    <Elem Prompt="灯8- 红色" Name="灯8- 红色" PromptU="Light8- red" NameU="Light8- red"/>
+    <Elem Prompt="灯8- 黄色" Name="灯8- 黄色" PromptU="Light8- yellow" NameU="Light8- yellow"/>
+    <Elem Prompt="灯9- 绿色" Name="灯9- 绿色" PromptU="Light9- green" NameU="Light9- green"/>
+    <Elem Prompt="灯9- 红色" Name="灯9- 红色" PromptU="Light9- red" NameU="Light9- red"/>
+    <Elem Prompt="灯9- 黄色" Name="灯9- 黄色" PromptU="Light9- yellow" NameU="Light9- yellow"/>
+    <Elem Prompt="灯10- 绿色" Name="灯10- 绿色" PromptU="Light10- green" NameU="Light10- green"/>
+    <Elem Prompt="灯10- 红色" Name="灯10- 红色" PromptU="Light10- red" NameU="Light10- red"/>
+    <Elem Prompt="灯10- 黄色" Name="灯10- 黄色" PromptU="Light10- yellow" NameU="Light10- yellow"/>
+    <Elem Prompt="灯11- 绿色" Name="灯11- 绿色" PromptU="Light11- green" NameU="Light11- green"/>
+    <Elem Prompt="灯11- 红色" Name="灯11- 红色" PromptU="Light11- red" NameU="Light11- red"/>
+    <Elem Prompt="灯11- 黄色" Name="灯11- 黄色" PromptU="Light11- yellow" NameU="Light11- yellow"/>
+    <Elem Prompt="灯12- 绿色" Name="灯12- 绿色" PromptU="Light12- green" NameU="Light12- green"/>
+    <Elem Prompt="灯12- 红色" Name="灯12- 红色" PromptU="Light12- red" NameU="Light12- red"/>
+    <Elem Prompt="灯12- 黄色" Name="灯12- 黄色" PromptU="Light12- yellow" NameU="Light12- yellow"/>
+</Lib>

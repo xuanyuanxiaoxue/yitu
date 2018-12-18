@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Program Flowchart">
+    <Elem Prompt="进程" Name="进程" PromptU="Process" NameU="Process"/>
+    <Elem Prompt="Data" Name="Data" PromptU="Data" NameU="Data"/>
+    <Elem Prompt="判定" Name="判定" PromptU="Decision" NameU="Decision"/>
+    <Elem Prompt="结束" Name="结束" PromptU="End" NameU="End"/>
+</Lib>

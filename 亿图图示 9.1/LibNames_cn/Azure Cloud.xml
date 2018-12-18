@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Azure Cloud">
+    <Elem NameU="Accounts - Microsoft Account" Name="微软用户" PromptU="Accounts - Microsoft Account" Prompt="微软用户"/>
+    <Elem NameU="Accounts - Work Account" Name="工作用户" PromptU="Accounts - Work Account" Prompt="工作用户"/>
+    <Elem NameU="Azure Advisor" Name="Azure 顾问" PromptU="Azure Advisor" Prompt="Azure 顾问"/>
+    <Elem NameU="Analysis Service" Name="分析服务" PromptU="Analysis Service" Prompt="分析服务"/>
+    <Elem NameU="Azure Acitve Directory Access Control" Name="Azure活动目录访问控制" PromptU="Azure Acitve Directory Access Control" Prompt="Azure 活动目录访问控制"/>
+    <Elem NameU="Azure Active Directory Health Monitoring" Name="Azure 活动目录健康监控" PromptU="Azure Active Directory Health Monitoring" Prompt="Azure 活动目录健康监控"/>
+    <Elem NameU="Azure Active Directory" Name="Azure 活动目录" PromptU="Azure Active Directory" Prompt="Azure 活动目录"/>
+    <Elem NameU="Azure API Management" Name="Azure 应用程序界面管理" PromptU="Azure API Management" Prompt="Azure应用程序界面管理"/>
+    <Elem NameU="Azure App Service - Mobile App (Was Mobile Services)" Name="Azure 应用服务 - 移动应用 (移动服务)" PromptU="Azure App Service - Mobile App (Was Mobile Services)" Prompt="Azure 应用服务  移动应用 (移动服务)"/>
+    <Elem NameU="Azure App Service - Web App (Was Websites)" Name="Azure 应用服务 -网络应用 (网站)" PromptU="Azure App Service - Web App (Was Websites)" Prompt="Azure 应用服务 -网络应用 (网站)"/>
+    <Elem NameU="Azure App Service - Worker Pools" Name="Azure应用服务 -工人聚集地" PromptU="Azure App Service - Worker Pools" Prompt="Azure应用服务 -工人聚集地"/>
+    <Elem NameU="Azure App Service" Name="Azure 应用服务" PromptU="Azure App Service" Prompt="Azure 应用服务"/>
+    <Elem NameU="Azure Application Gateway" Name="Azure 应用网关" PromptU="Azure Application Gateway" Prompt="Azure 应用网关"/>
+    <Elem NameU="Azure Application Insights" Name="Azure 应用启示" PromptU="Azure Application Insights" Prompt="Azure 应用启示"/>
+    <Elem NameU="Azure Automation - Runbooks" Name="Azure 自动化运行手册" PromptU="Azure Automation - Runbooks" Prompt="Azure 自动化运行手册"/>
+    <Elem NameU="Azure Automation" Name="Azure 自动化" PromptU="Azure Automation" Prompt="Azure 自动化"/>
+    <Elem NameU="Azure Backup - Backup Agent" Name="Azure 备份代理商" PromptU="Azure Backup - Backup Agent" Prompt="Azure 备份代理商"/>
+    <Elem NameU="Azure Backup - Recovery Vault" Name="Azure 备份-恢复" PromptU="Azure Backup - Recovery Vault" Prompt="Azure 备份-恢复"/>
+    <Elem NameU="Azure Backup" Name="Azure 备份" PromptU="Azure Backup" Prompt="Azure 备份"/>
+    <Elem NameU="Azure Batch" Name="Azure 批处理" PromptU="Azure Batch" Prompt="Azure 批处理"/>
+    <Elem NameU="Azure BizTalk Services - Hybrid Connection Manager" Name="Azure BizTalk 服务 - 混合链接管理器" PromptU="Azure BizTalk Services - Hybrid Connection Manager" Prompt="Azure BizTalk 服务 - 混合链接管理器"/>
+    <Elem NameU="Azure BizTalk Services - Hybrid Connections" Name="Azure BizTalk 服务 - 混合链接管理" PromptU="Azure BizTalk Services - Hybrid Connections" Prompt="Azure BizTalk 服务 - 混合链接管理"/>
+    <Elem NameU="Azure BizTalk Services" Name="Azure BizTalk 服务" PromptU="Azure BizTalk Services" Prompt="Azure BizTalk 服务"/>
+    <Elem NameU="Azure Bot Services" Name="Azure Bot Services" PromptU="Azure 机器人服务" Prompt="Azure 机器人服务"/>
+    <Elem NameU="Azure Cache Including Redis" Name="Azure 缓存" PromptU="Azure Cache Including Redis" Prompt="Azure 缓存"/>
+    <Elem NameU="Azure Cloud Service" Name="Azure 云服务" PromptU="Azure Cloud Service" Prompt="Azure 云服务"/>
+    <Elem NameU="Azure Cloud Services - Web Role" Name="Azure 支持云服务-网络" PromptU="Azure Cloud Services - Web Role" Prompt="Azure 支持云服务-网络"/>
+    <Elem NameU="Azure Cloud Services - Web Roles" Name="Azure 支持云服务-网络角色" PromptU="Azure Cloud Services - Web Roles" Prompt="Azure 支持云服务-网络角色"/>
+    <Elem NameU="Azure Cloud Services - Worker Role" Name="Azure 云服务-后端" PromptU="Azure Cloud Services - Worker Role" Prompt="Azure 云服务-后端"/>
+    <Elem NameU="Azure Cloud Services - Worker Roles" Name="Azure云服务-后端" PromptU="Azure Cloud Services - Worker Roles" Prompt="Azure云服务-后端"/>
+    <Elem NameU="Azure Cognitive Services" Name="Azure认知服务" PromptU="Azure Cognitive Services" Prompt="Azure认知服务"/>
+    <Elem NameU="Azure Compute - Autoscaling" Name="Azure自动伸缩计算" PromptU="Azure Compute - Autoscaling" Prompt="Azure自动伸缩计算"/>
+    <Elem NameU="Azure Container Registry" Name="Azure容器注册" PromptU="Azure Container Registry" Prompt="Azure容器注册"/>
+    <Elem NameU="Azure Container Service" Name="Azure容器服务" PromptU="Azure Container Service" Prompt="Azure容器服务"/>
+    <Elem NameU="Azure Content Delivery Network (CDN)" Name="Azure内容传送网络" PromptU="Azure Content Delivery Network (CDN)" Prompt="Azure内容传送网络"/>
+    <Elem NameU="Azure Cortona Management Suite" Name="Azure Cortona管理套件" PromptU="Azure Cortona Management Suite" Prompt="Azure Cortona管理套件"/>
+    <Elem NameU="Azure Data Catalog" Name="Azure数据目录" PromptU="Azure Data Catalog" Prompt="Azure数据目录"/>
+    <Elem NameU="Azure Data Factory" Name="Azure数据工厂" PromptU="Azure Data Factory" Prompt="Azure数据工厂"/>
+    <Elem NameU="Azure Data Lake Analytics" Name="Azure数据湖分析" PromptU="Azure Data Lake Analytics" Prompt="Azure数据湖分析"/>
+    <Elem NameU="Azure Data Lake Store" Name="Azure数据湖存储" PromptU="Azure Data Lake Store" Prompt="Azure数据湖存储"/>
+    <Elem NameU="Azure Data Lake" Name="Azure数据湖" PromptU="Azure Data Lake" Prompt="Azure数据湖"/>
+    <Elem NameU="Azure Data Warehouse" Name="Azure数据仓" PromptU="Azure Data Warehouse" Prompt="Azure数据仓"/>
+    <Elem NameU="Azure Database General_COLOR" Name="Azure数据库" PromptU="Azure Database General_COLOR" Prompt="Azure数据库"/>
+    <Elem NameU="Azure DataServices Category Rollup" Name="Azure数据服务类别汇总" PromptU="Azure DataServices Category Rollup" Prompt="Azure数据服务类别汇总"/>
+    <Elem NameU="Azure DevTest Labs" Name="Azure DevTest实验室" PromptU="Azure DevTest Labs" Prompt="Azure DevTest实验室"/>
+    <Elem NameU="Azure DNS" Name="Azure DNS" PromptU="Azure DNS" Prompt="Azure DNS"/>
+    <Elem NameU="Azure DocumentDB - Database" Name="Azure DocumentDB - 数据库" PromptU="Azure DocumentDB - Database" Prompt="Azure DocumentDB - 数据库"/>
+    <Elem NameU="Azure DocumentDB - DocDB Account" Name="Azure DocumentDB - 账号" PromptU="Azure DocumentDB - DocDB Account" Prompt="Azure DocumentDB - 账号"/>
+    <Elem NameU="Azure DocumentDB - DocDB Collections 1" Name="Azure DocumentDB - 集合1" PromptU="Azure DocumentDB - DocDB Collections 1" Prompt="Azure DocumentDB - 集合1"/>
+    <Elem NameU="Azure DocumentDB - Document 2" Name="Azure DocumentDB - Document 2" PromptU="Azure DocumentDB - Document 2" Prompt="Azure DocumentDB - Document 2"/>
+    <Elem NameU="Azure DocumentDB" Name="Azure DocumentDB" PromptU="Azure DocumentDB" Prompt="Azure DocumentDB"/>
+    <Elem NameU="Azure Event Hubs" Name="Azure 事件中心" PromptU="Azure Event Hubs" Prompt="Azure 事件中心"/>
+    <Elem NameU="Azure ExpressRoute" Name="虚拟私有云连接" PromptU="Azure ExpressRoute" Prompt="虚拟私有云连接"/>
+    <Elem NameU="Azure Functions" Name="Azure功能" PromptU="Azure Functions" Prompt="Azure功能"/>
+    <Elem NameU="Azure HDInsight" Name="Azure HDInsight" PromptU="Azure HDInsight" Prompt="Azure HDInsight"/>
+    <Elem NameU="Azure HockeyApp" Name="Azure HockeyApp" PromptU="Azure HockeyApp" Prompt="Azure HockeyApp"/>
+    <Elem NameU="Azure IoT Hub" Name="Azure IoT Hub" PromptU="Azure IoT Hub" Prompt="Azure IoT Hub"/>
+    <Elem NameU="Azure Key Vault" Name="Azure Key Vault" PromptU="Azure Key Vault" Prompt="Azure Key Vault"/>
+    <Elem NameU="Azure load Balancer (Automatic)" Name="Azur负载均衡器（自动）" PromptU="Azure load Balancer (Automatic)" Prompt="Azur负载均衡器（自动）"/>
+    <Elem NameU="Azure Load Balancer (Feature)" Name="Azure负载均衡器(特点)" PromptU="Azure Load Balancer (Feature)" Prompt="Azure负载均衡器(特点)"/>
+    <Elem NameU="Azure Logic Apps" Name="逻辑应用" PromptU="Azure Logic Apps" Prompt="逻辑应用"/>
+    <Elem NameU="Azure Machine Learning" Name="Azure 机器学习" PromptU="Azure Machine Learning" Prompt="Azure 机器学习"/>
+    <Elem NameU="Azure Management Portal" Name="Azure 管理门户" PromptU="Azure Management Portal" Prompt="Azure 管理门户"/>
+    <Elem NameU="Azure Media Services" Name="Azure 媒体服务" PromptU="Azure Media Services" Prompt="Azure 媒体服务"/>
+    <Elem NameU="Azure Mobile Engagement" Name="Azure移动参与" PromptU="Azure Mobile Engagement" Prompt="Azure移动参与"/>
+    <Elem NameU="Azure Monitor" Name="Azure 显示器" PromptU="Azure Monitor" Prompt="Azure 显示器"/>
+    <Elem NameU="Azure Multi-Factor Authentication" Name="Azure双重验证" PromptU="Azure Multi-Factor Authentication" Prompt="Azure双重验证"/>
+    <Elem NameU="Azure MySQL ClearDB Database" Name="Azure MySQL ClearDB数据库" PromptU="Azure MySQL ClearDB Database" Prompt="Azure MySQL ClearDB数据库"/>
+    <Elem NameU="Azure Notification Hubs" Name="Azure通知中心" PromptU="Azure Notification Hubs" Prompt="Azure通知中心"/>
+    <Elem NameU="Azure RemoteApp" Name="Azure远程应用" PromptU="Azure RemoteApp" Prompt="Azure远程应用"/>
+    <Elem NameU="Azure Rights Management (RMS)" Name="Azure权限管理" PromptU="Azure Rights Management (RMS)" Prompt="Azure权限管理"/>
+    <Elem NameU="Azure Scheduler" Name="Azure调度程序" PromptU="Azure Scheduler" Prompt="Azure调度程序"/>
+    <Elem NameU="Azure SDK" Name="Azure SDK" PromptU="Azure SDK" Prompt="Azure SDK"/>
+    <Elem NameU="Azure SDK" Name="Azure SDK" PromptU="Azure SDK" Prompt="Azure SDK"/>
+    <Elem NameU="Azure Search" Name="Azure 查找" PromptU="Azure Search" Prompt="Azure 查找"/>
+    <Elem NameU="Azure Security Center" Name="Azure安全中心" PromptU="Azure Security Center" Prompt="Azure安全中心"/>
+    <Elem NameU="Azure Service Bus" Name="Azure消息服务" PromptU="Azure Service Bus" Prompt="Azure消息服务"/>
+    <Elem NameU="Azure Service Bus Queues" Name="Azure消息服务队列" PromptU="Azure Service Bus Queues" Prompt="Azure消息服务队列"/>
+    <Elem NameU="Azure Service Bus Relay" Name="Azure消息服务中继" PromptU="Azure Service Bus Relay" Prompt="Azure消息服务中继"/>
+    <Elem NameU="Azure Service Bus Topics" Name="Azure消息服务主题" PromptU="Azure Service Bus Topics" Prompt="Azure消息服务主题"/>
+    <Elem NameU="Azure Service Fabric" Name="Azure 服务架构" PromptU="Azure Service Fabric" Prompt="Azure 服务架构"/>
+    <Elem NameU="Azure Site Recovery" Name="Azure 网站修复" PromptU="Azure Site Recovery" Prompt="Azure 网站修复"/>
+    <Elem NameU="Azure SQL Database (Generic)" Name="Azure SQL 基础数据库" PromptU="Azure SQL Database (Generic)" Prompt="Azure SQL 基础数据库"/>
+    <Elem NameU="Azure SQL Database Premium" Name="Azure SQL 升级数据库" PromptU="Azure SQL Database Premium" Prompt="Azure SQL 升级数据库"/>
+    <Elem NameU="Azure SQL Database" Name="Azure SQL 数据库" PromptU="Azure SQL Database" Prompt="Azure SQL 数据库"/>
+    <Elem NameU="Azure SQL DataSync" Name="Azure SQL 数据同步" PromptU="Azure SQL DataSync" Prompt="Azure SQL 数据同步"/>
+    <Elem NameU="Azure SQL DataWarehouse" Name="Azure SQL 数据仓" PromptU="Azure SQL DataWarehouse" Prompt="Azure SQL 数据仓"/>
+    <Elem NameU="Azure SQL Stretch Database" Name="Azure SQL 延展数据库" PromptU="Azure SQL Stretch Database" Prompt="Azure SQL 延展数据库"/>
+    <Elem NameU="Azure Stack" Name="Azure 混合云" PromptU="Azure Stack" Prompt="Azure 混合云"/>
+    <Elem NameU="Azure Storage - Blob" Name="Azure对象存储" PromptU="Azure Storage - Blob" Prompt="Azure对象存储"/>
+    <Elem NameU="Azure Storage - Files" Name="Azure文件存储" PromptU="Azure Storage - Files" Prompt="Azure文件存储"/>
+    <Elem NameU="Azure Storage - Queue" Name="Azure队列存储" PromptU="Azure Storage - Queue" Prompt="Azure队列存储"/>
+    <Elem NameU="Azure Storage - Table" Name="Azure表格存储" PromptU="Azure Storage - Table" Prompt="Azure表格存储"/>
+    <Elem NameU="Azure Storage" Name="Azure存储" PromptU="Azure Storage" Prompt="Azure存储"/>
+    <Elem NameU="Storage" Name="存储" PromptU="Storage" Prompt="存储"/>
+    <Elem NameU="Azure Store" Name="Azure 存储" PromptU="Azure Store" Prompt="Azure 存储"/>
+    <Elem NameU="Azure StorSimple" Name="Azure 混合云存储" PromptU="Azure StorSimple" Prompt="Azure 混合云存储"/>
+    <Elem NameU="Azure Stream Analytics" Name="Azure 分析流" PromptU="Azure Stream Analytics" Prompt="Azure 分析流"/>
+    <Elem NameU="Azure Subscription" Name="Azure订阅" PromptU="Azure Subscription" Prompt="Azure订阅"/>
+    <Elem NameU="Azure Traffic Manager" Name="Azure 流量管理" PromptU="Azure Traffic Manager" Prompt="Azure 流量管理"/>
+    <Elem NameU="Azure VM Symbol Only" Name="Azure VM 符号" PromptU="Azure VM Symbol Only" Prompt="Azure VM 符号"/>
+    <Elem NameU="Azure Virtual Machine" Name="Azure 虚拟机器" PromptU="Azure Virtual Machine" Prompt="Azure 虚拟机器"/>
+    <Elem NameU="Azure Virtual Machines - Availability Set" Name="Azure Virtual Machines - 可用性集合" PromptU="Azure Virtual Machines - Availability Set" Prompt="Azure Virtual Machines - 可用性集合"/>
+    <Elem NameU="Azure Virtual Machines - Linux Penguin Shadow" Name="Azure Virtual Machines - Linux Penguin Shadow" PromptU="Azure Virtual Machines - Linux Penguin Shadow" Prompt="Azure Virtual Machines - Linux Penguin Shadow"/>
+    <Elem NameU="Azure Virtual Network" Name="Azure 虚拟网络" PromptU="Azure Virtual Network" Prompt="Azure 虚拟网络"/>
+    <Elem NameU="Azure VM Container" Name="Azure VM容器" PromptU="Azure VM Container" Prompt="Azure VM容器"/>
+    <Elem NameU="Azure VM Scale Set" Name="Azure VM 比例集" PromptU="Azure VM Scale Set" Prompt="Azure VM 比例集"/>
+    <Elem NameU="Azure VPN Gateway" Name="Azure VPN网关" PromptU="Azure VPN Gateway" Prompt="Azure VPN网关"/>
+    <Elem NameU="Azure WebApp - WebJobs" Name="Azure网页应用" PromptU="Azure WebApp - WebJobs" Prompt="Azure网页应用"/>
+    <Elem NameU="Microsoft Azure" Name="Microsoft Azure" PromptU="Microsoft Azure" Prompt="Microsoft Azure"/>
+    <Elem NameU="Network Security Group" Name="Network 安全组" PromptU="Network Security Group" Prompt="Network 安全组"/>
+    <Elem NameU="OMS Log Analytics" Name="OMS 登陆分析" PromptU="OMS Log Analytics" Prompt="OMS 登陆分析"/>
+    <Elem NameU="Operations Management Suite (OMS)" Name="Operations Management Suite (OMS)" PromptU="Operations Management Suite (OMS)" Prompt="Operations Management Suite (OMS)"/>
+    <Elem NameU="OS Image" Name="OS图像" PromptU="OS Image" Prompt="OS图像"/>
+    <Elem NameU="Resource Group" Name="资源组" PromptU="Resource Group" Prompt="资源组"/>
+    <Elem NameU="Service Endpoint" Name="服务终端" PromptU="Service Endpoint" Prompt="服务终端"/>
+    <Elem NameU="SQL Database Pools" Name="SQL 数据池" PromptU="SQL Database Pools" Prompt="SQL 数据池"/>
+    <Elem NameU="Unidentified Feature Object" Name="特征不明对象" PromptU="Unidentified Feature Object" Prompt="特征不明对象"/>
+    <Elem NameU="VHD Data Disk" Name="VHD 数据盘" PromptU="VHD Data Disk" Prompt="VHD 数据盘"/>
+    <Elem NameU="VHD" Name="VHD" PromptU="VHD" Prompt="VHD"/>
+    <Elem NameU="Visual Studio Team Services - Bitbucket Code Source" Name="Visual Studio Team Services - Bitbucket 代码源" PromptU="Visual Studio Team Services - Bitbucket Code Source" Prompt="Visual Studio Team Services - Bitbucket 代码源"/>
+    <Elem NameU="Visual Studio Team Services - CodePlex Source" Name="Visual Studio Team Services - CodePlex源码" PromptU="Visual Studio Team Services - CodePlex Source" Prompt="Visual Studio Team Services - CodePlex 源码"/>
+    <Elem NameU="Visual Studio Team Services - Dropbox Code Source" Name="Visual Studio Team Services - Dropbox代码源" PromptU="Visual Studio Team Services - Dropbox Code Source" Prompt="Visual Studio Team Services - Dropbox代码源"/>
+    <Elem NameU="Visual Studio Team Services - Git Repository" Name="Visual Studio Team Services - Git存储库" PromptU="Visual Studio Team Services - Git Repository" Prompt="Visual Studio Team Services -存储库"/>
+    <Elem NameU="Visual Studio Team Services - GitHub" Name="Visual Studio Team Services - GitHub" PromptU="Visual Studio Team Services - GitHub" Prompt="Visual Studio Team Services - GitHub"/>
+    <Elem NameU="Visual Studio Team Services" Name="Visual Studio Team Services" PromptU="Visual Studio Team Services" Prompt="Visual Studio Team Services"/>
+    <Elem NameU="Webhooks" Name="网络连接" PromptU="Webhooks" Prompt="网络连接"/>
+    <Elem NameU="Power BI Embedded" Name="Power BI Embedded数据集成" PromptU="Power BI Embedded" Prompt="Power BI Embedded数据集成"/>
+    <Elem NameU="Cloud Office 365" Name="Cloud Office 365" PromptU="Cloud Office 365" Prompt="Cloud Office 365"/>
+    <Elem NameU="Office 365 subscription" Name="Office 365 订阅" PromptU="Office 365 subscription" Prompt="Office 365 订阅"/>
+    <Elem NameU="Office 365" Name="Office 365" PromptU="Office 365" Prompt="Office 365"/>
+    <Elem NameU="Azure Cache Redis Product icon_COLOR" Name="Azure缓存云服务" PromptU="Azure Cache Redis Product icon_COLOR" Prompt="Azure缓存云服务"/>
+    <Elem NameU="Azure Cognative Services - Computer Vision_COLOR" Name="Azure认知服务-电脑" PromptU="Azure Cognative Services - Computer Vision_COLOR" Prompt="Azure认知服务-电脑"/>
+    <Elem NameU="Azure Cognative Services - Emotion_COLOR" Name="Azure认知服务-情绪" PromptU="Azure Cognative Services - Emotion_COLOR" Prompt="Azure认知服务-情绪"/>
+    <Elem NameU="Azure Cognative Services - luis_COLOR" Name="Azure认知服务luis" PromptU="Azure Cognative Services - luis_COLOR" Prompt="Azure认知服务luis"/>
+    <Elem NameU="Azure Cognative Services - Recommendations_COLOR" Name="Azure认知服务-推荐" PromptU="Azure Cognative Services - Recommendations_COLOR" Prompt="Azure认知服务-推荐"/>
+    <Elem NameU="Azure Cognative Services - Speech_COLOR" Name="Azure认知服务-演讲" PromptU="Azure Cognative Services - Speech_COLOR" Prompt="Azure认知服务-演讲"/>
+    <Elem NameU="Azure Cognative Services - Textanalytics_COLOR" Name="Azure认知服务-文本分析" PromptU="Azure Cognative Services - Textanalytics_COLOR" Prompt="Azure认知服务-文本分析"/>
+    <Elem NameU="Azure Cognative Services - Web-Language-Model_COLOR" Name="Azure认知服务-页面语言模型" PromptU="Azure Cognative Services - Web-Language-Model_COLOR" Prompt="Azure认知服务-页面语言模型"/>
+</Lib>

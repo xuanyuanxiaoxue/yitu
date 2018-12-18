@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="IDEF2 Diagram Shapes">
+    <Elem Prompt="流程实体" Name="流程实体" PromptU="Process box" NameU="Process box"/>
+    <Elem Prompt="标题框" Name="标题框" PromptU="Title block" NameU="Title block"/>
+    <Elem Prompt="N型线条文本块在侧边" Name="N型线条" PromptU="N-type  line with text side" NameU="N-type line"/>
+    <Elem Prompt="N型线条文本块在中间" Name="N型线条" PromptU="N-type line with text middle" NameU="N-type line"/>
+    <Elem Prompt="文本块" Name="文本块" PromptU="Text block" NameU="Text block"/>
+    <Elem Prompt="单向连接线" Name="单向连接线" PromptU="1 legged connector" NameU="1 legged connector"/>
+    <Elem Prompt="转弯连接线" Name="转弯连接线" PromptU="Forking connector" NameU="Forking connector"/>
+    <Elem Prompt="转弯连接线" Name="转弯连接线" PromptU="Vertical forking connector" NameU="Forking connector"/>
+    <Elem Prompt="连接线" Name="连接线" PromptU="Joint connector" NameU="Joint connector"/>
+    <Elem Prompt="弯曲连接线" Name="弯曲连接线" PromptU="Bend connector" NameU="Bend connector"/>
+    <Elem Prompt="回绕连接线" Name="回绕连接线" PromptU="Swing connector" NameU="Swing connector"/>
+    <Elem Prompt="侧边说明框" Name="侧边说明框" PromptU="Side text callout" NameU="Side text callout"/>
+    <Elem Prompt="斜角分叉连接线" Name="转弯连接线" PromptU="Bevel forking connector" NameU="Forking connector"/>
+    <Elem Prompt="斜角分叉连接线" Name="转弯连接线" PromptU="Bevel forking connector" NameU="Forking connector"/>
+    <Elem Prompt="斜角铰接接头" Name="连接线" PromptU="Bevel joint connector" NameU="Joint connector"/>
+    <Elem Prompt="斜弯曲连接线" Name="弯曲连接线" PromptU="Bevel bend connector" NameU="Bend connector"/>
+    <Elem Prompt="斜角旋启式连接线" Name="回绕连接线" PromptU="Bevel swing connector" NameU="Swing connector"/>
+</Lib>

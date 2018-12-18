@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Machines">
+    <Elem Prompt="自动卡盘车床" Name="自动卡盘车床" PromptU="Automatic chucker" NameU="Automatic chucker"/>
+    <Elem Prompt="自动车床" Name="自动车床" PromptU="Automatic screw machine" NameU="Automatic screw machine"/>
+    <Elem Prompt="自动万能磨床" Name="自动万能磨床" PromptU="Automatic universal grinder" NameU="Automatic universal grinder"/>
+    <Elem Prompt="球磨机" Name="球磨机" PromptU="Ball mill" NameU="Ball mill"/>
+    <Elem Prompt="床型水平轴研磨机" Name="床型水平轴研磨机" PromptU="Bed-type horizontal-spindle production mill" NameU="Bed-type horizontal-spindle production mill"/>
+    <Elem Prompt="无心磨床" Name="无心磨床" PromptU="Centerless grinder" NameU="Centerless grinder"/>
+    <Elem Prompt="坐标测量机" Name="坐标测量机" PromptU="CMM" NameU="CMM"/>
+    <Elem Prompt="数控车床" Name="数控车床" PromptU="CNC chucke" NameU="CNC chucke"/>
+    <Elem Prompt="数控坐标测量" Name="数控坐标测量" PromptU="CNC coordinate measuring" NameU="CNC coordinate measuring"/>
+    <Elem Prompt="数控转塔冲床" Name="数控转塔冲床" PromptU="CNC turret punch press" NameU="CNC turret punch press"/>
+    <Elem Prompt="数控立式加工中心" Name="数控立式加工中心" PromptU="CNC vertical machining center" NameU="CNC vertical machining center"/>
+    <Elem Prompt="小型数控车削中心" Name="小型数控车削中心" PromptU="Compact CNC turning center" NameU="Compact CNC turning center"/>
+    <Elem Prompt="电脑辅助车床" Name="电脑辅助车床" PromptU="Computer-assisted lathe" NameU="Computer-assisted lathe"/>
+    <Elem Prompt="矫正辊式矫直机" Name="矫正辊式矫直机" PromptU="Corrective roller leveler" NameU="Corrective roller leveler"/>
+    <Elem Prompt="去毛刺机" Name="去毛刺机" PromptU="Deburring machine" NameU="Deburring machine"/>
+    <Elem Prompt="钻头" Name="钻头" PromptU="Drill bit" NameU="Drill bit"/>
+    <Elem Prompt="钻床" Name="钻床" PromptU="Drill-tap machine" NameU="Drill-tap machine"/>
+    <Elem Prompt="普通车床" Name="普通车床" PromptU="Engine lathe" NameU="Engine lathe"/>
+    <Elem Prompt="楼板" Name="楼板" PromptU="Floor plate" NameU="Floor plate"/>
+    <Elem Prompt="多轴车床" Name="多轴车床" PromptU="Gang-tooled turning machine" NameU="Gang-tooled turning machine"/>
+    <Elem Prompt="齿轮" Name="齿轮" PromptU="Gear" NameU="Gear"/>
+    <Elem Prompt="研磨机" Name="研磨机" PromptU="Grinder" NameU="Grinder"/>
+    <Elem Prompt="磨床" Name="磨床" PromptU="Grinding machine" NameU="Grinding machine"/>
+    <Elem Prompt="磨碎机" Name="磨碎机" PromptU="Grinding mill" NameU="Grinding mill"/>
+    <Elem Prompt="重型带锯机" Name="重型带锯机" PromptU="Heavy-duty band sawing machine" NameU="Heavy-duty band sawing machine"/>
+    <Elem Prompt="高速激光设备" Name="高速激光设备" PromptU="High-speed flying optic laser system" NameU="High-speed flying optic laser system"/>
+    <Elem Prompt="滚刀磨床" Name="滚刀磨床" PromptU="Hob sharpener" NameU="Hob sharpener"/>
+    <Elem Prompt="卧式液压机" Name="卧式液压机" PromptU="Horizontal hydraulic hone" NameU="Horizontal hydraulic hone"/>
+    <Elem Prompt="卧式架轧机" Name="卧式架轧机" PromptU="Horizontal jig mill" NameU="Horizontal jig mill"/>
+    <Elem Prompt="卧式加工中心" Name="卧式加工中心" PromptU="Horizontal machining center" NameU="Horizontal machining center"/>
+    <Elem Prompt="水平轧机" Name="水平轧机" PromptU="Horizontal mill" NameU="Horizontal mill"/>
+    <Elem Prompt="卧式磨床" Name="卧式磨床" PromptU="Horizontal spindle grinder" NameU="Horizontal spindle grinder"/>
+    <Elem Prompt="液压折弯机" Name="液压折弯机" PromptU="Hydra-mechanical press brake" NameU="Hydra-mechanical press brake"/>
+    <Elem Prompt="液压折弯机 2" Name="液压折弯机 2" PromptU="Hydraulic press brake" NameU="Hydraulic press brake"/>
+    <Elem Prompt="工业烤箱" Name="工业烤箱" PromptU="Industrial oven" NameU="Industrial oven"/>
+    <Elem Prompt="工业烤箱" Name="工业烤箱" PromptU="Industrial oven" NameU="Industrial oven"/>
+    <Elem Prompt="内圆磨床" Name="内圆磨床" PromptU="Internal grinding machine" NameU="Internal grinding machine"/>
+    <Elem Prompt="研磨抛光机" Name="研磨抛光机" PromptU="Lapping and polishing system" NameU="Lapping and polishing system"/>
+    <Elem Prompt="机械冲剪机" Name="机械冲剪机" PromptU="Mechanical ironworker" NameU="Mechanical ironworker"/>
+    <Elem Prompt="机械压力机" Name="机械压力机" PromptU="Mechanical press" NameU="Mechanical press"/>
+    <Elem Prompt="集雾器" Name="集雾器" PromptU="Mist collector" NameU="Mist collector"/>
+    <Elem Prompt="多轴钻机" Name="多轴钻机" PromptU="Multiple-spindle drill" NameU="Multiple-spindle drill"/>
+    <Elem Prompt="多轴钻机" Name="多轴钻机" PromptU="Multiple-spindle drill" NameU="Multiple-spindle drill"/>
+    <Elem Prompt="零件清洗机" Name="零件清洗机" PromptU="Parts washer" NameU="Parts washer"/>
+    <Elem Prompt="强力金属压机" Name="强力金属压机" PromptU="Power metal press" NameU="Power metal press"/>
+    <Elem Prompt="平行刃口剪切机" Name="平行刃口剪切机" PromptU="Power squaring shear" NameU="Power squaring shear"/>
+    <Elem Prompt="带锯机" Name="带锯机" PromptU="Production band saw" NameU="Production band saw"/>
+    <Elem Prompt="带锯机" Name="带锯机" PromptU="Production band saw" NameU="Production band saw"/>
+    <Elem Prompt="冲压机" Name="冲压机" PromptU="Punch press" NameU="Punch press"/>
+    <Elem Prompt="摇臂钻床" Name="摇臂钻床" PromptU="Radial drill" NameU="Radial drill"/>
+    <Elem Prompt="轧钢机" Name="轧钢机" PromptU="Rolling mill" NameU="Rolling mill"/>
+    <Elem Prompt="回转平面磨床" Name="回转平面磨床" PromptU="Rotary surface grinder" NameU="Rotary surface grinder"/>
+    <Elem Prompt="回转平面磨床" Name="回转平面磨床" PromptU="Rotary surface grinder" NameU="Rotary surface grinder"/>
+    <Elem Prompt="缝焊机" Name="缝焊机" PromptU="Seam welder" NameU="Seam welder"/>
+    <Elem Prompt="喷嘴" Name="喷嘴" PromptU="Spray nozzle" NameU="Spray nozzle"/>
+    <Elem Prompt="冲床" Name="冲床" PromptU="Stamping machine" NameU="Stamping machine"/>
+    <Elem Prompt="冲床" Name="冲床" PromptU="Stamping machine" NameU="Stamping machine"/>
+    <Elem Prompt="冲床" Name="冲床" PromptU="Stamping machine" NameU="Stamping machine"/>
+    <Elem Prompt="多工位压力机" Name="多工位压力机" PromptU="Transfer press" NameU="Transfer press"/>
+    <Elem Prompt="通用车削机" Name="通用车削机" PromptU="Universal turning center" NameU="Universal turning center"/>
+    <Elem Prompt="立式自动切削预调机床" Name="立式自动切削预调机床" PromptU="Vertical automatic cutting tool presetting machine" NameU="Vertical automatic cutting tool presetting machine"/>
+    <Elem Prompt="立式带锯" Name="立式带锯" PromptU="Vertical band saw" NameU="Vertical band saw"/>
+    <Elem Prompt="立式压缩液压机" Name="立式压缩液压机" PromptU="Vertical compression hydraulic press bender" NameU="Vertical compression hydraulic press bender"/>
+    <Elem Prompt="立式车床" Name="立式车床" PromptU="Vertical lathe" NameU="Vertical lathe"/>
+    <Elem Prompt="立式加工中心" Name="立式加工中心" PromptU="Vertical machining center" NameU="Vertical machining center"/>
+    <Elem Prompt="立轴旋转平面磨床" Name="立轴旋转平面磨床" PromptU="Vertical spindle rotary surface grinder" NameU="Vertical spindle rotary surface grinder"/>
+    <Elem Prompt="立式去毛刺机" Name="立式去毛刺机" PromptU="Vertical deburring" NameU="Vertical deburring"/>
+    <Elem Prompt="立式去毛刺机" Name="立式去毛刺机" PromptU="Vertical deburring" NameU="Vertical deburring"/>
+    <Elem Prompt="煤磨机" Name="煤磨机" PromptU="Coal mill" NameU="Coal mill"/>
+    <Elem Prompt="酵母发酵机" Name="酵母发酵机" PromptU="Yeast molding machine" NameU="Yeast molding machine"/>
+    <Elem Prompt="粉碎机 1" Name="粉碎机 1" PromptU="Pulverizer 1" NameU="Pulverizer 1"/>
+    <Elem Prompt="粉碎机 2" Name="粉碎机 2" PromptU="Pulverizer 2" NameU="Pulverizer 2"/>
+    <Elem Prompt="粉碎机 3" Name="粉碎机 3" PromptU="Pulverizer 3" NameU="Pulverizer 3"/>
+    <Elem Prompt="电子稳定系统" Name="电子稳定系统" PromptU="ESP" NameU="ESP"/>
+    <Elem Prompt="搅拌机" Name="搅拌机" PromptU="Mix" NameU="Mix"/>
+    <Elem Prompt="捣碎准备" Name="捣碎准备" PromptU="Mash preparation" NameU="Mash preparation"/>
+    <Elem Prompt="Wet grains" Name="Wet grains" PromptU="Wet grains" NameU="Wet grains"/>
+    <Elem Prompt="低压省煤器" Name="低压省煤器" PromptU="Low-level economizer" NameU="Low-level economizer"/>
+    <Elem Prompt="均化器" Name="均化器" PromptU="Homogenization" NameU="Homogenization"/>
+    <Elem Prompt="均质乳化机" Name="均质乳化机" PromptU="Homogeneous Emulsion" NameU="Homogeneous Emulsion"/>
+    <Elem Prompt="夹层锅" Name="夹层锅" PromptU="Jacketed kettle" NameU="Jacketed kettle"/>
+    <Elem Prompt="洗果机" Name="洗果机" PromptU="Fruit washing machine" NameU="Fruit washing machine"/>
+    <Elem Prompt="板式压滤机" Name="板式压滤机" PromptU="Plate Filter Press" NameU="Plate Filter Press"/>
+    <Elem Prompt="拣果机" Name="拣果机" PromptU="Pick up the fruit machine" NameU="Pick up the fruit machine"/>
+    <Elem Prompt="搅拌器" Name="搅拌器" PromptU="Beater" NameU="Beater"/>
+    <Elem Prompt="洗瓶机" Name="洗瓶机" PromptU="Can washer" NameU="Can washer"/>
+    <Elem Prompt="封罐机" Name="封罐机" PromptU="Tin seamer" NameU="Tin seamer"/>
+    <Elem Prompt="蒸汽灭菌器" Name="蒸汽灭菌器" PromptU="Steam sterilizer" NameU="Steam sterilizer"/>
+    <Elem Prompt="制粒机" Name="制粒机" PromptU="Granulator" NameU="Granulator"/>
+    <Elem Prompt="超高温灭菌机" Name="超高温灭菌机" PromptU="Ultra high temperature instantaneous sterilization machine" NameU="Ultra high temperature instantaneous sterilization machine"/>
+</Lib>

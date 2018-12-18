@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Business Card Text">
+    <Elem Prompt="Logo" Name="Logo" PromptU="Logo" NameU="Logo"/>
+    <Elem Prompt="公司名" Name="公司名" PromptU="Company Name" NameU="Company Name"/>
+    <Elem Prompt="全名" Name="全名" PromptU="Full Name" NameU="Full Name"/>
+    <Elem Prompt="职位" Name="职位" PromptU="Position" NameU="Position"/>
+    <Elem Prompt="主要营业地址" Name="主要营业地址" PromptU="Primary Business Address" NameU="Primary Business Address"/>
+    <Elem Prompt="电话、传真、电子邮箱" Name="电话、传真、电子邮箱" PromptU="Phone, Fax, Email" NameU="Phone, Fax, Email"/>
+    <Elem Prompt="地址、电话、网站" Name="地址、电话、网站" PromptU="Address, Phone, Website" NameU="Address, Phone, Website"/>
+    <Elem Prompt="地址、电话、网站 2" Name="地址、电话、网站 2" PromptU="Address, Phone, Website 2" NameU="Address, Phone, Website 2"/>
+    <Elem Prompt="地址" Name="地址" PromptU="Address" NameU="Address"/>
+</Lib>

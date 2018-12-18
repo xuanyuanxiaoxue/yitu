@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Callouts">
+    <Elem Prompt="线条标注" Name="线条标注" PromptU="Line Text" NameU="Line Text"/>
+    <Elem Prompt="线条标注" Name="线条标注 2" PromptU="Line Text" NameU="Line Text 2"/>
+    <Elem Prompt="线条标注" Name="线条标注 3" PromptU="Line Text" NameU="Line Text 3"/>
+    <Elem Prompt="全方向盒状标注 1" Name="全方向盒状标注 1" PromptU="Box Callout with all directions 1" NameU="Box Callout with all directions 1"/>
+    <Elem Prompt="全方向盒状标注 2" Name="全方向盒状标注 2" PromptU="Box Callout with all directions 2" NameU="Box Callout with all directions 2"/>
+    <Elem Prompt="全方向椭圆标注 1" Name="全方向椭圆标注 1" PromptU="Oval Callout with all directions 1" NameU="Oval Callout with all directions 1"/>
+    <Elem Prompt="全方向椭圆标注 2" Name="全方向椭圆标注 2" PromptU="Oval Callout with all directions 2" NameU="Oval Callout with all directions 2"/>
+    <Elem Prompt="椭圆标注" Name="椭圆标注" PromptU="Oval Callout" NameU="Oval Callout"/>
+    <Elem Prompt="气泡标注 1" Name="气泡标注 1" PromptU="Bubble Callout 1" NameU="Bubble Callout 1"/>
+    <Elem Prompt="气泡标注 2" Name="气泡标注 2" PromptU="Bubble Callout 2" NameU="Bubble Callout 2"/>
+    <Elem Prompt="圆形标注" Name="圆形标注" PromptU="Circular Callout 1" NameU="Circular Callout 1"/>
+    <Elem Prompt="圆形标注" Name="圆形标注" PromptU="Circular Callout 2" NameU="Circular Callout 2"/>
+    <Elem Prompt="云状标注 1" Name="云状标注 1" PromptU="Cloud Callout 1" NameU="Cloud Callout 1"/>
+    <Elem Prompt="云状标注 2" Name="云状标注 2" PromptU="Cloud Callout 2" NameU="Cloud Callout 2"/>
+    <Elem Prompt="云状标注 3" Name="云状标注 3" PromptU="Cloud Callout 3" NameU="Cloud Callout 3"/>
+    <Elem Prompt="云状标注 4" Name="云状标注 4" PromptU="Cloud Callout 4" NameU="Cloud Callout 4"/>
+    <Elem Prompt="云状标注 5" Name="云状标注 5" PromptU="Cloud Callout 5" NameU="Cloud Callout 5"/>
+    <Elem Prompt="云状标注 6" Name="云状标注 6" PromptU="Cloud Callout 6" NameU="Cloud Callout 6"/>
+    <Elem Prompt="云状标注 7" Name="云状标注 7" PromptU="Cloud Callout 7" NameU="Cloud Callout 7"/>
+    <Elem Prompt="盒形标注 1" Name="盒形标注 1" PromptU="Box Callout 1" NameU="Box Callout 1"/>
+    <Elem Prompt="盒形标注 2" Name="盒形标注 2" PromptU="Box Callout 2" NameU="Box Callout 2"/>
+    <Elem Prompt="盒形标注 3" Name="盒形标注 3" PromptU="Box Callout 3" NameU="Box Callout 3"/>
+    <Elem Prompt="盒形标注 4" Name="盒形标注 4" PromptU="Box Callout 4" NameU="Box Callout 4"/>
+    <Elem Prompt="盒形标注 5" Name="盒形标注 5" PromptU="Box Callout 5" NameU="Box Callout 5"/>
+    <Elem Prompt="圆角长方形标注" Name="圆角长方形标注" PromptU="Rounded rectangle Callout" NameU="Rounded rectangle Callout"/>
+    <Elem Prompt="不规则形标注 1" Name="不规则形标注 1" PromptU="Irregular Callout 1" NameU="Irregular Callout 1"/>
+    <Elem Prompt="不规则形标注 2" Name="不规则形标注 2" PromptU="Irregular Callout 2" NameU="Irregular Callout 2"/>
+    <Elem Prompt="不规则形标注 3" Name="不规则形标注 3" PromptU="Irregular Callout 3" NameU="Irregular Callout 3"/>
+    <Elem Prompt="不规则形标注 4" Name="不规则形标注 4" PromptU="Irregular Callout 4" NameU="Irregular Callout 4"/>
+    <Elem Prompt="半圆形标注" Name="半圆形标注" PromptU="Half Circle Callout" NameU="Half Circle Callout"/>
+    <Elem Prompt="月食形标注" Name="月食形标注" PromptU="Eclipse Callout" NameU="Eclipse Callout"/>
+    <Elem Prompt="叶形标注" Name="叶形标注" PromptU="Leaf Callout" NameU="Leaf Callout"/>
+    <Elem Prompt="不规则形标注 5" Name="不规则形标注 5" PromptU="Irregular Callout 5" NameU="Irregular Callout 5"/>
+    <Elem Prompt="六边形标注 1" Name="六边形标注 1" PromptU="Hexagon Callout 1" NameU="Hexagon Callout 1"/>
+    <Elem Prompt="六边形标注 2" Name="六边形标注 2" PromptU="Hexagon Callout 2" NameU="Hexagon Callout 2"/>
+    <Elem Prompt="六边形标注 3" Name="六边形标注 3" PromptU="Hexagon Callout 3" NameU="Hexagon Callout 3"/>
+    <Elem Prompt="横条标注" Name="横条标注" PromptU="List Callout" NameU="List Callout"/>
+    <Elem Prompt="标注" Name="标注" PromptU="Callout" NameU="Callout"/>
+    <Elem Prompt="标注" Name="标注" PromptU="Callout" NameU="Callout"/>
+    <Elem Prompt="标注" Name="标注" PromptU="Callout" NameU="Callout"/>
+    <Elem Prompt="标注" Name="标注" PromptU="Callout" NameU="Callout"/>
+    <Elem Prompt="水母形标注" Name="水母形标注" PromptU="Jellyfish Callout" NameU="Jellyfish Callout"/>
+    <Elem Prompt="位置标注 1" Name="位置标注 1" PromptU="Location Callout 1" NameU="Location Callout 1"/>
+    <Elem Prompt="位置标注 2" Name="位置标注 2" PromptU="Location Callout 2" NameU="Location Callout 2"/>
+    <Elem Prompt="空心标注 1" Name="空心标注 1" PromptU="Callout Hollow Style 1" NameU="Callout Hollow Style 1"/>
+    <Elem Prompt="空心标注 2" Name="空心标注 2" PromptU="Callout Hollow Style 2" NameU="Callout Hollow Style 2"/>
+    <Elem Prompt="空心标注 3" Name="空心标注 3" PromptU="Callout Hollow Style 3" NameU="Callout Hollow Style 3"/>
+    <Elem Prompt="空心标注 4" Name="空心标注 4" PromptU="Callout Hollow Style 4" NameU="Callout Hollow Style 4"/>
+    <Elem Prompt="空心标注 5" Name="空心标注 5" PromptU="Callout Hollow Style 5" NameU="Callout Hollow Style 5"/>
+    <Elem Prompt="空心标注 6" Name="空心标注 6" PromptU="Callout Hollow Style 6" NameU="Callout Hollow Style 6"/>
+    <Elem Prompt="爆炸式批注" Name="爆炸式批注" PromptU="Kaboom" NameU="Kaboom"/>
+    <Elem Prompt="焦点批注" Name="焦点批注" PromptU="Wow" NameU="Wow"/>
+    <Elem Prompt="花瓣标注 1" Name="花瓣标注 1" PromptU="Callout Petal 1" NameU="Callout Petal 1"/>
+    <Elem Prompt="花瓣标注 2" Name="花瓣标注 2" PromptU="Callout Petal 2" NameU="Callout Petal 2"/>
+    <Elem Prompt="花瓣标注 3" Name="花瓣标注 3" PromptU="Callout Petal 3" NameU="Callout Petal 3"/>
+    <Elem Prompt="花瓣标注 4" Name="花瓣标注 4" PromptU="Callout Petal 4" NameU="Callout Petal 4"/>
+    <Elem Prompt="折纸标注" Name="折纸标注" PromptU="Callout Paper Folding" NameU="Callout Paper Folding"/>
+    <Elem Prompt="旗形标注" Name="旗形标注" PromptU="Callout Flag" NameU="Callout Flag"/>
+    <Elem Prompt="风格化标注1" Name="风格化标注1" PromptU="Style Callout 1" NameU="Style Callout 1"/>
+    <Elem Prompt="风格化标注2" Name="风格化标注2" PromptU="Style Callout 2" NameU="Style Callout 2"/>
+    <Elem Prompt="徽章形标注" Name="徽章形标注" PromptU="Callout Badge" NameU="Callout Badge"/>
+    <Elem Prompt="风格化标注3" Name="风格化标注3" PromptU="Style Callout 3" NameU="Style Callout 3"/>
+    <Elem Prompt="风格化标注4" Name="风格化标注4" PromptU="Style Callout 4" NameU="Style Callout 4"/>
+    <Elem Prompt="风格化标注4" Name="风格化标注4" PromptU="Style Callout 4" NameU="Style Callout 4"/>
+    <Elem Prompt="风格化标注5" Name="风格化标注5" PromptU="Style Callout 5" NameU="Style Callout 5"/>
+    <Elem Prompt="列表标注" Name="列表标注" PromptU="Callout List" NameU="Callout List"/>
+    <Elem Prompt="列表标注2" Name="列表标注2" PromptU="Callout List 2" NameU="Callout List 2"/>
+    <Elem Prompt="任意方向线条矩形标注" Name="带线矩形标注" PromptU="Rectangle balloon with all directions" NameU="Rectangle width Line"/>
+    <Elem Prompt="侧边文本块标注" Name="侧边文本块标注" PromptU="Side box callout" NameU="Side box callout"/>
+    <Elem Prompt="盒状批注" Name="盒状批注" PromptU="Mid box callout" NameU="Mid box callout"/>
+    <Elem Prompt="中间线批注" Name="中间线批注" PromptU="Middle line callout" NameU="Middle line callout"/>
+    <Elem Prompt="无边框批注" Name="无边框批注" PromptU="Mid text callout" NameU="Mid text callout"/>
+    <Elem Prompt="侧边文本标注" Name="侧边文本标注" PromptU="Side line callout" NameU="Side line callout"/>
+    <Elem Prompt="侧边文本标注" Name="侧边文本标注" PromptU="Side text callout" NameU="Side text callout"/>
+    <Elem Prompt="带边框批注" Name="带边框批注" PromptU="Annotation" NameU="Annotation"/>
+    <Elem Prompt="带文本的大括号" Name="带文本的大括号" PromptU="Braces with text" NameU="Braces with text"/>
+    <Elem Prompt="大括号" Name="大括号" PromptU="Side brace" NameU="Side brace"/>
+    <Elem Prompt="中括号" Name="中括号" PromptU="Side Braket" NameU="Side Braket"/>
+    <Elem Prompt="圆括号" Name="圆括号" PromptU="Side parenthesis" NameU="Side parenthesis"/>
+    <Elem Prompt="标签" Name="标签" PromptU="Tag" NameU="Tag"/>
+    <Elem Prompt="图章" Name="图章" PromptU="Stamp" NameU="Stamp"/>
+    <Elem Prompt="图章" Name="图章" PromptU="Stamp" NameU="Stamp"/>
+    <Elem Prompt="圆形图章" Name="圆形图章" PromptU="Round Stamp" NameU="Round Stamp"/>
+    <Elem Prompt="圈标注" Name="圈标注" PromptU="Circle callout" NameU="Circle callout"/>
+    <Elem Prompt="椭圆形标注" Name="椭圆形标注" PromptU="Oval callout" NameU="Oval callout"/>
+    <Elem Prompt="引用 圆形" Name="引用 圆形" PromptU="Reference circle" NameU="Reference circle"/>
+    <Elem Prompt="引用标注" Name="引用标注" PromptU="Reference callout" NameU="Reference callout"/>
+    <Elem Prompt="引用 六边形" Name="引用 六边形" PromptU="Reference hexagon" NameU="Reference hexagon"/>
+    <Elem Prompt="引用 椭圆形" Name="引用 椭圆形" PromptU="Reference oval" NameU="Reference oval"/>
+    <Elem Prompt="引用 矩形" Name="引用 矩形" PromptU="Reference rectangle" NameU="Reference rectangle"/>
+    <Elem Prompt="引用 三角形" Name="引用 三角形" PromptU="Reference triangle" NameU="Reference triangle"/>
+    <Elem Prompt="注释符号" Name="注释符号" PromptU="Note symbol" NameU="Note symbol"/>
+    <Elem Prompt="列" Name="列" PromptU="Column" NameU="Column"/>
+</Lib>

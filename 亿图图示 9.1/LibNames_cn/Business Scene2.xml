@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Business Scene 2">
+    <Elem NameU="People" Name="人" PromptU="People" Prompt="人"/>
+    <Elem NameU="Meeting" Name="会议" PromptU="Meeting" Prompt="会议"/>
+    <Elem NameU="Global Cooperation" Name="全球合作" PromptU="Global Cooperation" Prompt="全球合作"/>
+    <Elem NameU="Board meeting" Name="董事会议" PromptU="Board meeting" Prompt="董事会议"/>
+    <Elem NameU="Work report" Name="工作报告" PromptU="Work report" Prompt="工作报告"/>
+    <Elem NameU="Late for work" Name="上班迟到" PromptU="Late for work" Prompt="上班迟到"/>
+    <Elem NameU="Overseas call" Name="越洋电话" PromptU="Overseas call" Prompt="越洋电话"/>
+    <Elem NameU="Business travel" Name="出差" PromptU="Business travel" Prompt="出差"/>
+    <Elem NameU="Creative work" Name="创作" PromptU="Creative work" Prompt="创作"/>
+    <Elem NameU="Wifi" Name="无线网络" PromptU="Wifi" Prompt="无线网络"/>
+    <Elem NameU="Speech" Name="演讲" PromptU="Speech" Prompt="演讲"/>
+    <Elem NameU="Fax" Name="传真" PromptU="Fax" Prompt="传真"/>
+    <Elem NameU="Answer the phone" Name="接电话" PromptU="Answer the phone" Prompt="接电话"/>
+    <Elem NameU="Rainy days off work" Name="雨天下班" PromptU="Rainy days off work" Prompt="雨天下班"/>
+    <Elem NameU="Take a taxi" Name="坐出租车" PromptU="Take a taxi" Prompt="坐出租车"/>
+    <Elem NameU="Cross the road" Name="过马路" PromptU="Cross the road" Prompt="过马路"/>
+    <Elem NameU="Spare time" Name="业余时间" PromptU="Spare time" Prompt="业余时间"/>
+    <Elem NameU="Ranking" Name="排名" PromptU="Ranking" Prompt="排名"/>
+    <Elem NameU="Problem Solving" Name="解决问题" PromptU="Problem Solving" Prompt="解决问题"/>
+    <Elem NameU="Global partners" Name="全球合作伙伴" PromptU="Global partners" Prompt="全球合作伙伴"/>
+    <Elem NameU="Pleasant cooperation" Name="合作愉快" PromptU="Pleasant cooperation" Prompt="合作愉快"/>
+    <Elem NameU="Work exchange" Name="业务交流" PromptU="Work exchange" Prompt="业务交流"/>
+    <Elem NameU="Sorting 1" Name="整理1" PromptU="Sorting 1" Prompt="整理1"/>
+    <Elem NameU="Sorting 2" Name="整理2" PromptU="Sorting 2" Prompt="整理2"/>
+    <Elem NameU="Sorting 3" Name="整理3" PromptU="Sorting 3" Prompt="整理3"/>
+    <Elem NameU="How" Name="如何" PromptU="How" Prompt="如何"/>
+    <Elem NameU="Confused" Name="迷惑的" PromptU="Confused" Prompt="迷惑的"/>
+    <Elem NameU="Receive mail" Name="收到邮件" PromptU="Receive mail" Prompt="收到邮件"/>
+    <Elem NameU="Data analysis" Name="数据分析" PromptU="Data analysis" Prompt="数据分析"/>
+    <Elem NameU="Data processing" Name="数据处理" PromptU="Data processing" Prompt="数据处理"/>
+    <Elem NameU="Quality certification" Name="质量认证" PromptU="Quality certification" Prompt="质量认证"/>
+    <Elem NameU="EU" Name="欧盟" PromptU="EU" Prompt="欧盟"/>
+    <Elem NameU="Deadline" Name="截止日期" PromptU="Deadline" Prompt="截止日期"/>
+    <Elem NameU="Announcer" Name="演讲者" PromptU="Announcer" Prompt="演讲者"/>
+    <Elem NameU="Analysis" Name="分析" PromptU="Analysis" Prompt="分析"/>
+    <Elem NameU="Idea" Name="想法" PromptU="Idea" Prompt="想法"/>
+    <Elem NameU="Profit" Name="利润" PromptU="Profit" Prompt="利润"/>
+    <Elem NameU="Search" Name="搜索" PromptU="Search" Prompt="搜索"/>
+    <Elem NameU="Dialogue" Name="对话" PromptU="Dialogue" Prompt="对话"/>
+    <Elem NameU="Bulletin board" Name="布告栏" PromptU="Bulletin board" Prompt="布告栏"/>
+    <Elem NameU="Crisis" Name="危机" PromptU="Crisis" Prompt="危机"/>
+    <Elem NameU="Praise" Name="赞扬" PromptU="Praise" Prompt="赞扬"/>
+    <Elem NameU="Flag" Name="旗" PromptU="Flag" Prompt="旗"/>
+    <Elem NameU="Propaganda" Name="宣传" PromptU="Propaganda" Prompt="宣传"/>
+    <Elem NameU="Announcement" Name="公告" PromptU="Announcement" Prompt="公告"/>
+    <Elem NameU="Cleaning" Name="清洁" PromptU="Cleaning" Prompt="清洁"/>
+    <Elem NameU="Photograph" Name="照片" PromptU="Photograph" Prompt="照片"/>
+    <Elem NameU="Location" Name="定位" PromptU="Location" Prompt="定位"/>
+    <Elem NameU="Mobile calls" Name="移动电话" PromptU="Mobile calls" Prompt="移动电话"/>
+    <Elem NameU="Team" Name="团队" PromptU="Team" Prompt="团队"/>
+</Lib>

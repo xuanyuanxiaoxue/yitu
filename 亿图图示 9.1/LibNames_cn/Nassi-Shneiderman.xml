@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Nassi-Shneiderman">
+    <Elem Prompt="定义或动作" Name="定义或动作" PromptU="Definitions or Actions" NameU="Definitions or Actions"/>
+    <Elem Prompt="定义" Name="定义" PromptU="Decision" NameU="Decision"/>
+    <Elem Prompt="定义(if-then-else)" Name="定义(if-then-else)" PromptU="Decision (if-then-else)" NameU="Decision (if-then-else)"/>
+    <Elem Prompt="定义 2 (if-then-else)" Name="定义 2 (if-then-else)" PromptU="Decision 2 (if-then-else)" NameU="Decision 2 (if-then-else)"/>
+    <Elem Prompt="带步骤的定义" Name="带步骤的定义" PromptU="Decision with Steps" NameU="Decision with Steps"/>
+    <Elem Prompt="带步骤的定义 2" Name="带步骤的定义 2" PromptU="Decision with Steps 2" NameU="Decision with Steps 2"/>
+    <Elem Prompt="带步骤的定义 3" Name="带步骤的定义 3" PromptU="Decision with Step 3" NameU="Decision with Step 3"/>
+    <Elem Prompt="选择 (case)" Name="选择 (case)" PromptU="Selection (case)" NameU="Selection (case)"/>
+    <Elem Prompt="单一步骤" Name="单一步骤" PromptU="Single Step" NameU="Single Step"/>
+    <Elem Prompt="循环 (While)" Name="循环 (While)" PromptU="Iteration (While)" NameU="Iteration (While)"/>
+    <Elem Prompt="重复(Repeat-Until)" Name="重复(Repeat-Until)" PromptU="Iteration (Repeat-Until)" NameU="Iteration (Repeat-Until)"/>
+    <Elem Prompt="框架1" Name="框架1" PromptU="Frame 1" NameU="Frame 1"/>
+    <Elem Prompt="框架2" Name="框架2" PromptU="Frame 2" NameU="Frame 2"/>
+    <Elem Prompt="过程步骤" Name="过程步骤" PromptU="Procedure Steps" NameU="Procedure Steps"/>
+    <Elem Prompt="多个步骤" Name="多个步骤" PromptU="Multiple Steps" NameU="Multiple Steps"/>
+    <Elem Prompt="2D气球文本框" Name="2D气球文本框" PromptU="2-D Word Balloon" NameU="2-D Word Balloon"/>
+</Lib>

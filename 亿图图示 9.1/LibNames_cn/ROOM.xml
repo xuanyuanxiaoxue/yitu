@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="ROOM">
+    <Elem Prompt="参与者类" Name="参与者类" PromptU="Actor Class" NameU="Actor Class"/>
+    <Elem Prompt="参与者引用" Name="参与者引用" PromptU="Actor Reference" NameU="Actor Reference"/>
+    <Elem Prompt="已修改的参与者引用" Name="已修改的参与者引用" PromptU="Modified Actor Ref." NameU="Modified Actor Ref."/>
+    <Elem Prompt="中继端口" Name="中继端口" PromptU="Relay Ports" NameU="Relay Ports"/>
+    <Elem Prompt="终点端口" Name="终点端口" PromptU="End Ports" NameU="End Ports"/>
+    <Elem Prompt="引用端口" Name="引用端口" PromptU="Reference Ports" NameU="Reference Ports"/>
+    <Elem Prompt="绑定" Name="绑定" PromptU="Binding" NameU="Binding"/>
+    <Elem Prompt="层/导出连接" Name="层/导出连接" PromptU="Layer or Export Connections" NameU="Layer or Export Connections"/>
+    <Elem Prompt="状态环境" Name="状态环境" PromptU="State Context" NameU="State Context"/>
+    <Elem Prompt="状态" Name="状态" PromptU="State" NameU="State"/>
+    <Elem Prompt="转换" Name="转换" PromptU="Transition" NameU="Transition"/>
+    <Elem Prompt="文字定义" Name="文字定义" PromptU="Texture Definitions" NameU="Texture Definitions"/>
+    <Elem Prompt="转换点" Name="转换点" PromptU="Transition Points" NameU="Transition Points"/>
+    <Elem Prompt="选择点" Name="选择点" PromptU="Choice Point" NameU="Choice Point"/>
+    <Elem Prompt="转换为过程记录" Name="转换为过程记录" PromptU="Transition to History" NameU="Transition to History"/>
+    <Elem Prompt="组合转换" Name="组合转换" PromptU="Group Transition" NameU="Group Transition"/>
+    <Elem Prompt="内部自转换" Name="内部自转换" PromptU="Internal Self-Transition" NameU="Internal Self-Transition"/>
+</Lib>

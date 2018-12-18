@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Azure Intune">
+    <Elem NameU="Account Portal" Name="用户界面" PromptU="Account Portal" Prompt="用户界面"/>
+    <Elem NameU="Administration" Name="管理" PromptU="Administration" Prompt="管理"/>
+    <Elem NameU="Alerts" Name="警告" PromptU="Alerts" Prompt="警告"/>
+    <Elem NameU="Apps" Name="应用程序" PromptU="Apps" Prompt="应用程序"/>
+    <Elem NameU="Certificate Compliance" Name="证书合规" PromptU="Certificate Compliance" Prompt="证书合规"/>
+    <Elem NameU="Client Software Deployment Wizard" Name="用户软件升级想到" PromptU="Client Software Deployment Wizard" Prompt="用户软件升级向导"/>
+    <Elem NameU="Company Portal" Name="企业操作界面" PromptU="Company Portal" Prompt="企业操作界面"/>
+    <Elem NameU="Computer Inventory" Name="电脑内存" PromptU="Computer Inventory" Prompt="电脑内存"/>
+    <Elem NameU="Conditional Access_Exchange" Name="有限制的文件交换" PromptU="Conditional Access_Exchange" Prompt="有限制的文件交换"/>
+    <Elem NameU="Conditional Access_Sharepoint" Name="有限制的文件共享" PromptU="Conditional Access_Sharepoint" Prompt="有限制的文件共享"/>
+    <Elem NameU="Connector" Name="连通器" PromptU="Connector" Prompt="连通器"/>
+    <Elem NameU="Dashboard" Name="界面" PromptU="Dashboard" Prompt="界面"/>
+    <Elem NameU="Data Migration Wizard" Name="
+数据迁移向导" PromptU="Data Migration Wizard" Prompt="
+数据迁移向导"/>
+    <Elem NameU="Detected Software" Name="检测软件" PromptU="Detected Software" Prompt="检测软件"/>
+    <Elem NameU="Device Group" Name="设备组" PromptU="Device Group" Prompt="设备组"/>
+    <Elem NameU="Device Health" Name="设备健康度" PromptU="Device Health" Prompt="设备健康度"/>
+    <Elem NameU="Device History" Name="设备历史记录" PromptU="Device History" Prompt="设备历史记录"/>
+    <Elem NameU="Device OS" Name="设备OS" PromptU="Device OS" Prompt="设备OS"/>
+    <Elem NameU="End Protection" Name="安全保护" PromptU="End Protection" Prompt="安全保护"/>
+    <Elem NameU="Exchange Connector" Name="交换连通器" PromptU="Exchange Connector" Prompt="交换连通器"/>
+    <Elem NameU="Groups" Name="群组" PromptU="Groups" Prompt="群组"/>
+    <Elem NameU="Hybrid" Name="混合动力" PromptU="Hybrid" Prompt="混合动力"/>
+    <Elem NameU="Intune Certificate Profiles" Name="证书" PromptU="Intune Certificate Profiles" Prompt="证书"/>
+    <Elem NameU="Intune Connector (system center)" Name="连接系统中心" PromptU="Intune Connector (system center)" Prompt="连接系统中心"/>
+    <Elem NameU="Intune Email Profiles" Name="邮件资料" PromptU="Intune Email Profiles" Prompt="邮件资料"/>
+    <Elem NameU="Intune Managed App" Name="应用程序" PromptU="Intune Managed App" Prompt="应用程序"/>
+    <Elem NameU="Intune Mobile Application Management" Name="移动端应用管理" PromptU="Intune Mobile Application Management" Prompt="移动端应用管理"/>
+    <Elem NameU="Intune VPN Profiles" Name="VPN 资料" PromptU="Intune VPN Profiles" Prompt="VPN 资料"/>
+    <Elem NameU="Intune Wi-Fi Profiles" Name="Wi-Fi 资料" PromptU="Intune Wi-Fi Profiles" Prompt="Wi-Fi 资料"/>
+    <Elem NameU="Inventory license" Name="存储证书" PromptU="Inventory license" Prompt="存储证书"/>
+    <Elem NameU="Inventory Software" Name="存储软件" PromptU="Inventory Software" Prompt="存储软件"/>
+    <Elem NameU="License Group" Name="证书组" PromptU="License Group" Prompt="证书组"/>
+    <Elem NameU="License Installation" Name="证书安装" PromptU="License Installation" Prompt="证书安装"/>
+    <Elem NameU="Microsoft Intune" Name="微软Intune" PromptU="Microsoft Intune" Prompt="微软Intune"/>
+    <Elem NameU="Mobile Inventory" Name="手机内存" PromptU="Mobile Inventory" Prompt="手机内存"/>
+    <Elem NameU="Noncompliant Apps" Name="不兼容的应用" PromptU="Noncompliant Apps" Prompt="不兼容的应用"/>
+    <Elem NameU="Policy" Name="法规" PromptU="Policy" Prompt="法规"/>
+    <Elem NameU="Protection" Name="保护" PromptU="Protection" Prompt="保护"/>
+    <Elem NameU="Reports" Name="报告" PromptU="Reports" Prompt="报告"/>
+    <Elem NameU="Settings" Name="设置" PromptU="Settings" Prompt="设置"/>
+    <Elem NameU="Subscription Portal" Name="订阅平台" PromptU="Subscription Portal" Prompt="订阅平台"/>
+    <Elem NameU="Terms And Conditions" Name="条款和条例" PromptU="Terms And Conditions" Prompt="条款和条例"/>
+    <Elem NameU="Update" Name="更新" PromptU="Update" Prompt="更新"/>
+    <Elem NameU="User group" Name="用户群组" PromptU="User group" Prompt="用户群组"/>
+    <Elem NameU="User Management" Name="用户管理" PromptU="User Management" Prompt="用户管理"/>
+</Lib>

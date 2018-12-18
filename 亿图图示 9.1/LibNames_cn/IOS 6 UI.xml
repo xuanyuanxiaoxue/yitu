@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="IOS 6 UI">
+    <Elem Prompt="横放iPhone 4 S" Name="横放iPhone 4 S" PromptU="Horizontal iPhone 4 S" NameU="Horizontal iPhone 4 S"/>
+    <Elem Prompt="iPhone 4 S" Name="iPhone 4 S" PromptU="iPhone 4 S" NameU="iPhone 4 S"/>
+    <Elem Prompt="横放iPhone 5" Name="横放iPhone 5" PromptU="Horizontal iPhone 5" NameU="Horizontal iPhone 5"/>
+    <Elem Prompt="iPhone 5" Name="iPhone 5" PromptU="iPhone 5" NameU="iPhone 5"/>
+    <Elem Prompt="状态栏" Name="状态栏" PromptU="Status Bar" NameU="Status Bar"/>
+    <Elem Prompt="渐变导航栏，你可以改变它的颜色。" Name="导航栏" PromptU="Gradient navigation bar, you can change its color." NameU="Navigation Bar"/>
+    <Elem Prompt="你可以改变它的颜色" Name="工具栏" PromptU="You can change its color." NameU="Tool Bar"/>
+    <Elem Prompt="文本" Name="文本" PromptU="Text" NameU="Text"/>
+    <Elem Prompt="小文本" Name="小文本" PromptU="Small Text" NameU="Small Text"/>
+    <Elem Prompt="文本框" Name="文本框" PromptU="Text Box" NameU="Text Box"/>
+    <Elem Prompt="文本框" Name="文本框 2" PromptU="Text Box" NameU="Text Box 2"/>
+    <Elem Prompt="尖按钮" Name="尖按钮" PromptU="Pointy Button" NameU="Pointy Button"/>
+    <Elem Prompt="按钮" Name="按钮" PromptU="Button" NameU="Button"/>
+    <Elem Prompt="矩形文本框" Name="矩形文本框" PromptU="Rectangle Text Button" NameU="Rectangle Text Button"/>
+    <Elem Prompt="双按钮控制" Name="双按钮控制" PromptU="Two Buttons Control" NameU="Two Buttons Control"/>
+    <Elem Prompt="三按钮控制" Name="三按钮控制" PromptU="Three Buttons Control" NameU="Three Buttons Control"/>
+    <Elem Prompt="带箭头双按钮" Name="带箭头双按钮" PromptU="Two Buttons With Arrow" NameU="Two Buttons With Arrow"/>
+    <Elem Prompt="带箭头三按钮" Name="带箭头三按钮" PromptU="Three Buttons With Arrow" NameU="Three Buttons With Arrow"/>
+    <Elem Prompt="文本域" Name="文本域" PromptU="Text Field" NameU="Text Field"/>
+    <Elem Prompt="Url 字段" Name="Url 字段" PromptU="Url Field" NameU="Url Field"/>
+    <Elem Prompt="搜索框" Name="搜索框" PromptU="Search Box" NameU="Search Box"/>
+    <Elem Prompt="通/断开关" Name="通/断开关" PromptU="On/Off Switch" NameU="On/Off Switch"/>
+    <Elem Prompt="通/断开关" Name="通/断开关 2" PromptU="On/Off Switch" NameU="On/Off Switch 2"/>
+    <Elem Prompt="App 图标" Name="App 图标" PromptU="App Icon" NameU="App Icon"/>
+    <Elem Prompt="中等App图标" Name="中等App图标" PromptU="Middle App Icon" NameU="Middle App Icon"/>
+    <Elem Prompt="小App图标" Name="小App图标" PromptU="Small App Icon" NameU="Small App Icon"/>
+    <Elem Prompt="文本块" Name="文本块" PromptU="Block" NameU="Block"/>
+    <Elem Prompt="圆角矩形" Name="圆角矩形" PromptU="Rounded Rect" NameU="Rounded Rect"/>
+    <Elem Prompt="弹出消息框" Name="弹出消息框" PromptU="Popup Message Box" NameU="Popup Message Box"/>
+    <Elem Prompt="滑块" Name="滑块" PromptU="Slider" NameU="Slider"/>
+    <Elem Prompt="滑块" Name="滑块 2" PromptU="Slider" NameU="Slider 2"/>
+    <Elem Prompt="进度条" Name="进度条 2" PromptU="Progress Bar" NameU="Progress Bar 2"/>
+    <Elem Prompt="进度条" Name="进度条" PromptU="Progress Bar" NameU="Progress Bar"/>
+    <Elem Prompt="点击浮动按钮改变菜单栏外观。" Name="基本菜单栏" PromptU="Click floating button to change menu bar appearance." NameU="Basic Menu Bar"/>
+    <Elem Prompt="点击浮动按钮改变菜单栏外观。" Name="菜单栏" PromptU="Click floating button to change menu bar appearance." NameU="Menu Bar"/>
+    <Elem Prompt="点击浮动按钮改变菜单栏外观。" Name="菜单栏 2" PromptU="Click floating button to change menu bar appearance." NameU="Menu Bar 2"/>
+    <Elem Prompt="点击浮动按钮改变菜单栏外观。" Name="菜单栏 3" PromptU="Click floating button to change menu bar appearance." NameU="Menu Bar 3"/>
+    <Elem Prompt="点击浮动按钮改变菜单栏外观。" Name="菜单栏 4" PromptU="Click floating button to change menu bar appearance." NameU="Menu Bar 4"/>
+    <Elem Prompt="键盘控制" Name="键盘控制" PromptU="Keyboard Control" NameU="Keyboard Control"/>
+    <Elem Prompt="键盘" Name="数字键盘" PromptU="Keyboard" NameU="Number Keyboard"/>
+    <Elem Prompt="警告" Name="警告" PromptU="Alert" NameU="Alert"/>
+    <Elem Prompt="双按钮警告" Name="双按钮警告" PromptU="Two buttons alert" NameU="Two Buttons Alert"/>
+    <Elem Prompt="时间选择工具" Name="时间选择工具" PromptU="Time Picker" NameU="Time Picker"/>
+    <Elem Prompt="消息框" Name="消息框" PromptU="Message Box" NameU="Message Box"/>
+    <Elem Prompt="消息框" Name="消息框2" PromptU="Message Box" NameU="Message Box 2"/>
+    <Elem Prompt="语音信息" Name="语音信息" PromptU="Voice Message" NameU="Voice Message"/>
+    <Elem Prompt="语音信息" Name="语音信息 2" PromptU="Voice Message" NameU="Voice Message 2"/>
+    <Elem Prompt="文本选择框" Name="文本选择框" PromptU="Text Selection Frame" NameU="Text Selection Frame"/>
+    <Elem Prompt="选择框" Name="选择框" PromptU="Selection Frame" NameU="Selection Frame"/>
+    <Elem Prompt="徽章" Name="徽章" PromptU="Badge" NameU="Badge"/>
+    <Elem Prompt="徽章" Name="徽章 2" PromptU="Badge" NameU="Badge 2"/>
+    <Elem Prompt="复选框" Name="复选框" PromptU="Checkbox" NameU="Checkbox"/>
+    <Elem Prompt="单选钮" Name="单选钮" PromptU="Radio Button" NameU="Radio Button"/>
+    <Elem Prompt="删除" Name="删除" PromptU="Delete" NameU="Delete"/>
+    <Elem Prompt="语音" Name="语音" PromptU="Voice" NameU="Voice"/>
+    <Elem Prompt="刷新" Name="刷新" PromptU="Refresh" NameU="Refresh"/>
+</Lib>

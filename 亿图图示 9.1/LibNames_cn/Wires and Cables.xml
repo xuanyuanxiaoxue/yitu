@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Wires and Cables">
+    <Elem Prompt="添加剂注入系统" Name="添加剂注入系统" PromptU="Additive injection system" NameU="Additive injection system"/>
+    <Elem Prompt="包装机" Name="包装机" PromptU="Baling press" NameU="Baling press"/>
+    <Elem Prompt="线圈" Name="线圈" PromptU="Coil" NameU="Coil"/>
+    <Elem Prompt="挤出机" Name="挤出机" PromptU="Extruder" NameU="Extruder"/>
+    <Elem Prompt="增压泵 1" Name="增压泵 1" PromptU="Extrusion booster pump" NameU="Extrusion booster pump"/>
+    <Elem Prompt="卧式捆扎机" Name="卧式捆扎机" PromptU="Horizontal baler (slate blue)" NameU="Horizontal baler (slate blue)"/>
+    <Elem Prompt="增压泵 1" Name="增压泵 1" PromptU="Extrusion booster pump" NameU="Extrusion booster pump"/>
+    <Elem Prompt="挤出机 2" Name="挤出机 2" PromptU="Simple extruder" NameU="Simple extruder"/>
+    <Elem Prompt="线码垛机" Name="线码垛机" PromptU="Simple wire stacker" NameU="Simple wire stacker"/>
+    <Elem Prompt="剥线机" Name="剥线机" PromptU="Simple wire stripper" NameU="Simple wire stripper"/>
+    <Elem Prompt="绕线盘 1" Name="绕线盘 1" PromptU="Wire spool 1" NameU="Wire spool 1"/>
+    <Elem Prompt="绕线盘 2" Name="绕线盘 2" PromptU="Wire spool 2" NameU="Wire spool 2"/>
+    <Elem Prompt="木制线盘" Name="木制线盘" PromptU="Wooden spool" NameU="Wooden spool"/>
+</Lib>

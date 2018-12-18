@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="HVAC Controls Equipment">
+    <Elem Prompt="导管" Name="导管" PromptU="Duct" NameU="Duct"/>
+    <Elem Prompt="回风管" Name="回风管" PromptU="Return duct" NameU="Return duct"/>
+    <Elem Prompt="回风管 2" Name="回风管 2" PromptU="Return duct 2" NameU="Return duct 2"/>
+    <Elem Prompt="供气风管" Name="供气风管" PromptU="Supply duct" NameU="Supply duct"/>
+    <Elem Prompt="供气风管 2" Name="供气风管 2" PromptU="Supply duct 2" NameU="Supply duct 2"/>
+    <Elem Prompt="2扇区" Name="2扇区" PromptU="2-fan sections" NameU="2-fan sections"/>
+    <Elem Prompt="3扇区" Name="3扇区" PromptU="3-fan sections" NameU="3-fan sections"/>
+    <Elem Prompt="4扇区" Name="4扇区" PromptU="4-fan sections" NameU="4-fan sections"/>
+    <Elem Prompt="横向管" Name="横向管" PromptU="Side to side pipe" NameU="Side to side pipe"/>
+    <Elem Prompt="竖向管" Name="竖向管" PromptU="Top to bottom pipe" NameU="Top to bottom pipe"/>
+    <Elem Prompt="垂直管道" Name="垂直管道" PromptU="Side to bottom pipe" NameU="Side to bottom pipe"/>
+    <Elem Prompt="管道流向箭头" Name="管道流向箭头" PromptU="Pipe flow arrow" NameU="Pipe flow arrow"/>
+    <Elem Prompt="变风量末端装置" Name="变风量末端装置" PromptU="VAV box" NameU="VAV box"/>
+    <Elem Prompt="DD 变风量空调箱" Name="DD 变风量空调箱" PromptU="DD VAV box" NameU="DD VAV box"/>
+    <Elem Prompt="风机盘管壳" Name="风机盘管壳" PromptU="Fain coil housing" NameU="Fain coil housing"/>
+    <Elem Prompt="单体式供暖机组" Name="单体式供暖机组" PromptU="Unit heater" NameU="Unit heater"/>
+    <Elem Prompt="离心式风扇" Name="离心式风扇" PromptU="Centrifugal fan" NameU="Centrifugal fan"/>
+    <Elem Prompt="螺旋桨式风扇" Name="螺旋桨式风扇" PromptU="Propeller fan" NameU="Propeller fan"/>
+    <Elem Prompt="轴流风机" Name="轴流风机" PromptU="Vane axial fan" NameU="Vane axial fan"/>
+    <Elem Prompt="减震器" Name="减震器" PromptU="Damper" NameU="Damper"/>
+    <Elem Prompt="过滤器" Name="过滤器" PromptU="Filter" NameU="Filter"/>
+    <Elem Prompt="空气流站" Name="空气流站" PromptU="Air flow station" NameU="Air flow station"/>
+    <Elem Prompt="空气流站" Name="空气流站" PromptU="Humidifier" NameU="Humidifier"/>
+    <Elem Prompt="高温凝胶/轻型导弹巡洋舰线圈" Name="高温凝胶/轻型导弹巡洋舰线圈" PromptU="Htg/clg coil" NameU="Htg/clg coil"/>
+    <Elem Prompt="泵" Name="泵" PromptU="Pump" NameU="Pump"/>
+    <Elem Prompt="阀" Name="阀" PromptU="Valve" NameU="Valve"/>
+    <Elem Prompt="闸门阀" Name="闸门阀" PromptU="Gate valve" NameU="Gate valve"/>
+    <Elem Prompt="流量表" Name="流量表" PromptU="Water flow meter" NameU="Water flow meter"/>
+    <Elem Prompt="冷却装置" Name="冷却装置" PromptU="Chiller" NameU="Chiller"/>
+    <Elem Prompt="冷却塔" Name="冷却塔" PromptU="Cooling tower" NameU="Cooling tower"/>
+    <Elem Prompt="锅炉" Name="锅炉" PromptU="Boiler" NameU="Boiler"/>
+    <Elem Prompt="设备" Name="设备" PromptU="Equipment" NameU="Equipment"/>
+    <Elem Prompt="VSD" Name="VSD" PromptU="VSD" NameU="VSD"/>
+    <Elem Prompt="开始" Name="开始" PromptU="Start" NameU="Start"/>
+</Lib>

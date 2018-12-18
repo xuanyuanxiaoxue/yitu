@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PERT Chart Shapes">
+    <Elem Prompt="PERT 1" Name="PERT 1" PromptU="PERT 1" NameU="PERT 1"/>
+    <Elem Prompt="PERT 2" Name="PERT 2" PromptU="PERT 2" NameU="PERT 2"/>
+    <Elem Prompt="PERT 3" Name="PERT 3" PromptU="PERT 3" NameU="PERT 3"/>
+    <Elem Prompt="图例" Name="图例" PromptU="Legend" NameU="Legend"/>
+    <Elem Prompt="所有方向可调标注" Name="标注" PromptU="Balloon with all directions" NameU="Balloon"/>
+    <Elem Prompt="球形标注" Name="球形标注" PromptU="Balloon Horizontal Callout" NameU="Balloon Horizontal Callout"/>
+    <Elem Prompt="线条标注" Name="线条标注" PromptU="Line Callout" NameU="Line Callout"/>
+    <Elem Prompt="动态连接线" Name="动态连接线" PromptU="Right Angle Connector" NameU="Right Angle Connector"/>
+    <Elem Prompt="弧形连接线" Name="弧形连接线" PromptU="Dynamical Connector" NameU="Dynamical Connector"/>
+    <Elem Prompt="直线连接线" Name="直线连接线" PromptU="Line Connector" NameU="Line Connector"/>
+    <Elem Prompt="工程" Name="工程" PromptU="Project" NameU="Project"/>
+    <Elem Prompt="阶段" Name="阶段" PromptU="Phase" NameU="Phase"/>
+    <Elem Prompt="节点" Name="节点" PromptU="Node" NameU="Node"/>
+    <Elem Prompt="开始/结束" Name="开始/结束" PromptU="Start / End" NameU="Start / End"/>
+    <Elem Prompt="任务" Name="任务" PromptU="Task" NameU="Task"/>
+    <Elem Prompt="高光工程" Name="高光工程" PromptU="Highlight Project" NameU="Highlight Project"/>
+    <Elem Prompt="高光阶段" Name="高光阶段" PromptU="Highlight Phase" NameU="Highlight Phase"/>
+    <Elem Prompt="高光阶段" Name="高光阶段" PromptU="Highlight Node" NameU="Highlight Node"/>
+    <Elem Prompt="高光开始/结束" Name="高光开始/结束" PromptU="Highlight Start / End" NameU="Highlight Start / End"/>
+    <Elem Prompt="高光任务" Name="高光任务" PromptU="Highlight Task" NameU="Highlight Task"/>
+    <Elem Prompt="条状图例" Name="条状图例" PromptU="legend Single Line" NameU="legend Single Line"/>
+</Lib>

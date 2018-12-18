@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="GCP Developer Tools">
+    <Elem NameU="Cloud Deployment Manager" Name="云端升级管理" PromptU="Cloud Deployment Manager" Prompt="云端升级管理"/>
+    <Elem NameU="Generic GCP" Name="通用 GCP" PromptU="Generic GCP" Prompt="通用 GCP"/>
+    <Elem NameU="Cloud Tools for PowerShell" Name="云端工具 PowerShell" PromptU="Cloud Tools for PowerShell" Prompt="云端工具 PowerShell"/>
+    <Elem NameU="Container Builder" Name="建设管理器" PromptU="Container Builder" Prompt="建设管理器"/>
+    <Elem NameU="Container Registry" Name="注册管理器" PromptU="Container Registry" Prompt="注册管理器"/>
+</Lib>

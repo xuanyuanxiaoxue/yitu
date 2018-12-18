@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="List Shapes">
+    <Elem Prompt="数字列表" Name="数字列表" PromptU="Number List" NameU="Number List"/>
+    <Elem Prompt="垂直列表" Name="垂直列表" PromptU="Vertical List" NameU="Vertical List"/>
+    <Elem Prompt="垂直列表 2" Name="垂直列表 2" PromptU="Vertical List" NameU="Vertical List 2"/>
+    <Elem Prompt="基本列表" Name="基本列表" PromptU="Basic List" NameU="Basic List"/>
+    <Elem Prompt="基本列表 2" Name="基本列表 2" PromptU="Basic List 2" NameU="Basic List 2"/>
+    <Elem Prompt="基本列表" Name="基本列表 3" PromptU="Basic List" NameU="Basic List 3"/>
+    <Elem Prompt="多样列表" Name="多样列表" PromptU="Multi-Style List" NameU="Multi-Style List"/>
+    <Elem Prompt="多样列表" Name="多样列表" PromptU="Multi-Style List" NameU="Multi-Style List"/>
+    <Elem Prompt="列表" Name="列表" PromptU="List" NameU="List"/>
+    <Elem Prompt="列表" Name="列表" PromptU="List" NameU="List"/>
+    <Elem Prompt="列表" Name="列表" PromptU="List" NameU="List"/>
+    <Elem Prompt="列表" Name="列表" PromptU="List" NameU="List"/>
+    <Elem Prompt="列表" Name="列表" PromptU="List" NameU="List"/>
+    <Elem Prompt="列表" Name="列表" PromptU="List" NameU="List"/>
+    <Elem Prompt="列表" Name="列表" PromptU="List" NameU="List"/>
+    <Elem Prompt="列表" Name="列表" PromptU="List" NameU="List"/>
+    <Elem Prompt="列表" Name="列表" PromptU="List" NameU="List"/>
+    <Elem Prompt="列表" Name="列表" PromptU="List" NameU="List"/>
+    <Elem Prompt="列表" Name="列表" PromptU="List" NameU="List"/>
+    <Elem Prompt="列表" Name="列表" PromptU="List" NameU="List"/>
+    <Elem Prompt="列表" Name="列表" PromptU="List" NameU="List"/>
+    <Elem Prompt="列表" Name="列表" PromptU="List" NameU="List"/>
+    <Elem Prompt="列表" Name="列表" PromptU="List" NameU="List"/>
+    <Elem Prompt="列表" Name="列表" PromptU="List" NameU="List"/>
+    <Elem Prompt="列表" Name="列表" PromptU="List" NameU="List"/>
+    <Elem Prompt="列表" Name="列表" PromptU="List" NameU="List"/>
+    <Elem Prompt="列表" Name="列表" PromptU="List" NameU="List"/>
+    <Elem Prompt="列表" Name="列表" PromptU="List" NameU="List"/>
+    <Elem Prompt="列表" Name="列表" PromptU="List" NameU="List"/>
+    <Elem Prompt="列表" Name="列表" PromptU="List" NameU="List"/>
+    <Elem Prompt="列表" Name="列表" PromptU="List" NameU="List"/>
+    <Elem Prompt="列表" Name="列表" PromptU="List" NameU="List"/>
+    <Elem Prompt="列表" Name="列表" PromptU="List" NameU="List"/>
+    <Elem Prompt="列表" Name="列表" PromptU="List" NameU="List"/>
+    <Elem Prompt="列表" Name="列表" PromptU="List" NameU="List"/>
+    <Elem Prompt="列表" Name="列表" PromptU="List" NameU="List"/>
+    <Elem Prompt="列表" Name="列表" PromptU="List" NameU="List"/>
+    <Elem Prompt="列表" Name="列表" PromptU="List" NameU="List"/>
+    <Elem Prompt="列表" Name="列表" PromptU="List" NameU="List"/>
+    <Elem Prompt="列表" Name="列表" PromptU="List" NameU="List"/>
+    <Elem Prompt="列表" Name="列表" PromptU="List" NameU="List"/>
+    <Elem Prompt="列表" Name="列表" PromptU="List" NameU="List"/>
+    <Elem Prompt="列表" Name="列表" PromptU="List" NameU="List"/>
+    <Elem Prompt="列表" Name="列表" PromptU="List" NameU="List"/>
+    <Elem Prompt="列表" Name="列表" PromptU="List" NameU="List"/>
+    <Elem Prompt="列表" Name="列表" PromptU="List" NameU="List"/>
+    <Elem Prompt="列表" Name="列表" PromptU="List" NameU="List"/>
+    <Elem Prompt="列表" Name="列表" PromptU="List" NameU="List"/>
+    <Elem Prompt="列表" Name="列表" PromptU="List" NameU="List"/>
+    <Elem Prompt="列表带图片" Name="列表" PromptU="List with image" NameU="List"/>
+    <Elem Prompt="列表带图片" Name="列表" PromptU="List with image" NameU="List"/>
+    <Elem Prompt="列表带图片" Name="列表" PromptU="List with image" NameU="List"/>
+</Lib>

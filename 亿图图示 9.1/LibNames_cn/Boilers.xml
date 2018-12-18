@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Boilers">
+    <Elem Prompt="锅炉" Name="锅炉" PromptU="Boiler" NameU="Boiler"/>
+    <Elem Prompt="锅炉 2" Name="锅炉 2" PromptU="Boiler 2" NameU="Boiler 2"/>
+    <Elem Prompt="锅炉 3" Name="锅炉 3" PromptU="Boiler 3" NameU="Boiler 3"/>
+    <Elem Prompt="锅炉 4" Name="锅炉 4" PromptU="Boiler 4" NameU="Boiler 4"/>
+    <Elem Prompt="锅炉 5" Name="锅炉 5" PromptU="Boiler 5" NameU="Boiler 5"/>
+    <Elem Prompt="锅炉 6" Name="锅炉 6" PromptU="Boiler 6" NameU="Boiler 6"/>
+    <Elem Prompt="锅炉 7" Name="锅炉 7" PromptU="Boiler 7" NameU="Boiler 7"/>
+    <Elem Prompt="锅炉 8" Name="锅炉 8" PromptU="Boiler 8" NameU="Boiler 8"/>
+    <Elem Prompt="锅炉 9" Name="锅炉 9" PromptU="Boiler 9" NameU="Boiler 9"/>
+    <Elem Prompt="锅炉 10" Name="锅炉 10" PromptU="Boiler 10" NameU="Boiler 10"/>
+    <Elem Prompt="锅炉 11" Name="锅炉 11" PromptU="Boiler 11" NameU="Boiler 11"/>
+    <Elem Prompt="锅炉 12" Name="锅炉 12" PromptU="Boiler 12" NameU="Boiler 12"/>
+    <Elem Prompt="锅炉 13" Name="锅炉 13" PromptU="Boiler 13" NameU="Boiler 13"/>
+    <Elem Prompt="锅炉 14" Name="锅炉 14" PromptU="Boiler 14" NameU="Boiler 14"/>
+    <Elem Prompt="火焰管道式锅炉" Name="火焰管道式锅炉" PromptU="Boiler with flames and pipe" NameU="Boiler with flames and pipe"/>
+    <Elem Prompt="有火焰的锅炉符号" Name="有火焰的锅炉符号" PromptU="Boiler with flames" NameU="Boiler with flames"/>
+    <Elem Prompt="火焰式锅炉" Name="火焰式锅炉" PromptU="Boiler with small fire" NameU="Boiler with small fire"/>
+    <Elem Prompt="鼓风炉" Name="鼓风炉" PromptU="Blast furnace" NameU="Blast furnace"/>
+    <Elem Prompt="电动热水和蒸汽锅炉" Name="电动热水和蒸汽锅炉" PromptU="Electric hot water and steam boiler" NameU="Electric hot water and steam boiler"/>
+    <Elem Prompt="锅炉控制" Name="锅炉控制" PromptU="Boiler control" NameU="Boiler control"/>
+    <Elem Prompt="火室锅炉" Name="火室锅炉" PromptU="Firebox boiler" NameU="Firebox boiler"/>
+    <Elem Prompt="加热炉" Name="加热炉" PromptU="Heating furnace" NameU="Heating furnace"/>
+    <Elem Prompt="热风加热器" Name="热风加热器" PromptU="Hot blast heater" NameU="Hot blast heater"/>
+    <Elem Prompt="低排放锅炉" Name="低排放锅炉" PromptU="Low emission boiler" NameU="Low emission boiler"/>
+    <Elem Prompt="锅炉符号" Name="锅炉符号" PromptU="Boiler symbol" NameU="Boiler symbol"/>
+    <Elem Prompt="火室" Name="火室" PromptU="Firebox" NameU="Firebox"/>
+    <Elem Prompt="可调水管式锅炉" Name="可调水管式锅炉" PromptU="Flexible water tube boiler" NameU="Flexible water tube boiler"/>
+    <Elem Prompt="燃油锅炉" Name="燃油锅炉" PromptU="Oil fired boiler" NameU="Oil fired boiler"/>
+    <Elem Prompt="包装火管锅炉" Name="包装火管锅炉" PromptU="Packaged firetube boiler" NameU="Packaged firetube boiler"/>
+    <Elem Prompt="脉动燃烧加热炉" Name="脉动燃烧加热炉" PromptU="Pulse combustion boiler" NameU="Pulse combustion boiler"/>
+    <Elem Prompt="橇装锅炉" Name="橇装锅炉" PromptU="Skid-mounted boiler" NameU="Skid-mounted boiler"/>
+    <Elem Prompt="蒸汽锅炉" Name="蒸汽锅炉" PromptU="Steam boiler" NameU="Steam boiler"/>
+    <Elem Prompt="过热器" Name="过热器" PromptU="Superheater" NameU="Superheater"/>
+</Lib>

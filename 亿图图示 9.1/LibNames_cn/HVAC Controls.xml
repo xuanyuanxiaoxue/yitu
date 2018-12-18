@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="HVAC Controls">
+    <Elem Prompt="温度" Name="温度" PromptU="Temperature" NameU="Temperature"/>
+    <Elem Prompt="湿度" Name="湿度" PromptU="Humidity" NameU="Humidity"/>
+    <Elem Prompt="热函" Name="热函" PromptU="Enthalpy" NameU="Enthalpy"/>
+    <Elem Prompt="压力" Name="压力" PromptU="Pressure" NameU="Pressure"/>
+    <Elem Prompt="流量" Name="流量" PromptU="Flow" NameU="Flow"/>
+    <Elem Prompt="速率" Name="速率" PromptU="Velocity" NameU="Velocity"/>
+    <Elem Prompt="电压" Name="电压" PromptU="Voltage" NameU="Voltage"/>
+    <Elem Prompt="电流" Name="电流" PromptU="Current" NameU="Current"/>
+    <Elem Prompt="旋转" Name="旋转" PromptU="Rotation" NameU="Rotation"/>
+    <Elem Prompt="灯" Name="灯" PromptU="Light" NameU="Light"/>
+    <Elem Prompt="振动" Name="振动" PromptU="Vibration" NameU="Vibration"/>
+    <Elem Prompt="定时器" Name="定时器" PromptU="Timer" NameU="Timer"/>
+    <Elem Prompt="电流" Name="电流" PromptU="Current" NameU="Current"/>
+    <Elem Prompt="功率" Name="功率" PromptU="Power" NameU="Power"/>
+    <Elem Prompt="空气质量" Name="空气质量" PromptU="Air quality" NameU="Air quality"/>
+    <Elem Prompt="水平" Name="水平" PromptU="Level" NameU="Level"/>
+    <Elem Prompt="终端开关" Name="终端开关" PromptU="End switch" NameU="End switch"/>
+    <Elem Prompt="烟" Name="烟" PromptU="Smoke" NameU="Smoke"/>
+    <Elem Prompt="电源接头" Name="电源接头" PromptU="Power connection" NameU="Power connection"/>
+    <Elem Prompt="I / O点" Name="I / O点" PromptU="I/O point" NameU="I/O point"/>
+    <Elem Prompt="促动器" Name="促动器" PromptU="Actuator" NameU="Actuator"/>
+    <Elem Prompt="连接线" Name="连接线" PromptU="Connector line" NameU="Connector line"/>
+    <Elem Prompt="标注" Name="标注" PromptU="Label" NameU="Label"/>
+</Lib>

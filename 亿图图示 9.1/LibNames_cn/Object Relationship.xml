@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Object Relationship">
+    <Elem Prompt="实体" Name="实体" PromptU="Entity" NameU="Entity"/>
+    <Elem Prompt="关系" Name="关系" PromptU="Relationship" NameU="Relationship"/>
+    <Elem Prompt="视图" Name="视图" PromptU="View" NameU="View"/>
+    <Elem Prompt="父表与类别" Name="父表与类别" PromptU="Parent to category" NameU="Parent to category"/>
+    <Elem Prompt="类别" Name="类别" PromptU="Category" NameU="Category"/>
+    <Elem Prompt="数据存储" Name="数据存储" PromptU="Data store" NameU="Data store"/>
+    <Elem Prompt="类别与子表" Name="类别与子表" PromptU="Category to child" NameU="Category to child"/>
+    <Elem Prompt="表继承" Name="表继承" PromptU="Table inheritance" NameU="Table inheritance"/>
+    <Elem Prompt="类型" Name="类型" PromptU="Type" NameU="Type"/>
+    <Elem Prompt="类型继承" Name="类型继承" PromptU="Type inheritance" NameU="Type inheritance"/>
+    <Elem Prompt="动态连接线" Name="动态连接线" PromptU="Dynamic connector" NameU="Dynamic connector"/>
+</Lib>

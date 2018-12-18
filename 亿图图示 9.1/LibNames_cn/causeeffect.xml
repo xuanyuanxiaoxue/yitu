@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Cause and Effect Diagram">
+    <Elem Prompt="鱼骨框架" Name="鱼骨框架" PromptU="Fish frame" NameU="Fish frame"/>
+    <Elem Prompt="鱼骨" Name="鱼骨" PromptU="Fishbone" NameU="Fishbone"/>
+    <Elem Prompt="鱼骨 2" Name="鱼骨 2" PromptU="Fishbone 2" NameU="Fishbone 2"/>
+    <Elem Prompt="鱼骨 3" Name="鱼骨 3" PromptU="Fishbone 3" NameU="Fishbone 3"/>
+    <Elem Prompt="主线" Name="主线" PromptU="Thick Mainframe" NameU="Thick Mainframe"/>
+    <Elem Prompt="效果" Name="效果" PromptU="Effect" NameU="Effect"/>
+    <Elem Prompt="类别" Name="类别" PromptU="Category" NameU="Category"/>
+    <Elem Prompt="类别" Name="类别 2" PromptU="Category" NameU="Category 2"/>
+    <Elem Prompt="矩形类别" Name="矩形类别" PromptU="Rectangle category" NameU="Rectangle Category"/>
+    <Elem Prompt="矩形类别" Name="矩形类别 2" PromptU="Rectangle category" NameU="Rectangle Category 2"/>
+    <Elem Prompt="椭圆类别" Name="椭圆类别" PromptU="Elliptical Category" NameU="Elliptical Category"/>
+    <Elem Prompt="椭圆类别" Name="椭圆类别2" PromptU="Elliptical Category" NameU="Elliptical Category 2"/>
+    <Elem Prompt="第一层原因" Name="第一层原因" PromptU="Primary cause" NameU="Primary Cause"/>
+    <Elem Prompt="第一层原因右侧" Name="第一层原因 2" PromptU="Primary cause right side" NameU="Primary Cause 2"/>
+    <Elem Prompt="第二层原因" Name="第二层原因" PromptU="Secondary cause" NameU="Secondary Cause"/>
+    <Elem Prompt="第二层原因" Name="第二层原因 2" PromptU="Secondary cause" NameU="Secondary Cause 2"/>
+    <Elem Prompt="第二层原因" Name="第二层原因 3" PromptU="Secondary cause" NameU="Secondary Cause 3"/>
+    <Elem Prompt="第二层原因" Name="第二层原因 4" PromptU="Secondary cause" NameU="Secondary Cause 4"/>
+    <Elem Prompt="第二层原因" Name="第二层原因 5" PromptU="Secondary cause" NameU="Secondary Cause 5"/>
+    <Elem Prompt="第二层原因" Name="第二层原因 6" PromptU="Secondary cause" NameU="Secondary Cause 6"/>
+    <Elem Prompt="椭圆" Name="椭圆" PromptU="Ellipse" NameU="Ellipse"/>
+    <Elem Prompt="矩形" Name="矩形" PromptU="Rectangle" NameU="Rectangle"/>
+	<Elem Prompt="节点" Name="节点" PromptU="Fishbone Node" NameU="Fishbone Node"/>
+</Lib>

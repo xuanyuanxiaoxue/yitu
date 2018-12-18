@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Cross Functional Horizontal">
+    <Elem Prompt="标题栏" Name="标题栏" PromptU="Title" NameU="Title"/>
+    <Elem Prompt="标题栏" Name="标题栏 2" PromptU="Title 2" NameU="Title 2"/>
+    <Elem Prompt="标题栏" Name="标题栏 3" PromptU="Title 3" NameU="Title 3"/>
+    <Elem Prompt="标题栏" Name="标题栏 4" PromptU="Title 4" NameU="Title 4"/>
+    <Elem Prompt="泳道" Name="泳道" PromptU="Functional band" NameU="Functional band"/>
+    <Elem Prompt="空心泳道" Name="空心泳道" PromptU="Hollow Band" NameU="Hollow Band"/>
+    <Elem Prompt="分隔符" Name="分隔符" PromptU="Separator" NameU="Separator"/>
+    <Elem Prompt="动态泳道形状" Name="动态泳道形状" PromptU="Dynamic Band" NameU="Dynamic Band"/>
+    <Elem Prompt="空心动态泳道" Name="空心动态泳道" PromptU="Hollow Dynamic Band" NameU="Hollow Dynamic Band"/>
+    <Elem Prompt="描述" Name="描述" PromptU="Description" NameU="Description"/>
+</Lib>

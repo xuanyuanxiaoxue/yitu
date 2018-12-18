@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Equipment - Peripheral">
+    <Elem Prompt="冲击式分离机" Name="冲击式分离机" PromptU="Impact separator" NameU="Impact separator"/>
+    <Elem Prompt="重力分离器" Name="重力分离器" PromptU="Gravity Separator" NameU="Gravity Separator"/>
+    <Elem Prompt="旋风分离器" Name="旋风分离器" PromptU="Cyclone separator" NameU="Cyclone separator"/>
+    <Elem Prompt="电磁离析器" Name="电磁离析器" PromptU="Electromagnetic separator" NameU="Electromagnetic separator"/>
+    <Elem Prompt="静电除尘分离器" Name="静电除尘分离器" PromptU="Electrostatic precipitator separator" NameU="Electrostatic precipitator separator"/>
+    <Elem Prompt="固化剂" Name="固化剂" PromptU="Solidifier" NameU="Solidifier"/>
+    <Elem Prompt="永磁分离器" Name="永磁分离器" PromptU="Permanent magnet separator" NameU="Permanent magnet separator"/>
+    <Elem Prompt="喷雾嘴" Name="喷雾嘴" PromptU="Spray nozzle" NameU="Spray nozzle"/>
+    <Elem Prompt="旋转进料器" Name="旋转进料器" PromptU="Rotary table feeder" NameU="Rotary table feeder"/>
+    <Elem Prompt="比例式给料机" Name="比例式给料机" PromptU="Proportional feeder" NameU="Proportional feeder"/>
+    <Elem Prompt="回转阀喂料机" Name="回转阀喂料机" PromptU="Rotary valve feeder" NameU="Rotary valve feeder"/>
+    <Elem Prompt="计量比例式给料机" Name="计量比例式给料机" PromptU="Metering proportional feeder" NameU="Metering proportional feeder"/>
+    <Elem Prompt="注射器" Name="注射器" PromptU="Injector" NameU="Injector"/>
+    <Elem Prompt="减速器" Name="减速器" PromptU="Reducer" NameU="Reducer"/>
+    <Elem Prompt="安全膈膜" Name="安全膈膜" PromptU="Rupture disc" NameU="Rupture disc"/>
+    <Elem Prompt="取光镜" Name="取光镜" PromptU="Viewing glass" NameU="Viewing glass"/>
+    <Elem Prompt="带灯取光镜" Name="带灯取光镜" PromptU="Viewing glass with lighting" NameU="Viewing glass with lighting"/>
+    <Elem Prompt="逆通风阻尼器" Name="逆通风阻尼器" PromptU="Back draft damper" NameU="Back draft damper"/>
+    <Elem Prompt="输送机" Name="输送机" PromptU="Conveyor" NameU="Conveyor"/>
+    <Elem Prompt="仓栅式货车" Name="仓栅式货车" PromptU="Box truck" NameU="Box truck"/>
+    <Elem Prompt="手动叉车" Name="手动叉车" PromptU="Manual forklift" NameU="Manual forklift"/>
+    <Elem Prompt="铲车" Name="铲车" PromptU="Truck forklift" NameU="Truck forklift"/>
+    <Elem Prompt="工业用卡车" Name="工业用卡车" PromptU="Industrial truck" NameU="Industrial truck"/>
+    <Elem Prompt="旋转式垃圾车" Name="旋转式垃圾车" PromptU="Rolling bin truck" NameU="Rolling bin truck"/>
+    <Elem Prompt="船" Name="船" PromptU="Ship" NameU="Ship"/>
+    <Elem Prompt="电梯" Name="电梯" PromptU="Elevator" NameU="Elevator"/>
+    <Elem Prompt="Z形电梯" Name="Z形电梯" PromptU="Z-form elevator" NameU="Z-form elevator"/>
+    <Elem Prompt="电梯" Name="电梯" PromptU="Lift" NameU="Lift"/>
+    <Elem Prompt="起重机" Name="起重机" PromptU="Hoists" NameU="Hoists"/>
+    <Elem Prompt="有配电器的增氧机" Name="有配电器的增氧机" PromptU="Aerator with sparger" NameU="Aerator with sparger"/>
+    <Elem Prompt="装袋机" Name="装袋机" PromptU="Bag filling machine" NameU="Bag filling machine"/>
+    <Elem Prompt="带式撇油器" Name="带式撇油器" PromptU="Belt skimmer" NameU="Belt skimmer"/>
+    <Elem Prompt="筛选机" Name="筛选机" PromptU="Screening" NameU="Screening"/>
+    <Elem Prompt="斗式提升机" Name="斗式提升机" PromptU="Bucket elevator" NameU="Bucket elevator"/>
+    <Elem Prompt="电梯 1" Name="电梯 1" PromptU="Elevator 1" NameU="Elevator 1"/>
+    <Elem Prompt="电梯 2" Name="电梯 2" PromptU="Elevator 2" NameU="Elevator 2"/>
+    <Elem Prompt="翻斗提升机" Name="翻斗提升机" PromptU="Skip hoist" NameU="Skip hoist"/>
+    <Elem Prompt="输送机" Name="输送机" PromptU="Conveyor" NameU="Conveyor"/>
+    <Elem Prompt="输送机 (链式,关)" Name="输送机 (链式,关)" PromptU="Conveyor (Chain,Closed)" NameU="Conveyor (Chain,Closed)"/>
+    <Elem Prompt="输送机 (螺旋式,关)" Name="输送机 (螺旋式,关)" PromptU="Conveyor (Screw,Closed)" NameU="Conveyor (Screw,Closed)"/>
+    <Elem Prompt="滚筒（柱）式输送机" Name="滚筒（柱）式输送机" PromptU="Roller conveyor" NameU="Roller conveyor"/>
+    <Elem Prompt="高架输送器" Name="高架输送器" PromptU="Overhead conveyor" NameU="Overhead conveyor"/>
+    <Elem Prompt="螺旋输送机" Name="螺旋输送机" PromptU="Screw conveyor" NameU="Screw conveyor"/>
+    <Elem Prompt="刮板式运输机" Name="刮板式运输机" PromptU="Scraper conveyor" NameU="Scraper conveyor"/>
+    <Elem Prompt="输送机 (振动式, 关)" Name="输送机 (振动式, 关)" PromptU="Conveyor (Vibrating, Closed)" NameU="Conveyor (Vibrating, Closed)"/>
+    <Elem Prompt="活塞式挤出机成型机器" Name="活塞式挤出机成型机器" PromptU="Piston extruder shaping machines" NameU="Piston extruder shaping machines"/>
+    <Elem Prompt="螺旋式挤出机成型机器" Name="螺旋式挤出机成型机器" PromptU="Screw extruder shaping machines" NameU="Screw extruder shaping machines"/>
+    <Elem Prompt="卧式成型机器" Name="卧式成型机器" PromptU="Horizontal shaping machines" NameU="Horizontal shaping machines"/>
+    <Elem Prompt="垂直成型机器" Name="垂直成型机器" PromptU="Vertical shaping machines" NameU="Vertical shaping machines"/>
+    <Elem Prompt="粒化盘" Name="粒化盘" PromptU="Pelletizing disc" NameU="Pelletizing disc"/>
+    <Elem Prompt="活塞压块机" Name="活塞压块机" PromptU="Piston press" NameU="Piston press"/>
+    <Elem Prompt="滚压机" Name="滚压机" PromptU="Roller press" NameU="Roller press"/>
+    <Elem Prompt="吊车" Name="吊车" PromptU="Crane" NameU="Crane"/>
+    <Elem Prompt="旋风器" Name="旋风器" PromptU="Cyclone" NameU="Cyclone"/>
+    <Elem Prompt="弯曲气孔" Name="弯曲气孔" PromptU="Curved gas vent" NameU="Curved gas vent"/>
+    <Elem Prompt="点火系统" Name="点火系统" PromptU="Firing system" NameU="Firing system"/>
+    <Elem Prompt="阻焰器" Name="阻焰器" PromptU="Flame arrestor" NameU="Flame arrestor"/>
+    <Elem Prompt="托盘堆垛机" Name="托盘堆垛机" PromptU="Palletizer" NameU="Palletizer"/>
+    <Elem Prompt="烟囱" Name="烟囱" PromptU="Chimney" NameU="Chimney"/>
+    <Elem Prompt="废气燃烧器" Name="废气燃烧器" PromptU="Gas flare" NameU="Gas flare"/>
+</Lib>

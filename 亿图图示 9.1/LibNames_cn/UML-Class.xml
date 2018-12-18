@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="UML Class Diagram">
+    <Elem Prompt="类" Name="类" PromptU="Class" NameU="Class"/>
+    <Elem Prompt="类 2" Name="类 2" PromptU="Class 2" NameU="Class 2"/>
+    <Elem Prompt="类 3" Name="类 3" PromptU="Class 3" NameU="Class 3"/>
+    <Elem Prompt="模板类" Name="模板类" PromptU="Template Class" NameU="Template Class"/>
+    <Elem Prompt="对象" Name="对象" PromptU="Object" NameU="Object"/>
+    <Elem Prompt="项" Name="项" PromptU="Item" NameU="Item"/>
+    <Elem Prompt="包" Name="包" PromptU="Package" NameU="Package"/>
+    <Elem Prompt="接口" Name="接口" PromptU="Interface" NameU="Interface"/>
+    <Elem Prompt="聚合" Name="聚合" PromptU="Aggregation" NameU="Aggregation"/>
+    <Elem Prompt="依赖" Name="依赖" PromptU="Dependency" NameU="Dependency"/>
+    <Elem Prompt="组合" Name="组合" PromptU="Composition" NameU="Composition"/>
+    <Elem Prompt="泛化" Name="泛化" PromptU="Generalization" NameU="Generalization"/>
+    <Elem Prompt="关联" Name="关联" PromptU="Association" NameU="Association"/>
+    <Elem Prompt="二元链接" Name="二元链接" PromptU="Binary Link" NameU="Binary Link"/>
+    <Elem Prompt="二元关联" Name="二元关联" PromptU="Binary Association" NameU="Binary Association"/>
+    <Elem Prompt="带参数类" Name="带参数类" PromptU="Parameterized Class" NameU="Parameterized Class"/>
+    <Elem Prompt="n元链接" Name="n元链接" PromptU="N-Ary Link" NameU="N-Ary Link"/>
+    <Elem Prompt="n元关联" Name="n元关联" PromptU="N-Ary Association" NameU="N-Ary Association"/>
+    <Elem Prompt="多重" Name="多重" PromptU="Multiplicity" NameU="Multiplicity"/>
+    <Elem Prompt="多重-可选（零或一）" Name="多重-可选（零或一）" PromptU="Multiplicity- Optional (zero or one)" NameU="Multiplicity- Optional (zero or one)"/>
+    <Elem Prompt="多重-可选（零或更多）" Name="多重-可选（零或更多）" PromptU="Multiplicity- many (zero or more)" NameU="Multiplicity- many (zero or more)"/>
+    <Elem Prompt="强制" Name="强制" PromptU="Mandatory" NameU="Mandatory"/>
+    <Elem Prompt="约束" Name="约束" PromptU="Constraint" NameU="Constraint"/>
+    <Elem Prompt="注释" Name="注释" PromptU="Note" NameU="Note"/>
+</Lib>

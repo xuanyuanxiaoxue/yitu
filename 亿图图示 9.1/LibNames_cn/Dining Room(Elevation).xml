@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Dining Room (Elevation)">
+    <Elem Prompt="瓶子 1" Name="瓶子 1" PromptU="Bottle 1" NameU="Bottle 1"/>
+    <Elem Prompt="瓶子 2" Name="瓶子 2" PromptU="Bottle 2" NameU="Bottle 2"/>
+    <Elem Prompt="瓶子 3" Name="瓶子 3" PromptU="Bottle 3" NameU="Bottle 3"/>
+    <Elem Prompt="瓶子 4" Name="瓶子 4" PromptU="Bottle 4" NameU="Bottle 4"/>
+    <Elem Prompt="瓶子 5" Name="瓶子 5" PromptU="Bottle 5" NameU="Bottle 5"/>
+    <Elem Prompt="瓶子 6" Name="瓶子 6" PromptU="Bottle 6" NameU="Bottle 6"/>
+    <Elem Prompt="瓶子 7" Name="瓶子 7" PromptU="Bottle 7" NameU="Bottle 7"/>
+    <Elem Prompt="玻璃杯 1" Name="玻璃杯 1" PromptU="Glass 1" NameU="Glass 1"/>
+    <Elem Prompt="玻璃杯 2" Name="玻璃杯 2" PromptU="Glass 2" NameU="Glass 2"/>
+    <Elem Prompt="玻璃杯 3" Name="玻璃杯 3" PromptU="Glass 3" NameU="Glass 3"/>
+    <Elem Prompt="玻璃杯 4" Name="玻璃杯 4" PromptU="Glass 4" NameU="Glass 4"/>
+    <Elem Prompt="玻璃杯 5" Name="玻璃杯 5" PromptU="Glass 5" NameU="Glass 5"/>
+    <Elem Prompt="玻璃杯 6" Name="玻璃杯 6" PromptU="Glass 6" NameU="Glass 6"/>
+    <Elem Prompt="玻璃杯 7" Name="玻璃杯 7" PromptU="Glass 7" NameU="Glass 7"/>
+    <Elem Prompt="油瓶" Name="油瓶" PromptU="Glass-bottle" NameU="Glass-bottle"/>
+    <Elem Prompt="油瓶" Name="油瓶" PromptU="Glass-bottle" NameU="Glass-bottle"/>
+    <Elem Prompt="油瓶" Name="油瓶" PromptU="Glass-bottle" NameU="Glass-bottle"/>
+    <Elem Prompt="桶" Name="桶" PromptU="Barrel" NameU="Barrel"/>
+    <Elem Prompt="桶" Name="桶" PromptU="Barrel" NameU="Barrel"/>
+</Lib>

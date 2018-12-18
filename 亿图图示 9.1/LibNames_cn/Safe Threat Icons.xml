@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Cisco Safe Threat Icons">
+    <Elem NameU="Threat A1" Name="按键 A1" PromptU="Threat A1" Prompt="按键 A1"/>
+    <Elem NameU="Threat A2" Name="按键 A2" PromptU="Threat A2" Prompt="按键 A2"/>
+    <Elem NameU="Threat A3" Name="按键 A3" PromptU="Threat A3" Prompt="按键 A3"/>
+    <Elem NameU="Threat A4" Name="按键 A4" PromptU="Threat A4" Prompt="按键 A4"/>
+    <Elem NameU="Threat A5" Name="按键 A5" PromptU="Threat A5" Prompt="按键 A5"/>
+    <Elem NameU="Threat A6" Name="按键 A6" PromptU="Threat A6" Prompt="按键 A6"/>
+    <Elem NameU="Threat A7" Name="按键 A7" PromptU="Threat A7" Prompt="按键 A7"/>
+    <Elem NameU="Threat A8" Name="按键 A8" PromptU="Threat A8" Prompt="按键 A8"/>
+    <Elem NameU="Threat B1" Name="按键 B1" PromptU="Threat B1" Prompt="按键 B1"/>
+    <Elem NameU="Threat B2" Name="按键 B2" PromptU="Threat B2" Prompt="按键 B2"/>
+    <Elem NameU="Threat B3" Name="按键 B3" PromptU="Threat B3" Prompt="按键 B3"/>
+    <Elem NameU="Threat B4" Name="按键 B4" PromptU="Threat B4" Prompt="按键 B4"/>
+    <Elem NameU="Threat B5" Name="按键 B5" PromptU="Threat B5" Prompt="按键 B5"/>
+    <Elem NameU="Threat B6" Name="按键 B6" PromptU="Threat B6" Prompt="按键 B6"/>
+    <Elem NameU="Threat B7" Name="按键 B7" PromptU="Threat B7" Prompt="按键 B7"/>
+    <Elem NameU="Threat B8" Name="按键 B8" PromptU="Threat B8" Prompt="按键 B8"/>
+    <Elem NameU="Threat C1" Name="按键 C1" PromptU="Threat C1" Prompt="按键 C1"/>
+    <Elem NameU="Threat C2" Name="按键 C2" PromptU="Threat C2" Prompt="按键 C2"/>
+    <Elem NameU="Threat C3" Name="按键 C3" PromptU="Threat C3" Prompt="按键 C3"/>
+    <Elem NameU="Threat C4" Name="按键 C4" PromptU="Threat C4" Prompt="按键 C4"/>
+    <Elem NameU="Threat C5" Name="按键 C5" PromptU="Threat C5" Prompt="按键 C5"/>
+    <Elem NameU="Threat C6" Name="按键 C6" PromptU="Threat C6" Prompt="按键 C6"/>
+    <Elem NameU="Threat C7" Name="按键 C7" PromptU="Threat C7" Prompt="按键 C7"/>
+    <Elem NameU="Threat C8" Name="按键 C8" PromptU="Threat C8" Prompt="按键 C8"/>
+    <Elem NameU="Threat D1" Name="按键 D1" PromptU="Threat D1" Prompt="按键 D1"/>
+    <Elem NameU="Threat D2" Name="按键 D2" PromptU="Threat D2" Prompt="按键 D2"/>
+    <Elem NameU="Threat D3" Name="按键 D3" PromptU="Threat D3" Prompt="按键 D3"/>
+    <Elem NameU="Threat D4" Name="按键 D4" PromptU="Threat D4" Prompt="按键 D4"/>
+    <Elem NameU="Threat D5" Name="按键 D5" PromptU="Threat D5" Prompt="按键 D5"/>
+    <Elem NameU="Threat D6" Name="按键 D6" PromptU="Threat D6" Prompt="按键 D6"/>
+    <Elem NameU="Threat D7" Name="按键 D7" PromptU="Threat D7" Prompt="按键 D7"/>
+    <Elem NameU="Threat D8" Name="按键 D8" PromptU="Threat D8" Prompt="按键 D8"/>
+    <Elem NameU="Threat E1" Name="按键 E1" PromptU="Threat E1" Prompt="按键 E1"/>
+    <Elem NameU="Threat E2" Name="按键 E2" PromptU="Threat E2" Prompt="按键 E2"/>
+    <Elem NameU="Threat E3" Name="按键 E3" PromptU="Threat E3" Prompt="按键 E3"/>
+    <Elem NameU="Threat E4" Name="按键 E4" PromptU="Threat E4" Prompt="按键 E4"/>
+    <Elem NameU="Threat E5" Name="按键 E5" PromptU="Threat E5" Prompt="按键 E5"/>
+    <Elem NameU="Threat E6" Name="按键 E6" PromptU="Threat E6" Prompt="按键 E6"/>
+    <Elem NameU="Threat E7" Name="按键 E7" PromptU="Threat E7" Prompt="按键 E7"/>
+    <Elem NameU="Threat E8" Name="按键 E8" PromptU="Threat E8" Prompt="按键 E8"/>
+</Lib>

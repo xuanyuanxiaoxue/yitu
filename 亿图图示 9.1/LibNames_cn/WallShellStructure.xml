@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Wall, Door, Window and Structure">
+    <Elem Prompt="房间" Name="房间" PromptU="Room" NameU="Room"/>
+    <Elem Prompt="&quot;L&quot;形房间" Name="&quot;L&quot;形房间" PromptU="&quot;L&quot; Room" NameU="&quot;L&quot; Room"/>
+    <Elem Prompt="&quot;T&quot; 形房间" Name="&quot;T&quot; 形房间" PromptU="&quot;T&quot; Room" NameU="&quot;T&quot; Room"/>
+    <Elem Prompt="空间" Name="空间" PromptU="Space" NameU="Space"/>
+    <Elem Prompt="&quot;T&quot; 形房间" Name="&quot;T&quot; 形房间" PromptU="&quot;L&quot; Space" NameU="&quot;L&quot; Space"/>
+    <Elem Prompt="&quot;T&quot;形空间" Name="&quot;T&quot;形空间" PromptU="&quot;T&quot; Space" NameU="&quot;T&quot; Space"/>
+    <Elem Prompt="墙" Name="墙" PromptU="Wall" NameU="Wall"/>
+    <Elem Prompt="垂直墙" Name="垂直墙" PromptU="Vertical Wall" NameU="Vertical Wall"/>
+    <Elem Prompt="弯曲墙" Name="弯曲墙" PromptU="Curved Wall" NameU="Curved Wall"/>
+    <Elem Prompt="外墙" Name="外墙" PromptU="Outer Wall" NameU="Outer Wall"/>
+    <Elem Prompt="垂直外墙" Name="垂直外墙" PromptU="Vertical Outer Wall" NameU="Vertical Outer Wall"/>
+    <Elem Prompt="弧形外墙" Name="弧形外墙" PromptU="Curved Outer Wall" NameU="Curved Outer Wall"/>
+    <Elem Prompt="窗户" Name="窗户" PromptU="Window" NameU="Window"/>
+    <Elem Prompt="开着的窗" Name="开着的窗" PromptU="Open Window" NameU="Open Window"/>
+    <Elem Prompt="开着的窗" Name="开着的窗 2" PromptU="Open Window 2" NameU="Open Window 2"/>
+    <Elem Prompt="开着的窗" Name="开着的窗 3" PromptU="Open Window 3" NameU="Open Window 3"/>
+    <Elem Prompt="开着的窗" Name="开着的窗 4" PromptU="Open Window 4" NameU="Open Window 4"/>
+    <Elem Prompt="滑窗" Name="滑窗" PromptU="Glider Window" NameU="Glider Window"/>
+    <Elem Prompt="门式窗" Name="门式窗" PromptU="Casement Window" NameU="Casement Window"/>
+    <Elem Prompt="凸窗" Name="凸窗" PromptU="Bay window" NameU="Bay window"/>
+    <Elem Prompt="双扇窗" Name="双扇窗" PromptU="Double Casement Window" NameU="Double Casement Window"/>
+    <Elem Prompt="开口" Name="开口" PromptU="Opening" NameU="Opening"/>
+    <Elem Prompt="门" Name="门" PromptU="Door" NameU="Door"/>
+    <Elem Prompt="双悬门" Name="双悬门" PromptU="Double Hung Door" NameU="Double Hung Door"/>
+    <Elem Prompt="双门" Name="双门" PromptU="Double Door" NameU="Double Door"/>
+    <Elem Prompt="非对称双门" Name="非对称双门" PromptU="Uneven Door" NameU="Uneven Door"/>
+    <Elem Prompt="反向门" Name="反向门" PromptU="Opposing Door" NameU="Opposing Door"/>
+    <Elem Prompt="旋转门" Name="旋转门" PromptU="Revolving Door" NameU="Revolving Door"/>
+    <Elem Prompt="移门" Name="折叠门" PromptU="Folding door" NameU="Folding door "/>
+    <Elem Prompt="滑动门" Name="滑动门" PromptU="Sliding Door" NameU="Sliding Door"/>
+    <Elem Prompt="双滑动门" Name="双滑动门" PromptU="Double Sliding Door" NameU="Double Sliding Door"/>
+    <Elem Prompt="旁通门" Name="旁通门" PromptU="By-pass Door" NameU="By-pass Door"/>
+    <Elem Prompt="双折叠门" Name="双折叠门" PromptU="Bi-fold Door" NameU="Bi-fold Door"/>
+    <Elem Prompt="复式双折门" Name="复式双折门" PromptU="Double Bi-fold Door" NameU="Double Bi-fold Door"/>
+    <Elem Prompt="滑动玻璃门" Name="滑动玻璃门" PromptU="Sliding Glass Door" NameU="Sliding Glass Door"/>
+    <Elem Prompt="悬吊门" Name="悬吊门" PromptU="Overhead Door" NameU="Overhead Door"/>
+    <Elem Prompt="花园窗" Name="花园窗" PromptU="Garden Window" NameU="Garden Window"/>
+    <Elem Prompt="幕墙" Name="幕墙" PromptU="Curtain Wall" NameU="Curtain Wall"/>
+    <Elem Prompt="玻璃墙" Name="玻璃墙" PromptU="Window Wall" NameU="Window Wall"/>
+    <Elem Prompt="空调空间" Name="空调空间" PromptU="Air-conditioned spaces" NameU="Air-conditioned spaces"/>
+    <Elem Prompt="壁柱" Name="壁柱" PromptU="Pilaster" NameU="Pilaster"/>
+    <Elem Prompt="角落壁柱" Name="角落壁柱" PromptU="Corner Pilaster" NameU="Corner Pilaster"/>
+    <Elem Prompt="矩形支柱" Name="矩形支柱" PromptU="Rectanglar Column" NameU="Rectanglar Column"/>
+    <Elem Prompt="圆形支柱" Name="圆形支柱" PromptU="Circular Column" NameU="Circular Column"/>
+    <Elem Prompt="横梁" Name="横梁" PromptU="Beam" NameU="Beam"/>
+    <Elem Prompt="网格起点" Name="网格起点" PromptU="Grid Origin" NameU="Grid Origin"/>
+    <Elem Prompt="网格线" Name="网格线" PromptU="Grid Line" NameU="Grid Line"/>
+</Lib>

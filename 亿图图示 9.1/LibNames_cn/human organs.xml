@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Human Organs">
+    <Elem Prompt="眼睛" Name="眼睛" PromptU="Eye" NameU="Eye"/>
+    <Elem Prompt="鼻子" Name="鼻子" PromptU="Nose" NameU="Nose"/>
+    <Elem Prompt="耳朵" Name="耳朵" PromptU="Ear" NameU="Ear"/>
+    <Elem Prompt="口腔" Name="口腔" PromptU="Oral" NameU="Oral"/>
+    <Elem Prompt="喉咙" Name="喉咙" PromptU="Throat" NameU="Throat"/>
+    <Elem Prompt="耳朵" Name="耳朵" PromptU="Ear" NameU="Ear"/>
+    <Elem Prompt="手臂" Name="手臂" PromptU="Arm" NameU="Arm"/>
+    <Elem Prompt="腿" Name="腿" PromptU="Leg" NameU="Leg"/>
+    <Elem Prompt="脚" Name="脚" PromptU="Foot" NameU="Foot"/>
+    <Elem Prompt="牙齿" Name="牙齿" PromptU="Teeth" NameU="Teeth"/>
+    <Elem Prompt="蛀牙" Name="蛀牙" PromptU="Tooth decay" NameU="Tooth decay"/>
+    <Elem Prompt="胃" Name="胃" PromptU="Stomach" NameU="Stomach"/>
+    <Elem Prompt="肾" Name="肾" PromptU="Kidney" NameU="Kidney"/>
+    <Elem Prompt="脾" Name="脾" PromptU="Spleen" NameU="Spleen"/>
+    <Elem Prompt="肝" Name="肝" PromptU="Liver" NameU="Liver"/>
+    <Elem Prompt="肺1" Name="肺1" PromptU="Lung1" NameU="Lung1"/>
+    <Elem Prompt="肺2" Name="肺2" PromptU="Lung2" NameU="Lung2"/>
+    <Elem Prompt="肺3" Name="肺3" PromptU="Lung3" NameU="Lung3"/>
+    <Elem Prompt="心" Name="心" PromptU="Heart" NameU="Heart"/>
+    <Elem Prompt="子宫" Name="子宫" PromptU="Uterus" NameU="Uterus"/>
+    <Elem Prompt="胎儿" Name="胎儿" PromptU="Fetus" NameU="Fetus"/>
+    <Elem Prompt="肠" Name="肠" PromptU="Intestine" NameU="Intestine"/>
+    <Elem Prompt="大脑1" Name="大脑1" PromptU="Brain1" NameU="Brain1"/>
+    <Elem Prompt="大脑2" Name="大脑2" PromptU="Brain2" NameU="Brain2"/>
+    <Elem Prompt="大脑3" Name="大脑3" PromptU="Brain3" NameU="Brain3"/>
+    <Elem Prompt="针" Name="针" PromptU="Needle" NameU="Needle"/>
+    <Elem Prompt="头盖骨" Name="头盖骨" PromptU="Skull" NameU="Skull"/>
+    <Elem Prompt="胸腔" Name="胸腔" PromptU="Rib cage" NameU="Rib cage"/>
+    <Elem Prompt="脊椎1" Name="脊椎1" PromptU="Spine1" NameU="Spine1"/>
+    <Elem Prompt="脊椎2" Name="脊椎2" PromptU="Spine2" NameU="Spine2"/>
+    <Elem Prompt="脊椎3" Name="脊椎3" PromptU="Spine3" NameU="Spine3"/>
+    <Elem Prompt="脊椎4" Name="脊椎4" PromptU="Spine4" NameU="Spine4"/>
+    <Elem Prompt="髋骨" Name="髋骨" PromptU="Hip bone" NameU="Hip bone"/>
+    <Elem Prompt="手骨" Name="手骨" PromptU="Bones of hand" NameU="Bones of hand"/>
+    <Elem Prompt="腿骨骼" Name="腿骨骼" PromptU="The skeletal foot" NameU="The skeletal foot"/>
+    <Elem Prompt="人体骨架" Name="人体骨架" PromptU="Human skeleton" NameU="Human skeleton"/>
+</Lib>

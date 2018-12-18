@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Cisco Safe Design Icons">
+    <Elem NameU="Access Point" Name="连通点" PromptU="Access Point" Prompt="连通点"/>
+    <Elem NameU="ACI Controller" Name="ACI 控制器" PromptU="ACI Controller" Prompt="ACI 控制器"/>
+    <Elem NameU="ACI Leaf Switch" Name="ACI 转换" PromptU="ACI Leaf Switch" Prompt="ACI 转换"/>
+    <Elem NameU="ACI Spine Switch" Name="ACI 转换2" PromptU="ACI Spine Switch" Prompt="ACI 转换2"/>
+    <Elem NameU="Adaptive Security Appliance" Name="自适应安全设备" PromptU="Adaptive Security Appliance" Prompt="自适应安全设备"/>
+    <Elem NameU="Automated System" Name="自动系统" PromptU="Automated System" Prompt="自动系统"/>
+    <Elem NameU="Blade Server" Name="刀鋒伺服器" PromptU="Blade Server" Prompt="刀鋒伺服器"/>
+    <Elem NameU="Catalyst Data Center Switch" Name="Catalyst数据中心转换" PromptU="Catalyst Data Center Switch" Prompt="Catalyst数据中心转换"/>
+    <Elem NameU="Catalyst Switch Stack" Name="Catalyst堆叠开关" PromptU="Catalyst Switch Stack" Prompt="Catalyst堆叠开关"/>
+    <Elem NameU="Corporate Device" Name="组合设备" PromptU="Corporate Device" Prompt="组合设备"/>
+    <Elem NameU="Email Security" Name="邮件安全" PromptU="Email Security" Prompt="邮件安全"/>
+    <Elem NameU="Email Security" Name="邮件安全" PromptU="Email Security" Prompt="邮件安全"/>
+    <Elem NameU="Firepower Appliance" Name="防火墙设备" PromptU="Firepower Appliance" Prompt="防火墙设备"/>
+    <Elem NameU="Firewall" Name="防火墙" PromptU="Firewall" Prompt="防火墙"/>
+    <Elem NameU="Intrustion Detection" Name="入侵检测" PromptU="Intrustion Detection" Prompt="入侵检测"/>
+    <Elem NameU="L3 Switch" Name="L3 转换" PromptU="L3 Switch" Prompt="L3 转换"/>
+    <Elem NameU="L2 Switch" Name="L2 转换" PromptU="L2 Switch" Prompt="L2 转换"/>
+    <Elem NameU="Load Balancer" Name="负载平衡器" PromptU="Load Balancer" Prompt="负载平衡器"/>
+    <Elem NameU="Mobile Device" Name="手机设备" PromptU="Mobile Device" Prompt="手机设备"/>
+    <Elem NameU="Nexus 1kv" Name="Nexus流量1kv" PromptU="Nexus 1kv" Prompt="Nexus流量1kv"/>
+    <Elem NameU="Nexus Data Center Switch" Name="Nexus数据中心转换" PromptU="Nexus Data Center Switch" Prompt="Nexus数据中心转换"/>
+    <Elem NameU="Nexus Fabric Switch" Name="Nexus光钎转换" PromptU="Nexus Fabric Switch" Prompt="Nexus光钎转换"/>
+    <Elem NameU="Nexus Switch" Name="Nexus转换" PromptU="Nexus Switch" Prompt="Nexus转换"/>
+    <Elem NameU="Phone" Name="手机" PromptU="Phone" Prompt="手机"/>
+    <Elem NameU="Router" Name="路径" PromptU="Router" Prompt="路径"/>
+    <Elem NameU="Server1" Name="服务器1" PromptU="Server1" Prompt="服务器1"/>
+    <Elem NameU="Server2" Name="服务器2" PromptU="Server2" Prompt="服务器2"/>
+    <Elem NameU="Web Security" Name="网页安全" PromptU="Web Security" Prompt="网页安全"/>
+    <Elem NameU="WLAN Controller" Name="WLAN连接器" PromptU="WLAN Controller" Prompt="WLAN连接器"/>
+    <Elem NameU="Wireless Switch" Name="无线网络" PromptU="Wireless Switch" Prompt="无线网络"/>
+    <Elem NameU="Wireless Corporate Device" Name="无线网络组合设备" PromptU="Wireless Corporate Device" Prompt="无线网络组合设备"/>
+    <Elem NameU="User" Name="用户" PromptU="User" Prompt="用户"/>
+    <Elem NameU="Users" Name="用户群" PromptU="Users" Prompt="用户群"/>
+    <Elem NameU="Actor1" Name="角色1" PromptU="Actor1" Prompt="角色1"/>
+    <Elem NameU="Actor2" Name="角色2" PromptU="Actor2" Prompt="角色2"/>
+    <Elem NameU="Radware" Name="网络公司Radware" PromptU="Radware" Prompt="网络公司Radware"/>
+    <Elem NameU="Blank Device" Name="空白设备" PromptU="Blank Device" Prompt="空白设备"/>
+    <Elem NameU="Blank Service" Name="可用服务" PromptU="Blank Service" Prompt="可用服务"/>
+    <Elem NameU="Call manager" Name="呼叫经理" PromptU="Call manager" Prompt="呼叫经理"/>
+    <Elem NameU="Cisco AMP" Name="软件名Cisco AMP" PromptU="Cisco AMP" Prompt="软件名Cisco AMP"/>
+    <Elem NameU="Cisco AnyConnect.53" Name="软件名Cisco AnyConnect.53" PromptU="Cisco AnyConnect.53" Prompt="软件名Cisco AnyConnect.53"/>
+    <Elem NameU="Client Firewall" Name="用户防火墙" PromptU="Client Firewall" Prompt="用户防火墙"/>
+    <Elem NameU="Encryption Offload" Name="加密卸载" PromptU="Encryption Offload" Prompt="加密卸载"/>
+    <Elem NameU="vLoad- balancer" Name="vLoad平衡器" PromptU="vLoad- balancer" Prompt="vLoad平衡器"/>
+    <Elem NameU="Virtual Secure Server" Name="虚拟安全服务器" PromptU="Virtual Secure Server" Prompt="虚拟安全服务器"/>
+    <Elem NameU="Storage" Name="存储" PromptU="Storage" Prompt="存储"/>
+    <Elem NameU="Cisco Cloud Web Security" Name="Cisco云端储存网络安全" PromptU="Cisco Cloud Web Security" Prompt="Cisco云端储存网络安全"/>
+    <Elem NameU="vWeb Security" Name="vWeb安全" PromptU="vWeb Security" Prompt="vWeb安全"/>
+    <Elem NameU="vWLAN Controller" Name="vWLAN连通器" PromptU="vWLAN Controller" Prompt="vWLAN连通器"/>
+    <Elem NameU="vWAF Security" Name="vWAF安全" PromptU="vWAF Security" Prompt="vWAF安全"/>
+    <Elem NameU="Interface Label-G1" Name="界面标记G1" PromptU="Interface Label-G1" Prompt="界面标记G1"/>
+    <Elem NameU="Interface Label-M0" Name="界面标记M0" PromptU="Interface Label-M0" Prompt="界面标记M0"/>
+    <Elem NameU="Interface Label-E1" Name="界面标记E1" PromptU="Interface Label-E1" Prompt="界面标记E1"/>
+    <Elem NameU="Mgmt-Uplink" Name="软件Mgmt-Uplink" PromptU="Mgmt-Uplink" Prompt="软件Mgmt-Uplink"/>
+    <Elem NameU="Label 1" Name="标记 1" PromptU="Label 1" Prompt="标记 1"/>
+    <Elem NameU="Label 2" Name="标记 2" PromptU="Label 2" Prompt="标记 2"/>
+    <Elem NameU="Label 3" Name="标记 3" PromptU="Label 3" Prompt="标记 3"/>
+    <Elem NameU="VLAN Tag" Name="VLAN 标签" PromptU="VLAN Tag" Prompt="VLAN 标签"/>
+    <Elem NameU="HSRP" Name="热备份路由器协议" PromptU="HSRP" Prompt="热备份路由器协议"/>
+</Lib>

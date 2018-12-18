@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Alarm and Access Control">
+    <Elem Prompt="卡式出入" Name="卡式出入" PromptU="Card access" NameU="Card access"/>
+    <Elem Prompt="生物识别访问" Name="生物识别访问" PromptU="Biometric access" NameU="Biometric access"/>
+    <Elem Prompt="按键装置" Name="按键装置" PromptU="Keypad device" NameU="Keypad device"/>
+    <Elem Prompt="带小键盘的刷卡器" Name="带小键盘的刷卡器" PromptU="Card reader with keypad" NameU="Card reader with keypad"/>
+    <Elem Prompt="可记录时间的刷卡器" Name="可记录时间的刷卡器" PromptU="Card reader with time" NameU="Card reader with time"/>
+    <Elem Prompt="烟雾报警器" Name="烟雾报警器" PromptU="Smoke detector" NameU="Smoke detector"/>
+    <Elem Prompt="气体检测器" Name="气体检测器" PromptU="Gas detector" NameU="Gas detector"/>
+    <Elem Prompt="热探测器" Name="热探测器" PromptU="Heat detector" NameU="Heat detector"/>
+    <Elem Prompt="旋转门" Name="旋转门" PromptU="Turnstile" NameU="Turnstile"/>
+    <Elem Prompt="旋转门" Name="旋转门" PromptU="Revolving door" NameU="Revolving door"/>
+    <Elem Prompt="通信杆" Name="通信杆" PromptU="Traffic arm" NameU="Traffic arm"/>
+    <Elem Prompt="机动车线圈探测器" Name="机动车线圈探测器" PromptU="Vehicle loop detector" NameU="Vehicle loop detector"/>
+    <Elem Prompt="电子锁" Name="电子锁" PromptU="Electronic lock" NameU="Electronic lock"/>
+    <Elem Prompt="逃生推杆" Name="逃生推杆" PromptU="Exit device" NameU="Exit device"/>
+    <Elem Prompt="带小键盘的摄像机" Name="带小键盘的摄像机" PromptU="Camera with keypad" NameU="Camera with keypad"/>
+    <Elem Prompt="带刷卡器的摄像机" Name="带刷卡器的摄像机" PromptU="Camera with intercom" NameU="Camera with intercom"/>
+    <Elem Prompt="相机读卡器" Name="相机读卡器" PromptU="Camera with card reader" NameU="Camera with card reader"/>
+    <Elem Prompt="安全窗屏" Name="安全窗屏" PromptU="Security window screen" NameU="Security window screen"/>
+    <Elem Prompt="半球型摄像机" Name="半球型摄像机" PromptU="Dome camera" NameU="Dome camera"/>
+    <Elem Prompt="半球型摄像机" Name="半球型摄像机 2" PromptU="Dome camera" NameU="Dome camera 2"/>
+    <Elem Prompt="半球型摄像机" Name="半球型摄像机 3" PromptU="Dome camera" NameU="Dome camera 3"/>
+    <Elem Prompt="子弹相机" Name="子弹相机" PromptU="Bullet camera" NameU="Bullet camera"/>
+    <Elem Prompt="子弹相机" Name="子弹相机 2" PromptU="Bullet camera" NameU="Bullet camera 2"/>
+    <Elem Prompt="子弹相机" Name="子弹相机 3" PromptU="Bullet camera" NameU="Bullet camera 3"/>
+    <Elem Prompt="子弹相机 4" Name="子弹相机 4" PromptU="Bullet camera 4" NameU="Bullet camera 4"/>
+    <Elem Prompt="子弹相机" Name="子弹相机 5" PromptU="Bullet camera" NameU="Bullet camera 5"/>
+    <Elem Prompt="CCTV 摄像头" Name="CCTV 摄像头" PromptU="CCTV camera" NameU="CCTV camera"/>
+    <Elem Prompt="CCTV 摄像头" Name="CCTV 摄像头 2" PromptU="CCTV camera" NameU="CCTV camera 2"/>
+    <Elem Prompt="CCTV 摄像头" Name="CCTV 摄像头 3" PromptU="CCTV camera" NameU="CCTV camera 3"/>
+    <Elem Prompt="CCTV 摄像头" Name="CCTV 摄像头 4" PromptU="CCTV camera" NameU="CCTV camera 4"/>
+    <Elem Prompt="CCTV 摄像头" Name="CCTV 摄像头 5" PromptU="CCTV camera" NameU="CCTV camera 5"/>
+    <Elem Prompt="CCTV 摄像头" Name="CCTV 摄像头 6" PromptU="CCTV camera" NameU="CCTV camera 6"/>
+    <Elem Prompt="CCTV 摄像头" Name="CCTV 摄像头 7" PromptU="CCTV camera" NameU="CCTV camera 7"/>
+    <Elem Prompt="CCTV 摄像头" Name="CCTV 摄像头 8" PromptU="CCTV camera" NameU="CCTV camera 8"/>
+    <Elem Prompt="备用电池" Name="备用电池" PromptU="Emergency battery" NameU="Emergency battery"/>
+    <Elem Prompt="闸门" Name="闸门" PromptU="Strobe" NameU="Strobe"/>
+</Lib>

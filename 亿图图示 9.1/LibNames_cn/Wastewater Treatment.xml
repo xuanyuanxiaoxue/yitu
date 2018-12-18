@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Wastewater Treatment">
+    <Elem Prompt="吸收器" Name="吸收器" PromptU="Absorber" NameU="Absorber"/>
+    <Elem Prompt="曝气池 1" Name="曝气池 1" PromptU="Aeration basin 1" NameU="Aeration basin 1"/>
+    <Elem Prompt="曝气池 2" Name="曝气池 2" PromptU="Aeration basin 2" NameU="Aeration basin 2"/>
+    <Elem Prompt="曝气消化池 1" Name="曝气消化池 1" PromptU="Aeration digester 1" NameU="Aeration digester 1"/>
+    <Elem Prompt="曝气消化池 2" Name="曝气消化池 2" PromptU="Aeration digester 2" NameU="Aeration digester 2"/>
+    <Elem Prompt="空气扩散装置" Name="空气扩散装置" PromptU="Air diffuser system" NameU="Air diffuser system"/>
+    <Elem Prompt="厌氧序批式反应器" Name="厌氧序批式反应器" PromptU="Anaerobic sequencing batch reactor" NameU="Anaerobic sequencing batch reactor"/>
+    <Elem Prompt="沥青过滤器" Name="沥青过滤器" PromptU="Asphalt filter" NameU="Asphalt filter"/>
+    <Elem Prompt="袋式过滤器" Name="袋式过滤器" PromptU="Bag filtration system" NameU="Bag filtration system"/>
+    <Elem Prompt="带式压滤机" Name="带式压滤机" PromptU="Belt filter press" NameU="Belt filter press"/>
+    <Elem Prompt="生物处理设备" Name="生物处理设备" PromptU="Biological treatment plant" NameU="Biological treatment plant"/>
+    <Elem Prompt="蓝色过滤器" Name="蓝色过滤器" PromptU="Blue filter" NameU="Blue filter"/>
+    <Elem Prompt="污水槽气泡扩散器" Name="污水槽气泡扩散器" PromptU="Bubble diffuser in sludge tank" NameU="Bubble diffuser in sludge tank"/>
+    <Elem Prompt="碳吸收器" Name="碳吸收器" PromptU="Carbon absorber" NameU="Carbon absorber"/>
+    <Elem Prompt="化学品加料机" Name="化学品加料机" PromptU="Chemical feeder" NameU="Chemical feeder"/>
+    <Elem Prompt="加氯器" Name="中央软水器" PromptU="Chlorinator" NameU="Central Water Softener"/>
+    <Elem Prompt="中央净水器" Name="中央净水器" PromptU="Central Water Purifier" NameU="Central Water Purifier"/>
+    <Elem Prompt="民用自来水" Name="民用自来水" PromptU="Civic Tap Water" NameU="Civic Tap Water"/>
+    <Elem Prompt="加氯器" Name="加氯器" PromptU="Chlorinator" NameU="Chlorinator"/>
+    <Elem Prompt="澄清器（侧面）" Name="澄清器（侧面）" PromptU="Clarifier (side view)" NameU="Clarifier (side view)"/>
+    <Elem Prompt="澄清器 1" Name="澄清器 1" PromptU="Clarifier 1" NameU="Clarifier 1"/>
+    <Elem Prompt="澄清器 2" Name="澄清器 2" PromptU="Clarifier 2" NameU="Clarifier 2"/>
+    <Elem Prompt="澄清器和浓缩器" Name="澄清器和浓缩器" PromptU="Clarifier and thickener drive" NameU="Clarifier and thickener drive"/>
+    <Elem Prompt="带罐澄清器" Name="带罐澄清器" PromptU="Clarifier with recarb tank" NameU="Clarifier with recarb tank"/>
+    <Elem Prompt="净水系统" Name="净水系统" PromptU="Clean water system" NameU="Clean water system"/>
+    <Elem Prompt="净水系统" Name="净水系统" PromptU="Clean water system" NameU="Clean water system"/>
+    <Elem Prompt="紧密耦合自吸泵" Name="紧密耦合自吸泵" PromptU="Close-coupled self-primer" NameU="Close-coupled self-primer"/>
+    <Elem Prompt="储水池" Name="储水池" PromptU="Containment basin" NameU="Containment basin"/>
+    <Elem Prompt="圆顶水箱" Name="圆顶水箱" PromptU="Covered dome tank" NameU="Covered dome tank"/>
+    <Elem Prompt="冷却塔组" Name="冷却塔组" PromptU="Cooling tower make up" NameU="Cooling tower make up"/>
+    <Elem Prompt="排水系统" Name="排水系统" PromptU="Dewatering system" NameU="Dewatering system"/>
+    <Elem Prompt="消化池" Name="消化池" PromptU="Digester" NameU="Digester"/>
+    <Elem Prompt="鼓式过滤器" Name="鼓式过滤器" PromptU="Disc and drum filter" NameU="Disc and drum filter"/>
+    <Elem Prompt="溶气浮选装置" Name="溶气浮选装置" PromptU="Dissolved air flotation" NameU="Dissolved air flotation"/>
+    <Elem Prompt="干燥装置" Name="干燥装置" PromptU="Drying system" NameU="Drying system"/>
+    <Elem Prompt="油箱消化池" Name="油箱消化池" PromptU="Digester gas tanks" NameU="Digester gas tanks"/>
+    <Elem Prompt="高位槽 1" Name="高位槽 1" PromptU="Elevated tank 1" NameU="Elevated tank 1"/>
+    <Elem Prompt="高位槽 2" Name="高位槽 2" PromptU="Elevated tank 2" NameU="Elevated tank 2"/>
+    <Elem Prompt="高位槽 3" Name="高位槽 3" PromptU="Elevated tank 3" NameU="Elevated tank 3"/>
+    <Elem Prompt="高位槽 4" Name="高位槽 4" PromptU="Elevated tank 4" NameU="Elevated tank 4"/>
+    <Elem Prompt="气体处理" Name="气体处理" PromptU="Environmental gas process" NameU="Environmental gas process"/>
+    <Elem Prompt="防爆维护" Name="防爆维护" PromptU="Explosion-proof enclosure" NameU="Explosion-proof enclosure"/>
+    <Elem Prompt="过滤器外壳" Name="过滤器外壳" PromptU="Filter housing" NameU="Filter housing"/>
+    <Elem Prompt="压榨过滤机" Name="压榨过滤机" PromptU="Filter press" NameU="Filter press"/>
+    <Elem Prompt="过滤器" Name="过滤器" PromptU="Filter" NameU="Filter"/>
+    <Elem Prompt="过滤器 2" Name="过滤器 2" PromptU="Filter 2" NameU="Filter 2"/>
+    <Elem Prompt="过滤器  3" Name="过滤器 3" PromptU="Filter  3" NameU="Filter 3"/>
+    <Elem Prompt="过滤器 4" Name="过滤器 4" PromptU="Filter 4" NameU="Filter 4"/>
+    <Elem Prompt="絮凝器" Name="絮凝器" PromptU="Flocculators" NameU="Flocculators"/>
+    <Elem Prompt="流阀" Name="流阀" PromptU="Flow gate" NameU="Flow gate"/>
+    <Elem Prompt="引水渠" Name="引水渠" PromptU="Flume" NameU="Flume"/>
+    <Elem Prompt="高位槽" Name="高位槽" PromptU="Fluted elevated tank" NameU="Fluted elevated tank"/>
+    <Elem Prompt="大蜻蜓" Name="大蜻蜓" PromptU="Giant skeeter" NameU="Giant skeeter"/>
+    <Elem Prompt="重力带式机械浓缩机" Name="重力带式机械浓缩机" PromptU="Gravity belt thickener" NameU="Gravity belt thickener"/>
+    <Elem Prompt="沉砂池" Name="沉砂池" PromptU="Grit chamber" NameU="Grit chamber"/>
+    <Elem Prompt="焚化炉" Name="焚化炉" PromptU="Incinerator" NameU="Incinerator"/>
+    <Elem Prompt="斜板澄清器" Name="斜板澄清器" PromptU="Inclined plate clarifier " NameU="Inclined plate clarifier "/>
+    <Elem Prompt="溶液给料机" Name="溶液给料机" PromptU="Liquid solution feeder" NameU="Liquid solution feeder"/>
+    <Elem Prompt="低速通风废水处理" Name="低速通风废水处理" PromptU="Low-speed aerator drive for wastewater treatment" NameU="Low-speed aerator drive for wastewater treatment"/>
+    <Elem Prompt="豪华立式管线机" Name="豪华立式管线机" PromptU="Luxury Pipeline Machines" NameU="Luxury Pipeline Machines"/>
+    <Elem Prompt="地面" Name="地面" PromptU="Land" NameU="Land"/>
+    <Elem Prompt="反渗透主机" Name="反渗透主机" PromptU="Main Engine of Reverse Osmosis" NameU="Main Engine of Reverse Osmosis"/>
+    <Elem Prompt="滤膜" Name="滤膜" PromptU="Membranes" NameU="Membranes"/>
+    <Elem Prompt="超微细筛机" Name="超微细筛机" PromptU="Micro screen" NameU="Micro screen"/>
+    <Elem Prompt="电动阀式浇口（关闭）" Name="电动阀式浇口（关闭）" PromptU="Motorized flow gate (closed)" NameU="Motorized flow gate (closed)"/>
+    <Elem Prompt="电动阀式浇口（打开）" Name="电动阀式浇口（打开）" PromptU="Motorized flow gate (open)" NameU="Motorized flow gate (open)"/>
+    <Elem Prompt="浮油回收器" Name="浮油回收器" PromptU="Oil skimmer" NameU="Oil skimmer"/>
+    <Elem Prompt="油水分离器 1" Name="油水分离器 1" PromptU="Oil-water separator 1" NameU="Oil-water separator 1"/>
+    <Elem Prompt="油水分离器 2" Name="油水分离器 2" PromptU="Oil-water separator 2" NameU="Oil-water separator 2"/>
+    <Elem Prompt="油水分离和回收装置" Name="油水分离和回收装置" PromptU="Oily water separation and recycling system" NameU="Oily water separation and recycling system"/>
+    <Elem Prompt="制氧机" Name="制氧机" PromptU="Oxygen generator" NameU="Oxygen generator"/>
+    <Elem Prompt="桨式干燥机" Name="桨式干燥机" PromptU="Paddle dryer" NameU="Paddle dryer"/>
+    <Elem Prompt="板式澄清器" Name="板式澄清器" PromptU="Plate clarifier" NameU="Plate clarifier"/>
+    <Elem Prompt="聚合物注入装置" Name="聚合物注入装置" PromptU="Polymer injection system" NameU="Polymer injection system"/>
+    <Elem Prompt="聚合物混合装置" Name="聚合物混合装置" PromptU="Polymer mixing system" NameU="Polymer mixing system"/>
+    <Elem Prompt="精细过滤器" Name="精细过滤器" PromptU="Precision Filter" NameU="Precision Filter"/>
+    <Elem Prompt="预滤器" Name="预滤器" PromptU="Pre-filter" NameU="Pre-filter"/>
+    <Elem Prompt="主澄清器" Name="主澄清器" PromptU="Primary clarifier" NameU="Primary clarifier"/>
+    <Elem Prompt="转鼓浓缩机" Name="转鼓浓缩机" PromptU="Rotary drum thickener" NameU="Rotary drum thickener"/>
+    <Elem Prompt="筛子" Name="筛子" PromptU="Screen" NameU="Screen"/>
+    <Elem Prompt="螺杆传动" Name="螺杆传动" PromptU="Screw drive" NameU="Screw drive"/>
+    <Elem Prompt="洗涤器设备" Name="洗涤器设备" PromptU="Scrubber module" NameU="Scrubber module"/>
+    <Elem Prompt="简单高位槽" Name="简单高位槽" PromptU="Simple elevated tank" NameU="Simple elevated tank"/>
+    <Elem Prompt="简单蒸发器" Name="简单蒸发器" PromptU="Simple evaporator" NameU="Simple evaporator"/>
+    <Elem Prompt="过滤器 5" Name="过滤器 5" PromptU="Simple filter 1" NameU="Simple filter 1"/>
+    <Elem Prompt="过滤器 6" Name="过滤器 6" PromptU="Simple filter 2" NameU="Simple filter 2"/>
+    <Elem Prompt="污泥消化池" Name="污泥消化池" PromptU="Sludge digester" NameU="Sludge digester"/>
+    <Elem Prompt="污泥塘" Name="污泥塘" PromptU="Sludge lagoon" NameU="Sludge lagoon"/>
+    <Elem Prompt="球形储罐 1" Name="球形储罐 1" PromptU="Spherical storage tank 1" NameU="Spherical storage tank 1"/>
+    <Elem Prompt="球形储罐 2" Name="球形储罐 2" PromptU="Spherical storage tank 2" NameU="Spherical storage tank 2"/>
+    <Elem Prompt="水龙头" Name="水龙头" PromptU="Spigot" NameU="Spigot"/>
+    <Elem Prompt="潜水式搅拌器" Name="潜水式搅拌器" PromptU="Submersible mixer" NameU="Submersible mixer"/>
+    <Elem Prompt="处理池" Name="处理池" PromptU="Treatment basin" NameU="Treatment basin"/>
+    <Elem Prompt="处理罐" Name="处理罐" PromptU="Treatment tanks" NameU="Treatment tanks"/>
+    <Elem Prompt="真空过滤器" Name="真空过滤器" PromptU="Vacuum filter" NameU="Vacuum filter"/>
+    <Elem Prompt="洗水处理和回收系统" Name="洗水处理和回收系统" PromptU="Wash water treatment and recovery system" NameU="Wash water treatment and recovery system"/>
+    <Elem Prompt="废水蒸发器" Name="废水蒸发器" PromptU="Wastewater evaporator" NameU="Wastewater evaporator"/>
+    <Elem Prompt="废水研磨机" Name="废水研磨机" PromptU="Wastewater grinder" NameU="Wastewater grinder"/>
+    <Elem Prompt="污水罐" Name="污水罐" PromptU="Wastewater tank" NameU="Wastewater tank"/>
+    <Elem Prompt="滤水器" Name="滤水器" PromptU="Water filter" NameU="Water filter"/>
+    <Elem Prompt="水处理池（俯视）" Name="水处理池（俯视）" PromptU="Water treatment basins (top view)" NameU="Water treatment basins (top view)"/>
+    <Elem Prompt="水处理厂" Name="水处理厂" PromptU="Water treatment plant" NameU="Water treatment plant"/>
+    <Elem Prompt="水处理罐" Name="水处理罐" PromptU="Water treatment storage" NameU="Water treatment storage"/>
+    <Elem Prompt="水处理系统" Name="水处理系统" PromptU="Water treatment system" NameU="Water treatment system"/>
+    <Elem Prompt="湿式收尘器" Name="湿式收尘器" PromptU="Wet dust collector" NameU="Wet dust collector"/>
+    <Elem Prompt="浴缸" Name="浴缸" PromptU="Bathtub" NameU="Bathtub"/>
+    <Elem Prompt="喷头" Name="喷头" PromptU="Shower head" NameU="Shower head"/>
+    <Elem Prompt="净水器" Name="净水器" PromptU="Water purifier" NameU="Water purifier"/>
+    <Elem Prompt="沉淀池" Name="沉淀池" PromptU="Sedimentation Basin" NameU="Sedimentation Basin"/>
+    <Elem Prompt="沉淀池 2" Name="沉淀池 2" PromptU="Settling tank" NameU="Settling tank"/>
+    <Elem Prompt="污泥浓缩池" Name="污泥浓缩池" PromptU="Sludge thickener" NameU="Sludge thickener"/>
+    <Elem Prompt="水渠" Name="水渠" PromptU="Water channel" NameU="Water channel"/>
+    <Elem Prompt="池塘" Name="池塘" PromptU="Pond" NameU="Pond"/>
+    <Elem Prompt="排水池" Name="排水池" PromptU="Drain" NameU="Drain"/>
+    <Elem Prompt="水解沉砂池" Name="水解沉砂池" PromptU="Hydrolysis of grit chamber" NameU="Hydrolysis of grit chamber"/>
+    <Elem Prompt="水解酸化池" Name="水解酸化池" PromptU="Hydrolyzation &amp; Acidification Pool" NameU="Hydrolyzation &amp; Acidification Pool"/>
+    <Elem Prompt="灰处理池" Name="灰处理池" PromptU="Ash disposal pond" NameU="Ash disposal pond"/>
+    <Elem Prompt="蓄水池" Name="蓄水池" PromptU="Reservoir" NameU="Reservoir"/>
+    <Elem Prompt="生物反应池" Name="生物反应池" PromptU="Biological reaction tank" NameU="Biological reaction tank"/>
+    <Elem Prompt="容器" Name="容器" PromptU="Container" NameU="Container"/>
+    <Elem Prompt="旋液分离器" Name="旋液分离器" PromptU="Hydrocyclone" NameU="Hydrocyclone"/>
+    <Elem Prompt="蒸发器" Name="蒸发器" PromptU="Evaporator" NameU="Evaporator"/>
+    <Elem Prompt="蒸发装置" Name="蒸发装置" PromptU="Evaporation" NameU="Evaporation"/>
+    <Elem Prompt="灌装机" Name="灌装机" PromptU="Filling Machine" NameU="Filling Machine"/>
+    <Elem Prompt="小瓶灌装机" Name="小瓶灌装机" PromptU="Small Bottle" NameU="Small Bottle"/>
+    <Elem Prompt="格栅" Name="格栅" PromptU="Grille" NameU="Grille"/>
+</Lib>

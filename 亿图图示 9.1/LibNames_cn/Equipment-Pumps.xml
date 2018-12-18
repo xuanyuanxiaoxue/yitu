@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Equipment - Pumps">
+    <Elem Prompt="压缩机" Name="压缩机" PromptU="Compressor" NameU="Compressor"/>
+    <Elem Prompt="往复式压缩机" Name="往复式压缩机" PromptU="Reciprocating compressor" NameU="Reciprocating compressor"/>
+    <Elem Prompt="往复式压缩机 2" Name="往复式压缩机 2" PromptU="Reciprocating compressor 2" NameU="Reciprocating compressor 2"/>
+    <Elem Prompt="往复式压缩机" Name="往复式压缩机" PromptU="Compressor silencers" NameU="Compressor silencers"/>
+    <Elem Prompt="离心机" Name="离心机" PromptU="Centrifugal" NameU="Centrifugal"/>
+    <Elem Prompt="回转式压缩机" Name="回转式压缩机" PromptU="Rotary compressor" NameU="Rotary compressor"/>
+    <Elem Prompt="回转式压缩机 2" Name="回转式压缩机 2" PromptU="Rotary compressor 2" NameU="Rotary compressor 2"/>
+    <Elem Prompt="回转式压缩机和消音器" Name="回转式压缩机和消音器" PromptU="Rotory compressor and silencers" NameU="Rotory compressor and silencers"/>
+    <Elem Prompt="水环式压缩机" Name="水环式压缩机" PromptU="Liquid ring compressor" NameU="Liquid ring compressor"/>
+    <Elem Prompt="离心式压缩机" Name="离心式压缩机" PromptU="Centrifugal compressor" NameU="Centrifugal compressor"/>
+    <Elem Prompt="离心式压缩机 2" Name="离心式压缩机 2" PromptU="Centrifugal compressor 2" NameU="Centrifugal compressor 2"/>
+    <Elem Prompt="离心式压缩机 3" Name="离心式压缩机 3" PromptU="Centrifugal compressor 3" NameU="Centrifugal compressor 3"/>
+    <Elem Prompt="离心式鼓风机" Name="离心式鼓风机" PromptU="Centrifugal blower" NameU="Centrifugal blower"/>
+    <Elem Prompt="可选式压缩机" Name="可选式压缩机" PromptU="Selectable compressor" NameU="Selectable compressor"/>
+    <Elem Prompt="轴流式压缩机" Name="轴流式压缩机" PromptU="Axial compressor" NameU="Axial compressor"/>
+    <Elem Prompt="泵" Name="泵" PromptU="Pump" NameU="Pump"/>
+    <Elem Prompt="离心泵" Name="离心泵" PromptU="Centrifugal pump" NameU="Centrifugal pump"/>
+    <Elem Prompt="离心泵 2" Name="离心泵 2" PromptU="Centrifugal pump 2" NameU="Centrifugal pump 2"/>
+    <Elem Prompt="离心泵 3" Name="离心泵 3" PromptU="Centrifugal pump 3" NameU="Centrifugal pump 3"/>
+    <Elem Prompt="离心泵 4" Name="离心泵 4" PromptU="Centrifugal pump 4" NameU="Centrifugal pump 4"/>
+    <Elem Prompt="瓦斯鼓风机" Name="瓦斯鼓风机" PromptU="Gas blower" NameU="Gas blower"/>
+    <Elem Prompt="立式泵" Name="立式泵" PromptU="Vertical pump" NameU="Vertical pump"/>
+    <Elem Prompt="液环真空泵" Name="液环真空泵" PromptU="Liquid ring vacuum pump" NameU="Liquid ring vacuum pump"/>
+    <Elem Prompt="正排量泵" Name="正排量泵" PromptU="Positive displacement pump" NameU="Positive displacement pump"/>
+    <Elem Prompt="卧式泵" Name="卧式泵" PromptU="Horizontal pump" NameU="Horizontal pump"/>
+    <Elem Prompt="立式泵" Name="立式泵" PromptU="Vertical pump" NameU="Vertical pump"/>
+    <Elem Prompt="油池泵" Name="油池泵" PromptU="Sump pump" NameU="Sump pump"/>
+    <Elem Prompt="正排量泵 2" Name="正排量泵 2" PromptU="Positive displacement pump 2" NameU="Positive displacement pump 2"/>
+    <Elem Prompt="旋转泵" Name="旋转泵" PromptU="Rotary pump" NameU="Rotary pump"/>
+    <Elem Prompt="旋转转子齿轮泵" Name="旋转转子齿轮泵" PromptU="Rotary gear pump" NameU="Rotary gear pump"/>
+    <Elem Prompt="蠕动泵" Name="蠕动泵" PromptU="Peristaltic pump" NameU="Peristaltic pump"/>
+    <Elem Prompt="齿轮泵" Name="齿轮泵" PromptU="Gear pump" NameU="Gear pump"/>
+    <Elem Prompt="配比泵" Name="配比泵" PromptU="Proportioning pump" NameU="Proportioning pump"/>
+    <Elem Prompt="真空泵" Name="真空泵" PromptU="Vacuum pump" NameU="Vacuum pump"/>
+    <Elem Prompt="螺旋泵" Name="螺旋泵" PromptU="Screw pump" NameU="Screw pump"/>
+    <Elem Prompt="螺旋泵 2" Name="螺旋泵 2" PromptU="Screw pump 2" NameU="Screw pump 2"/>
+    <Elem Prompt="螺杆泵" Name="螺杆泵" PromptU="Cavity pump" NameU="Cavity pump"/>
+    <Elem Prompt="潜水泵" Name="潜水泵" PromptU="Submersible pump" NameU="Submersible pump"/>
+    <Elem Prompt="往复式泵" Name="往复式泵" PromptU="Reciprocating pump" NameU="Reciprocating pump"/>
+    <Elem Prompt="往复式泵" Name="往复式泵" PromptU="Reciprocating pump" NameU="Reciprocating pump"/>
+    <Elem Prompt="正排量泵" Name="正排量泵" PromptU="Positive displacement pump" NameU="Positive displacement pump"/>
+    <Elem Prompt="涡轮泵" Name="涡轮泵" PromptU="Turbine pump" NameU="Turbine pump"/>
+    <Elem Prompt="泵 2" Name="泵 2" PromptU="Pump 2" NameU="Pump 2"/>
+    <Elem Prompt="风扇" Name="风扇" PromptU="Fan" NameU="Fan"/>
+    <Elem Prompt="可选式风扇" Name="可选式风扇" PromptU="Selectable fan" NameU="Selectable fan"/>
+    <Elem Prompt="扇叶" Name="扇叶" PromptU="Fan blades" NameU="Fan blades"/>
+    <Elem Prompt="扇叶 2" Name="扇叶 2" PromptU="Fan blades 2" NameU="Fan blades 2"/>
+    <Elem Prompt="三叶扇" Name="三叶扇" PromptU="Triple fan blades" NameU="Triple fan blades"/>
+    <Elem Prompt="轴流风机" Name="轴流风机" PromptU="Axial flow fan" NameU="Axial flow fan"/>
+    <Elem Prompt="涡轮机传动装置" Name="涡轮机传动装置" PromptU="Turbine driver" NameU="Turbine driver"/>
+    <Elem Prompt="双排气涡轮" Name="双排气涡轮" PromptU="Doubleflow turbine" NameU="Doubleflow turbine"/>
+    <Elem Prompt="电动涡轮" Name="电动涡轮" PromptU="Motor driven turbine" NameU="Motor driven turbine"/>
+    <Elem Prompt="喷射器" Name="喷射器" PromptU="Ejector" NameU="Ejector"/>
+    <Elem Prompt="喷雾" Name="喷雾" PromptU="Spray" NameU="Spray"/>
+    <Elem Prompt="马达" Name="马达" PromptU="Motor" NameU="Motor"/>
+    <Elem Prompt="柴油引擎" Name="柴油引擎" PromptU="Diesel motor" NameU="Diesel motor"/>
+    <Elem Prompt="ISO液体泵" Name="ISO液体泵" PromptU="ISO Liquid pump" NameU="ISO Liquid pump"/>
+    <Elem Prompt="ISO离心泵" Name="ISO离心泵" PromptU="ISO centrifugal pump" NameU="ISO centrifugal pump"/>
+    <Elem Prompt="ISO隔膜泵" Name="ISO隔膜泵" PromptU="ISO diaphragm pump" NameU="ISO diaphragm pump"/>
+    <Elem Prompt="ISO齿轮泵" Name="ISO齿轮泵" PromptU="ISO gear pump" NameU="ISO gear pump"/>
+    <Elem Prompt="ISO 推进泵" Name="ISO 推进泵" PromptU="ISO Progressive pump" NameU="ISO Progressive pump"/>
+    <Elem Prompt="ISO正排量泵" Name="ISO正排量泵" PromptU="ISO positive displacement pump" NameU="ISO positive displacement pump"/>
+    <Elem Prompt="ISO往复式活塞泵" Name="ISO往复式活塞泵" PromptU="ISO reciprocating piston pump" NameU="ISO reciprocating piston pump"/>
+    <Elem Prompt="ISO螺旋泵" Name="ISO螺旋泵" PromptU="ISO screw pump" NameU="ISO screw pump"/>
+</Lib>

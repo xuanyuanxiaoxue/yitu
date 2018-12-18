@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Meters">
+    <Elem Prompt="仪表 1" Name="仪表 1" PromptU="Meter 1" NameU="Meter 1"/>
+    <Elem Prompt="仪表 2" Name="仪表 2" PromptU="Meter 2" NameU="Meter 2"/>
+    <Elem Prompt="仪表 3" Name="仪表 3" PromptU="Meter 3" NameU="Meter 3"/>
+    <Elem Prompt="仪表 4" Name="仪表 4" PromptU="Meter 4" NameU="Meter 4"/>
+    <Elem Prompt="仪表 5" Name="仪表 5" PromptU="Meter 5" NameU="Meter 5"/>
+    <Elem Prompt="仪表 6" Name="仪表 6" PromptU="Meter 6" NameU="Meter 6"/>
+    <Elem Prompt="仪表 7" Name="仪表 7" PromptU="Meter 7" NameU="Meter 7"/>
+    <Elem Prompt="仪表 8" Name="仪表 8" PromptU="Meter 8" NameU="Meter 8"/>
+    <Elem Prompt="仪表 9" Name="仪表 9" PromptU="Meter 9" NameU="Meter 9"/>
+    <Elem Prompt="仪表 10" Name="仪表 10" PromptU="Meter 10" NameU="Meter 10"/>
+    <Elem Prompt="仪表 11" Name="仪表 11" PromptU="Meter 11" NameU="Meter 11"/>
+    <Elem Prompt="仪表 12" Name="仪表 12" PromptU="Meter 12" NameU="Meter 12"/>
+</Lib>

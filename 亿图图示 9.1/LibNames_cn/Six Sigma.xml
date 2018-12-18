@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Six Sigma Matrix">
+    <Elem Prompt="六西格玛" Name="六西格玛" PromptU="Six Matrix" NameU="Six Matrix"/>
+    <Elem Prompt="六西格玛" Name="六西格玛 2" PromptU="Six Matrix" NameU="Six Matrix 2"/>
+    <Elem Prompt="带名字的六西格玛" Name="带名字的六西格玛" PromptU="Six Matrix with Name" NameU="Six Matrix with Name"/>
+    <Elem Prompt="符号" Name="符号" PromptU="Flags" NameU="Flags"/>
+    <Elem Prompt="符号" Name="符号 2" PromptU="Flags" NameU="Flags 2"/>
+    <Elem Prompt="12种变形符号" Name="12种变形旗帜" PromptU="12-Role Flag" NameU="12-Role Flag"/>
+    <Elem Prompt="完成或取消" Name="完成或取消" PromptU="Complete or Cancel" NameU="Complete or Cancel"/>
+    <Elem Prompt="数字" Name="数字" PromptU="Numbering" NameU="Numbering"/>
+    <Elem Prompt="可变进度" Name="可变进度" PromptU="Dynamic Progress" NameU="Dynamic Progress"/>
+</Lib>

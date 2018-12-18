@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ThemeTexts Version="8.0">
+   <ThemeText VAlign="Center" Name="宋体" ID="1">
+        <Character IX="0" Family="宋体" Color="#ffffff" Size="10"/>
+        <Paragraph IndLeft="0" IndFirst="0" IndRight="0" SpLine="100" Align="4" IX="0"/>
+        <FontSchemeLst>
+            <FontScheme Flag="0" FontSize="10" FontName="宋体">
+                <Color Shade="50" Ref="#98b4d8" ThemeColor="5" V="#ff6e839e"/>
+                <BackgndColor V="#00ffffff"/>
+            </FontScheme>
+            <FontScheme Flag="0" FontSize="10" FontName="宋体">
+                <Color Shade="50" Ref="#98b4d8" ThemeColor="5" V="#ff6e839e"/>
+                <BackgndColor V="#00ffffff"/>
+            </FontScheme>
+            <FontScheme Flag="0" FontSize="10" FontName="宋体">
+                <Color V="#ffffffff"/>
+                <BackgndColor V="#00ffffff"/>
+            </FontScheme>
+            <FontScheme Flag="0" FontSize="10" FontName="宋体">
+                <Color V="#ffffffff"/>
+                <BackgndColor V="#00ffffff"/>
+            </FontScheme>
+            <FontScheme Flag="0" FontSize="10" FontName="宋体">
+                <Color V="#ffffffff"/>
+                <BackgndColor V="#00ffffff"/>
+            </FontScheme>
+            <FontScheme Flag="1" FontSize="10" FontName="宋体">
+                <Color V="#ffffffff"/>
+                <BackgndColor V="#00ffffff"/>
+            </FontScheme>
+            <FontScheme Flag="0" FontSize="10" FontName="宋体">
+                <Color Shade="50" Ref="#98b4d8" ThemeColor="5" V="#ff6e839e"/>
+                <BackgndColor V="#ffffffff"/>
+            </FontScheme>
+        </FontSchemeLst>
+    </ThemeText>
+    <ThemeText VAlign="Center" Name="仿宋" ID="2">
+        <Character IX="0" Family="仿宋" Color="#ffffff" Size="10"/>
+        <Paragraph IndLeft="0" IndFirst="0" IndRight="0" SpLine="100" Align="4" IX="0"/>
+        <FontSchemeLst>
+            <FontScheme Flag="0" FontSize="10" FontName="仿宋">
+                <Color Shade="50" Ref="#98b4d8" ThemeColor="5" V="#ff6e839e"/>
+                <BackgndColor V="#00ffffff"/>
+            </FontScheme>
+            <FontScheme Flag="0" FontSize="10" FontName="仿宋">
+                <Color Shade="50" Ref="#98b4d8" ThemeColor="5" V="#ff6e839e"/>
+                <BackgndColor V="#00ffffff"/>
+            </FontScheme>
+            <FontScheme Flag="0" FontSize="10" FontName="仿宋">
+                <Color V="#ffffffff"/>
+                <BackgndColor V="#00ffffff"/>
+            </FontScheme>
+            <FontScheme Flag="0" FontSize="10" FontName="仿宋">
+                <Color V="#ffffffff"/>
+                <BackgndColor V="#00ffffff"/>
+            </FontScheme>
+            <FontScheme Flag="0" FontSize="10" FontName="仿宋">
+                <Color V="#ffffffff"/>
+                <BackgndColor V="#00ffffff"/>
+            </FontScheme>
+            <FontScheme Flag="1" FontSize="11" FontName="仿宋">
+                <Color V="#ffffffff"/>
+                <BackgndColor V="#00ffffff"/>
+            </FontScheme>
+            <FontScheme Flag="0" FontSize="10" FontName="仿宋">
+                <Color Shade="50" Ref="#98b4d8" ThemeColor="5" V="#ff6e839e"/>
+                <BackgndColor V="#ffffffff"/>
+            </FontScheme>
+        </FontSchemeLst>
+    </ThemeText>
+    <ThemeText VAlign="Center" Name="微软雅黑" ID="3">
+        <Character IX="0" Family="微软雅黑" Color="#ffffff" Size="10"/>
+        <Paragraph IndLeft="0" IndFirst="0" IndRight="0" SpLine="100" Align="4" IX="0"/>
+        <FontSchemeLst>
+            <FontScheme Flag="0" FontSize="10" FontName="微软雅黑">
+                <Color Shade="50" Ref="#98b4d8" ThemeColor="5" V="#ff6e839e"/>
+                <BackgndColor V="#00ffffff"/>
+            </FontScheme>
+            <FontScheme Flag="0" FontSize="10" FontName="微软雅黑">
+                <Color Shade="50" Ref="#98b4d8" ThemeColor="5" V="#ff6e839e"/>
+                <BackgndColor V="#00ffffff"/>
+            </FontScheme>
+            <FontScheme Flag="0" FontSize="10" FontName="微软雅黑">
+                <Color V="#ffffffff"/>
+                <BackgndColor V="#00ffffff"/>
+            </FontScheme>
+            <FontScheme Flag="0" FontSize="10" FontName="微软雅黑">
+                <Color V="#ffffffff"/>
+                <BackgndColor V="#00ffffff"/>
+            </FontScheme>
+            <FontScheme Flag="0" FontSize="10" FontName="微软雅黑">
+                <Color V="#ffffffff"/>
+                <BackgndColor V="#00ffffff"/>
+            </FontScheme>
+            <FontScheme Flag="1" FontSize="11" FontName="微软雅黑">
+                <Color V="#ffffffff"/>
+                <BackgndColor V="#00ffffff"/>
+            </FontScheme>
+            <FontScheme Flag="0" FontSize="10" FontName="微软雅黑">
+                <Color Shade="50" Ref="#98b4d8" ThemeColor="5" V="#ff6e839e"/>
+                <BackgndColor V="#ffffffff"/>
+            </FontScheme>
+        </FontSchemeLst>
+    </ThemeText>
+    <ThemeText VAlign="Center" Name="楷体" ID="4">
+        <Character IX="0" Family="楷体" Color="#000000" Size="10"/>
+        <Paragraph IndLeft="0" IndFirst="0" IndRight="0" SpLine="100" Align="4" IX="0"/>
+        <FontSchemeLst>
+            <FontScheme Flag="0" FontSize="10" FontName="楷体">
+                <Color Shade="50" Ref="#73d6ed" ThemeColor="5" V="#ff539dae"/>
+                <BackgndColor V="#00ffffff"/>
+            </FontScheme>
+            <FontScheme Flag="0" FontSize="10" FontName="楷体">
+                <Color Shade="50" Ref="#73d6ed" ThemeColor="5" V="#ff539dae"/>
+                <BackgndColor V="#00ffffff"/>
+            </FontScheme>
+            <FontScheme Flag="0" FontSize="10" FontName="楷体">
+                <Color V="#ffffffff"/>
+                <BackgndColor V="#00ffffff"/>
+            </FontScheme>
+            <FontScheme Flag="0" FontSize="10" FontName="楷体">
+                <Color V="#ffffffff"/>
+                <BackgndColor V="#00ffffff"/>
+            </FontScheme>
+            <FontScheme Flag="0" FontSize="10" FontName="楷体">
+                <Color V="#ffffffff"/>
+                <BackgndColor V="#00ffffff"/>
+            </FontScheme>
+            <FontScheme Flag="0" FontSize="10" FontName="楷体">
+                <Color V="#ffffffff"/>
+                <BackgndColor V="#00ffffff"/>
+            </FontScheme>
+            <FontScheme Flag="0" FontSize="10" FontName="楷体">
+                <Color V="#ff303030"/>
+                <BackgndColor V="#ffffffff"/>
+            </FontScheme>
+        </FontSchemeLst>
+    </ThemeText>
+    <ThemeText VAlign="Center" Name="华文楷体" ID="5">
+        <Character IX="0" Family="华文楷体" Color="#000000" Size="10"/>
+        <Paragraph IndLeft="0" IndFirst="0" IndRight="0" SpLine="100" Align="4" IX="0"/>
+        <FontSchemeLst>
+            <FontScheme Flag="0" FontSize="10" FontName="华文楷体">
+                <Color Shade="70" Ref="#43bfff" ThemeColor="5" V="#ff236ea1"/>
+                <BackgndColor V="#00ffffff"/>
+            </FontScheme>
+            <FontScheme Flag="0" FontSize="10" FontName="华文楷体">
+                <Color Shade="70" Ref="#43bfff" ThemeColor="5" V="#ff236ea1"/>
+                <BackgndColor V="#00ffffff"/>
+            </FontScheme>
+            <FontScheme Flag="0" FontSize="10" FontName="华文楷体">
+                <Color Shade="70" Ref="#43bfff" ThemeColor="5" V="#ff236ea1"/>
+                <BackgndColor V="#00ffffff"/>
+            </FontScheme>
+            <FontScheme Flag="0" FontSize="10" FontName="华文楷体">
+                <Color Shade="70" Ref="#43bfff" ThemeColor="5" V="#ff236ea1"/>
+                <BackgndColor V="#00ffffff"/>
+            </FontScheme>
+            <FontScheme Flag="0" FontSize="10" FontName="华文楷体">
+                <Color V="#ffffffff"/>
+                <BackgndColor V="#00ffffff"/>
+            </FontScheme>
+            <FontScheme Flag="0" FontSize="10" FontName="华文楷体">
+                <Color V="#ffffffff"/>
+                <BackgndColor V="#00ffffff"/>
+            </FontScheme>
+            <FontScheme Flag="0" FontSize="10" FontName="华文楷体">
+                <Color Shade="70" Ref="#43bfff" ThemeColor="5" V="#ff236ea1"/>
+                <BackgndColor V="#ffffffff"/>
+            </FontScheme>
+        </FontSchemeLst>
+    </ThemeText>
+    <ThemeText VAlign="Center" Name="隶书" ID="6">
+        <Character IX="0" Family="隶书" Color="#000000" Size="10"/>
+        <Paragraph IndLeft="0" IndFirst="0" IndRight="0" SpLine="100" Align="4" IX="0"/>
+        <FontSchemeLst>
+            <FontScheme Flag="0" FontSize="10" FontName="隶书">
+                <Color Shade="50" Ref="#6fbcce" ThemeColor="5" V="#ff508997"/>
+                <BackgndColor V="#00ffffff"/>
+            </FontScheme>
+            <FontScheme Flag="0" FontSize="10" FontName="隶书">
+                <Color Shade="50" Ref="#6fbcce" ThemeColor="5" V="#ff508997"/>
+                <BackgndColor V="#00ffffff"/>
+            </FontScheme>
+            <FontScheme Flag="0" FontSize="10" FontName="隶书">
+                <Color V="#ffffffff"/>
+                <BackgndColor V="#00ffffff"/>
+            </FontScheme>
+            <FontScheme Flag="0" FontSize="10" FontName="隶书">
+                <Color Shade="50" Ref="#6fbcce" ThemeColor="5" V="#ff508997"/>
+                <BackgndColor V="#00ffffff"/>
+            </FontScheme>
+            <FontScheme Flag="0" FontSize="10" FontName="隶书">
+                <Color V="#ffffffff"/>
+                <BackgndColor V="#00ffffff"/>
+            </FontScheme>
+            <FontScheme Flag="0" FontSize="10" FontName="隶书">
+                <Color V="#ffffffff"/>
+                <BackgndColor V="#00ffffff"/>
+            </FontScheme>
+            <FontScheme Flag="0" FontSize="10" FontName="隶书">
+                <Color Shade="50" Ref="#6fbcce" ThemeColor="5" V="#ff508997"/>
+                <BackgndColor V="#ffffffff"/>
+            </FontScheme>
+        </FontSchemeLst>
+    </ThemeText>
+    <ThemeText VAlign="Center" Name="幼圆" ID="7">
+        <Character IX="0" Family="幼圆" Color="#000000" Size="10"/>
+        <Paragraph IndLeft="0" IndFirst="0" IndRight="0" SpLine="100" Align="4" IX="0"/>
+        <FontSchemeLst>
+            <FontScheme Flag="0" FontSize="10" FontName="幼圆">
+                <Color Shade="60" Ref="#c5f1ff" ThemeColor="5" V="#ff82a0b9"/>
+                <BackgndColor V="#00ffffff"/>
+            </FontScheme>
+            <FontScheme Flag="0" FontSize="10" FontName="幼圆">
+                <Color Shade="60" Ref="#c5f1ff" ThemeColor="5" V="#ff82a0b9"/>
+                <BackgndColor V="#00ffffff"/>
+            </FontScheme>
+            <FontScheme Flag="0" FontSize="10" FontName="幼圆">
+                <Color Shade="60" Ref="#c5f1ff" ThemeColor="5" V="#ff82a0b9"/>
+                <BackgndColor V="#00ffffff"/>
+            </FontScheme>
+            <FontScheme Flag="0" FontSize="10" FontName="幼圆">
+                <Color Shade="60" Ref="#c5f1ff" ThemeColor="5" V="#ff82a0b9"/>
+                <BackgndColor V="#00ffffff"/>
+            </FontScheme>
+            <FontScheme Flag="0" FontSize="10" FontName="幼圆">
+                <Color V="#ff454545"/>
+                <BackgndColor V="#00ffffff"/>
+            </FontScheme>
+            <FontScheme Flag="0" FontSize="10" FontName="幼圆">
+                <Color V="#ff454545"/>
+                <BackgndColor V="#00ffffff"/>
+            </FontScheme>
+            <FontScheme Flag="0" FontSize="10" FontName="幼圆">
+                <Color Shade="60" Ref="#c5f1ff" ThemeColor="5" V="#ff82a0b9"/>
+                <BackgndColor V="#ffffffff"/>
+            </FontScheme>
+        </FontSchemeLst>
+    </ThemeText>
+</ThemeTexts>

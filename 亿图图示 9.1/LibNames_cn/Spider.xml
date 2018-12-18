@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Spider">
+    <Elem Prompt="如何使用雷达图" Name="如何使用雷达图" PromptU="How to use Spider" NameU="How to use Spider"/>
+    <Elem Prompt="雷达图" Name="雷达图" PromptU="Spider" NameU="Spider"/>
+    <Elem Prompt="面积雷达图" Name="面积雷达图" PromptU="Area Spider" NameU="Area Spider"/>
+    <Elem Prompt="百分比雷达图" Name="百分比雷达图" PromptU="Percentage Spider" NameU="Percentage Spider"/>
+    <Elem Prompt="百分比面积雷达图" Name="百分比面积雷达图" PromptU="Percentage Area Spider" NameU="Percentage Area Spider"/>
+    <Elem Prompt="极性图" Name="极性图" PromptU="Polar" NameU="Polar"/>
+</Lib>

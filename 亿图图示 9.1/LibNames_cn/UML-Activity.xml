@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="UML Activity Diagram">
+    <Elem Prompt="活动" Name="活动" PromptU="Activity" NameU="Activity"/>
+    <Elem Prompt="状态" Name="状态" PromptU="State" NameU="State"/>
+    <Elem Prompt="状态中的对象" Name="状态中的对象" PromptU="Object in State" NameU="Object in State"/>
+    <Elem Prompt="决策活动" Name="决策活动" PromptU="Decision Activity" NameU="Decision Activity"/>
+    <Elem Prompt="角色" Name="角色" PromptU="Actor" NameU="Actor"/>
+    <Elem Prompt="控制流" Name="控制流" PromptU="Control Flow" NameU="Control Flow"/>
+    <Elem Prompt="控制流 2" Name="控制流 2" PromptU="Control Flow 2" NameU="Control Flow 2"/>
+    <Elem Prompt="对象流" Name="对象流" PromptU="Object Flow" NameU="Object Flow"/>
+    <Elem Prompt="对象流 2" Name="对象流 2" PromptU="Object Flow 2" NameU="Object Flow 2"/>
+    <Elem Prompt="水平同步栏" Name="水平同步栏" PromptU="Horizontal Synchronization Bar" NameU="Horizontal Synchronization Bar"/>
+    <Elem Prompt="垂直同步栏" Name="垂直同步栏" PromptU="Vertical Synchronization Bar" NameU="Vertical Synchronization Bar"/>
+    <Elem Prompt="初始状态" Name="初始状态" PromptU="Initial State" NameU="Initial State"/>
+    <Elem Prompt="最终状态" Name="最终状态" PromptU="Final State" NameU="Final State"/>
+    <Elem Prompt="泳道" Name="泳道" PromptU="Swimlane" NameU="Swimlane"/>
+    <Elem Prompt="多重触发" Name="多重触发" PromptU="Multiple Trigger" NameU="Multiple Trigger"/>
+    <Elem Prompt="符号《》" Name="符号《》" PromptU="Symbol &lt;&lt;and>>" NameU="Symbol &lt;&lt;and>>"/>
+    <Elem Prompt="约束" Name="约束" PromptU="Constraint" NameU="Constraint"/>
+    <Elem Prompt="注释" Name="注释" PromptU="Note" NameU="Note"/>
+</Lib>

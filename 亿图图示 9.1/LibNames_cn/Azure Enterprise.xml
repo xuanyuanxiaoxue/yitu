@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Azure Enterprise">
+    <Elem NameU="Active Directory Federation Services Proxy" Name="活动目录联合代理服务器" PromptU="Active Directory Federation Services Proxy" Prompt="活动目录联合代理服务器"/>
+    <Elem NameU="AD FS" Name="AD FS" PromptU="AD FS" Prompt="AD FS"/>
+    <Elem NameU="Android Phone" Name="安卓手机" PromptU="Android Phone" Prompt="安卓手机"/>
+    <Elem NameU="Application (blank for text)" Name="应用程序（空白文本）" PromptU="Application (blank for text)" Prompt="应用程序（空白文本）"/>
+    <Elem NameU="App Generic" Name="通用应用程序" PromptU="App Generic" Prompt="通用应用程序"/>
+    <Elem NameU="Application Server" Name="应用程序服务器" PromptU="Application Server" Prompt="应用程序服务器"/>
+    <Elem NameU="Azure Pack" Name="Azure安装包" PromptU="Azure Pack" Prompt="Azure 安装包"/>
+    <Elem NameU="Backup local" Name="本地备份" PromptU="Backup local" Prompt="本地备份"/>
+    <Elem NameU="Backup Online" Name="在线备份" PromptU="Backup Online" Prompt="在线备份"/>
+    <Elem NameU="Calendar" Name="日历" PromptU="Calendar" Prompt="日历"/>
+    <Elem NameU="Certificate" Name="证书" PromptU="Certificate" Prompt="证书"/>
+    <Elem NameU="Client Application" Name="客户端应用程序" PromptU="Client Application" Prompt="客户端应用程序"/>
+    <Elem NameU="Cloud" Name="云" PromptU="Cloud" Prompt="云"/>
+    <Elem NameU="Cluster Server" Name="集群服务器" PromptU="Cluster Server" Prompt="集群服务器"/>
+    <Elem NameU="Code File" Name="代码文件" PromptU="Code File" Prompt="代码文件"/>
+    <Elem NameU="Connectors" Name="连接器" PromptU="Connectors" Prompt="连接器"/>
+    <Elem NameU="Database Generic" Name="通用数据库" PromptU="Database Generic" Prompt="通用数据库"/>
+    <Elem NameU="Database Server" Name="数据库服务器" PromptU="Database Server" Prompt="数据库服务器"/>
+    <Elem NameU="Database Synchronization" Name="数据库同步" PromptU="Database Synchronization" Prompt="数据库同步"/>
+    <Elem NameU="Direct Access (feature)" Name="直接访问（特点）" PromptU="Direct Access (feature)" Prompt="直接访问（特点）"/>
+    <Elem NameU="Device" Name="设备" PromptU="Device" Prompt="设备"/>
+    <Elem NameU="Document DB File" Name="文档数据库文件" PromptU="Document DB File" Prompt="文档数据库文件"/>
+    <Elem NameU="Document" Name="文档" PromptU="Document" Prompt="文档"/>
+    <Elem NameU="Domain Controller" Name="域控制器" PromptU="Domain Controller" Prompt="域控制器"/>
+    <Elem NameU="Enterprise Building" Name="企业建筑" PromptU="Enterprise Building" Prompt="企业建筑"/>
+    <Elem NameU="File General" Name="通用文件" PromptU="File General" Prompt="通用文件"/>
+    <Elem NameU="Filter" Name="过滤器" PromptU="Filter" Prompt="过滤器"/>
+    <Elem NameU="Firewall" Name="防火墙" PromptU="Firewall" Prompt="防火墙"/>
+    <Elem NameU="Folder" Name="文件夹" PromptU="Folder" Prompt="文件夹"/>
+    <Elem NameU="Gateway" Name="网关" PromptU="Gateway" Prompt="网关"/>
+    <Elem NameU="Generic App Named Text" Name="应用程序" PromptU="Generic App Named Text" Prompt="应用程序"/>
+    <Elem NameU="Generic Code" Name="通用代码" PromptU="Generic Code" Prompt="通用代码"/>
+    <Elem NameU="Graph" Name="图形" PromptU="Graph" Prompt="图形"/>
+    <Elem NameU="Health Monitoring" Name="健康监控" PromptU="Health Monitoring" Prompt="健康监控"/>
+    <Elem NameU="Healthy" Name="健康" PromptU="Healthy" Prompt="健康"/>
+    <Elem NameU="Import Generic" Name="通用输入" PromptU="Import Generic" Prompt="通用输入"/>
+    <Elem NameU="Internet (hollow)" Name="网络（空心）" PromptU="Internet (hollow)" Prompt="网络（空心）"/>
+    <Elem NameU="Internet" Name="网络" PromptU="Internet" Prompt="网络"/>
+    <Elem NameU="iPhone" Name="苹果手机" PromptU="iPhone" Prompt="苹果手机"/>
+    <Elem NameU="Key Permissions" Name="密钥许可" PromptU="Key Permissions" Prompt="密钥许可"/>
+    <Elem NameU="Keyboard" Name="键盘" PromptU="Keyboard" Prompt="键盘"/>
+    <Elem NameU="Laptop Computer" Name="笔记本电脑" PromptU="Laptop Computer" Prompt="笔记本电脑"/>
+    <Elem NameU="Load Balancer (Generic)" Name="负载平衡器（通用）" PromptU="Load Balancer (Generic)" Prompt="负载平衡器（通用）"/>
+    <Elem NameU="Load Testing" Name="负载测试" PromptU="Load Testing" Prompt="负载测试"/>
+    <Elem NameU="lock Unlocked Accessible" Name="解锁" PromptU="lock Unlocked Accessible" Prompt="解锁"/>
+    <Elem NameU="Lock Protected" Name="锁保护" PromptU="Lock Protected" Prompt="锁保护"/>
+    <Elem NameU="Maintenance" Name="维护" PromptU="Maintenance" Prompt="维护"/>
+    <Elem NameU="Management Console" Name="管理控制台" PromptU="Management Console" Prompt="管理控制台"/>
+    <Elem NameU="Message" Name="信息" PromptU="Message" Prompt="信息"/>
+    <Elem NameU="Monitor Running Rpps" Name="运行监控" PromptU="Monitor Running Rpps" Prompt="运行监控"/>
+    <Elem NameU="Monitor" Name="监视器" PromptU="Monitor" Prompt="监视器"/>
+    <Elem NameU="Mouse" Name="鼠标" PromptU="Mouse" Prompt="鼠标"/>
+    <Elem NameU="Network Card" Name="网卡" PromptU="Network Card" Prompt="网卡"/>
+    <Elem NameU="Not Allowed" Name="禁止" PromptU="Not Allowed" Prompt="禁止"/>
+    <Elem NameU="Performance Monitor" Name="性能监控" PromptU="Performance Monitor" Prompt="性能监控"/>
+    <Elem NameU="Performance" Name="性能" PromptU="Performance" Prompt="性能"/>
+    <Elem NameU="Phone" Name="手机" PromptU="Phone" Prompt="手机"/>
+    <Elem NameU="Plug And Play" Name="即插即用系统" PromptU="Plug And Play" Prompt="即插即用系统"/>
+    <Elem NameU="PowerPoint" Name="PPT" PromptU="PowerPoint" Prompt="PPT"/>
+    <Elem NameU="Powershell Script File" Name="Powershell 脚本文件" PromptU="Powershell Script File" Prompt="Powershell 脚本文件"/>
+    <Elem NameU="Protocol Stack" Name="协议栈" PromptU="Protocol Stack" Prompt="协议栈"/>
+    <Elem NameU="Queue General" Name="通用队列" PromptU="Queue General" Prompt="通用队列"/>
+    <Elem NameU="RMS Connector" Name="RMS连接器" PromptU="RMS Connector" Prompt="RMS连接器"/>
+    <Elem NameU="Router" Name="路由器" PromptU="Router" Prompt="路由器"/>
+    <Elem NameU="Rpd Remoting File" Name="Rpd远程文件" PromptU="Rpd Remoting File" Prompt="Rpd远程文件"/>
+    <Elem NameU="Script File" Name="脚本文件" PromptU="Script File" Prompt="脚本文件"/>
+    <Elem NameU="Secure Virtual Machine" Name="安全虚拟机" PromptU="Secure Virtual Machine" Prompt="安全虚拟机"/>
+    <Elem NameU="Server (blade)" Name="刀片服务器" PromptU="Server (blade)" Prompt="刀片服务器"/>
+    <Elem NameU="Server (generic)" Name="通用服务器" PromptU="Server (generic)" Prompt="通用服务器"/>
+    <Elem NameU="Server Directory" Name="服务器目录" PromptU="Server Directory" Prompt="服务器目录"/>
+    <Elem NameU="Server Farm" Name="服务器群" PromptU="Server Farm" Prompt="服务器群"/>
+    <Elem NameU="Server Rack" Name="机架式服务器" PromptU="Server Rack" Prompt="机架式服务器"/>
+    <Elem NameU="Settings" Name="设置" PromptU="Settings" Prompt="设置"/>
+    <Elem NameU="Shared Folder" Name="共享文件夹" PromptU="Shared Folder" Prompt="共享文件夹"/>
+    <Elem NameU="Smartcard" Name="智能卡" PromptU="Smartcard" Prompt="智能卡"/>
+    <Elem NameU="Startup Task" Name="启动任务" PromptU="Startup Task" Prompt="启动任务"/>
+    <Elem NameU="Storage" Name="存储" PromptU="Storage" Prompt="存储"/>
+    <Elem NameU="Stored Procedures" Name="存储过程" PromptU="Stored Procedures" Prompt="存储过程"/>
+    <Elem NameU="Table" Name="表格" PromptU="Table" Prompt="表格"/>
+    <Elem NameU="Tablet" Name="平板电脑" PromptU="Tablet" Prompt="平板电脑"/>
+    <Elem NameU="Tool" Name="工具" PromptU="Tool" Prompt="工具"/>
+    <Elem NameU="Triggers" Name="触发器" PromptU="Triggers" Prompt="触发器"/>
+    <Elem NameU="Tunnel" Name="隧道" PromptU="Tunnel" Prompt="隧道"/>
+    <Elem NameU="UDF Function" Name="自定义函数" PromptU="UDF Function" Prompt="自定义函数"/>
+    <Elem NameU="Unhealthy" Name="不健康" PromptU="Unhealthy" Prompt="不健康"/>
+    <Elem NameU="USB" Name="USB" PromptU="USB" Prompt="USB"/>
+    <Elem NameU="User -Enterprise" Name="企业用户" PromptU="User -Enterprise" Prompt="企业用户"/>
+    <Elem NameU="User Permissions" Name="用户权限" PromptU="User Permissions" Prompt="用户权限"/>
+    <Elem NameU="Video" Name="视频" PromptU="Video" Prompt="视频"/>
+    <Elem NameU="Virtual Machine" Name="虚拟机" PromptU="Virtual Machine" Prompt="虚拟机"/>
+    <Elem NameU="Web Server" Name="网络服务器" PromptU="Web Server" Prompt="网络服务器"/>
+    <Elem NameU="Web" Name="万维网" PromptU="Web" Prompt="万维网"/>
+    <Elem NameU="WebSite (generic)" Name="通用网站" PromptU="WebSite (generic)" Prompt="通用网站"/>
+    <Elem NameU="Windows Server" Name="Windows服务器" PromptU="Windows Server" Prompt="Windows服务器"/>
+    <Elem NameU="Wireless Connection" Name="无线连接" PromptU="Wireless Connection" Prompt="无线连接"/>
+    <Elem NameU="Workstation Client" Name="工作站客户端" PromptU="Workstation Client" Prompt="工作站客户端"/>
+    <Elem NameU="XML Web Service" Name="XML网络服务" PromptU="XML Web Service" Prompt="XML网络服务"/>
+	<Elem NameU="Router" Name="路由器" PromptU="Router" Prompt="路由器"/>
+	<Elem NameU="Tool" Name="工具" PromptU="Tool" Prompt="工具"/>
+
+</Lib>

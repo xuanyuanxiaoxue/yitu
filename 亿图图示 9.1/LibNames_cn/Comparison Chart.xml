@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Comparison Chart">
+    <Elem Prompt="可改变列宽度和标题颜色" Name="空白比较表" PromptU="Blank Comparison Table" NameU="Blank Comparison Table"/>
+    <Elem Prompt="可改变列宽度和标题颜色" Name="空白比较表 - 绿色" PromptU="You can change column with and title bar color." NameU="Blank Comparison Table - Green"/>
+    <Elem Prompt="可改变列宽度和标题颜色" Name="空白比较表 - 暗红色" PromptU="You can change the column width and title bar color." NameU="Blank Comparison Table - Dark Red"/>
+    <Elem Prompt="比较表" Name="比较表" PromptU="Comparison Table" NameU="Comparison Table"/>
+    <Elem Prompt="比较表 2" Name="比较表 2" PromptU="Comparison Table 2" NameU="Comparison Table 2"/>
+    <Elem Prompt="产品比较表" Name="产品比较表" PromptU="Product Comparison" NameU="Product Comparison"/>
+    <Elem Prompt="是/否" Name="是/否" PromptU="Yes/No" NameU="Yes/No"/>
+    <Elem Prompt="3种状态 - 选中，没选中和空白." Name="勾选框" PromptU="There are three states - checked, unchecked and corss." NameU="Check Box"/>
+    <Elem Prompt="进度" Name="进度" PromptU="Progress" NameU="Progress"/>
+    <Elem Prompt="进度 2" Name="进度 2" PromptU="Progress 2" NameU="Progress 2"/>
+    <Elem Prompt="进度 3" Name="进度 3" PromptU="Progress 3" NameU="Progress 3"/>
+    <Elem Prompt="点击浮动按钮改变优先级" Name="优先级" PromptU="Priority" NameU="Priority"/>
+    <Elem Prompt="4种状态 - 紧急,高,正常,低." Name="3状态优先级" PromptU="Four states - Urgent, High, Normal, Low. You can edit the text." NameU="3-State Priority"/>
+    <Elem Prompt="3种状态 - 错误,警告,可操作,可编辑说明文字." Name="3状态警示符" PromptU="Three states - Error, Warning, Operational. You can edit the text." NameU="3-State Alert"/>
+    <Elem Prompt="6种状态 - 处理中,完成,确认,创建,设想,取消,可编辑说明文字." Name="6状态符" PromptU="There six states - In Porgress, Completed, Verified, Created, Draft, Canceled. You can edit the text." NameU="6-State Status"/>
+    <Elem Prompt="4方向箭头" Name="4方向箭头" PromptU="4-Direction Arrow" NameU="4-Direction Arrow"/>
+    <Elem Prompt="4方向箭头 2" Name="4方向箭头 2" PromptU="4-Direction Arrow 2" NameU="4-Direction Arrow 2"/>
+    <Elem Prompt="进度状态" Name="进度状态" PromptU="Progress Status" NameU="Progress Status"/>
+    <Elem Prompt="红绿灯" Name="红绿灯" PromptU="Trafic Light" NameU="Trafic Light"/>
+    <Elem Prompt="评价" Name="评价" PromptU="Rating" NameU="Rating"/>
+    <Elem Prompt="质量" Name="质量" PromptU="Quality" NameU="Quality"/>
+    <Elem Prompt="锁/解锁" Name="锁/解锁" PromptU="Lock/UnLock" NameU="Lock/UnLock"/>
+    <Elem Prompt="10种变形标志" Name="10种变形标志" PromptU="10 kinds of flag" NameU="10-State Flag"/>
+    <Elem Prompt="12种变形标志" Name="12种变形标志" PromptU="12 kinds of flag" NameU="12-State Flag"/>
+    <Elem Prompt="数字" Name="数字" PromptU="Numbering" NameU="Numbering"/>
+    <Elem Prompt="消息" Name="消息" PromptU="Message" NameU="Message"/>
+    <Elem Prompt="消息 2" Name="消息 2" PromptU="Message 2" NameU="Message 2"/>
+    <Elem Prompt="间隔条" Name="间隔条" PromptU="Spacing Bar" NameU="Spacing Bar"/>
+</Lib>

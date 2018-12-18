@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Transmission Path">
+    <Elem Prompt="电线" Name="电线" PromptU="Wire" NameU="Wire"/>
+    <Elem Prompt="电线 (直的)" Name="电线 (直的)" PromptU="Wire (Straight)" NameU="Wire (Straight)"/>
+    <Elem Prompt="多行总线" Name="多行总线" PromptU="multi-line bus" NameU="multi-line bus"/>
+    <Elem Prompt="多行总线弯线" Name="多行总线弯线" PromptU="multi-line bus elbow" NameU="multi-line bus elbow"/>
+    <Elem Prompt="直总线" Name="直总线" PromptU="Straight bus" NameU="Straight bus"/>
+    <Elem Prompt="弯线总线 1" Name="弯线总线 1" PromptU="Elbow bus 1" NameU="Elbow bus 1"/>
+    <Elem Prompt="接合点" Name="接合点" PromptU="Junction" NameU="Junction"/>
+    <Elem Prompt="接合点/交叉点" Name="接合点/交叉点" PromptU="Junction/ crossing" NameU="Junction/ crossing"/>
+    <Elem Prompt="各种结合点" Name="各种结合点" PromptU="Various junction" NameU="Various junction"/>
+    <Elem Prompt="端子" Name="端子" PromptU="Terminal" NameU="Terminal"/>
+    <Elem Prompt="端子列表" Name="端子列表" PromptU="Terminal list" NameU="Terminal list"/>
+    <Elem Prompt="端子板" Name="端子板" PromptU="Terminal block" NameU="Terminal block"/>
+    <Elem Prompt="三相端接设备" Name="三相端接设备" PromptU="Terminal 3-phase" NameU="Terminal 3-phase"/>
+    <Elem Prompt="测试点" Name="测试点" PromptU="Test point" NameU="Test point"/>
+    <Elem Prompt="标签" Name="标签" PromptU="Label" NameU="Label"/>
+    <Elem Prompt="传输路径" Name="传输路径" PromptU="Transmission path" NameU="Transmission path"/>
+    <Elem Prompt="传输路径 2" Name="传输路径 2" PromptU="Transmission path 2" NameU="Transmission path 2"/>
+    <Elem Prompt="传输路径 3" Name="传输路径 3" PromptU="Transmission path 3" NameU="Transmission path 3"/>
+    <Elem Prompt="传输路径 4" Name="传输路径 4" PromptU="Transmission path 4" NameU="Transmission path 4"/>
+    <Elem Prompt="流方向 左" Name="流方向 左" PromptU="Left direction flow" NameU="Left direction flow"/>
+    <Elem Prompt="流方向 右" Name="流方向 右" PromptU="Right direction flow" NameU="Right direction flow"/>
+    <Elem Prompt="线外流向" Name="线外流向" PromptU="Outware flow" NameU="Outware flow"/>
+    <Elem Prompt="线内流向" Name="线内流向" PromptU="Inware flow" NameU="Inware flow"/>
+    <Elem Prompt="电线/电缆" Name="电线/电缆" PromptU="Line / Cable" NameU="Line / Cable"/>
+    <Elem Prompt="地下电缆" Name="地下电缆" PromptU="Underground cable" NameU="Underground cable"/>
+    <Elem Prompt="海底电缆" Name="海底电缆" PromptU="Submarine cable" NameU="Submarine cable"/>
+    <Elem Prompt="负载电缆" Name="负载电缆" PromptU="Loaded cable" NameU="Loaded cable"/>
+    <Elem Prompt="电缆终端" Name="电缆终端" PromptU="Cable termination" NameU="Cable termination"/>
+    <Elem Prompt="引线组" Name="引线组" PromptU="Lead group" NameU="Lead group"/>
+    <Elem Prompt="2 导体电缆" Name="2 导体电缆" PromptU="2 conductors cable" NameU="2 conductors cable"/>
+    <Elem Prompt="电缆组" Name="电缆组" PromptU="Cable group" NameU="Cable group"/>
+    <Elem Prompt="防漏电设备" Name="防漏电设备" PromptU="Anticreepage device" NameU="Anticreepage device"/>
+    <Elem Prompt="集线器" Name="集线器" PromptU="Line concentrator" NameU="Line concentrator"/>
+    <Elem Prompt="高架外壳" Name="高架外壳" PromptU="Overground enclosure" NameU="Overground enclosure"/>
+    <Elem Prompt="光纤" Name="光纤" PromptU="Optical cable" NameU="Optical cable"/>
+    <Elem Prompt="电话线路" Name="电话线路" PromptU="Telephone line" NameU="Telephone line"/>
+    <Elem Prompt="电报线路" Name="电报线路" PromptU="Telegraphy line" NameU="Telegraphy line"/>
+    <Elem Prompt="视频线路" Name="视频线路" PromptU="Video line" NameU="Video line"/>
+    <Elem Prompt="双线线路" Name="双线线路" PromptU="Two-wire line" NameU="Two-wire line"/>
+    <Elem Prompt="四线线路" Name="四线线路" PromptU="Four-wire line" NameU="Four-wire line"/>
+    <Elem Prompt="弯线总线 2" Name="弯线总线 2" PromptU="Elbow bus 2" NameU="Elbow bus 2"/>
+    <Elem Prompt="总线宽度" Name="总线宽度" PromptU="Bus width" NameU="Bus width"/>
+</Lib>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Express-G">
+    <Elem Prompt="实体" Name="实体" PromptU="Entity" NameU="Entity"/>
+    <Elem Prompt="基本类型" Name="基本类型" PromptU="Base type" NameU="Base type"/>
+    <Elem Prompt="枚举类型" Name="枚举类型" PromptU="Enumerate type" NameU="Enumerate type"/>
+    <Elem Prompt="已定义类型" Name="已定义类型" PromptU="Defined type" NameU="Defined type"/>
+    <Elem Prompt="选择类型" Name="选择类型" PromptU="Select type" NameU="Select type"/>
+    <Elem Prompt="边界" Name="边界" PromptU="Boundary" NameU="Boundary"/>
+    <Elem Prompt="基数" Name="基数" PromptU="Pointer" NameU="Pointer"/>
+    <Elem Prompt="反转基数" Name="反转基数" PromptU="Cardinality" NameU="Cardinality"/>
+    <Elem Prompt="反转基数" Name="反转基数" PromptU="Inverse cardinality" NameU="Inverse cardinality"/>
+    <Elem Prompt="一般关系" Name="一般关系" PromptU="Normal relationship" NameU="Normal relationship"/>
+    <Elem Prompt="树结构" Name="树结构" PromptU="Tree structure" NameU="Tree structure"/>
+    <Elem Prompt="关系指针" Name="关系指针" PromptU="Relationship pointer" NameU="Relationship pointer"/>
+    <Elem Prompt="子类型/父类型" Name="子类型/父类型" PromptU="Subtype" NameU="Subtype"/>
+    <Elem Prompt="架构" Name="架构" PromptU="Schema" NameU="Schema"/>
+    <Elem Prompt="已使用实体" Name="已使用实体" PromptU="Used entity" NameU="Used entity"/>
+    <Elem Prompt="已引用实体" Name="已引用实体" PromptU="Referenced entity" NameU="Referenced entity"/>
+    <Elem Prompt="到页面引用" Name="到页面引用" PromptU="To page reference" NameU="To page reference"/>
+    <Elem Prompt="从页面引用" Name="从页面引用" PromptU="From page reference" NameU="From page reference"/>
+    <Elem Prompt="标签" Name="标签" PromptU="Label" NameU="Label"/>
+    <Elem Prompt="页面引用" Name="页面引用" PromptU="Page reference" NameU="Page reference"/>
+</Lib>

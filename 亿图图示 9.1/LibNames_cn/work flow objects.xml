@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Work Flow Objects">
+    <Elem Prompt="档案馆" Name="档案馆" PromptU="Archives" NameU="Archives"/>
+    <Elem Prompt="箱" Name="箱" PromptU="Box" NameU="Box"/>
+    <Elem Prompt="云账户" Name="云账户" PromptU="Cloud Account" NameU="Cloud Account"/>
+    <Elem Prompt="竞争者" Name="竞争者" PromptU="Competitor" NameU="Competitor"/>
+    <Elem Prompt="电脑" Name="电脑" PromptU="Computer" NameU="Computer"/>
+    <Elem Prompt="板条箱" Name="板条箱" PromptU="Crate" NameU="Crate"/>
+    <Elem Prompt="CD" Name="CD" PromptU="CD" NameU="CD"/>
+    <Elem Prompt="文件" Name="文件" PromptU="Document" NameU="Document"/>
+    <Elem Prompt="文件" Name="文件" PromptU="Documents" NameU="Documents"/>
+    <Elem Prompt="文件集" Name="文件集" PromptU="Document Collection" NameU="Document Collection"/>
+    <Elem Prompt="顾客" Name="顾客" PromptU="Customer" NameU="Customer"/>
+    <Elem Prompt="邮件" Name="邮件" PromptU="Email" NameU="Email"/>
+    <Elem Prompt="软盘" Name="软盘" PromptU="Floppy Disk" NameU="Floppy Disk"/>
+    <Elem Prompt="合拢的文件夹" Name="合拢的文件夹" PromptU="Folder Closed" NameU="Folder Closed"/>
+    <Elem Prompt="密封的文件夹" Name="密封的文件夹" PromptU="Folder Locked" NameU="Folder Locked"/>
+    <Elem Prompt="打开的文件夹" Name="打开的文件夹" PromptU="Folder Opened" NameU="Folder Opened"/>
+    <Elem Prompt="发票" Name="发票" PromptU="Invoice" NameU="Invoice"/>
+    <Elem Prompt="发票 2" Name="发票 2" PromptU="Invoice 2" NameU="Invoice 2"/>
+    <Elem Prompt="事项" Name="事项" PromptU="Issue" NameU="Issue"/>
+    <Elem Prompt="邮件" Name="邮件" PromptU="Mail" NameU="Mail"/>
+    <Elem Prompt="移动硬盘" Name="移动硬盘" PromptU="Mobile HD" NameU="Mobile HD"/>
+    <Elem Prompt="平板" Name="平板" PromptU="Pad" NameU="Pad"/>
+    <Elem Prompt="人 — 半身" Name="人 — 半身" PromptU="Person Torso" NameU="Person Torso"/>
+    <Elem Prompt="人" Name="人" PromptU="Person" NameU="Person"/>
+    <Elem Prompt="人 2" Name="人 2" PromptU="Person 2" NameU="Person 2"/>
+    <Elem Prompt="手机" Name="手机" PromptU="Phone" NameU="Phone"/>
+    <Elem Prompt="演示文档" Name="演示文档" PromptU="Presentation File" NameU="Presentation File"/>
+    <Elem Prompt="演示文档 2" Name="演示文档 2" PromptU="Presentation File 2" NameU="Presentation File 2"/>
+    <Elem Prompt="产品" Name="产品" PromptU="Product" NameU="Product"/>
+    <Elem Prompt="电子表格" Name="电子表格" PromptU="Spreadsheet" NameU="Spreadsheet"/>
+    <Elem Prompt="电子表格 2" Name="电子表格 2" PromptU="Spreadsheet 2" NameU="Spreadsheet 2"/>
+    <Elem Prompt="U 盘" Name="U 盘" PromptU="U Disk" NameU="U Disk"/>
+    <Elem Prompt="上传" Name="上传" PromptU="Upload" NameU="Upload"/>
+    <Elem Prompt="上传到云" Name="上传到云" PromptU="Upload to Cloud" NameU="Upload to Cloud"/>
+    <Elem Prompt="用户" Name="用户" PromptU="User" NameU="User"/>
+    <Elem Prompt="网页" Name="网页" PromptU="Webpage" NameU="Webpage"/>
+</Lib>

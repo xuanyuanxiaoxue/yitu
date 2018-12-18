@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Office">
+    <Elem NameU="File Folder" Name="文件夹" PromptU="File Folder" Prompt="文件夹"/>
+    <Elem NameU="File Folders" Name="文件夹" PromptU="File Folders" Prompt="文件夹"/>
+    <Elem NameU="Scratchpad" Name="便签簿" PromptU="Scratchpad" Prompt="便签簿"/>
+    <Elem NameU="Notebook" Name="笔记本" PromptU="Notebook" Prompt="笔记本"/>
+    <Elem NameU="Tablet" Name="便笺簿" PromptU="Tablet" Prompt="便笺簿"/>
+    <Elem NameU="Coffee Time" Name="咖啡时间" PromptU="Coffee Time" Prompt="咖啡时间"/>
+    <Elem NameU="Confidential" Name="保密文件" PromptU="Confidential" Prompt="保密文件"/>
+    <Elem NameU="Report" Name="报告" PromptU="Report" Prompt="报告"/>
+    <Elem NameU="Calculator" Name="计算器" PromptU="Calculator" Prompt="计算器"/>
+    <Elem NameU="Projector" Name="放映机" PromptU="Projector" Prompt="放映机"/>
+    <Elem NameU="Screen" Name="银幕" PromptU="Screen" Prompt="银幕"/>
+    <Elem NameU="Briefcase" Name="公文包" PromptU="Briefcase" Prompt="公文包"/>
+    <Elem NameU="Stamp" Name="图章" PromptU="Stamp" Prompt="图章"/>
+    <Elem NameU="Brooch" Name="领针" PromptU="Brooch" Prompt="领针"/>
+    <Elem NameU="Adhesive Tape" Name="胶带" PromptU="Adhesive Tape" Prompt="胶带"/>
+    <Elem NameU="Glue" Name="胶水" PromptU="Glue" Prompt="胶水"/>
+    <Elem NameU="Scissors" Name="剪刀" PromptU="Scissors" Prompt="剪刀"/>
+    <Elem NameU="Cutter" Name="切割刀" PromptU="Cutter" Prompt="切割刀"/>
+    <Elem NameU="Drafting Squares" Name="绘图尺" PromptU="Drafting Squares" Prompt="绘图尺"/>
+    <Elem NameU="Pencil" Name="铅笔" PromptU="Pencil" Prompt="铅笔"/>
+    <Elem NameU="Pen" Name="钢笔" PromptU="Pen" Prompt="钢笔"/>
+    <Elem NameU="Pencil Vase" Name="笔筒" PromptU="Pencil Vase" Prompt="笔筒"/>
+    <Elem NameU="Clip" Name="回形针" PromptU="Clip" Prompt="回形针"/>
+    <Elem NameU="Stapler" Name="订书机" PromptU="Stapler" Prompt="订书机"/>
+    <Elem NameU="Protractor" Name="量角器" PromptU="Protractor" Prompt="量角器"/>
+    <Elem NameU="Magnifier" Name="放大镜" PromptU="Magnifier" Prompt="放大镜"/>
+    <Elem NameU="Clock" Name="时钟" PromptU="Clock" Prompt="时钟"/>
+    <Elem NameU="Calendar" Name="日历" PromptU="Calendar" Prompt="日历"/>
+    <Elem NameU="Letter" Name="信" PromptU="Letter" Prompt="信"/>
+    <Elem NameU="Letters" Name="信纸" PromptU="Letters" Prompt="信纸"/>
+    <Elem NameU="Cabinet" Name="橱柜" PromptU="Cabinet" Prompt="橱柜"/>
+    <Elem NameU="Terrestrial Globe" Name="地球仪" PromptU="Terrestrial Globe" Prompt="地球仪"/>
+    <Elem NameU="Mailbox" Name="邮筒" PromptU="Mailbox" Prompt="邮筒"/>
+    <Elem NameU="Lock" Name="锁" PromptU="Lock" Prompt="锁"/>
+    <Elem NameU="Chair" Name="椅子" PromptU="Chair" Prompt="椅子"/>
+    <Elem NameU="Table" Name="桌子" PromptU="Table" Prompt="桌子"/>
+    <Elem NameU="Trash Bucket" Name="垃圾桶" PromptU="Trash Bucket" Prompt="垃圾桶"/>
+    <Elem NameU="Safe" Name="保险箱" PromptU="Safe" Prompt="保险箱"/>
+    <Elem NameU="Table Lamp" Name="台灯" PromptU="Table Lamp" Prompt="台灯"/>
+    <Elem NameU="Clipboard" Name="剪贴板" PromptU="Clipboard" Prompt="剪贴板"/>
+</Lib>

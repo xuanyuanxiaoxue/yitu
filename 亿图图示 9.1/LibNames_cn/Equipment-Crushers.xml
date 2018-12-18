@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Equipment - Crushers">
+    <Elem Prompt="破碎机" Name="破碎机" PromptU="Crusher" NameU="Crusher"/>
+    <Elem Prompt="粗破碎机" Name="粗破碎机" PromptU="Coarse crushers" NameU="Coarse crushers"/>
+    <Elem Prompt="中破碎机" Name="中破碎机" PromptU="Medium crushers" NameU="Medium crushers"/>
+    <Elem Prompt="细破碎机" Name="细破碎机" PromptU="Fine crushers" NameU="Fine crushers"/>
+    <Elem Prompt="多种式破碎机 " Name="多种破碎机 " PromptU="Various crushers" NameU="Various crushers"/>
+    <Elem Prompt="锤式破碎机" Name="锤式破碎机" PromptU="Hammer crusher" NameU="Hammer crusher"/>
+    <Elem Prompt="冲击式破碎机" Name="冲击式破碎机" PromptU="Impact crusher" NameU="Impact crusher"/>
+    <Elem Prompt="颚式破碎机" Name="颚式破碎机" PromptU="Jaw crusher" NameU="Jaw crusher"/>
+    <Elem Prompt="滚筒式碎石机" Name="滚筒式碎石机" PromptU="Roller crusher" NameU="Roller crusher"/>
+    <Elem Prompt="圆锥破碎机" Name="圆锥破碎机" PromptU="Cone crusher" NameU="Cone crusher"/>
+    <Elem Prompt="振动破碎机" Name="振动破碎机" PromptU="Vibration crusher" NameU="Vibration crusher"/>
+    <Elem Prompt="锤式破碎机" Name="锤式破碎机" PromptU="Hammer crusher" NameU="Hammer crusher"/>
+</Lib>

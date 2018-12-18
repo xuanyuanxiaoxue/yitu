@@ -1,0 +1,2933 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Examples>
+    <Gallery NameU="Basic Diagram">
+        <Template>
+            <Sample Path="./Basic Diagram/PPT Presentation/PPT Presentation 12.eddx"/>
+            <Sample Path="./Basic Diagram/PPT Presentation/PPT Presentation 4.eddx"/>
+            <Sample Path="./Basic Diagram/PPT Presentation/PPT Presentation 8.eddx"/>
+            <Sample Path="./Basic Diagram/PPT Presentation/PPT Presentation 16.eddx"/>
+            <Sample Path="./Basic Diagram/PPT Presentation/PPT Presentation 11.eddx"/>
+            <Sample Path="./Basic Diagram/PPT Presentation/PPT Presentation 7.eddx"/>
+            <Sample Path="./Basic Diagram/PPT Presentation/PPT Presentation 9.eddx"/>
+            <Sample Path="./Basic Diagram/PPT Presentation/PPT Presentation 14.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 1.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 3.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 5.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 7.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 10.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 11.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 12.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 13.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 16.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 18.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 21.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 19.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 26.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 22.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 9.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 24.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 23.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 17.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 2.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 8.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 1.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 7.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 4.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 31.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 9.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 10.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 28.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 33.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 19.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 6.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 23.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 20.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 3.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 16.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 15.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 32.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 18.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 5.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 14.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 30.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 8.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 25.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 17.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 27.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 2.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 24.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 29.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/Main Idea Details 5.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/Main Idea Details 3.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/Main Idea Details 7.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/Main Idea Details 1.eddx"/>
+            <Sample Path="./Basic Diagram/3D Block/3D Block 1.eddx"/>
+            <Sample Path="./Basic Diagram/3D Block/3D Block 2.eddx"/>
+            <Sample Path="./Basic Diagram/3D Block/3D Block 3.eddx"/>
+            <Sample Path="./Basic Diagram/3D Block/3D Block 4.eddx"/>
+            <Sample Path="./Basic Diagram/3D Block/3D Block 5.eddx"/>
+            <Sample Path="./Basic Diagram/3D Block/3D Block 6.eddx"/>
+            <Sample Path="./Basic Diagram/3D Block/3D Block 7.eddx"/>
+            <Sample Path="./Basic Diagram/3D Block/3D Block 8.eddx"/>
+            <Sample Path="./Basic Diagram/3D Block/3D Block 9.eddx"/>
+            <Sample Path="./Basic Diagram/3D Block/3D Block 11.eddx"/>
+            <Sample Path="./Basic Diagram/3D Block/3D Block 14.eddx"/>
+            <Sample Path="./Basic Diagram/3D Block/3D Block 13.eddx"/>
+            <Sample Path="./Basic Diagram/3D Block/3D Block 15.eddx"/>
+            <Sample Path="./Basic Diagram/3D Block/3D Block 16.eddx"/>
+            <Sample Path="./Basic Diagram/3D Block/3D Block 17.eddx"/>
+            <Sample Path="./Basic Diagram/3D Block/3D Block 18.eddx"/>
+            <Sample Path="./Basic Diagram/3D Block/3D Block 20.eddx"/>
+            <Sample Path="./Basic Diagram/3D Block/3D Block 19.eddx"/>
+            <Sample Path="./Basic Diagram/3D Block/3D Block 23.eddx"/>
+            <Sample Path="./Basic Diagram/Circle Spoke/Circle Spoke 1.eddx"/>
+            <Sample Path="./Basic Diagram/Circle Spoke/Circle Spoke 6.eddx"/>
+            <Sample Path="./Basic Diagram/Circle Spoke/Circle Spoke 7.eddx"/>
+            <Sample Path="./Basic Diagram/Circle Spoke/Circle Spoke 8.eddx"/>
+            <Sample Path="./Basic Diagram/Circle Spoke/Circle Spoke 9.eddx"/>
+            <Sample Path="./Basic Diagram/Circle Spoke/Circle Spoke 3.eddx"/>
+            <Sample Path="./Basic Diagram/Circle Spoke/Circle Spoke 10.eddx"/>
+            <Sample Path="./Basic Diagram/Circle Spoke/Circle Spoke 5.eddx"/>
+            <Sample Path="./Basic Diagram/Circle Spoke/Circle Spoke 2.eddx"/>
+            <Sample Path="./Basic Diagram/Circle Spoke/Circle Spoke 4.eddx"/>
+            <Sample Path="./Basic Diagram/Circular Diagram/Circular Diagram 1.eddx"/>
+            <Sample Path="./Basic Diagram/Circular Diagram/Circular Diagram 4.eddx"/>
+            <Sample Path="./Basic Diagram/Circular Diagram/Circular Diagram 9.eddx"/>
+            <Sample Path="./Basic Diagram/Circular Diagram/Circular Diagram 17.eddx"/>
+            <Sample Path="./Basic Diagram/Circular Diagram/Circular Diagram 22.eddx"/>
+            <Sample Path="./Basic Diagram/Circular Diagram/Circular Diagram 7.eddx"/>
+            <Sample Path="./Basic Diagram/Circular Diagram/Circular Diagram 10.eddx"/>
+            <Sample Path="./Basic Diagram/Circular Diagram/Circular Diagram 6.eddx"/>
+            <Sample Path="./Basic Diagram/Circular Diagram/Circular Diagram 15.eddx"/>
+            <Sample Path="./Basic Diagram/Circular Diagram/Circular Diagram 19.eddx"/>
+            <Sample Path="./Basic Diagram/Circular Diagram/Circular Diagram 18.eddx"/>
+            <Sample Path="./Basic Diagram/Circular Diagram/Circular Diagram 20.eddx"/>
+            <Sample Path="./Basic Diagram/Circular Diagram/Circular Diagram 12.eddx"/>
+            <Sample Path="./Basic Diagram/Circular Diagram/Circular Diagram 23.eddx"/>
+            <Sample Path="./Basic Diagram/Circular Diagram/Circular Diagram 5.eddx"/>
+            <Sample Path="./Basic Diagram/Circular Diagram/Circular Diagram 8.eddx"/>
+            <Sample Path="./Basic Diagram/Circular Diagram/Circular Diagram 24.eddx"/>
+            <Sample Path="./Basic Diagram/Circular Diagram/Circular Diagram 16.eddx"/>
+            <Sample Path="./Basic Diagram/Circular Diagram/Circular Diagram 13.eddx"/>
+            <Sample Path="./Basic Diagram/Circular Diagram/Circular Diagram 3.eddx"/>
+            <Sample Path="./Basic Diagram/Circular Diagram/Circular Diagram 2.eddx"/>
+            <Sample Path="./Basic Diagram/Circular Diagram/Circular Diagram 14.eddx"/>
+            <Sample Path="./Basic Diagram/Circular Diagram/Circular Diagram 21.eddx"/>
+            <Sample Path="./Basic Diagram/3D Block/Highlight Shape Diagram 1.eddx"/>
+            <Sample Path="./Basic Diagram/3D Block/Highlight Shape Diagram 2.eddx"/>
+            <Sample Path="./Basic Diagram/3D Block/Highlight Shape Diagram 3.eddx"/>
+            <Sample Path="./Basic Diagram/3D Block/Highlight Shape Diagram 4.eddx"/>
+            <Sample Path="./Basic Diagram/List Diagram/List Diagram 1.eddx"/>
+            <Sample Path="./Basic Diagram/List Diagram/List Diagram 8.eddx"/>
+            <Sample Path="./Basic Diagram/List Diagram/List Diagram 17.eddx"/>
+            <Sample Path="./Basic Diagram/List Diagram/List Diagram 14.eddx"/>
+            <Sample Path="./Basic Diagram/List Diagram/List Diagram 10.eddx"/>
+            <Sample Path="./Basic Diagram/List Diagram/List Diagram 16.eddx"/>
+            <Sample Path="./Basic Diagram/List Diagram/List Diagram 18.eddx"/>
+            <Sample Path="./Basic Diagram/List Diagram/List Diagram 12.eddx"/>
+            <Sample Path="./Basic Diagram/List Diagram/List Diagram 19.eddx"/>
+            <Sample Path="./Basic Diagram/List Diagram/List Diagram 22.eddx"/>
+            <Sample Path="./Basic Diagram/List Diagram/List Diagram 11.eddx"/>
+            <Sample Path="./Basic Diagram/List Diagram/List Diagram 5.eddx"/>
+            <Sample Path="./Basic Diagram/List Diagram/List Diagram 7.eddx"/>
+            <Sample Path="./Basic Diagram/List Diagram/List Diagram 24.eddx"/>
+            <Sample Path="./Basic Diagram/List Diagram/List Diagram 13.eddx"/>
+            <Sample Path="./Basic Diagram/List Diagram/List Diagram 2.eddx"/>
+            <Sample Path="./Basic Diagram/List Diagram/List Diagram 25.eddx"/>
+            <Sample Path="./Basic Diagram/List Diagram/List Diagram 6.eddx"/>
+            <Sample Path="./Basic Diagram/List Diagram/List Diagram 9.eddx"/>
+            <Sample Path="./Basic Diagram/List Diagram/List Diagram 15.eddx"/>
+            <Sample Path="./Basic Diagram/List Diagram/List Diagram 29.eddx"/>
+            <Sample Path="./Basic Diagram/List Diagram/List Diagram 23.eddx"/>
+            <Sample Path="./Basic Diagram/List Diagram/List Diagram 4.eddx"/>
+            <Sample Path="./Basic Diagram/List Diagram/List Diagram 27.eddx"/>
+            <Sample Path="./Basic Diagram/List Diagram/List Diagram 30.eddx"/>
+            <Sample Path="./Basic Diagram/List Diagram/List Diagram 21.eddx"/>
+            <Sample Path="./Basic Diagram/List Diagram/List Diagram 28.eddx"/>
+            <Sample Path="./Basic Diagram/List Diagram/List Diagram 3.eddx"/>
+            <Sample Path="./Basic Diagram/Pyramid Diagram/Pyramid Diagram 1.eddx"/>
+            <Sample Path="./Basic Diagram/Pyramid Diagram/Pyramid Diagram 3.eddx"/>
+            <Sample Path="./Basic Diagram/Pyramid Diagram/Pyramid Diagram 4.eddx"/>
+            <Sample Path="./Basic Diagram/Pyramid Diagram/Pyramid Diagram 14.eddx"/>
+            <Sample Path="./Basic Diagram/Pyramid Diagram/Pyramid Diagram 6.eddx"/>
+            <Sample Path="./Basic Diagram/Pyramid Diagram/Pyramid Diagram 17.eddx"/>
+            <Sample Path="./Basic Diagram/Pyramid Diagram/Pyramid Diagram 5.eddx"/>
+            <Sample Path="./Basic Diagram/Pyramid Diagram/Pyramid Diagram 12.eddx"/>
+            <Sample Path="./Basic Diagram/Pyramid Diagram/Pyramid Diagram 15.eddx"/>
+            <Sample Path="./Basic Diagram/Pyramid Diagram/Pyramid Diagram 2.eddx"/>
+            <Sample Path="./Basic Diagram/Pyramid Diagram/Pyramid Diagram 16.eddx"/>
+            <Sample Path="./Basic Diagram/Pyramid Diagram/Pyramid Diagram 9.eddx"/>
+            <Sample Path="./Basic Diagram/Pyramid Diagram/Pyramid Diagram 13.eddx"/>
+            <Sample Path="./Basic Diagram/Pyramid Diagram/Pyramid Diagram 7.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 2.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 5.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 6.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 7.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 8.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 9.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 10.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 11.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 12.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 13.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 14.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 15.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 16.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 17.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 18.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 19.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 20.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 21.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 22.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 23.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 26.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 27.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 28.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 29.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 30.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 31.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 32.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 33.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 34.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 35.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 37.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 38.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 40.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 1.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 4.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 3.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 36.eddx"/>
+            <Sample Path="./Basic Diagram/Venn Diagram/Venn Diagram 29.eddx"/>
+            <Sample Path="./Basic Diagram/Venn Diagram/Venn Diagram 13.eddx"/>
+            <Sample Path="./Basic Diagram/Venn Diagram/Venn Diagram 11.eddx"/>
+            <Sample Path="./Basic Diagram/Venn Diagram/Venn Diagram 2.eddx"/>
+            <Sample Path="./Basic Diagram/Venn Diagram/Venn Diagram 6.eddx"/>
+            <Sample Path="./Basic Diagram/Venn Diagram/Venn Diagram 16.eddx"/>
+            <Sample Path="./Basic Diagram/Venn Diagram/Venn Diagram 12.eddx"/>
+            <Sample Path="./Basic Diagram/Venn Diagram/Venn Diagram 14.eddx"/>
+            <Sample Path="./Basic Diagram/Venn Diagram/Venn Diagram 28.eddx"/>
+            <Sample Path="./Basic Diagram/Venn Diagram/Venn Diagram 24.eddx"/>
+            <Sample Path="./Basic Diagram/Venn Diagram/Venn Diagram 15.eddx"/>
+            <Sample Path="./Basic Diagram/Venn Diagram/Venn Diagram 3.eddx"/>
+            <Sample Path="./Basic Diagram/Venn Diagram/Venn Diagram 7.eddx"/>
+            <Sample Path="./Basic Diagram/Venn Diagram/Venn Diagram 1.eddx"/>
+            <Sample Path="./Basic Diagram/PPT Presentation/PPT Presentation 5.eddx"/>
+            <Sample Path="./Basic Diagram/PPT Presentation/PPT Presentation 3.eddx"/>
+            <Sample Path="./Basic Diagram/PPT Presentation/PPT Presentation 2.eddx"/>
+            <Sample Path="./Basic Diagram/PPT Presentation/PPT Presentation 17.eddx"/>
+            <Sample Path="./Basic Diagram/PPT Presentation/PPT Presentation 6.eddx"/>
+            <Sample Path="./Basic Diagram/Venn Diagram/Venn Diagram 21.eddx"/>
+            <Sample Path="./Basic Diagram/Venn Diagram/Venn Diagram 23.eddx"/>
+            <Sample Path="./Basic Diagram/Venn Diagram/Venn Diagram 20.eddx"/>
+            <Sample Path="./Basic Diagram/Venn Diagram/Venn Diagram 17.eddx"/>
+            <Sample Path="./Basic Diagram/Venn Diagram/Venn Diagram 9.eddx"/>
+            <Sample Path="./Basic Diagram/Venn Diagram/Venn Diagram 18.eddx"/>
+            <Sample Path="./Basic Diagram/List Diagram/List Diagram 20.eddx"/>
+            <Sample Path="./Basic Diagram/List Diagram/List Diagram 26.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 39.eddx"/>
+            <Sample Path="./Basic Diagram/Venn Diagram/Venn Diagram 26.eddx"/>
+            <Sample Path="./Basic Diagram/Venn Diagram/Venn Diagram 19.eddx"/>
+            <Sample Path="./Basic Diagram/PPT Presentation/PPT Presentation 20.eddx"/>
+            <Sample Path="./Basic Diagram/Venn Diagram/Venn Diagram 10.eddx"/>
+            <Sample Path="./Basic Diagram/Venn Diagram/Venn Diagram 22.eddx"/>
+            <Sample Path="./Basic Diagram/Venn Diagram/Venn Diagram 8.eddx"/>
+            <Sample Path="./Basic Diagram/Venn Diagram/Venn Diagram 5.eddx"/>
+            <Sample Path="./Basic Diagram/Venn Diagram/Venn Diagram 4.eddx"/>
+            <Sample Path="./Basic Diagram/Venn Diagram/Venn Diagram 25.eddx"/>
+            <Sample Path="./Basic Diagram/Venn Diagram/Venn Diagram 27.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 20.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 14.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 4.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 6.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 15.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 25.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 26.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 13.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 12.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 21.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 22.eddx"/>
+            <Sample Path="./Basic Diagram/PPT Presentation/PPT Presentation 1.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 25.eddx"/>
+            <Sample Path="./Basic Diagram/PPT Presentation/PPT Presentation 18.eddx"/>
+            <Sample Path="./Basic Diagram/PPT Presentation/PPT Presentation 10.eddx"/>
+            <Sample Path="./Basic Diagram/PPT Presentation/PPT Presentation 19.eddx"/>
+            <Sample Path="./Basic Diagram/PPT Presentation/PPT Presentation 13.eddx"/>
+            <Sample Path="./Basic Diagram/PPT Presentation/PPT Presentation 15.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 24.eddx"/>
+        </Template>
+        <Template NameU="Arrows">
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 1.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 21.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 3.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 18.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 5.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 7.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 22.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 12.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 11.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 13.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 10.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 16.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 24.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 9.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 19.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 26.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 23.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 2.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 17.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 8.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 20.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 14.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 4.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 6.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 15.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 25.eddx"/>
+        </Template>
+        <Template NameU="Block Diagram">
+            <Sample Path="./Basic Diagram/2D Block/2D Block 7.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 1.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 4.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 31.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 9.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 10.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 28.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 33.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 19.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 6.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 23.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 20.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 3.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 16.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 15.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 32.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 18.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 5.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 14.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 30.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 8.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 25.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 17.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 27.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 2.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 24.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 29.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/Main Idea Details 5.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/Main Idea Details 3.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/Main Idea Details 1.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 26.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 13.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 12.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 21.eddx"/>
+            <Sample Path="./Basic Diagram/2D Block/2D Block 22.eddx"/>
+        </Template>
+        <Template NameU="Block Diagram (3D)">
+            <Sample Path="./Basic Diagram/3D Block/3D Block 1.eddx"/>
+            <Sample Path="./Basic Diagram/3D Block/3D Block 2.eddx"/>
+            <Sample Path="./Basic Diagram/3D Block/3D Block 3.eddx"/>
+            <Sample Path="./Basic Diagram/3D Block/3D Block 4.eddx"/>
+            <Sample Path="./Basic Diagram/3D Block/3D Block 5.eddx"/>
+            <Sample Path="./Basic Diagram/3D Block/3D Block 6.eddx"/>
+            <Sample Path="./Basic Diagram/3D Block/3D Block 7.eddx"/>
+            <Sample Path="./Basic Diagram/3D Block/3D Block 8.eddx"/>
+            <Sample Path="./Basic Diagram/3D Block/3D Block 9.eddx"/>
+            <Sample Path="./Basic Diagram/3D Block/3D Block 11.eddx"/>
+            <Sample Path="./Basic Diagram/3D Block/3D Block 14.eddx"/>
+            <Sample Path="./Basic Diagram/3D Block/3D Block 13.eddx"/>
+            <Sample Path="./Basic Diagram/3D Block/3D Block 15.eddx"/>
+            <Sample Path="./Basic Diagram/3D Block/3D Block 16.eddx"/>
+            <Sample Path="./Basic Diagram/3D Block/3D Block 17.eddx"/>
+            <Sample Path="./Basic Diagram/3D Block/3D Block 18.eddx"/>
+            <Sample Path="./Basic Diagram/3D Block/3D Block 20.eddx"/>
+            <Sample Path="./Basic Diagram/3D Block/3D Block 10.eddx"/>
+            <Sample Path="./Basic Diagram/3D Block/3D Block 12.eddx"/>
+            <Sample Path="./Basic Diagram/3D Block/3D Block 19.eddx"/>
+            <Sample Path="./Basic Diagram/3D Block/3D Block 23.eddx"/>
+        </Template>
+        <Template NameU="Circle-Spoke Diagram">
+            <Sample Path="./Basic Diagram/Circle Spoke/Circle Spoke 1.eddx"/>
+            <Sample Path="./Basic Diagram/Circle Spoke/Circle Spoke 6.eddx"/>
+            <Sample Path="./Basic Diagram/Circle Spoke/Circle Spoke 7.eddx"/>
+            <Sample Path="./Basic Diagram/Circle Spoke/Circle Spoke 8.eddx"/>
+            <Sample Path="./Basic Diagram/Circle Spoke/Circle Spoke 9.eddx"/>
+            <Sample Path="./Basic Diagram/Circle Spoke/Circle Spoke 3.eddx"/>
+            <Sample Path="./Basic Diagram/Circle Spoke/Circle Spoke 10.eddx"/>
+            <Sample Path="./Basic Diagram/Circle Spoke/Circle Spoke 5.eddx"/>
+            <Sample Path="./Basic Diagram/Circle Spoke/Circle Spoke 2.eddx"/>
+            <Sample Path="./Basic Diagram/Circle Spoke/Circle Spoke 4.eddx"/>
+        </Template>
+        <Template NameU="Circular Diagram">
+            <Sample Path="./Basic Diagram/Circular Diagram/Circular Diagram 1.eddx"/>
+            <Sample Path="./Basic Diagram/Circular Diagram/Circular Diagram 4.eddx"/>
+            <Sample Path="./Basic Diagram/Circular Diagram/Circular Diagram 9.eddx"/>
+            <Sample Path="./Basic Diagram/Circular Diagram/Circular Diagram 17.eddx"/>
+            <Sample Path="./Basic Diagram/Circular Diagram/Circular Diagram 22.eddx"/>
+            <Sample Path="./Basic Diagram/Circular Diagram/Circular Diagram 7.eddx"/>
+            <Sample Path="./Basic Diagram/Circular Diagram/Circular Diagram 10.eddx"/>
+            <Sample Path="./Basic Diagram/Circular Diagram/Circular Diagram 6.eddx"/>
+            <Sample Path="./Basic Diagram/Circular Diagram/Circular Diagram 15.eddx"/>
+            <Sample Path="./Basic Diagram/Circular Diagram/Circular Diagram 19.eddx"/>
+            <Sample Path="./Basic Diagram/Circular Diagram/Circular Diagram 18.eddx"/>
+            <Sample Path="./Basic Diagram/Circular Diagram/Circular Diagram 20.eddx"/>
+            <Sample Path="./Basic Diagram/Circular Diagram/Circular Diagram 12.eddx"/>
+            <Sample Path="./Basic Diagram/Circular Diagram/Circular Diagram 23.eddx"/>
+            <Sample Path="./Basic Diagram/Circular Diagram/Circular Diagram 5.eddx"/>
+            <Sample Path="./Basic Diagram/Circular Diagram/Circular Diagram 8.eddx"/>
+            <Sample Path="./Basic Diagram/Circular Diagram/Circular Diagram 24.eddx"/>
+            <Sample Path="./Basic Diagram/Circular Diagram/Circular Diagram 16.eddx"/>
+            <Sample Path="./Basic Diagram/Circular Diagram/Circular Diagram 13.eddx"/>
+            <Sample Path="./Basic Diagram/Circular Diagram/Circular Diagram 3.eddx"/>
+            <Sample Path="./Basic Diagram/Circular Diagram/Circular Diagram 2.eddx"/>
+            <Sample Path="./Basic Diagram/Circular Diagram/Circular Diagram 14.eddx"/>
+            <Sample Path="./Basic Diagram/Circular Diagram/Circular Diagram 21.eddx"/>
+        </Template>
+        <Template NameU="Highlight Shapes">
+            <Sample Path="./Basic Diagram/3D Block/Highlight Shape Diagram 1.eddx"/>
+            <Sample Path="./Basic Diagram/3D Block/Highlight Shape Diagram 2.eddx"/>
+            <Sample Path="./Basic Diagram/3D Block/Highlight Shape Diagram 3.eddx"/>
+            <Sample Path="./Basic Diagram/3D Block/Highlight Shape Diagram 4.eddx"/>
+        </Template>
+        <Template NameU="Lists">
+            <Sample Path="./Basic Diagram/List Diagram/List Diagram 1.eddx"/>
+            <Sample Path="./Basic Diagram/List Diagram/List Diagram 8.eddx"/>
+            <Sample Path="./Basic Diagram/List Diagram/List Diagram 17.eddx"/>
+            <Sample Path="./Basic Diagram/List Diagram/List Diagram 14.eddx"/>
+            <Sample Path="./Basic Diagram/List Diagram/List Diagram 10.eddx"/>
+            <Sample Path="./Basic Diagram/List Diagram/List Diagram 16.eddx"/>
+            <Sample Path="./Basic Diagram/List Diagram/List Diagram 18.eddx"/>
+            <Sample Path="./Basic Diagram/List Diagram/List Diagram 12.eddx"/>
+            <Sample Path="./Basic Diagram/List Diagram/List Diagram 19.eddx"/>
+            <Sample Path="./Basic Diagram/List Diagram/List Diagram 22.eddx"/>
+            <Sample Path="./Basic Diagram/List Diagram/List Diagram 11.eddx"/>
+            <Sample Path="./Basic Diagram/List Diagram/List Diagram 5.eddx"/>
+            <Sample Path="./Basic Diagram/List Diagram/List Diagram 7.eddx"/>
+            <Sample Path="./Basic Diagram/List Diagram/List Diagram 24.eddx"/>
+            <Sample Path="./Basic Diagram/List Diagram/List Diagram 13.eddx"/>
+            <Sample Path="./Basic Diagram/List Diagram/List Diagram 2.eddx"/>
+            <Sample Path="./Basic Diagram/List Diagram/List Diagram 25.eddx"/>
+            <Sample Path="./Basic Diagram/List Diagram/List Diagram 6.eddx"/>
+            <Sample Path="./Basic Diagram/List Diagram/List Diagram 9.eddx"/>
+            <Sample Path="./Basic Diagram/List Diagram/List Diagram 15.eddx"/>
+            <Sample Path="./Basic Diagram/List Diagram/List Diagram 29.eddx"/>
+            <Sample Path="./Basic Diagram/List Diagram/List Diagram 23.eddx"/>
+            <Sample Path="./Basic Diagram/List Diagram/List Diagram 4.eddx"/>
+            <Sample Path="./Basic Diagram/List Diagram/List Diagram 27.eddx"/>
+            <Sample Path="./Basic Diagram/List Diagram/List Diagram 30.eddx"/>
+            <Sample Path="./Basic Diagram/List Diagram/List Diagram 21.eddx"/>
+            <Sample Path="./Basic Diagram/List Diagram/List Diagram 28.eddx"/>
+            <Sample Path="./Basic Diagram/List Diagram/List Diagram 3.eddx"/>
+            <Sample Path="./Basic Diagram/List Diagram/List Diagram 20.eddx"/>
+            <Sample Path="./Basic Diagram/List Diagram/List Diagram 26.eddx"/>
+        </Template>
+        <Template NameU="Presentation">
+            <Sample Path="./Basic Diagram/PPT Presentation/PPT Presentation 11.eddx"/>
+            <Sample Path="./Basic Diagram/PPT Presentation/PPT Presentation 4.eddx"/>
+            <Sample Path="./Basic Diagram/PPT Presentation/PPT Presentation 16.eddx"/>
+            <Sample Path="./Basic Diagram/PPT Presentation/PPT Presentation 7.eddx"/>
+            <Sample Path="./Basic Diagram/PPT Presentation/PPT Presentation 8.eddx"/>
+            <Sample Path="./Basic Diagram/PPT Presentation/PPT Presentation 5.eddx"/>
+            <Sample Path="./Basic Diagram/PPT Presentation/PPT Presentation 2.eddx"/>
+            <Sample Path="./Basic Diagram/PPT Presentation/PPT Presentation 3.eddx"/>
+            <Sample Path="./Basic Diagram/PPT Presentation/PPT Presentation 9.eddx"/>
+            <Sample Path="./Basic Diagram/PPT Presentation/PPT Presentation 6.eddx"/>
+            <Sample Path="./Basic Diagram/PPT Presentation/PPT Presentation 12.eddx"/>
+            <Sample Path="./Basic Diagram/PPT Presentation/PPT Presentation 14.eddx"/>
+            <Sample Path="./Basic Diagram/PPT Presentation/PPT Presentation 17.eddx"/>
+            <Sample Path="./Basic Diagram/PPT Presentation/PPT Presentation 15.eddx"/>
+            <Sample Path="./Basic Diagram/PPT Presentation/PPT Presentation 13.eddx"/>
+            <Sample Path="./Basic Diagram/PPT Presentation/PPT Presentation 18.eddx"/>
+            <Sample Path="./Basic Diagram/PPT Presentation/PPT Presentation 19.eddx"/>
+            <Sample Path="./Basic Diagram/PPT Presentation/PPT Presentation 20.eddx"/>
+            <Sample Path="./Basic Diagram/PPT Presentation/PPT Presentation 1.eddx"/>
+            <Sample Path="./Basic Diagram/PPT Presentation/PPT Presentation 10.eddx"/>
+        </Template>
+        <Template NameU="Pyramid Chart">
+            <Sample Path="./Basic Diagram/Pyramid Diagram/Pyramid Diagram 1.eddx"/>
+            <Sample Path="./Basic Diagram/Pyramid Diagram/Pyramid Diagram 3.eddx"/>
+            <Sample Path="./Basic Diagram/Pyramid Diagram/Pyramid Diagram 4.eddx"/>
+            <Sample Path="./Basic Diagram/Pyramid Diagram/Pyramid Diagram 14.eddx"/>
+            <Sample Path="./Basic Diagram/Pyramid Diagram/Pyramid Diagram 6.eddx"/>
+            <Sample Path="./Basic Diagram/Pyramid Diagram/Pyramid Diagram 17.eddx"/>
+            <Sample Path="./Basic Diagram/Pyramid Diagram/Pyramid Diagram 5.eddx"/>
+            <Sample Path="./Basic Diagram/Pyramid Diagram/Pyramid Diagram 12.eddx"/>
+            <Sample Path="./Basic Diagram/Pyramid Diagram/Pyramid Diagram 11.eddx"/>
+            <Sample Path="./Basic Diagram/Pyramid Diagram/Pyramid Diagram 15.eddx"/>
+            <Sample Path="./Basic Diagram/Pyramid Diagram/Pyramid Diagram 2.eddx"/>
+            <Sample Path="./Basic Diagram/Pyramid Diagram/Pyramid Diagram 16.eddx"/>
+            <Sample Path="./Basic Diagram/Pyramid Diagram/Pyramid Diagram 13.eddx"/>
+            <Sample Path="./Basic Diagram/Pyramid Diagram/Pyramid Diagram 9.eddx"/>
+            <Sample Path="./Basic Diagram/Pyramid Diagram/Pyramid Diagram 7.eddx"/>
+            <Sample Path="./Basic Diagram/Pyramid Diagram/Pyramid Diagram 8.eddx"/>
+            <Sample Path="./Basic Diagram/Pyramid Diagram/Pyramid Diagram 10.eddx"/>
+        </Template>
+        <Template NameU="Timeline">
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 2.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 5.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 6.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 8.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 7.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 9.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 12.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 13.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 14.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 15.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 16.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 17.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 19.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 20.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 21.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 26.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 30.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 31.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 18.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 29.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 32.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 33.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 35.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 28.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 38.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 22.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 40.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 37.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 10.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 27.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 23.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 34.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 3.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 36.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 1.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 11.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 4.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 25.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 24.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 39.eddx"/>
+        </Template>
+        <Template NameU="Venn Diagram">
+            <Sample Path="./Basic Diagram/Venn Diagram/Venn Diagram 29.eddx"/>
+            <Sample Path="./Basic Diagram/Venn Diagram/Venn Diagram 13.eddx"/>
+            <Sample Path="./Basic Diagram/Venn Diagram/Venn Diagram 11.eddx"/>
+            <Sample Path="./Basic Diagram/Venn Diagram/Venn Diagram 2.eddx"/>
+            <Sample Path="./Basic Diagram/Venn Diagram/Venn Diagram 6.eddx"/>
+            <Sample Path="./Basic Diagram/Venn Diagram/Venn Diagram 16.eddx"/>
+            <Sample Path="./Basic Diagram/Venn Diagram/Venn Diagram 12.eddx"/>
+            <Sample Path="./Basic Diagram/Venn Diagram/Venn Diagram 14.eddx"/>
+            <Sample Path="./Basic Diagram/Venn Diagram/Venn Diagram 28.eddx"/>
+            <Sample Path="./Basic Diagram/Venn Diagram/Venn Diagram 24.eddx"/>
+            <Sample Path="./Basic Diagram/Venn Diagram/Venn Diagram 15.eddx"/>
+            <Sample Path="./Basic Diagram/Venn Diagram/Venn Diagram 3.eddx"/>
+            <Sample Path="./Basic Diagram/Venn Diagram/Venn Diagram 7.eddx"/>
+            <Sample Path="./Basic Diagram/Venn Diagram/Venn Diagram 1.eddx"/>
+            <Sample Path="./Basic Diagram/Venn Diagram/Venn Diagram 21.eddx"/>
+            <Sample Path="./Basic Diagram/Venn Diagram/Venn Diagram 23.eddx"/>
+            <Sample Path="./Basic Diagram/Venn Diagram/Venn Diagram 20.eddx"/>
+            <Sample Path="./Basic Diagram/Venn Diagram/Venn Diagram 17.eddx"/>
+            <Sample Path="./Basic Diagram/Venn Diagram/Venn Diagram 9.eddx"/>
+            <Sample Path="./Basic Diagram/Venn Diagram/Venn Diagram 18.eddx"/>
+            <Sample Path="./Basic Diagram/Venn Diagram/Venn Diagram 26.eddx"/>
+            <Sample Path="./Basic Diagram/Venn Diagram/Venn Diagram 19.eddx"/>
+            <Sample Path="./Basic Diagram/Venn Diagram/Venn Diagram 10.eddx"/>
+            <Sample Path="./Basic Diagram/Venn Diagram/Venn Diagram 22.eddx"/>
+            <Sample Path="./Basic Diagram/Venn Diagram/Venn Diagram 8.eddx"/>
+            <Sample Path="./Basic Diagram/Venn Diagram/Venn Diagram 5.eddx"/>
+            <Sample Path="./Basic Diagram/Venn Diagram/Venn Diagram 4.eddx"/>
+            <Sample Path="./Basic Diagram/Venn Diagram/Venn Diagram 25.eddx"/>
+            <Sample Path="./Basic Diagram/Venn Diagram/Venn Diagram 27.eddx"/>
+        </Template>
+    </Gallery>
+    <Gallery NameU="Business Diagram">
+        <Template>
+            <Sample Path="./Business Diagram/Audit Process Flowchart.eddx"/>
+            <Sample Path="./Business Diagram/Edraw Smart Shapes.eddx"/>
+            <Sample Path="./Business Diagram/Thinking Diagram.eddx"/>
+            <Sample Path="./Business Diagram/Marketing Diagram 1.eddx"/>
+            <Sample Path="./Business Diagram/Marketing Diagram 5.eddx"/>
+            <Sample Path="./Business Diagram/Marketing Diagram 6.eddx"/>
+            <Sample Path="./Business Diagram/Marketing Diagram 9.eddx"/>
+            <Sample Path="./Business Diagram/Tree Presentation.eddx"/>
+            <Sample Path="./Business Diagram/Bulb Diagram.eddx"/>
+            <Sample Path="./Business Diagram/Dmaic Analysis.eddx"/>
+            <Sample Path="./Business Diagram/Call Center SIPOC.eddx"/>
+            <Sample Path="./Business Diagram/Simple SIPOC.eddx"/>
+            <Sample Path="./Business Diagram/SIPOC.eddx"/>
+            <Sample Path="./Business Diagram/Business Architecture.eddx"/>
+            <Sample Path="./Business Diagram/Business Arrow.eddx"/>
+            <Sample Path="./Business Diagram/Bulb Diagram 2.eddx"/>
+            <Sample Path="./Business Diagram/Dmaic Model.eddx"/>
+            <Sample Path="./Business Diagram/Fishbone-Live a Healthy Life.eddx"/>
+            <Sample Path="./Business Diagram/Fishbone Diagram 2.eddx"/>
+            <Sample Path="./Business Diagram/Fishbone Diagram 3.eddx"/>
+            <Sample Path="./Business Diagram/Fishbone Diagram 4.eddx"/>
+            <Sample Path="./Business Diagram/Fishbone Diagram 6.eddx"/>
+            <Sample Path="./Business Diagram/Event-Driven Process Chain.eddx"/>
+            <Sample Path="./Business Diagram/Event-Driven Process Diagram.eddx"/>
+            <Sample Path="./Business Diagram/Repair Process EPC.eddx"/>
+            <Sample Path="./Business Diagram/Bowman Strategy Clock.eddx"/>
+            <Sample Path="./Business Diagram/Enterprise Architecture 2.eddx"/>
+            <Sample Path="./Business Diagram/Enterprise Architecture 1.eddx"/>
+            <Sample Path="./Business Diagram/Reporting Framework.eddx"/>
+            <Sample Path="./Business Diagram/Relation Chart.eddx"/>
+            <Sample Path="./Business Diagram/Bulb Diagram 3.eddx"/>
+            <Sample Path="./Business Diagram/Total Quality Management Diagram.eddx"/>
+            <Sample Path="./Business Diagram/7S Models.eddx"/>
+            <Sample Path="./Business Diagram/Fault Tree Analysis.eddx"/>
+            <Sample Path="./Business Diagram/Fault Tree - Sea.eddx"/>
+            <Sample Path="./Business Diagram/Motor Fail Fault Tree.eddx"/>
+            <Sample Path="./Business Diagram/Target Diagram - Passion.eddx"/>
+            <Sample Path="./Business Diagram/PEST Diagram.eddx"/>
+            <Sample Path="./Business Diagram/Porter's Five Forces model.eddx"/>
+            <Sample Path="./Business Diagram/Business Process Steps.eddx"/>
+            <Sample Path="./Business Diagram/PEST Template.eddx"/>
+            <Sample Path="./Business Diagram/Business Event List.eddx"/>
+            <Sample Path="./Business Diagram/Gears Diagram - Energy.eddx"/>
+            <Sample Path="./Business Diagram/RACI Matrix.eddx"/>
+            <Sample Path="./Business Diagram/Marketing Diagram 3.eddx"/>
+            <Sample Path="./Business Diagram/Spoke Chart.eddx"/>
+            <Sample Path="./Business Diagram/Marketing Diagram 4.eddx"/>
+            <Sample Path="./Business Diagram/Marketing Diagram 7.eddx"/>
+            <Sample Path="./Business Diagram/Marketing Diagram 8.eddx"/>
+            <Sample Path="./Business Diagram/RACI Model.eddx"/>
+            <Sample Path="./Business Diagram/Edraw Product Comparison.eddx"/>
+            <Sample Path="./Business Diagram/Value Chain Template.eddx"/>
+            <Sample Path="./Business Diagram/Product Value Stream.eddx"/>
+            <Sample Path="./Business Diagram/Value Stream Template.eddx"/>
+            <Sample Path="./Business Diagram/Business Matrix - Fade.eddx"/>
+            <Sample Path="./Business Diagram/BCG Matrix.eddx"/>
+            <Sample Path="./Business Diagram/Product Matrix.eddx"/>
+            <Sample Path="./Business Diagram/PDCA Cycle.eddx"/>
+            <Sample Path="./Business Diagram/SWOT - Energy.eddx"/>
+            <Sample Path="./Business Diagram/Business Matrix - Energy.eddx"/>
+            <Sample Path="./Business Diagram/Ansoff Matrix.eddx"/>
+            <Sample Path="./Business Diagram/List and Matrix - Autumn.eddx"/>
+            <Sample Path="./Business Diagram/Market Analysis.eddx"/>
+            <Sample Path="./Business Diagram/SWOT - Sea.eddx"/>
+            <Sample Path="./Business Diagram/SWOT - Autumn.eddx"/>
+            <Sample Path="./Business Diagram/Company SWOT.eddx"/>
+            <Sample Path="./Business Diagram/PDCA Cycle Model.eddx"/>
+            <Sample Path="./Business Diagram/Business Process List.eddx"/>
+            <Sample Path="./Business Diagram/Business Presentation.eddx"/>
+            <Sample Path="./Business Diagram/Cloud Diagram.eddx"/>
+            <Sample Path="./Business Diagram/Impact Effort Template 1.eddx"/>
+            <Sample Path="./Business Diagram/Impact Effort Template 2.eddx"/>
+            <Sample Path="./Business Diagram/Efficiency and Effective Template 1.eddx"/>
+            <Sample Path="./Business Diagram/Turtle Diagram 1.eddx"/>
+            <Sample Path="./Business Diagram/Causal Loop Diagram.eddx"/>
+        </Template>
+        <Template NameU="Audit Diagram">
+            <Sample Path="./Business Diagram/Audit Process Flowchart.eddx"/>
+        </Template>
+        <Template NameU="Business Matrix">
+            <Sample Path="./Business Diagram/BCG Matrix.eddx"/>
+            <Sample Path="./Business Diagram/SWOT - Autumn.eddx"/>
+            <Sample Path="./Business Diagram/SWOT - Sea.eddx"/>
+            <Sample Path="./Business Diagram/Business Matrix - Fade.eddx"/>
+            <Sample Path="./Business Diagram/SWOT - Energy.eddx"/>
+            <Sample Path="./Business Diagram/Company SWOT.eddx"/>
+            <Sample Path="./Business Diagram/List and Matrix - Autumn.eddx"/>
+            <Sample Path="./Business Diagram/PDCA Cycle.eddx"/>
+            <Sample Path="./Business Diagram/Ansoff Matrix.eddx"/>
+            <Sample Path="./Business Diagram/Efficiency and Effective Template 1.eddx"/>
+            <Sample Path="./Business Diagram/Impact Effort Template 1.eddx"/>
+            <Sample Path="./Business Diagram/Market Analysis.eddx"/>
+            <Sample Path="./Business Diagram/PDCA Cycle Model.eddx"/>
+            <Sample Path="./Business Diagram/Impact Effort Template 2.eddx"/>
+        </Template>
+        <Template NameU="Cause and Effect (Fishbone)">
+            <Sample Path="./Business Diagram/Fishbone Diagram 3.eddx"/>
+            <Sample Path="./Business Diagram/Fishbone-Live a Healthy Life.eddx"/>
+            <Sample Path="./Business Diagram/Fishbone Diagram Template.eddx"/>
+            <Sample Path="./Business Diagram/Fishbone Diagram 6.eddx"/>
+            <Sample Path="./Business Diagram/Fishbone Diagram 2.eddx"/>
+            <Sample Path="./Business Diagram/Fishbone Diagram 4.eddx"/>
+        </Template>
+        <Template NameU="EPC">
+            <Sample Path="./Business Diagram/Event-Driven Process Diagram.eddx"/>
+            <Sample Path="./Business Diagram/Repair Process EPC.eddx"/>
+            <Sample Path="./Business Diagram/Event-Driven Process Chain.eddx"/>
+        </Template>
+        <Template NameU="Enterprise Architecture">
+            <Sample Path="./Business Diagram/Enterprise Architecture 1.eddx"/>
+            <Sample Path="./Business Diagram/Enterprise Architecture 2.eddx"/>
+        </Template>
+        <Template NameU="Fault Tree Analysis">
+            <Sample Path="./Business Diagram/Fault Tree - Sea.eddx"/>
+            <Sample Path="./Business Diagram/Fault Tree Analysis.eddx"/>
+            <Sample Path="./Business Diagram/Motor Fail Fault Tree.eddx"/>
+        </Template>
+        <Template NameU="Five Forces Chart">
+            <Sample Path="./Business Diagram/Dmaic Model.eddx"/>
+            <Sample Path="./Business Diagram/7S Models.eddx"/>
+            <Sample Path="./Business Diagram/Porter's Five Forces model.eddx"/>
+        </Template>
+        <Template NameU="Marketing Charts and Diagrams">
+            <Sample Path="./Business Diagram/Gears Diagram - Energy.eddx"/>
+            <Sample Path="./Business Diagram/Marketing Diagram 1.eddx"/>
+            <Sample Path="./Business Diagram/Marketing Diagram 2.eddx"/>
+            <Sample Path="./Business Diagram/Marketing Diagram 3.eddx"/>
+            <Sample Path="./Business Diagram/Marketing Diagram 4.eddx"/>
+            <Sample Path="./Business Diagram/Marketing Diagram 5.eddx"/>
+            <Sample Path="./Business Diagram/Marketing Diagram 6.eddx"/>
+            <Sample Path="./Business Diagram/Marketing Diagram 7.eddx"/>
+            <Sample Path="./Business Diagram/Marketing Diagram 8.eddx"/>
+            <Sample Path="./Business Diagram/Marketing Diagram 9.eddx"/>
+            <Sample Path="./Business Diagram/Target Diagram - Passion.eddx"/>
+            <Sample Path="./Business Diagram/Bowman Strategy Clock.eddx"/>
+            <Sample Path="./Business Diagram/Bulb Diagram.eddx"/>
+            <Sample Path="./Business Diagram/Tree Presentation.eddx"/>
+        </Template>
+        <Template NameU="PEST Chart">
+            <Sample Path="./Business Diagram/PEST Diagram.eddx"/>
+            <Sample Path="./Business Diagram/PEST Template.eddx"/>
+        </Template>
+        <Template NameU="Process Steps">
+            <Sample Path="./Business Diagram/Edraw Smart Shapes.eddx"/>
+            <Sample Path="./Business Diagram/Call Center SIPOC.eddx"/>
+            <Sample Path="./Business Diagram/Dmaic Analysis.eddx"/>
+            <Sample Path="./Business Diagram/Simple SIPOC.eddx"/>
+            <Sample Path="./Business Diagram/Business Process Steps.eddx"/>
+            <Sample Path="./Business Diagram/SIPOC.eddx"/>
+            <Sample Path="./Business Diagram/Business Event List.eddx"/>
+            <Sample Path="./Business Diagram/Business Process List.eddx"/>
+        </Template>
+        <Template NameU="Six Sigma Matrix">
+            <Sample Path="./Business Diagram/RACI Model.eddx"/>
+            <Sample Path="./Business Diagram/Edraw Product Comparison.eddx"/>
+            <Sample Path="./Business Diagram/RACI Matrix.eddx"/>
+        </Template>
+        <Template NameU="TQM">
+            <Sample Path="./Business Diagram/Total Quality Management Diagram.eddx"/>
+        </Template>
+        <Template NameU="Value Chain">
+            <Sample Path="./Business Diagram/Value Chain Template.eddx"/>
+        </Template>
+        <Template NameU="Value Stream Mapping">
+            <Sample Path="./Business Diagram/Product Value Stream.eddx"/>
+            <Sample Path="./Business Diagram/Value Stream Template.eddx"/>
+        </Template>
+    </Gallery>
+    <Gallery NameU="Card">
+        <Template>
+            <Sample Path="./Card/Business Card/Business Card 1.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 14.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 4.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 37.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 19.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 38.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 24.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 39.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 17.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 7.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 8.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 20.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 35.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 10.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 2.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 29.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 18.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 21.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 16.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 6.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 25.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 15.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 12.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 26.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 23.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 31.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 13.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 34.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 33.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 36.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 32.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 27.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 30.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 28.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 5.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 22.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 3.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 9.eddx"/>
+            <Sample Path="./Card/Birthday Card 1.eddx"/>
+            <Sample Path="./Card/Birthday Card 2.eddx"/>
+            <Sample Path="./Card/Birthday Card 3.eddx"/>
+            <Sample Path="./Card/Birthday Card 4.eddx"/>
+            <Sample Path="./Card/Birthday Card 5.eddx"/>
+            <Sample Path="./Card/Birthday Card 6.eddx"/>
+            <Sample Path="./Card/Birthday Card 7.eddx"/>
+            <Sample Path="./Card/Birthday Card 8.eddx"/>
+            <Sample Path="./Card/Christmas Card 1.eddx"/>
+            <Sample Path="./Card/Christmas Card 2.eddx"/>
+            <Sample Path="./Card/Christmas Card 4.eddx"/>
+            <Sample Path="./Card/Christmas Card 5.eddx"/>
+            <Sample Path="./Card/Christmas Card 6.eddx"/>
+            <Sample Path="./Card/Christmas Card 7.eddx"/>
+            <Sample Path="./Card/Christmas Card 8.eddx"/>
+            <Sample Path="./Card/Christmas Card 9.eddx"/>
+            <Sample Path="./Card/Christmas Card 10.eddx"/>
+            <Sample Path="./Card/Christmas Card 3.eddx"/>
+            <Sample Path="./Card/Thank You Card 1.eddx"/>
+            <Sample Path="./Card/Thank You Card 2.eddx"/>
+            <Sample Path="./Card/Children Day Card 1.eddx"/>
+            <Sample Path="./Card/Children Day Card 2.eddx"/>
+            <Sample Path="./Card/Children Day Card 3.eddx"/>
+            <Sample Path="./Card/Children Day Card 4.eddx"/>
+            <Sample Path="./Card/Children Day Card 5.eddx"/>
+            <Sample Path="./Card/Children Day Card 6.eddx"/>
+            <Sample Path="./Card/Children Day Card 7.eddx"/>
+            <Sample Path="./Card/Thank You Card 3.eddx"/>
+            <Sample Path="./Card/Thank You Card 4.eddx"/>
+            <Sample Path="./Card/Thank You Card 5.eddx"/>
+            <Sample Path="./Card/Thank You Card 6.eddx"/>
+            <Sample Path="./Card/Thank You Card 7.eddx"/>
+            <Sample Path="./Card/Thank You Card 8.eddx"/>
+            <Sample Path="./Card/Thank You Card 9.eddx"/>
+            <Sample Path="./Card/Invitation Card 1.eddx"/>
+            <Sample Path="./Card/Invitation Card 2.eddx"/>
+            <Sample Path="./Card/Invitation Card 3.eddx"/>
+            <Sample Path="./Card/Invitation Card 4.eddx"/>
+            <Sample Path="./Card/Invitation Card 5.eddx"/>
+            <Sample Path="./Card/Invitation Card 8.eddx"/>
+            <Sample Path="./Card/Invitation Card 7.eddx"/>
+            <Sample Path="./Card/Invitation Card 6.eddx"/>
+            <Sample Path="./Card/Invitation Card 9.eddx"/>
+            <Sample Path="./Card/Invitation Card 10.eddx"/>
+            <Sample Path="./Card/Invitation Card 11.eddx"/>
+            <Sample Path="./Card/Valentine Day Card 1.eddx"/>
+            <Sample Path="./Card/Valentine Day Card 2.eddx"/>
+            <Sample Path="./Card/Valentine Day Card 3.eddx"/>
+            <Sample Path="./Card/Valentine Day Card 4.eddx"/>
+            <Sample Path="./Card/Valentine Day Card 5.eddx"/>
+            <Sample Path="./Card/Valentine Day Card 6.eddx"/>
+            <Sample Path="./Card/Valentine Day Card 7.eddx"/>
+            <Sample Path="./Card/Valentine Day Card 8.eddx"/>
+            <Sample Path="./Card/Halloween Card 1.eddx"/>
+            <Sample Path="./Card/Halloween Card 2.eddx"/>
+            <Sample Path="./Card/Halloween Card 3.eddx"/>
+            <Sample Path="./Card/Halloween Card 4.eddx"/>
+            <Sample Path="./Card/Halloween Card 5.eddx"/>
+            <Sample Path="./Card/Halloween Card 6.eddx"/>
+            <Sample Path="./Card/Easter Day Card 6.eddx"/>
+            <Sample Path="./Card/Easter Day Card 1.eddx"/>
+            <Sample Path="./Card/Easter Day Card 4.eddx"/>
+            <Sample Path="./Card/Easter Day Card 2.eddx"/>
+            <Sample Path="./Card/Easter Day Card 3.eddx"/>
+            <Sample Path="./Card/Postcard 1.eddx"/>
+            <Sample Path="./Card/Easter Day Card 7.eddx"/>
+            <Sample Path="./Card/Postcard 2.eddx"/>
+            <Sample Path="./Card/Postcard 3.eddx"/>
+            <Sample Path="./Card/Postcard 4.eddx"/>
+            <Sample Path="./Card/Postcard 5.eddx"/>
+            <Sample Path="./Card/Postcard 6.eddx"/>
+            <Sample Path="./Card/Postcard 7.eddx"/>
+            <Sample Path="./Card/Postcard 8.eddx"/>
+            <Sample Path="./Card/Postcard 9.eddx"/>
+            <Sample Path="./Card/Postcard 10.eddx"/>
+            <Sample Path="./Card/New Year Card 1.eddx"/>
+            <Sample Path="./Card/New Year Card 2.eddx"/>
+            <Sample Path="./Card/New Year Card 3.eddx"/>
+            <Sample Path="./Card/New Year Card 5.eddx"/>
+            <Sample Path="./Card/New Year Card 4.eddx"/>
+            <Sample Path="./Card/New Year Card 6.eddx"/>
+            <Sample Path="./Card/New Year Card 7.eddx"/>
+        </Template>
+        <Template NameU="Business Cards">
+            <Sample Path="./Card/Business Card/Business Card 14.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 4.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 37.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 19.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 38.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 24.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 7.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 8.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 35.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 39.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 2.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 10.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 18.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 21.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 16.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 29.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 6.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 25.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 20.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 17.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 15.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 12.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 26.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 23.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 31.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 13.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 34.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 33.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 36.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 32.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 27.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 30.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 28.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 5.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 22.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 3.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 9.eddx"/>
+        </Template>
+        <Template NameU="Thank You Card">
+            <Sample Path="./Card/Thank You Card 8.eddx"/>
+            <Sample Path="./Card/Thank You Card 2.eddx"/>
+            <Sample Path="./Card/Thank You Card 9.eddx"/>
+            <Sample Path="./Card/Thank You Card 1.eddx"/>
+            <Sample Path="./Card/Thank You Card 3.eddx"/>
+            <Sample Path="./Card/Thank You Card 5.eddx"/>
+            <Sample Path="./Card/Thank You Card 4.eddx"/>
+            <Sample Path="./Card/Thank You Card 6.eddx"/>
+            <Sample Path="./Card/Thank You Card 7.eddx"/>
+            <Sample Path="./Card/Thank You Card 10.eddx"/>
+        </Template>
+        <Template NameU="Invitation Card">
+            <Sample Path="./Card/Invitation Card 6.eddx"/>
+            <Sample Path="./Card/Invitation Card 7.eddx"/>
+            <Sample Path="./Card/Invitation Card 1.eddx"/>
+            <Sample Path="./Card/Invitation Card 2.eddx"/>
+            <Sample Path="./Card/Invitation Card 5.eddx"/>
+            <Sample Path="./Card/Invitation Card 8.eddx"/>
+            <Sample Path="./Card/Invitation Card 11.eddx"/>
+            <Sample Path="./Card/Invitation Card 4.eddx"/>
+            <Sample Path="./Card/Invitation Card 3.eddx"/>
+            <Sample Path="./Card/Invitation Card 9.eddx"/>
+            <Sample Path="./Card/Invitation Card 10.eddx"/>
+        </Template>
+        <Template NameU="Postcard">
+            <Sample Path="./Card/Postcard 2.eddx"/>
+            <Sample Path="./Card/Postcard 4.eddx"/>
+            <Sample Path="./Card/Postcard 1.eddx"/>
+            <Sample Path="./Card/Postcard 5.eddx"/>
+            <Sample Path="./Card/Postcard 10.eddx"/>
+            <Sample Path="./Card/Postcard 9.eddx"/>
+            <Sample Path="./Card/Postcard 6.eddx"/>
+            <Sample Path="./Card/Postcard 3.eddx"/>
+            <Sample Path="./Card/Postcard 7.eddx"/>
+            <Sample Path="./Card/Postcard 8.eddx"/>
+        </Template>
+        <Template NameU="Birthday Card">
+            <Sample Path="./Card/Birthday Card 1.eddx"/>
+            <Sample Path="./Card/Birthday Card 5.eddx"/>
+            <Sample Path="./Card/Birthday Card 6.eddx"/>
+            <Sample Path="./Card/Birthday Card 4.eddx"/>
+            <Sample Path="./Card/Birthday Card 2.eddx"/>
+            <Sample Path="./Card/Birthday Card 3.eddx"/>
+            <Sample Path="./Card/Birthday Card 8.eddx"/>
+            <Sample Path="./Card/Birthday Card 7.eddx"/>
+        </Template>
+        <Template NameU="Christmas">
+            <Sample Path="./Card/Christmas Card 1.eddx"/>
+            <Sample Path="./Card/Christmas Card 2.eddx"/>
+            <Sample Path="./Card/Christmas Card 12.eddx"/>
+            <Sample Path="./Card/Christmas Card 10.eddx"/>
+            <Sample Path="./Card/Christmas Card 6.eddx"/>
+            <Sample Path="./Card/Christmas Card 14.eddx"/>
+            <Sample Path="./Card/Christmas Card 5.eddx"/>
+            <Sample Path="./Card/Christmas Card 7.eddx"/>
+            <Sample Path="./Card/Christmas Card 4.eddx"/>
+            <Sample Path="./Card/Christmas Card 11.eddx"/>
+            <Sample Path="./Card/Christmas Card 13.eddx"/>
+            <Sample Path="./Card/Christmas Card 9.eddx"/>
+            <Sample Path="./Card/Christmas Card 8.eddx"/>
+            <Sample Path="./Card/Christmas Card 15.eddx"/>
+        </Template>
+        <Template NameU="Halloween">
+            <Sample Path="./Card/Halloween Card 3.eddx"/>
+            <Sample Path="./Card/Halloween Card 1.eddx"/>
+            <Sample Path="./Card/Halloween Card 2.eddx"/>
+            <Sample Path="./Card/Halloween Card 5.eddx"/>
+            <Sample Path="./Card/Halloween Card 6.eddx"/>
+            <Sample Path="./Card/Halloween Card 4.eddx"/>
+        </Template>
+        <Template NameU="Carnival">
+            <Sample Path="./Card/Carnival.eddx"/>
+            <Sample Path="./Card/Carnival Day Card.eddx"/>
+        </Template>
+        <Template NameU="Childrens Day">
+            <Sample Path="./Card/Childrens Day.eddx"/>
+            <Sample Path="./Card/Children Day Card 5.eddx"/>
+            <Sample Path="./Card/Children Day Card 6.eddx"/>
+            <Sample Path="./Card/Children Day Card 1.eddx"/>
+            <Sample Path="./Card/Children Day Card 3.eddx"/>
+            <Sample Path="./Card/Children Day Card 2.eddx"/>
+            <Sample Path="./Card/Children Day Card 4.eddx"/>
+            <Sample Path="./Card/Children Day Card 7.eddx"/>
+        </Template>
+        <Template NameU="Easter">
+            <Sample Path="./Card/Easter Day Card 1.eddx"/>
+            <Sample Path="./Card/Easter Day Card 3.eddx"/>
+            <Sample Path="./Card/Easter Day Card 2.eddx"/>
+            <Sample Path="./Card/Easter Day Card 4.eddx"/>
+            <Sample Path="./Card/Easter Day Card 7.eddx"/>
+            <Sample Path="./Card/Easter Day Card 6.eddx"/>
+        </Template>
+        <Template NameU="New Year">
+            <Sample Path="./Card/New Year Card 5.eddx"/>
+            <Sample Path="./Card/New Year Card 6.eddx"/>
+            <Sample Path="./Card/New Year Card 7.eddx"/>
+            <Sample Path="./Card/New Year Card 3.eddx"/>
+            <Sample Path="./Card/New Year Card 4.eddx"/>
+            <Sample Path="./Card/New Year Card 2.eddx"/>
+            <Sample Path="./Card/New Year Card 1.eddx"/>
+        </Template>
+        <Template NameU="Valentines Day">
+            <Sample Path="./Card/Valentine Day Card 1.eddx"/>
+            <Sample Path="./Card/Valentine Day Card 4.eddx"/>
+            <Sample Path="./Card/Valentine Day Card 8.eddx"/>
+            <Sample Path="./Card/Valentine Day Card 6.eddx"/>
+            <Sample Path="./Card/Valentine Day Card 2.eddx"/>
+            <Sample Path="./Card/Valentine Day Card 5.eddx"/>
+            <Sample Path="./Card/Valentine Day Card 7.eddx"/>
+            <Sample Path="./Card/Valentine Day Card 3.eddx"/>
+        </Template>
+    </Gallery>
+    <Gallery NameU="Chart">
+        <Template>
+            <Sample Path="./Chart/City Competitiveness Dashboard.eddx"/>
+            <Sample Path="./Chart/Column Sales Report.eddx"/>
+            <Sample Path="./Chart/E-book Market Trends.eddx"/>
+            <Sample Path="./Chart/How to Use Gauges.eddx"/>
+            <Sample Path="./Chart/Group Investment Case.eddx"/>
+            <Sample Path="./Chart/Column Chart - Energy.eddx"/>
+            <Sample Path="./Chart/Column Chart - Autumn.eddx"/>
+            <Sample Path="./Chart/Stacked Column Chart - Fade.eddx"/>
+            <Sample Path="./Chart/Column Chart and List - Spring.eddx"/>
+            <Sample Path="./Chart/Column Chart with List - Sea.eddx"/>
+            <Sample Path="./Chart/Bar Chart and List - Autumn.eddx"/>
+            <Sample Path="./Chart/Column Chart and  List - Fade.eddx"/>
+            <Sample Path="./Chart/Bar Chart with List - Passion.eddx"/>
+            <Sample Path="./Chart/Pie Charts - Fade.eddx"/>
+            <Sample Path="./Chart/Pie Chart with List - Passion.eddx"/>
+            <Sample Path="./Chart/Pie Chart - Autumn.eddx"/>
+            <Sample Path="./Chart/Pie Chart - Energy.eddx"/>
+            <Sample Path="./Chart/Doughnut and Column - Autumn.eddx"/>
+            <Sample Path="./Chart/Pie and Bar Chart - Passion.eddx"/>
+            <Sample Path="./Chart/Step Line Chart - Autumn.eddx"/>
+            <Sample Path="./Chart/Doughnut Chart and List - Autumn.eddx"/>
+            <Sample Path="./Chart/Line Chart - Energy.eddx"/>
+            <Sample Path="./Chart/Line Chart - Passion.eddx"/>
+            <Sample Path="./Chart/Line Chart with List - Autumn.eddx"/>
+            <Sample Path="./Chart/Area Chart - Energy.eddx"/>
+            <Sample Path="./Chart/Percentage Chart - Fade.eddx"/>
+            <Sample Path="./Chart/Percentage Chart - Autumn.eddx"/>
+            <Sample Path="./Chart/Percentage Chart - Energy.eddx"/>
+            <Sample Path="./Chart/Area Chart - Fade.eddx"/>
+            <Sample Path="./Chart/Smart Phone Comparison Table.eddx"/>
+            <Sample Path="./Chart/Percentage Chart - Sea.eddx"/>
+            <Sample Path="./Chart/Doughnut Pie Chart with List - Sea.eddx"/>
+            <Sample Path="./Chart/Skincare Market Trends.eddx"/>
+            <Sample Path="./Chart/Bubble Plot.eddx"/>
+            <Sample Path="./Chart/Spider Chart - Fade.eddx"/>
+            <Sample Path="./Chart/Scatter Plot.eddx"/>
+            <Sample Path="./Chart/Spider Chart - Blue.eddx"/>
+            <Sample Path="./Chart/Spider Chart - Autumn.eddx"/>
+            <Sample Path="./Chart/Comparison List - Passion.eddx"/>
+            <Sample Path="./Chart/Progress Indication Chart - Spring.eddx"/>
+            <Sample Path="./Chart/Product Comparison Table.eddx"/>
+            <Sample Path="./Chart/Chart 1.eddx"/>
+            <Sample Path="./Chart/Chart 2.eddx"/>
+            <Sample Path="./Chart/Chart 3.eddx"/>
+            <Sample Path="./Chart/Chart 4.eddx"/>
+            <Sample Path="./Chart/Chart 5.eddx"/>
+            <Sample Path="./Chart/Chart 6.eddx"/>
+            <Sample Path="./Chart/Chart 7.eddx"/>
+        </Template>
+        <Template NameU="Column">
+            <Sample Path="./Chart/Column Chart - Energy.eddx"/>
+            <Sample Path="./Chart/Column Chart and  List - Fade.eddx"/>
+            <Sample Path="./Chart/Column Chart - Autumn.eddx"/>
+            <Sample Path="./Chart/Column Chart and List - Spring.eddx"/>
+            <Sample Path="./Chart/Column Chart with List - Sea.eddx"/>
+            <Sample Path="./Chart/Column Sales Report.eddx"/>
+        </Template>
+        <Template NameU="Bar">
+            <Sample Path="./Chart/Bar Chart with List - Passion.eddx"/>
+            <Sample Path="./Chart/Bar Chart and List - Autumn.eddx"/>
+        </Template>
+        <Template NameU="Pie">
+            <Sample Path="./Chart/Pie Charts - Fade.eddx"/>
+            <Sample Path="./Chart/Pie and Bar Chart - Passion.eddx"/>
+            <Sample Path="./Chart/Pie Chart - Energy.eddx"/>
+            <Sample Path="./Chart/Pie Chart - Autumn.eddx"/>
+            <Sample Path="./Chart/Pie Chart with List - Passion.eddx"/>
+        </Template>
+        <Template NameU="Doughnut">
+            <Sample Path="./Chart/Skincare Market Trends.eddx"/>
+            <Sample Path="./Chart/Doughnut Pie Chart with List - Sea.eddx"/>
+            <Sample Path="./Chart/Doughnut and Column - Autumn.eddx"/>
+            <Sample Path="./Chart/Doughnut Chart and List - Autumn.eddx"/>
+        </Template>
+        <Template NameU="Line">
+            <Sample Path="./Chart/Line Chart - Passion.eddx"/>
+            <Sample Path="./Chart/Line Chart with List - Autumn.eddx"/>
+            <Sample Path="./Chart/Step Line Chart - Autumn.eddx"/>
+            <Sample Path="./Chart/Line Chart - Energy.eddx"/>
+        </Template>
+        <Template NameU="Area">
+            <Sample Path="./Chart/Area Chart - Energy.eddx"/>
+            <Sample Path="./Chart/Area Chart - Fade.eddx"/>
+        </Template>
+        <Template NameU="Scatter">
+            <Sample Path="./Chart/Scatter Plot.eddx"/>
+        </Template>
+        <Template NameU="Spider and Radar">
+            <Sample Path="./Chart/Spider Chart - Autumn.eddx"/>
+            <Sample Path="./Chart/Spider Chart - Blue.eddx"/>
+            <Sample Path="./Chart/Spider Chart - Fade.eddx"/>
+        </Template>
+        <Template NameU="Bubble Chart">
+            <Sample Path="./Chart/Bubble Plot.eddx"/>
+            <Sample Path="./Chart/E-book Market Trends.eddx"/>
+        </Template>
+        <Template NameU="Gauges">
+            <Sample Path="./Chart/How to Use Gauges.eddx"/>
+            <Sample Path="./Chart/City Competitiveness Dashboard.eddx"/>
+        </Template>
+        <Template NameU="Comparison Chart">
+            <Sample Path="./Chart/Product Comparison Table.eddx"/>
+            <Sample Path="./Chart/Comparison List - Passion.eddx"/>
+            <Sample Path="./Chart/Percentage Chart - Autumn.eddx"/>
+            <Sample Path="./Chart/Group Investment Case.eddx"/>
+            <Sample Path="./Chart/Percentage Chart - Energy.eddx"/>
+            <Sample Path="./Chart/Percentage Chart - Fade.eddx"/>
+            <Sample Path="./Chart/Percentage Chart - Sea.eddx"/>
+            <Sample Path="./Chart/Smart Phone Comparison Table.eddx"/>
+        </Template>
+    </Gallery>
+    <Gallery NameU="Clip Art">
+        <Template>
+            <Sample Path="./Symbols/Animal.eddx"/>
+            <Sample Path="./Symbols/Architecture.eddx"/>
+            <Sample Path="./Symbols/Business.eddx"/>
+            <Sample Path="./Symbols/Business Flat.eddx"/>
+            <Sample Path="./Symbols/Business Scene.eddx"/>
+            <Sample Path="./Symbols/Education.eddx"/>
+            <Sample Path="./Symbols/Environment.eddx"/>
+            <Sample Path="./Symbols/Finance.eddx"/>
+            <Sample Path="./Symbols/Food.eddx"/>
+            <Sample Path="./Symbols/Fruit.eddx"/>
+            <Sample Path="./Symbols/Flag.eddx"/>
+            <Sample Path="./Symbols/Medical.eddx"/>
+            <Sample Path="./Symbols/Music.eddx"/>
+            <Sample Path="./Symbols/News.eddx"/>
+            <Sample Path="./Symbols/Office.eddx"/>
+            <Sample Path="./Symbols/People.eddx"/>
+            <Sample Path="./Symbols/People Flat.eddx"/>
+            <Sample Path="./Symbols/Professional.eddx"/>
+            <Sample Path="./Symbols/School.eddx"/>
+            <Sample Path="./Symbols/Technology.eddx"/>
+            <Sample Path="./Symbols/Tourism.eddx"/>
+            <Sample Path="./Symbols/Transportation.eddx"/>
+            <Sample Path="./Symbols/Vehicle.eddx"/>
+            <Sample Path="./Symbols/Weather.eddx"/>
+            <Sample Path="./Symbols/Religion.eddx"/>
+            <Sample Path="./Symbols/Guesture.eddx"/>
+            <Sample Path="./Symbols/Half Length.eddx"/>
+            <Sample Path="./Symbols/People Outline.eddx"/>
+            <Sample Path="./Symbols/Presentation.eddx"/>
+        </Template>
+        <Template NameU="Animals">
+            <Sample Path="./Symbols/Animal.eddx"/>
+        </Template>
+        <Template NameU="Business">
+            <Sample Path="./Symbols/Business.eddx"/>
+        </Template>
+        <Template NameU="Business scene">
+            <Sample Path="./Symbols/Business Scene.eddx"/>
+        </Template>
+        <Template NameU="Finance">
+            <Sample Path="./Symbols/Finance.eddx"/>
+        </Template>
+        <Template NameU="Food">
+            <Sample Path="./Symbols/Food.eddx"/>
+            <Sample Path="./Symbols/Fruit.eddx"/>
+        </Template>
+        <Template NameU="Flags">
+            <Sample Path="./Symbols/Flag.eddx"/>
+        </Template>
+        <Template NameU="Office">
+            <Sample Path="./Symbols/Office.eddx"/>
+        </Template>
+        <Template NameU="People">
+            <Sample Path="./Symbols/People.eddx"/>
+        </Template>
+        <Template NameU="Professions">
+            <Sample Path="./Symbols/Professional.eddx"/>
+        </Template>
+        <Template NameU="Religion">
+            <Sample Path="./Symbols/Religion.eddx"/>
+        </Template>
+        <Template NameU="School">
+            <Sample Path="./Symbols/School.eddx"/>
+        </Template>
+        <Template NameU="Technology">
+            <Sample Path="./Symbols/Technology.eddx"/>
+        </Template>
+        <Template NameU="Vehicles">
+            <Sample Path="./Symbols/Vehicle.eddx"/>
+        </Template>
+        <Template NameU="Weather">
+            <Sample Path="./Symbols/Weather.eddx"/>
+        </Template>
+    </Gallery>
+    <Gallery NameU="Database">
+        <Template>
+            <Sample Path="./Database/Faculty Information Chen ERD.eddx"/>
+            <Sample Path="./Database/Chen-ERD.eddx"/>
+            <Sample Path="./Database/Forum Chen ERD.eddx"/>
+            <Sample Path="./Database/Sport Meeting ER Diagram.eddx"/>
+            <Sample Path="./Database/Hotel Check-in System.eddx"/>
+            <Sample Path="./Database/Internet Management Sysyem.eddx"/>
+            <Sample Path="./Database/Employment System ER.eddx"/>
+            <Sample Path="./Database/Course Choosing Database Diagram.eddx"/>
+            <Sample Path="./Database/Herbal Company ER Diagram.eddx"/>
+            <Sample Path="./Database/ORM-Diagram.eddx"/>
+            <Sample Path="./Database/Express-G Diagram.eddx"/>
+            <Sample Path="./Database/Product Management Express G.eddx"/>
+        </Template>
+        <Template NameU="Chen ERD">
+            <Sample Path="./Database/Chen-ERD.eddx"/>
+            <Sample Path="./Database/Faculty Information Chen ERD.eddx"/>
+            <Sample Path="./Database/Forum Chen ERD.eddx"/>
+        </Template>
+        <Template NameU="Database Model Diagram">
+            <Sample Path="./Database/Course Choosing Database Diagram.eddx"/>
+            <Sample Path="./Database/Herbal Company ER Diagram.eddx"/>
+        </Template>
+        <Template NameU="Express-G">
+            <Sample Path="./Database/Express-G Diagram.eddx"/>
+            <Sample Path="./Database/Product Management Express G.eddx"/>
+        </Template>
+        <Template NameU="Martin ERD">
+            <Sample Path="./Database/Employment System ER.eddx"/>
+        </Template>
+        <Template NameU="ORM Diagram">
+            <Sample Path="./Database/ORM-Diagram.eddx"/>
+        </Template>
+    </Gallery>
+    <Gallery NameU="Engineering">
+        <Template>
+            <Sample Path="./Engineering/Threeway Responder.eddx"/>
+            <Sample Path="./Engineering/Basic Electrical.eddx"/>
+            <Sample Path="./Engineering/Semiconductor Electron.eddx"/>
+            <Sample Path="./Engineering/PID Example 1.eddx"/>
+            <Sample Path="./Engineering/PID Example 2.eddx"/>
+            <Sample Path="./Engineering/PID Example 3.eddx"/>
+            <Sample Path="./Engineering/PID Example 4.eddx"/>
+            <Sample Path="./Engineering/Process Flow Diagram.eddx"/>
+            <Sample Path="./Engineering/Elevation Drawing.eddx"/>
+            <Sample Path="./Engineering/Simple Process Flow.eddx"/>
+        </Template>
+        <Template NameU="Basic Electrical">
+            <Sample Path="./Engineering/Basic Electrical.eddx"/>
+        </Template>
+        <Template NameU="Circuits and Logic">
+            <Sample Path="./Engineering/Semiconductor Electron.eddx"/>
+        </Template>
+        <Template NameU="Industrial Control Systems">
+            <Sample Path="./Engineering/Threeway Responder.eddx"/>
+        </Template>
+        <Template NameU="Process Flow Diagram">
+            <Sample Path="./Engineering/Simple Process Flow.eddx"/>
+            <Sample Path="./Engineering/Elevation Drawing.eddx"/>
+            <Sample Path="./Engineering/Process Flow Diagram.eddx"/>
+        </Template>
+        <Template NameU="Piping and Instrumentation Diagram">
+            <Sample Path="./Engineering/PID Example 1.eddx"/>
+            <Sample Path="./Engineering/PID Example 2.eddx"/>
+            <Sample Path="./Engineering/PID Example 3.eddx"/>
+            <Sample Path="./Engineering/PID Example 4.eddx"/>
+        </Template>
+    </Gallery>
+    <Gallery NameU="Fashion Design">
+        <Template>
+            <Sample Path="./Fashion/Fashion Design 1.eddx"/>
+            <Sample Path="./Fashion/Fashion Design 2.eddx"/>
+            <Sample Path="./Fashion/Fashion Models.eddx"/>
+            <Sample Path="./Fashion/Men's Fashion Show.eddx"/>
+            <Sample Path="./Fashion/Children's Clothing Show.eddx"/>
+        </Template>
+        <Template NameU="Girl Dress">
+            <Sample Path="./Fashion/Fashion Design 2.eddx"/>
+            <Sample Path="./Fashion/Fashion Design 1.eddx"/>
+            <Sample Path="./Fashion/Fashion Models.eddx"/>
+        </Template>
+        <Template NameU="Man Suit">
+            <Sample Path="./Fashion/Men's Fashion Show.eddx"/>
+        </Template>
+        <Template NameU="Child Dress">
+            <Sample Path="./Fashion/Children's Clothing Show.eddx"/>
+        </Template>
+    </Gallery>
+    <Gallery NameU="Floor Plan">
+        <Template>
+            <Sample Path="./Floor Plan/Floor Plan Design 1.eddx"/>
+            <Sample Path="./Floor Plan/Floor Plan Design 2.eddx"/>
+            <Sample Path="./Floor Plan/Floor Plan Design 3.eddx"/>
+            <Sample Path="./Floor Plan/Floor Plan Selling Apartment.eddx"/>
+            <Sample Path="./Floor Plan/Apartment Floor Plan Flyer.eddx"/>
+            <Sample Path="./Floor Plan/Floor Plan Real Estate.eddx"/>
+            <Sample Path="./Floor Plan/Community Home Plan.eddx"/>
+            <Sample Path="./Floor Plan/Home Plan 1.eddx"/>
+            <Sample Path="./Floor Plan/Home Plan 2.eddx"/>
+            <Sample Path="./Floor Plan/House Plan 1.eddx"/>
+            <Sample Path="./Floor Plan/Home Plan 3.eddx"/>
+            <Sample Path="./Floor Plan/House Plan 2.eddx"/>
+            <Sample Path="./Floor Plan/House Plan 3.eddx"/>
+            <Sample Path="./Floor Plan/Children Bedroom Plan.eddx"/>
+            <Sample Path="./Floor Plan/Canteen Design Layout.eddx"/>
+            <Sample Path="./Floor Plan/Office Layout.eddx"/>
+            <Sample Path="./Floor Plan/Office Building.eddx"/>
+            <Sample Path="./Floor Plan/Front Garden Designs.eddx"/>
+            <Sample Path="./Floor Plan/Neighborhood Landscape Design.eddx"/>
+            <Sample Path="./Floor Plan/Park Parking Lot Plan.eddx"/>
+            <Sample Path="./Floor Plan/Garden Design 2.eddx"/>
+            <Sample Path="./Floor Plan/Home Plumbing Plan.eddx"/>
+            <Sample Path="./Floor Plan/Meeting Room.eddx"/>
+            <Sample Path="./Floor Plan/Stadium Seating.eddx"/>
+            <Sample Path="./Floor Plan/Hospital Evacuation Layout.eddx"/>
+            <Sample Path="./Floor Plan/School Fire Evacuation Plan.eddx"/>
+            <Sample Path="./Floor Plan/Hotel Fire Escape Plan.eddx"/>
+            <Sample Path="./Floor Plan/Mall Fire Evacuation Plan.eddx"/>
+            <Sample Path="./Floor Plan/Supermarket Fire Escape Plan.eddx"/>
+            <Sample Path="./Floor Plan/Apartment Floor Plan.eddx"/>
+            <Sample Path="./Floor Plan/Theater Seat Layout.eddx"/>
+            <Sample Path="./Floor Plan/Cinema Seating Plan.eddx"/>
+            <Sample Path="./Floor Plan/Home Wiring Plan.eddx"/>
+            <Sample Path="./Floor Plan/Book Store Layout.eddx"/>
+            <Sample Path="./Floor Plan/Restaurant Plan.eddx"/>
+            <Sample Path="./Floor Plan/Indoor Parking Lot Plan.eddx"/>
+            <Sample Path="./Floor Plan/Restaurant Water Piping Plan.eddx"/>
+            <Sample Path="./Floor Plan/Home Water Piping Plan.eddx"/>
+            <Sample Path="./Floor Plan/Office Network.eddx"/>
+            <Sample Path="./Floor Plan/Exhibition Hall Plan.eddx"/>
+            <Sample Path="./Floor Plan/Home Reflected Ceiling Plan.eddx"/>
+            <Sample Path="./Floor Plan/House Plan.eddx"/>
+            <Sample Path="./Floor Plan/Office Plan.eddx"/>
+            <Sample Path="./Floor Plan/Salon Design Floor Plan.eddx"/>
+            <Sample Path="./Floor Plan/Rehabilitation Center Floor Plan.eddx"/>
+            <Sample Path="./Floor Plan/Building Security Access.eddx"/>
+            <Sample Path="./Floor Plan/Warehouse Security Access.eddx"/>
+            <Sample Path="./Floor Plan/Electrical Plan.eddx"/>
+            <Sample Path="./Floor Plan/Conference Room Ceiling Plan.eddx"/>
+            <Sample Path="./Floor Plan/Master Bedroom Plan.eddx"/>
+            <Sample Path="./Floor Plan/Building Core Plan.eddx"/>
+            <Sample Path="./Floor Plan/HVAC Plan 1.eddx"/>
+            <Sample Path="./Floor Plan/Fashion Shop Layout.eddx"/>
+            <Sample Path="./Floor Plan/HVAC Plan 2.eddx"/>
+            <Sample Path="./Floor Plan/Kitchen Elevations.eddx"/>
+            <Sample Path="./Floor Plan/Wine Rack Elevation.eddx"/>
+            <Sample Path="./Floor Plan/Park Plan.eddx"/>
+            <Sample Path="./Floor Plan/Restaurant Seat Plan.eddx"/>
+            <Sample Path="./Floor Plan/Seat Plan.eddx"/>
+            <Sample Path="./Floor Plan/Theater Seat Plan.eddx"/>
+            <Sample Path="./Floor Plan/14 Seats Class Room.eddx"/>
+            <Sample Path="./Floor Plan/Clothing Store Plan.eddx"/>
+            <Sample Path="./Floor Plan/Bar Cabinet Elevation.eddx"/>
+            <Sample Path="./Floor Plan/Dentist Shop.eddx"/>
+            <Sample Path="./Floor Plan/Wardrobe Plan.eddx"/>
+            <Sample Path="./Floor Plan/Coatroom Design.eddx"/>
+            <Sample Path="./Floor Plan/Laundry Cabinet Elevation.eddx"/>
+            <Sample Path="./Floor Plan/Shoe Display Shelf Elevation.eddx"/>
+            <Sample Path="./Floor Plan/Closet Plan.eddx"/>
+            <Sample Path="./Floor Plan/Maze.eddx"/>
+            <Sample Path="./Floor Plan/Cafe Shop Plan.eddx"/>
+        </Template>
+        <Template NameU="Floor Plan">
+            <Sample Path="./Floor Plan/Exhibition Hall Plan.eddx"/>
+            <Sample Path="./Floor Plan/Fashion Shop Layout.eddx"/>
+            <Sample Path="./Floor Plan/Rehabilitation Center Floor Plan.eddx"/>
+            <Sample Path="./Floor Plan/Building Core Plan.eddx"/>
+            <Sample Path="./Floor Plan/Floor Plan Design 1.eddx"/>
+            <Sample Path="./Floor Plan/Floor Plan Real Estate.eddx"/>
+            <Sample Path="./Floor Plan/Floor Plan Design 2.eddx"/>
+            <Sample Path="./Floor Plan/Floor Plan Design 3.eddx"/>
+            <Sample Path="./Floor Plan/Apartment Floor Plan Flyer.eddx"/>
+        </Template>
+        <Template NameU="Home Plan">
+            <Sample Path="./Floor Plan/Community Home Plan.eddx"/>
+            <Sample Path="./Floor Plan/Home Plan 1.eddx"/>
+            <Sample Path="./Floor Plan/Home Plan 2.eddx"/>
+            <Sample Path="./Floor Plan/Home Plan 3.eddx"/>
+            <Sample Path="./Floor Plan/House Plan 1.eddx"/>
+            <Sample Path="./Floor Plan/House Plan 3.eddx"/>
+            <Sample Path="./Floor Plan/House Plan 2.eddx"/>
+            <Sample Path="./Floor Plan/Children Bedroom Plan.eddx"/>
+            <Sample Path="./Floor Plan/House Plan.eddx"/>
+            <Sample Path="./Floor Plan/Master Bedroom Plan.eddx"/>
+        </Template>
+        <Template NameU="Office Layout">
+            <Sample Path="./Floor Plan/Office Layout.eddx"/>
+            <Sample Path="./Floor Plan/Canteen Design Layout.eddx"/>
+            <Sample Path="./Floor Plan/Office Building.eddx"/>
+            <Sample Path="./Floor Plan/Office Plan.eddx"/>
+        </Template>
+        <Template NameU="Electrical and Telecom Plan">
+            <Sample Path="./Floor Plan/Electrical Plan.eddx"/>
+            <Sample Path="./Floor Plan/Home Wiring Plan.eddx"/>
+            <Sample Path="./Floor Plan/Office Network.eddx"/>
+        </Template>
+        <Template NameU="Seating Plan">
+            <Sample Path="./Floor Plan/Seat Plan.eddx"/>
+            <Sample Path="./Floor Plan/Restaurant Seat Plan.eddx"/>
+            <Sample Path="./Floor Plan/Theater Seat Plan.eddx"/>
+            <Sample Path="./Floor Plan/14 Seats Class Room.eddx"/>
+            <Sample Path="./Floor Plan/Restaurant Plan.eddx"/>
+            <Sample Path="./Floor Plan/Meeting Room.eddx"/>
+            <Sample Path="./Floor Plan/Conference Room.eddx"/>
+            <Sample Path="./Floor Plan/Stadium Seating.eddx"/>
+            <Sample Path="./Floor Plan/Cinema Seating Plan.eddx"/>
+            <Sample Path="./Floor Plan/Theater Seat Layout.eddx"/>
+            <Sample Path="./Floor Plan/Cafe Shop Plan.eddx"/>
+        </Template>
+        <Template NameU="Security and Access Plan">
+            <Sample Path="./Floor Plan/Building Security Access.eddx"/>
+            <Sample Path="./Floor Plan/Warehouse Security Access.eddx"/>
+        </Template>
+        <Template NameU="Garden Design">
+            <Sample Path="./Floor Plan/Neighborhood Landscape Design.eddx"/>
+            <Sample Path="./Floor Plan/Park Plan.eddx"/>
+            <Sample Path="./Floor Plan/Front Garden Designs.eddx"/>
+            <Sample Path="./Floor Plan/Garden Design 2.eddx"/>
+        </Template>
+        <Template NameU="Fire and Emergency Plan">
+            <Sample Path="./Floor Plan/Hospital Evacuation Layout.eddx"/>
+            <Sample Path="./Floor Plan/Supermarket Fire Escape Plan.eddx"/>
+            <Sample Path="./Floor Plan/Kindergarten Fire Evacuation Plan.eddx"/>
+            <Sample Path="./Floor Plan/School Fire Evacuation Plan.eddx"/>
+            <Sample Path="./Floor Plan/Hotel Fire Escape Plan.eddx"/>
+            <Sample Path="./Floor Plan/Mall Fire Evacuation Plan.eddx"/>
+        </Template>
+        <Template NameU="Reflected Ceiling Plan">
+            <Sample Path="./Floor Plan/Home Reflected Ceiling Plan.eddx"/>
+            <Sample Path="./Floor Plan/Conference Room Ceiling Plan.eddx"/>
+        </Template>
+        <Template NameU="HVAC Plan">
+            <Sample Path="./Floor Plan/HVAC Plan 1.eddx"/>
+            <Sample Path="./Floor Plan/HVAC Plan 2.eddx"/>
+        </Template>
+        <Template NameU="Plumbing and Piping Plan">
+            <Sample Path="./Floor Plan/Home Plumbing Plan.eddx"/>
+            <Sample Path="./Floor Plan/Home Water Piping Plan.eddx"/>
+            <Sample Path="./Floor Plan/Restaurant Water Piping Plan.eddx"/>
+        </Template>
+        <Template NameU="Elevations">
+            <Sample Path="./Floor Plan/Kitchen Elevations.eddx"/>
+            <Sample Path="./Floor Plan/Wine Rack Elevation.eddx"/>
+            <Sample Path="./Floor Plan/Bar Cabinet Elevation.eddx"/>
+            <Sample Path="./Floor Plan/Laundry Cabinet Elevation.eddx"/>
+        </Template>
+        <Template NameU="Wardrobe">
+            <Sample Path="./Floor Plan/Closet Plan.eddx"/>
+            <Sample Path="./Floor Plan/Wardrobe Plan.eddx"/>
+            <Sample Path="./Floor Plan/Clothing Store Plan.eddx"/>
+            <Sample Path="./Floor Plan/Coatroom Design.eddx"/>
+            <Sample Path="./Floor Plan/Shoe Display Shelf Elevation.eddx"/>
+        </Template>
+    </Gallery>
+    <Gallery NameU="Flowchart">
+        <Template>
+            <Sample Path="./Flowchart/Flowchart Sample 5.eddx"/>
+            <Sample Path="./Flowchart/Radar Chart Steps.eddx"/>
+            <Sample Path="./Flowchart/Hiring Process Flow Chart.eddx"/>
+            <Sample Path="./Flowchart/Flowchart Sample 6.eddx"/>
+            <Sample Path="./Flowchart/Make Friends Flowchart.eddx"/>
+            <Sample Path="./Flowchart/Business Process Modeling.eddx"/>
+            <Sample Path="./Flowchart/Products Production Process Flowchart.eddx"/>
+            <Sample Path="./Flowchart/Software Service Crossfunctional Process.eddx"/>
+            <Sample Path="./Flowchart/Flowchart Sample 12.eddx"/>
+            <Sample Path="./Flowchart/Flowchart Sample 15.eddx"/>
+            <Sample Path="./Flowchart/Flowchart Sample 22.eddx"/>
+            <Sample Path="./Flowchart/Redesign Website Flowchart.eddx"/>
+            <Sample Path="./Flowchart/Simple BPMN.eddx"/>
+            <Sample Path="./Flowchart/Flowchart Sample 11.eddx"/>
+            <Sample Path="./Flowchart/Product Purchasing Crossfunctional Process.eddx"/>
+            <Sample Path="./Flowchart/Flowchart Sample 23.eddx"/>
+            <Sample Path="./Flowchart/Employment Application BPMN.eddx"/>
+            <Sample Path="./Flowchart/Flowchart Sample 27.eddx"/>
+            <Sample Path="./Flowchart/Material Management Workflow.eddx"/>
+            <Sample Path="./Flowchart/Workflow 1.eddx"/>
+            <Sample Path="./Flowchart/Workflow 2.eddx"/>
+            <Sample Path="./Flowchart/Workflow 4.eddx"/>
+            <Sample Path="./Flowchart/Workflow 5.eddx"/>
+            <Sample Path="./Flowchart/Order Workflow Chart.eddx"/>
+            <Sample Path="./Flowchart/Document Storage Workflow.eddx"/>
+            <Sample Path="./Flowchart/Data Processing Workflow.eddx"/>
+            <Sample Path="./Flowchart/Inventory Management Workflow.eddx"/>
+            <Sample Path="./Flowchart/Logistic Management Workflow.eddx"/>
+            <Sample Path="./Flowchart/Ecommerce Flowchart.eddx"/>
+            <Sample Path="./Flowchart/Flowchart Sample 26.eddx"/>
+            <Sample Path="./Flowchart/Decomposition Structure.eddx"/>
+            <Sample Path="./Flowchart/Book Selling Process Bpmn.eddx"/>
+            <Sample Path="./Flowchart/IDEF Diagram.eddx"/>
+            <Sample Path="./Flowchart/IDEF2 Template.eddx"/>
+            <Sample Path="./Flowchart/Sales Management Crossfunctional Process.eddx"/>
+            <Sample Path="./Flowchart/Write Project Flowchart.eddx"/>
+            <Sample Path="./Flowchart/Production Process Flowchart.eddx"/>
+            <Sample Path="./Flowchart/ERP Management BPMN.eddx"/>
+            <Sample Path="./Flowchart/Ticket Booking Data Flow.eddx"/>
+            <Sample Path="./Flowchart/Auctioning Service Bpmn.eddx"/>
+            <Sample Path="./Flowchart/Library Management System Data Flow.eddx"/>
+            <Sample Path="./Flowchart/System Data Flow.eddx"/>
+            <Sample Path="./Flowchart/Customers Data Flow.eddx"/>
+            <Sample Path="./Flowchart/Withdrawal Process Flowchart.eddx"/>
+            <Sample Path="./Flowchart/Meaasge Data Flow diagram .eddx"/>
+            <Sample Path="./Flowchart/Blank Flowchart.eddx"/>
+            <Sample Path="./Flowchart/Highlight Flowchart.eddx"/>
+            <Sample Path="./Flowchart/Start Project Flowchart.eddx"/>
+            <Sample Path="./Flowchart/Flowchart Sample 25.eddx"/>
+            <Sample Path="./Flowchart/Warehouse Data Flow Diagram.eddx"/>
+            <Sample Path="./Flowchart/Quotation Flowchart.eddx"/>
+            <Sample Path="./Flowchart/Document Management Workflow.eddx"/>
+            <Sample Path="./Flowchart/Hiring Process.eddx"/>
+            <Sample Path="./Flowchart/Training Plan Process.eddx"/>
+            <Sample Path="./Flowchart/Production Planning and Control Process.eddx"/>
+            <Sample Path="./Flowchart/Computer Maintenance Cross-Functional Process.eddx"/>
+            <Sample Path="./Flowchart/Procedure Flowchart.eddx"/>
+            <Sample Path="./Flowchart/SDL Diagram.eddx"/>
+            <Sample Path="./Flowchart/Flowchart Sample 1.eddx"/>
+            <Sample Path="./Flowchart/Client Access Flowchart.eddx"/>
+            <Sample Path="./Flowchart/Windows Update Flowchart.eddx"/>
+            <Sample Path="./Flowchart/Flowchart Sample 3.eddx"/>
+            <Sample Path="./Flowchart/Daily Life Flowchart.eddx"/>
+            <Sample Path="./Flowchart/Flowchart Sample 14.eddx"/>
+            <Sample Path="./Flowchart/Flowchart Sample 8.eddx"/>
+            <Sample Path="./Flowchart/Create Mind Map Flowchart.eddx"/>
+            <Sample Path="./Flowchart/Flowchart Sample 10.eddx"/>
+            <Sample Path="./Flowchart/Workflow 3.eddx"/>
+            <Sample Path="./Flowchart/Flowchart Sample 16.eddx"/>
+            <Sample Path="./Flowchart/Flowchart Sample 24.eddx"/>
+            <Sample Path="./Flowchart/Flowchart Sample 18.eddx"/>
+            <Sample Path="./Flowchart/Quality Control Flowchart.eddx"/>
+            <Sample Path="./Flowchart/Flowchart Sample 19.eddx"/>
+            <Sample Path="./Flowchart/Flowchart Sample 21.eddx"/>
+            <Sample Path="./Flowchart/Transaction flow diagram.eddx"/>
+        </Template>
+        <Template NameU="Basic Flowchart">
+            <Sample Path="./Flowchart/Ecommerce Flowchart.eddx"/>
+            <Sample Path="./Flowchart/Radar Chart Steps.eddx"/>
+            <Sample Path="./Flowchart/Redesign Website Flowchart.eddx"/>
+            <Sample Path="./Flowchart/Make Friends Flowchart.eddx"/>
+            <Sample Path="./Flowchart/Quotation Flowchart.eddx"/>
+            <Sample Path="./Flowchart/Windows Update Flowchart.eddx"/>
+            <Sample Path="./Flowchart/Client Access Flowchart.eddx"/>
+            <Sample Path="./Flowchart/Transaction flow diagram.eddx"/>
+        </Template>
+        <Template NameU="Business Process Modeling Notation">
+            <Sample Path="./Flowchart/Simple BPMN.eddx"/>
+            <Sample Path="./Flowchart/Book Selling Process Bpmn.eddx"/>
+            <Sample Path="./Flowchart/Auctioning Service Bpmn.eddx"/>
+            <Sample Path="./Flowchart/ERP Management BPMN.eddx"/>
+            <Sample Path="./Flowchart/Business Process Modeling.eddx"/>
+            <Sample Path="./Flowchart/Employment Application BPMN.eddx"/>
+        </Template>
+        <Template NameU="Cross Functional Horizontal">
+            <Sample Path="./Flowchart/Product Purchasing Crossfunctional Process.eddx"/>
+            <Sample Path="./Flowchart/Software Service Crossfunctional Process.eddx"/>
+            <Sample Path="./Flowchart/Production Process Flowchart.eddx"/>
+            <Sample Path="./Flowchart/Sales Management Crossfunctional Process.eddx"/>
+            <Sample Path="./Flowchart/Write Project Flowchart.eddx"/>
+            <Sample Path="./Flowchart/Products Production Process Flowchart.eddx"/>
+        </Template>
+        <Template NameU="Cross Functional Vertical">
+            <Sample Path="./Flowchart/Computer Maintenance Cross-Functional Process.eddx"/>
+            <Sample Path="./Flowchart/Training Plan Process.eddx"/>
+            <Sample Path="./Flowchart/Hiring Process.eddx"/>
+            <Sample Path="./Flowchart/Start Project Flowchart.eddx"/>
+            <Sample Path="./Flowchart/Hiring Process Flow Chart.eddx"/>
+        </Template>
+        <Template NameU="Data Flow Diagram">
+            <Sample Path="./Flowchart/Customers Data Flow.eddx"/>
+            <Sample Path="./Flowchart/Ticket Booking Data Flow.eddx"/>
+            <Sample Path="./Flowchart/Library Management System Data Flow.eddx"/>
+            <Sample Path="./Flowchart/Withdrawal Process Flowchart.eddx"/>
+            <Sample Path="./Flowchart/Meaasge Data Flow diagram .eddx"/>
+            <Sample Path="./Flowchart/Warehouse Data Flow Diagram.eddx"/>
+        </Template>
+        <Template NameU="Event Flow Diagram">
+            <Sample Path="./Flowchart/Event Flow Diagram.eddx"/>
+        </Template>
+        <Template NameU="IDEF Diagram">
+            <Sample Path="./Flowchart/IDEF2 Template.eddx"/>
+            <Sample Path="./Flowchart/IDEF Diagram.eddx"/>
+            <Sample Path="./Flowchart/Decomposition Structure.eddx"/>
+        </Template>
+        <Template NameU="Highlight Flowchart">
+            <Sample Path="./Flowchart/Blank Flowchart.eddx"/>
+            <Sample Path="./Flowchart/Highlight Flowchart.eddx"/>
+        </Template>
+        <Template NameU="Work Flow Diagram">
+            <Sample Path="./Flowchart/Workflow 1.eddx"/>
+            <Sample Path="./Flowchart/Workflow 2.eddx"/>
+            <Sample Path="./Flowchart/Workflow 4.eddx"/>
+            <Sample Path="./Flowchart/Workflow 5.eddx"/>
+            <Sample Path="./Flowchart/Order Workflow Chart.eddx"/>
+            <Sample Path="./Flowchart/Document Storage Workflow.eddx"/>
+            <Sample Path="./Flowchart/Logistic Management Workflow.eddx"/>
+            <Sample Path="./Flowchart/Data Processing Workflow.eddx"/>
+            <Sample Path="./Flowchart/Material Management Workflow.eddx"/>
+            <Sample Path="./Flowchart/Document Management Workflow.eddx"/>
+            <Sample Path="./Flowchart/Workflow 3.eddx"/>
+        </Template>
+        <Template NameU="SDL Diagram">
+            <Sample Path="./Flowchart/SDL Diagram.eddx"/>
+        </Template>
+    </Gallery>
+    <Gallery NameU="Form">
+        <Template>
+            <Sample Path="./Form/Decorate a Budget Form.eddx"/>
+            <Sample Path="./Form/Unlimited Meal Plan.eddx"/>
+            <Sample Path="./Form/Employee Schedule.eddx"/>
+            <Sample Path="./Form/Investment Return.eddx"/>
+            <Sample Path="./Form/Employee Training Performance Statistics.eddx"/>
+            <Sample Path="./Form/Unit Project Budget Sheet.eddx"/>
+            <Sample Path="./Form/Empirical Probability.eddx"/>
+            <Sample Path="./Form/Meeting Schedule.eddx"/>
+            <Sample Path="./Form/Week Stock Record.eddx"/>
+            <Sample Path="./Form/School Curriculum in a Week.eddx"/>
+            <Sample Path="./Form/Correlation Experiment.eddx"/>
+            <Sample Path="./Form/Staff Meal Diet.eddx"/>
+            <Sample Path="./Form/Company Purchase Requisition.eddx"/>
+            <Sample Path="./Form/Individual Savings.eddx"/>
+            <Sample Path="./Form/Equipment Purchase List.eddx"/>
+            <Sample Path="./Form/Employee Attendance Sheet.eddx"/>
+            <Sample Path="./Form/Football Team Organization.eddx"/>
+            <Sample Path="./Form/Purchase Order.eddx"/>
+            <Sample Path="./Form/Regulatory Tax On Personal Revenues.eddx"/>
+            <Sample Path="./Form/Personal Budget Chart.eddx"/>
+            <Sample Path="./Form/Running Record Form.eddx"/>
+            <Sample Path="./Form/Education Project.eddx"/>
+            <Sample Path="./Form/Export Budget Form.eddx"/>
+            <Sample Path="./Form/Employees Invoice Reimbursement List.eddx"/>
+            <Sample Path="./Form/General Invoice.eddx"/>
+            <Sample Path="./Form/Sales Invoice.eddx"/>
+            <Sample Path="./Form/Sales Invoice - Elegance Theme.eddx"/>
+            <Sample Path="./Form/Product Invoice.eddx"/>
+            <Sample Path="./Form/Service Invoice.eddx"/>
+            <Sample Path="./Form/Work Order.eddx"/>
+            <Sample Path="./Form/Fax Cover (Black).eddx"/>
+            <Sample Path="./Form/Fax Cover (Simple).eddx"/>
+            <Sample Path="./Form/Fax Cover (Green).eddx"/>
+            <Sample Path="./Form/Receipt.eddx"/>
+            <Sample Path="./Form/Petty Cash Request.eddx"/>
+            <Sample Path="./Form/Target Trip Budget.eddx"/>
+            <Sample Path="./Form/Billing Statement.eddx"/>
+            <Sample Path="./Form/Personal Budget.eddx"/>
+            <Sample Path="./Form/Packing Slip.eddx"/>
+            <Sample Path="./Form/Competitive Analysis.eddx"/>
+            <Sample Path="./Form/Expense Report 1.eddx"/>
+            <Sample Path="./Form/Expense Report 2.eddx"/>
+            <Sample Path="./Form/Inventory List 1.eddx"/>
+            <Sample Path="./Form/Inventory List 2.eddx"/>
+            <Sample Path="./Form/Quote Form 1.eddx"/>
+            <Sample Path="./Form/Quote Form 2.eddx"/>
+            <Sample Path="./Form/Quote Form 3.eddx"/>
+            <Sample Path="./Form/Lined Paper.eddx"/>
+            <Sample Path="./Form/Staff Paper.eddx"/>
+        </Template>
+        <Template NameU="Report Form">
+            <Sample Path="./Form/Empirical Probability.eddx"/>
+            <Sample Path="./Form/Decorate a Budget Form.eddx"/>
+            <Sample Path="./Form/Employee Schedule.eddx"/>
+            <Sample Path="./Form/Meeting Schedule.eddx"/>
+            <Sample Path="./Form/School Curriculum in a Week.eddx"/>
+            <Sample Path="./Form/Week Stock Record.eddx"/>
+            <Sample Path="./Form/Export Budget Form.eddx"/>
+            <Sample Path="./Form/Employees Invoice Reimbursement List.eddx"/>
+            <Sample Path="./Form/Correlation Experiment.eddx"/>
+            <Sample Path="./Form/Staff Meal Diet.eddx"/>
+            <Sample Path="./Form/Equipment Purchase List.eddx"/>
+            <Sample Path="./Form/Employee Attendance Sheet.eddx"/>
+            <Sample Path="./Form/Football Team Organization.eddx"/>
+            <Sample Path="./Form/Regulatory Tax On Personal Revenues.eddx"/>
+            <Sample Path="./Form/Company Purchase Requisition.eddx"/>
+            <Sample Path="./Form/Individual Savings.eddx"/>
+            <Sample Path="./Form/Investment Return.eddx"/>
+            <Sample Path="./Form/Personal Budget Chart.eddx"/>
+            <Sample Path="./Form/Unlimited Meal Plan.eddx"/>
+            <Sample Path="./Form/Employee Training Performance Statistics.eddx"/>
+            <Sample Path="./Form/Unit Project Budget Sheet.eddx"/>
+            <Sample Path="./Form/Running Record Form.eddx"/>
+            <Sample Path="./Form/Education Project.eddx"/>
+        </Template>
+        <Template NameU="Fax Cover">
+            <Sample Path="./Form/Fax Cover (Black).eddx"/>
+            <Sample Path="./Form/Fax Cover (Simple).eddx"/>
+            <Sample Path="./Form/Fax Cover (Green).eddx"/>
+        </Template>
+        <Template NameU="Invoice">
+            <Sample Path="./Form/Purchase Order.eddx"/>
+            <Sample Path="./Form/General Invoice.eddx"/>
+            <Sample Path="./Form/Sales Invoice.eddx"/>
+            <Sample Path="./Form/Sales Invoice - Elegance Theme.eddx"/>
+            <Sample Path="./Form/Product Invoice.eddx"/>
+            <Sample Path="./Form/Service Invoice.eddx"/>
+        </Template>
+        <Template NameU="Sales">
+            <Sample Path="./Form/Competitive Analysis.eddx"/>
+            <Sample Path="./Form/Target Trip Budget.eddx"/>
+            <Sample Path="./Form/Work Order.eddx"/>
+            <Sample Path="./Form/Billing Statement.eddx"/>
+            <Sample Path="./Form/Packing Slip.eddx"/>
+            <Sample Path="./Form/Personal Budget.eddx"/>
+        </Template>
+        <Template NameU="Expense Report">
+            <Sample Path="./Form/Expense Report 1.eddx"/>
+            <Sample Path="./Form/Expense Report 2.eddx"/>
+        </Template>
+        <Template NameU="Inventory List">
+            <Sample Path="./Form/Inventory List 1.eddx"/>
+            <Sample Path="./Form/Inventory List 2.eddx"/>
+        </Template>
+        <Template NameU="Quote Form">
+            <Sample Path="./Form/Quote Form 1.eddx"/>
+            <Sample Path="./Form/Quote Form 2.eddx"/>
+            <Sample Path="./Form/Quote Form 3.eddx"/>
+        </Template>
+    </Gallery>
+    <Gallery NameU="Graphic Design">
+        <Template>
+            <Sample Path="./Graphic Design/Annual Report.eddx"/>
+            <Sample Path="./Graphic Design/Annual Report Cover 1.eddx"/>
+            <Sample Path="./Graphic Design/Annual Report Cover 2.eddx"/>
+            <Sample Path="./Graphic Design/Annual Report Cover 3.eddx"/>
+            <Sample Path="./Graphic Design/Annual Report Cover 4.eddx"/>
+            <Sample Path="./Graphic Design/Flyer 1.eddx"/>
+            <Sample Path="./Graphic Design/Flyer 2.eddx"/>
+            <Sample Path="./Graphic Design/Flyer 4.eddx"/>
+            <Sample Path="./Graphic Design/Flyer 5.eddx"/>
+            <Sample Path="./Graphic Design/Flyer 6.eddx"/>
+            <Sample Path="./Graphic Design/Flyer 7.eddx"/>
+            <Sample Path="./Graphic Design/Flyer 8.eddx"/>
+            <Sample Path="./Graphic Design/Flyer 9.eddx"/>
+            <Sample Path="./Graphic Design/Resume 1.eddx"/>
+            <Sample Path="./Graphic Design/Resume 2.eddx"/>
+            <Sample Path="./Graphic Design/Poster 1.eddx"/>
+            <Sample Path="./Graphic Design/Poster 2.eddx"/>
+            <Sample Path="./Graphic Design/Poster 3.eddx"/>
+            <Sample Path="./Graphic Design/Poster 4.eddx"/>
+            <Sample Path="./Graphic Design/Poster 5.eddx"/>
+            <Sample Path="./Graphic Design/Poster 6.eddx"/>
+            <Sample Path="./Graphic Design/Poster 7.eddx"/>
+            <Sample Path="./Graphic Design/Poster 8.eddx"/>
+            <Sample Path="./Graphic Design/Book Cover 5.eddx"/>
+            <Sample Path="./Graphic Design/Book Cover 4.eddx"/>
+            <Sample Path="./Graphic Design/Book Cover 3.eddx"/>
+            <Sample Path="./Graphic Design/Book Cover 1.eddx"/>
+            <Sample Path="./Graphic Design/Book Cover 2.eddx"/>
+            <Sample Path="./Graphic Design/Magazine 1.eddx"/>
+            <Sample Path="./Graphic Design/Photo Collage 1.eddx"/>
+            <Sample Path="./Graphic Design/Photo Collage 2.eddx"/>
+            <Sample Path="./Graphic Design/Photo Collage 3.eddx"/>
+            <Sample Path="./Graphic Design/Photo Collage 4.eddx"/>
+            <Sample Path="./Graphic Design/Photo Collage 5.eddx"/>
+            <Sample Path="./Graphic Design/Photo Collage 6.eddx"/>
+            <Sample Path="./Graphic Design/Photo Collage 7.eddx"/>
+            <Sample Path="./Graphic Design/Photo Collage 8.eddx"/>
+            <Sample Path="./Graphic Design/Photo Collage 9.eddx"/>
+            <Sample Path="./Graphic Design/Banner 1.eddx"/>
+            <Sample Path="./Graphic Design/Brochure 1.eddx"/>
+            <Sample Path="./Graphic Design/Brochure 2.eddx"/>
+            <Sample Path="./Graphic Design/Brochure 3.eddx"/>
+            <Sample Path="./Graphic Design/Brochure 4.eddx"/>
+            <Sample Path="./Graphic Design/Brochure 5.eddx"/>
+            <Sample Path="./Graphic Design/Brochure 6.eddx"/>
+            <Sample Path="./Graphic Design/Brochure 7.eddx"/>
+            <Sample Path="./Graphic Design/Gift Certificate 1.eddx"/>
+            <Sample Path="./Graphic Design/Gift Certificate 2.eddx"/>
+            <Sample Path="./Graphic Design/Gift Certificate 3.eddx"/>
+            <Sample Path="./Graphic Design/Gift Voucher 2.eddx"/>
+            <Sample Path="./Graphic Design/Gift Voucher 3.eddx"/>
+            <Sample Path="./Graphic Design/Gift Voucher 4.eddx"/>
+            <Sample Path="./Graphic Design/Gift Voucher 5.eddx"/>
+            <Sample Path="./Graphic Design/Gift Voucher 6.eddx"/>
+            <Sample Path="./Graphic Design/Gift Voucher 7.eddx"/>
+            <Sample Path="./Graphic Design/Gift Voucher 8.eddx"/>
+            <Sample Path="./Graphic Design/Gift Voucher 1.eddx"/>
+            <Sample Path="./Graphic Design/Leaflet 1.eddx"/>
+            <Sample Path="./Graphic Design/Leaflet 2.eddx"/>
+            <Sample Path="./Graphic Design/Leaflet 3.eddx"/>
+            <Sample Path="./Graphic Design/Certificate 1.eddx"/>
+            <Sample Path="./Graphic Design/Certificate 2.eddx"/>
+            <Sample Path="./Graphic Design/Certificate 3.eddx"/>
+            <Sample Path="./Graphic Design/Certificate 4.eddx"/>
+            <Sample Path="./Graphic Design/Student Excellence Award.eddx"/>
+            <Sample Path="./Graphic Design/Student Excellence Award 2.eddx"/>
+            <Sample Path="./Graphic Design/Newsletter 1.eddx"/>
+            <Sample Path="./Graphic Design/Newsletter 2.eddx"/>
+            <Sample Path="./Graphic Design/Newsletter 3.eddx"/>
+            <Sample Path="./Graphic Design/Newsletter 4.eddx"/>
+            <Sample Path="./Graphic Design/Banner 4.eddx"/>
+            <Sample Path="./Graphic Design/Banner 5.eddx"/>
+            <Sample Path="./Graphic Design/Banner 3.eddx"/>
+            <Sample Path="./Graphic Design/CD Cover 1.eddx"/>
+            <Sample Path="./Graphic Design/CD Cover 2.eddx"/>
+            <Sample Path="./Graphic Design/CD Cover 3.eddx"/>
+            <Sample Path="./Graphic Design/CD Cover 4.eddx"/>
+            <Sample Path="./Graphic Design/Cassette Cover 1.eddx"/>
+            <Sample Path="./Graphic Design/Cassette Cover 2.eddx"/>
+            <Sample Path="./Graphic Design/Cassette Cover 3.eddx"/>
+            <Sample Path="./Graphic Design/Cassette Cover 4.eddx"/>
+            <Sample Path="./Graphic Design/Banner 2.eddx"/>
+            <Sample Path="./Graphic Design/Banner 6.eddx"/>
+            <Sample Path="./Graphic Design/Banner 7.eddx"/>
+            <Sample Path="./Graphic Design/Banner 8.eddx"/>
+        </Template>
+        <Template NameU="Annual Reports">
+            <Sample Path="./Graphic Design/Annual Report.eddx"/>
+            <Sample Path="./Graphic Design/Annual Report Cover 1.eddx"/>
+            <Sample Path="./Graphic Design/Annual Report Cover 2.eddx"/>
+            <Sample Path="./Graphic Design/Annual Report Cover 3.eddx"/>
+            <Sample Path="./Graphic Design/Annual Report Cover 4.eddx"/>
+        </Template>
+        <Template NameU="Banner">
+            <Sample Path="./Graphic Design/Banner 2.eddx"/>
+            <Sample Path="./Graphic Design/Banner 3.eddx"/>
+            <Sample Path="./Graphic Design/Banner 7.eddx"/>
+            <Sample Path="./Graphic Design/Banner 8.eddx"/>
+            <Sample Path="./Graphic Design/Banner 4.eddx"/>
+            <Sample Path="./Graphic Design/Banner 1.eddx"/>
+            <Sample Path="./Graphic Design/Banner 5.eddx"/>
+            <Sample Path="./Graphic Design/Banner 6.eddx"/>
+        </Template>
+        <Template NameU="Brochure">
+            <Sample Path="./Graphic Design/Brochure 1.eddx"/>
+            <Sample Path="./Graphic Design/Brochure 2.eddx"/>
+            <Sample Path="./Graphic Design/Brochure 3.eddx"/>
+            <Sample Path="./Graphic Design/Brochure 4.eddx"/>
+            <Sample Path="./Graphic Design/Brochure 5.eddx"/>
+            <Sample Path="./Graphic Design/Brochure 6.eddx"/>
+            <Sample Path="./Graphic Design/Brochure 7.eddx"/>
+        </Template>
+        <Template NameU="Certificate">
+            <Sample Path="./Graphic Design/Gift Certificate 1.eddx"/>
+            <Sample Path="./Graphic Design/Gift Certificate 2.eddx"/>
+            <Sample Path="./Graphic Design/Gift Certificate 3.eddx"/>
+            <Sample Path="./Graphic Design/Gift Voucher 1.eddx"/>
+            <Sample Path="./Graphic Design/Gift Voucher 3.eddx"/>
+            <Sample Path="./Graphic Design/Gift Voucher 4.eddx"/>
+            <Sample Path="./Graphic Design/Gift Voucher 2.eddx"/>
+            <Sample Path="./Graphic Design/Gift Voucher 5.eddx"/>
+            <Sample Path="./Graphic Design/Gift Voucher 6.eddx"/>
+            <Sample Path="./Graphic Design/Gift Voucher 7.eddx"/>
+            <Sample Path="./Graphic Design/Gift Voucher 8.eddx"/>
+            <Sample Path="./Graphic Design/Student Excellence Award.eddx"/>
+            <Sample Path="./Graphic Design/Student Excellence Award 2.eddx"/>
+            <Sample Path="./Graphic Design/Student Excellence Award 3.eddx"/>
+            <Sample Path="./Graphic Design/Certificate 1.eddx"/>
+            <Sample Path="./Graphic Design/Certificate 2.eddx"/>
+            <Sample Path="./Graphic Design/Certificate 3.eddx"/>
+            <Sample Path="./Graphic Design/Certificate 4.eddx"/>
+        </Template>
+        <Template NameU="Cover">
+            <Sample Path="./Graphic Design/Book Cover 5.eddx"/>
+            <Sample Path="./Graphic Design/Book Cover 4.eddx"/>
+            <Sample Path="./Graphic Design/Book Cover 3.eddx"/>
+            <Sample Path="./Graphic Design/Book Cover 1.eddx"/>
+            <Sample Path="./Graphic Design/Book Cover 2.eddx"/>
+        </Template>
+        <Template NameU="Flyer">
+            <Sample Path="./Graphic Design/Flyer 2.eddx"/>
+            <Sample Path="./Graphic Design/Flyer 4.eddx"/>
+            <Sample Path="./Graphic Design/Flyer 5.eddx"/>
+            <Sample Path="./Graphic Design/Flyer 6.eddx"/>
+            <Sample Path="./Graphic Design/Flyer 7.eddx"/>
+            <Sample Path="./Graphic Design/Flyer 8.eddx"/>
+            <Sample Path="./Graphic Design/Flyer 9.eddx"/>
+            <Sample Path="./Graphic Design/Flyer 1.eddx"/>
+            <Sample Path="./Graphic Design/Flyer 3.eddx"/>
+            <Sample Path="./Graphic Design/Resume 1.eddx"/>
+            <Sample Path="./Graphic Design/Resume 2.eddx"/>
+        </Template>
+        <Template NameU="Label">
+            <Sample Path="./Graphic Design/CD Cover 1.eddx"/>
+            <Sample Path="./Graphic Design/CD Cover 2.eddx"/>
+            <Sample Path="./Graphic Design/CD Cover 3.eddx"/>
+            <Sample Path="./Graphic Design/CD Cover 4.eddx"/>
+        </Template>
+        <Template NameU="Magazines">
+            <Sample Path="./Graphic Design/Magazine 1.eddx"/>
+        </Template>
+        <Template NameU="Newsletter">
+            <Sample Path="./Graphic Design/Newsletter 1.eddx"/>
+            <Sample Path="./Graphic Design/Newsletter 2.eddx"/>
+            <Sample Path="./Graphic Design/Newsletter 3.eddx"/>
+            <Sample Path="./Graphic Design/Newsletter 4.eddx"/>
+        </Template>
+        <Template NameU="Picture Collage">
+            <Sample Path="./Graphic Design/Photo Collage 1.eddx"/>
+            <Sample Path="./Graphic Design/Photo Collage 2.eddx"/>
+            <Sample Path="./Graphic Design/Photo Collage 3.eddx"/>
+            <Sample Path="./Graphic Design/Photo Collage 5.eddx"/>
+            <Sample Path="./Graphic Design/Photo Collage 4.eddx"/>
+            <Sample Path="./Graphic Design/Photo Collage 6.eddx"/>
+            <Sample Path="./Graphic Design/Photo Collage 7.eddx"/>
+            <Sample Path="./Graphic Design/Photo Collage 8.eddx"/>
+            <Sample Path="./Graphic Design/Photo Collage 9.eddx"/>
+        </Template>
+        <Template NameU="Poster">
+            <Sample Path="./Graphic Design/Poster 1.eddx"/>
+            <Sample Path="./Graphic Design/Poster 2.eddx"/>
+            <Sample Path="./Graphic Design/Poster 3.eddx"/>
+            <Sample Path="./Graphic Design/Poster 4.eddx"/>
+            <Sample Path="./Graphic Design/Poster 5.eddx"/>
+            <Sample Path="./Graphic Design/Poster 8.eddx"/>
+            <Sample Path="./Graphic Design/Poster 6.eddx"/>
+            <Sample Path="./Graphic Design/Poster 7.eddx"/>
+        </Template>
+    </Gallery>
+    <Gallery NameU="Graphic Organizer">
+        <Template>
+            <Sample Path="./Graphic Organizers/Compare and Contrast.eddx"/>
+            <Sample Path="./Graphic Organizers/Compare and Contrast 2.eddx"/>
+            <Sample Path="./Graphic Organizers/Compare and Contrast 4.eddx"/>
+            <Sample Path="./Graphic Organizers/Grid and Matrix 2.eddx"/>
+            <Sample Path="./Graphic Organizers/Main Idea and Details 2.eddx"/>
+            <Sample Path="./Graphic Organizers/T Chart 2.eddx"/>
+            <Sample Path="./Graphic Organizers/T Chart 3.eddx"/>
+            <Sample Path="./Graphic Organizers/Story Element.eddx"/>
+            <Sample Path="./Graphic Organizers/Main Idea and Details 1.eddx"/>
+            <Sample Path="./Graphic Organizers/Main Idea and Details 3.eddx"/>
+            <Sample Path="./Graphic Organizers/Main Idea and Details 4.eddx"/>
+            <Sample Path="./Graphic Organizers/Grid and Matrix 1.eddx"/>
+            <Sample Path="./Graphic Organizers/Spider Chart 1.eddx"/>
+            <Sample Path="./Graphic Organizers/Spider Chart 2.eddx"/>
+            <Sample Path="./Graphic Organizers/Sequence Chart 1.eddx"/>
+            <Sample Path="./Graphic Organizers/T Chart 1.eddx"/>
+            <Sample Path="./Graphic Organizers/Sequence Chart 2.eddx"/>
+            <Sample Path="./Graphic Organizers/5Ws Chart.eddx"/>
+            <Sample Path="./Graphic Organizers/Blank Tree Chart.eddx"/>
+            <Sample Path="./Graphic Organizers/Blank Word Map.eddx"/>
+            <Sample Path="./Graphic Organizers/KWL Chart 1.eddx"/>
+            <Sample Path="./Graphic Organizers/KWL Chart 2.eddx"/>
+            <Sample Path="./Graphic Organizers/Hamburger Writing Model.eddx"/>
+        </Template>
+        <Template NameU="Compare and Contract">
+            <Sample Path="./Graphic Organizers/Compare and Contrast.eddx"/>
+            <Sample Path="./Graphic Organizers/Compare and Contrast 2.eddx"/>
+            <Sample Path="./Graphic Organizers/Compare and Contrast 4.eddx"/>
+            <Sample Path="./Graphic Organizers/Compare and Contrast 3.eddx"/>
+            <Sample Path="./Graphic Organizers/Compare and Contrast 5.eddx"/>
+        </Template>
+        <Template NameU="Grid and Matrix">
+            <Sample Path="./Graphic Organizers/Grid and Matrix 2.eddx"/>
+            <Sample Path="./Graphic Organizers/Grid and Matrix 1.eddx"/>
+        </Template>
+        <Template NameU="Main Idea and Detail">
+            <Sample Path="./Graphic Organizers/Main Idea and Details 1.eddx"/>
+            <Sample Path="./Graphic Organizers/Main Idea and Details 2.eddx"/>
+            <Sample Path="./Graphic Organizers/Main Idea and Details 3.eddx"/>
+            <Sample Path="./Graphic Organizers/Main Idea and Details 4.eddx"/>
+        </Template>
+        <Template NameU="Sequence Chart">
+            <Sample Path="./Graphic Organizers/Sequence Chart 1.eddx"/>
+            <Sample Path="./Graphic Organizers/Sequence Chart 2.eddx"/>
+        </Template>
+        <Template NameU="Spider Chart">
+            <Sample Path="./Graphic Organizers/Spider Chart 1.eddx"/>
+            <Sample Path="./Graphic Organizers/Spider Chart 2.eddx"/>
+        </Template>
+        <Template NameU="Storyboard">
+            <Sample Path="./Graphic Organizers/5Ws Chart.eddx"/>
+            <Sample Path="./Graphic Organizers/Story Element.eddx"/>
+            <Sample Path="./Graphic Organizers/Hamburger Writing Model.eddx"/>
+            <Sample Path="./Graphic Organizers/KWL Chart 1.eddx"/>
+            <Sample Path="./Graphic Organizers/KWL Chart 2.eddx"/>
+            <Sample Path="./Graphic Organizers/Blank Tree Chart.eddx"/>
+            <Sample Path="./Graphic Organizers/Blank Word Map.eddx"/>
+        </Template>
+        <Template NameU="T-Chart">
+            <Sample Path="./Graphic Organizers/T Chart 1.eddx"/>
+            <Sample Path="./Graphic Organizers/T Chart 2.eddx"/>
+            <Sample Path="./Graphic Organizers/T Chart 3.eddx"/>
+        </Template>
+    </Gallery>
+    <Gallery NameU="Industrial Automation">
+        <Template>
+            <Sample Path="./PID/Air Condition Process PID.eddx"/>
+            <Sample Path="./PID/Air Conditioning PID.eddx"/>
+            <Sample Path="./PID/Anaerobic Pyrolytic Process.eddx"/>
+            <Sample Path="./PID/Asphalt Production PFD.eddx"/>
+            <Sample Path="./PID/Beer Processing PFD.eddx"/>
+            <Sample Path="./PID/Condensation Water Heating PFD.eddx"/>
+            <Sample Path="./PID/Demineralized Water PFD.eddx"/>
+            <Sample Path="./PID/Deoxidization Process Flow Diagram.eddx"/>
+            <Sample Path="./PID/Double Alkali PID.eddx"/>
+            <Sample Path="./PID/Drying Equipment PFD.eddx"/>
+            <Sample Path="./PID/Grain Logistics PFD.eddx"/>
+            <Sample Path="./PID/Grain Storage Drying.eddx"/>
+            <Sample Path="./PID/Hot Water System.eddx"/>
+            <Sample Path="./PID/Ingredient Transfer PFD.eddx"/>
+            <Sample Path="./PID/Ironmaking PFD.eddx"/>
+            <Sample Path="./PID/Lime Production PFD.eddx"/>
+            <Sample Path="./PID/Low Dust SCR System.eddx"/>
+            <Sample Path="./PID/Methane Power Generation PFD.eddx"/>
+            <Sample Path="./PID/Methylal Production PFD.eddx"/>
+            <Sample Path="./PID/MF Process Flow Diagram.eddx"/>
+            <Sample Path="./PID/Power Generation Heating PID.eddx"/>
+            <Sample Path="./PID/Power Generation PID.eddx"/>
+            <Sample Path="./PID/Power Plant PID.eddx"/>
+            <Sample Path="./PID/Pressure Spray Dryer PFD.eddx"/>
+            <Sample Path="./PID/Process Control System.eddx"/>
+            <Sample Path="./PID/Process Flow Diagram.eddx"/>
+            <Sample Path="./PID/Production Line PID.eddx"/>
+            <Sample Path="./PID/Protein Skimmer PID.eddx"/>
+            <Sample Path="./PID/SCR System PFD.eddx"/>
+            <Sample Path="./PID/Sludge Treatment PFD.eddx"/>
+            <Sample Path="./PID/Smart Control System PID.eddx"/>
+            <Sample Path="./PID/Thermal System PID.eddx"/>
+            <Sample Path="./PID/Wastewater Treatment PID.eddx"/>
+            <Sample Path="./PID/Water Production PFD.eddx"/>
+            <Sample Path="./PID/Water Treatment PFD.eddx"/>
+            <Sample Path="./PID/Wet Desulphurization PFD.eddx"/>
+            <Sample Path="./PID/Yeast Production PFD.eddx"/>
+        </Template>
+        <Template NameU="Process P&amp;ID">
+            <Sample Path="./PID/Air Condition Process PID.eddx"/>
+            <Sample Path="./PID/Asphalt Production PFD.eddx"/>
+            <Sample Path="./PID/Beer Processing PFD.eddx"/>
+            <Sample Path="./PID/Deoxidization Process Flow Diagram.eddx"/>
+            <Sample Path="./PID/MF Process Flow Diagram.eddx"/>
+            <Sample Path="./PID/Process Control System.eddx"/>
+        </Template>
+        <Template NameU="Utility-Generation P&amp;ID">
+            <Sample Path="./PID/Air Conditioning PID.eddx"/>
+            <Sample Path="./PID/Anaerobic Pyrolytic Process.eddx"/>
+            <Sample Path="./PID/Condensation Water Heating PFD.eddx"/>
+            <Sample Path="./PID/Ironmaking PFD.eddx"/>
+            <Sample Path="./PID/Ingredient Transfer PFD.eddx"/>
+            <Sample Path="./PID/Lime Production PFD.eddx"/>
+            <Sample Path="./PID/Low Dust SCR System.eddx"/>
+            <Sample Path="./PID/Methane Power Generation PFD.eddx"/>
+            <Sample Path="./PID/Power Generation Heating PID.eddx"/>
+            <Sample Path="./PID/Power Generation PID.eddx"/>
+            <Sample Path="./PID/Pressure Spray Dryer PFD.eddx"/>
+            <Sample Path="./PID/SCR System PFD.eddx"/>
+            <Sample Path="./PID/Sludge Treatment PFD.eddx"/>
+            <Sample Path="./PID/Water Production PFD.eddx"/>
+            <Sample Path="./PID/Wet Desulphurization PFD.eddx"/>
+            <Sample Path="./PID/Yeast Production PFD.eddx"/>
+        </Template>
+        <Template NameU="Environmental P&amp;ID">
+            <Sample Path="./PID/Wastewater Treatment PID.eddx"/>
+            <Sample Path="./PID/Water Treatment PFD.eddx"/>
+        </Template>
+        <Template NameU="Auxillary System P&amp;ID">
+            <Sample Path="./PID/Demineralized Water PFD.eddx"/>
+            <Sample Path="./PID/Drying Equipment PFD.eddx"/>
+            <Sample Path="./PID/Protein Skimmer PID.eddx"/>
+            <Sample Path="./PID/Smart Control System PID.eddx"/>
+        </Template>
+        <Template NameU="Distribution P&amp;ID">
+            <Sample Path="./PID/Grain Logistics PFD.eddx"/>
+            <Sample Path="./PID/Power Plant PID.eddx"/>
+            <Sample Path="./PID/Yeast Production PFD.eddx"/>
+        </Template>
+    </Gallery>
+    <Gallery NameU="Infographic">
+        <Template>
+            <Sample Path="./Infographic/My Infographics 1.eddx"/>
+            <Sample Path="./Infographic/My Infographics 2.eddx"/>
+            <Sample Path="./Infographic/My Infographics 3.eddx"/>
+            <Sample Path="./Infographic/My Infographics 4.eddx"/>
+            <Sample Path="./Infographic/My Infographics 5.eddx"/>
+            <Sample Path="./Infographic/My Infographics 6.eddx"/>
+            <Sample Path="./Infographic/My Infographics 7.eddx"/>
+            <Sample Path="./Infographic/My Infographics 8.eddx"/>
+            <Sample Path="./Infographic/My Infographics 9.eddx"/>
+            <Sample Path="./Infographic/My Infographics 10.eddx"/>
+            <Sample Path="./Infographic/My Infographics 11.eddx"/>
+            <Sample Path="./Infographic/My Infographics 12.eddx"/>
+            <Sample Path="./Infographic/My Infographics 13.eddx"/>
+            <Sample Path="./Infographic/My Infographics 14.eddx"/>
+            <Sample Path="./Infographic/Business Infographic 1.eddx"/>
+            <Sample Path="./Infographic/Business Infographic 2.eddx"/>
+            <Sample Path="./Infographic/Business Infographic 3.eddx"/>
+            <Sample Path="./Infographic/Education Infographic 1.eddx"/>
+            <Sample Path="./Infographic/Education Infographic 2.eddx"/>
+            <Sample Path="./Infographic/Education Infographic 4.eddx"/>
+            <Sample Path="./Infographic/Environment Infographic 2.eddx"/>
+            <Sample Path="./Infographic/Environment Infographic 3.eddx"/>
+            <Sample Path="./Infographic/Food Infographic 1.eddx"/>
+            <Sample Path="./Infographic/Food Infographic 2.eddx"/>
+            <Sample Path="./Infographic/Food Infographic 3.eddx"/>
+            <Sample Path="./Infographic/Medical Infographic 1.eddx"/>
+            <Sample Path="./Infographic/Medical Infographic 2.eddx"/>
+            <Sample Path="./Infographic/Medical Infographic 3.eddx"/>
+            <Sample Path="./Infographic/Music Infographics 3.eddx"/>
+            <Sample Path="./Infographic/My Infographics 15.eddx"/>
+            <Sample Path="./Infographic/Tourism Infographic 1.eddx"/>
+            <Sample Path="./Infographic/Tourism Infographic 2.eddx"/>
+            <Sample Path="./Infographic/Tourism Infographic 3.eddx"/>
+            <Sample Path="./Infographic/Transportation Infographic 1.eddx"/>
+        </Template>
+        <Template NameU="Architecture">
+            <Sample Path="./Infographic/My Infographics 13.eddx"/>
+        </Template>
+        <Template NameU="Business">
+            <Sample Path="./Infographic/My Infographics 6.eddx"/>
+            <Sample Path="./Infographic/Business Infographic 1.eddx"/>
+            <Sample Path="./Infographic/Business Infographic 2.eddx"/>
+            <Sample Path="./Infographic/Business Infographic 3.eddx"/>
+        </Template>
+        <Template NameU="Education">
+            <Sample Path="./Infographic/My Infographics 4.eddx"/>
+            <Sample Path="./Infographic/Education Infographic 1.eddx"/>
+            <Sample Path="./Infographic/Education Infographic 2.eddx"/>
+            <Sample Path="./Infographic/Education Infographic 4.eddx"/>
+        </Template>
+        <Template NameU="Environment">
+            <Sample Path="./Infographic/My Infographics 5.eddx"/>
+            <Sample Path="./Infographic/Environment Infographic 2.eddx"/>
+            <Sample Path="./Infographic/Environment Infographic 3.eddx"/>
+        </Template>
+        <Template NameU="Food">
+            <Sample Path="./Infographic/My Infographics 8.eddx"/>
+            <Sample Path="./Infographic/Food Infographic 1.eddx"/>
+            <Sample Path="./Infographic/Food Infographic 2.eddx"/>
+            <Sample Path="./Infographic/Food Infographic 3.eddx"/>
+        </Template>
+        <Template NameU="Medical">
+            <Sample Path="./Infographic/Medical Infographic 1.eddx"/>
+            <Sample Path="./Infographic/Medical Infographic 2.eddx"/>
+            <Sample Path="./Infographic/Medical Infographic 3.eddx"/>
+        </Template>
+        <Template NameU="Music">
+            <Sample Path="./Infographic/My Infographics 9.eddx"/>
+            <Sample Path="./Infographic/Music Infographics 3.eddx"/>
+        </Template>
+        <Template NameU="News">
+            <Sample Path="./Infographic/My Infographics 1.eddx"/>
+        </Template>
+        <Template NameU="Technology">
+            <Sample Path="./Infographic/My Infographics 14.eddx"/>
+        </Template>
+        <Template NameU="Tourism">
+            <Sample Path="./Infographic/My Infographics 15.eddx"/>
+            <Sample Path="./Infographic/Tourism Infographic 1.eddx"/>
+            <Sample Path="./Infographic/Tourism Infographic 3.eddx"/>
+            <Sample Path="./Infographic/Tourism Infographic 2.eddx"/>
+        </Template>
+        <Template NameU="Transportation">
+            <Sample Path="./Infographic/My Infographics 3.eddx"/>
+            <Sample Path="./Infographic/Transportation Infographic 1.eddx"/>
+        </Template>
+    </Gallery>
+    <Gallery NameU="Map">
+        <Template>
+            <Sample Path="./Map/Location Map 1.eddx"/>
+            <Sample Path="./Map/Location Map 2.eddx"/>
+            <Sample Path="./Map/Location Map 3.eddx"/>
+            <Sample Path="./Map/Location Map 4.eddx"/>
+            <Sample Path="./Map/3D Directional Map.eddx"/>
+            <Sample Path="./Map/3D Street Map.eddx"/>
+            <Sample Path="./Map/City Metro Map.eddx"/>
+            <Sample Path="./Map/City Subway Map.eddx"/>
+            <Sample Path="./Map/World Map 3.eddx"/>
+            <Sample Path="./Map/World Map 2.eddx"/>
+            <Sample Path="./Map/Regional Map.eddx"/>
+            <Sample Path="./Map/World Map 1.eddx"/>
+        </Template>
+        <Template NameU="Directional Map">
+            <Sample Path="./Map/Location Map 1.eddx"/>
+            <Sample Path="./Map/Location Map 2.eddx"/>
+            <Sample Path="./Map/Location Map 3.eddx"/>
+            <Sample Path="./Map/Location Map 4.eddx"/>
+        </Template>
+        <Template NameU="Directional Map - 3D">
+            <Sample Path="./Map/3D Directional Map.eddx"/>
+            <Sample Path="./Map/3D Street Map.eddx"/>
+        </Template>
+        <Template NameU="Subway Map">
+            <Sample Path="./Map/City Metro Map.eddx"/>
+            <Sample Path="./Map/City Subway Map.eddx"/>
+        </Template>
+    </Gallery>
+    <Gallery NameU="Mind Map">
+        <Template>
+            <Sample Path="./Mind Map/Be a Good Teacher.eddx"/>
+            <Sample Path="./Mind Map/How to Use Mind Map.eddx"/>
+            <Sample Path="./Mind Map/Barbecue.eddx"/>
+            <Sample Path="./Mind Map/Better Sleep.eddx"/>
+            <Sample Path="./Mind Map/Camp Awards.eddx"/>
+            <Sample Path="./Mind Map/Motivation Mind Map.eddx"/>
+            <Sample Path="./Mind Map/Choose A Car.eddx"/>
+            <Sample Path="./Mind Map/Camp Groups.eddx"/>
+            <Sample Path="./Mind Map/Course Plan.eddx"/>
+            <Sample Path="./Mind Map/Creative Thinking.eddx"/>
+            <Sample Path="./Mind Map/Daily Work Schedule.eddx"/>
+            <Sample Path="./Mind Map/Enterprise Training.eddx"/>
+            <Sample Path="./Mind Map/English Camp Activity Plan.eddx"/>
+            <Sample Path="./Mind Map/Health.eddx"/>
+            <Sample Path="./Mind Map/Benefits Of Fruits.eddx"/>
+            <Sample Path="./Mind Map/Right One Mind Map.eddx"/>
+            <Sample Path="./Mind Map/Grow Plants Mind Map.eddx"/>
+            <Sample Path="./Mind Map/Internet Marketing Mind Map.eddx"/>
+            <Sample Path="./Mind Map/Sub Health Mind Map.eddx"/>
+            <Sample Path="./Mind Map/Marketing Plan.eddx"/>
+            <Sample Path="./Mind Map/Marketing Strategy.eddx"/>
+            <Sample Path="./Mind Map/Marketing Strategy Concept Map.eddx"/>
+            <Sample Path="./Mind Map/MBA Courses.eddx"/>
+            <Sample Path="./Mind Map/Personal Profile.eddx"/>
+            <Sample Path="./Mind Map/Meeting.eddx"/>
+            <Sample Path="./Mind Map/New Year Resolutions.eddx"/>
+            <Sample Path="./Mind Map/Sunday Activites.eddx"/>
+            <Sample Path="./Mind Map/Prepare for New Dog.eddx"/>
+            <Sample Path="./Mind Map/Problem Solving.eddx"/>
+            <Sample Path="./Mind Map/Concept Map.eddx"/>
+            <Sample Path="./Mind Map/Project Timeline.eddx"/>
+            <Sample Path="./Mind Map/Concept Map Template.eddx"/>
+            <Sample Path="./Mind Map/Simple Topics.eddx"/>
+            <Sample Path="./Mind Map/Risk Management.eddx"/>
+            <Sample Path="./Mind Map/Time Management.eddx"/>
+            <Sample Path="./Mind Map/SWOT Analysis.eddx"/>
+            <Sample Path="./Mind Map/Wedding Plan.eddx"/>
+            <Sample Path="./Mind Map/Transportation of Goods.eddx"/>
+            <Sample Path="./Mind Map/Concept Map 2.eddx"/>
+            <Sample Path="./Mind Map/Concept Map 5.eddx"/>
+            <Sample Path="./Mind Map/Concept Map 6.eddx"/>
+            <Sample Path="./Mind Map/Concept Map 7.eddx"/>
+            <Sample Path="./Mind Map/Bubble Diagram 1.eddx"/>
+            <Sample Path="./Mind Map/Bubble Diagram 2.eddx"/>
+            <Sample Path="./Mind Map/Spacial Relationship Bubble Diagram 2.eddx"/>
+            <Sample Path="./Mind Map/Spacial Relationship Bubble Diagram 1.eddx"/>
+            <Sample Path="./Mind Map/Birthday.eddx"/>
+            <Sample Path="./Mind Map/Concept Map 3.eddx"/>
+            <Sample Path="./Mind Map/Concept Map 4.eddx"/>
+        </Template>
+        <Template NameU="Mind Map">
+            <Sample Path="./Mind Map/Be a Good Teacher.eddx"/>
+            <Sample Path="./Mind Map/How to Use Mind Map.eddx"/>
+            <Sample Path="./Mind Map/Better Sleep.eddx"/>
+            <Sample Path="./Mind Map/Benefits Of Fruits.eddx"/>
+            <Sample Path="./Mind Map/Camp Awards.eddx"/>
+            <Sample Path="./Mind Map/Choose A Car.eddx"/>
+            <Sample Path="./Mind Map/Course Plan.eddx"/>
+            <Sample Path="./Mind Map/Creative Thinking.eddx"/>
+            <Sample Path="./Mind Map/Daily Work Schedule.eddx"/>
+            <Sample Path="./Mind Map/Health.eddx"/>
+            <Sample Path="./Mind Map/Motivation Mind Map.eddx"/>
+            <Sample Path="./Mind Map/English Camp Activity Plan.eddx"/>
+            <Sample Path="./Mind Map/Grow Plants Mind Map.eddx"/>
+            <Sample Path="./Mind Map/Enterprise Training.eddx"/>
+            <Sample Path="./Mind Map/Marketing Plan.eddx"/>
+            <Sample Path="./Mind Map/Internet Marketing Mind Map.eddx"/>
+            <Sample Path="./Mind Map/Marketing Strategy.eddx"/>
+            <Sample Path="./Mind Map/Meeting.eddx"/>
+            <Sample Path="./Mind Map/MBA Courses.eddx"/>
+            <Sample Path="./Mind Map/New Year Resolutions.eddx"/>
+            <Sample Path="./Mind Map/Personal Profile.eddx"/>
+            <Sample Path="./Mind Map/Prepare for New Dog.eddx"/>
+            <Sample Path="./Mind Map/Right One Mind Map.eddx"/>
+            <Sample Path="./Mind Map/Project Timeline.eddx"/>
+            <Sample Path="./Mind Map/Simple Topics.eddx"/>
+            <Sample Path="./Mind Map/Sub Health Mind Map.eddx"/>
+            <Sample Path="./Mind Map/SWOT Analysis.eddx"/>
+            <Sample Path="./Mind Map/Sunday Activites.eddx"/>
+            <Sample Path="./Mind Map/Problem Solving.eddx"/>
+            <Sample Path="./Mind Map/Transportation of Goods.eddx"/>
+            <Sample Path="./Mind Map/Time Management.eddx"/>
+            <Sample Path="./Mind Map/Mind Map Topics.eddx"/>
+            <Sample Path="./Mind Map/Wedding Plan.eddx"/>
+        </Template>
+        <Template NameU="Concept Map">
+            <Sample Path="./Mind Map/Concept Map 2.eddx"/>
+            <Sample Path="./Mind Map/Concept Map 5.eddx"/>
+            <Sample Path="./Mind Map/Concept Map 6.eddx"/>
+            <Sample Path="./Mind Map/Concept Map 7.eddx"/>
+            <Sample Path="./Mind Map/Concept Map Template.eddx"/>
+            <Sample Path="./Mind Map/Risk Management.eddx"/>
+            <Sample Path="./Mind Map/Concept Map 3.eddx"/>
+            <Sample Path="./Mind Map/Concept Map 4.eddx"/>
+        </Template>
+        <Template NameU="Bubble Diagram">
+            <Sample Path="./Mind Map/Bubble Diagram 2.eddx"/>
+            <Sample Path="./Mind Map/Bubble Diagram 1.eddx"/>
+            <Sample Path="./Mind Map/Spacial Relationship Bubble Diagram 2.eddx"/>
+            <Sample Path="./Mind Map/Spacial Relationship Bubble Diagram 1.eddx"/>
+        </Template>
+    </Gallery>
+    <Gallery NameU="Network">
+        <Template>
+            <Sample Path="./AWS/AWS Examples 1.eddx"/>
+            <Sample Path="./AWS/AWS Examples 2.eddx"/>
+            <Sample Path="./AWS/AWS Examples 3.eddx"/>
+            <Sample Path="./AWS/AWS Examples 4.eddx"/>
+            <Sample Path="./AWS/AWS Examples 5.eddx"/>
+            <Sample Path="./AWS/AWS Examples 6.eddx"/>
+            <Sample Path="./AWS/AWS Examples 7.eddx"/>
+            <Sample Path="./Network/Campus Network Overview.eddx"/>
+            <Sample Path="./Network/Microwave Topology.eddx"/>
+            <Sample Path="./Network/Active Directory Network.eddx"/>
+            <Sample Path="./Network/Lab Network.eddx"/>
+            <Sample Path="./Network/Internet Network.eddx"/>
+            <Sample Path="./Network/Cisco Network Diagram.eddx"/>
+            <Sample Path="./Network/Cisco Topology Layout.eddx"/>
+            <Sample Path="./Network/Video and Audio Ports 2.eddx"/>
+            <Sample Path="./Network/Video and Audio Ports 1.eddx"/>
+            <Sample Path="./Network/Rack Diagram.eddx"/>
+            <Sample Path="./Network/MSA4000 Applicance.eddx"/>
+            <Sample Path="./Network/Network Topology.eddx"/>
+            <Sample Path="./Network/Home Network.eddx"/>
+            <Sample Path="./Network/Data Center Network.eddx"/>
+            <Sample Path="./Network/CCTV Network.eddx"/>
+            <Sample Path="./Network/Sales Service System.eddx"/>
+            <Sample Path="./Network/Network Communication.eddx"/>
+            <Sample Path="./Network/Public Digital Network.eddx"/>
+            <Sample Path="./Network/WAN Diagram.eddx"/>
+            <Sample Path="./Network/Logistics Network Diagram.eddx"/>
+            <Sample Path="./Network/Mobile Network.eddx"/>
+            <Sample Path="./Network/Ethernet LAN Diagram.eddx"/>
+            <Sample Path="./Network/Hotel Network Diagram.eddx"/>
+            <Sample Path="./Network/Information Center Network.eddx"/>
+            <Sample Path="./Network/Enterprise Information Platform.eddx"/>
+            <Sample Path="./Network/University LDAP.eddx"/>
+            <Sample Path="./Network/BigFix Network.eddx"/>
+            <Sample Path="./Network/3D Network.eddx"/>
+            <Sample Path="./Network/Azure 1.eddx"/>
+            <Sample Path="./Network/Azure 2.eddx"/>
+            <Sample Path="./Network/Cisco Safe.eddx"/>
+            <Sample Path="./Network/GCP Architecture.eddx"/>
+        </Template>
+        <Template NameU="3D Network Diagram">
+            <Sample Path="./Network/3D Network.eddx"/>
+            <Sample Path="./Network/BigFix Network.eddx"/>
+        </Template>
+        <Template NameU="AWS">
+            <Sample Path="./AWS/AWS Examples 3.eddx"/>
+            <Sample Path="./AWS/AWS Examples 4.eddx"/>
+            <Sample Path="./AWS/AWS Examples 5.eddx"/>
+            <Sample Path="./AWS/AWS Examples 6.eddx"/>
+            <Sample Path="./AWS/AWS Examples 1.eddx"/>
+            <Sample Path="./AWS/AWS Examples 2.eddx"/>
+            <Sample Path="./AWS/AWS Examples 7.eddx"/>
+        </Template>
+        <Template NameU="Azure">
+            <Sample Path="./Network/Azure 1.eddx"/>
+            <Sample Path="./Network/Azure 2.eddx"/>
+        </Template>
+        <Template NameU="GCP">
+            <Sample Path="./Network/GCP Architecture.eddx"/>
+        </Template>
+        <Template NameU="Basic Network Diagram">
+            <Sample Path="./Network/Information Center Network.eddx"/>
+            <Sample Path="./Network/Hotel Network Diagram.eddx"/>
+            <Sample Path="./Network/Ethernet LAN Diagram.eddx"/>
+            <Sample Path="./Network/Mobile Network.eddx"/>
+            <Sample Path="./Network/Logistics Network Diagram.eddx"/>
+            <Sample Path="./Network/WAN Diagram.eddx"/>
+            <Sample Path="./Network/MSA4000 Applicance.eddx"/>
+        </Template>
+        <Template NameU="Cisco Network Topology">
+            <Sample Path="./Network/Cisco Network Diagram.eddx"/>
+            <Sample Path="./Network/Lab Network.eddx"/>
+            <Sample Path="./Network/Internet Network.eddx"/>
+        </Template>
+        <Template NameU="Cisco Product Icons">
+            <Sample Path="./Network/Cisco Topology Layout.eddx"/>
+        </Template>
+        <Template NameU="Cisco Safe Icons">
+            <Sample Path="./Network/Cisco Safe.eddx"/>
+        </Template>
+        <Template NameU="Detail Network Diagram">
+            <Sample Path="./Network/Public Digital Network.eddx"/>
+            <Sample Path="./Network/Sales Service System.eddx"/>
+            <Sample Path="./Network/CCTV Network.eddx"/>
+            <Sample Path="./Network/Data Center Network.eddx"/>
+            <Sample Path="./Network/Home Network.eddx"/>
+        </Template>
+        <Template NameU="Logical Network Diagram">
+            <Sample Path="./Network/Network Communication.eddx"/>
+            <Sample Path="./Network/Network Topology.eddx"/>
+        </Template>
+        <Template NameU="Rack Diagram">
+            <Sample Path="./Network/Rack Diagram.eddx"/>
+        </Template>
+        <Template NameU="Video and Audio Ports">
+            <Sample Path="./Network/Video and Audio Ports 1.eddx"/>
+            <Sample Path="./Network/Video and Audio Ports 2.eddx"/>
+        </Template>
+        <Template NameU="LDAP">
+            <Sample Path="./Network/University LDAP.eddx"/>
+            <Sample Path="./Network/Enterprise Information Platform.eddx"/>
+        </Template>
+        <Template NameU="Active Directory">
+            <Sample Path="./Network/Active Directory Network.eddx"/>
+        </Template>
+        <Template NameU="Network Location Diagram">
+            <Sample Path="./Network/Campus Network Overview.eddx"/>
+            <Sample Path="./Network/Microwave Topology.eddx"/>
+        </Template>
+    </Gallery>
+    <Gallery NameU="Organizational Chart">
+        <Template>
+            <Sample Path="./Organizational Chart/Import Excel to Org Chart.eddx"/>
+            <Sample Path="./Organizational Chart/Marketing Org Chart.eddx"/>
+            <Sample Path="./Organizational Chart/Sales Department Org Chart.eddx"/>
+            <Sample Path="./Organizational Chart/Market Org Chart.eddx"/>
+            <Sample Path="./Organizational Chart/Company Org Chart 3.eddx"/>
+            <Sample Path="./Organizational Chart/Company Org Chart 2.eddx"/>
+            <Sample Path="./Organizational Chart/Company Org Chart.eddx"/>
+            <Sample Path="./Organizational Chart/Business Photo Org Chart.eddx"/>
+            <Sample Path="./Organizational Chart/Corporation Organization Structure.eddx"/>
+            <Sample Path="./Organizational Chart/Retail Org Chart.eddx"/>
+            <Sample Path="./Organizational Chart/Department Org Chart.eddx"/>
+            <Sample Path="./Organizational Chart/Custom Organizational Chart 2.eddx"/>
+            <Sample Path="./Organizational Chart/Hospital Org Chart.eddx"/>
+            <Sample Path="./Organizational Chart/City Org Chart.eddx"/>
+            <Sample Path="./Organizational Chart/Sales Org Chart.eddx"/>
+            <Sample Path="./Organizational Chart/Company Org Chart 4.eddx"/>
+            <Sample Path="./Organizational Chart/Hierarchical Org Chart.eddx"/>
+            <Sample Path="./Organizational Chart/Matrix Org Chart.eddx"/>
+            <Sample Path="./Organizational Chart/Manufacturing Org Chart.eddx"/>
+            <Sample Path="./Organizational Chart/Finance Org Chart.eddx"/>
+            <Sample Path="./Organizational Chart/Trade Enterprise Org Chart.eddx"/>
+            <Sample Path="./Organizational Chart/Custom Organizational Chart.eddx"/>
+            <Sample Path="./Organizational Chart/Structure Org Chart.eddx"/>
+            <Sample Path="./Organizational Chart/Company Structure.eddx"/>
+            <Sample Path="./Organizational Chart/Org Chart New.eddx"/>
+            <Sample Path="./Organizational Chart/Org Chart Set 1.eddx"/>
+            <Sample Path="./Organizational Chart/Org Chart Set 2.eddx"/>
+            <Sample Path="./Organizational Chart/Org Chart Set 3.eddx"/>
+            <Sample Path="./Organizational Chart/Org Chart Set 5.eddx"/>
+            <Sample Path="./Organizational Chart/Org Chart Set 4.eddx"/>
+            <Sample Path="./Organizational Chart/Family Tree Template.eddx"/>
+        </Template>
+        <Template NameU="Organization Chart">
+            <Sample Path="./Organizational Chart/Salary Org Chart.eddx"/>
+            <Sample Path="./Organizational Chart/Company Org Chart 3.eddx"/>
+            <Sample Path="./Organizational Chart/Market Org Chart.eddx"/>
+            <Sample Path="./Organizational Chart/Business Photo Org Chart.eddx"/>
+            <Sample Path="./Organizational Chart/City Org Chart.eddx"/>
+            <Sample Path="./Organizational Chart/Company Org Chart 2.eddx"/>
+            <Sample Path="./Organizational Chart/Company Org Chart 4.eddx"/>
+            <Sample Path="./Organizational Chart/Company Org Chart.eddx"/>
+            <Sample Path="./Organizational Chart/Corporation Organization Structure.eddx"/>
+            <Sample Path="./Organizational Chart/Department Org Chart.eddx"/>
+            <Sample Path="./Organizational Chart/Hierarchical Org Chart.eddx"/>
+            <Sample Path="./Organizational Chart/Manufacturing Org Chart.eddx"/>
+            <Sample Path="./Organizational Chart/Finance Org Chart.eddx"/>
+            <Sample Path="./Organizational Chart/Retail Org Chart.eddx"/>
+            <Sample Path="./Organizational Chart/Sales Department Org Chart.eddx"/>
+            <Sample Path="./Organizational Chart/Sales Org Chart.eddx"/>
+            <Sample Path="./Organizational Chart/Service Enterprise Org Chart.eddx"/>
+            <Sample Path="./Organizational Chart/Trade Enterprise Org Chart.eddx"/>
+        </Template>
+        <Template NameU="Custom Organization Chart">
+            <Sample Path="./Organizational Chart/Org Chart Set 1.eddx"/>
+            <Sample Path="./Organizational Chart/Org Chart Set 2.eddx"/>
+            <Sample Path="./Organizational Chart/Org Chart Set 3.eddx"/>
+            <Sample Path="./Organizational Chart/Org Chart Set 4.eddx"/>
+            <Sample Path="./Organizational Chart/Org Chart Set 5.eddx"/>
+            <Sample Path="./Organizational Chart/Custom Organizational Chart 2.eddx"/>
+            <Sample Path="./Organizational Chart/Structure Org Chart.eddx"/>
+            <Sample Path="./Organizational Chart/Company Structure.eddx"/>
+        </Template>
+        <Template NameU="Family Tree">
+            <Sample Path="./Organizational Chart/Family Tree Template.eddx"/>
+        </Template>
+    </Gallery>
+    <Gallery NameU="Project Management">
+        <Template>
+            <Sample Path="./Project/Month-Working Calendar.eddx"/>
+            <Sample Path="./Project/How to use Gantt.eddx"/>
+            <Sample Path="./Project/Interior Decoration Gantt Chart.eddx"/>
+            <Sample Path="./Project/Day Plan.eddx"/>
+            <Sample Path="./Project/Month Plan Calendar.eddx"/>
+            <Sample Path="./Project/Month Calendar of Classes.eddx"/>
+            <Sample Path="./Project/Weekly Task Schedule.eddx"/>
+            <Sample Path="./Project/Quarter Plan Calendar.eddx"/>
+            <Sample Path="./Project/Decision Tree.eddx"/>
+            <Sample Path="./Project/Software Choosing Decision Tree.eddx"/>
+            <Sample Path="./Project/Enterprise Management HOQ.eddx"/>
+            <Sample Path="./Project/Sixsigma QFD.eddx"/>
+            <Sample Path="./Project/Product Quality Function Deployment Matrix.eddx"/>
+            <Sample Path="./Project/Timeline List.eddx"/>
+            <Sample Path="./Project/Mulitple Phase PERT Chart.eddx"/>
+            <Sample Path="./Project/Cell Phone History Timeline.eddx"/>
+            <Sample Path="./Project/Jeans History Timeline.eddx"/>
+            <Sample Path="./Project/Events Timeline.eddx"/>
+            <Sample Path="./Project/PERT Chart Template.eddx"/>
+            <Sample Path="./Project/Product Status Dashboard.eddx"/>
+            <Sample Path="./Project/American History Timeline.eddx"/>
+            <Sample Path="./Project/Edraw Project Timeline.eddx"/>
+            <Sample Path="./Project/Task Status.eddx"/>
+            <Sample Path="./Project/Employee Project Involvement Matrix.eddx"/>
+            <Sample Path="./Project/Comparison Chart.eddx"/>
+            <Sample Path="./Project/Comparison Matrix.eddx"/>
+            <Sample Path="./Project/Software Engineer Relations Diagram.eddx"/>
+            <Sample Path="./Project/Software Develop Life Cycle.eddx"/>
+            <Sample Path="./Project/WBS Template.eddx"/>
+            <Sample Path="./Project/Simple PERT Chart.eddx"/>
+            <Sample Path="./Project/Auto WBS.eddx"/>
+            <Sample Path="./Project/Timeline Infographic 1.eddx"/>
+            <Sample Path="./Project/Timeline Infographic 2.eddx"/>
+            <Sample Path="./Project/Timeline Infographic 5.eddx"/>
+            <Sample Path="./Project/Timeline Infographic 6.eddx"/>
+            <Sample Path="./Project/Timeline Infographic 3.eddx"/>
+            <Sample Path="./Project/Timeline Infographic 4.eddx"/>
+        </Template>
+        <Template NameU="Calendar">
+            <Sample Path="./Project/Day Plan.eddx"/>
+            <Sample Path="./Project/Month Plan Calendar.eddx"/>
+            <Sample Path="./Project/Month Calendar of Classes.eddx"/>
+            <Sample Path="./Project/Weekly Task Schedule.eddx"/>
+            <Sample Path="./Project/Quarter Plan Calendar.eddx"/>
+            <Sample Path="./Project/Month-Working Calendar.eddx"/>
+        </Template>
+        <Template NameU="Gantt">
+            <Sample Path="./Project/Interior Decoration Gantt Chart.eddx"/>
+            <Sample Path="./Project/How to use Gantt.eddx"/>
+        </Template>
+        <Template NameU="House of Quality">
+            <Sample Path="./Project/Enterprise Management HOQ.eddx"/>
+        </Template>
+        <Template NameU="Quality Function Deployment">
+            <Sample Path="./Project/Product Quality Function Deployment Matrix.eddx"/>
+            <Sample Path="./Project/Sixsigma QFD.eddx"/>
+        </Template>
+        <Template NameU="Relationship Matrix">
+            <Sample Path="./Project/Employee Project Involvement Matrix.eddx"/>
+            <Sample Path="./Project/Comparison Chart.eddx"/>
+            <Sample Path="./Project/Comparison Matrix.eddx"/>
+        </Template>
+        <Template NameU="Relations Diagram">
+            <Sample Path="./Project/Software Engineer Relations Diagram.eddx"/>
+        </Template>
+        <Template NameU="PERT Chart">
+            <Sample Path="./Project/PERT Chart Template.eddx"/>
+            <Sample Path="./Project/Simple PERT Chart.eddx"/>
+            <Sample Path="./Project/Mulitple Phase PERT Chart.eddx"/>
+        </Template>
+        <Template NameU="Timeline">
+            <Sample Path="./Project/Edraw Project Timeline.eddx"/>
+            <Sample Path="./Project/Software Develop Life Cycle.eddx"/>
+            <Sample Path="./Project/Jeans History Timeline.eddx"/>
+            <Sample Path="./Project/Cell Phone History Timeline.eddx"/>
+            <Sample Path="./Project/Events Timeline.eddx"/>
+            <Sample Path="./Project/Timeline List.eddx"/>
+            <Sample Path="./Project/American History Timeline.eddx"/>
+            <Sample Path="./Project/Timeline Infographic 1.eddx"/>
+            <Sample Path="./Project/Timeline Infographic 2.eddx"/>
+            <Sample Path="./Project/Timeline Infographic 3.eddx"/>
+            <Sample Path="./Project/Timeline Infographic 4.eddx"/>
+            <Sample Path="./Project/Timeline Infographic 5.eddx"/>
+            <Sample Path="./Project/Timeline Infographic 6.eddx"/>
+        </Template>
+        <Template NameU="Status Table">
+            <Sample Path="./Project/Product Status Dashboard.eddx"/>
+            <Sample Path="./Project/System Status Dashboard.eddx"/>
+            <Sample Path="./Project/Task Status.eddx"/>
+        </Template>
+        <Template NameU="Decision Tree">
+            <Sample Path="./Project/Decision Tree.eddx"/>
+            <Sample Path="./Project/Software Choosing Decision Tree.eddx"/>
+        </Template>
+        <Template NameU="Work Breakdown Structure (WBS)">
+            <Sample Path="./Project/WBS Template.eddx"/>
+            <Sample Path="./Project/Auto WBS.eddx"/>
+        </Template>
+    </Gallery>
+    <Gallery NameU="Science">
+        <Template>
+            <Sample Path="./Science/Trolley Movement Experiment.eddx"/>
+            <Sample Path="./Science/Tuning Fork Resonance Experiment.eddx"/>
+            <Sample Path="./Science/Physical Experiment Illustration.eddx"/>
+            <Sample Path="./Science/Hydrostatics Experiment.eddx"/>
+            <Sample Path="./Science/Ammonia and Water Reactions.eddx"/>
+            <Sample Path="./Science/Chemical Experimental Facility Illustration.eddx"/>
+            <Sample Path="./Science/Pulley Block.eddx"/>
+            <Sample Path="./Science/Desalination Experiment.eddx"/>
+            <Sample Path="./Science/Chlorine Properties Experiment.eddx"/>
+            <Sample Path="./Science/Oral.eddx"/>
+            <Sample Path="./Science/Chemistry Experiment 2.eddx"/>
+            <Sample Path="./Science/SiO4.eddx"/>
+            <Sample Path="./Science/Lens.eddx"/>
+            <Sample Path="./Science/Astronomy.eddx"/>
+            <Sample Path="./Science/Chemical Compounds.eddx"/>
+            <Sample Path="./Science/Cell.eddx"/>
+        </Template>
+        <Template NameU="Mechanics">
+            <Sample Path="./Science/Trolley Movement Experiment.eddx"/>
+            <Sample Path="./Science/Physical Experiment Illustration.eddx"/>
+            <Sample Path="./Science/Tuning Fork Resonance Experiment.eddx"/>
+            <Sample Path="./Science/Pulley Block.eddx"/>
+        </Template>
+        <Template NameU="Optics">
+            <Sample Path="./Science/Lens.eddx"/>
+        </Template>
+        <Template NameU="Chemistry Equation">
+            <Sample Path="./Science/Chemical Compounds.eddx"/>
+        </Template>
+        <Template NameU="Laboratory Equipment">
+            <Sample Path="./Science/Ammonia and Water Reactions.eddx"/>
+            <Sample Path="./Science/Chemical Experimental Facility Illustration.eddx"/>
+            <Sample Path="./Science/Chemistry Experiment 2.eddx"/>
+            <Sample Path="./Science/Hydrostatics Experiment.eddx"/>
+            <Sample Path="./Science/Chlorine Properties Experiment.eddx"/>
+            <Sample Path="./Science/Desalination Experiment.eddx"/>
+        </Template>
+        <Template NameU="Molecular Model">
+            <Sample Path="./Science/SiO4.eddx"/>
+        </Template>
+        <Template NameU="Human Organs">
+            <Sample Path="./Science/Oral.eddx"/>
+        </Template>
+        <Template NameU="Cells">
+            <Sample Path="./Science/Cell.eddx"/>
+        </Template>
+        <Template NameU="Astronomy">
+            <Sample Path="./Science/Astronomy.eddx"/>
+        </Template>
+    </Gallery>
+    <Gallery NameU="Software">
+        <Template>
+            <Sample Path="./Software/Uml Compound Statechart.eddx"/>
+            <Sample Path="./Software/UML Collaboration Diagram.eddx"/>
+            <Sample Path="./Software/UML Telebanking.eddx"/>
+            <Sample Path="./Software/UML Component Diagram.eddx"/>
+            <Sample Path="./Software/UML Use Case.eddx"/>
+            <Sample Path="./Software/Data Flow Model Diagram.eddx"/>
+            <Sample Path="./Software/ROOM Diagram.eddx"/>
+            <Sample Path="./Software/UML Activity Diagram.eddx"/>
+            <Sample Path="./Software/UML State Chart.eddx"/>
+            <Sample Path="./Software/UML Package Diagram.eddx"/>
+            <Sample Path="./Software/UML Deployment Diagram.eddx"/>
+            <Sample Path="./Software/UML Sequence Diagram.eddx"/>
+            <Sample Path="./Software/Data Flow Model.eddx"/>
+            <Sample Path="./Software/Enterprise Application.eddx"/>
+            <Sample Path="./Software/Shlaer-Mellor.eddx"/>
+            <Sample Path="./Software/ATM UML Collaboration.eddx"/>
+            <Sample Path="./Software/Yourdon and Coad.eddx"/>
+            <Sample Path="./Software/System Uml Deployment.eddx"/>
+            <Sample Path="./Software/UML Class Diagram.eddx"/>
+            <Sample Path="./Software/Online Reading UML Component.eddx"/>
+            <Sample Path="./Software/Nassi-Shneiderman.eddx"/>
+            <Sample Path="./Software/SSADM.eddx"/>
+            <Sample Path="./Software/Web Portal Architecture Diagram.eddx"/>
+            <Sample Path="./Software/Enrollment UML Activity.eddx"/>
+            <Sample Path="./Software/Booch OOD.eddx"/>
+            <Sample Path="./Software/Management System Use Case.eddx"/>
+            <Sample Path="./Software/Student Management Use Case.eddx"/>
+            <Sample Path="./Software/Website UML Sequence.eddx"/>
+        </Template>
+        <Template NameU="UML Model Diagram">
+            <Sample Path="./Software/Uml Compound Statechart.eddx"/>
+            <Sample Path="./Software/UML Component Diagram.eddx"/>
+            <Sample Path="./Software/UML Telebanking.eddx"/>
+            <Sample Path="./Software/UML State Chart.eddx"/>
+            <Sample Path="./Software/UML Use Case.eddx"/>
+            <Sample Path="./Software/UML Package Diagram.eddx"/>
+            <Sample Path="./Software/UML Activity Diagram.eddx"/>
+            <Sample Path="./Software/UML Collaboration Diagram.eddx"/>
+            <Sample Path="./Software/Website UML Sequence.eddx"/>
+            <Sample Path="./Software/UML Sequence Diagram.eddx"/>
+            <Sample Path="./Software/UML Class Diagram.eddx"/>
+            <Sample Path="./Software/UML Deployment Diagram.eddx"/>
+        </Template>
+        <Template NameU="Booch OOD">
+            <Sample Path="./Software/Booch OOD.eddx"/>
+        </Template>
+        <Template NameU="Data Flow Model Diagram">
+            <Sample Path="./Software/Data Flow Model.eddx"/>
+            <Sample Path="./Software/Data Flow Model Diagram.eddx"/>
+        </Template>
+        <Template NameU="Enterprise Application">
+            <Sample Path="./Software/Web Portal Architecture Diagram.eddx"/>
+            <Sample Path="./Software/Enterprise Application.eddx"/>
+        </Template>
+        <Template NameU="Jacobson Use Case">
+            <Sample Path="./Software/Student Management Use Case.eddx"/>
+        </Template>
+        <Template NameU="Jackson">
+            <Sample Path="./Software/System Uml Deployment.eddx"/>
+        </Template>
+        <Template NameU="Nassi-Shneiderman">
+            <Sample Path="./Software/Nassi-Shneiderman.eddx"/>
+        </Template>
+        <Template NameU="ROOM">
+            <Sample Path="./Software/ROOM Diagram.eddx"/>
+        </Template>
+        <Template NameU="Shlaer-Mellor OOA">
+            <Sample Path="./Software/Shlaer-Mellor.eddx"/>
+        </Template>
+        <Template NameU="SSADM">
+            <Sample Path="./Software/SSADM.eddx"/>
+        </Template>
+        <Template NameU="Yourdon and Coad">
+            <Sample Path="./Software/Yourdon and Coad.eddx"/>
+        </Template>
+    </Gallery>
+    <Gallery NameU="Wireframe">
+        <Template>
+            <Sample Path="./Wireframe/ios 8 ui.eddx"/>
+            <Sample Path="./Wireframe/ios 7 ui.eddx"/>
+            <Sample Path="./Wireframe/iPhone IM UI.eddx"/>
+            <Sample Path="./Wireframe/iphone ui example.eddx"/>
+            <Sample Path="./Wireframe/iPhone Wireframe - Sea.eddx"/>
+            <Sample Path="./Wireframe/ipad ui.eddx"/>
+            <Sample Path="./Wireframe/Android UI.eddx"/>
+            <Sample Path="./Wireframe/Dialog design.eddx"/>
+            <Sample Path="./Wireframe/Presentation Diagram Share Website.eddx"/>
+            <Sample Path="./Wireframe/Conceptual Website.eddx"/>
+            <Sample Path="./Wireframe/SiteMap.eddx"/>
+            <Sample Path="./Wireframe/Web Site Design.eddx"/>
+            <Sample Path="./Wireframe/Sports News Website.eddx"/>
+            <Sample Path="./Wireframe/Social News Website.eddx"/>
+        </Template>
+        <Template NameU="iPhone UI">
+            <Sample Path="./Wireframe/iphone ui example.eddx"/>
+            <Sample Path="./Wireframe/ios 7 ui.eddx"/>
+            <Sample Path="./Wireframe/ios 8 ui.eddx"/>
+            <Sample Path="./Wireframe/iPhone Wireframe - Sea.eddx"/>
+            <Sample Path="./Wireframe/iPhone IM UI.eddx"/>
+        </Template>
+        <Template NameU="iPad UI">
+            <Sample Path="./Wireframe/ipad ui.eddx"/>
+        </Template>
+        <Template NameU="Android UI">
+            <Sample Path="./Wireframe/Android UI.eddx"/>
+        </Template>
+        <Template NameU="Windows UI">
+            <Sample Path="./Wireframe/Dialog design.eddx"/>
+        </Template>
+        <Template NameU="Web Site Wireframe">
+            <Sample Path="./Wireframe/Social News Website.eddx"/>
+            <Sample Path="./Wireframe/Sports News Website.eddx"/>
+            <Sample Path="./Wireframe/Web Site Design.eddx"/>
+            <Sample Path="./Wireframe/Presentation Diagram Share Website.eddx"/>
+        </Template>
+        <Template NameU="Conceptual Web Site">
+            <Sample Path="./Wireframe/Conceptual Website.eddx"/>
+        </Template>
+        <Template NameU="Web Site Map">
+            <Sample Path="./Wireframe/SiteMap.eddx"/>
+        </Template>
+    </Gallery>
+    <Gallery NameU="Recent Templates">
+        <Template NameU="Cause and Effect (Fishbone)">
+            <Sample Path="./Business Diagram/Fishbone Diagram 3.eddx"/>
+            <Sample Path="./Business Diagram/Fishbone-Live a Healthy Life.eddx"/>
+            <Sample Path="./Business Diagram/Fishbone Diagram Template.eddx"/>
+            <Sample Path="./Business Diagram/Fishbone Diagram 6.eddx"/>
+            <Sample Path="./Business Diagram/Fishbone Diagram 2.eddx"/>
+            <Sample Path="./Business Diagram/Fishbone Diagram 4.eddx"/>
+        </Template>
+        <Template NameU="Annual Reports">
+            <Sample Path="./Graphic Design/Annual Report.eddx"/>
+            <Sample Path="./Graphic Design/Annual Report Cover 1.eddx"/>
+            <Sample Path="./Graphic Design/Annual Report Cover 2.eddx"/>
+            <Sample Path="./Graphic Design/Annual Report Cover 3.eddx"/>
+            <Sample Path="./Graphic Design/Annual Report Cover 4.eddx"/>
+        </Template>
+        <Template NameU="Floor Plan">
+            <Sample Path="./Floor Plan/Exhibition Hall Plan.eddx"/>
+            <Sample Path="./Floor Plan/Fashion Shop Layout.eddx"/>
+            <Sample Path="./Floor Plan/Rehabilitation Center Floor Plan.eddx"/>
+            <Sample Path="./Floor Plan/Building Core Plan.eddx"/>
+            <Sample Path="./Floor Plan/Floor Plan Design 1.eddx"/>
+            <Sample Path="./Floor Plan/Floor Plan Real Estate.eddx"/>
+            <Sample Path="./Floor Plan/Floor Plan Design 2.eddx"/>
+            <Sample Path="./Floor Plan/Floor Plan Design 3.eddx"/>
+            <Sample Path="./Floor Plan/Apartment Floor Plan Flyer.eddx"/>
+        </Template>
+        <Template NameU="Business scene">
+            <Sample Path="./Symbols/Business Scene.eddx"/>
+        </Template>
+        <Template NameU="Timeline">
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 2.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 5.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 6.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 8.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 7.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 9.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 12.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 13.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 14.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 15.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 16.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 17.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 19.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 20.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 21.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 26.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 30.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 31.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 18.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 29.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 32.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 33.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 35.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 28.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 38.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 22.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 40.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 37.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 10.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 27.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 23.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 34.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 3.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 36.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 1.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 11.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 4.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 25.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 24.eddx"/>
+            <Sample Path="./Basic Diagram/Basic Timeline/Timeline 39.eddx"/>
+        </Template>
+        <Template NameU="Cisco Safe Icons">
+            <Sample Path="./Network/Cisco Safe.eddx"/>
+        </Template>
+        <Template NameU="T-Chart">
+            <Sample Path="./Graphic Organizers/T Chart 1.eddx"/>
+            <Sample Path="./Graphic Organizers/T Chart 2.eddx"/>
+            <Sample Path="./Graphic Organizers/T Chart 3.eddx"/>
+        </Template>
+        <Template NameU="Storyboard">
+            <Sample Path="./Graphic Organizers/5Ws Chart.eddx"/>
+            <Sample Path="./Graphic Organizers/Story Element.eddx"/>
+            <Sample Path="./Graphic Organizers/Hamburger Writing Model.eddx"/>
+            <Sample Path="./Graphic Organizers/KWL Chart 1.eddx"/>
+            <Sample Path="./Graphic Organizers/KWL Chart 2.eddx"/>
+            <Sample Path="./Graphic Organizers/Blank Tree Chart.eddx"/>
+            <Sample Path="./Graphic Organizers/Blank Word Map.eddx"/>
+        </Template>
+        <Template NameU="Spider Chart">
+            <Sample Path="./Graphic Organizers/Spider Chart 1.eddx"/>
+            <Sample Path="./Graphic Organizers/Spider Chart 2.eddx"/>
+        </Template>
+        <Template NameU="Main Idea and Detail">
+            <Sample Path="./Graphic Organizers/Main Idea and Details 1.eddx"/>
+            <Sample Path="./Graphic Organizers/Main Idea and Details 2.eddx"/>
+            <Sample Path="./Graphic Organizers/Main Idea and Details 3.eddx"/>
+            <Sample Path="./Graphic Organizers/Main Idea and Details 4.eddx"/>
+        </Template>
+        <Template NameU="Grid and Matrix">
+            <Sample Path="./Graphic Organizers/Grid and Matrix 2.eddx"/>
+            <Sample Path="./Graphic Organizers/Grid and Matrix 1.eddx"/>
+        </Template>
+        <Template NameU="Compare and Contract">
+            <Sample Path="./Graphic Organizers/Compare and Contrast.eddx"/>
+            <Sample Path="./Graphic Organizers/Compare and Contrast 2.eddx"/>
+            <Sample Path="./Graphic Organizers/Compare and Contrast 4.eddx"/>
+            <Sample Path="./Graphic Organizers/Compare and Contrast 3.eddx"/>
+            <Sample Path="./Graphic Organizers/Compare and Contrast 5.eddx"/>
+        </Template>
+        <Template NameU="Process P&amp;ID">
+            <Sample Path="./PID/Air Condition Process PID.eddx"/>
+            <Sample Path="./PID/Asphalt Production PFD.eddx"/>
+            <Sample Path="./PID/Beer Processing PFD.eddx"/>
+            <Sample Path="./PID/Deoxidization Process Flow Diagram.eddx"/>
+            <Sample Path="./PID/MF Process Flow Diagram.eddx"/>
+            <Sample Path="./PID/Process Control System.eddx"/>
+        </Template>
+        <Template NameU="Presentation">
+            <Sample Path="./Basic Diagram/PPT Presentation/PPT Presentation 11.eddx"/>
+            <Sample Path="./Basic Diagram/PPT Presentation/PPT Presentation 4.eddx"/>
+            <Sample Path="./Basic Diagram/PPT Presentation/PPT Presentation 16.eddx"/>
+            <Sample Path="./Basic Diagram/PPT Presentation/PPT Presentation 7.eddx"/>
+            <Sample Path="./Basic Diagram/PPT Presentation/PPT Presentation 8.eddx"/>
+            <Sample Path="./Basic Diagram/PPT Presentation/PPT Presentation 5.eddx"/>
+            <Sample Path="./Basic Diagram/PPT Presentation/PPT Presentation 2.eddx"/>
+            <Sample Path="./Basic Diagram/PPT Presentation/PPT Presentation 3.eddx"/>
+            <Sample Path="./Basic Diagram/PPT Presentation/PPT Presentation 9.eddx"/>
+            <Sample Path="./Basic Diagram/PPT Presentation/PPT Presentation 6.eddx"/>
+            <Sample Path="./Basic Diagram/PPT Presentation/PPT Presentation 12.eddx"/>
+            <Sample Path="./Basic Diagram/PPT Presentation/PPT Presentation 14.eddx"/>
+            <Sample Path="./Basic Diagram/PPT Presentation/PPT Presentation 17.eddx"/>
+            <Sample Path="./Basic Diagram/PPT Presentation/PPT Presentation 15.eddx"/>
+            <Sample Path="./Basic Diagram/PPT Presentation/PPT Presentation 13.eddx"/>
+            <Sample Path="./Basic Diagram/PPT Presentation/PPT Presentation 18.eddx"/>
+            <Sample Path="./Basic Diagram/PPT Presentation/PPT Presentation 19.eddx"/>
+            <Sample Path="./Basic Diagram/PPT Presentation/PPT Presentation 20.eddx"/>
+            <Sample Path="./Basic Diagram/PPT Presentation/PPT Presentation 1.eddx"/>
+            <Sample Path="./Basic Diagram/PPT Presentation/PPT Presentation 10.eddx"/>
+        </Template>
+        <Template NameU="Picture Collage">
+            <Sample Path="./Graphic Design/Photo Collage 1.eddx"/>
+            <Sample Path="./Graphic Design/Photo Collage 2.eddx"/>
+            <Sample Path="./Graphic Design/Photo Collage 3.eddx"/>
+            <Sample Path="./Graphic Design/Photo Collage 5.eddx"/>
+            <Sample Path="./Graphic Design/Photo Collage 4.eddx"/>
+            <Sample Path="./Graphic Design/Photo Collage 6.eddx"/>
+            <Sample Path="./Graphic Design/Photo Collage 7.eddx"/>
+            <Sample Path="./Graphic Design/Photo Collage 8.eddx"/>
+            <Sample Path="./Graphic Design/Photo Collage 9.eddx"/>
+        </Template>
+        <Template NameU="Business Cards">
+            <Sample Path="./Card/Business Card/Business Card 14.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 4.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 37.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 19.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 38.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 24.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 7.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 8.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 35.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 39.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 2.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 10.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 18.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 21.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 16.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 29.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 6.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 25.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 20.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 17.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 15.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 12.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 26.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 23.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 31.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 13.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 34.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 33.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 36.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 32.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 27.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 30.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 28.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 5.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 22.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 3.eddx"/>
+            <Sample Path="./Card/Business Card/Business Card 9.eddx"/>
+        </Template>
+        <Template NameU="Arrows">
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 1.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 21.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 3.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 18.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 5.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 7.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 22.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 12.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 11.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 13.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 10.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 16.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 24.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 9.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 19.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 26.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 23.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 2.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 17.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 8.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 20.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 14.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 4.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 6.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 15.eddx"/>
+            <Sample Path="./Basic Diagram/Arrow Diagram/Arrow Diagram 25.eddx"/>
+        </Template>
+        <Template NameU="Girl Dress">
+            <Sample Path="./Fashion/Fashion Design 2.eddx"/>
+            <Sample Path="./Fashion/Fashion Design 1.eddx"/>
+            <Sample Path="./Fashion/Fashion Models.eddx"/>
+        </Template>
+        <Template NameU="Highlight Shapes">
+            <Sample Path="./Basic Diagram/3D Block/Highlight Shape Diagram 1.eddx"/>
+            <Sample Path="./Basic Diagram/3D Block/Highlight Shape Diagram 2.eddx"/>
+            <Sample Path="./Basic Diagram/3D Block/Highlight Shape Diagram 3.eddx"/>
+            <Sample Path="./Basic Diagram/3D Block/Highlight Shape Diagram 4.eddx"/>
+        </Template>
+    </Gallery>
+</Examples>

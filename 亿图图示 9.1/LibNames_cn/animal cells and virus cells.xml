@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Animal Cells">
+    <Elem Prompt="细胞结构" Name="细胞结构" PromptU="Cell Structure" NameU="Cell Structure"/>
+    <Elem Prompt="草履虫" Name="草履虫" PromptU="Paramecium" NameU="Paramecium"/>
+    <Elem Prompt="草履虫" Name="草履虫" PromptU="Paramecium" NameU="Paramecium"/>
+    <Elem Prompt="青蛙皮" Name="青蛙皮" PromptU="Frog skin" NameU="Frog skin"/>
+    <Elem Prompt="鳞状细胞" Name="鳞状细胞" PromptU="Squamous cell" NameU="Squamous cell"/>
+    <Elem Prompt="细胞分裂" Name="细胞分裂" PromptU="Cell division" NameU="Cell division"/>
+    <Elem Prompt="细胞分裂1" Name="细胞分裂1" PromptU="Cell division1" NameU="Cell division1"/>
+    <Elem Prompt="细菌" Name="细菌" PromptU="Bacteria" NameU="Bacteria"/>
+    <Elem Prompt="细胞膜" Name="细胞膜" PromptU="cell membrane" NameU="cell membrane"/>
+    <Elem Prompt="卵细胞" Name="卵细胞" PromptU="Eggs" NameU="Eggs"/>
+    <Elem Prompt="精子" Name="精子" PromptU="Sperm" NameU="Sperm"/>
+    <Elem Prompt="受精卵" Name="受精卵" PromptU="Zygote" NameU="Zygote"/>
+    <Elem Prompt="细胞, 动物_ 动物细胞" Name="细胞, 动物_ 动物细胞" PromptU="Cell, animal_ An animal cell with inte" NameU="Cell, animal_ An animal cell with inte"/>
+    <Elem Prompt="乳酸菌" Name="乳酸菌" PromptU="Lactobacillus" NameU="Lactobacillus"/>
+    <Elem Prompt="SARS" Name="SARS" PromptU="SARS" NameU="SARS"/>
+    <Elem Prompt="烟草花叶病病毒" Name="烟草花叶病病毒" PromptU="Tobacco mosaic virus" NameU="Tobacco mosaic virus"/>
+    <Elem Prompt="腺病毒" Name="腺病毒" PromptU="Adenovirus" NameU="Adenovirus"/>
+    <Elem Prompt="大肠杆菌噬菌体" Name="大肠杆菌噬菌体" PromptU="Coliphage" NameU="Coliphage"/>
+    <Elem Prompt="孢疹病毒" Name="孢疹病毒" PromptU="Herpesvirus" NameU="Herpesvirus"/>
+    <Elem Prompt="痘病毒" Name="痘病毒" PromptU="Poxvirus" NameU="Poxvirus"/>
+    <Elem Prompt="流感病毒" Name="流感病毒" PromptU="Influenza virus" NameU="Influenza virus"/>
+    <Elem Prompt="AIDS" Name="AIDS" PromptU="AIDS" NameU="AIDS"/>
+    <Elem Prompt="乙型肝炎病毒" Name="乙型肝炎病毒" PromptU="Hepatitis B virus" NameU="Hepatitis B virus"/>
+    <Elem Prompt="流行性腮腺炎" Name="流行性腮腺炎" PromptU="Mumps" NameU="Mumps"/>
+    <Elem Prompt="埃博拉病毒" Name="埃博拉病毒" PromptU="Ebora" NameU="Ebora"/>
+    <Elem Prompt="胃癌病毒" Name="胃癌病毒" PromptU="Gastric cancer virus" NameU="Gastric cancer virus"/>
+    <Elem Prompt="鳞状细胞" Name="鳞状细胞" PromptU="Squamous cell" NameU="Squamous cell"/>
+</Lib>

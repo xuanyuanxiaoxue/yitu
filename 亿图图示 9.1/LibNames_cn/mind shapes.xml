@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Mind Map Shapes">
+    <Elem Prompt="主题" Name="主题" PromptU="Main Idea" NameU="Main Idea"/>
+    <Elem Prompt="主标题" Name="主标题" PromptU="Main Topic" NameU="Main Topic"/>
+    <Elem Prompt="副标题" Name="副标题" PromptU="Sub Topic" NameU="Sub Topic"/>
+    <Elem Prompt="关系" Name="关系" PromptU="Relationship" NameU="Relationship"/>
+</Lib>

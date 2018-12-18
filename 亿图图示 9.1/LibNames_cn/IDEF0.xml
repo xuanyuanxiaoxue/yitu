@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="IDEF0 Diagram Shapes">
+    <Elem Prompt="流程实体" Name="流程实体" PromptU="Process box" NameU="Process box"/>
+    <Elem Prompt="标题框" Name="标题框" PromptU="Title block" NameU="Title block"/>
+    <Elem Prompt="N型线条文本块在侧边" Name="N型线条" PromptU="N-type  line with text side" NameU="N-type line"/>
+    <Elem Prompt="N型线条文本块在中间" Name="N型线条" PromptU="N-type line with text middle" NameU="N-type line"/>
+    <Elem Prompt="文本块" Name="文本块" PromptU="Text block" NameU="Text block"/>
+    <Elem Prompt="节点" Name="节点" PromptU="Node" NameU="Node"/>
+    <Elem Prompt="固定连接线" Name="固定连接线" PromptU="Solid connector" NameU="Solid connector"/>
+    <Elem Prompt="单向连接线" Name="单向连接线" PromptU="1 legged connector" NameU="1 legged connector"/>
+    <Elem Prompt="IDEF0 连接线" Name="IDEF0 连接线" PromptU="IDEF0 connector" NameU="IDEF0 connector"/>
+    <Elem Prompt="IDEF0 连接线" Name="IDEF0 连接线" PromptU="IDEF0 connector" NameU="IDEF0 connector"/>
+    <Elem Prompt="动态连接线" Name="动态连接线" PromptU="Dynamic connector" NameU="Dynamic connector"/>
+    <Elem Prompt="侧边说明框" Name="侧边说明框" PromptU="Side text callout" NameU="Side text callout"/>
+</Lib>

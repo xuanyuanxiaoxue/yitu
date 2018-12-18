@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Integrated Circuit Components">
+    <Elem Prompt="水平扩展" Name="水平扩展" PromptU="Horizontal extension" NameU="Horizontal extension"/>
+    <Elem Prompt="负逻辑圆点" Name="负逻辑圆点" PromptU="Vertical extension" NameU="Vertical extension"/>
+    <Elem Prompt="IC" Name="IC" PromptU="IC" NameU="IC"/>
+    <Elem Prompt="4X 组块顶部" Name="4X 组块顶部" PromptU="4X Building block-top" NameU="4X Building block-top"/>
+    <Elem Prompt="4X 组块底部" Name="4X 组块底部" PromptU="4X Building block-base" NameU="4X Building block-base"/>
+    <Elem Prompt="4X 组块中部" Name="4X 组块中部" PromptU="4X Building block-middle" NameU="4X Building block-middle"/>
+    <Elem Prompt="4X 组块全部" Name="4X 组块全部" PromptU="4X Building block-complete" NameU="4X Building block-complete"/>
+    <Elem Prompt="1X 组块" Name="1X 组块" PromptU="1X Building block" NameU="1X Building block"/>
+    <Elem Prompt="2信道 MUX" Name="2信道 MUX" PromptU="MUX 2" NameU="MUX 2"/>
+    <Elem Prompt="4信道 MUX" Name="4信道 MUX" PromptU="MUX 4" NameU="MUX 4"/>
+    <Elem Prompt="8信道 MUX" Name="8信道 MUX" PromptU="MUX 8" NameU="MUX 8"/>
+    <Elem Prompt="接地" Name="接地" PromptU="Ground" NameU="Ground"/>
+    <Elem Prompt="驱动程序" Name="驱动程序" PromptU="Driver" NameU="Driver"/>
+    <Elem Prompt="4 位模拟/数字转换器" Name="4 位模拟/数字转换器" PromptU="4-bit a/d converter" NameU="4-bit a/d converter"/>
+    <Elem Prompt="8 位模拟/数字转换器" Name="8 位模拟/数字转换器" PromptU="8-bit a/d converter" NameU="8-bit a/d converter"/>
+    <Elem Prompt="4 位数字/模拟转换器" Name="4 位数字/模拟转换器" PromptU="4-bit d/a converter" NameU="4-bit d/a converter"/>
+    <Elem Prompt="8 位数字/模拟转换器" Name="8 位数字/模拟转换器" PromptU="8-bit d/a converter" NameU="8-bit d/a converter"/>
+    <Elem Prompt="电压转换器" Name="电压转换器" PromptU="Voltage converter" NameU="Voltage converter"/>
+    <Elem Prompt="PWM" Name="PWM" PromptU="PWM" NameU="PWM"/>
+    <Elem Prompt="4 位寄存器" Name="4 位寄存器" PromptU="4-bit register" NameU="4-bit register"/>
+    <Elem Prompt="8 位寄存器" Name="8 位寄存器" PromptU="8-bit register" NameU="8-bit register"/>
+    <Elem Prompt="单稳" Name="单稳" PromptU="One shot" NameU="One shot"/>
+    <Elem Prompt="4 位计数器" Name="4 位计数器" PromptU="4-bit counter" NameU="4-bit counter"/>
+    <Elem Prompt="8 位计数器" Name="8 位计数器" PromptU="8-bit counter" NameU="8-bit counter"/>
+    <Elem Prompt="4 位预载计数器" Name="4 位预载计数器" PromptU="Preload counter 4" NameU="Preload counter 4"/>
+    <Elem Prompt="8 位预载计数器" Name="8 位预载计数器" PromptU="Preload counter 8" NameU="Preload counter 8"/>
+    <Elem Prompt="2 信道模拟开关" Name="2 信道模拟开关" PromptU="Analog switch 2" NameU="Analog switch 2"/>
+    <Elem Prompt="4 信道模拟开关" Name="4 信道模拟开关" PromptU="Analog switch 4" NameU="Analog switch 4"/>
+    <Elem Prompt="2 - 4 译码器" Name="2 - 4 译码器" PromptU="2-4 decoder" NameU="2-4 decoder"/>
+    <Elem Prompt="3 - 8 译码器" Name="3 - 8 译码器" PromptU="3-8 decoder" NameU="3-8 decoder"/>
+    <Elem Prompt="接触" Name="接触" PromptU="Contact" NameU="Contact"/>
+    <Elem Prompt="接触 (N)" Name="接触 (N)" PromptU="Contact (N)" NameU="Contact (N)"/>
+    <Elem Prompt="正极转变-接触传感" Name="正极转变-接触传感" PromptU="Positive Transition-Sensing Contact" NameU="Positive Transition-Sensing Contact"/>
+    <Elem Prompt="负极转变-接触传感" Name="负极转变-接触传感" PromptU="Negative Transition-Sensing Contact" NameU="Negative Transition-Sensing Contact"/>
+    <Elem Prompt="输出 (N)" Name="输出 (N)" PromptU="Output (N)" NameU="Output (N)"/>
+    <Elem Prompt="输出" Name="输出" PromptU="Output" NameU="Output"/>
+    <Elem Prompt="正极转变-传感线圈" Name="正极转变-传感线圈" PromptU="Positive Transition-Sensing Coil" NameU="Positive Transition-Sensing Coil"/>
+    <Elem Prompt="负极转变-传感线圈" Name="负极转变-传感线圈" PromptU="Negative Transition-Sensing Coil" NameU="Negative Transition-Sensing Coil"/>
+    <Elem Prompt="设置线圈门闩" Name="设置线圈门闩" PromptU="Set Latch Coil" NameU="Set Latch Coil"/>
+    <Elem Prompt="重置线圈门闩" Name="重置线圈门闩" PromptU="Reset Latch Coil" NameU="Reset Latch Coil"/>
+    <Elem Prompt="输出 2" Name="输出 2" PromptU="Output 2" NameU="Output 2"/>
+    <Elem Prompt="输出 (N) 2" Name="输出 (N) 2" PromptU="Output (N) 2" NameU="Output (N) 2"/>
+</Lib>

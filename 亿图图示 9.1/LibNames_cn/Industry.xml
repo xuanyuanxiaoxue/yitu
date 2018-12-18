@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Industry">
+    <Elem Prompt="沥青混合料槽" Name="沥青混合料槽" PromptU="Asphalt Mixture Tank" NameU="Asphalt Mixture Tank"/>
+    <Elem Prompt="沥青膨胀罐" Name="沥青膨胀罐" PromptU="Asphalt Expansion Tank" NameU="Asphalt Expansion Tank"/>
+    <Elem Prompt="畜粪池" Name="畜粪池" PromptU="Animal manure lagoon" NameU="Animal manure lagoon"/>
+    <Elem Prompt="液态渣池" Name="液态渣池" PromptU="The chariot liquid slag pool" NameU="The chariot liquid slag pool"/>
+    <Elem Prompt="泄料桶" Name="泄料桶" PromptU="Blow tank" NameU="Blow tank"/>
+    <Elem Prompt="智能控制周期" Name="智能控制周期" PromptU="Cycle of intelligent control" NameU="Cycle of intelligent control"/>
+    <Elem Prompt="干酵母粉仓" Name="干酵母粉仓" PromptU="Dry yeast powder storehouse" NameU="Dry yeast powder storehouse"/>
+    <Elem Prompt="高效汽轮机" Name="高效汽轮机" PromptU="High Efficiency Steam Turbine" NameU="High Efficiency Steam Turbine"/>
+    <Elem Prompt="漏斗" Name="漏斗" PromptU="Hopper" NameU="Hopper"/>
+    <Elem Prompt="旋液分离器" Name="旋液分离器" PromptU="Hydrocyclone" NameU="Hydrocyclone"/>
+    <Elem Prompt="母液槽" Name="母液槽" PromptU="Mother liquor tank" NameU="Mother liquor tank"/>
+    <Elem Prompt="母液槽" Name="母液槽" PromptU="Mother liquor" NameU="Mother liquor"/>
+    <Elem Prompt="二甲氧基甲烷计量罐" Name="二甲氧基甲烷计量罐" PromptU="Methylal Metering Tank" NameU="Methylal Metering Tank"/>
+    <Elem Prompt="成熟度" Name="成熟度" PromptU="Maturity" NameU="Maturity"/>
+    <Elem Prompt="石灰粉仓" Name="石灰粉仓" PromptU="Limestone powder storehouse" NameU="Limestone powder storehouse"/>
+    <Elem Prompt="三级高速剪切机" Name="三级高速剪切机" PromptU="Level 3 high-speed shearing machine" NameU="Level 3 high-speed shearing machine"/>
+    <Elem Prompt="剪切机" Name="剪切机" PromptU="Shearer" NameU="Shearer"/>
+    <Elem Prompt="烧结机" Name="烧结机" PromptU="Sintering machine" NameU="Sintering machine"/>
+    <Elem Prompt="成品罐" Name="成品罐" PromptU="Finished Products Tank" NameU="Finished Products Tank"/>
+    <Elem Prompt="分仓" Name="分仓" PromptU="Points bin" NameU="Points bin"/>
+    <Elem Prompt="料仓" Name="料仓" PromptU="Stock bin" NameU="Stock bin"/>
+    <Elem Prompt="消烟管" Name="消烟管" PromptU="Smoke Abatement Pipe" NameU="Smoke Abatement Pipe"/>
+    <Elem Prompt="传送带" Name="传送带" PromptU="Conveyor" NameU="Conveyor"/>
+    <Elem Prompt="酒槽水" Name="酒槽水" PromptU="Thin stillage" NameU="Thin stillage"/>
+    <Elem Prompt="涡轮" Name="涡轮" PromptU="Turbine" NameU="Turbine"/>
+    <Elem Prompt="机组" Name="机组" PromptU="Set" NameU="Set"/>
+    <Elem Prompt="干线管道" Name="干线管道" PromptU="Main Stem Pipeline" NameU="Main Stem Pipeline"/>
+</Lib>

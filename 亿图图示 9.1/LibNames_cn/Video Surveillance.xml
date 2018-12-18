@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Video Surveillance">
+    <Elem Prompt="摄像机" Name="摄像机" PromptU="Camera" NameU="Camera"/>
+    <Elem Prompt="移动检测器" Name="移动检测器" PromptU="Motion detector" NameU="Motion detector"/>
+    <Elem Prompt="玻璃破碎传感器" Name="玻璃破碎传感器" PromptU="Glass break sensor" NameU="Glass break sensor"/>
+    <Elem Prompt="筛分设备" Name="筛分设备" PromptU="Screening device" NameU="Screening device"/>
+    <Elem Prompt="监视器" Name="监视器" PromptU="Monitor" NameU="Monitor"/>
+    <Elem Prompt="摄像机 P/T/Z" Name="摄像机 P/T/Z" PromptU="Camera P/T/Z" NameU="Camera P/T/Z"/>
+    <Elem Prompt="视频多路复用器" Name="视频多路复用器" PromptU="Video multiplexer" NameU="Video multiplexer"/>
+    <Elem Prompt="按钮" Name="按钮" PromptU="Push button" NameU="Push button"/>
+    <Elem Prompt="录音机" Name="录音机" PromptU="Recorder" NameU="Recorder"/>
+    <Elem Prompt="手动开关" Name="手动开关" PromptU="Switch manual" NameU="Switch manual"/>
+    <Elem Prompt="自动开关" Name="自动开关" PromptU="Switch automatic" NameU="Switch automatic"/>
+    <Elem Prompt="视频键盘" Name="视频键盘" PromptU="Video keyboard" NameU="Video keyboard"/>
+    <Elem Prompt="收发分设光束传感器" Name="收发分设光束传感器" PromptU="Bi-static beam sensor" NameU="Bi-static beam sensor"/>
+    <Elem Prompt="有警报器的安全窗屏" Name="有警报器的安全窗屏" PromptU="Security window screen" NameU="Security window screen"/>
+    <Elem Prompt="视频移动探测器" Name="视频移动探测器" PromptU="Video motion detector" NameU="Video motion detector"/>
+    <Elem Prompt="电线连接线" Name="电线连接线" PromptU="Wire connector" NameU="Wire connector"/>
+</Lib>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="GCP Management Tools">
+    <Elem NameU="Management Tools" Name="管理工具" PromptU="Management Tools" Prompt="管理工具"/>
+    <Elem NameU="Cloud Endpoints" Name="云端点" PromptU="Cloud Endpoints" Prompt="云端点"/>
+    <Elem NameU="Debugger" Name="调试器" PromptU="Debugger" Prompt="调试器"/>
+    <Elem NameU="Error Reporting" Name="错误报告" PromptU="Error Reporting" Prompt="错误报告"/>
+    <Elem NameU="Logging" Name="登入" PromptU="Logging" Prompt="登入"/>
+    <Elem NameU="Stackdriver" Name="谷歌软件Stackdriver" PromptU="Stackdriver" Prompt="谷歌软件Stackdriver"/>
+    <Elem NameU="Trace" Name="跟踪" PromptU="Trace" Prompt="跟踪"/>
+</Lib>

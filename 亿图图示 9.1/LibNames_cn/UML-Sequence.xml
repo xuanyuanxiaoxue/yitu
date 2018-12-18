@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="UML Sequence Diagram">
+    <Elem Prompt="对象生命线" Name="对象生命线" PromptU="Object Lifeline" NameU="Object Lifeline"/>
+    <Elem Prompt="生命线" Name="生命线" PromptU="Lifeline" NameU="Lifeline"/>
+    <Elem Prompt="激活" Name="激活" PromptU="Activate" NameU="Activate"/>
+    <Elem Prompt="激活 (w / 中断)" Name="激活 (w / 中断)" PromptU="Activate (w / breake)" NameU="Activate (w / breake)"/>
+    <Elem Prompt="消息" Name="消息" PromptU="Object" NameU="Object"/>
+    <Elem Prompt="消息（返回）" Name="消息（返回）" PromptU="Interaction, Occurence" NameU="Interaction, Occurence"/>
+    <Elem Prompt="消息（调用）" Name="消息（调用）" PromptU="Frame, Fragment" NameU="Frame, Fragment"/>
+    <Elem Prompt="消息（回调）" Name="消息（回调）" PromptU="Class" NameU="Class"/>
+    <Elem Prompt="自调用" Name="自调用" PromptU="Message" NameU="Message"/>
+    <Elem Prompt="过渡 1" Name="过渡 1" PromptU="Message Return" NameU="Message Return"/>
+    <Elem Prompt="对象删除" Name="对象删除" PromptU="Object Deletion" NameU="Object Deletion"/>
+    <Elem Prompt="注释" Name="注释" PromptU="Message Call" NameU="Message Call"/>
+    <Elem Prompt="约束" Name="约束" PromptU="Generalization" NameU="Generalization"/>
+    <Elem Prompt="消息回调" Name="消息回调" PromptU="Message Call-Back" NameU="Message Call-Back"/>
+    <Elem Prompt="自授权" Name="自授权" PromptU="Self Delegation" NameU="Self Delegation"/>
+    <Elem Prompt="转换 1" Name="转换 1" PromptU="Transition 1" NameU="Transition 1"/>
+    <Elem Prompt="转换 2" Name="转换 2" PromptU="Transition 2" NameU="Transition 2"/>
+    <Elem Prompt="注释" Name="注释" PromptU="Note" NameU="Note"/>
+    <Elem Prompt="约束" Name="约束" PromptU="Constraint" NameU="Constraint"/>
+    <Elem Prompt="角色" Name="角色" PromptU="Actor" NameU="Actor"/>
+    <Elem Prompt="例外" Name="例外" PromptU="Exception" NameU="Exception"/>
+</Lib>

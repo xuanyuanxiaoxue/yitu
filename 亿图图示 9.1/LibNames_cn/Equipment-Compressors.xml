@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Equipment - Compressors">
+    <Elem Prompt="压缩机" Name="压缩机" PromptU="Compressor" NameU="Compressor"/>
+    <Elem Prompt="压缩机 2" Name="压缩机 2" PromptU="Compressor 2" NameU="Compressor 2"/>
+    <Elem Prompt="压缩机, 真空泵" Name="压缩机,真空泵" PromptU="Compressor, Vacuum pump" NameU="Compressor, Vacuum pump"/>
+    <Elem Prompt="离心式压缩机" Name="离心式压缩机" PromptU="Centrifugal compressor" NameU="Centrifugal compressor"/>
+    <Elem Prompt="膜片压缩机" Name="膜片压缩机" PromptU="Diaphragm compressor" NameU="Diaphragm compressor"/>
+    <Elem Prompt="喷射式压缩机" Name="喷射式压缩机" PromptU="Ejector compressor" NameU="Ejector compressor"/>
+    <Elem Prompt="活塞式压缩机" Name="活塞式压缩机" PromptU="Piston compressor" NameU="Piston compressor"/>
+    <Elem Prompt="活塞环压缩器" Name="活塞环压缩器" PromptU="Ring compressor" NameU="Ring compressor"/>
+    <Elem Prompt="滚筒叶片式压缩机" Name="滚筒叶片式压缩机" PromptU="Roller vane compressor" NameU="Roller vane compressor"/>
+    <Elem Prompt="往复式压缩机" Name="往复式压缩机" PromptU="Reciprocating compressor" NameU="Reciprocating compressor"/>
+    <Elem Prompt="往复式压缩机 2" Name="往复式压缩机 2" PromptU="Reciprocating compressor 2" NameU="Reciprocating compressor 2"/>
+    <Elem Prompt="往复式压缩机 3" Name="往复式压缩机 3" PromptU="Reciprocating compressor 3" NameU="Reciprocating compressor 3"/>
+    <Elem Prompt="压缩机消声器" Name="压缩机消声器" PromptU="Compressor silencers" NameU="Compressor silencers"/>
+    <Elem Prompt="回转式压缩机" Name="回转式压缩机" PromptU="Rotary compressor" NameU="Rotary compressor"/>
+    <Elem Prompt="回转式压缩机 2" Name="回转式压缩机 2" PromptU="Rotary compressor 2" NameU="Rotary compressor 2"/>
+    <Elem Prompt="回转式压缩机 3" Name="回转式压缩机 3" PromptU="Rotory compressor 3" NameU="Rotory compressor 3"/>
+    <Elem Prompt="回转式压缩机和消声器" Name="回转式压缩机和消声器" PromptU="Rotory compressor and silencers" NameU="Rotory compressor and silencers"/>
+    <Elem Prompt="水环式压缩机" Name="水环式压缩机" PromptU="Liquid ring compressor" NameU="Liquid ring compressor"/>
+    <Elem Prompt="离心式压缩机" Name="离心式压缩机" PromptU="Centrifugal compressor" NameU="Centrifugal compressor"/>
+    <Elem Prompt="离心式压缩机 2" Name="离心式压缩机 2" PromptU="Centrifugal compressor 2" NameU="Centrifugal compressor 2"/>
+    <Elem Prompt="离心式压缩机 3" Name="离心式压缩机 3" PromptU="Centrifugal compressor 3" NameU="Centrifugal compressor 3"/>
+    <Elem Prompt="可选式压缩机" Name="可选式压缩机" PromptU="Selectable compressor" NameU="Selectable compressor"/>
+    <Elem Prompt="轴流式压缩机" Name="轴流式压缩机" PromptU="Axial compressor" NameU="Axial compressor"/>
+    <Elem Prompt="空气压缩机" Name="空气压缩机" PromptU="Air compressor" NameU="Air compressor"/>
+    <Elem Prompt="空压机" Name="空压机" PromptU="AC air compressor" NameU="AC air compressor"/>
+    <Elem Prompt="螺杆式压缩机" Name="螺杆式压缩机" PromptU="Screw compressor" NameU="Screw compressor"/>
+    <Elem Prompt="涡轮压缩器" Name="涡轮压缩器" PromptU="Turbo compressor" NameU="Turbo compressor"/>
+</Lib>

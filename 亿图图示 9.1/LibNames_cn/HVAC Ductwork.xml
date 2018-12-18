@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="HVAC Ductwork">
+    <Elem Prompt="直管" Name="直管" PromptU="Straight duct" NameU="Straight duct"/>
+    <Elem Prompt="斜面弯管" Name="斜面弯管" PromptU="Miter bend" NameU="Miter bend"/>
+    <Elem Prompt="斜面弯管" Name="斜面弯管 2" PromptU="Miter bend" NameU="Miter bend 2"/>
+    <Elem Prompt="斜面弯管" Name="斜面弯管 3" PromptU="Miter bend" NameU="Miter bend 3"/>
+    <Elem Prompt="斜面弯管" Name="斜面弯管 4" PromptU="Miter bend" NameU="Miter bend 4"/>
+    <Elem Prompt="可变弯" Name="可变弯" PromptU="Variable bend" NameU="Variable bend"/>
+    <Elem Prompt="可变弯" Name="可变弯 2" PromptU="Variable bend" NameU="Variable bend 2"/>
+    <Elem Prompt="支管" Name="支管" PromptU="Branch duct" NameU="Branch duct"/>
+    <Elem Prompt="支管" Name="支管 2" PromptU="Branch duct" NameU="Branch duct 2"/>
+    <Elem Prompt="底部接口" Name="底部接口" PromptU="Junction bottom" NameU="Junction bottom"/>
+    <Elem Prompt="上部接口" Name="上部接口" PromptU="Junction up" NameU="Junction up"/>
+    <Elem Prompt="三通接口" Name="三通接口" PromptU="3 way junction" NameU="3 way junction"/>
+    <Elem Prompt="Y 形接口" Name="Y 形接口" PromptU="Y junction" NameU="Y junction"/>
+    <Elem Prompt="倾斜接口" Name="倾斜接口" PromptU="Beveled junction" NameU="Beveled junction"/>
+    <Elem Prompt="过渡" Name="过渡" PromptU="Transition" NameU="Transition"/>
+    <Elem Prompt="偏移过渡" Name="偏移过渡" PromptU="Offset transition" NameU="Offset transition"/>
+    <Elem Prompt="供给" Name="供给" PromptU="Supply" NameU="Supply"/>
+    <Elem Prompt="回路" Name="回路" PromptU="Return" NameU="Return"/>
+    <Elem Prompt="柔性连接 1" Name="柔性连接 1" PromptU="Flexible connection 1" NameU="Flexible connection 1"/>
+    <Elem Prompt="弹性接头" Name="弹性接头" PromptU="Flexible connector" NameU="Flexible connector"/>
+    <Elem Prompt="垂直管" Name="垂直管" PromptU="Vertical duct" NameU="Vertical duct"/>
+    <Elem Prompt="变风量空调系统末端装置" Name="变风量空调系统末端装置" PromptU="VAV box" NameU="VAV box"/>
+    <Elem Prompt="活动调节器" Name="活动调节器" PromptU="Sliding damper" NameU="Sliding damper"/>
+    <Elem Prompt="减震器" Name="减震器" PromptU="Damper" NameU="Damper"/>
+</Lib>

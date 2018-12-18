@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Asia">
+    <Elem Prompt="阿富汗" Name="阿富汗" PromptU="Afghanistan" NameU="Afghanistan"/>
+    <Elem Prompt="亚美尼亚" Name="亚美尼亚" PromptU="Armenia" NameU="Armenia"/>
+    <Elem Prompt="阿塞拜疆" Name="阿塞拜疆" PromptU="Azerbaijan" NameU="Azerbaijan"/>
+    <Elem Prompt="巴林群岛" Name="巴林群岛" PromptU="Bahrain" NameU="Bahrain"/>
+    <Elem Prompt="孟加拉国" Name="孟加拉国" PromptU="Bangladesh" NameU="Bangladesh"/>
+    <Elem Prompt="不丹" Name="不丹" PromptU="Bhutan" NameU="Bhutan"/>
+    <Elem Prompt="文莱" Name="文莱" PromptU="Brunei" NameU="Brunei"/>
+    <Elem Prompt="缅甸" Name="缅甸" PromptU="Burma (Myanmar)" NameU="Burma (Myanmar)"/>
+    <Elem Prompt="柬埔寨" Name="柬埔寨" PromptU="Cambodia" NameU="Cambodia"/>
+    <Elem Prompt="中国" Name="中国" PromptU="China" NameU="China"/>
+    <Elem Prompt="塞蒲路斯" Name="塞蒲路斯" PromptU="Cyprus" NameU="Cyprus"/>
+    <Elem Prompt="阿曼" Name="阿曼" PromptU="Oman" NameU="Oman"/>
+    <Elem Prompt="格鲁吉亚" Name="格鲁吉亚" PromptU="Georgia" NameU="Georgia"/>
+    <Elem Prompt="印度" Name="印度" PromptU="India" NameU="India"/>
+    <Elem Prompt="印尼" Name="印尼" PromptU="Indonesia" NameU="Indonesia"/>
+    <Elem Prompt="伊朗" Name="伊朗" PromptU="Iran" NameU="Iran"/>
+    <Elem Prompt="伊拉克" Name="伊拉克" PromptU="Iraq" NameU="Iraq"/>
+    <Elem Prompt="以色列" Name="以色列" PromptU="Israel" NameU="Israel"/>
+    <Elem Prompt="日本" Name="日本" PromptU="Japan" NameU="Japan"/>
+    <Elem Prompt="约旦" Name="约旦" PromptU="Jordan" NameU="Jordan"/>
+    <Elem Prompt="哈萨克斯坦" Name="哈萨克斯坦" PromptU="Kazakhstan" NameU="Kazakhstan"/>
+    <Elem Prompt="科威特" Name="科威特" PromptU="Kuwait" NameU="Kuwait"/>
+    <Elem Prompt="吉尔吉斯坦" Name="吉尔吉斯坦" PromptU="Kyrgyzstan" NameU="Kyrgyzstan"/>
+    <Elem Prompt="老挝" Name="老挝" PromptU="Laos" NameU="Laos"/>
+    <Elem Prompt="黎巴嫩" Name="黎巴嫩" PromptU="Lebanon" NameU="Lebanon"/>
+    <Elem Prompt="马来西亚" Name="马来西亚" PromptU="Malaysia" NameU="Malaysia"/>
+    <Elem Prompt="巴基斯坦" Name="巴基斯坦" PromptU="Pakistan" NameU="Pakistan"/>
+    <Elem Prompt="巴布亚新几内亚" Name="巴布亚新几内亚" PromptU="Papua New Guinea" NameU="Papua New Guinea"/>
+    <Elem Prompt="菲律宾" Name="菲律宾" PromptU="Philippines" NameU="Philippines"/>
+    <Elem Prompt="卡塔尔" Name="卡塔尔" PromptU="Qatar" NameU="Qatar"/>
+    <Elem Prompt="沙特阿拉伯" Name="沙特阿拉伯" PromptU="Saudi Arabia" NameU="Saudi Arabia"/>
+    <Elem Prompt="新加坡" Name="新加坡" PromptU="Singapore" NameU="Singapore"/>
+    <Elem Prompt="南韩" Name="南韩" PromptU="South Korea" NameU="South Korea"/>
+    <Elem Prompt="北韩" Name="北韩" PromptU="North Korea" NameU="North Korea"/>
+    <Elem Prompt="斯里兰卡" Name="斯里兰卡" PromptU="Sri Lanka" NameU="Sri Lanka"/>
+    <Elem Prompt="叙利亚共和国" Name="叙利亚共和国" PromptU="Syria" NameU="Syria"/>
+    <Elem Prompt="泰国" Name="泰国" PromptU="Thailand" NameU="Thailand"/>
+    <Elem Prompt="土耳其" Name="土耳其" PromptU="Turkey" NameU="Turkey"/>
+    <Elem Prompt="土库曼斯坦" Name="土库曼斯坦" PromptU="Turkmenistan" NameU="Turkmenistan"/>
+    <Elem Prompt="阿拉伯联合酋长国" Name="阿拉伯联合酋长国" PromptU="United Arab Emirates" NameU="United Arab Emirates"/>
+    <Elem Prompt="乌兹别克斯坦" Name="乌兹别克斯坦" PromptU="Uzbekistan" NameU="Uzbekistan"/>
+    <Elem Prompt="越南" Name="越南" PromptU="Vietnam" NameU="Vietnam"/>
+    <Elem Prompt="也门" Name="也门" PromptU="Yemen" NameU="Yemen"/>
+    <Elem Prompt="咸海" Name="咸海" PromptU="Aral Sea" NameU="Aral Sea"/>
+    <Elem Prompt="里海" Name="里海" PromptU="Caspian Sea" NameU="Caspian Sea"/>
+    <Elem Prompt="巴尔喀什湖" Name="巴尔喀什湖" PromptU="Lake Balkhash" NameU="Lake Balkhash"/>
+    <Elem Prompt="中国和蒙古" Name="中国和蒙古" PromptU="China and Mongolia" NameU="China and Mongolia"/>
+    <Elem Prompt="中亚" Name="中亚" PromptU="Central Asia" NameU="Central Asia"/>
+    <Elem Prompt="东南亚" Name="东南亚" PromptU="Southeast Asia" NameU="Southeast Asia"/>
+    <Elem Prompt="中东" Name="中东" PromptU="Middle east Asia" NameU="Middle east Asia"/>
+    <Elem Prompt="南亚" Name="南亚" PromptU="Southern Asia" NameU="Southern Asia"/>
+    <Elem Prompt="东亚" Name="东亚" PromptU="East Asia" NameU="East Asia"/>
+</Lib>

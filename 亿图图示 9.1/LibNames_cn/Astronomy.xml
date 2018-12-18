@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Astronomy">
+    <Elem Prompt="太阳" Name="太阳" PromptU="Sun" NameU="Sun"/>
+    <Elem Prompt="月亮" Name="月亮" PromptU="Moon" NameU="Moon"/>
+    <Elem Prompt="水星" Name="水星" PromptU="Mercury" NameU="Mercury"/>
+    <Elem Prompt="金星" Name="金星" PromptU="Venus" NameU="Venus"/>
+    <Elem Prompt="地球" Name="地球" PromptU="Earth" NameU="Earth"/>
+    <Elem Prompt="火星" Name="火星" PromptU="Mars" NameU="Mars"/>
+    <Elem Prompt="木星" Name="木星" PromptU="Jupiter" NameU="Jupiter"/>
+    <Elem Prompt="土星" Name="土星" PromptU="Saturn" NameU="Saturn"/>
+    <Elem Prompt="天王星" Name="天王星" PromptU="Uranus" NameU="Uranus"/>
+    <Elem Prompt="海王星" Name="海王星" PromptU="Neptune" NameU="Neptune"/>
+    <Elem Prompt="银河" Name="银河" PromptU="Galaxy" NameU="Galaxy"/>
+    <Elem Prompt="流星雨" Name="流星雨" PromptU="Meteor Shower" NameU="Meteor Shower"/>
+    <Elem Prompt="宇宙飞船" Name="宇宙飞船" PromptU="Spacecraft" NameU="Spacecraft"/>
+    <Elem Prompt="火箭" Name="火箭" PromptU="Rocket" NameU="Rocket"/>
+    <Elem Prompt="卫星" Name="卫星" PromptU="Satellite" NameU="Satellite"/>
+    <Elem Prompt="载人飞船" Name="载人飞船" PromptU="Manned spacecraft" NameU="Manned spacecraft"/>
+    <Elem Prompt="空间站" Name="空间站" PromptU="Space Station" NameU="Space Station"/>
+    <Elem Prompt="UFO" Name="UFO" PromptU="UFO" NameU="UFO"/>
+    <Elem Prompt="宇航员" Name="宇航员" PromptU="Astronaut" NameU="Astronaut"/>
+    <Elem Prompt="天文望远镜" Name="天文望远镜" PromptU="Astronomical telescope" NameU="Astronomical telescope"/>
+    <Elem Prompt="外星人" Name="外星人" PromptU="Alien " NameU="Alien "/>
+    <Elem Prompt="白羊座" Name="白羊座" PromptU="Aries" NameU="Aries"/>
+    <Elem Prompt="金牛座" Name="金牛座" PromptU="Taurus" NameU="Taurus"/>
+    <Elem Prompt="双子座" Name="双子座" PromptU="Gemini" NameU="Gemini"/>
+    <Elem Prompt="巨蟹座" Name="巨蟹座" PromptU="Cancer" NameU="Cancer"/>
+    <Elem Prompt="狮子座" Name="狮子座" PromptU="Lieo" NameU="Lieo"/>
+    <Elem Prompt="处女座" Name="处女座" PromptU="Virgo" NameU="Virgo"/>
+    <Elem Prompt="天秤座" Name="天秤座" PromptU="Libra" NameU="Libra"/>
+    <Elem Prompt="天蝎座" Name="天蝎座" PromptU="Scorpio" NameU="Scorpio"/>
+    <Elem Prompt="射手座" Name="射手座" PromptU="Sagittarius" NameU="Sagittarius"/>
+    <Elem Prompt="摩羯座" Name="摩羯座" PromptU="Capricory" NameU="Capricory"/>
+    <Elem Prompt="宝瓶座" Name="宝瓶座" PromptU="Aquarius" NameU="Aquarius"/>
+    <Elem Prompt="双鱼座" Name="双鱼座" PromptU="Pisces" NameU="Pisces"/>
+</Lib>

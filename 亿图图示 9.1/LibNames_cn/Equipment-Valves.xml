@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Equipment - Valves">
+    <Elem Prompt="手动闸阀" Name="手动闸阀" PromptU="Gate valve, Hand-operated" NameU="Gate valve, Hand-operated"/>
+    <Elem Prompt="闸式阀" Name="闸式阀" PromptU="Gate valve" NameU="Gate valve"/>
+    <Elem Prompt="常闭闸阀" Name="常闭闸阀" PromptU="Normally closed gate valve" NameU="Normally closed gate valve"/>
+    <Elem Prompt="手动截止阀" Name="手动截止阀" PromptU="Globe valve, Hand-operated" NameU="Globe valve, Hand-operated"/>
+    <Elem Prompt="球心阀" Name="球心阀" PromptU="Globe valve" NameU="Globe valve"/>
+    <Elem Prompt="旋转阀" Name="旋转阀" PromptU="Rotary valve" NameU="Rotary valve"/>
+    <Elem Prompt="针阀" Name="针阀" PromptU="Needle valve" NameU="Needle valve"/>
+    <Elem Prompt="控制阀" Name="控制阀" PromptU="Control valve" NameU="Control valve"/>
+    <Elem Prompt="活塞操作阀" Name="活塞操作阀" PromptU="Piston-operated valve" NameU="Piston-operated valve"/>
+    <Elem Prompt="背压调节器" Name="背压调节器" PromptU="Back Pressure Regulator" NameU="Back Pressure Regulator"/>
+    <Elem Prompt="塞或旋塞阀" Name="塞或旋塞阀" PromptU="Plug or cock valve" NameU="Plug or cock valve"/>
+    <Elem Prompt="止回阀" Name="止回阀" PromptU="Check valve" NameU="Check valve"/>
+    <Elem Prompt="止回阀 2" Name="止回阀 2" PromptU="Check valve 2" NameU="Check valve 2"/>
+    <Elem Prompt="蝶形阀" Name="蝶形阀" PromptU="Butterfly valve" NameU="Butterfly valve"/>
+    <Elem Prompt="手动法兰阀" Name="手动法兰阀" PromptU="Flanged valve, Hand-operated" NameU="Flanged valve, Hand-operated"/>
+    <Elem Prompt="法兰阀 2" Name="法兰阀 2" PromptU="Flanged valve 2" NameU="Flanged valve 2"/>
+    <Elem Prompt="手动角阀" Name="手动角阀" PromptU="Angle valve, Hand-operated" NameU="Angle valve, Hand-operated"/>
+    <Elem Prompt="折角球形阀" Name="折角球形阀" PromptU="Angle globe valve" NameU="Angle globe valve"/>
+    <Elem Prompt="安全阀" Name="安全阀" PromptU="Relief valve" NameU="Relief valve"/>
+    <Elem Prompt="手动角阀" Name="手动角阀" PromptU="Angle valve, Hand-operated" NameU="Angle valve, Hand-operated"/>
+    <Elem Prompt="角型泄压阀" Name="角型泄压阀" PromptU="Angle blowdown valve" NameU="Angle blowdown valve"/>
+    <Elem Prompt="球" Name="球" PromptU="Ball" NameU="Ball"/>
+    <Elem Prompt="常闭球阀" Name="常闭球阀" PromptU="Normally closed ball valve" NameU="Normally closed ball valve"/>
+    <Elem Prompt="横隔膜" Name="横隔膜" PromptU="Diaghragm" NameU="Diaghragm"/>
+    <Elem Prompt="旋塞阀" Name="旋塞阀" PromptU="Plug valve" NameU="Plug valve"/>
+    <Elem Prompt="电磁阀" Name="电磁阀" PromptU="Solenoid valve" NameU="Solenoid valve"/>
+    <Elem Prompt="液压阀" Name="液压阀" PromptU="Hydraulic valve" NameU="Hydraulic valve"/>
+    <Elem Prompt="电动阀" Name="电动阀" PromptU="Motor-operated valve" NameU="Motor-operated valve"/>
+    <Elem Prompt="闸式导阀" Name="闸式导阀" PromptU="Pilot gate valve" NameU="Pilot gate valve"/>
+    <Elem Prompt="重力闸阀" Name="重力闸阀" PromptU="Weight gate valve" NameU="Weight gate valve"/>
+    <Elem Prompt="电动阀" Name="电动阀" PromptU="Powered valve" NameU="Powered valve"/>
+    <Elem Prompt="浮球阀" Name="浮球阀" PromptU="Float-operated valve" NameU="Float-operated valve"/>
+    <Elem Prompt="针阀" Name="针阀" PromptU="Needle valve" NameU="Needle valve"/>
+    <Elem Prompt="三通阀门" Name="三通阀门" PromptU="3-way valve" NameU="3-way valve"/>
+    <Elem Prompt="三通旋塞阀门" Name="三通旋塞阀门" PromptU="3-way plug valve" NameU="3-way plug valve"/>
+    <Elem Prompt="三通阀门" Name="三通阀门 2" PromptU="3-way valve" NameU="3-way valve 2"/>
+    <Elem Prompt="四通旋塞阀门" Name="通旋塞阀门" PromptU="4-way plug valve" NameU="4-way plug valve"/>
+    <Elem Prompt="四通阀门" Name="四通阀门" PromptU="4-way valve" NameU="4-way valve"/>
+    <Elem Prompt="电动液压闸阀" Name="电动液压闸阀" PromptU="Electro-hydraulic gate valve" NameU="Electro-hydraulic gate valve"/>
+    <Elem Prompt="平衡型膜片式闸阀" Name="平衡型膜片式闸阀" PromptU="Balanced diaphragm gate valve" NameU="Balanced diaphragm gate valve"/>
+    <Elem Prompt="弹簧式闸阀" Name="弹簧式闸阀" PromptU="Spring gate valve" NameU="Spring gate valve"/>
+    <Elem Prompt="闸板阀" Name="闸板阀" PromptU="Ram valve" NameU="Ram valve"/>
+    <Elem Prompt="滑阀" Name="滑阀" PromptU="Slide valve" NameU="Slide valve"/>
+    <Elem Prompt="计量阀门" Name="计量阀门" PromptU="Metering coke" NameU="Metering coke"/>
+    <Elem Prompt="刀阀" Name="刀阀" PromptU="Knife valve" NameU="Knife valve"/>
+    <Elem Prompt="流量限制阀" Name="流量限制阀" PromptU="Excess flow valve" NameU="Excess flow valve"/>
+    <Elem Prompt="示位阀" Name="示位阀" PromptU="Post indicator valve" NameU="Post indicator valve"/>
+    <Elem Prompt="自动排放阀" Name="自动排放阀" PromptU="Self draining valve" NameU="Self draining valve"/>
+    <Elem Prompt="隔膜阀" Name="隔膜阀" PromptU="Diaphragm valve" NameU="Diaphragm valve"/>
+    <Elem Prompt="夹管阀" Name="夹管阀" PromptU="Pinch valve" NameU="Pinch valve"/>
+    <Elem Prompt="最小流量阀" Name="最小流量阀" PromptU="Minimum flow valve" NameU="Minimum flow valve"/>
+    <Elem Prompt="自动再循环法" Name="自动再循环法" PromptU="Auto recirculation valve" NameU="Auto recirculation valve"/>
+    <Elem Prompt="计量器" Name="计量器" PromptU="Gauge" NameU="Gauge"/>
+    <Elem Prompt="排气阀" Name="排气阀" PromptU="Bleeder valve" NameU="Bleeder valve"/>
+    <Elem Prompt="集成块和溢流阀" Name="集成块和溢流阀" PromptU="Integrated block and bleed valve" NameU="Integrated block and bleed valve"/>
+    <Elem Prompt="手动集成块和溢流阀" Name="手动集成块和溢流阀" PromptU="Manual integrated block and bleed valve" NameU="Manual integrated block and bleed valve"/>
+    <Elem Prompt="孔口" Name="孔口" PromptU="Orifice" NameU="Orifice"/>
+    <Elem Prompt="转子流量计" Name="转子流量计" PromptU="Rotameter" NameU="Rotameter"/>
+    <Elem Prompt="四分之一转阀，双作用" Name="四分之一转阀，双作用" PromptU="Quarter turn valve double acting" NameU="Quarter turn valve double acting"/>
+    <Elem Prompt="四分之一转阀，弹簧复位" Name="四分之一转阀，弹簧复位" PromptU="Quarter turn valve spring acting" NameU="Quarter turn valve spring acting"/>
+    <Elem Prompt="流量表" Name="流量表" PromptU="Water flow meter" NameU="Water flow meter"/>
+    <Elem Prompt="自动放气阀" Name="自动放气阀" PromptU="Self-operating release valve" NameU="Self-operating release valve"/>
+</Lib>

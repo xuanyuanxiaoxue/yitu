@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Digital Products">
+    <Elem Prompt="蓝牙耳机" Name="蓝牙耳机" PromptU="Bluetooth Headset" NameU="Bluetooth Headset"/>
+    <Elem Prompt="照相机" Name="照相机" PromptU="Camera" NameU="Camera"/>
+    <Elem Prompt="照相机" Name="照相机 2" PromptU="Camera" NameU="Camera 2"/>
+    <Elem Prompt="CD机" Name="CD机" PromptU="CD Player" NameU="CD Player"/>
+    <Elem Prompt="耳机" Name="耳机" PromptU="Earphone" NameU="Earphone"/>
+    <Elem Prompt="游戏机手柄" Name="游戏机手柄" PromptU="Gamepad" NameU="Gamepad"/>
+    <Elem Prompt="谷歌眼镜" Name="谷歌眼镜" PromptU="Google Glass" NameU="Google Glass"/>
+    <Elem Prompt="iPad" Name="iPad" PromptU="iPad" NameU="iPad"/>
+    <Elem Prompt="iPhone" Name="iPhone" PromptU="iPhone" NameU="iPhone"/>
+    <Elem Prompt="iPod MP3" Name="iPod MP3" PromptU="iPod MP3" NameU="iPod MP3"/>
+    <Elem Prompt="iPod" Name="iPod" PromptU="iPod" NameU="iPod"/>
+    <Elem Prompt="游戏操纵杆" Name="游戏操纵杆" PromptU="Joystick" NameU="Joystick"/>
+    <Elem Prompt="移动电源" Name="移动电源" PromptU="Mobile Power" NameU="Mobile Power"/>
+    <Elem Prompt="导航器" Name="导航器" PromptU="Navigator" NameU="Navigator"/>
+    <Elem Prompt="Pad" Name="Pad" PromptU="Pad" NameU="Pad"/>
+    <Elem Prompt="PSP" Name="PSP" PromptU="PSP" NameU="PSP"/>
+    <Elem Prompt="智能手表" Name="智能手表" PromptU="SmartWatch" NameU="SmartWatch"/>
+    <Elem Prompt="智能手机" Name="智能手机" PromptU="Smartphone" NameU="Smartphone"/>
+    <Elem Prompt="平板电脑" Name="平板电脑" PromptU="Tablet Computer" NameU="Tablet Computer"/>
+    <Elem Prompt="摄像机" Name="摄像机" PromptU="Video Camera" NameU="Video Camera"/>
+    <Elem Prompt="XBox" Name="XBox" PromptU="XBox" NameU="XBox"/>
+</Lib>

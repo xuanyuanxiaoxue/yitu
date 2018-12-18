@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Azure VMs by Function">
+    <Elem NameU="Active Directory VM Multi" Name="活动目录 VM Multi" PromptU="Active Directory VM Multi" Prompt="活动目录 VM Multi"/>
+    <Elem NameU="Active Directory VM" Name="活动目录 VM" PromptU="Active Directory VM" Prompt="活动目录 VM"/>
+    <Elem NameU="Application Server VM Multi" Name="应用服务器 VM Multi" PromptU="Application Server VM Multi" Prompt="应用服务器 VM Multi"/>
+    <Elem NameU="Application Server VM" Name="应用服务器 VM" PromptU="Application Server VM" Prompt="应用服务器 VM"/>
+    <Elem NameU="Database Server VM Multi" Name="数据库服务器 VM Multi" PromptU="Database Server VM Multi" Prompt="数据库服务器 VM Multi"/>
+    <Elem NameU="Database Server VM" Name="数据库服务器 VM" PromptU="Database Server VM" Prompt="数据库服务器 VM"/>
+    <Elem NameU="Directory Server VM Multi" Name="目录服务器 VM Multi" PromptU="Directory Server VM Multi" Prompt="目录服务器 VM Multi"/>
+    <Elem NameU="Directory Server VM" Name="目录服务器 VM" PromptU="Directory Server VM" Prompt="目录服务器 VM"/>
+    <Elem NameU="Domain Server VM" Name="域服务器 VM" PromptU="Domain Server VM" Prompt="域服务器 VM"/>
+    <Elem NameU="Domain Server VM" Name="域服务器 VM" PromptU="Domain Server VM" Prompt="域服务器 VM"/>
+    <Elem NameU="File Server VM" Name="文件服务器 VM" PromptU="File Server VM" Prompt="文件服务器 VM"/>
+    <Elem NameU="Web Server VM Multi" Name="网页服务器 VM Multi" PromptU="Web Server VM Multi" Prompt="网页服务器 VM Multi"/>
+    <Elem NameU="Web Server VM Multi" Name="网页服务器 VM Multi" PromptU="Web Server VM Multi" Prompt="网页服务器 VM Multi"/>
+    <Elem NameU="Web Server VM" Name="网页服务器 VM" PromptU="Web Server VM" Prompt="网页服务器 VM"/>
+    <Elem NameU="Windows Server VM Multi" Name="Windows服务器 VM Multi" PromptU="Windows Server VM Multi" Prompt="Windows服务器 VM Multi"/>
+    <Elem NameU="Windows Server VM" Name="Windows服务器 VM" PromptU="Windows Server VM" Prompt="Windows服务器 VM"/>
+</Lib>

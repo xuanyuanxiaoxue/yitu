@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="HVAC Equipment">
+    <Elem Prompt="泵" Name="泵" PromptU="Pump" NameU="Pump"/>
+    <Elem Prompt="旋转泵" Name="旋转泵" PromptU="Rotary pump" NameU="Rotary pump"/>
+    <Elem Prompt="离心抽机" Name="离心抽机" PromptU="Centrifugal pump" NameU="Centrifugal pump"/>
+    <Elem Prompt="往复泵" Name="往复泵" PromptU="Reciprocating pump" NameU="Reciprocating pump"/>
+    <Elem Prompt="螺旋泵" Name="螺旋泵" PromptU="Screw pump" NameU="Screw pump"/>
+    <Elem Prompt="风扇" Name="风扇" PromptU="Fan" NameU="Fan"/>
+    <Elem Prompt="离心式风扇" Name="离心式风扇" PromptU="Centrifugal fan" NameU="Centrifugal fan"/>
+    <Elem Prompt="扇叶" Name="扇叶" PromptU="Fan blades" NameU="Fan blades"/>
+    <Elem Prompt="去潮器" Name="去潮器" PromptU="Moisture eliminator" NameU="Moisture eliminator"/>
+    <Elem Prompt="消音器" Name="消音器" PromptU="Silencer" NameU="Silencer"/>
+    <Elem Prompt="消音器 2" Name="消音器 2" PromptU="Silencer 2" NameU="Silencer 2"/>
+    <Elem Prompt="冷凝器" Name="冷凝器" PromptU="Condenser" NameU="Condenser"/>
+    <Elem Prompt="空气过滤器" Name="空气过滤器" PromptU="Air filter" NameU="Air filter"/>
+    <Elem Prompt="干燥机" Name="干燥机" PromptU="Drier" NameU="Drier"/>
+    <Elem Prompt="蛇形管" Name="蛇形管" PromptU="Pipe coil" NameU="Pipe coil"/>
+    <Elem Prompt="吸油烟机" Name="吸油烟机" PromptU="Exhaust hood" NameU="Exhaust hood"/>
+    <Elem Prompt="消音器" Name="消音器" PromptU="Muffler" NameU="Muffler"/>
+    <Elem Prompt="风量调节阀" Name="风量调节阀" PromptU="Air volume control valve" NameU="Air volume control valve"/>
+    <Elem Prompt="滤波器" Name="滤波器" PromptU="The filter" NameU="The filter"/>
+    <Elem Prompt="调节器" Name="调节器" PromptU="Regulator" NameU="Regulator"/>
+    <Elem Prompt="加热器" Name="加热器" PromptU="The heater" NameU="The heater"/>
+    <Elem Prompt="表面空气冷却器" Name="表面空气冷却器" PromptU="Surface air cooler" NameU="Surface air cooler"/>
+    <Elem Prompt="增湿器" Name="增湿器" PromptU="Humidifier" NameU="Humidifier"/>
+    <Elem Prompt="高效过滤器" Name="高效过滤器" PromptU="High efficiency filter" NameU="High efficiency filter"/>
+    <Elem Prompt="臭氧发生器" Name="臭氧发生器" PromptU="Ozone generator" NameU="Ozone generator"/>
+    <Elem Prompt="初级过滤器、 中效过滤器" Name="初级过滤器、 中效过滤器" PromptU="Primary filter、 Mid-effect filter" NameU="Primary filter、 Mid-effect filter"/>
+    <Elem Prompt="空气压缩机" Name="空气压缩机" PromptU="Air compressor" NameU="Air compressor"/>
+    <Elem Prompt="富氧过滤器" Name="富氧过滤器" PromptU="Oxygen-enriched filter" NameU="Oxygen-enriched filter"/>
+    <Elem Prompt="臭氧发生器" Name="臭氧发生器" PromptU="Ozone generator" NameU="Ozone generator"/>
+    <Elem Prompt="膜处理装置" Name="膜处理装置" PromptU="Membrane Clear Box" NameU="Membrane Clear Box"/>
+    <Elem Prompt="真空泵" Name="真空泵" PromptU="Vacuum pump" NameU="Vacuum pump"/>
+    <Elem Prompt="阀" Name="阀" PromptU="Valve" NameU="Valve"/>
+    <Elem Prompt="真空计" Name="真空计" PromptU="Vacuum Gauge" NameU="Vacuum Gauge"/>
+    <Elem Prompt="汽水分离器" Name="汽水分离器" PromptU="Steam separator" NameU="Steam separator"/>
+    <Elem Prompt="稳压器系统" Name="稳压器系统" PromptU="Pressurizer system" NameU="Pressurizer system"/>
+    <Elem Prompt="除湿系统" Name="除湿系统" PromptU="Dehumidifying system" NameU="Dehumidifying system"/>
+    <Elem Prompt="辅助鼓风机" Name="辅助鼓风机" PromptU="Booster fan" NameU="Booster fan"/>
+    <Elem Prompt="预热系统" Name="预热系统" PromptU="Preheating system" NameU="Preheating system"/>
+    <Elem Prompt="喷嘴" Name="喷嘴" PromptU="Nozzle" NameU="Nozzle"/>
+    <Elem Prompt="锅炉" Name="锅炉" PromptU="Boiler" NameU="Boiler"/>
+    <Elem Prompt="冷水泵" Name="冷水泵" PromptU="Cold water pump" NameU="Cold water pump"/>
+    <Elem Prompt="流量控制阀" Name="流量控制阀" PromptU="Flow valve" NameU="Flow valve"/>
+    <Elem Prompt="水塔" Name="水塔" PromptU="Water tower" NameU="Water tower"/>
+    <Elem Prompt="通风网" Name="通风网" PromptU="Supply air grill" NameU="Supply air grill"/>
+    <Elem Prompt="管道系统" Name="管道系统" PromptU="Pipe network" NameU="Pipe network"/>
+    <Elem Prompt="冷却旋管" Name="冷却旋管" PromptU="Cooling coil" NameU="Cooling coil"/>
+    <Elem Prompt="回流空气网" Name="回流空气网" PromptU="Return air grill" NameU="Return air grill"/>
+    <Elem Prompt="管道" Name="管道" PromptU="Pipeline" NameU="Pipeline"/>
+    <Elem Prompt="分区控风板" Name="分区控风板" PromptU="Zone damper" NameU="Zone damper"/>
+    <Elem Prompt="外风道" Name="外风道" PromptU="Outside air duct" NameU="Outside air duct"/>
+    <Elem Prompt="通风设备" Name="通风设备" PromptU="Ventilator" NameU="Ventilator"/>
+    <Elem Prompt="制冷剂接收机" Name="制冷剂接收机" PromptU="Refrigerant receiver" NameU="Refrigerant receiver"/>
+    <Elem Prompt="冷却装置" Name="冷却装置" PromptU="Chiller" NameU="Chiller"/>
+    <Elem Prompt="轴向扇" Name="轴向扇" PromptU="Axia fan" NameU="Axia fan"/>
+    <Elem Prompt="通道门" Name="通道门" PromptU="Access door" NameU="Access door"/>
+</Lib>

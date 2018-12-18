@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Miscellaneous Flowchart Shapes">
+    <Elem Prompt="有两个文本框的开始/节点" Name="开始/节点" PromptU="Start or node with two texts" NameU="Start/Node"/>
+    <Elem Prompt="有两个文本框的结束/节点" Name="结束/节点" PromptU="End or node with two texts" NameU="End/Node"/>
+    <Elem Prompt="流程(圆形)" Name="流程(圆形)" PromptU="Process(circle)" NameU="Process(circle)"/>
+    <Elem Prompt="数据存储" Name="数据存储" PromptU="Data store" NameU="Data store"/>
+    <Elem Prompt="数据存储 2" Name="数据存储 2" PromptU="Data store 2" NameU="Data store 2"/>
+    <Elem Prompt="外部实体" Name="外部实体" PromptU="External entity" NameU="External entity"/>
+    <Elem Prompt="传输磁带" Name="传输磁带" PromptU="Transmittal tape" NameU="Transmittal tape"/>
+    <Elem Prompt="分段流程" Name="分段流程" PromptU="Divided process" NameU="Divided process"/>
+    <Elem Prompt="分段流程 2" Name="分段流程 2" PromptU="Divided process 2" NameU="Divided process 2"/>
+    <Elem Prompt="圆角流程" Name="圆角流程" PromptU="Rounded process" NameU="Rounded process"/>
+    <Elem Prompt="创建请求" Name="创建请求" PromptU="Create request" NameU="Create request"/>
+    <Elem Prompt="带框架的矩形" Name="带框架的矩形" PromptU="Framed rectangle" NameU="Framed rectangle"/>
+    <Elem Prompt="开放式矩形" Name="开放式矩形" PromptU="Opened rectangle" NameU="Opened rectangle"/>
+    <Elem Prompt="延迟" Name="延迟" PromptU="Delay" NameU="Delay"/>
+    <Elem Prompt="求和连接器" Name="求和连接器" PromptU="Summing junction" NameU="Summing junction"/>
+    <Elem Prompt="存储鼓" Name="存储鼓" PromptU="Drum storage" NameU="Drum storage"/>
+    <Elem Prompt="或者" Name="或者" PromptU="OR" NameU="OR"/>
+    <Elem Prompt="整理" Name="整理" PromptU="Collate" NameU="Collate"/>
+    <Elem Prompt="提取" Name="提取" PromptU="Extract" NameU="Extract"/>
+    <Elem Prompt="脱机存储" Name="脱机存储" PromptU="Off-line storage" NameU="Off-line storage"/>
+    <Elem Prompt="合并" Name="合并" PromptU="Merge" NameU="Merge"/>
+    <Elem Prompt="分类" Name="分类" PromptU="Sort" NameU="Sort"/>
+    <Elem Prompt="卡片叠" Name="卡片叠" PromptU="Deck of cards" NameU="Deck of cards"/>
+    <Elem Prompt="卡片文件" Name="卡片文件" PromptU="File of cards" NameU="File of cards"/>
+    <Elem Prompt="微缩胶片" Name="微缩胶片" PromptU="Microform" NameU="Microform"/>
+    <Elem Prompt="微缩录制" Name="微缩录制" PromptU="Microform recording" NameU="Microform recording"/>
+    <Elem Prompt="微缩处理" Name="微缩处理" PromptU="Microform processing" NameU="Microform processing"/>
+    <Elem Prompt="复制" Name="复制" PromptU="Duplicating" NameU="Duplicating"/>
+    <Elem Prompt="标记的流程" Name="标记的流程" PromptU="Tagged process" NameU="Tagged process"/>
+    <Elem Prompt="线条型流程" Name="线条型流程" PromptU="Lined Shaded process" NameU="Lined Shaded process"/>
+    <Elem Prompt="标记的文档" Name="标记的文档" PromptU="Tagged document" NameU="Tagged document"/>
+    <Elem Prompt="线条型文档" Name="线条型文档" PromptU="Lined Document" NameU="Lined Document"/>
+    <Elem Prompt="可变起点" Name="可变起点" PromptU="Variable start" NameU="Variable start"/>
+    <Elem Prompt="可变过程" Name="可变过程" PromptU="Variable procedure" NameU="Variable procedure"/>
+    <Elem Prompt="分类 2" Name="分类 2" PromptU="Sort 2" NameU="Sort 2"/>
+    <Elem Prompt="数据库" Name="数据库" PromptU="Database" NameU="Database"/>
+    <Elem Prompt="来自调用控制的原语" Name="来自调用控制的原语" PromptU="Primitive from call control" NameU="Primitive from call control"/>
+    <Elem Prompt="到调用控制的原语" Name="到调用控制的原语" PromptU="Primitive to call control" NameU="Primitive to call control"/>
+    <Elem Prompt="来自用户的消息" Name="来自用户的消息" PromptU="Message from user" NameU="Message from user"/>
+    <Elem Prompt="到用户的消息" Name="到用户的消息" PromptU="Message to user" NameU="Message to user"/>
+    <Elem Prompt="输出" Name="输出" PromptU="Output" NameU="Output"/>
+    <Elem Prompt="反馈" Name="反馈" PromptU="Feedback" NameU="Feedback"/>
+    <Elem Prompt="检查" Name="检查" PromptU="Check" NameU="Check"/>
+    <Elem Prompt="检查 2" Name="检查 2" PromptU="Check 2" NameU="Check 2"/>
+    <Elem Prompt="与门" Name="与门" PromptU="And gate" NameU="And gate"/>
+    <Elem Prompt="或门" Name="或门" PromptU="Or gate" NameU="Or gate"/>
+    <Elem Prompt="异或门" Name="异或门" PromptU="XOR" NameU="XOR"/>
+    <Elem Prompt="垂直异或门" Name="垂直异或门" PromptU="Vertical XOR" NameU="Vertical XOR"/>
+    <Elem Prompt="垂直 P AND" Name="垂直 P AND" PromptU="Vertical P And" NameU="Vertical P And"/>
+    <Elem Prompt="优化" Name="优化" PromptU="Refinement" NameU="Refinement"/>
+    <Elem Prompt="分支:返回" Name="分支:返回" PromptU="Branch:return" NameU="Branch:return"/>
+    <Elem Prompt="分支:无返回" Name="分支:无返回" PromptU="Branch:no return" NameU="Branch:no return"/>
+    <Elem Prompt="中断" Name="中断" PromptU="Interrupt" NameU="Interrupt"/>
+    <Elem Prompt="外部控制" Name="外部控制" PromptU="External control" NameU="External control"/>
+    <Elem Prompt="动态连接线" Name="动态连接线" PromptU="Dynamic connector" NameU="Dynamic connector"/>
+    <Elem Prompt="直线-曲线连接线" Name="直线-曲线连接线" PromptU="Curved connector" NameU="Curved connector"/>
+</Lib>

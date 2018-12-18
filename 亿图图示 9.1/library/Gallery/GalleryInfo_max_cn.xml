@@ -1,0 +1,1481 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Galleries Default = "Business Diagram">
+
+<Gallery NameU = "Basic Diagram" Name = "基本绘图" Version = "1.0" Help = "createbasicdiagram.php" Description= "包含2D几何形状，3D几何形状和高光形状，可用于功能分解，绘制层次结构图，数据流块图等。">
+<Templates NameU = "Blank Drawing" Name = "空白绘图" Icon = "./basicdraw/blank.bmp" Description= "创建新的空白文档。">
+</Templates>
+<Templates NameU = "Arrows" Name = "箭头" Theme= "扁平" Icon = "./basicdraw/arrowdiagrams.bmp" Description= "展示一个项目或者过程的任务顺序，整个项目的最佳的日程，潜在行程安排和资源配置问题及解决方法。">
+	<Template Path = "./Basic Shape/Arrow Connectors.edt" Name = "箭头连接线"></Template>
+	<Template Path = "./Basic Shape/arrow.edt" Name = "箭头形状"></Template>
+	<Template Path = "./Business Process/Circular Charting Shapes.edt" Name = "圆形图"></Template>
+</Templates>
+<Templates NameU = "Block Diagram" Name = "2D框图" Theme= "扁平" Icon = "./basicdraw/2d.bmp" Help = "createbasicdiagram.php" Description= "包含用于反馈循环图、功能分解图、层次图、数据结构图、数据流程图和数据框图的二维几何形状和方向线">
+<Template Path = "./Basic Shape/backgrounds.edt" Name = "背景"></Template>
+<Template Path = "./Basic Shape/arrow.edt" Name = "箭头形状"></Template>
+<Template Path = "./Basic Shape/Text Box.edt" Name = "文本框"></Template>
+<Template Path = "./Basic Shape/basicshapes.edt" Name = "基本绘图形状"></Template>
+<Template Path = "./Basic Shape/Common Shapes.edt" Name = "常用形状"></Template>
+<Template Path = "./Basic Shape/Icons.edt" Name = "图表"></Template>
+<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D块图"></Template>
+</Templates>
+
+<Templates NameU = "Block Diagram (3D)" Name = "3D框图" Icon = "./basicdraw/3d.bmp" Description= "包含一些流程图的高光符号，组织结构图和块图。">
+<Template Path = "./Basic Shape/backgrounds.edt" Name = "背景"></Template>
+<Template Path = "./Basic Shape/arrow.edt" Name = "箭头形状"></Template>
+<Template Path = "./Basic Shape/Text Box.edt" Name = "文本框"></Template>
+<Template Path = "./Basic Shape/3Dblock.edt" Name = "3D块"></Template>
+</Templates>
+
+<Templates NameU = "Circular Diagram" Name = "圆形图" Theme= "扁平" Icon = "./basicdraw/Circular Digram.bmp" Description= "包含的图表形状适用于财务和销售报告，损益表，预算，数据分析，会计任务，市场预测和年度报告。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+	<Template Path = "./Basic Shape/Circular Charting Shapes.edt" Name = "圆形图形状"></Template>
+</Templates>
+
+<Templates NameU = "Circle-Spoke Diagram" Name = "圆辐示意图" Theme= "扁平" Icon = "./basicdraw/Circle-Spoke.bmp" Description= "表明每个分支价值相等。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+	<Template Path = "./Basic Shape/Circular Charting Shapes.edt" Name = "圆形图形状"></Template>
+</Templates>
+
+<Templates NameU = "Highlight Shapes" Name = "高光图" Theme= "扁平" Icon = "./basicdraw/highlightshapes.bmp" Description= "包含一些流程图的高光符号，组织结构图和块图。">
+<Template Path = "./Basic Shape/arrow.edt" Name = "箭头形状"></Template>
+<Template Path = "./Basic Shape/Text Box.edt" Name = "文本框"></Template>
+<Template Path = "./Basic Shape/highlightshapes.edt" Name = "高光形状"></Template>
+</Templates>
+
+<Templates NameU = "Lists" Name = "列表" Theme= "扁平" Icon = "./basicdraw/List.bmp" Description= "用于显示非时序或分组块的信息。将形状的水平和垂直展示空间最大化。">
+	<Template Path = "./Basic Shape/List Shapes.edt" Name = "列表形状"></Template>
+</Templates>
+
+<Templates NameU = "Presentation" Name = "演示" Theme= "扁平" Icon = "./basicdraw/presentation.bmp" Description= "显示项目或过程中所需的任务顺序，整个项目的最佳时间表以及潜在的调度和资源问题及其解决方案。">
+	<Template Path = "./Basic Shape/Arrow Connectors.edt" Name = "Arrow Connectors"></Template>
+	<Template Path = "./Basic Shape/arrow.edt" Name = "Arrow Shapes"></Template>
+	<Template Path = "./Business Process/Circular Charting Shapes.edt" Name = "Circular Charting Shapes"></Template>
+</Templates>
+
+<Templates NameU = "Pyramid Chart" Name = "金字塔图" Theme= "扁平" Icon = "./basicdraw/pyramid.bmp" Description= "显示比例、相互联系或层次关系，最大的组件在底部，向上逐渐缩小。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+	<Template Path = "./Basic Shape/Pyramid Shapes.edt" Name = "金字塔形状"></Template>
+</Templates>
+
+<Templates NameU = "Timeline" Name = "时间线" Theme= "扁平" Icon = "./basicdraw/timeline-basic.bmp" Description= "显示项目或过程中所需的任务顺序，整个项目的最佳时间表以及潜在的调度和资源问题及其解决方案。">
+	<Template Path = "./Basic Shape/Arrow Connectors.edt" Name = "Arrow Connectors"></Template>
+	<Template Path = "./Basic Shape/arrow.edt" Name = "Arrow Shapes"></Template>
+	<Template Path = "./Business Process/Circular Charting Shapes.edt" Name = "Circular Charting Shapes"></Template>
+</Templates>
+
+<Templates NameU = "Venn Diagram" Name = "维恩图" Theme= "扁平" Icon = "./basicdraw/venn.bmp" Description= "显示一个有限集的集合里所有可能的逻辑关系。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+	<Template Path = "./Basic Shape/Venn Shapes.edt" Name = "维恩图"></Template>
+</Templates>
+
+</Gallery>
+
+<Gallery NameU = "Business Diagram" Name = "商务" Version = "1.0" Help = "create-business-diagram.php" Description= "创建审计流程图，工作流图，思维导图，因果分析图，数据流图，EPC,过程图，列表图和错误树分析图。">
+
+<Templates NameU = "Audit Diagram" Name = "审计流程图" Theme= "扁平" Icon = "./flowchart/auditflow.bmp" Description= "创建用于会计核算、财务管理、财政信息跟踪、资金管理、决策流程和财务库存的审计图。绘制六西格玛图和ISO 9000流程图。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+	<Template Path = "./Basic Shape/arrow.edt" Name = "箭头形状"></Template>
+	<Template Path = "./Business process/auditflow.edt" Name = "审计流程图形状"></Template>
+</Templates>
+
+<Templates NameU = "Business Matrix" Name = "关系矩阵" Theme= "扁平" Icon = "./business/business-matrix.bmp" Description= "包括创建SWOT矩阵，位置矩阵，安索夫矩阵和增长矩阵所需的形状。">
+	<Template Path = "./Business Process/marketing diagrams.edt" Name = "市场营销图"></Template>
+	<Template Path = "./Business Process/Matrix.edt" Name = "矩阵"></Template>
+</Templates>
+
+<Templates NameU = "Cause and Effect (Fishbone)" Name = "因果图（鱼骨图）" Icon = "./flowchart/causeeffect.bmp" Description= "创建一个因果图（也称为鱼骨图盒石川图），系统地评价可能影响或导致特定情况的因素。遵循 6 Sigma和ISO 9000标准。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+	<Template Path = "./Basic Shape/arrow.edt" Name = "箭头形状"></Template>
+	<Template Path = "./Business process/causeeffect.edt" Name = "因果分析图"></Template>
+</Templates>
+
+<Templates NameU = "EPC" Name = "EPC" Icon = "./business/epc.bmp" Theme= "扁平" Description= "创建事件驱动的进程链（EPC）图表，以展示业务进程。展示SAP进程。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+	<Template Path = "./Basic Shape/arrow.edt" Name = "箭头形状"></Template>
+	<Template Path = "./Business process/EPC.edt" Name = "EPC 图形状"></Template>
+</Templates>
+
+<Templates NameU = "Enterprise Architecture" Name = "企业架构图" Icon = "./business/businessarchitecture.bmp" Theme= "扁平" Description= "通过创建企业架构图来确定一个组织如何能有效地实现其当前目标和未来目标。">	
+	<Template Path = "./Basic Shape/connectors.edt" Name = "Connectors"></Template>	
+	<Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>
+	<Template Path = "./Basic Shape/arrow.edt" Name = "Arrow Shapes"></Template>
+	<Template Path = "./Business Process/Enterprise Architecture.edt" Name = "Enterprise Architecture"></Template>
+</Templates>
+
+<Templates NameU = "Fault Tree Analysis" Name = "错误树分析" Icon = "./business/faulttree.bmp" Description= "创建“故障树”图表以展示业务进程。遵循 6 Sigma和ISO 9000标准。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+	<Template Path = "./Basic Shape/arrow.edt" Name = "箭头形状"></Template>
+	<Template Path = "./Business process/faulttree.edt" Name = "错误树分析形状"></Template>
+</Templates>
+
+<Templates NameU = "Five Forces Chart" Name = "五力图" Theme= "扁平" Icon = "./business/fiveforces.bmp" Help = "make-five-forces.php" Description= "波特五力图从竞争力的角度帮组分析一个企业的收益性和吸引力。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+	<Template Path = "./Business Process/Five Forces Shapes.edt" Name = "五力图形状"></Template>
+</Templates>
+
+<Templates NameU = "Marketing Charts and Diagrams" Theme= "扁平" Name = "市场分析图" Icon = "./business/market.bmp" Description= "用于进程图、基准问题测试、模拟、路径规划、资源或“假设”分析、部署图表、目标、销售塔形分布、业务成本计算和任务管理。">
+	<Template Path = "./Symbols/Presentation Symbols.edt" Name = "演示符号"></Template>
+	<Template Path = "./Business Process/marketing diagrams.edt" Name = "市场图"></Template>
+	<Template Path = "./Business Process/marketing shapes.edt" Name = "市场图形状"></Template>
+</Templates>
+
+<Templates NameU = "PEST Chart" Name = "PEST图" Theme= "扁平" Icon = "./business/pest.bmp" Help = "make-pest-chart.php" Description= "PEST分析代表政治，经济，社会和技术分析，描述宏观环境因素的框架。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+	<Template Path = "./Basic Shape/arrow.edt" Name = "箭头形状"></Template>
+	<Template Path = "./Business Process/PEST.edt" Name = "PEST形状"></Template>
+</Templates>
+
+<Templates NameU = "Process Steps" Name = "流程步骤" Theme= "扁平" Icon = "./business/processsteps.bmp" Description= "用于显示行为的顺序或几个概念之间的依赖关系。将形状的水平和垂直显示空间最大化。">
+	<Template Path = "./Business Process/Process Shapes.edt" Name = "流程步骤形状"></Template>
+</Templates>
+
+<Templates NameU = "Six Sigma Matrix" Name = "六西格玛矩阵" Theme= "常用" Icon = "./business/sixsigma.bmp" Description= "创建六西格玛质量屋图，优先矩阵，参与矩阵和功能对比图。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+	<Template Path = "./Business Process/Six Sigma.edt" Name = "六西格玛"></Template>
+</Templates>
+
+<Templates NameU = "TQM" Name = "全面质量管理" Theme= "常用" Icon = "./business/tqm.bmp" Description= "为业务进程重建、全面质量管理 (TQM) 和持续改进创建因果、自上而下及跨职能的进程流程图。遵循 6 Sigma和ISO 9000标准。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+	<Template Path = "./Basic Shape/arrow.edt" Name = "箭头形状"></Template>
+	<Template Path = "./Business process/TQM.edt" Name = "全面质量管理图形状"></Template>
+</Templates>
+
+<Templates NameU = "Value Chain" Name = "价值链" Theme= "扁平" Icon = "./business/valuechain.bmp" Help = "ultimate-valuechain-tutorial.php" Description= "代表产品服务从原料到产品交付涉及的各种过程。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+	<Template Path = "./Business Process/Value Chain.edt" Name = "价值链"></Template>
+</Templates>
+
+<Templates NameU = "Value Stream Mapping" Name = "价值流映射" Theme= "常用" Icon = "./business/valuestream.bmp" Help = "make-value-stream.php" Description= "创建价值流映射图说明一个精益生产流程中的物质和信息。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+	<Template Path = "./Basic Shape/arrow.edt" Name = "箭头形状"></Template>
+	<Template Path = "./Business process/Value stream mapping.edt" Name = "价值流映射图形状"></Template>
+</Templates>
+
+</Gallery>
+
+<Gallery NameU = "Card" Name = "卡片" Version = "1.0" Description= "包含创建卡片需要的特殊形状。">
+<Templates NameU = "Business Cards" Name = "名片" Theme= "常用" Icon = "./businesscard/card.bmp" help = "make-business-card.php" Description= "包含创建名片需要的特定形状。">
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "常用形状"></Template>
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "基本绘图形状"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D块图"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "图标"></Template>
+	<Template Path = "./Business Card/BusinessCardTemplates.edt" Name = "名片模板"></Template>
+  <Template Path = "./Business Card/BusinessCardText.edt" Name = "名片文本框"></Template>
+</Templates>
+
+<Templates NameU = "Greeting Card" Name = "感谢卡" Icon = "./businesscard/greetingcard.bmp" Description= "包含创建感谢卡、贺卡需要的特殊形状。">
+  <Template Path = "./Basic Shape/Common Shapes.edt" Name = "常用形状"></Template>
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "基本绘图形状"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D块图"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "图标"></Template>
+</Templates>
+
+<Templates NameU = "Invitation Card" Name = "邀请卡" Icon = "./businesscard/invitationcard.bmp" Description= "包含创建邀请卡需要的特定性状。">
+  <Template Path = "./Basic Shape/Common Shapes.edt" Name = "常用形状"></Template>
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "基本绘图形状"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D块图"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "图标"></Template>
+</Templates>
+
+<Templates NameU = "Postcard" Name = "明信片" Icon = "./businesscard/postcard.bmp" Description= "包含创建明信片所需的特殊形状。">
+  <Template Path = "./Basic Shape/Common Shapes.edt" Name = "常用形状"></Template>
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "基本绘图形状"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D块图"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "图标"></Template>
+</Templates>
+
+<Templates NameU = "Birthday Card" Name = "生日贺卡" Icon = "./businesscard/birthday.bmp" Description= "包含创建生日贺卡所需的特殊形状。">
+  <Template Path = "./Basic Shape/Common Shapes.edt" Name = "常用形状"></Template>
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "基本绘图形状"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D块图"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "图标"></Template>
+  <Template Path = "./Business Card/Birthday.edt" Name = "生日"></Template>
+</Templates>
+
+<Templates NameU = "Christmas" Name = "圣诞贺卡" Icon = "./businesscard/christmas.bmp" Description= "包含创建圣诞贺卡所需的特殊形状。">
+  <Template Path = "./Basic Shape/Common Shapes.edt" Name = "常用形状"></Template>
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "基本绘图形状"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D块图"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "图标"></Template>
+  <Template Path = "./Business Card/Christmas.edt" Name = "圣诞"></Template>
+</Templates>
+
+<Templates NameU = "Halloween" Name = "万圣节" Icon = "./businesscard/calloween.bmp" Description= "包含创建圣诞贺卡所需的特殊形状。">
+  <Template Path = "./Basic Shape/Common Shapes.edt" Name = "常用形状"></Template>
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "基本绘图形状"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D块图"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "图标"></Template>
+  <Template Path = "./Business Card/Halloween.edt" Name = "万圣节"></Template>
+</Templates>
+
+<Templates NameU = "Carnival" Name = "狂欢节" Icon = "./businesscard/carnival.bmp" Description= "包含创建圣诞贺卡所需的特殊形状。">
+  <Template Path = "./Basic Shape/Common Shapes.edt" Name = "常用形状"></Template>
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "基本绘图形状"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D块图"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "图标"></Template>
+  <Template Path = "./Business Card/Carnival.edt" Name = "狂欢节"></Template>
+</Templates>
+
+<Templates NameU = "Childrens Day" Name = "儿童节" Icon = "./businesscard/childrensday.bmp" Description= "包含创建圣诞贺卡所需的特殊形状。">
+  <Template Path = "./Basic Shape/Common Shapes.edt" Name = "常用形状"></Template>
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "基本绘图形状"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D块图"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "图标"></Template>
+  <Template Path = "./Business Card/Childrens Day.edt" Name = "儿童节"></Template>
+</Templates>
+
+<Templates NameU = "Easter" Name = "复活节" Icon = "./businesscard/easter.bmp" Description= "包含创建复活节贺卡所需的特殊形状。">
+  <Template Path = "./Basic Shape/Common Shapes.edt" Name = "常用形状"></Template>
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "基本绘图形状"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D块图"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "图标"></Template>
+  <Template Path = "./Business Card/Easter.edt" Name = "复活节"></Template>
+</Templates>
+
+<Templates NameU = "New Year" Name = "新年" Icon = "./businesscard/newyear.bmp" Description= "包含创建新年贺卡所需的特殊形状。">
+  <Template Path = "./Basic Shape/Common Shapes.edt" Name = "常用形状"></Template>
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "基本绘图形状"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D块图"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "图标"></Template>
+  <Template Path = "./Business Card/New Year.edt" Name = "New Year"></Template>
+</Templates>
+
+<Templates NameU = "Valentines Day" Name = "情人节" Icon = "./businesscard/valentinesday.bmp" Description= "包含创建情人节贺卡所需的特殊形状。">
+  <Template Path = "./Basic Shape/Common Shapes.edt" Name = "常用形状"></Template>
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "基本绘图形状"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D块图"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "图标"></Template>
+  <Template Path = "./Business Card/Valentines Day.edt" Name = "情人节"></Template>
+</Templates>
+</Gallery>
+
+<Gallery NameU = "Chart" Name = "图表" Version = "1.0" Help = "make-chart.php" Description= "包含创建柱状图，条形图，线形图，饼图，雷达图和散点图的智能矢量形状。">
+<Templates NameU = "Column" Name = "柱状图" Icon = "./charts/column.bmp" Solution = "Chart" Help = "createcolumnchart.php" Description= "包含创建堆叠柱状图，簇状柱形图，百分比堆叠柱状图所需的智能矢量形状。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+	<Template Path = "./Chart/Column.edt" Name = "柱状图"></Template>
+</Templates>
+<Templates NameU = "Bar" Name = "条形图" Icon = "./charts/bar.bmp" Solution = "Chart" Help = "createbarchart.php" Description= "包含创简单条形图，堆叠条形图，百分比堆叠条形图所需的智能矢量形状。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+	<Template Path = "./Chart/Bar.edt" Name = "条形图"></Template>
+</Templates>
+<Templates NameU = "Pie" Name = "饼图" Icon = "./charts/pie.bmp" Solution = "Chart" Help = "createpiechart.php" Description= "包含创建饼图所需的专用矢量形状。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+	<Template Path = "./Chart/Pie and Doughnut.edt" Name = "饼图和环形图"></Template>
+</Templates>
+<Templates NameU = "Doughnut" Name = "环形图" Icon = "./charts/doughnut.bmp" Solution = "Chart" Help = "createdoughnut.php" Description= "包含创建环形图所需的智能矢量形状。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+	<Template Path = "./Chart/Pie and Doughnut.edt" Name = "饼图和环形图。"></Template>
+</Templates>
+<Templates NameU = "Line" Name = "线形图" Icon = "./charts/line.bmp" Solution = "Chart" Description= "包含创建形图所需的智能矢量形状。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+	<Template Path = "./Chart/Line and Area.edt" Name = "线形和面积图"></Template>
+</Templates>
+<Templates NameU = "Area" Name = "面积图" Icon = "./charts/area.bmp" Solution = "Chart" Description= "包含创建面积图需要的形状。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+	<Template Path = "./Chart/Line and Area.edt" Name = "线形和面积图。"></Template>
+</Templates>
+<Templates NameU = "Scatter" Name = "散点图" Icon = "./charts/scatter.bmp" Solution = "Chart" Help = "createscatterchart.php" Description= "包含创建散点图所需的智能矢量形状。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+	<Template Path = "./Chart/Scatter and Bubble.edt" Name = "散点和气泡图"></Template>
+</Templates>
+<Templates NameU = "Spider and Radar" Name = "蜘蛛（雷达）图" Icon = "./charts/spider.bmp" Solution = "Chart" Help = "create-spider-chart.php" Description= "包含创建形图所需的智能矢量形状。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+	<Template Path = "./Chart/Spider.edt" Name = "蜘蛛图"></Template>
+</Templates>
+<Templates NameU = "Bubble Chart" Name = "气泡图" Icon = "./charts/bubblechart.bmp" Help = "create-bubble-plot.php" Solution = "Chart" Description= "包含创建气泡图所需的智能矢量形状。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+	<Template Path = "./Chart/Scatter and Bubble.edt" Name = "散点和气泡图"></Template>
+</Templates>
+<Templates NameU = "Gauges" Name = "仪表图" Icon = "./charts/gauges.bmp" Solution = "Chart" Help = "how-to-create-gauges.php" Description= "包含创建仪表图所需的智能矢量形状。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+	<Template Path = "./Chart/Gauges.edt" Name = "仪表"></Template>
+</Templates>
+<Templates NameU = "Comparison Chart" Name = "比较图" Icon = "./charts/comparison.bmp" Help = "create-comparison-chart.php" Description= "创建产品，技术商业等比较表格等。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+	<Template Path = "./Chart/Comparison Indicators.edt" Name = "对比指标"></Template>
+	<Template Path = "./Chart/Comparison Chart.edt" Name = "对比图"></Template>
+</Templates>
+</Gallery>
+
+<Gallery NameU = "Clip Art" Name = "剪切画" Version = "1.0" help = "create-clipart.php" Description= "包含了一些剪切画(动物、商业、金融、水果、旗帜、礼物,办公室,人,学校,职业,天气等)符号。">
+<Templates NameU = "Animals" Name = "动物" Icon = "./symbols/animals.bmp" Description= "包含了一些常用动物剪切画。">
+  <Template Path = "./Symbols/Terricole.edt" Name = "Terricole"></Template>
+	<Template Path = "./Symbols/Sea Life.edt" Name = "Sea Life"></Template>
+    <Template Path = "./Symbols/Insect.edt" Name = "Insect"></Template>
+</Templates>
+
+<Templates NameU = "Business" Name = "商业" Icon = "./symbols/business.bmp" Description= "包含了一些常用的商业剪切画。">
+  <Template Path = "./Symbols/Business.edt" Name = "Business"></Template>
+	<Template Path = "./Symbols/Business Flat.edt" Name = "Business Flat"></Template>	
+	<Template Path = "./Symbols/Business Scene.edt" Name = "Business Scene 1"></Template>
+	<Template Path = "./Symbols/Business Scene2.edt" Name = "Business Scene 2"></Template>
+</Templates>
+
+<Templates NameU = "Business scene" Name = "商务场景" Icon = "./symbols/businessscren.bmp" Description= "包含了一些常用的商务场景剪切画。">
+  <Template Path = "./Symbols/Business scene.edt" Name = "商务场景"></Template>
+  <Template Path = "./Symbols/Fingers.edt" Name = "手指"></Template>
+</Templates>
+
+<Templates NameU = "Finance" Name = "金融" Icon = "./symbols/Finance.bmp" Description= "包含了一些常用的金融剪切画。">
+  <Template Path = "./Symbols/Finance.edt" Name = "金融"></Template>
+  <Template Path = "./Symbols/Finance Flat.edt" Name = "金融-扁平"></Template>
+  <Template Path = "./Symbols/Money.edt" Name = "货币"></Template>
+</Templates>
+
+<Templates NameU = "Food" Name = "食品" Icon = "./symbols/fruit.bmp" Description= "包含了一些常用的食品剪切画。">
+  <Template Path = "./Symbols/Food.edt" Name = "Food"></Template>
+	<Template Path = "./Symbols/Bread.edt" Name = "Bread"></Template>
+	<Template Path = "./Symbols/Fruit.edt" Name = "Fruit"></Template>
+	<Template Path = "./Symbols/Drink.edt" Name = "Drink"></Template>
+	<Template Path = "./Symbols/Tableware.edt" Name = "Tableware"></Template>
+</Templates>
+
+<Templates NameU = "Flags" Name = "旗帜" Icon = "./symbols/flags.bmp" Description= "包括各个国家的旗帜剪切画。">
+  <Template Path = "./Symbols/Flags.edt" Name = "旗帜"></Template>
+</Templates>
+
+<Templates NameU = "Office" Name = "办公" Icon = "./symbols/office.bmp" Description= "包括一些常用的办公用品剪切画。">
+  <Template Path = "./Symbols/Office.edt" Name = "办公"></Template>
+  <Template Path = "./Symbols/Office Flat.edt" Name = "办公-扁平"></Template>	
+</Templates>
+
+<Templates NameU = "People" Name = "人" Icon = "./symbols/people.bmp" Description= "包含了一些常用的人物剪切画。">
+  <Template Path = "./Symbols/Silhouette.edt" Name = "Silhouette"></Template>
+	<Template Path = "./Symbols/Business People.edt" Name = "Business People"></Template>	
+	<Template Path = "./Symbols/user.edt" Name = "User"></Template>
+	<Template Path = "./Symbols/People Activity Pictogram.edt" Name = "People Activity Pictogram"></Template>	
+	<Template Path = "./Symbols/3D People Pictogram.edt" Name = "3D People Pictogram"></Template>	
+</Templates>
+
+<Templates NameU = "Professions" Name = "职业" Icon = "./symbols/profession.bmp" Description= "包含了一些常用的职业剪切画。">
+  <Template Path = "./Symbols/Profession.edt" Name = "Profession"></Template>
+	<Template Path = "./Symbols/Profession Half-length.edt" Name = "Profession Half-length"></Template>
+</Templates>
+
+<Templates NameU = "Religion" Name = "宗教" Icon = "./symbols/religion.bmp" Description= "包含了一些常用的宗教剪切画。">
+  <Template Path = "./Symbols/Religion.edt" Name = "宗教"></Template>
+</Templates>
+
+<Templates NameU = "School" Name = "学习" Icon = "./symbols/school.bmp" Description= "包含了一些常用的学习物品剪切画。">
+  <Template Path = "./Symbols/School.edt" Name = "School"></Template>
+  <Template Path = "./Symbols/Education.edt" Name = "Education"></Template>	
+	<Template Path = "./Symbols/Music.edt" Name = "Music"></Template>	
+</Templates>
+
+<Templates NameU = "Technology" Name = "技术" Icon = "./symbols/technology.bmp" Description= "包含了一些常用的技术剪切画。">
+ 	<Template Path = "./Symbols/Electronics.edt" Name = "Electronics"></Template>
+	<Template Path = "./Symbols/Artificial Intelligence.edt" Name = "Artificial Intelligence"></Template>
+    <Template Path = "./Symbols/Biotechnology.edt" Name = "Biotechnology"></Template>	
+	<Template Path = "./Symbols/Aerospace Technology.edt" Name = "Aerospace Technology"></Template>
+</Templates>
+
+<Templates NameU = "Vehicles" Name = "交通工具" Icon = "./symbols/vehicles.bmp" Description= "包含了一些常用的交通工具剪切画。">
+  <Template Path = "./Symbols/Vehicles.edt" Name = "交通工具"></Template>
+</Templates>
+
+<Templates NameU = "Weather" Name = "天气" Icon = "./symbols/weather.bmp" Description= "包含了一些常用的天气剪切画。">
+  <Template Path = "./Symbols/Weather.edt" Name = "天气"></Template>
+</Templates>
+</Gallery>
+
+<Gallery NameU = "Database" Name = "数据库" Version = "1.0" Theme="General" help = "create-database-diagram.php" Description= "包含特殊的智能矢量形状，用于创建实体关系图，Chen ERD，数据库模型图，Martin ERD， 和Express-G图。">
+<Templates NameU = "Chen ERD" Name = "Chen ERD" Theme= "常用" Icon = "./database/chenerd.bmp" Description= "包含特殊的形状，用于创建基于Chen ERD模型的实体关系图。">
+	<Template Path = "./ERD and Database/Chen ERD.edt" Name = "Chen ERD"></Template>
+	<Template Path = "./Software/Relationship.edt" Name = "关系"></Template>
+</Templates>
+
+<Templates NameU = "Database Model Diagram" Name = "数据模型图" Theme= "常用" Icon = "./database/databasemodel.bmp" help="how-to-draw-database-model-diagram.php" Description= "包含创建数据库模型图的特定性状。支持 IDEF1X 和关系表示法。">
+	<Template Path = "./ERD and Database/Entity Relationship.edt" Name = "实体关系"></Template>
+	<Template Path = "./ERD and Database/Object Relationship.edt" Name = "对象关系"></Template>
+	<Template Path = "./Software/Relationship.edt" Name = "关系"></Template>
+</Templates>
+
+<Templates NameU = "Express-G" Name = "Express-G" Theme= "常用" Icon = "./database/express-g.bmp" Description= "包含智能的矢量形状，用于通过 Express-G 表示法创建实体级别和架构级别图表以及产品数据模型。">
+	<Template Path = "./ERD and Database/Express-G.edt" Name = "Express-G"></Template>
+	<Template Path = "./Software/Relationship.edt" Name = "关系"></Template>
+</Templates>
+
+<Templates NameU = "Martin ERD" Name = "Martin ERD" Theme= "常用" Icon = "./database/martinerd.bmp" Description= "包含特殊的形状，用于创建基于Martin ERD模型的实体关系图。">
+	<Template Path = "./ERD and Database/Martin ERD.edt" Name = "Martin ERD"></Template>
+	<Template Path = "./Software/Relationship.edt" Name = "关系"></Template>
+</Templates>
+
+<Templates NameU = "ORM Diagram" Name = "ORM图" Theme= "常用" Icon = "./database/ormdiagram.bmp" Description= "包含特殊形状（对象、约束、连接线、判断和关系）用于创建在面向对象的分析和设计中用于对象－关系模型和静态图表。">
+	<Template Path = "./ERD and Database/ORM Diagram.edt" Name = "ORM图"></Template>
+	<Template Path = "./Software/Relationship.edt" Name = "关系"></Template>
+</Templates>
+</Gallery>
+
+<Gallery NameU = "Engineering" Name = "工程" Version = "1.0" Help = "create-engineering-diagram.php" Description= "创建基本的电路图,电路和逻辑,工业控制系统和系统图。">
+<Templates NameU = "Basic Electrical" Name = "基本电路" Theme= "工程" Icon = "./electrical/basic electrical.bmp" Help = "create-basic-electrical-diagram.php" Description= "创建电路示意图，单线接线图和设计图。包含开关、继电器、传输路径、半导体、电路和电子管等形状。">
+	<Template Path = "./Electrical Engineering/Basic Electrical Symbols.edt" Name = "基本电路图符合"></Template>
+	<Template Path = "./Electrical Engineering/Qualifying Symbols.edt" Name = "限定符号"></Template>
+	<Template Path = "./Electrical Engineering/Semiconductor Devices.edt" Name = "半导体器件"></Template>
+	<Template Path = "./Electrical Engineering/Switches and Relays.edt" Name = "开关和继电器"></Template>
+	<Template Path = "./Electrical Engineering/Transmission Path.edt" Name = "传输路径"></Template>
+</Templates>
+
+<Templates NameU = "Circuits and Logic" Name = "电路与逻辑" Theme= "工程" Icon = "./electrical/Circuits.bmp" Help = "create-circuit-diagram.php" Description= "创建带批注的电路和印刷电路板图、集成电路示意图和数字、模拟逻辑设计。包含终端机、连接线和传输路径形状。">
+	<Template Path = "./Electrical Engineering/Basic Electrical Symbols.edt" Name = "电路基本符号"></Template>
+	<Template Path = "./Electrical Engineering/Analog and Digital Logic.edt" Name = "模拟和数字逻辑"></Template>
+	<Template Path = "./Electrical Engineering/Integrated Circuit Component.edt" Name = "集成电路组件"></Template>
+	<Template Path = "./Electrical Engineering/Terminals and Connectors.edt" Name = "端子和连接线"></Template>
+	<Template Path = "./Electrical Engineering/Transmission Path.edt" Name = "传输路径"></Template>
+</Templates>
+
+<Templates NameU = "Industrial Control Systems" Name = "工业控制系统" Theme= "工程" Icon = "./electrical/Industrial.bmp" Description= "创建带批注的工业电力系统图。包含旋转电机、半导体、固态设备、开关、继电器和变压器的形状。">
+	<Template Path = "./Electrical Engineering/Basic Electrical Symbols.edt" Name = "电路基本符号"></Template>
+	<Template Path = "./Electrical Engineering/Rotating Equip and Mech Functions.edt" Name = "旋转设备和机械功能"></Template>
+	<Template Path = "./Electrical Engineering/Switches and Relays.edt" Name = "开关和继电器"></Template>
+	<Template Path = "./Electrical Engineering/Terminals and Connectors.edt" Name = "端子和连接线"></Template>
+	<Template Path = "./Electrical Engineering/Transformers and Windings.edt" Name = "变压器和绕组"></Template>
+	<Template Path = "./Electrical Engineering/Transmission Path.edt" Name = "传输路径"></Template>
+</Templates>
+
+<Templates NameU = "Systems" Name = "系统" Theme= "工程" Icon = "./electrical/systems.bmp" Description= "创建带批注的电气原理图、维护和修理以及公用电力基础设施设计。包含用于静止设备、通信设备和固态设备的形状。">
+	<Template Path = "./Electrical Engineering/Composite Assemblies.edt" Name = "复合装配件"></Template>
+	<Template Path = "./Electrical Engineering/Maintenance Symbol.edt" Name = "维护符号"></Template>
+	<Template Path = "./Electrical Engineering/Maps and Charts.edt" Name = "图表"></Template>
+	<Template Path = "./Electrical Engineering/Switches and Relays.edt" Name = "开关和继电器"></Template>
+	<Template Path = "./Electrical Engineering/Telecom Switch and Peripheral Equip.edt" Name = "电信交换机和外围设备"></Template>
+	<Template Path = "./Electrical Engineering/Terminals and Connectors.edt" Name = "端子和连接线"></Template>
+	<Template Path = "./Electrical Engineering/Transformers and Windings.edt" Name = "变压器和绕组"></Template>
+	<Template Path = "./Electrical Engineering/Transmission Path.edt" Name = "传输路径"></Template>
+	<Template Path = "./Electrical Engineering/VHF-UHF-SHF.edt" Name = "VHF-UHF-SHF"></Template>
+</Templates>
+
+<Templates NameU = "Process Flow Diagram" Name = "工艺流程图" Theme= "工程" Icon = "./electrical/pfd.bmp" Help = "create-process-flow-diagram.php" Description= "创建管道系统，管道制成和液体传输系统的工艺流程图。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+	<Template Path = "./Process Engineering/Stream Flag.edt" Name = "流符号"></Template>
+	<Template Path = "./Process Engineering/Piping and Connection Shapes.edt" Name = "管道和连接形状"></Template>
+	<Template Path = "./Process Engineering/Equipment-General.edt" Name = "设备 - 通用"></Template>
+	<Template Path = "./Process Engineering/Equipment-Pumps.edt" Name = "设备 - 泵"></Template>
+	<Template Path = "./Process Engineering/Equipment-Heat Exchanges.edt" Name = "设备 - 热交换"></Template>
+	<Template Path = "./Process Engineering/Equipment-Vessels.edt" Name = "设备 - 容器"></Template>
+	<Template Path = "./Process Engineering/Equipment-Valves.edt" Name = "设备 - 阀门"></Template>
+	<Template Path = "./Process Engineering/Equipment-Instruments.edt" Name = "设备 -仪器"></Template>
+</Templates>
+
+<Templates NameU = "Piping and Instrumentation Diagram" Name = "管道和仪表图" Theme= "工程" Icon = "./electrical/pid.bmp" Help = "create-piping-instrumentation-diagram.php" Description= "创建管道系统，管道支撑和液体传输系统的管道和仪表图。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+	<Template Path = "./Process Engineering/Piping and Connection Shapes.edt" Name = "管道和连接形状"></Template>
+	<Template Path = "./Process Engineering/Equipment-General.edt" Name = "设备 - 通用"></Template>
+	<Template path = "./Process Engineering/Equipment-Centrifuges.edt" Name = "设备 - 泵"></Template>
+	<Template path = "./Process Engineering/Equipment-Compressors.edt" Name = "设备 - 压缩机"></Template>
+	<Template path = "./Process Engineering/Equipment-Crushers.edt" Name = "设备 - 破碎机"></Template>
+	<Template path = "./Process Engineering/Equipment-Dryers.edt" Name = "设备 - 烘干机"></Template>
+	<Template path = "./Process Engineering/Equipment-Filters.edt" Name = "设备 - 过滤器"></Template>
+	<Template path = "./Process Engineering/Equipment-Heat Exchanges.edt" Name = "设备 - 热交换"></Template>
+	<Template path = "./Process Engineering/Equipment-Mixers.edt" Name = "设备 - 搅拌器"></Template>
+	<Template path = "./Process Engineering/Equipment-Motors.edt" Name = "设备 - 发动机"></Template>
+	<Template path = "./Process Engineering/Equipment-Peripheral.edt" Name = "设备 - 外围设备"></Template>
+	<Template path = "./Process Engineering/Equipment-Pumps.edt" Name = "设备 - 泵"></Template>
+	<Template path = "./Process Engineering/Equipment-Vessels.edt" Name = "设备 - 容器"></Template>
+	<Template path = "./Process Engineering/Equipment-Valves.edt" Name = "设备 - 阀门"></Template>
+	<Template Path = "./Process Engineering/Equipment-Instruments.edt" Name = "设备 - 仪器"></Template>
+</Templates>
+</Gallery>
+
+<Gallery NameU = "Fashion Design" Name = "时装设计" Version = "1.0" help = "design-fashion.php" Description= "包含十种独特的模特形状，用户可以混合搭配不同的肤色，发色和几百种服装元素。">
+<Templates NameU = "Girl Dress" Name = "女装" Icon = "./fashion/Girl.bmp" Description= "包含十种独特的模特形状，用户可以混合搭配不同的肤色，发色和几百种服装元素。">
+	<Template Path = "./Dress Design/Model.edt" Name = "模特"></Template>
+	<Template Path = "./Dress Design/Girl dress 1.edt" Name = "女装 1" download = "Girl dress 1.zip"></Template>
+	<Template Path = "./Dress Design/Girl dress 2.edt" Name = "女装 2" download = "Girl dress 2.zip"></Template>
+	<Template Path = "./Dress Design/Girl dress 3.edt" Name = "女装 3" download = "Girl dress 3.zip"></Template>
+	<Template Path = "./Dress Design/Girl dress 4.edt" Name = "女装 4" download = "Girl dress 4.zip"></Template>
+	<Template Path = "./Dress Design/Girl dress 5.edt" Name = "女装 5" download = "Girl dress 5.zip"></Template>
+	<Template Path = "./Dress Design/Girl dress 6.edt" Name = "女装 6" download = "Girl dress 6.zip"></Template>
+	<Template Path = "./Dress Design/Girl dress 7.edt" Name = "女装 7" download = "Girl dress 7.zip"></Template>
+	<Template Path = "./Dress Design/Girl dress 8.edt" Name = "女装 8" download = "Girl dress 8.zip"></Template>
+</Templates>
+
+<Templates NameU = "Man Suit" Name = "男装" Icon = "./fashion/Man.bmp" Description= "包含一些男士服装，让你轻松设计自己的着装。">
+	<Template Path = "./Dress Design/Man suit.edt" Name = "男装" download = "Man suit.zip"></Template>
+</Templates>
+
+<Templates NameU = "Child Dress" Name = "儿童装" Icon = "./fashion/Child.bmp" Description= "包含几百种儿童服装。">
+	<Template Path = "./Dress Design/Child dress.edt" Name = "Child Dress" download = "Child dress.zip"></Template>
+</Templates>
+</Gallery>
+
+<Gallery NameU = "Floor Plan" Name = "平面布置图" Version = "1.0" Help = "floor-plan-tutorial.php" Description= "用于创建商业楼房设计,家庭平面设计，空间规划,电气和电信规划，建筑布局,施工文件,结构图和设施规划。">
+<Templates NameU = "Floor Plan" Name = "平面布置图" Solution = "Plan" Icon = "./building/floorplan.bmp" Help = "floor-plan-tutorial.php" Description= "用于创建商业楼房设计,家庭平面设计，空间规划,电气和电信规划，建筑布局,施工文件,结构图和设施规划。">
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "基本绘图形状"></Template>
+	<Template Path = "./Basic Shape/Dimensioning.edt" Name = "尺寸度量"></Template>
+	<Template Path = "./Building Plans/Building Core.edt" Name = "建筑物核心"></Template>
+	<Template Path = "./Building Plans/Furniture.edt" Name = "家具"></Template>
+	<Template Path = "./Building Plans/ElectricalTelecom.edt" Name = "电气和电信"></Template>
+	<Template Path = "./Building Plans/WallShellStructure.edt" Name = "墙壁、外壳和结构"></Template>
+</Templates>
+
+<Templates NameU = "Home Plan" Name = "家居规划" Solution = "Plan" Icon = "./building/homeplan.bmp" Description= "用于厨房和卫生间设计,建筑设计和施工文件,空间规划,改造规划和增补。">
+	<Template Path = "./Basic Shape/Dimensioning.edt" Name = "尺寸度量"></Template>
+	<Template Path = "./Building Plans/Building Core.edt" Name = "建筑核心"></Template>
+	<Template Path = "./Building Plans/Appliances.edt" Name = "家用电器"></Template>
+	<Template Path = "./Building Plans/Kitchen.edt" Name = "厨房和餐厅"></Template>
+	<Template Path = "./Building Plans/Bedroom.edt" Name = "卧室"></Template>
+	<Template Path = "./Building Plans/Bathroom.edt" Name = "浴室"></Template>
+	<Template Path = "./Building Plans/Cabinets.edt" Name = "橱柜和书柜"></Template>
+	<Template Path = "./Building Plans/WallShellStructure.edt" Name = "墙壁、外壳和结构"></Template>
+</Templates>
+
+<Templates NameU = "Office Layout" Name = "办公室布局" Solution = "Plan" Icon = "./building/officelayout.bmp" Description= "创建楼房设计图,平面设计图,设施蓝图管理,移动管理,办公用品清单管理,资产清单管理, 办公室空间规划。">
+	<Template Path = "./Basic Shape/Dimensioning.edt" Name = "尺寸度量"></Template>
+	<Template Path = "./Building Plans/OfficeEquipment.edt" Name = "办公设备"></Template>
+	<Template Path = "./Building Plans/OfficeFurniture.edt" Name = "办公器具"></Template>
+	<Template Path = "./Building Plans/Plants.edt" Name = "植物"></Template>
+	<Template Path = "./Building Plans/WallShellStructure.edt" Name = "墙壁、外壳和结构"></Template>
+</Templates>
+
+<Templates NameU = "Electrical and Telecom Plan" Name = "电气和电信规划" Solution = "Plan" Icon = "./building/electrical.bmp" Description= "创建电气和电信平面图的设计和建造,包括出口,开关和一些其他设备。">
+	<Template Path = "./Basic Shape/Dimensioning.edt" Name = "尺寸度量"></Template>
+	<Template Path = "./Building Plans/Lighting.edt" Name = "灯具"></Template>
+	<Template Path = "./Building Plans/ElectricalTelecom.edt" Name = "电气和电信"></Template>
+</Templates>
+
+<Templates NameU = "Seating Plan" Name = "座位表" Solution = "Plan" Icon = "./building/seatingplan.bmp" Help = "make-seating-plan.php" Description= "创建露天看台，正面看台和座位安排方案。">
+	<Template Path = "./Basic Shape/Dimensioning.edt" Name = "尺寸度量"></Template>
+	<Template Path = "./Building Plans/Sofas.edt" Name = "沙发"></Template>
+	<Template Path = "./Building Plans/Tables and Chairs.edt" Name = "桌椅"></Template>
+	<Template Path = "./Building Plans/WallShellStructure.edt" Name = "墙壁、外壳和结构"></Template>
+</Templates>
+
+<Templates NameU = "Security and Access Plan" Name = "安全和门禁平面图" Solution = "Plan" Icon = "./building/security.bmp" Description= "创建安全控制系统图表，包括安全系统设计，内部安全系统，外部安全系统，安全控制监控和保障体系蓝图。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+	<Template Path = "./Basic Shape/Dimensioning.edt" Name = "尺寸度量"></Template>
+	<Template Path = "./Building Plans/Alarm and Access Control.edt" Name = "报警和门禁"></Template>
+	<Template Path = "./Building Plans/Video Surveillance.edt" Name = "视频监控"></Template>
+	<Template Path = "./Building Plans/Initiation and Annunciation.edt" Name = "启动和通告"></Template>
+	<Template Path = "./Building Plans/WallShellStructure.edt" Name = "墙壁、外壳和结构"></Template>
+</Templates>
+
+<Templates NameU = "Garden Design" Name = "花园设计" Solution = "Plan" Icon = "./building/garden.bmp" Description= "创建园林设计平面图。">
+	<Template Path = "./Basic Shape/Dimensioning.edt" Name = "尺寸度量"></Template>
+	<Template Path = "./Building Plans/WallShellStructure.edt" Name = "墙壁、外壳和结构"></Template>
+	<Template Path = "./Building Plans/Plants.edt" Name = "植物"></Template>
+	<Template Path = "./Building Plans/Garden.edt" Name = "花园"></Template>
+</Templates>
+
+<Templates NameU = "Fire and Emergency Plan" Name = "消防疏散图" Solution = "Plan" Icon = "./building/fire and emergency plan.bmp" Help = "make-fireemergency-plan.php" Description= "创建消防安全图，消防疏散图。">
+	<Template Path = "./Basic Shape/Dimensioning.edt" Name = "尺寸度量"></Template>
+	<Template Path = "./Building Plans/WallShellStructure.edt" Name = "墙壁、外壳和结构"></Template>
+	<Template Path = "./Building Plans/Fire and Emergency.edt" Name = "消防疏散图"></Template>
+</Templates>
+
+<Templates NameU = "Reflected Ceiling Plan" Name = "天花板反向图" Solution = "Plan" Icon = "./building/ceiling.bmp" Description= "创建商业建筑吊顶板和照明路板布局的图表。">
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "基本绘图形状"></Template>
+	<Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+	<Template Path = "./Basic Shape/Dimensioning.edt" Name = "尺寸度量"></Template>
+	<Template Path = "./Building Plans/Building Core.edt" Name = "建筑核心"></Template>
+	<Template Path = "./Building Plans/Lighting.edt" Name = "灯具"></Template>
+	<Template Path = "./Building Plans/ElectricalTelecom.edt" Name = "电气和电信"></Template>
+	<Template Path = "./Building Plans/Registers Grills and Diffusers.edt" Name = "寄存器和扩散器"></Template>
+	<Template Path = "./Building Plans/WallShellStructure.edt" Name = "墙壁、外壳和结构"></Template>
+</Templates>
+
+<Templates NameU = "HVAC Plan" Name = "暖通空调规划" Solution = "Plan" Icon = "./building/hvac.bmp" Description= "创建采暖，通风和空调设计相关图表。">
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "基本绘图形状"></Template>
+	<Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+	<Template Path = "./Basic Shape/Dimensioning.edt" Name = "尺寸度量"></Template>
+	<Template Path = "./Building Plans/Building Core.edt" Name = "建筑核心"></Template>
+	<Template Path = "./Building Plans/Registers Grills and Diffusers.edt" Name = "通风装置格栅和扩散器"></Template>
+	<Template Path = "./Building Plans/HVAC Equipment.edt" Name = "暖通空调设备"></Template>
+	<Template Path = "./Building Plans/HVAC Ductwork.edt" Name = "暖通空调管道"></Template>
+	<Template Path = "./Building Plans/HVAC Controls.edt" Name = "暖通空调控制"></Template>
+	<Template Path = "./Building Plans/HVAC Controls Equipment.edt" Name = "暖通空调控制设备"></Template>
+	<Template Path = "./Building Plans/WallShellStructure.edt" Name = "墙壁、外壳和结构"></Template>
+</Templates>
+
+<Templates NameU = "Plumbing and Piping Plan" Name = "水暖管道规划" Solution = "Plan" Icon = "./building/plumbing.bmp" Description= "创建废水处理系统，冷热水供应系统，供水管线和管道布局的示意图。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+	<Template Path = "./Basic Shape/Dimensioning.edt" Name = "尺寸度量"></Template>
+	<Template Path = "./Process Engineering/Piping and Connection Shapes.edt" Name = "管道和连接形状"></Template>
+	<Template Path = "./Process Engineering/Equipment-Valves.edt" Name = "阀门"></Template>
+	<Template Path = "./Building Plans/Plumbing.edt" Name = "水暖"></Template>
+	<Template Path = "./Building Plans/WallShellStructure.edt" Name = "墙壁、外壳和结构"></Template>
+</Templates>
+
+<Templates NameU = "Elevations" Name = "立面图" Solution = "Plan" Icon = "./building/elevation.bmp" Help = "make-kitchen-elevations.php" Description= "创建橱柜，房屋设计和厨房等的各种立面图。">
+	<Template Path = "./Basic Shape/Dimensioning.edt" Name = "尺寸度量"></Template>
+	<Template Path = "./Building Plans/WallShellStructure.edt" Name = "墙壁、外壳和结构"></Template>
+	<Template Path = "./Building Plans/Kitchen(Elevation).edt" Name = "厨房 (立面)"></Template>
+	<Template Path = "./Building Plans/Lighting and Handbag(Elevation).edt" Name = "照明 (立面)"></Template>
+	<Template Path = "./Building Plans/Windows and Doors(Elevation).edt" Name = "门窗 (立面)"></Template>
+	<Template Path = "./Building Plans/Dining Room(Elevation).edt" Name = "餐厅 (立面)"></Template>
+	<Template Path = "./Building Plans/Elevations.edt" Name = "立面图"></Template>
+</Templates>
+
+<Templates NameU = "Wardrobe" Name = "衣柜设计" Solution = "Plan" drawingscale = "16" Icon = "./building/wardrobe.bmp" Help = "make-wardrobe-plan.php" Description= "创建衣柜，衣帽间立面图。">
+	<Template Path = "./Basic Shape/Dimensioning.edt" Name = "尺寸度量"></Template>
+	<Template Path = "./Building Plans/Wardrobe.edt" Name = "衣柜设计"></Template>
+</Templates>
+</Gallery>
+
+<Gallery NameU = "Flowchart" Name = "流程图" Version = "1.0" Help = "How-to-draw-flowchart.php" Description= "创建流程图、bpmn跨职能流程图、数据流图、IDEF0,SDL图和流程图。">
+<Templates NameU = "Basic Flowchart" Name = "基本流程图" Theme= "常用" Icon = "./flowchart/basicflow.bmp" Help = "How-to-draw-flowchart.php" Description= "创建流程图、顺序图、信息跟踪图、流程规划图和结构预测图。">
+	<Template Path = "./Basic Shape/backgrounds.edt" Name = "背景"></Template>
+	<Template Path = "./Basic Shape/borders.edt" Name = "边框"></Template>
+	<Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+	<Template Path = "./Basic Shape/arrow.edt" Name = "箭头形状"></Template>
+	<Template Path = "./Flowchart/basicflow.edt" Name = "基本流程图"></Template>
+</Templates>
+
+<Templates NameU = "Business Process Modeling Notation" Name = "商业流程模型示意图" Theme= "Waves" Icon = "./flowchart/bpmn.bmp" Help = "how-to-create-bpmn.php" Description= "创建一个遵商业流程模型示意图1.1标准的流程图。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+	<Template Path = "./Basic Shape/arrow.edt" Name = "箭头形状"></Template>
+	<Template Path = "./Flowchart/bpmn.edt" Name = "BPMN形状"></Template>
+</Templates>
+
+<Templates NameU = "Cross Functional Horizontal" Name = "水平跨职能流程图" Theme="Edraw Flat" Icon = "./flowchart/cross-h.bmp" Description= "显示业务进程和组织或职能单位（如部门）之间的关系，这些职能单位负责实施该进程的步骤。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+	<Template Path = "./Basic Shape/arrow.edt" Name = "箭头形状"></Template>
+	<Template Path = "./Flowchart/basicflow.edt" Name = "基本流程图形状"></Template>
+	<Template Path = "./Flowchart/cross functional horizontal.edt" Name = "水平跨职能流程图"></Template>
+</Templates>
+
+<Templates NameU = "Cross Functional Vertical" Name = "垂直跨职能流程图" Theme="Edraw Flat" Icon = "./flowchart/cross-v.bmp" Description= "显示业务进程和组织或职能单位（如部门）之间的关系，这些职能单位负责实施该进程的步骤。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+	<Template Path = "./Basic Shape/arrow.edt" Name = "箭头形状"></Template>
+	<Template Path = "./Flowchart/basicflow.edt" Name = "基本流程图形状"></Template>
+	<Template Path = "./Flowchart/cross functional vertical.edt" Name = "垂直跨职能流程图"></Template>
+</Templates>
+
+<Templates NameU = "Data Flow Diagram" Name = "数据流程图" Theme= "常用" Icon = "./flowchart/dataflow.bmp" Description= "创建结构化分析图、信息流图表、面向进程的图表、面向数据的图表和数据进程图表以及数据流程图。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+	<Template Path = "./Basic Shape/arrow.edt" Name = "箭头形状"></Template>
+	<Template Path = "./Flowchart/dataflow.edt" Name = "数据流程图形状"></Template>
+</Templates>
+
+<Templates NameU = "Event Flow Diagram" Name = "事件流程图" Theme= "常用" Icon = "./flowchart/eventflow.bmp" Description= "描绘事件和过程之间的关系。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+	<Template Path = "./Basic Shape/arrow.edt" Name = "箭头形状"></Template>
+	<Template Path = "./Flowchart/eventflowdiagram.edt" Name = "事件流程图"></Template>
+</Templates>
+
+<Templates NameU = "IDEF Diagram" Name = "IDEF图" Theme= "常用" Icon = "./business/idef0.bmp" Description= "使用 IDEF0 过程制图模型为模型配置管理、需求和收益分析、要求定义和持续改进模型创建分层图。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+	<Template Path = "./Basic Shape/arrow.edt" Name = "箭头形状"></Template>
+	<Template Path = "./Flowchart/IDEF0.edt" Name = "IDEF0图形状"></Template>
+	<Template Path = "./Flowchart/IDEF2.edt" Name = "IDEF2图形状"></Template>
+</Templates>
+
+<Templates NameU = "Highlight Flowchart" Name = "高光流程图" Theme= "扁平" Icon = "./flowchart/highlightflow.bmp" Description= "创建高光风格的流程图，顺序图、信息跟踪图、流程规划图和结构预测图。">
+	<Template Path = "./Basic Shape/backgrounds.edt" Name = "背景"></Template>
+	<Template Path = "./Basic Shape/borders.edt" Name = "边框"></Template>
+	<Template Path = "./Flowchart/highlight flowchart.edt" Name = "高光流程图"></Template>
+</Templates>
+
+<Templates NameU = "Work Flow Diagram" Name = "工作流程图" Theme= "常用" Icon = "./flowchart/workflow.bmp" Help = "create-workflow-diagram.php" Description= "创建用于信息流、业务进程自动化、业务进程重建、会计、管理和人力资源人物的图表。遵循 6 Sigma和ISO 9000标准。">
+	<Template Path = "./Basic Shape/backgrounds.edt" Name = "背景"></Template>
+	<Template Path = "./Flowchart/Work Flow Department.edt" Name = "工作流部门"></Template>
+	<Template Path = "./Flowchart/work flow objects.edt" Name = "工作流对象"></Template>
+	<Template Path = "./Flowchart/work flow steps.edt" Name = "工作流步骤"></Template>
+</Templates>
+
+<Templates NameU = "SDL Diagram" Name = "SDL图" Theme= "常用" Icon = "./flowchart/sdl.bmp" Description= "基于CCTT规范，使用规划和说明语言（SDL）为通信和电信系统和网络创建面向对象的图表。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+	<Template Path = "./Basic Shape/arrow.edt" Name = "箭头形状"></Template>
+	<Template Path = "./Flowchart/sdlflow.edt" Name = "SDL图形状"></Template>
+</Templates>
+</Gallery>
+
+<Gallery NameU = "Form" Name = "表格" Version = "1.0" help = "create-business-form.php" Description= "包含特殊形状，用于创建名片，传真封面，发票，收据和销售表格等。">
+<Templates NameU = "Report Form" Name = "报告表" Theme= "工程" Icon = "./forms/reportform.bmp" Description= "包含用于创建报表的特殊形状。">
+	<Template Path = "./Chart/Column.edt" Name = "柱状图"></Template>
+	<Template Path = "./Chart/Bar.edt" Name = "条形图"></Template>
+	<Template Path = "./Chart/Pie and Doughnut.edt" Name = "饼图和环形图"></Template>
+	<Template Path = "./Chart/Line and Area.edt" Name = "线形和面积图"></Template>
+	<Template Path = "./Chart/Comparison Chart.edt" Name = "对比图"></Template>
+	<Template Path = "./Chart/Comparison Indicators.edt" Name = "对比指标"></Template>
+	<Template Path = "./Forms/Forms.edt" Name = "表格"></Template>
+</Templates>
+<Templates NameU = "Fax Cover" Name = "传真封面" Theme= "工程" Icon = "./forms/fax.bmp" Description= "包含创建传真封面的和图形底稿的特殊形状。">
+	<Template Path = "./Forms/Forms.edt" Name = "表格"></Template>
+</Templates>
+<Templates NameU = "Invoice" Name = "发票" Theme= "工程" Icon = "./forms/invoice.bmp" help = "create-invoice.php" Description= "包括制作收据和发票所需的特殊符号。">
+	<Template Path = "./Forms/Forms.edt" Name = "表格"></Template>
+</Templates>
+<Templates NameU = "Sales" Name = "销售表格" Theme= "工程" Icon = "./forms/sales.bmp" Description= "包含创建销售订单，企业文件，预算表格等需要的形状。">
+	<Template Path = "./Forms/Forms.edt" Name = "表格"></Template>
+</Templates>
+<Templates NameU = "Expense Report" Name = "费用报表" Theme= "工程" Icon = "./forms/expense.bmp" Description= "包括制作费用报表等的专用符号。">
+	<Template Path = "./Forms/Forms.edt" Name = "表格"></Template>
+</Templates>
+<Templates NameU = "Inventory List" Name = "库存列表" Theme= "工程" Icon = "./forms/inventory.bmp" Description= "包括制作库存列表等的专用符号。">
+	<Template Path = "./Forms/Forms.edt" Name = "表格"></Template>
+</Templates>
+<Templates NameU = "Quote Form" Name = "报价单" Theme= "工程" Icon = "./forms/quote.bmp" Description= "包括制作报价单等的专用符号。">
+	<Template Path = "./Forms/Forms.edt" Name = "表格"></Template>
+</Templates>
+</Gallery>
+
+<Gallery NameU = "Graphic Design" Name = "平面设计" Version = "1.0" Description= "包含制定的符号，并使用符号设计工具来创作海报、宣传册、年报、封面等。">
+<Templates NameU = "Annual Reports" Name = "年报" Theme= "扁平" Icon = "./graphicdesign/annualreport.bmp" Description= "包含用于创建年度报告和业务计划的特殊形状。">
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "Basic Drawing Shapes"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "Common Shapes"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "Icons"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D Block"></Template>	
+	<Template Path = "./Presentation/Gift Voucher.edt" Name = "Gift Voucher"></Template>	
+</Templates>
+
+<Templates NameU = "Banner" Name = "横幅" Theme= "扁平" Icon = "./graphicdesign/banner.bmp" Description= "包含创建横幅的特殊形状。">
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "Basic Drawing Shapes"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "Common Shapes"></Template>
+	<Template Path = "./Forms/Forms.edt" Name = "Forms"></Template>	
+	<Template Path = "./Basic Shape/Icons.edt" Name = "Icons"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D Block"></Template>	
+	<Template Path = "./Presentation/Gift Voucher.edt" Name = "Gift Voucher"></Template>	
+</Templates>
+
+<Templates NameU = "Brochure" Name = "手册" Theme= "扁平" Icon = "./graphicdesign/brochure.bmp" Description= "包含创建手册的特殊形状。">
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "Basic Drawing Shapes"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "Common Shapes"></Template>
+	<Template Path = "./Forms/Forms.edt" Name = "Forms"></Template>	
+	<Template Path = "./Basic Shape/Icons.edt" Name = "Icons"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D Block"></Template>	
+	<Template Path = "./Presentation/Gift Voucher.edt" Name = "Gift Voucher"></Template>	
+</Templates>
+
+<Templates NameU = "Certificate" Name = "证书" Theme= "扁平" Icon = "./graphicdesign/certificate.bmp" Description= "包含创建证书的特殊形状">
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "Common Shapes"></Template>		
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "Basic Drawing Shapes"></Template>
+	<Template Path = "./Presentation/Certificate.edt" Name = "Certificate"></Template>	
+</Templates>
+
+<Templates NameU = "Cover" Name = "封面" Theme= "扁平" Icon = "./graphicdesign/bookcover.bmp" Description= "包含创建封面的特殊形状">
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "Basic Drawing Shapes"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "Common Shapes"></Template>
+	<Template Path = "./Forms/Forms.edt" Name = "Forms"></Template>	
+	<Template Path = "./Basic Shape/Icons.edt" Name = "Icons"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D Block"></Template>
+</Templates>
+
+<Templates NameU = "Flyer" Name = "宣传单" Theme= "扁平" Icon = "./graphicdesign/flyer.bmp" Description= "包含创建宣传单的特殊形状">
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "Basic Drawing Shapes"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "Common Shapes"></Template>
+	<Template Path = "./Forms/Forms.edt" Name = "Forms"></Template>	
+	<Template Path = "./Basic Shape/Icons.edt" Name = "Icons"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D Block"></Template>	
+	<Template Path = "./Presentation/Gift Voucher.edt" Name = "Gift Voucher"></Template>
+</Templates>
+
+<Templates NameU = "Label" Name = "CD盘面" Theme= "扁平" Icon = "./graphicdesign/label.bmp" Description= "包含创建CD盘面的特殊形状">
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "Basic Drawing Shapes"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "Common Shapes"></Template>
+	<Template Path = "./Forms/Forms.edt" Name = "Forms"></Template>	
+	<Template Path = "./Basic Shape/Icons.edt" Name = "Icons"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D Block"></Template>	
+	<Template Path = "./Presentation/Gift Voucher.edt" Name = "Gift Voucher"></Template>	
+</Templates>
+
+<Templates NameU = "Magazines" Name = "杂志" Theme= "扁平" Icon = "./graphicdesign/Magazines.bmp" Description= "包含创建杂志的特殊形状。">
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "Basic Drawing Shapes"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "Common Shapes"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "Icons"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D Block"></Template>
+</Templates>
+
+<Templates NameU = "Newsletter" Name = "新闻稿" Theme= "扁平" Icon = "./graphicdesign/newsletter.bmp" Description= "包含创建新闻稿的特殊形状">
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "Basic Drawing Shapes"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "Common Shapes"></Template>
+	<Template Path = "./Forms/Forms.edt" Name = "Forms"></Template>	
+	<Template Path = "./Basic Shape/Icons.edt" Name = "Icons"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D Block"></Template>	
+	<Template Path = "./Presentation/Gift Voucher.edt" Name = "Gift Voucher"></Template>	
+</Templates>
+
+<Templates NameU = "Picture Collage" Name = "拼图" Theme= "扁平" Icon = "./graphicdesign/picturecollage.bmp" Description= "创建时尚的照片拼贴画。">
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "Basic Drawing Shapes"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D Block"></Template>
+	<Template Path = "./Symbols/Flowers.edt" Name = "Flowers"></Template>
+	<Template Path = "./Symbols/Ornament.edt" Name = "Ornament"></Template>
+	<Template Path = "./Symbols/Bow.edt" Name = "Bow"></Template>
+	<Template Path = "./Symbols/Heart.edt" Name = "Heart"></Template>	
+</Templates>
+
+<Templates NameU = "Poster" Name = "海报" Theme= "扁平" Icon = "./graphicdesign/poster.bmp" Description= "包含创建海报的特殊形状。">
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "Basic Drawing Shapes"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "Common Shapes"></Template>
+	<Template Path = "./Forms/Forms.edt" Name = "Forms"></Template>	
+	<Template Path = "./Basic Shape/Icons.edt" Name = "Icons"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D Block"></Template>
+</Templates>
+
+</Gallery>
+
+<Gallery NameU = "Graphic Organizer" Name = "图形组织" Version = "1.0" Description= "包含创建图形组织的特殊形状">
+<Templates NameU = "Compare and Contract" Name = "比较与对比" Theme= "扁平" Icon = "./graphicorganizer/comparecontract.bmp" Description= "比较和对比是用于发展学生技能的组合模式之一，用于说明两个对象之间的相似点和差异。">
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "Basic Drawing Shapes"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "Common Shapes"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "Icons"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D Block"></Template>
+	<Template Path = "./Basic Shape/Venn Shapes.edt" Name = "Venn Shapes"></Template>
+	<Template Path = "./Symbols/Graphic Organizer.edt" Name = "Graphic Organizer"></Template>
+</Templates>
+
+<Templates NameU = "Grid and Matrix" Name = "网格和矩阵" Theme= "扁平" Icon = "./graphicorganizer/gridmatrix.bmp" Description= "网格和矩阵可以比较两个轴上的项目。 网格通常用于很多信息的故事板的最佳选择。">
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "Basic Drawing Shapes"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "Common Shapes"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "Icons"></Template>
+	<Template Path = "./Business Process/Matrix.edt" Name = "Matrix"></Template>	
+	<Template Path = "./Business Process/Five Forces Shapes.edt" Name = "Five Forces Shapes"></Template>
+	<Template Path = "./Business Process/PEST.edt" Name = "PEST"></Template>	
+	<Template Path = "./Symbols/Graphic Organizer.edt" Name = "Graphic Organizer"></Template>
+</Templates>
+
+<Templates NameU = "Main Idea and Detail" Name = "主要思想和细节" Theme= "扁平" Icon = "./graphicorganizer/mainidea.bmp" Description= "主要思想和细节图显示主要概念及其下属元素之间的层次关系。">
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "Basic Drawing Shapes"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "Common Shapes"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "Icons"></Template>
+	<Template Path = "./Basic Shape/Circular Charting Shapes.edt" Name = "Circular Charting Shapes"></Template>		
+	<Template Path = "./Symbols/Graphic Organizer.edt" Name = "Graphic Organizer"></Template>
+</Templates>
+
+<Templates NameU = "Sequence Chart" Name = "序列图" Theme= "扁平" Icon = "./graphicorganizer/sequencechart.bmp" Description= "序列图按顺序显示一系列步骤或事件。">
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "Basic Drawing Shapes"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "Common Shapes"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "Icons"></Template>
+	<Template Path = "./Basic Shape/List Shapes 2.edt" Name = "List Shapes"></Template>
+	<Template Path = "./Basic Shape/List Shapes.edt" Name = "Dynamic List Shapes (with floating buttons)"></Template>
+	<Template Path = "./Business Process/Process Shapes.edt" Name = "Process Shapes"></Template>	
+	<Template Path = "./Symbols/Graphic Organizer.edt" Name = "Graphic Organizer"></Template>
+</Templates>
+
+<Templates NameU = "Spider Chart" Name = "蜘蛛图" Theme= "扁平" Icon = "./graphicorganizer/spiderchart.bmp" Description= "蜘蛛图采用径向，非线性方式表示想法或主题。">
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "Basic Drawing Shapes"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "Common Shapes"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "Icons"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D Block"></Template>
+	<Template Path = "./Symbols/Graphic Organizer.edt" Name = "Graphic Organizer"></Template>
+</Templates>
+
+<Templates NameU = "Storyboard" Name = "故事板" Theme= "扁平" Icon = "./graphicorganizer/storyboard.bmp" Description= "故事板常用于概述角色，情节，设置，问题和解决方案来帮助学生进行预写和阅读。">
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "Basic Drawing Shapes"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "Common Shapes"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "Icons"></Template>
+	<Template Path = "./Basic Shape/List Shapes 2.edt" Name = "List Shapes"></Template>
+	<Template Path = "./Basic Shape/List Shapes.edt" Name = "Dynamic List Shapes (with floating buttons)"></Template>
+	<Template Path = "./Symbols/Graphic Organizer.edt" Name = "Graphic Organizer"></Template>
+</Templates>
+
+<Templates NameU = "T-Chart" Name = "T-Chart" Theme= "扁平" Icon = "./graphicorganizer/tchart.bmp" Description= "用于比较任何内容区域或类型，如书籍或书籍，科学现象或社会研究活动。">
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "Basic Drawing Shapes"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "Common Shapes"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "Icons"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D Block"></Template>
+	<Template Path = "./Symbols/Graphic Organizer.edt" Name = "Graphic Organizer"></Template>
+</Templates>
+</Gallery>
+
+<Gallery NameU = "Industrial Automation" Name = "工业自动化" Version = "1.0" Description= "用于指导设计、创建粗略或详细的工厂工艺流程图，显示其中的管道和设备布置。">
+<Templates NameU = "Process P&amp;ID" Name = "过程P&amp;ID" Theme= "工程" Icon = "./pid/processpid.bmp" Description= "用于展示工业流程图中的实际生产过程，反应，物料处理，分离，提纯和其它单元作业。">
+	<Template Path = "./PID/Ductwork.edt" Name = "管道系统"></Template>
+	<Template Path = "./PID/PID Valves.edt" Name = "阀门"></Template>
+	<Template Path = "./PID/Valves Symbols.edt" Name = "阀门符号"></Template>
+	<Template Path = "./PID/Flow Meters.edt" Name = "流量计"></Template>
+	<Template Path = "./PID/Industry.edt" Name = "工业"></Template>
+	<Template Path = "./PID/Material Handling.edt" Name = "物料处理"></Template>
+	<Template Path = "./PID/Plant Facilities.edt" Name = "工厂设施"></Template>
+	<Template Path = "./PID/Computer Keys.edt" Name = "电脑键盘"></Template>
+	<Template Path = "./PID/Process Cooling.edt" Name = "制程冷却"></Template>
+	<Template Path = "./PID/Process Heating.edt" Name = "过程加热"></Template>
+	<Template Path = "./PID/Lights.edt" Name = "灯"></Template>
+	<Template Path = "./PID/Push Buttons.edt" Name = "按键"></Template>
+</Templates>
+<Templates NameU = "Utility-Generation P&amp;ID" Name = "公用发电 P&amp;ID" Theme= "工程" Icon = "./pid/utilitypid.bmp" Description= "展示公用系统比如锅炉，冷却塔，液体加热器和空气压缩机。">
+	<Template Path = "./PID/Ductwork.edt" Name = "管道系统"></Template>
+	<Template Path = "./PID/Blowers.edt" Name = "鼓风机"></Template>
+	<Template Path = "./PID/Boilers.edt" Name = "锅炉"></Template>
+	<Template Path = "./PID/Chemistry.edt" Name = "化学"></Template>
+	<Template Path = "./PID/Containers.edt" Name = "容器"></Template>
+	<Template Path = "./PID/Heaters.edt" Name = "加热器"></Template>
+	<Template Path = "./PID/HVAC.edt" Name = "暖通空调"></Template>
+	<Template Path = "./PID/Logistics.edt" Name = "物流"></Template>
+	<Template Path = "./PID/Machines.edt" Name = "机器"></Template>
+	<Template Path = "./PID/Mixers.edt" Name = "搅拌器"></Template>
+	<Template Path = "./PID/Motors.edt" Name = "发动机"></Template>
+	<Template Path = "./PID/Power.edt" Name = "电源"></Template>
+	<Template Path = "./PID/Pumps.edt" Name = "泵"></Template>
+	<Template Path = "./PID/Tanks.edt" Name = "储罐"></Template>
+</Templates>
+<Templates NameU = "Environmental P&amp;ID" Name = "环境 P&amp;ID" Theme= "工程" Icon = "./pid/environmentpid.bmp" Description= "用于污染控制流程比如洗涤和废水处理。">
+	<Template Path = "./PID/Ductwork.edt" Name = "管道系统"></Template>
+	<Template Path = "./PID/Boilers.edt" Name = "锅炉"></Template>
+	<Template Path = "./PID/Chemistry.edt" Name = "化学"></Template>
+	<Template Path = "./PID/Containers.edt" Name = "容器"></Template>
+	<Template Path = "./PID/Industry.edt" Name = "工业"></Template>
+	<Template Path = "./PID/Mixers.edt" Name = "搅拌器"></Template>
+	<Template Path = "./PID/Motors.edt" Name = "发动机"></Template>
+	<Template Path = "./PID/Plant Facilities.edt" Name = "Plant Facilities"></Template>
+	<Template Path = "./PID/Power.edt" Name = "电源"></Template>
+	<Template Path = "./PID/Pumps.edt" Name = "泵"></Template>
+	<Template Path = "./PID/Tanks.edt" Name = "坦克"></Template>
+	<Template Path = "./PID/Wastewater Treatment.edt" Name = "污水处理"></Template>
+</Templates>
+<Templates NameU = "Auxillary System P&amp;ID" Name = "辅机系统 P&amp;ID" Theme= "工程" Icon = "./pid/auxillarypid.bmp" Description= "显示与主要设备相关的压缩机，冷却系统，液压系统，泵和其它辅机系统。">
+	<Template Path = "./PID/Ductwork.edt" Name = "管道系统"></Template>
+	<Template Path = "./PID/Motors.edt" Name = "发动机"></Template>
+	<Template Path = "./PID/Plant Facilities.edt" Name = "工厂设备"></Template>
+	<Template Path = "./PID/Power.edt" Name = "电源"></Template>
+	<Template Path = "./PID/Pumps.edt" Name = "泵"></Template>
+	<Template Path = "./PID/Meters.edt" Name = "仪表"></Template>
+	<Template Path = "./PID/Process Cooling.edt" Name = "制程冷却"></Template>
+	<Template Path = "./PID/Process Heating.edt" Name = "过程加热"></Template>
+</Templates>
+<Templates NameU = "Distribution P&amp;ID" Name = "配送 P&amp;ID" Theme= "工程" Icon = "./pid/distributionpid.bmp" Description= "显示设备，化学品和其它非过程物流在工厂中如何配送。">
+	<Template Path = "./PID/Ductwork.edt" Name = "管道系统"></Template>
+	<Template Path = "./PID/Industry.edt" Name = "工业"></Template>
+	<Template Path = "./PID/Logistics.edt" Name = "物流"></Template>
+	<Template Path = "./PID/Plant Facilities.edt" Name = "工厂设施"></Template>
+	<Template Path = "./PID/Buildings.edt" Name = "建筑"></Template>
+	<Template Path = "./PID/Lights.edt" Name = "灯"></Template>
+	<Template Path = "./PID/Meters.edt" Name = "仪表"></Template>
+	<Template Path = "./PID/Push Buttons.edt" Name = "按钮"></Template>
+	<Template Path = "./PID/Safety.edt" Name = "安全"></Template>
+</Templates>
+</Gallery>
+
+<Gallery NameU = "Infographic" Name = "信息图" Version = "1.0" Description= "创建商业，市场营销，教育，环境，医疗和交通等领域的信息图。">
+<Templates NameU = "Architecture" Name = "建筑" Theme= "扁平" Icon = "./infographic/architecture.bmp" Description= "创建建筑信息图。">
+	<Template Path = "./Basic Shape/Arrow.edt" Name = "箭头形状"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "常用形状"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D块图"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "图标"></Template>
+	<Template Path = "./Chart/Basic Charts.edt" Name = "信息图图表"></Template>
+	<Template Path = "./Symbols/Architecture.edt" Name = "建筑"></Template>
+</Templates>
+
+<Templates NameU = "Business" Name = "商业" Theme= "扁平" Icon = "./infographic/business.bmp" Description= "创建商业信息图。">
+	<Template Path = "./Basic Shape/Arrow.edt" Name = "箭头形状"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "常用形状"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D块图"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "图标"></Template>
+	<Template Path = "./Chart/Basic Charts.edt" Name = "信息图图表"></Template>
+	<Template Path = "./Symbols/People - Flat.edt" Name = "人 — 扁平"></Template>
+	<Template Path = "./Symbols/Business - Flat.edt" Name = "商业 — 扁平"></Template>
+</Templates>
+
+<Templates NameU = "Education" Name = "教育" Theme= "扁平" Icon = "./infographic/education.bmp" Description= "创建教育信息图。">
+	<Template Path = "./Basic Shape/Arrow.edt" Name = "箭头形状"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "常用形状"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D块图"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "图标"></Template>
+	<Template Path = "./Chart/Basic Charts.edt" Name = "信息图图表"></Template>
+	<Template Path = "./Symbols/Education.edt" Name = "教育"></Template>
+</Templates>
+
+<Templates NameU = "Environment" Name = "环境" Theme= "扁平" Icon = "./infographic/environment.bmp" Description= "创建环境信息图。">
+	<Template Path = "./Basic Shape/Arrow.edt" Name = "箭头形状"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "常用形状"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D块图"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "图标"></Template>
+	<Template Path = "./Chart/Basic Charts.edt" Name = "信息图图表"></Template>
+	<Template Path = "./Symbols/Environment.edt" Name = "环境"></Template>
+</Templates>
+
+<Templates NameU = "Food" Name = "食品" Theme= "扁平" Icon = "./infographic/food.bmp" Description= "创建食品信息图。">
+	<Template Path = "./Basic Shape/Arrow.edt" Name = "箭头形状"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "常用形状"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D块图"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "图标"></Template>
+	<Template Path = "./Chart/Basic Charts.edt" Name = "信息图图表"></Template>
+	<Template Path = "./Symbols/Food.edt" Name = "Food"></Template>
+	<Template Path = "./Symbols/Bread.edt" Name = "Bread"></Template>
+	<Template Path = "./Symbols/Fruit.edt" Name = "Fruit"></Template>
+	<Template Path = "./Symbols/Drinks.edt" Name = "Drinks"></Template>
+	<Template Path = "./Symbols/Tableware.edt" Name = "Tableware"></Template>
+</Templates>
+
+<Templates NameU = "Medical" Name = "医疗" Theme= "扁平" Icon = "./infographic/medical.bmp" Description= "创建医疗信息图。">
+	<Template Path = "./Basic Shape/Arrow.edt" Name = "箭头形状"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "常用形状"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D块图"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "图标"></Template>
+	<Template Path = "./Chart/Basic Charts.edt" Name = "信息图图表"></Template>
+	<Template Path = "./Symbols/Medical.edt" Name = "医疗"></Template>
+</Templates>
+
+<Templates NameU = "Music" Name = "音乐" Theme= "扁平" Icon = "./infographic/music.bmp" Description= "创建音乐信息图">
+	<Template Path = "./Basic Shape/Arrow.edt" Name = "箭头形状"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "常用形状"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D块图"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "图标"></Template>
+	<Template Path = "./Chart/Basic Charts.edt" Name = "信息图图表"></Template>
+	<Template Path = "./Symbols/Music.edt" Name = "音乐"></Template>
+</Templates>
+
+<Templates NameU = "News" Name = "新闻" Theme= "扁平" Icon = "./infographic/news.bmp" Description= "创建新闻信息图。">
+	<Template Path = "./Basic Shape/Arrow.edt" Name = "箭头形状"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "常用形状"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D块图"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "图标"></Template>
+	<Template Path = "./Chart/Basic Charts.edt" Name = "信息图图表"></Template>
+	<Template Path = "./Symbols/News.edt" Name = "新闻"></Template>
+</Templates>
+
+<Templates NameU = "Technology" Name = "技术" Theme= "扁平" Icon = "./infographic/technology.bmp" Description= "创建新闻信息图。">
+	<Template Path = "./Basic Shape/Arrow.edt" Name = "箭头形状"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "常用形状"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D块图"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "图标"></Template>
+	<Template Path = "./Chart/Basic Charts.edt" Name = "信息图图表"></Template>
+	<Template Path = "./Symbols/Electronics.edt" Name = "Electronics"></Template>
+	<Template Path = "./Symbols/Artificial Intelligence.edt" Name = "Artificial Intelligence"></Template>
+    <Template Path = "./Symbols/Biotechnology.edt" Name = "Biotechnology"></Template>	
+	<Template Path = "./Symbols/Aerospace Technology.edt" Name = "Aerospace Technology"></Template>	
+</Templates>
+
+<Templates NameU = "Tourism" Name = "旅游" Theme= "扁平" Icon = "./infographic/tourism.bmp" Description= "创建旅游信息图。">
+	<Template Path = "./Basic Shape/Arrow.edt" Name = "箭头形状"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "常用形状"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D块图"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "图标"></Template>
+	<Template Path = "./Chart/Basic Charts.edt" Name = "信息图图表"></Template>
+	<Template Path = "./Symbols/Tourism.edt" Name = "旅游"></Template>
+</Templates>
+
+<Templates NameU = "Transportation" Name = "交通" Theme= "扁平" Icon = "./infographic/transportation.bmp" Description= "创建交通信息图。">
+	<Template Path = "./Basic Shape/Arrow.edt" Name = "箭头形状"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "常用形状"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D块图"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "图标"></Template>
+	<Template Path = "./Chart/Basic Charts.edt" Name = "信息图图表"></Template>
+	<Template Path = "./Symbols/Transportation.edt" Name = "交通"></Template>
+</Templates>
+</Gallery>
+
+<Gallery NameU = "Map" Name = "地图" Version = "1.0" help = "create-street-map.php" Description= "包含特殊形状和设置方便创建地理地图和定向地图。">
+<Templates NameU = "Directional Map" Name = "方向图" Theme= "常用" Icon = "./maps/directional-map.bmp" help = "create-street-map.php" Description= "包含交通和地图符号，比如高速路，风景区干道，十字路口，道路，街道标志，路线，铁轨，交通终端，河流和建筑。">
+	<Template Path = "./Maps/Metro and train.edt" Name = "地铁和火车"></Template>
+	<Template Path = "./Maps/Road signs.edt" Name = "路标"></Template>
+	<Template Path = "./Maps/Map Vehicles.edt" Name = "地图车辆"></Template>
+	<Template Path = "./Maps/2D Landmarks.edt" Name = "2D地标"></Template>
+	<Template Path = "./Maps/2D Directional Map.edt" Name = "2D方向图"></Template>
+</Templates>
+
+<Templates NameU = "Directional Map - 3D" Name = "3D方向图" Theme= "常用" Icon = "./maps/3dmap.bmp" Description= "包含交通形状比如道路，车辆，十字路口和建筑物地标等，以便于创建3D方向图。">
+	<Template Path = "./Maps/Map Vehicles.edt" Name = "地图车辆"></Template>
+	<Template Path = "./Maps/3D Landmarks.edt" Name = "3D地标"></Template>
+	<Template Path = "./Maps/3D Directional Map.edt" Name = "3D方向图"></Template>
+</Templates>
+
+<Templates NameU = "Subway Map" Name = "地铁图" Theme= "常用" Icon = "./maps/subway.bmp" Description= "包含专用的形状以便于创建城市地铁图。">
+	<Template Path = "./Maps/Subway.edt" Name = "地铁"></Template>
+</Templates>
+
+<Templates NameU = "Geo Map - Africa" Name = "非洲地图" Theme= "常用" Icon = "./maps/continent/geo-africa.bmp" Description= "包含专用的形状和设置以便于创建非洲地图。">
+	<Template Path = "./Maps/Africa.edt" Name = "非洲"></Template>
+</Templates>
+
+<Templates NameU = "Geo Map - Asia" Name = "亚洲地图" Theme= "常用" Icon = "./maps/continent/geo-asia.bmp" Description= "包含创建亚洲地图所需的专用的形状和设置。">
+	<Template Path = "./Maps/Asia.edt" Name = "亚洲"></Template>
+	<Template Path = "./Maps/China.edt" Name = "中国"></Template>
+</Templates>
+
+<Templates NameU = "Geo Map - Australia" Name = "澳洲地图" Theme= "常用" Icon = "./maps/continent/geo-australia.bmp" Description= "包含创建澳洲地图所需的专用的形状和设置。">
+	<Template Path = "./Maps/Australia.edt" Name = "澳洲"></Template>
+</Templates>
+
+<Templates NameU = "Geo Map - Europe" Name = "欧洲地图" Theme= "常用" Icon = "./maps/continent/geo-europe.bmp" Description= "包含创建欧洲地图所需的专用的形状和设置。">
+	<Template Path = "./Maps/Europe.edt" Name = "欧洲"></Template>
+</Templates>
+
+<Templates NameU = "Geo Map - N. America" Name = "北美洲地图" Theme= "常用" Icon = "./maps/continent/geo-n-america.bmp" Description= "包含创建北美洲地图所需的专用的形状和设置。">
+	<Template Path = "./Maps/USA.edt" Name = "美国"></Template>
+	<Template Path = "./Maps/Canada.edt" Name = "加拿大"></Template>
+</Templates>
+
+<Templates NameU = "Geo Map - S. America" Name = "南美洲" Theme= "常用" Icon = "./maps/continent/geo-s-america.bmp" Description= "包含创建南美洲地图所需的专用的形状和设置。">
+	<Template Path = "./Maps/South America.edt" Name = "南美洲"></Template>
+</Templates>
+</Gallery>
+
+<Gallery NameU = "Mind Map" Name = "思维导图" Version = "1.0" Help = "create-mind-map.php" Description= "创建思维导图（思维过程的图形表示）以展示头脑风暴，解决问题，理性分析和决策标记。">
+<Templates NameU = "Mind Map" Name = "思维导图" Solution = "Mind" Theme= "扁平" Icon = "./mindmap/mind.bmp" Help = "create-mind-map.php" Description= "创建思维导图（思维过程的图形表示）以展示头脑风暴，解决问题，理性分析和决策标记。">
+  <Template Path = "./Mind Map/Brainstorming.edt" Name = "头脑风暴"></Template>
+  <Template Path = "./Mind Map/symbols.edt" Name = "符号"></Template>
+	<Template Path = "./Mind Map/mind shapes.edt" Name = "思维导图形状"></Template>
+</Templates>
+
+<Templates NameU = "Concept Map" Name = "概念图" Theme= "扁平" Icon = "./mindmap/concept.bmp" Help = "how-to-draw-concept-map.php" Description= "建立概念图显示概念之间的关系。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+	<Template Path = "./Mind Map/conceptmap.edt" Name = "概念图"></Template>
+</Templates>
+
+<Templates NameU = "Bubble Diagram" Name = "气泡图" Theme= "扁平" Icon = "./mindmap/bubble.bmp" Description= "创建气泡图。">
+	<Template Path = "./Basic Shape/arrow.edt" Name = "箭头形状"></Template>
+	<Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+	<Template Path = "./Basic Shape/bubbleshapes.edt" Name = "气泡形状"></Template>
+</Templates>
+</Gallery>
+
+<Gallery NameU = "Network" Name = "网络图" Version = "1.0" Help = "createnetworkdiagram.php" Description= "创建三维网络图,基本的网络图,详细网络图,逻辑网络图,思科网络图,LDAP和活动目录。">
+<Templates NameU = "3D Network Diagram" Name = "3D 网络图" Theme= "常用" Icon = "./network/3dnetwork.bmp" Description= "包含3D网络形状和计算机设备形状以创建立体效果的3D网络图。">
+	<Template Path = "./Network/3D Network Diagram Shapes.edt" Name = "3D网络图形状"></Template>
+</Templates>
+
+<Templates NameU = "AWS" Name = "AWS" Theme= "常用" Icon = "./network/aws.bmp" Description= "创建亚马逊架构图。">
+  <Template Path = "./AWS/App Services.edt" Name = "AWS App服务"></Template>
+  <Template Path = "./AWS/Compute.edt" Name = "AWS 计算和网络"></Template>
+  <Template Path = "./AWS/Database.edt" Name = "AWS 数据库"></Template>
+  <Template Path = "./AWS/Deployment Management.edt" Name = "AWS 部署和管理"></Template>
+  <Template Path = "./AWS/Non-Service Specific.edt" Name = "AWS 非服务细节"></Template>
+  <Template Path = "./AWS/On-Demand Workforce.edt" Name = "AWS 随需应变劳动力"></Template>
+  <Template Path = "./AWS/SDKs.edt" Name = "AWS SDKs"></Template>
+  <Template Path = "./AWS/Storage Content Delivery.edt" Name = "AWS 存储内容及递送"></Template>
+</Templates>
+
+<Templates NameU = "Azure" Name = "Azure" Theme= "常用" Icon = "./network/azure.bmp" Description= "创建Microsoft Azure，云和企业架构图。">
+  	<Template Path = "./Azure/Azure Cloud.edt" Name = "Azure Cloud"></Template>
+  	<Template Path = "./Azure/Azure Deprecated.edt" Name = "Azure Deprecated"></Template>
+	<Template Path = "./Azure/Azure Enterprise.edt" Name = "Azure Enterprise"></Template>
+	<Template Path = "./Azure/Azure General Symbols.edt" Name = "Azure General Symbols"></Template>
+	<Template Path = "./Azure/Azure Intune.edt" Name = "Azure Intune"></Template>
+	<Template Path = "./Azure/Azure Microsoft Productd.edt" Name = "Azure Microsoft Products"></Template>
+	<Template Path = "./Azure/Azure System Center.edt" Name = "Azure System Center"></Template>
+	<Template Path = "./Azure/Azure VMs by Function.edt" Name = "Azure VMs by Function"></Template>
+</Templates>
+
+<Templates NameU = "GCP" Name = "谷歌云平台" Theme= "常用" Icon = "./network/GCP.bmp" Description= "创建Google云平台图。">
+  	<Template Path = "./GCP/GCP Big Data.edt" Name = "GCP Big Data"></Template>
+	  <Template Path = "./GCP/GCP Compute.edt" Name = "GCP Compute"></Template>
+	  <Template Path = "./GCP/GCP Developer Tools.edt" Name = "GCP Developer Tools"></Template>
+	  <Template Path = "./GCP/GCP Extras.edt" Name = "GCP Extras"></Template>
+	  <Template Path = "./GCP/GCP Identity and Security.edt" Name = "GCP Identity and Security"></Template>
+	  <Template Path = "./GCP/GCP Internet of Things.edt" Name = "GCP Internet of Things"></Template>
+	  <Template Path = "./GCP/GCP Management Tools.edt" Name = "GCP Management Tools"></Template>
+	  <Template Path = "./GCP/GCP Networking.edt" Name = "GCP Networking"></Template>
+	  <Template Path = "./GCP/GCP Storage and Databases.edt" Name = "GCP Storage and Databases"></Template>
+</Templates>
+
+<Templates NameU = "Basic Network Diagram" Name = "基本网络图" Theme= "常用" Icon = "./network/netbase.bmp" Help = "createnetworkdiagram.php" Description= "使用基本网络形状和计算机设备形状，可以创建简单网络设计图和网络体系结构图。">
+  <Template Path = "./Basic Shape/backgrounds.edt" Name = "背景"></Template>
+  <Template Path = "./Network/Computers and Monitors.edt" Name = "计算机和显示器"></Template>
+  <Template Path = "./Network/Servers.edt" Name = "服务器"></Template>
+	<Template Path = "./Network/Network and Peripherals.edt" Name = "网络和外设"></Template>
+</Templates>
+
+<Templates NameU = "Cisco Network Topology" Name = "思科网络拓扑图" Theme= "常用" Icon = "./network/netcisco.bmp" Description= "使用思科网络和计算机图标创建基本的思科网络设计和网络体系结构图。">
+  <Template Path = "./Cisco/Cisco Network Topology.edt" Name = "Cisco Network Topology"></Template>
+</Templates>
+
+<Templates NameU = "Cisco Product Icons" Name = "思科产品符号" Theme= "常用" Icon = "./network/ciscoproducts.bmp" Description= "包含一些思科产品，用于创建网络图。">
+  <Template Path = "./Cisco/Cisco Product Icons.edt" Name = "Cisco Product Icons"></Template>
+</Templates>
+
+<Templates NameU = "Cisco Safe Icons" Name = "思科安全符号" Theme= "常用" Icon = "./network/ciscosafe.bmp" Description= "包含一些思科安全图标，用于创建安全的威胁图，安全的架构控制和安全的设计图。">
+  <Template Path = "./Cisco/Security Stealthwatch.edt" Name = "Security Stealthwatch"></Template>
+  <Template Path = "./Cisco/Safe Threat Icons.edt" Name = "Safe Threat Icons"></Template>
+  <Template Path = "./Cisco/Safe Architectural Icons.edt" Name = "Safe Architectural Icons"></Template>
+  <Template Path = "./Cisco/Safe Capability Icons.edt" Name = "Safe Capability Icons"></Template>
+  <Template Path = "./Cisco/Safe Design Icons.edt" Name = "Safe Design Icons"></Template>
+</Templates>
+
+<Templates NameU = "Detail Network Diagram" Name = "详细网络图" Theme= "常用" Icon = "./network/netdetail.bmp" Description= "使用一组复杂的网络和计算机设备形状，可以创建详细的物理、逻辑图和网络体系结构图。">
+  <Template Path = "./Network/Computers and Monitors.edt" Name = "计算机和显示器"></Template>
+  <Template Path = "./Network/Servers.edt" Name = "服务器"></Template>
+	<Template Path = "./Network/Network and Peripherals.edt" Name = "网络和外设"></Template>
+	<Template Path = "./Network/Detailed Network Diagram.edt" Name = "详细网络图"></Template>
+	<Template Path = "./Network/Peripheral Equipment.edt" Name = "外围设备"></Template>
+</Templates>
+
+<Templates NameU = "Logical Network Diagram" Name = "逻辑网络图" Theme= "常用" Icon = "./network/netsymbol.bmp" Description= "使用一组网络和计算机符号，创建逻辑网络图。">
+  <Template Path = "./Network/Computers and Monitors.edt" Name = "计算机和显示器"></Template>
+  <Template Path = "./Network/Servers.edt" Name = "服务器"></Template>
+	<Template Path = "./Network/Network Symbols.edt" Name = "网络符号"></Template>
+</Templates>
+
+<Templates NameU = "Rack Diagram" Name = "机架图" Theme= "常用" Icon = "./network/rack.bmp" Help = "create-rack-diagram.php" Description= "包含创建机架系统所需的机架和网络设备形状。">
+  <Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+	<Template Path = "./Network/Rack Equipment.edt" Name = "机架设备"></Template>
+</Templates>
+
+<Templates NameU = "Video and Audio Ports" Name = "视频和音频端口" Theme= "常用" Icon = "./network/video-audio-ports.bmp" Description= "包含创建视频和音频图表的专用符号。">
+  <Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+	<Template Path = "./Network/Video and Audio Ports.edt" Name = "视频和音频端口"></Template>
+</Templates>
+
+
+<Templates NameU = "LDAP" Name = "LDAP" Theme= "常用" Icon = "./network/ldap.bmp" Description= "使用表示普通LDAP（轻型目录访问协议）对象的形状创建目录服务文档。">
+  <Template Path = "./Network/LDAP Objects.edt" Name = "LDAP 对象"></Template>
+</Templates>
+
+<Templates NameU = "Active Directory" Name = "活动目录" Theme= "常用" Icon = "./network/activedirectory.bmp" Description= "包含专用的形状和设置用于创建活动目录服务相关图表。">
+  <Template Path = "./Network/Active Directory.edt" Name = "活动目录"></Template>
+	<Template Path = "./Network/Active Directory Objects.edt" Name = "活动目录对象"></Template>
+	<Template Path = "./Network/Exchange Objects.edt" Name = "交换对象"></Template>
+</Templates>
+
+<Templates NameU = "Network Location Diagram" Name = "网络位置关系图" Theme= "常用" Icon = "./network/netarea.bmp" Description= "包含一些网络位置符号，用于创建网络位置关系图。">
+	<Template Path = "./Network/Computers and Monitors.edt" Name = "计算机和显示器"></Template>
+	<Template Path = "./Network/Network Locations.edt" Name = "网络位置"></Template>
+</Templates>
+
+</Gallery>
+
+<Gallery NameU = "Organizational Chart" Name = "组织结构图" Version = "1.0" Theme= "扁平" Help = "create-org-chart.php" Description= "创建人力资源管理，员工结构，办公行政和管理结构等方面的组织结构图。">
+<Templates NameU = "Organization Chart" Name = "组织结构图" Theme= "常用" Solution = "Org" Icon = "./orgchart/orgbase.bmp" Help = "create-org-chart.php" Description= "创建人力资源管理，员工结构，办公行政和管理结构等方面的组织结构图。">
+	<Template Path = "./Orgchart/Organization Chart Shapes.edt" Name = "组织结构图形状"></Template>
+</Templates>
+
+<Templates NameU = "Custom Organization Chart" Name = "自定义组织结构图" Theme= "常用" Solution = "Org" Icon = "./orgchart/orgcustom.bmp" Help = "create-org-chart.php" Description= "创建人力资源管理，员工结构，办公行政和管理结构等方面的组织结构图。">
+	<Template Path = "./Orgchart/Custom Organization Chart.edt" Name = "自定义组织结构图。"></Template>
+</Templates>
+
+<Templates NameU = "Family Tree" Name = "家庭树" Theme= "扁平" Icon = "./orgchart/familytree.bmp" Help = "create-family-tree.php" Description= "创建家庭树，家族史或宗谱树形图。">
+	<Template Path = "./Orgchart/Organization Chart Shapes.edt" Name = "组织结构图形状"></Template>
+	<Template Path = "./Orgchart/Family Tree.edt" Name = "家庭树"></Template>
+</Templates>
+</Gallery>
+
+<Gallery NameU = "Project Management" Name = "项目管理" Version = "1.0" Help = "create-project-chart.php" Description= "创建用于项目和任务管理的PERT表，时间线，工作分解结构，关键路线分析，项目生命周期，目标设定，时间表和日程安排表等。">
+<Templates NameU = "Calendar" Name = "日历" Theme= "常用" Icon = "./project/calendar.bmp" Help = "makeowncalendar.php" Description= "用于创建工作日历行程，每周任务安排等。">
+  <Template Path = "./Basic Shape/backgrounds.edt" Name = "背景"></Template>
+	<Template Path = "./Project/Calendar.edt" Name = "日历"></Template>
+	<Template Path = "./Mind Map/symbols.edt" Name = "符号"></Template>
+</Templates>
+
+<Templates NameU = "Gantt" Name = "甘特图" Solution = "Gantt" Theme= "常用" Icon = "./project/gantt.bmp" Help = "how-to-draw-gantt-chart.php" Description= "创建项目进度甘特图。">
+  <Template Path = "./Basic Shape/backgrounds.edt" Name = "背景"></Template>
+	<Template Path = "./Mind Map/symbols.edt" Name = "符号"></Template>
+  <Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+	<Template Path = "./Project/Gantt.edt" Name = "甘特"></Template>
+</Templates>
+
+<Templates NameU = "House of Quality" Name = "质量屋(HOQ)" Theme= "常用" Icon = "./project/HOQ.bmp" Help = "create-house-quality-diagram.php" Description= "创建质量屋图表用于开发设计质量以满足消费者，进而将消费者的需求转化为贯穿于生产阶段的设计目标和主要质量保障点。">
+	<Template Path = "./Basic Shape/BasicShapes.edt" Name = "基本绘图形状"></Template>
+  <Template Path = "./Project/HOQ and QFD.edt" Name = "HOQ and QFD"></Template>
+</Templates>
+
+<Templates NameU = "Quality Function Deployment" Name = "质量功能部署(QFD)" Theme= "常用" Help = "create-qfd-diagram.php" Icon = "./project/QFD.bmp" Description= "创建质量功能部署图以将个人界面带入现代制造业和商业中。">
+	<Template Path = "./Basic Shape/BasicShapes.edt" Name = "基本绘图形状"></Template>
+  <Template Path = "./Project/HOQ and QFD.edt" Name = "HOQ and QFD"></Template>
+</Templates>
+
+<Templates NameU = "Relationship Matrix" Name = "关系矩阵" Theme= "常用" Icon = "./business/Matrix.bmp" Help = "create-relationship-matrix.php" Description= "将项目任务，人员，行动和技术的关系可视化。">
+	<Template Path = "./Basic Shape/BasicShapes.edt" Name = "基本绘图形状"></Template>
+	<Template Path = "./Project/Relationship Matrix.edt" Name = "关系矩阵"></Template>
+</Templates>
+
+<Templates NameU = "Relations Diagram" Name = "关系图" Theme= "常用" Icon = "./project/relation.bmp" Description= "创建关系图，以帮助一个群体分析复杂形势下不同方面之间的联系。">
+  <Template Path = "./Basic Shape/arrow.edt" Name = "箭头形状"></Template>
+  <Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+  <Template Path = "./ERD and Database/Entity Relationship.edt" Name = "关系图"></Template>
+</Templates>
+
+<Templates NameU = "PERT Chart" Name = "PERT 图" Theme= "常用" Icon = "./project/pert.bmp" help= "create-pert-chart.php" Description= "创建用于项目和任务管理的PERT 图，时间线，工作分解结构，关键路线分析法，项目周期，目标设定，时间表和日程安排表等。">
+  <Template Path = "./Basic Shape/arrow.edt" Name = "箭头形状"></Template>
+  <Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+  <Template Path = "./Project/PERT Chart.edt" Name = "PERT 图表对象"></Template>
+</Templates>
+
+<Templates NameU = "Timeline" Name = "时间线" Theme= "扁平" Icon = "./project/timeline.bmp" Help = "how-to-draw-timeline.php" Description= "创建带里程碑和间隔标记的线形时间线。">
+  <Template Path = "./Basic Shape/arrow.edt" Name = "箭头形状"></Template>
+  <Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+  <Template Path = "./Basic Shape/Custom Timeline.edt" Name = "自定义时间线"></Template>  
+  <Template Path = "./Project/timeline.edt" Name = "时间线对象"></Template>
+</Templates>
+
+<Templates NameU = "Status Table" Name = "状态表" Theme= "常用" Icon = "./project/statustable.bmp" help="create-status-table.php" Description= "用于创建商业，团队，工程，流程或者技术的状态表。">
+	<Template Path = "./Project/Status Table.edt" Name = "状态表"></Template>
+</Templates>
+
+<Templates NameU = "Decision Tree" Name = "决策树" Theme= "扁平" Icon = "./project/decisiontree.bmp" Help = "create-decision-tree.php" Description= "帮助做出正确的选择、决策，来分析成本和规避风险。">
+  <Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+  <Template Path = "./Project/descisiontree.edt" Name = "决策树"></Template>
+</Templates>
+
+<Templates NameU = "Work Breakdown Structure (WBS)" Name = "工作分解结构(WBS)" Theme= "扁平" Icon = "./project/wbs.bmp" Help = "细分需要努力实现一个目标的细节，并帮助组织和定义项目的工作范围。">
+  <Template Path = "./Project/WBS.edt" Name = "工作分解结构形状"></Template>
+</Templates>
+</Gallery>
+
+<Gallery NameU = "Science" Name = "科学" Version = "1.0" help = "create-science-diagram.php" Description= "用内置的数学，化学和物理矢量符号，快速创建教育类文档和演示文稿。">
+<Templates NameU = "Mechanics" Name = "力学" Theme= "常用" Icon = "./science/mechanics.bmp" Description= "利用模板创建物理力学示意图。">
+  <Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+  <Template Path = "./Science/mechanics.edt" Name = "力学"></Template>
+</Templates>
+
+<Templates NameU = "Optics" Name = "光学" Theme= "常用" Icon = "./science/Optics.bmp" Description= "利用模板创建光学示意图。">
+  <Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+  <Template Path = "./Science/optics.edt" Name = "光学"></Template>
+</Templates>
+
+<Templates NameU = "Chemistry Equation" Name = "化学方程式" Theme= "常用" Icon = "./science/chemicalequation.bmp" Description= "利用模板创建化学方程式示意图。">
+  <Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+  <Template Path = "./Science/chemical equation.edt" Name = "化学方程式"></Template>
+</Templates>
+
+<Templates NameU = "Laboratory Equipment" Name = "实验室设备" Theme= "常用" Icon = "./science/laboratory.bmp" Description= "用现成的模板创建化学实验设备示意图。">
+  <Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+  <Template Path = "./Science/laboratory equipment.edt" Name = "实验室设备"></Template>
+</Templates>
+
+<Templates NameU = "Molecular Model" Name = "分子模型" Theme= "常用" Icon = "./science/atommodels.bmp" Description= "用现成的模板创建化学分子模型示意图。">
+  <Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+  <Template Path = "./Science/molecular model.edt" Name = "分子模型"></Template>
+	<Template Path = "./Science/ball and stick model.edt" Name = "球棍模型"></Template>
+</Templates>
+
+<Templates NameU = "Mathematics" Name = "数学" Theme= "常用" Icon = "./science/mathematics.bmp" Description= "用内置的平面或立体几何形状，三角函数，希腊字母形状创建数学科目示意图。">
+  <Template Path = "./Science/greek letter.edt" Name = "希腊字母"></Template>
+	<Template Path = "./Science/mathematical symbol.edt" Name = "数学符号"></Template>
+	<Template Path = "./Basic Shape/Dimensioning.edt" Name = "尺寸度量"></Template>
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "平面几何"></Template>
+	<Template Path = "./Basic Shape/3Dblock.edt" Name = "立体几何"></Template>
+</Templates>
+
+<Templates NameU = "Human Organs" Name = "人体器官" Theme= "常用" Icon = "./science/humanorgans.bmp" Description= "用现成的模板创建人体器官示意图。">
+  <Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+  <Template Path = "./Science/human organs.edt" Name = "人体器官"></Template>
+</Templates>
+
+<Templates NameU = "Cells" Name = "细胞" Theme= "常用" Icon = "./science/cells.bmp" Description= "用现成的模板创建细胞示意图。">
+  <Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+  <Template Path = "./Science/animal cells and virus cells.edt" Name = "动物细胞"></Template>
+	<Template Path = "./Science/plant Cell.edt" Name = "植物细胞"></Template>
+</Templates>
+
+<Templates NameU = "Astronomy" Name = "天文学" Theme= "常用" Icon = "./science/astronomy.bmp" Description= "用现成的模板创建天文学示意图。">
+  <Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+  <Template Path = "./Science/Astronomy.edt" Name = "天文学"></Template>
+</Templates>
+
+</Gallery>
+
+<Gallery NameU = "Software" Name = "软件" Version = "1.0" help = "design-software-diagram.php" Description= "创建UML图,Booch OOD,COM和OLE,数据流模型图,企业应用程序,jackbson用例图,ROOM,Shlaer-Mellor OOA图,程序结构图表,Nassi-Shneiderman图和SSADM图。">
+<Templates NameU = "UML Model Diagram" Name = "UML模型图" Theme="ENG" Icon = "./software/uml.bmp" Description= "包含特殊形状和设置包括UML符号以便于创建UML 模型和静态结构(类和对象)、用例、协作、序列、组件、部署、活动。">
+  <Template Path = "./Software/UML-Activity.edt" Name = "UML 活动图"></Template>
+  <Template Path = "./Software/UML-Class.edt" Name = "UML 类图"></Template>
+	<Template Path = "./Software/UML-Collaboration.edt" Name = "UML 协作图"></Template>
+	<Template Path = "./Software/UML-Component.edt" Name = "UML 组件图"></Template>
+	<Template Path = "./Software/UML-Deployment.edt" Name = "UML 部署图"></Template>
+	<Template Path = "./Software/UML-Sequence.edt" Name = "UML 顺序图"></Template>
+	<Template Path = "./Software/UML-Statechart.edt" Name = "UML 状态图"></Template>
+	<Template Path = "./Software/UML-UseCase.edt" Name = "UML 用例图"></Template>
+	<Template Path = "./Software/Relationship.edt" Name = "关系"></Template>
+</Templates>
+
+<Templates NameU = "Booch OOD" Name = "Booch OOD" Theme="ENG" Icon = "./software/Booch.bmp" Description= "包含特殊的形状，使得用Booch's ODD（面向对象的设计）符号能更快速地创建类图和对象图。">
+	<Template Path = "./Basic Shape/arrow.edt" Name = "箭头形状"></Template>
+  <Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+	<Template Path = "./Software/Booch OOD.edt" Name = "Booch OOD"></Template>
+</Templates>
+
+<Templates NameU = "COM and OLE" Name = "COM 和 OLE" Theme="ENG" Icon = "./software/comole.bmp" Description= "包含专用的符号和设置用于创建COM和OLE图或公共接口图,COM接口和OLE在面向对象的编程接口图。">
+	<Template Path = "./Basic Shape/arrow.edt" Name = "箭头形状"></Template>
+  <Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+	<Template Path = "./Software/COM and OLE.edt" Name = "COM and OLE"></Template>
+</Templates>
+
+<Templates NameU = "Data Flow Model Diagram" Theme="ENG" Name = "数据流模型图" Icon = "./software/datamodel.bmp" Description= "包含专用的形状和设置，便于使用Gane-Sarson（DFD)符号快速创建数据流图。">
+	<Template Path = "./Basic Shape/arrow.edt" Name = "箭头形状"></Template>
+  <Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+	<Template Path = "./Software/Data Flow Model.edt" Name = "数据流模型图"></Template>
+</Templates>
+
+<Templates NameU = "Enterprise Application" Name = "企业应用" Theme="ENG" Icon = "./software/enterprise-app.bmp" Description= "使用代表电脑,主机和架构层的形状创建企业架构图。">
+	<Template Path = "./Basic Shape/arrow.edt" Name = "箭头形状"></Template>
+  <Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+	<Template Path = "./Software/EnterpriseApplication.edt" Name = "企业应用"></Template>
+</Templates>
+
+<Templates NameU = "Jacobson Use Case" Name = "Jacobson 用例" Theme="ENG" Icon = "./software/jackbson.bmp" Description= "包含专用的符号用于创建 Jackson 用例图。">
+	<Template Path = "./Basic Shape/arrow.edt" Name = "箭头形状"></Template>
+  <Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+	<Template Path = "./Software/Jacobson Use Case.edt" Name = "Jacobson 用例"></Template>
+</Templates>
+
+<Templates NameU = "Jackson" Name = "Jackson" Theme="ENG" Icon = "./software/jackson.bmp" Description= "使用Jackson 方法论为程序设计创建数据结构图。">
+	<Template Path = "./Basic Shape/arrow.edt" Name = "箭头形状"></Template>
+  <Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+	<Template Path = "./Software/Jackson.edt" Name = "Jackson"></Template>
+</Templates>
+
+<Templates NameU = "Program Flowchart" Name = "程序流程图" Theme="ENG" Icon = "./software/program.bmp" help = "create-process-flowchart.php" Description= "创建基本程序流程图。">
+	<Template Path = "./Basic Shape/arrow.edt" Name = "箭头形状"></Template>
+  <Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+	<Template Path = "./Software/Program Flowchart.edt" Name = "程序流程图形状"></Template>
+</Templates>
+
+<Templates NameU = "Program Structure" Name = "程序结构" Theme="ENG" Icon = "./software/ProgramStructure.bmp" Description= "创建结构图，流程图和内存图。">
+	<Template Path = "./Basic Shape/arrow.edt" Name = "箭头形状"></Template>
+  <Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+	<Template Path = "./Software/Language Level Shapes.edt" Name = "语言级别形状"></Template>
+	<Template Path = "./Software/Memory Objects.edt" Name = "内存对象"></Template>
+</Templates>
+
+<Templates NameU = "Nassi-Shneiderman" Name = "NS盒图" Theme="ENG" Icon = "./software/Nassi.bmp" Description= "包含专用的符号用于创建 Nassi Shneiderman 图。">
+	<Template Path = "./Basic Shape/arrow.edt" Name = "箭头形状"></Template>
+  <Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+	<Template Path = "./Software/Nassi-Shneiderman.edt" Name = "Nassi-Shneiderman"></Template>
+</Templates>
+
+<Templates NameU = "ROOM" Name = "ROOM" Theme="ENG" Icon = "./software/ROOM.BMP" Description= "使用ROOM表示法基于适时性、动态内部结构、反应性和分布来对实时系统建模。">
+	<Template Path = "./Basic Shape/arrow.edt" Name = "箭头形状"></Template>
+  <Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+	<Template Path = "./Software/ROOM.edt" Name = "ROOM"></Template>
+</Templates>
+
+<Templates NameU = "Shlaer-Mellor OOA" Name = "Shlaer-Mellor OOA" Theme="ENG" Icon = "./software/shlaer.bmp" Description= "包含专用的内置符号用于创建 Shlaer-Mellor OOA 图。">
+	<Template Path = "./Basic Shape/arrow.edt" Name = "箭头形状"></Template>
+  <Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+	<Template Path = "./Software/Shlaer-Mellor OOA.edt" Name = "Shlaer-Mellor OOA"></Template>
+</Templates>
+
+<Templates NameU = "SSADM" Name = "SSADM" Theme="ENG" Icon = "./software/SSADM.BMP" Description= "包含专用的符号用于创建 SSADM 图。SSADM代表结构化系统分析和设计方法。">
+	<Template Path = "./Basic Shape/arrow.edt" Name = "箭头形状"></Template>
+  <Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+	<Template Path = "./Software/SSADM.edt" Name = "SSADM"></Template>
+</Templates>
+
+<Templates NameU = "Yourdon and Coad" Name = "Yourdon 和 Coad" Theme="ENG" Icon = "./software/yourdon.bmp" Description= "包含专用的符号用于创建 Yourdon 和 Coad 图。">
+	<Template Path = "./Basic Shape/arrow.edt" Name = "箭头形状"></Template>
+  <Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+	<Template Path = "./Software/Yourdon and Coad.edt" Name = "Yourdon and Coad"></Template>
+</Templates>
+</Gallery>
+
+<Gallery NameU = "Wireframe" Name = "线框图" Version = "1.0" help = "create-wireframes.php" Description= "包含专用的符号用于创建线框图。">
+<Templates NameU = "iPhone UI" Name = "iPhone UI" Theme= "常用" Icon = "./wireframe/iPhone.bmp" Description= "用于创建iphone UI线框图。">
+  <Template Path = "./Wireframe/IOS 6 UI.edt" Name = "IOS 6 UI"></Template>
+  <Template Path = "./Wireframe/IOS 7 UI.edt" Name = "IOS 7 UI"></Template>
+  <Template Path = "./Wireframe/IOS 8 UI.edt" Name = "IOS 8 UI"></Template>
+  <Template Path = "./Wireframe/Vector Icons.edt" Name = "矢量图标"></Template>
+  <Template Path = "./Wireframe/Touch Gesture.edt" Name = "触摸手势"></Template>
+</Templates>
+
+<Templates NameU = "iPad UI" Name = "iPad UI" Theme= "常用" Icon = "./wireframe/iPad.bmp" Description= "用于创建iPad UI线框图。">
+  <Template Path = "./Wireframe/iPhone UI.edt" Name = "iPhone UI"></Template>
+  <Template Path = "./Wireframe/Vector Icons.edt" Name = "矢量图标"></Template>
+  <Template Path = "./Wireframe/Touch Gesture.edt" Name = "触摸手势"></Template>
+</Templates>
+
+<Templates NameU = "Android UI" Name = "Android UI" Theme= "常用" Icon = "./wireframe/Android.bmp" Description= "用于创建Android UI线框图。">
+  <Template Path = "./Wireframe/Android UI.edt" Name = "Android UI"></Template>
+  <Template Path = "./Wireframe/Vector Icons.edt" Name = "矢量图标"></Template>
+  <Template Path = "./Wireframe/Touch Gesture.edt" Name = "触摸手势"></Template>
+</Templates>
+
+<Templates NameU = "Windows UI" Name = "Windows UI" Theme= "常用" Icon = "./wireframe/winui.bmp" Description= "用于创建Windows UI线框图。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+	<Template Path = "./Wireframe/Windows7UI.edt" Name = "Windows 7 UI"></Template>
+</Templates>
+
+<Templates NameU = "Web Site Wireframe" Name = "网站线框图" Theme= "常用" Icon = "./wireframe/wireframe.bmp" help = "create-wireframes.php" Description= "创建网站线框图。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+  <Template Path = "./Wireframe/Wireframe.edt" Name = "线框图"></Template>
+</Templates>
+
+<Templates NameU = "Conceptual Web Site" Name = "概念网络" Theme= "常用" Icon = "./wireframe/conceptual.bmp" help = "create-conceptual-website-diagram.php" Description= "设计概念图和高层体系结构的主页,网站,和超链接文档。">
+ 	<Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+  <Template Path = "./Wireframe/Conceptual Web Site.edt" Name = "概念网络"></Template>
+</Templates>
+
+<Templates NameU = "Web Site Map" Name = "网站图" Theme= "常用" Icon = "./wireframe/sitemap.bmp" Description= "在HTTP服务器上的网站,网络服务器和本地硬盘画网地图。">
+  <Template Path = "./Basic Shape/callouts.edt" Name = "标注"></Template>
+  <Template Path = "./Wireframe/Web Site Map.edt" Name = "网站图"></Template>
+</Templates>
+</Gallery>
+
+</Galleries>

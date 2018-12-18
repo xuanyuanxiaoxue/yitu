@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Resistors and Capacitors">
+    <Elem Prompt="电阻" Name="电阻" PromptU="Resistor" NameU="Resistor"/>
+    <Elem Prompt="交替电阻" Name="交替电阻" PromptU="Alternate resistor" NameU="Alternate resistor"/>
+    <Elem Prompt="可变电阻" Name="可变电阻" PromptU="Variable resistor" NameU="Variable resistor"/>
+    <Elem Prompt="预设电阻" Name="预设电阻" PromptU="Pre-set resistor" NameU="Pre-set resistor"/>
+    <Elem Prompt="电位计电阻" Name="电位计电阻" PromptU="Potentiometer resistor" NameU="Potentiometer resistor"/>
+    <Elem Prompt="电位计(微调)" Name="电位计(微调)" PromptU="Potentiometer (Trimmer)" NameU="Potentiometer (Trimmer)"/>
+    <Elem Prompt="电位计(微调) 2" Name="电位计(微调) 2" PromptU="Potentiometer (Trimmer) 2" NameU="Potentiometer (Trimmer) 2"/>
+    <Elem Prompt="电阻(可调触点)" Name="电阻(可调触点)" PromptU="Resistor (Adjustable contact)" NameU="Resistor (Adjustable contact)"/>
+    <Elem Prompt="Resistor (Shunt)" Name="电阻(分流器)" PromptU="Resistor (Shunt)" NameU="Resistor (Shunt)"/>
+    <Elem Prompt="变阻器(对称的)" Name="变阻器(对称的)" PromptU="Varistor (Symmetrical)" NameU="Varistor (Symmetrical)"/>
+    <Elem Prompt="电阻 (非线性的)" Name="电阻 (非线性的)" PromptU="Resistor (Nonlinear)" NameU="Resistor (Nonlinear)"/>
+    <Elem Prompt="电阻 (分接的)" Name="电阻 (分接的)" PromptU="Resistor (Tapped)" NameU="Resistor (Tapped)"/>
+    <Elem Prompt="记忆电阻" Name="记忆电阻" PromptU="Memristor" NameU="Memristor"/>
+    <Elem Prompt="记忆电阻 2" Name="记忆电阻 2" PromptU="Memristor 2" NameU="Memristor 2"/>
+    <Elem Prompt="磁动电阻器" Name="磁动电阻器" PromptU="Magnetoresistor" NameU="Magnetoresistor"/>
+    <Elem Prompt="光电传感器" Name="光电传感器" PromptU="Photoconductive transducer" NameU="Photoconductive transducer"/>
+    <Elem Prompt="电容器" Name="电容器" PromptU="Capacitors" NameU="Capacitors"/>
+    <Elem Prompt="电容器 2" Name="电容器 2" PromptU="Capacitors 2" NameU="Capacitors 2"/>
+    <Elem Prompt="电容器 3" Name="电容器 3" PromptU="Capacitor 3" NameU="Capacitor 3"/>
+    <Elem Prompt="电容器 4" Name="电容器 4" PromptU="Capacitor with step" NameU="Capacitor with step"/>
+    <Elem Prompt="电容器 5" Name="电容器 5" PromptU="Capacitor with tapping" NameU="Capacitor with tapping"/>
+    <Elem Prompt="电容器 6" Name="电容器 6" PromptU="Capacitor (US)" NameU="Capacitor (US)"/>
+    <Elem Prompt="电解电容器" Name="电解电容器" PromptU="Electrolytic capacitor (US)" NameU="Electrolytic capacitor (US)"/>
+    <Elem Prompt="电容器 7" Name="电容器 7" PromptU="Capacitor (UK)" NameU="Capacitor (UK)"/>
+    <Elem Prompt="电容器 8" Name="电容器 8" PromptU="Differential capacitor" NameU="Differential capacitor"/>
+    <Elem Prompt="调谐可变电容 1" Name="调谐可变电容 1" PromptU="Tuning variable capacitor (US)" NameU="Tuning variable capacitor (US)"/>
+    <Elem Prompt="调谐可变电容 1" Name="调谐可变电容 1" PromptU="Tuning variable capacitor (US)" NameU="Tuning variable capacitor (US)"/>
+    <Elem Prompt="微调可变电容器 1" Name="微调可变电容器 1" PromptU="Trimmer variable capacitor (US)" NameU="Trimmer variable capacitor (US)"/>
+    <Elem Prompt="微调可变电容器 2" Name="微调可变电容器 2" PromptU="Trimmer variable capacitor(US)" NameU="Trimmer variable capacitor(US)"/>
+    <Elem Prompt="穿心电容器" Name="穿心电容器" PromptU="Feed through capacitor" NameU="Feed through capacitor"/>
+    <Elem Prompt="联动电容器" Name="联动电容器" PromptU="Ganged capacitor" NameU="Ganged capacitor"/>
+    <Elem Prompt="多联电容器" Name="多联电容器" PromptU="Multiple capacitor" NameU="Multiple capacitor"/>
+    <Elem Prompt="Multiple electrolytic capacitor (Common negative)" Name="多电解电容器(负)" PromptU="Multiple electrolytic capacitor (Common negative)" NameU="Multiple electrolytic capacitor (Common negative)"/>
+    <Elem Prompt="Multiple electrolytic capacitor (Common positive)" Name="多电解电容器 (正)" PromptU="Multiple electrolytic capacitor (Common positive)" NameU="Multiple electrolytic capacitor (Common positive)"/>
+</Lib>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Equipment - Dryers">
+    <Elem Prompt="烘干机" Name="烘干机" PromptU="Dryer" NameU="Dryer"/>
+    <Elem Prompt="流化床干燥器" Name="流化床干燥器" PromptU="Fluidized bed dryer" NameU="Fluidized bed dryer"/>
+    <Elem Prompt="辊子输送机带式干燥器" Name="辊子输送机带式干燥器" PromptU="Roller conveyor belt dryer" NameU="Roller conveyor belt dryer"/>
+    <Elem Prompt="干燥箱" Name="干燥箱" PromptU="Drying oven" NameU="Drying oven"/>
+    <Elem Prompt="转鼓式烘干机" Name="转鼓式烘干机" PromptU="Rotary drum dryer" NameU="Rotary drum dryer"/>
+    <Elem Prompt="烘干机" Name="烘干机" PromptU="Drier" NameU="Drier"/>
+    <Elem Prompt="热力入口" Name="热力入口" PromptU="Heat consumer" NameU="Heat consumer"/>
+    <Elem Prompt="喷雾干燥剂" Name="喷雾干燥剂" PromptU="Spray dryer" NameU="Spray dryer"/>
+    <Elem Prompt="移动货架式干燥机" Name="移动货架式干燥机" PromptU="Moving shelf dryer" NameU="Moving shelf dryer"/>
+</Lib>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Computer Keys">
+    <Elem Prompt="电脑键盘" Name="电脑键盘" PromptU="Computer key" NameU="Computer key"/>
+    <Elem Prompt="0" Name="0" PromptU="0" NameU="0"/>
+    <Elem Prompt="1" Name="1" PromptU="1" NameU="1"/>
+    <Elem Prompt="2" Name="2" PromptU="2" NameU="2"/>
+    <Elem Prompt="3" Name="3" PromptU="3" NameU="3"/>
+    <Elem Prompt="4" Name="4" PromptU="4" NameU="4"/>
+    <Elem Prompt="5" Name="5" PromptU="5" NameU="5"/>
+    <Elem Prompt="6" Name="6" PromptU="6" NameU="6"/>
+    <Elem Prompt="7" Name="7" PromptU="7" NameU="7"/>
+    <Elem Prompt="8" Name="8" PromptU="8" NameU="8"/>
+    <Elem Prompt="9" Name="9" PromptU="9" NameU="9"/>
+    <Elem Prompt="A" Name="A" PromptU="A" NameU="A"/>
+    <Elem Prompt="B" Name="B" PromptU="B" NameU="B"/>
+    <Elem Prompt="C" Name="C" PromptU="C" NameU="C"/>
+    <Elem Prompt="D" Name="D" PromptU="D" NameU="D"/>
+    <Elem Prompt="E" Name="E" PromptU="E" NameU="E"/>
+    <Elem Prompt="F" Name="F" PromptU="F" NameU="F"/>
+    <Elem Prompt="G" Name="G" PromptU="G" NameU="G"/>
+    <Elem Prompt="H" Name="H" PromptU="H" NameU="H"/>
+    <Elem Prompt="I" Name="I" PromptU="I" NameU="I"/>
+    <Elem Prompt="J" Name="J" PromptU="J" NameU="J"/>
+    <Elem Prompt="K" Name="K" PromptU="K" NameU="K"/>
+    <Elem Prompt="L" Name="L" PromptU="L" NameU="L"/>
+    <Elem Prompt="M" Name="M" PromptU="M" NameU="M"/>
+    <Elem Prompt="N" Name="N" PromptU="N" NameU="N"/>
+    <Elem Prompt="O" Name="O" PromptU="O" NameU="O"/>
+    <Elem Prompt="P" Name="P" PromptU="P" NameU="P"/>
+    <Elem Prompt="Q" Name="Q" PromptU="Q" NameU="Q"/>
+    <Elem Prompt="R" Name="R" PromptU="R" NameU="R"/>
+    <Elem Prompt="S" Name="S" PromptU="S" NameU="S"/>
+    <Elem Prompt="T" Name="T" PromptU="T" NameU="T"/>
+    <Elem Prompt="U" Name="U" PromptU="U" NameU="U"/>
+    <Elem Prompt="V" Name="V" PromptU="V" NameU="V"/>
+    <Elem Prompt="W" Name="W" PromptU="W" NameU="W"/>
+    <Elem Prompt="X" Name="X" PromptU="X" NameU="X"/>
+    <Elem Prompt="Y" Name="Y" PromptU="Y" NameU="Y"/>
+    <Elem Prompt="Z" Name="Z" PromptU="Z" NameU="Z"/>
+    <Elem Prompt="向上箭头" Name="向上箭头" PromptU="Up arrow" NameU="Up arrow"/>
+    <Elem Prompt="向下箭头" Name="向下箭头" PromptU="Down arrow" NameU="Down arrow"/>
+    <Elem Prompt="左箭头" Name="左箭头" PromptU="Left arrow" NameU="Left arrow"/>
+    <Elem Prompt="右箭头" Name="右箭头" PromptU="Right arrow" NameU="Right arrow"/>
+    <Elem Prompt="F1" Name="F1" PromptU="F1" NameU="F1"/>
+    <Elem Prompt="F2" Name="F2" PromptU="F2" NameU="F2"/>
+    <Elem Prompt="F3" Name="F3" PromptU="F3" NameU="F3"/>
+    <Elem Prompt="F4" Name="F4" PromptU="F4" NameU="F4"/>
+    <Elem Prompt="F5" Name="F5" PromptU="F5" NameU="F5"/>
+    <Elem Prompt="F6" Name="F6" PromptU="F6" NameU="F6"/>
+    <Elem Prompt="F7" Name="F7" PromptU="F7" NameU="F7"/>
+    <Elem Prompt="F8" Name="F8" PromptU="F8" NameU="F8"/>
+    <Elem Prompt="F9" Name="F9" PromptU="F9" NameU="F9"/>
+    <Elem Prompt="F10" Name="F10" PromptU="F10" NameU="F10"/>
+    <Elem Prompt="F11" Name="F11" PromptU="F11" NameU="F11"/>
+    <Elem Prompt="F12" Name="F12" PromptU="F12" NameU="F12"/>
+    <Elem Prompt="Escape" Name="Escape" PromptU="Escape" NameU="Escape"/>
+    <Elem Prompt="Alternate" Name="Alternate" PromptU="Alternate" NameU="Alternate"/>
+    <Elem Prompt="Print Screen" Name="Print Screen" PromptU="Print Screen" NameU="Print Screen"/>
+    <Elem Prompt="Scroll Lock" Name="Scroll Lock" PromptU="Scroll Lock" NameU="Scroll Lock"/>
+    <Elem Prompt="Pause Break" Name="Pause Break" PromptU="Pause Break" NameU="Pause Break"/>
+    <Elem Prompt="Insert" Name="Insert" PromptU="Insert" NameU="Insert"/>
+    <Elem Prompt="Home" Name="Home" PromptU="Home" NameU="Home"/>
+    <Elem Prompt="Page" Name="Page" PromptU="Page" NameU="Page"/>
+    <Elem Prompt="Delete" Name="Delete" PromptU="Delete" NameU="Delete"/>
+    <Elem Prompt="End" Name="End" PromptU="End" NameU="End"/>
+    <Elem Prompt="Page Down" Name="Page Down" PromptU="Page Down" NameU="Page Down"/>
+    <Elem Prompt="Num Lock" Name="Num Lock" PromptU="Num Lock" NameU="Num Lock"/>
+    <Elem Prompt="Tab" Name="Tab" PromptU="Tab" NameU="Tab"/>
+    <Elem Prompt="Control" Name="Control" PromptU="Control" NameU="Control"/>
+    <Elem Prompt="Control 2" Name="Control 2" PromptU="Control 2" NameU="Control 2"/>
+    <Elem Prompt="Caps Lock" Name="Caps Lock" PromptU="Caps Lock" NameU="Caps Lock"/>
+    <Elem Prompt="Shift" Name="Shift" PromptU="Shift" NameU="Shift"/>
+    <Elem Prompt="Shift 2" Name="Shift 2" PromptU="Shift 2" NameU="Shift 2"/>
+    <Elem Prompt="Backspace" Name="Backspace" PromptU="Backspace" NameU="Backspace"/>
+    <Elem Prompt="鼠标右键" Name="鼠标右键" PromptU="Right mouse button" NameU="Right mouse button"/>
+    <Elem Prompt="Zero" Name="Zero" PromptU="Zero" NameU="Zero"/>
+    <Elem Prompt="~ 、" Name="~ 、" PromptU="~ 、" NameU="~ 、"/>
+    <Elem Prompt="_" Name="_" PromptU="_" NameU="_"/>
+    <Elem Prompt="+ =" Name="+ =" PromptU="+ =" NameU="+ ="/>
+    <Elem Prompt="{  [" Name="{  [" PromptU="{  [" NameU="{  ["/>
+    <Elem Prompt="}  ]" Name="}  ]" PromptU="}  ]" NameU="}  ]"/>
+    <Elem Prompt=":  ;" Name=":  ;" PromptU=":  ;" NameU=":  ;"/>
+    <Elem Prompt="&quot;  '" Name="&quot;  '" PromptU="&quot;  '" NameU="&quot;  '"/>
+    <Elem Prompt="&lt;  ," Name="&lt;  ," PromptU="&lt;  ," NameU="&lt;  ,"/>
+    <Elem Prompt=">  ." Name=">  ." PromptU=">  ." NameU=">  ."/>
+    <Elem Prompt="/" Name="/" PromptU="/" NameU="/"/>
+    <Elem Prompt="*" Name="*" PromptU="*" NameU="*"/>
+    <Elem Prompt="-" Name="-" PromptU="-" NameU="-"/>
+    <Elem Prompt="." Name="." PromptU="." NameU="."/>
+    <Elem Prompt="Win" Name="Win" PromptU="Win" NameU="Win"/>
+    <Elem Prompt="+" Name="+" PromptU="+" NameU="+"/>
+    <Elem Prompt="Enter" Name="Enter" PromptU="Enter" NameU="Enter"/>
+    <Elem Prompt="矩形空白键" Name="矩形空白键" PromptU="Rectangular blank key" NameU="Rectangular blank key"/>
+    <Elem Prompt="方形空白键" Name="方形空白键" PromptU="Square blank key" NameU="Square blank key"/>
+</Lib>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Organization Chart Shapes">
+    <Elem Prompt="职位" Name="职位" PromptU="Position" NameU="Position"/>
+</Lib>

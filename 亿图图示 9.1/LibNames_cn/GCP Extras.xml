@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="GCP Extras">
+    <Elem NameU="App-Engine" Name="应用程序" PromptU="App-Engine" Prompt="应用程序"/>
+    <Elem NameU="Blue Hexagon" Name="蓝色六角形" PromptU="Blue Hexagon" Prompt="蓝色六角形"/>
+    <Elem NameU="Cloud IoT Core" Name="云端IoT核心" PromptU="Cloud IoT Core" Prompt="云端IoT核心"/>
+    <Elem NameU="Cloud-Dataflow" Name="云端数据流" PromptU="Cloud-Dataflow" Prompt="云端数据流"/>
+    <Elem NameU="Cloud-Dataproc" Name="云端数据服务" PromptU="Cloud-Dataproc" Prompt="云端数据服务"/>
+    <Elem NameU="Compute-Engine" Name="计算程序" PromptU="Compute-Engine" Prompt="计算程序"/>
+    <Elem NameU="Container-Engine" Name="管理器程序" PromptU="Container-Engine" Prompt="管理器程序"/>
+    <Elem NameU="Forseti_lockup" Name="Forseti_加密" PromptU="Forseti_lockup" Prompt="Forseti_加密"/>
+    <Elem NameU="Forseti_logo" Name="Forseti_图标" PromptU="Forseti_logo" Prompt="Forseti_图标"/>
+    <Elem NameU="Generic GCP" Name="通用GCP" PromptU="Generic GCP" Prompt="通用GCP"/>
+    <Elem NameU="Google Cloud Platform" Name="谷歌云端平台" PromptU="Google Cloud Platform" Prompt="谷歌云端平台"/>
+    <Elem NameU="Google Cloud Platform_lockup" Name="谷歌云端平台加密" PromptU="Google Cloud Platform_lockup" Prompt="谷歌云端平台加密"/>
+    <Elem NameU="Kubernetes_logo" Name="Kubernetes_图标" PromptU="Kubernetes_logo" Prompt="Kubernetes_图标"/>
+    <Elem NameU="Kubernetes_name" Name="Kubernetes_软件名" PromptU="Kubernetes_name" Prompt="Kubernetes_软件名"/>
+    <Elem NameU="Modifiers_autoscaling" Name="修饰符自动缩放" PromptU="Modifiers_autoscaling" Prompt="修饰符自动缩放"/>
+    <Elem NameU="Modifiers_custom-virtual-machine" Name="修饰符虚拟自定义程序" PromptU="Modifiers_custom-virtual-machine" Prompt="修饰符虚拟自定义程序"/>
+    <Elem NameU="Modifiers_high-CPU-machine" Name="修饰符高级CPU程序" PromptU="Modifiers_high-CPU-machine" Prompt="修饰符高级CPU程序"/>
+    <Elem NameU="Modifiers_high-memory-machine" Name="修饰符高级记忆程序" PromptU="Modifiers_high-memory-machine" Prompt="修饰符高级记忆程序"/>
+    <Elem NameU="Modifiers_preemptable-vm" Name="修饰符可用vm" PromptU="Modifiers_preemptable-vm" Prompt="修饰符可用vm"/>
+    <Elem NameU="Modifiers_shared-core-machine-F1" Name="修饰符共享中心程序F1" PromptU="Modifiers_shared-core-machine-F1" Prompt="修饰符共享中心程序F1"/>
+    <Elem NameU="Modifiers_shared-core-machine-G1" Name="修饰符共享中心程序G1" PromptU="Modifiers_shared-core-machine-G1" Prompt="修饰符共享中心程序G1"/>
+    <Elem NameU="Modifiers_standard-machine" Name="修饰符标准程序" PromptU="Modifiers_standard-machine" Prompt="修饰符标准程序"/>
+    <Elem NameU="Modifiers_storage" Name="修饰符储存" PromptU="Modifiers_storage" Prompt="修饰符储存"/>
+    <Elem NameU="Prediction API" Name="谷歌软件Prediction API" PromptU="Prediction API" Prompt="谷歌软件Prediction API"/>
+    <Elem NameU="TensorFlow_logo" Name="TensorFlow_图标" PromptU="TensorFlow_logo" Prompt="TensorFlow_图标"/>
+</Lib>

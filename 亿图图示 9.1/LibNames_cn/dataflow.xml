@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Data Flow Diagram Shapes">
+    <Elem Prompt="数据进程" Name="数据进程" PromptU="Data process" NameU="Data process"/>
+    <Elem Prompt="从中心到中心" Name="从中心到中心" PromptU="Center to center" NameU="Center to center"/>
+    <Elem Prompt="多流程" Name="多流程" PromptU="Multiply process" NameU="Multiply process"/>
+    <Elem Prompt="中心环绕 1" Name="中心环绕 1" PromptU="Loop on center 1" NameU="Loop on center 1"/>
+    <Elem Prompt="中心环绕 2" Name="中心环绕 2" PromptU="Loop on center 2" NameU="Loop on center 2"/>
+    <Elem Prompt="直线连接线" Name="直线连接线" PromptU="Line Connector" NameU="Line Connector"/>
+    <Elem Prompt="状态" Name="状态" PromptU="State" NameU="State"/>
+    <Elem Prompt="起始状态" Name="起始状态" PromptU="Start state" NameU="Start state"/>
+    <Elem Prompt="终止状态" Name="终止状态" PromptU="Stop state 1" NameU="Stop state 1"/>
+    <Elem Prompt="多状态" Name="多状态" PromptU="Multi state" NameU="Multi state"/>
+    <Elem Prompt="外部交互方" Name="外部交互方" PromptU="External entity" NameU="External entity"/>
+    <Elem Prompt="特权边界" Name="特权边界" PromptU="Privilege boundary" NameU="Privilege boundary"/>
+    <Elem Prompt="数据存储" Name="数据存储" PromptU="Data store" NameU="Data store"/>
+    <Elem Prompt="终止状态 2" Name="终止状态 2" PromptU="Stop state 2" NameU="Stop state 2"/>
+    <Elem Prompt="实体关系" Name="实体关系" PromptU="Entity relationship" NameU="Entity relationship"/>
+    <Elem Prompt="对象标注" Name="对象标注" PromptU="Object callout" NameU="Object callout"/>
+    <Elem Prompt="实体 1" Name="实体 1" PromptU="Entity 1" NameU="Entity 1"/>
+    <Elem Prompt="实体 2" Name="实体 2" PromptU="Entity 2" NameU="Entity 2"/>
+    <Elem Prompt="对象" Name="对象" PromptU="Object" NameU="Object"/>
+    <Elem Prompt="椭圆形过程" Name="椭圆形过程" PromptU="Oval process" NameU="Oval process"/>
+    <Elem Prompt="椭圆形过程(偏移)" Name="椭圆形过程(偏移)" PromptU="Oval process (offset)" NameU="Oval process (offset)"/>
+    <Elem Prompt="直线/曲线连接线" Name="直线/曲线连接线" PromptU="Line curve connector" NameU="Line curve connector"/>
+    <Elem Prompt="动态连接线" Name="动态连接线" PromptU="Dynamic connector" NameU="Dynamic connector"/>
+</Lib>

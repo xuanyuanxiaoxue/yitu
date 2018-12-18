@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Arrow Shapes">
+    <Elem Prompt="圈内箭头 1" Name="圈内箭头 1" PromptU="Arrow Round 1" NameU="Arrow Round 1"/>
+    <Elem Prompt="圈内箭头 2" Name="圈内箭头 2" PromptU="Arrow Round 2" NameU="Arrow Round 2"/>
+    <Elem Prompt="圈内向前箭头" Name="圈内向前箭头" PromptU="Arrow Round Forward" NameU="Arrow Round Forward"/>
+    <Elem Prompt="圈内双箭头" Name="圈内双箭头" PromptU="Arrow Double Round" NameU="Arrow Double Round"/>
+    <Elem Prompt="圈内向北箭头" Name="圈内向北箭头" PromptU="North Arrow Round" NameU="North Arrow Round"/>
+    <Elem Prompt="圈内向后箭头" Name="圈内向后箭头" PromptU="Arrow Round Backward" NameU="Arrow Round Backward"/>
+    <Elem Prompt="圈内空心箭头" Name="圈内空心箭头" PromptU="Arrow Round Hollow" NameU="Arrow Round Hollow"/>
+    <Elem Prompt="圈内三角箭头" Name="圈内三角箭头" PromptU="Arrow Round Circle" NameU="Arrow Round Circle"/>
+    <Elem Prompt="圈内向上箭头" Name="圈内向上箭头" PromptU="Arrow Round Upward" NameU="Arrow Round Upward"/>
+    <Elem Prompt="圈内循环箭头" Name="圈内循环箭头" PromptU="Circular Round" NameU="Circular Round"/>
+    <Elem Prompt="圆底弧形箭头" Name="圆底弧形箭头" PromptU="Arched Round" NameU="Arched Round"/>
+    <Elem Prompt="向前箭头" Name="向前箭头" PromptU="Arrow Forward" NameU="Arrow Forward"/>
+    <Elem Prompt="向右箭头" Name="向右箭头" PromptU="Arrow Right" NameU="Arrow Right"/>
+    <Elem Prompt="向上箭头" Name="向上箭头" PromptU="Arrow Up" NameU="Arrow Up"/>
+    <Elem Prompt="向上箭头" Name="向上箭头" PromptU="Arrow Up" NameU="Arrow Up"/>
+    <Elem Prompt="向上箭头" Name="向上箭头" PromptU="Upwards Arrow" NameU="Upwards Arrow"/>
+    <Elem Prompt="双向箭头" Name="双向箭头" PromptU="Double Head Arrow" NameU="Double Head Arrow"/>
+    <Elem Prompt="左箭头" Name="左箭头" PromptU="Arrow Left" NameU="Arrow Left"/>
+    <Elem Prompt="向后箭头" Name="向后箭头" PromptU="Arrow Backward" NameU="Arrow Backward"/>
+    <Elem Prompt="向下箭头" Name="向下箭头" PromptU="Arrows Down" NameU="Arrows Down"/>
+    <Elem Prompt="向下箭头" Name="向下箭头" PromptU="Downward Arrow" NameU="Downward Arrow"/>
+    <Elem Prompt="向右单箭头" Name="向右单箭头" PromptU="Single Arrow Right" NameU="Single Arrow Right"/>
+    <Elem Prompt="向左单箭头" Name="向左单箭头" PromptU="Single Arrow Left" NameU="Single Arrow Left"/>
+    <Elem Prompt="向上单箭头" Name="向上单箭头" PromptU="Single Arrow Up" NameU="Single Arrow Up"/>
+    <Elem Prompt="向下单箭头" Name="向下单箭头" PromptU="Single Arrow Down" NameU="Single Arrow Down"/>
+    <Elem Prompt="臂章形箭头" Name="臂章形箭头" PromptU="Chevron Arrow" NameU="Chevron Arrow"/>
+    <Elem Prompt="西南向箭头" Name="西南向箭头" PromptU="Arrow South West" NameU="Arrow South West"/>
+    <Elem Prompt="东南向箭头" Name="东南向箭头" PromptU="Arrow South East" NameU="Arrow South East"/>
+    <Elem Prompt="西北向箭头" Name="西北向箭头" PromptU="Arrow North West" NameU="Arrow North West"/>
+    <Elem Prompt="东北向箭头" Name="东北向箭头" PromptU="Arrow North East" NameU="Arrow North East"/>
+    <Elem Prompt="向前双箭头" Name="向前双箭头" PromptU="Double Arrow Forward" NameU="Double Arrow Forward"/>
+    <Elem Prompt="向上双箭头" Name="向上双箭头" PromptU="Double Arrow Up" NameU="Double Arrow Up"/>
+    <Elem Prompt="向后双箭头" Name="向后双箭头" PromptU="Double Arrow Backward" NameU="Double Arrow Backward"/>
+    <Elem Prompt="向下双箭头" Name="向下双箭头" PromptU="Double Arrow Down" NameU="Double Arrow Down"/>
+    <Elem Prompt="向右弯曲箭头" Name="向右弯曲箭头" PromptU="Curved Arrow Right" NameU="Curved Arrow Right"/>
+    <Elem Prompt="向下弯曲箭头" Name="向下弯曲箭头" PromptU="Curved Arrow Down" NameU="Curved Arrow Down"/>
+    <Elem Prompt="向上弯曲箭头" Name="向上弯曲箭头" PromptU="Curved Arrow Up" NameU="Curved Arrow Up"/>
+    <Elem Prompt="长弯曲箭头" Name="长弯曲箭头" PromptU="Long Curved Arrow" NameU="Long Curved Arrow"/>
+    <Elem Prompt="返回箭头" Name="返回箭头" PromptU="Return Arrow" NameU="Return Arrow"/>
+    <Elem Prompt="向左曲线箭头" Name="向左曲线箭头" PromptU="Curved Arrow Left" NameU="Curved Arrow Left"/>
+    <Elem Prompt="拱形箭头" Name="拱形箭头" PromptU="Arch Arrow" NameU="Arch Arrow"/>
+    <Elem Prompt="短箭头" Name="短箭头" PromptU="Short Arch Arrow" NameU="Short Arch Arrow"/>
+    <Elem Prompt="弯曲风格化箭头" Name="弯曲风格化箭头" PromptU="Style Arrow Curved" NameU="Style Arrow Curved"/>
+    <Elem Prompt="弯曲风格化箭头 2" Name="弯曲风格化箭头 2" PromptU="Style Arrow Curved 2" NameU="Style Arrow Curved 2"/>
+    <Elem Prompt="右转箭头" Name="右转箭头" PromptU="Right-turn Arrow" NameU="Right-turn Arrow"/>
+    <Elem Prompt="左转箭头" Name="左转箭头" PromptU="Left-turn Arrow" NameU="Left-turn Arrow"/>
+    <Elem Prompt="上转箭头" Name="上转箭头" PromptU="Turn-up Arrow" NameU="Turn-up Arrow"/>
+    <Elem Prompt="双向箭头" Name="双向箭头" PromptU="Double-headed Arrow" NameU="Double-headed Arrow"/>
+    <Elem Prompt="垂直双向箭头" Name="垂直双向箭头" PromptU="Up Down Arrow" NameU="Up Down Arrow"/>
+    <Elem Prompt="垂直双向箭头" Name="垂直双向箭头" PromptU="Two-direction Arrow" NameU="Two-direction Arrow"/>
+    <Elem Prompt="交互箭头" Name="交互箭头" PromptU="Interaction Arrow" NameU="Interaction Arrow"/>
+    <Elem Prompt="U形箭头" Name="U形箭头" PromptU="U-Turn Arrow" NameU="U-Turn Arrow"/>
+    <Elem Prompt="顺时针圆箭头" Name="顺时针圆箭头" PromptU="Clockwise Circle Arrow" NameU="Clockwise Circle Arrow"/>
+    <Elem Prompt="循环箭头" Name="循环箭头" PromptU="Circular Arrow" NameU="Circular Arrow"/>
+    <Elem Prompt="动态循环箭头" Name="动态循环箭头" PromptU="Dynamic Circle Arrow" NameU="Dynamic Circle Arrow"/>
+    <Elem Prompt="循环箭头" Name="循环箭头" PromptU="Circle Arrow" NameU="Circle Arrow"/>
+    <Elem Prompt="双头曲线箭头" Name="双头曲线箭头" PromptU="Double-headed Curved Arrow" NameU="Double-headed Curved Arrow"/>
+    <Elem Prompt="循环双箭头" Name="循环双箭头" PromptU="Cycle  Arrow 2 Segments" NameU="Cycle Arrow 2 Segments"/>
+    <Elem Prompt="三段循环箭头" Name="三段循环箭头" PromptU="Circular Arrow 3 Segments" NameU="Circular Arrow 3 Segments"/>
+    <Elem Prompt="循环箭头" Name="循环箭头" PromptU="Cycle Arrow" NameU="Cycle Arrow"/>
+    <Elem Prompt="可回收利用箭头" Name="可回收利用箭头" PromptU="Recycle Arrow" NameU="Recycle Arrow"/>
+    <Elem Prompt="四向箭头 1" Name="四向箭头 1" PromptU="Four-headed Arrow 1" NameU="Four-headed Arrow 1"/>
+    <Elem Prompt="四向箭头 2" Name="四向箭头 2" PromptU="Four-headed Arrow 2" NameU="Four-headed Arrow 2"/>
+    <Elem Prompt="三向箭头" Name="三向箭头" PromptU="3-direction Arrow" NameU="3-direction Arrow"/>
+    <Elem Prompt="带方框的箭头" Name="带方框的箭头" PromptU="Single Arrow with Square" NameU="Single Arrow with Square"/>
+    <Elem Prompt="带方框双向箭头" Name="带方框双向箭头" PromptU="Arrow with Square" NameU="Arrow with Square"/>
+    <Elem Prompt="五角箭头" Name="五角箭头" PromptU="Pentagon Arrow" NameU="Pentagon Arrow"/>
+    <Elem Prompt="粗箭头" Name="粗箭头" PromptU="Fat Arrow" NameU="Fat Arrow"/>
+    <Elem Prompt="向上粗箭头" Name="向上粗箭头" PromptU="Fat Arrow Up" NameU="Fat Arrow Up"/>
+    <Elem Prompt="粗箭头 2" Name="粗箭头 2" PromptU="Fat Arrow 2" NameU="Fat Arrow 2"/>
+    <Elem Prompt="风格化箭头 1" Name="风格化箭头 1" PromptU="Style Arrow 1" NameU="Style Arrow 1"/>
+    <Elem Prompt="风格化箭头 2" Name="风格化箭头 2" PromptU="Style Arrow 2" NameU="Style Arrow 2"/>
+    <Elem Prompt="风格化箭头 3" Name="风格化箭头 3" PromptU="Style Arrow 3" NameU="Style Arrow 3"/>
+    <Elem Prompt="渐变色箭头" Name="渐变色箭头" PromptU="Arrow Gradient Color" NameU="Arrow Gradient Color"/>
+    <Elem Prompt="多个箭头" Name="多个箭头" PromptU="Multi Arrow" NameU="Multi Arrow"/>
+    <Elem Prompt="渐变多个箭头" Name="渐变多个箭头" PromptU="Multi Arrow Gradient" NameU="Multi Arrow Gradient"/>
+    <Elem Prompt="方底箭头" Name="方底箭头" PromptU="Arrow Square" NameU="Arrow Square"/>
+    <Elem Prompt="大头箭头" Name="大头箭头" PromptU="Big Head Arrow" NameU="Big Head Arrow"/>
+    <Elem Prompt="带空心圆圈的箭头" Name="带空心圆圈的箭头" PromptU="Arrow With Hollow Circle" NameU="Arrow With Hollow Circle"/>
+    <Elem Prompt="向下高光箭头" Name="向下高光箭头" PromptU="Highlight Arrow Down" NameU="Highlight Arrow Down"/>
+    <Elem Prompt="向上高光箭头" Name="向上高光箭头" PromptU="Highlight Arrow Up" NameU="Highlight Arrow Up"/>
+    <Elem Prompt="风格化弯曲箭头 4" Name="风格化弯曲箭头 4" PromptU="Style Arrow Curved 4" NameU="Style Arrow Curved 4"/>
+    <Elem Prompt="风格化弯曲箭头 3" Name="风格化弯曲箭头 3" PromptU="Style Arrow Curved 3" NameU="Style Arrow Curved 3"/>
+    <Elem Prompt="上升箭头" Name="上升箭头" PromptU="Arrow Moving Up" NameU="Arrow Moving Up"/>
+    <Elem Prompt="上涨箭头" Name="上涨箭头" PromptU="Arrow Move Up" NameU="Arrow Move Up"/>
+    <Elem Prompt="上移箭头" Name="上移箭头" PromptU="Arrow Going Up" NameU="Arrow Going Up"/>
+    <Elem Prompt="下降箭头" Name="下降箭头" PromptU="Arrow Moving Down" NameU="Arrow Moving Down"/>
+    <Elem Prompt="降低箭头" Name="降低箭头" PromptU="Arrow Move Down" NameU="Arrow Move Down"/>
+    <Elem Prompt="波浪形箭头" Name="波浪形箭头" PromptU="Wave Arrow" NameU="Wave Arrow"/>
+    <Elem Prompt="波浪形箭头 2" Name="波浪形箭头 2" PromptU="Wave Arrow 2" NameU="Wave Arrow 2"/>
+    <Elem Prompt="3D倾斜箭头" Name="3D倾斜箭头" PromptU="Arrow Vertical Moving" NameU="Arrow Vertical Moving"/>
+    <Elem Prompt="渐远箭头" Name="渐远箭头" PromptU="Arrow Moving Further" NameU="Arrow Moving Further"/>
+    <Elem Prompt="渐近箭头" Name="渐近箭头" PromptU="Arrow Moving Closer" NameU="Arrow Moving Closer"/>
+    <Elem Prompt="返回箭头" Name="返回箭头" PromptU="Arrow Moving Backward" NameU="Arrow Moving Backward"/>
+    <Elem Prompt="渐近箭头 2" Name="渐近箭头 2" PromptU="Arrow Moving Closer 2" NameU="Arrow Moving Closer 2"/>
+    <Elem Prompt="左移箭头" Name="左移箭头" PromptU="Arrow Moving Left" NameU="Arrow Moving Left"/>
+    <Elem Prompt="3D右转直立箭头" Name="3D右转直立箭头" PromptU="Verticle Arrow Right" NameU="Verticle Arrow Right"/>
+    <Elem Prompt="3D弯曲箭头" Name="3D弯曲箭头" PromptU="3D Curved Arrow" NameU="3D Curved Arrow"/>
+    <Elem Prompt="3D直箭头" Name="3D直箭头" PromptU="3D Straight Arrow" NameU="3D Straight Arrow"/>
+    <Elem Prompt="3D左转箭头" Name="3D左转箭头" PromptU="3d Arrow Going Left" NameU="3d Arrow Going Left"/>
+    <Elem Prompt="3D拱形箭头" Name="3D拱形箭头" PromptU="3D Arch Arrow" NameU="3D Arch Arrow"/>
+    <Elem Prompt="循环箭头（3D）" Name="循环箭头（3D）" PromptU="Cycle Arrow 3D" NameU="Cycle Arrow 3D"/>
+    <Elem Prompt="对立箭头" Name="对立箭头" PromptU="Head-to-head Arrow" NameU="Head-to-head Arrow"/>
+    <Elem Prompt="垂直双向箭头" Name="垂直双向箭头" PromptU="Two-direction Arrow" NameU="Two-direction Arrow"/>
+    <Elem Prompt="信息图箭头 1" Name="信息图箭头 1" PromptU="Infographic Arrow 1" NameU="Infographic Arrow 1"/>
+    <Elem Prompt="信息图箭头 2" Name="信息图箭头 2" PromptU="Infographic Arrow 2" NameU="Infographic Arrow 2"/>
+    <Elem Prompt="信息图箭头 3" Name="信息图箭头 3" PromptU="Infographic Arrow 3" NameU="Infographic Arrow 3"/>
+    <Elem Prompt="信息图箭头 4" Name="信息图箭头 4" PromptU="Infographic Arrow 4" NameU="Infographic Arrow 4"/>
+    <Elem Prompt="信息图箭头 5" Name="信息图箭头 5" PromptU="Infographic Arrow 5" NameU="Infographic Arrow 5"/>
+    <Elem Prompt="信息图箭头 6" Name="信息图箭头 6" PromptU="Infographic Arrow 6" NameU="Infographic Arrow 6"/>
+    <Elem Prompt="信息图箭头 7" Name="信息图箭头 7" PromptU="Infographic Arrow 7" NameU="Infographic Arrow 7"/>
+    <Elem Prompt="信息图箭头 8" Name="信息图箭头 8" PromptU="Infographic Arrow 8" NameU="Infographic Arrow 8"/>
+    <Elem Prompt="信息图箭头 9" Name="信息图箭头 9" PromptU="Infographic Arrow 9" NameU="Infographic Arrow 9"/>
+    <Elem Prompt="信息图箭头 10" Name="信息图箭头 10" PromptU="Infographic Arrow 10" NameU="Infographic Arrow 10"/>
+    <Elem Prompt="信息图箭头 11" Name="信息图箭头 11" PromptU="Infographic Arrow 11" NameU="Infographic Arrow 11"/>
+    <Elem Prompt="信息图箭头 12" Name="信息图箭头 12" PromptU="Infographic Arrow 12" NameU="Infographic Arrow 12"/>
+    <Elem Prompt="信息图箭头 13" Name="信息图箭头 13" PromptU="Infographic Arrow 13" NameU="Infographic Arrow 13"/>
+    <Elem Prompt="信息图箭头 14" Name="信息图箭头 14" PromptU="Infographic Arrow 14" NameU="Infographic Arrow 14"/>
+    <Elem Prompt="信息图箭头 16" Name="信息图箭头 16" PromptU="Infographic Arrow 16" NameU="Infographic Arrow 16"/>
+    <Elem Prompt="信息图箭头 17" Name="信息图箭头 17" PromptU="Infographic Arrow 17" NameU="Infographic Arrow 17"/>
+    <Elem Prompt="信息图箭头 18" Name="信息图箭头 18" PromptU="Infographic Arrow 18" NameU="Infographic Arrow 18"/>
+    <Elem Prompt="信息图箭头 19" Name="信息图箭头 19" PromptU="Infographic Arrow 19" NameU="Infographic Arrow 19"/>
+    <Elem Prompt="信息图箭头 20" Name="信息图箭头 20" PromptU="Infographic Arrow 20" NameU="Infographic Arrow 20"/>
+    <Elem Prompt="信息图箭头 21" Name="信息图箭头 21" PromptU="Infographic Arrow 21" NameU="Infographic Arrow 21"/>
+    <Elem Prompt="信息图箭头 22" Name="信息图箭头 22" PromptU="Infographic Arrow 22" NameU="Infographic Arrow 22"/>
+    <Elem Prompt="信息图箭头 23" Name="信息图箭头 23" PromptU="Infographic Arrow 23" NameU="Infographic Arrow 23"/>
+    <Elem Prompt="信息图箭头 24" Name="信息图箭头 24" PromptU="Infographic Arrow 24" NameU="Infographic Arrow 24"/>
+    <Elem Prompt="信息图箭头 25" Name="信息图箭头 25" PromptU="Infographic Arrow 25" NameU="Infographic Arrow 25"/>
+    <Elem Prompt="信息图箭头 26" Name="信息图箭头 26" PromptU="Infographic Arrow 26" NameU="Infographic Arrow 26"/>
+    <Elem Prompt="信息图箭头 27" Name="信息图箭头 27" PromptU="Infographic Arrow 27" NameU="Infographic Arrow 27"/>
+    <Elem Prompt="信息图箭头 28" Name="信息图箭头 28" PromptU="Infographic Arrow 28" NameU="Infographic Arrow 28"/>
+    <Elem Prompt="信息图箭头 29" Name="信息图箭头 29" PromptU="Infographic Arrow 29" NameU="Infographic Arrow 29"/>
+    <Elem Prompt="信息图箭头 30" Name="信息图箭头 30" PromptU="Infographic Arrow 30" NameU="Infographic Arrow 30"/>
+    <Elem Prompt="信息图箭头 31" Name="信息图箭头 31" PromptU="Infographic Arrow 31" NameU="Infographic Arrow 31"/>
+    <Elem Prompt="信息图箭头 32" Name="信息图箭头 32" PromptU="Infographic Arrow 32" NameU="Infographic Arrow 32"/>
+    <Elem Prompt="信息图箭头 33" Name="信息图箭头 33" PromptU="Infographic Arrow 33" NameU="Infographic Arrow 33"/>
+</Lib>

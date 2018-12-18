@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Forms">
+    <Elem Prompt="H1 标题" Name="H1 标题" PromptU="H1 Header" NameU="H1 Header"/>
+    <Elem Prompt="H2 标题" Name="H2 标题" PromptU="H2 Header" NameU="H2 Header"/>
+    <Elem Prompt="H3 标题" Name="H3 标题" PromptU="H3 Header" NameU="H3 Header"/>
+    <Elem Prompt="12号标签" Name="12号标签" PromptU="12pt Label" NameU="12pt Label"/>
+    <Elem Prompt="10号标签" Name="10号标签" PromptU="10pt Label" NameU="10pt Label"/>
+    <Elem Prompt="9号标签" Name="9p号标签" PromptU="9pt Label" NameU="9pt Label"/>
+    <Elem Prompt="12号超链接文本" Name="12号超链接文本" PromptU="12pt Link" NameU="12pt Link"/>
+    <Elem Prompt="10号超链接文本" Name="10号超链接文本" PromptU="10pt Link" NameU="10pt Link"/>
+    <Elem Prompt="9号超链接文本" Name="9号超链接文本" PromptU="9pt Link" NameU="9pt Link"/>
+    <Elem Prompt="基本表格" Name="基本表格" PromptU="Basic Table" NameU="Basic Table"/>
+    <Elem Prompt="有标题的表格" Name="有标题的表格" PromptU="Title table" NameU="Title table"/>
+    <Elem Prompt="公司地址" Name="公司地址" PromptU="Company Address" NameU="Company Address"/>
+    <Elem Prompt="商业地址" Name="商业地址" PromptU="Primary Business Address" NameU="Primary Business Address"/>
+    <Elem Prompt="联系信息" Name="联系信息" PromptU="Contact Information" NameU="Contact Information"/>
+    <Elem Prompt="标志" Name="标志" PromptU="Logo Placeholder" NameU="Logo Placeholder"/>
+    <Elem Prompt="账单地址" Name="账单地址" PromptU="Billing Address" NameU="Billing Address"/>
+    <Elem Prompt="信息条" Name="信息条" PromptU="Information Bar" NameU="Information Bar"/>
+    <Elem Prompt="报价单" Name="报价单" PromptU="Quotation" NameU="Quotation"/>
+    <Elem Prompt="产品，价格及描述" Name="产品，价格及描述" PromptU="Product, Price, Description" NameU="Product, Price, Description"/>
+    <Elem Prompt="统计" Name="统计" PromptU="Statistics" NameU="Statistics"/>
+    <Elem Prompt="信息框" Name="信息框" PromptU="Information Box" NameU="Information Box"/>
+    <Elem Prompt="信息线条" Name="信息线条" PromptU="Information Line" NameU="Information Line"/>
+    <Elem Prompt="信息线条2" Name="信息线条2" PromptU="Information Line 2" NameU="Information Line 2"/>
+    <Elem Prompt="签名和日期" Name="签名和日期" PromptU="Signature Line with Date" NameU="Signature Line with Date"/>
+    <Elem Prompt="签名栏" Name="签名栏" PromptU="Signature Line" NameU="Signature Line"/>
+    <Elem Prompt="签名栏" Name="签名栏" PromptU="Simple Signature Block" NameU="Simple Signature Block"/>
+    <Elem Prompt="标注" Name="标注" PromptU="Comments" NameU="Comments"/>
+    <Elem Prompt="标注2" Name="标注2" PromptU="Comments 2" NameU="Comments 2"/>
+    <Elem Prompt="名字和标题" Name="名字和标题" PromptU="Name + Title" NameU="Name + Title"/>
+    <Elem Prompt="详细签名" Name="详细签名" PromptU="Detail Signature Block" NameU="Detail Signature Block"/>
+    <Elem Prompt="详细签名框2" Name="详细签名框2" PromptU="Detail Signature Block 2" NameU="Detail Signature Block 2"/>
+    <Elem Prompt="详细签名框3" Name="详细签名框3" PromptU="Detail Signature Block 3" NameU="Detail Signature Block 3"/>
+    <Elem Prompt="选择框" Name="选择框" PromptU="Check Box" NameU="Check Box"/>
+    <Elem Prompt="单选按钮" Name="单选按钮" PromptU="Radio Button" NameU="Radio Button"/>
+    <Elem Prompt="文本块" Name="文本块" PromptU="Text Block" NameU="Text Block"/>
+    <Elem Prompt="水平直线" Name="水平直线" PromptU="Horizontal Line" NameU="Horizontal Line"/>
+    <Elem Prompt="垂直直线" Name="垂直直线" PromptU="Vertical Line" NameU="Vertical Line"/>
+</Lib>

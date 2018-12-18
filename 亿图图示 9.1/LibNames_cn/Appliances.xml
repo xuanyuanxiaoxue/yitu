@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Appliances">
+    <Elem Prompt="吊灯" Name="吊灯" PromptU="Pendant lamp " NameU="Pendant lamp "/>
+    <Elem Prompt="LED" Name="LED" PromptU="LED" NameU="LED"/>
+    <Elem Prompt="落地灯" Name="落地灯" PromptU="Floor lamp" NameU="Floor lamp"/>
+    <Elem Prompt="壁灯" Name="壁灯" PromptU="Wall lamp" NameU="Wall lamp"/>
+    <Elem Prompt="聚光灯" Name="聚光灯" PromptU="Spotlight" NameU="Spotlight"/>
+    <Elem Prompt="日光灯" Name="日光灯" PromptU="Tube light" NameU="Tube light"/>
+    <Elem Prompt="LED投光灯" Name="LED投光灯" PromptU="LED downlight" NameU="LED downlight"/>
+    <Elem Prompt="浴霸" Name="浴霸" PromptU="Shower lamp" NameU="Shower lamp"/>
+    <Elem Prompt="风扇" Name="风扇" PromptU="Fan" NameU="Fan"/>
+    <Elem Prompt="排气扇" Name="排气扇" PromptU="Air exhaust fan" NameU="Air exhaust fan"/>
+    <Elem Prompt="燃气灶具" Name="燃气灶具" PromptU="Gas stoves" NameU="Gas stoves"/>
+    <Elem Prompt="燃气灶具 2" Name="燃气灶具 2" PromptU="Gas Stoves 2" NameU="Gas Stoves 2"/>
+    <Elem Prompt="冰箱" Name="冰箱" PromptU="Refrg" NameU="Refrg"/>
+    <Elem Prompt="双门冰箱" Name="双门冰箱" PromptU="Refrg. 2" NameU="Refrg. 2"/>
+    <Elem Prompt="冰柜" Name="冰柜" PromptU="Chest freezer" NameU="Chest freezer"/>
+    <Elem Prompt="炊具" Name="炊具" PromptU="Cooker" NameU="Cooker"/>
+    <Elem Prompt="炉灶" Name="炉灶" PromptU="Range" NameU="Range"/>
+    <Elem Prompt="微波炉" Name="微波炉" PromptU="Microwave" NameU="Microwave"/>
+    <Elem Prompt="洗碗机" Name="洗碗机" PromptU="Dishwasher" NameU="Dishwasher"/>
+    <Elem Prompt="洗衣机" Name="洗衣机" PromptU="Washing machine" NameU="Washing machine"/>
+    <Elem Prompt="饮水机" Name="饮水机" PromptU="Water cooler" NameU="Water cooler"/>
+    <Elem Prompt="烤箱" Name="烤箱" PromptU="Oven" NameU="Oven"/>
+    <Elem Prompt="滚筒烘衣机" Name="滚筒烘衣机" PromptU="Tumble dryer" NameU="Tumble dryer"/>
+    <Elem Prompt="咖啡壶" Name="咖啡壶" PromptU="Coffee maker" NameU="Coffee maker"/>
+    <Elem Prompt="消毒柜" Name="消毒柜" PromptU="Disinfection cabinet" NameU="Disinfection cabinet"/>
+    <Elem Prompt="平板电视" Name="平板电视" PromptU="Flat-panel TV" NameU="Flat-panel TV"/>
+    <Elem Prompt="电话" Name="电话" PromptU="Telephone" NameU="Telephone"/>
+    <Elem Prompt="键盘" Name="键盘" PromptU="Keyboard" NameU="Keyboard"/>
+    <Elem Prompt="电子游戏机" Name="电子游戏机" PromptU="Video game" NameU="Video game"/>
+    <Elem Prompt="食品冷冻柜" Name="食品冷冻柜" PromptU="Food cooler" NameU="Food cooler"/>
+    <Elem Prompt="自动售货机" Name="自动售货机" PromptU="Vending machine" NameU="Vending machine"/>
+    <Elem Prompt="热水器" Name="热水器" PromptU="Water heater" NameU="Water heater"/>
+</Lib>

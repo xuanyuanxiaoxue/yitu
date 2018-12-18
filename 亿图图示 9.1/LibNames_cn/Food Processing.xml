@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Food Processing">
+    <Elem Prompt="批处理流化床处理器" Name="批处理流化床处理器" PromptU="Batch fluid bed processor" NameU="Batch fluid bed processor"/>
+    <Elem Prompt="啤酒瓶" Name="啤酒瓶" PromptU="Beer bottle" NameU="Beer bottle"/>
+    <Elem Prompt="啤酒罐" Name="啤酒罐" PromptU="Beer can" NameU="Beer can"/>
+    <Elem Prompt="胶体磨" Name="胶体磨" PromptU="Colloid mill" NameU="Colloid mill"/>
+    <Elem Prompt="浓缩物分配器" Name="浓缩物分配器" PromptU="Concentrate dispenser" NameU="Concentrate dispenser"/>
+    <Elem Prompt="交叉带分隔符" Name="交叉带分隔符" PromptU="Cross belt separator" NameU="Cross belt separator"/>
+    <Elem Prompt="鼓形磁铁" Name="鼓形磁铁" PromptU="Drum magnet" NameU="Drum magnet"/>
+    <Elem Prompt="发酵" Name="发酵" PromptU="Fermentation" NameU="Fermentation"/>
+    <Elem Prompt="过滤系统" Name="过滤系统" PromptU="Filter system" NameU="Filter system"/>
+    <Elem Prompt="食品加工" Name="食品加工" PromptU="Food processing" NameU="Food processing"/>
+    <Elem Prompt="谷粮仓 1" Name="谷粮仓 1" PromptU="Grain silo 1" NameU="Grain silo 1"/>
+    <Elem Prompt="谷粮仓 2" Name="谷粮仓 2" PromptU="Grain silo 2" NameU="Grain silo 2"/>
+    <Elem Prompt="内联搅拌机乳化器" Name="内联搅拌机乳化器" PromptU="Inline mixer emulsifier" NameU="Inline mixer emulsifier"/>
+    <Elem Prompt="浆料除铁器" Name="浆料除铁器" PromptU="Magnetic liquid trap" NameU="Magnetic liquid trap"/>
+    <Elem Prompt="微流量计" Name="微流量计" PromptU="Micro flowmeter" NameU="Micro flowmeter"/>
+    <Elem Prompt="奶瓶用纸板" Name="奶瓶用纸板" PromptU="Milk carton" NameU="Milk carton"/>
+    <Elem Prompt="搅拌器" Name="搅拌器" PromptU="Mixer" NameU="Mixer"/>
+    <Elem Prompt="混台漏斗" Name="混台漏斗" PromptU="Mixing hopper" NameU="Mixing hopper"/>
+    <Elem Prompt="制氮机" Name="制氮机" PromptU="Nitrogen generator" NameU="Nitrogen generator"/>
+    <Elem Prompt="固化炉系统" Name="固化炉系统" PromptU="Oven system" NameU="Oven system"/>
+    <Elem Prompt="粉液搅拌机" Name="粉液搅拌机" PromptU="Power and liquid mixer" NameU="Power and liquid mixer"/>
+    <Elem Prompt="清洁空气过滤器" Name="清洁空气过滤器" PromptU="Sanitary air filter" NameU="Sanitary air filter"/>
+    <Elem Prompt="卫生加热器" Name="卫生加热器" PromptU="Sanitary heater" NameU="Sanitary heater"/>
+    <Elem Prompt="卫生内联混合器" Name="卫生内联混合器" PromptU="Sanitary inline mixer" NameU="Sanitary inline mixer"/>
+    <Elem Prompt="卫生输送泵" Name="卫生输送泵" PromptU="Sanitary transfer pump" NameU="Sanitary transfer pump"/>
+    <Elem Prompt="筛选机" Name="筛选机" PromptU="Screen separator" NameU="Screen separator"/>
+    <Elem Prompt="分离器" Name="分离器" PromptU="Separator" NameU="Separator"/>
+    <Elem Prompt="壳管换热器" Name="壳管换热器" PromptU="Shell and tube heat transfer" NameU="Shell and tube heat transfer"/>
+    <Elem Prompt="不锈钢搅拌机 (关)" Name="不锈钢搅拌机 (关)" PromptU="Stainless steel blender (closed)" NameU="Stainless steel blender (closed)"/>
+    <Elem Prompt="不锈钢搅拌机（开）" Name="不锈钢搅拌机（开）" PromptU="Stainless steel blender（open）" NameU="Stainless steel blender（open）"/>
+    <Elem Prompt="不锈钢料斗" Name="不锈钢料斗" PromptU="Stainless steel hopper" NameU="Stainless steel hopper"/>
+    <Elem Prompt="不锈钢减速机 1" Name="不锈钢减速机 1" PromptU="Stainless steel speed reducer1" NameU="Stainless steel speed reducer1"/>
+    <Elem Prompt="不锈钢减速机 2" Name="不锈钢减速机 2" PromptU="Stainless steel speed reducer2" NameU="Stainless steel speed reducer2"/>
+    <Elem Prompt="标准丝带搅拌机" Name="标准丝带搅拌机" PromptU="Standard ribbon  mixer" NameU="Standard ribbon  mixer"/>
+    <Elem Prompt="托盘封口机" Name="托盘封口机" PromptU="Tray sealer" NameU="Tray sealer"/>
+    <Elem Prompt="管传热器中的管" Name="管传热器中的管" PromptU="Tube in tube heat transfer" NameU="Tube in tube heat transfer"/>
+    <Elem Prompt="涡轮乳化剂" Name="涡轮乳化剂" PromptU="Turbo emulsifier " NameU="Turbo emulsifier "/>
+    <Elem Prompt="真空搅拌混合机" Name="真空搅拌混合机" PromptU="Vacuum mixer blender" NameU="Vacuum mixer blender"/>
+    <Elem Prompt="真空填充机" Name="真空填充机" PromptU="Vacuum stuffer" NameU="Vacuum stuffer"/>
+    <Elem Prompt="真空系统" Name="真空系统" PromptU="Vacuum system" NameU="Vacuum system"/>
+    <Elem Prompt="立式搅拌机" Name="立式搅拌机" PromptU="Vertical blender" NameU="Vertical blender"/>
+    <Elem Prompt="粘度计" Name="粘度计" PromptU="Viscosity meter" NameU="Viscosity meter"/>
+    <Elem Prompt="超细大豆处理系统" Name="超细大豆处理系统" PromptU="Superfine soybean processing system" NameU="Superfine soybean processing system"/>
+    <Elem Prompt="淬火和回火系统" Name="淬火和回火系统" PromptU="Hardening and Tempering System" NameU="Hardening and Tempering System"/>
+    <Elem Prompt="细颈瓶" Name="细颈瓶" PromptU="Lagena" NameU="Lagena"/>
+    <Elem Prompt="细颈瓶" Name="细颈瓶" PromptU="Lagena" NameU="Lagena"/>
+    <Elem Prompt="过滤装置" Name="过滤装置" PromptU="Filter unit" NameU="Filter unit"/>
+</Lib>

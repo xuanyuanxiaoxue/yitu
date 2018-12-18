@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Five Forces Shapes">
+    <Elem Prompt="基本五力图" Name="基本五力图" PromptU="Basic 5 Force" NameU="Basic 5 Force"/>
+    <Elem Prompt="基本五力图" Name="基本五力图 2" PromptU="Basic 5 Force" NameU="Basic 5 Force 2"/>
+    <Elem Prompt="五力图" Name="五力图" PromptU="5 Force" NameU="5 Force"/>
+    <Elem Prompt="五力图" Name="5 五力图 2" PromptU="5 Force" NameU="5 Force 2"/>
+    <Elem Prompt="五力图" Name="5 五力图 3" PromptU="5 Force" NameU="5 Force 3"/>
+    <Elem Prompt="五力图" Name="5 五力图 4" PromptU="5 Force" NameU="5 Force 4"/>
+    <Elem Prompt="五力图" Name="5 五力图 5" PromptU="5 Force" NameU="5 Force 5"/>
+    <Elem Prompt="五力图" Name="5 五力图 6" PromptU="5 Force" NameU="5 Force 6"/>
+    <Elem Prompt="五力图" Name="5 五力图 7" PromptU="5 Force" NameU="5 Force 7"/>
+    <Elem Prompt="五力图" Name="5 五力图 8" PromptU="5 Force" NameU="5 Force 8"/>
+    <Elem Prompt="五力图" Name="5 五力图 9" PromptU="5 Force" NameU="5 Force 9"/>
+    <Elem Prompt="五力图" Name="5 五力图 10" PromptU="5 Force" NameU="5 Force 10"/>
+    <Elem Prompt="箭头" Name="箭头" PromptU="Arrow" NameU="Arrow"/>
+    <Elem Prompt="箭头" Name="箭头 2" PromptU="Arrow" NameU="Arrow 2"/>
+</Lib>

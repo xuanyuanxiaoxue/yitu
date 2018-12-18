@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Man Suit">
+    <Elem Prompt="男士套装 1" Name="男士套装 1" PromptU="Man dress 1" NameU="Man dress 1"/>
+    <Elem Prompt="男士套装 2" Name="男士套装 2" PromptU="Man dress 2" NameU="Man dress 2"/>
+    <Elem Prompt="男士套装 3" Name="男士套装 3" PromptU="Man dress 3" NameU="Man dress 3"/>
+    <Elem Prompt="男士套装 4" Name="男士套装 4" PromptU="Man dress 4" NameU="Man dress 4"/>
+    <Elem Prompt="男士套装 5" Name="男士套装 5" PromptU="Man dress 5" NameU="Man dress 5"/>
+    <Elem Prompt="男士套装 6" Name="男士套装 6" PromptU="Man dress 6" NameU="Man dress 6"/>
+    <Elem Prompt="男士套装 7" Name="男士套装 7" PromptU="Man dress 7" NameU="Man dress 7"/>
+    <Elem Prompt="男士套装 8" Name="男士套装 8" PromptU="Man dress 8" NameU="Man dress 8"/>
+    <Elem Prompt="男士套装 9" Name="男士套装 9" PromptU="Man dress 9" NameU="Man dress 9"/>
+    <Elem Prompt="男士套装 10" Name="男士套装 10" PromptU="Man dress 10" NameU="Man dress 10"/>
+    <Elem Prompt="男士套装 11" Name="男士套装 11" PromptU="Man dress 11" NameU="Man dress 11"/>
+    <Elem Prompt="男士套装 12" Name="男士套装 12" PromptU="Man dress 12" NameU="Man dress 12"/>
+    <Elem Prompt="男士套装 13" Name="男士套装 13" PromptU="Man dress 13" NameU="Man dress 13"/>
+    <Elem Prompt="男士套装 14" Name="男士套装 14" PromptU="Man dress 14" NameU="Man dress 14"/>
+    <Elem Prompt="男士套装 15" Name="男士套装 15" PromptU="Man dress 15" NameU="Man dress 15"/>
+    <Elem Prompt="男士套装 16" Name="男士套装 16" PromptU="Man dress 16" NameU="Man dress 16"/>
+    <Elem Prompt="男士套装 17" Name="男士套装 17" PromptU="Man dress 17" NameU="Man dress 17"/>
+    <Elem Prompt="男士套装18" Name="男士套装 18" PromptU="Man dress 18" NameU="Man dress 18"/>
+    <Elem Prompt="男士套装 19" Name="男士套装 19" PromptU="Man dress 19" NameU="Man dress 19"/>
+    <Elem Prompt="男士套装 20" Name="男士套装 20" PromptU="Man dress 20" NameU="Man dress 20"/>
+    <Elem Prompt="男士套装 21" Name="男士套装 21" PromptU="Man dress 21" NameU="Man dress 21"/>
+    <Elem Prompt="男士套装 22" Name="男士套装 22" PromptU="Man dress 22" NameU="Man dress 22"/>
+    <Elem Prompt="男士套装 23" Name="男士套装 23" PromptU="Man dress 23" NameU="Man dress 23"/>
+    <Elem Prompt="男士套装 24" Name="男士套装 24" PromptU="Man dress 24" NameU="Man dress 24"/>
+    <Elem Prompt="男士套装 25" Name="男士套装 25" PromptU="Man dress 25" NameU="Man dress 25"/>
+    <Elem Prompt="男士套装 26" Name="男士套装 26" PromptU="Man dress 26" NameU="Man dress 26"/>
+    <Elem Prompt="男士套装 27" Name="男士套装 27" PromptU="Man dress 27" NameU="Man dress 27"/>
+    <Elem Prompt="男士套装 28" Name="男士套装 28" PromptU="Man dress 28" NameU="Man dress 28"/>
+    <Elem Prompt="男士套装 29" Name="男士套装 29" PromptU="Man dress 29" NameU="Man dress 29"/>
+    <Elem Prompt="男士套装 30" Name="男士套装 30" PromptU="Man dress 30" NameU="Man dress 30"/>
+</Lib>

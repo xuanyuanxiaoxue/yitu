@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Bow">
+    <Elem NameU="Pink Bow 1" Name="粉色蝴蝶结1" PromptU="Pink Bow 1" Prompt="粉色蝴蝶结1"/>
+    <Elem NameU="Yellow Bow 1" Name="黄色蝴蝶结1" PromptU="Yellow Bow 1" Prompt="黄色蝴蝶结1"/>
+    <Elem NameU="Multi-Color Bow 1" Name="多彩蝴蝶结1" PromptU="Multi-Color Bow 1" Prompt="多彩蝴蝶结1"/>
+    <Elem NameU="Red Bow 1" Name="红色蝴蝶结1" PromptU="Red Bow 1" Prompt="红色蝴蝶结1"/>
+    <Elem NameU="Gift Ribbon" Name="礼物丝带" PromptU="Gift Ribbon" Prompt="礼物丝带"/>
+    <Elem NameU="Dot Bow 1" Name="斑点蝴蝶结1" PromptU="Dot Bow 1" Prompt="斑点蝴蝶结1"/>
+    <Elem NameU="Green Bow 1" Name="绿色蝴蝶结1" PromptU="Green Bow 1" Prompt="绿色蝴蝶结1"/>
+    <Elem NameU="Blue Bow 1" Name="蓝色蝴蝶结1" PromptU="Blue Bow 1" Prompt="蓝色蝴蝶结1"/>
+    <Elem NameU="Light Green Bow 1" Name="浅绿色蝴蝶结1" PromptU="Light Green Bow 1" Prompt="浅绿色蝴蝶结1"/>
+    <Elem NameU="Pink Bow 2" Name="粉色蝴蝶结2" PromptU="Pink Bow 2" Prompt="粉色蝴蝶结2"/>
+    <Elem NameU="Yellow Bow 2" Name="黄色蝴蝶结2" PromptU="Yellow Bow 2" Prompt="黄色蝴蝶结2"/>
+    <Elem NameU="Multi-Color Bow 2" Name="多彩蝴蝶结2" PromptU="Mulit-Color Bow 2" Prompt="Mulit-Color Bow 2"/>
+    <Elem NameU="Dot Bow 2" Name="斑点蝴蝶结2" PromptU="Dot Bow 2" Prompt="斑点蝴蝶结2"/>
+    <Elem NameU="Pink Bow 3" Name="粉色蝴蝶结3" PromptU="Pink Bow 3" Prompt="粉色蝴蝶结3"/>
+    <Elem NameU="Green Bow 2" Name="绿色蝴蝶结2" PromptU="Green Bow 2" Prompt="绿色蝴蝶结2"/>
+    <Elem NameU="Light Green Bow 2" Name="浅绿色蝴蝶结2" PromptU="Light Green Bow 2" Prompt="浅绿色蝴蝶结2"/>
+    <Elem NameU="Dot Bow 3" Name="斑点蝴蝶结3" PromptU="Dot Bow 3" Prompt="斑点蝴蝶结3"/>
+    <Elem NameU="Yellow Bow 3" Name="黄色蝴蝶结3" PromptU="Yellow Bow 3" Prompt="黄色蝴蝶结3"/>
+    <Elem NameU="Pink Bow 4" Name="粉色蝴蝶结4" PromptU="Pink Bow 4" Prompt="粉色蝴蝶结4"/>
+    <Elem NameU="Green Bow 3" Name="绿色蝴蝶结3" PromptU="Green Bow 3" Prompt="绿色蝴蝶结3"/>
+    <Elem NameU="Light Green Bow 3" Name="浅绿色蝴蝶结3" PromptU="Light Green Bow 3" Prompt="浅绿色蝴蝶结3"/>
+    <Elem NameU="Dot Bow 4" Name="斑点蝴蝶结4" PromptU="Dot Bow 4" Prompt="斑点蝴蝶结4"/>
+    <Elem NameU="Red Bow 2" Name="红色蝴蝶结2" PromptU="Red Bow 2" Prompt="红色蝴蝶结2"/>
+    <Elem NameU="Blue Bow 2" Name="蓝色蝴蝶结2" PromptU="Blue Bow 2" Prompt="蓝色蝴蝶结2"/>
+    <Elem NameU="Red Bow 3" Name="红色蝴蝶结3" PromptU="Red Bow 3" Prompt="红色蝴蝶结3"/>
+    <Elem NameU="Green Bow 4" Name="绿色蝴蝶结4" PromptU="Green Bow 4" Prompt="绿色蝴蝶结4"/>
+    <Elem NameU="Red Bow 4" Name="红色蝴蝶结4" PromptU="Red Bow 4" Prompt="红色蝴蝶结4"/>
+    <Elem NameU="Yellow Bow 4" Name="黄色蝴蝶结4" PromptU="Yellow Bow 4" Prompt="黄色蝴蝶结4"/>
+    <Elem NameU="Yellow Bow 5" Name="黄色蝴蝶结5" PromptU="Yellow Bow 5" Prompt="黄色蝴蝶结5"/>
+    <Elem NameU="Light Green Bow 4" Name="浅绿色蝴蝶结4" PromptU="Light Green Bow 4" Prompt="浅绿色蝴蝶结4"/>
+    <Elem NameU="Blue Bow 3" Name="蓝色蝴蝶结3" PromptU="Blue Bow 3" Prompt="蓝色蝴蝶结"/>
+    <Elem NameU="Pink Bow 5" Name="粉色蝴蝶结5" PromptU="Pink Bow 5" Prompt="粉色蝴蝶结5"/>
+    <Elem NameU="Light Green Bow 5" Name="浅绿色蝴蝶结5" PromptU="Light Green Bow 5" Prompt="浅绿色蝴蝶结5"/>
+    <Elem NameU="Red Bow 5" Name="红色蝴蝶结5" PromptU="Red Bow 5" Prompt="红色蝴蝶结5"/>
+    <Elem NameU="Blue Bow 4" Name="蓝色蝴蝶结4" PromptU="Blue Bow 4" Prompt="蓝色蝴蝶结4"/>
+    <Elem NameU="Yellow Bow 6" Name="黄色蝴蝶结6" PromptU="Yellow Bow 6" Prompt="黄色蝴蝶结6"/>
+    <Elem NameU="Green Bow 5" Name="绿色蝴蝶结5" PromptU="Green Bow 5" Prompt="绿色蝴蝶结5"/>
+    <Elem NameU="Multi-Color Bow 3" Name="多彩蝴蝶结3" PromptU="Multi-Color Bow 3" Prompt="多彩蝴蝶结3"/>
+    <Elem NameU="Multi-Color Bow 4" Name="多彩蝴蝶结4" PromptU="Multi-Color Bow 4" Prompt="多彩蝴蝶结4"/>
+    <Elem NameU="Pink Bow 6" Name="粉色蝴蝶结6" PromptU="Pink Bow 6" Prompt="粉色蝴蝶结6"/>
+    <Elem NameU="Red Bow 6" Name="红色蝴蝶结6" PromptU="Red Bow 6" Prompt="红色蝴蝶结6"/>
+    <Elem NameU="Light Green Bow 6" Name="浅绿色蝴蝶结6" PromptU="Light Green Bow 6" Prompt="浅绿色蝴蝶结6"/>
+    <Elem NameU="Blue Bow 5" Name="蓝色蝴蝶结5" PromptU="Blue Bow 5" Prompt="蓝色蝴蝶结5"/>
+    <Elem NameU="Yellow Bow 7" Name="黄色蝴蝶结7" PromptU="Yellow Bow 7" Prompt="黄色蝴蝶结7"/>
+    <Elem NameU="Green Bow 6" Name="绿色蝴蝶结6" PromptU="Green Bow 6" Prompt="绿色蝴蝶结6"/>
+    <Elem NameU="Pink Bow 7" Name="粉色蝴蝶结7" PromptU="Pink Bow 7" Prompt="粉色蝴蝶结7"/>
+    <Elem NameU="Red Bow 7" Name="红色蝴蝶结7" PromptU="Red Bow 7" Prompt="红色蝴蝶结7"/>
+    <Elem NameU="Pink Bow 8" Name="粉色蝴蝶结8" PromptU="Pink Bow 8" Prompt="粉色蝴蝶结8"/>
+    <Elem NameU="Green Bow 7" Name="绿色蝴蝶结7" PromptU="Green Bow 7" Prompt="绿色蝴蝶结7"/>
+    <Elem NameU="Purple Bow" Name="紫色蝴蝶结" PromptU="Purple Bow" Prompt="紫色蝴蝶结"/>
+    <Elem NameU="Flower Bow" Name="花形蝴蝶结1" PromptU="Flower Bow" Prompt="花形蝴蝶结1"/>
+    <Elem NameU="Red Bow 8" Name="红色蝴蝶结8" PromptU="Red Bow 8" Prompt="红色蝴蝶结8"/>
+    <Elem NameU="Red Bow 9" Name="红色蝴蝶结9" PromptU="Red Bow 9" Prompt="红色蝴蝶结9"/>
+    <Elem NameU="Green Bow 8" Name="绿色蝴蝶结8" PromptU="Green Bow 8" Prompt="绿色蝴蝶结8"/>
+</Lib>

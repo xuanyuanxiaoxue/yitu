@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Shopping">
+    <Elem NameU="Shopping Mall" Name="购物中心" PromptU="Shopping Mall" Prompt="购物中心"/>
+    <Elem NameU="Shopping Cart" Name="购物车" PromptU="Shopping Cart" Prompt="购物车"/>
+    <Elem NameU="Shopping Basket" Name="购物篮" PromptU="Shopping Basket" Prompt="购物篮"/>
+    <Elem NameU="Shopping Bag 1" Name="购物袋1" PromptU="Shopping Bag 1" Prompt="购物袋1"/>
+    <Elem NameU="Shopping Bag 2" Name="购物袋2" PromptU="Shopping Bag 2" Prompt="购物袋2"/>
+    <Elem NameU="Shop 1" Name="商店1" PromptU="Shop 1" Prompt="商店1"/>
+    <Elem NameU="Shop 2" Name="商店2" PromptU="Shop 2" Prompt="商店2"/>
+    <Elem NameU="Open Plate 1" Name="营业中1" PromptU="Open Plate 1" Prompt="营业中1"/>
+    <Elem NameU="Open Plate 2" Name="营业中2" PromptU="Open Plate 2" Prompt="营业中2"/>
+    <Elem NameU="Discount Label 1" Name="折扣标签1" PromptU="Discount Label 1" Prompt="Discount Label 1"/>
+    <Elem NameU="Discount Label 2" Name="折扣标签2" PromptU="Discount Label 2" Prompt="Discount Label 2"/>
+    <Elem NameU="Discount Label 3" Name="折扣标签3" PromptU="Discount Label 3" Prompt="Discount Label 3"/>
+    <Elem NameU="Discount Label 4" Name="折扣标签4" PromptU="Discount Label 4" Prompt="Discount Label 4"/>
+    <Elem NameU="Discount Label 5" Name="折扣标签5" PromptU="Discount Label 5" Prompt="Discount Label 5"/>
+    <Elem NameU="Discount Label 6" Name="折扣标签6" PromptU="Discount Label 6" Prompt="Discount Label 6"/>
+    <Elem NameU="Discount Label 7" Name="折扣标签1" PromptU="Discount Label 7" Prompt="Discount Label 7"/>
+    <Elem NameU="Discount Label 8" Name="折扣标签8" PromptU="Discount Label 8" Prompt="Discount Label 8"/>
+    <Elem NameU="Open 24 Hours 1" Name="24小时营业1" PromptU="Open 24 Hours 1" Prompt="24小时营业1"/>
+    <Elem NameU="Open 24 Hours 2" Name="24小时营业2" PromptU="Open 24 Hours 2" Prompt="24小时营业2"/>
+    <Elem NameU="Bank Card" Name="银行卡" PromptU="Bank Card" Prompt="银行卡"/>
+    <Elem NameU="Shopper 1" Name="顾客1" PromptU="Shopper 1" Prompt="顾客1"/>
+    <Elem NameU="Shopper 2" Name="顾客2" PromptU="Shopper 2" Prompt="顾客2"/>
+    <Elem NameU="Shopper 3" Name="顾客3" PromptU="Shopper 3" Prompt="顾客3"/>
+    <Elem NameU="Shopper 4" Name="顾客4" PromptU="Shopper 4" Prompt="顾客4"/>
+    <Elem NameU="Shopper 5" Name="顾客5" PromptU="Shopper 5" Prompt="顾客5"/>
+    <Elem NameU="Shopper 6" Name="顾客6" PromptU="Shopper 6" Prompt="顾客6"/>
+    <Elem NameU="Shopper 7" Name="顾客7" PromptU="Shopper 7" Prompt="顾客7"/>
+    <Elem NameU="Shopper 8" Name="顾客8" PromptU="Shopper 8" Prompt="顾客8"/>
+    <Elem NameU="Shopper 9" Name="顾客9" PromptU="Shopper 9" Prompt="顾客9"/>
+    <Elem NameU="Shopper 10" Name="顾客10" PromptU="Shopper 10" Prompt="顾10"/>
+    <Elem NameU="Shopper 11" Name="顾客11" PromptU="Shopper 11" Prompt="顾客11"/>
+    <Elem NameU="Couple" Name="情侣" PromptU="Couple" Prompt="情侣"/>
+    <Elem NameU="Friends 1" Name="朋友1" PromptU="Friends 1" Prompt="朋友1"/>
+    <Elem NameU="Friends 2" Name="朋友2" PromptU="Friends 2" Prompt="朋友2"/>
+    <Elem NameU="Shopper 12" Name="顾客12" PromptU="Shopper 12" Prompt="顾客12"/>
+    <Elem NameU="Shopper 13" Name="顾客13" PromptU="Shopper 13" Prompt="顾客13"/>
+    <Elem NameU="Necklace" Name="项链" PromptU="Necklace" Prompt="项链"/>
+    <Elem NameU="T-Shirt" Name="短袖" PromptU="T-Shirt" Prompt="短袖"/>
+    <Elem NameU="High Heels Shoes" Name="高跟鞋" PromptU="High Heels Shoes" Prompt="高跟鞋"/>
+    <Elem NameU="Sneaker" Name="运动鞋" PromptU="Sneaker" Prompt="运动鞋"/>
+    <Elem NameU="Handbag" Name="手提包" PromptU="Handbag" Prompt="手提包"/>
+    <Elem NameU="Jewelry 1" Name="珠宝1" PromptU="Jewelry 1" Prompt="珠宝1"/>
+    <Elem NameU="Jewelry 2" Name="珠宝2" PromptU="Jewelry 2" Prompt="珠宝2"/>
+    <Elem NameU="Jewelry 3" Name="珠宝3" PromptU="Jewelry 3" Prompt="珠宝3"/>
+    <Elem NameU="Lamp" Name="台灯" PromptU="Lamp" Prompt="台灯"/>
+    <Elem NameU="Watch" Name="手表" PromptU="Watch" Prompt="手表"/>
+    <Elem NameU="Lipstick" Name="口红" PromptU="Lipstick" Prompt="口红"/>
+    <Elem NameU="Sunglasses" Name="墨镜" PromptU="Sunglasses" Prompt="墨镜"/>
+    <Elem NameU="Gift" Name="礼物" PromptU="Gift" Prompt="礼物"/>
+    <Elem NameU="Nail Polish" Name="指甲油" PromptU="Nail Polish" Prompt="指甲油"/>
+    <Elem NameU="Handbag 1" Name="手提包1" PromptU="Handbag 1" Prompt="手提包1"/>
+    <Elem NameU="Handbag 2" Name="手提包2" PromptU="Handbag 2" Prompt="手提包2"/>
+    <Elem NameU="Handbag 3" Name="手提包2" PromptU="Handbag 3" Prompt="手提包2"/>
+    <Elem NameU="Hat" Name="帽子" PromptU="Hat" Prompt="帽子"/>
+    <Elem NameU="Shopping Tote" Name="大购物袋" PromptU="Shopping Tote" Prompt="大购物袋"/>
+    <Elem NameU="Online Shopping 1" Name="网购1" PromptU="Online Shopping 1" Prompt="网购1"/>
+    <Elem NameU="Online Shopping 2" Name="网购2" PromptU="Online Shopping 2" Prompt="网购2"/>
+    <Elem NameU="POS Machine" Name="POS机" PromptU="POS Machine" Prompt="POS机"/>
+    <Elem NameU="Private Car" Name="私家车" PromptU="Private Car" Prompt="私家车"/>
+    <Elem NameU="Truck" Name="卡车" PromptU="Truck" Prompt="卡车"/>
+</Lib>

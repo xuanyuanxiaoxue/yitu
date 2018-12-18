@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Australia">
+    <Elem Prompt="新南威尔士" Name="新南威尔士" PromptU="New South Wales" NameU="New South Wales"/>
+    <Elem Prompt="澳大利亚北部" Name="澳大利亚北部" PromptU="Nothern Territory" NameU="Nothern Territory"/>
+    <Elem Prompt="昆士兰" Name="昆士兰" PromptU="Queensland" NameU="Queensland"/>
+    <Elem Prompt="南澳" Name="南澳" PromptU="South Australia" NameU="South Australia"/>
+    <Elem Prompt="塔斯马利亚" Name="塔斯马利亚" PromptU="Tasmania" NameU="Tasmania"/>
+    <Elem Prompt="维多利亚" Name="维多利亚" PromptU="Victoria" NameU="Victoria"/>
+    <Elem Prompt="西澳大利亚" Name="西澳大利亚" PromptU="Western Australia" NameU="Western Australia"/>
+    <Elem Prompt="新西兰" Name="新西兰" PromptU="New Zealand" NameU="New Zealand"/>
+    <Elem Prompt="澳大利亚（国家）" Name="澳大利亚（国家）" PromptU="Australia(state)" NameU="Australia(state)"/>
+</Lib>

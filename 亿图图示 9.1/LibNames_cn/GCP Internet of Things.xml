@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="GCP Machine Learning">
+    <Elem NameU="Advanced Solutions Lab" Name="高级方案" PromptU="Advanced Solutions Lab" Prompt="高级方案"/>
+    <Elem NameU="Cloud Jobs API" Name="云任务 API" PromptU="Cloud Jobs API" Prompt="云任务 API"/>
+    <Elem NameU="Cloud Machine Learning" Name="云设备教学" PromptU="Cloud Machine Learning" Prompt="云设备教学"/>
+    <Elem NameU="Cloud Natural Language API" Name="云自然语言 API" PromptU="Cloud Natural Language API" Prompt="云自然语言 API"/>
+    <Elem NameU="Cloud Speech API" Name="云演说 API" PromptU="Cloud Speech API" Prompt="云演说 API"/>
+    <Elem NameU="Cloud Translation API" Name="云翻译 API" PromptU="Cloud Translation API" Prompt="云翻译 API"/>
+    <Elem NameU="Cloud Video Intelligence API" Name="云视频智能 API" PromptU="Cloud Video Intelligence API" Prompt="云视频智能 API"/>
+    <Elem NameU="Cloud Vision API" Name="云视觉 API" PromptU="Cloud Vision API" Prompt="云视觉 API"/>
+</Lib>

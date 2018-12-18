@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Yourdon and Coad">
+    <Elem Prompt="类和对象" Name="类和对象" PromptU="Class and Object" NameU="Class and Object"/>
+    <Elem Prompt="类" Name="类" PromptU="Class" NameU="Class"/>
+    <Elem Prompt="对象状态" Name="对象状态" PromptU="Object State" NameU="Object State"/>
+    <Elem Prompt="一般/特殊结构" Name="一般/特殊结构" PromptU="Gen-spec Structure" NameU="Gen-spec Structure"/>
+    <Elem Prompt="总分结构" Name="总分结构" PromptU="Whole-part Structure" NameU="Whole-part Structure"/>
+    <Elem Prompt="条件" Name="条件" PromptU="Condition" NameU="Condition"/>
+    <Elem Prompt="循环" Name="循环" PromptU="Loop" NameU="Loop"/>
+    <Elem Prompt="外部交互" Name="外部交互" PromptU="External Interactor" NameU="External Interactor"/>
+    <Elem Prompt="数据进程" Name="数据进程" PromptU="Data Process" NameU="Data Process"/>
+    <Elem Prompt="多步进程" Name="多步进程" PromptU="Multiple Process" NameU="Multiple Process"/>
+    <Elem Prompt="状态" Name="状态" PromptU="State" NameU="State"/>
+    <Elem Prompt="多步状态" Name="多步状态" PromptU="Multiple State" NameU="Multiple State"/>
+    <Elem Prompt="停止状态" Name="停止状态" PromptU="Stop State" NameU="Stop State"/>
+    <Elem Prompt="停止状态 2" Name="停止状态 2" PromptU="Stop State 2" NameU="Stop State 2"/>
+    <Elem Prompt="进程" Name="进程" PromptU="Process" NameU="Process"/>
+    <Elem Prompt="中心到中心" Name="中心到中心" PromptU="Center to Center" NameU="Center to Center"/>
+    <Elem Prompt="循环到中心" Name="循环到中心" PromptU="Loop on Center" NameU="Loop on Center"/>
+    <Elem Prompt="数据存储" Name="数据存储" PromptU="Data Store" NameU="Data Store"/>
+    <Elem Prompt="连接线" Name="连接线" PromptU="Connector" NameU="Connector"/>
+    <Elem Prompt="半圆" Name="半圆" PromptU="Semicircle" NameU="Semicircle"/>
+</Lib>

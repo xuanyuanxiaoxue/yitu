@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Equipment - Filters">
+    <Elem Prompt="波模滤波器" Name="波模滤波器" PromptU="Mode filter" NameU="Mode filter"/>
+    <Elem Prompt="波模滤波指示器" Name="波模滤波指示器" PromptU="Mode filter indication" NameU="Mode filter indication"/>
+    <Elem Prompt="滤频器" Name="滤频器" PromptU="Frequency filter" NameU="Frequency filter"/>
+    <Elem Prompt="过滤器" Name="过滤器" PromptU="Filter" NameU="Filter"/>
+    <Elem Prompt="过滤器 2" Name="过滤器 2" PromptU="Filter 2" NameU="Filter 2"/>
+    <Elem Prompt="高通滤波器" Name="高通滤波器" PromptU="Highpass filter" NameU="Highpass filter"/>
+    <Elem Prompt="低通滤波器" Name="低通滤波器" PromptU="Lowpass filter" NameU="Lowpass filter"/>
+    <Elem Prompt="带通滤波器" Name="带通滤波器" PromptU="Bandpass filter" NameU="Bandpass filter"/>
+    <Elem Prompt="过滤器" Name="过滤器" PromptU="Filter" NameU="Filter"/>
+    <Elem Prompt="过滤器 2" Name="过滤器 2" PromptU="Filter 2" NameU="Filter 2"/>
+    <Elem Prompt="气体过滤器" Name="气体过滤器" PromptU="Gas filter" NameU="Gas filter"/>
+    <Elem Prompt="滤芯空气过滤器" Name="滤芯空气过滤器" PromptU="Cartridge gas filter" NameU="Cartridge gas filter"/>
+    <Elem Prompt="旋转式空气过滤器" Name="旋转式空气过滤器" PromptU="Roll air filter" NameU="Roll air filter"/>
+    <Elem Prompt="固定床式空气过滤器" Name="固定床式空气过滤器" PromptU="Fixed bed air filter" NameU="Fixed bed air filter"/>
+    <Elem Prompt="高效空气过滤器" Name="高效空气过滤器" PromptU="HEPA gas filter" NameU="HEPA gas filter"/>
+    <Elem Prompt="液体过滤器" Name="液体过滤器" PromptU="Liquid filter" NameU="Liquid filter"/>
+    <Elem Prompt="固定床式液体过滤器" Name="固定床式液体过滤器" PromptU="Fixed bed liquid filter" NameU="Fixed bed liquid filter"/>
+    <Elem Prompt="旋转式液体过滤器" Name="旋转式液体过滤器" PromptU="Rotary liquid filter" NameU="Rotary liquid filter"/>
+    <Elem Prompt="生物滤器" Name="生物滤器" PromptU="Biological filter" NameU="Biological filter"/>
+    <Elem Prompt="离子交换剂过滤器" Name="离子交换剂过滤器" PromptU="Ionexchanger filter" NameU="Ionexchanger filter"/>
+    <Elem Prompt="压滤机" Name="压滤机" PromptU="Press filter" NameU="Press filter"/>
+    <Elem Prompt="空气过滤机" Name="空气过滤机" PromptU="Air filter" NameU="Air filter"/>
+    <Elem Prompt="空气过滤机 2" Name="空气过滤机 2" PromptU="Air filter 2" NameU="Air filter 2"/>
+    <Elem Prompt="过滤机" Name="过滤机" PromptU="The filter" NameU="The filter"/>
+    <Elem Prompt="高效过滤机" Name="高效过滤机" PromptU="High efficiency filter" NameU="High efficiency filter"/>
+    <Elem Prompt="初级过滤器、 中效过滤器" Name="初级过滤器、 中效过滤器" PromptU="Primary filter、 Mid-effect fiher" NameU="Primary filter、 Mid-effect fiher"/>
+    <Elem Prompt="富氧过滤器" Name="富氧过滤器" PromptU="Oxygen-enriched filter" NameU="Oxygen-enriched filter"/>
+    <Elem Prompt="过滤器" Name="过滤器" PromptU="Filter" NameU="Filter"/>
+    <Elem Prompt="过滤器 2" Name="过滤器 2" PromptU="Filter 2" NameU="Filter 2"/>
+    <Elem Prompt="旋转式过滤机" Name="旋转式过滤机" PromptU="Rotary filter" NameU="Rotary filter"/>
+    <Elem Prompt="吸滤器" Name="吸滤器" PromptU="Suction filter" NameU="Suction filter"/>
+</Lib>

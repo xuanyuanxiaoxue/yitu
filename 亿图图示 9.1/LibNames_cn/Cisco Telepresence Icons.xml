@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Cisco Telepresence Icons">
+    <Elem PromptU="Personal Telepresence Endpoint" NameU="Personal Telepresence Endpoint" Prompt="个人远程监控终端" Name="个人远程监控终端"/>
+    <Elem PromptU="Telepresence Endpoint" NameU="Telepresence Endpoint" Prompt="远程监控终端" Name="远程监控终端"/>
+    <Elem PromptU="Telepresence Endpoint With Twin Data Display" NameU="Telepresence Endpoint With Twin Data Display" Prompt="双数据显示远程监控终端" Name="双数据显示远程监控终端"/>
+    <Elem PromptU="Telepresence Endpoint With Twin Data Display.4" NameU="Telepresence Endpoint With Twin Data Display.4" Prompt="双数据显示远程监控终端.4" Name="双数据显示远程监控终端.4"/>	
+    <Elem PromptU="Laptop Video Client" NameU="Laptop Video Client" Prompt="手提电脑视频客户端" Name="手提电脑视频客户端"/>
+    <Elem PromptU="Video IP Phone" NameU="Video IP Phone" Prompt="视频电话" Name="视频电话"/>
+    <Elem PromptU="Non-Video IP Phone" NameU="Non-Video IP Phone" Prompt="语音通话" Name="语音通话"/>
+    <Elem PromptU="Primary Codec" NameU="Primary Codec" Prompt="主解码器" Name="主解码器"/>
+    <Elem PromptU="Secondary Codec" NameU="Secondary Codec" Prompt="次解码器" Name="次解码器"/>
+    <Elem PromptU="Video Call Server" NameU="Video Call Server" Prompt="视频电话服务器" Name="视频电话服务器"/>
+    <Elem PromptU="Unified Communications Server" NameU="Unified Communications Server" Prompt="思科统一服务器" Name="思科统一服务器"/>
+    <Elem PromptU="Meeting Scheduling and Management Server" NameU="Meeting Scheduling and Management Server" Prompt="会议安排管理服务器" Name="会议安排管理服务器"/>
+    <Elem PromptU="Multipoint Meeting Server" NameU="Multipoint Meeting Server" Prompt="多点会议服务器" Name="多点会议服务器"/>
+    <Elem PromptU="Content Recording/ Streaming Server" NameU="Content Recording/ Streaming Server" Prompt="内容记录/流媒体服务器" Name="内容记录/流媒体服务器"/>
+    <Elem PromptU="Video Gateway" NameU="Video Gateway" Prompt="视频网关" Name="视频网关"/>
+    <Elem PromptU="IP-IP Gateway" NameU="IP-IP Gateway" Prompt="IP-IP网关" Name="IP-IP网关"/>
+    <Elem PromptU="Transcoder" NameU="Transcoder" Prompt="代码转换器" Name="代码转换器"/>
+    <Elem PromptU="Telepresence Exchange" NameU="Telepresence Exchange" Prompt="网真交换" Name="网真交换"/>
+</Lib>

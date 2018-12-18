@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Equipment - Centrifuges">
+    <Elem Prompt="离心机" Name="离心机" PromptU="Centrifugal" NameU="Centrifugal"/>
+    <Elem Prompt="离心式压缩机" Name="离心式压缩机" PromptU="Centrifugal compressor" NameU="Centrifugal compressor"/>
+    <Elem Prompt="离心式压缩机 2" Name="离心式压缩机 2" PromptU="Centrifugal compressor 2" NameU="Centrifugal compressor 2"/>
+    <Elem Prompt="离心式压缩机 3" Name="离心式压缩机 3" PromptU="Centrifugal compressor 3" NameU="Centrifugal compressor 3"/>
+    <Elem Prompt="离心机、螺杆、固体外壳" Name="离心机、螺杆、固体外壳" PromptU="Centrifuge, Screw, Solid Shell" NameU="Centrifuge, Screw, Solid Shell"/>
+    <Elem Prompt="离心机、固体外壳" Name="离心机、固体外壳" PromptU="Centrifuge, Solid shell" NameU="Centrifuge, Solid shell"/>
+    <Elem Prompt="高速离心机" Name="高速离心机" PromptU="Centrifuge, High speed" NameU="Centrifuge, High speed"/>
+    <Elem Prompt="离心机、螺杆、多孔壳" Name="离心机、螺杆、多孔壳" PromptU="Centrifuge, Perforated shell" NameU="Centrifuge, Perforated shell"/>
+    <Elem Prompt="离心机，推进器" Name="离心机，推进器" PromptU="Centrifuge, Pusher" NameU="Centrifuge, Pusher"/>
+    <Elem Prompt="离心机、螺杆、多孔壳" Name="离心机、螺杆、多孔壳" PromptU="Centrifuge, Screw, Perforated shell" NameU="Centrifuge, Screw, Perforated shell"/>
+    <Elem Prompt="离心机,分离器阀瓣" Name="离心机,分离器阀瓣" PromptU="Centrifuge, Separator disc" NameU="Centrifuge, Separator disc"/>
+    <Elem Prompt="离心机, 撇渣器" Name="离心机, 撇渣器" PromptU="Centrifuge, Skimmer" NameU="Centrifuge, Skimmer"/>
+    <Elem Prompt="离心式鼓风机" Name="离心式鼓风机" PromptU="Centrifugal blower" NameU="Centrifugal blower"/>
+    <Elem Prompt="离心泵" Name="离心泵" PromptU="Centrifugal pump" NameU="Centrifugal pump"/>
+    <Elem Prompt="离心泵 2" Name="离心泵 2" PromptU="Centrifugal pump 2" NameU="Centrifugal pump 2"/>
+    <Elem Prompt="离心泵 3" Name="离心泵 3" PromptU="Centrifugal pump 3" NameU="Centrifugal pump 3"/>
+    <Elem Prompt="离心泵 4" Name="离心泵 4" PromptU="Centrifugal pump 4" NameU="Centrifugal pump 4"/>
+    <Elem Prompt="离心式鼓风机" Name="离心式鼓风机" PromptU="Centrifugal fan" NameU="Centrifugal fan"/>
+    <Elem Prompt="离心泵" Name="离心泵" PromptU="Centrifugal pump" NameU="Centrifugal pump"/>
+    <Elem Prompt="离心式鼓风机" Name="离心式鼓风机" PromptU="Centrifugal fan" NameU="Centrifugal fan"/>
+    <Elem Prompt="离心机" Name="离心机" PromptU="Centrifuge" NameU="Centrifuge"/>
+</Lib>

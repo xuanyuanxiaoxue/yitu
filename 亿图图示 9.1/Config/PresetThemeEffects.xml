@@ -1,0 +1,2562 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ThemeEffects Version="8.0">
+    <ThemeEffect ID="1" Name="Edraw Flat">
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Type="Solid">
+                <Color V="#ffffffff"/>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Tint="20" Ref="#3398db" V="#ff83b3e3" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Type="Solid">
+                <Color Tint="80" Ref="#98b1d9" V="#ffeff2f8" ThemeColor="5"/>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Tint="20" Ref="#3398db" V="#ff83b3e3" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Type="Solid">
+                <Color Tint="20" Ref="#98b4d9" V="#ffb3c6e1" ThemeColor="5"/>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Tint="20" Ref="#98b4d9" V="#ffb3c6e1" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Type="Solid">
+                <Color V="#ff98b4d8" ThemeColor="5"/>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color V="#ff98b4d8" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Type="Solid">
+                <Color Ref="#98b4d8" V="#ff859ebe" Shade="25" ThemeColor="5"/>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#98b4d8" V="#ff859ebe" Shade="25" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Type="Solid">
+                <Color Ref="#98b4d8" V="#ff6e839e" Shade="50" ThemeColor="5"/>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#98b4d8" V="#ff6e839e" Shade="50" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Scale="100" Mode="1" Blur="1.5" OffsetX="0.75" OffsetY="0.75" Angle="0">
+                    <Color V="#33000000"/>
+                </Shadow>
+            </EffectFormat>
+        </ShapeFormat>
+        <FontColor>
+            <Color Ref="#98b4d8" V="#1f6391" Shade="60" ThemeColor="5"/>
+            <Color Ref="#98b4d8" V="#1f6391" Shade="60" ThemeColor="5"/>
+            <Color V="#ffffffff"/>
+            <Color V="#ffffffff"/>
+            <Color V="#ffffffff"/>
+            <Color V="#ffffffff"/>
+            <Color Ref="#98b4d8" V="#1f6391" Shade="60" ThemeColor="5"/>
+        </FontColor>
+    </ThemeEffect>
+    <ThemeEffect ID="2" Name="Atique">
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Type="Solid">
+                <Color V="#ffffffff"/>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Tint="20" Ref="#3398db" V="#ff83b3e3" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Type="Solid">
+                <Color Tint="80" Ref="#7a8f5f" V="#ffeceeea" ThemeColor="5"/>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Tint="20" Ref="#789263" V="#ffa0af95" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Type="Solid">
+                <Color V="#ff789263" ThemeColor="5"/>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="3"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Tint="20" Ref="#789263" V="#ffa0af95" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Type="Solid">
+                <Color V="#ff789263" ThemeColor="5"/>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#789263" V="#ff698056" Shade="25" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Scale="100" Mode="1" Blur="0" OffsetX="1.5" OffsetY="1.5" Angle="0">
+                    <Color V="#33789263" ThemeColor="5"/>
+                </Shadow>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Type="Solid">
+                <Color Ref="#789263" V="#ff698056" Shade="25" ThemeColor="5"/>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#789263" V="#ff698056" Shade="25" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Type="Solid">
+                <Color Ref="#779263" V="#ff566a47" Shade="50" ThemeColor="5"/>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#779263" V="#ff566a47" Shade="50" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Scale="100" Mode="1" Blur="0" OffsetX="1.5" OffsetY="1.5" Angle="0">
+                    <Color V="#4d789263" ThemeColor="5"/>
+                </Shadow>
+            </EffectFormat>
+        </ShapeFormat>
+        <FontColor>
+            <Color Ref="#98b4d8" V="#1f6391" Shade="60" ThemeColor="5"/>
+            <Color Ref="#98b4d8" V="#1f6391" Shade="60" ThemeColor="5"/>
+            <Color V="#ffffffff"/>
+            <Color V="#ffffffff"/>
+            <Color V="#ffffffff"/>
+            <Color V="#ffffffff"/>
+            <Color Ref="#98b4d8" V="#1f6391" Shade="60" ThemeColor="5"/>
+        </FontColor>
+    </ThemeEffect>
+    <ThemeEffect Variant="2" ID="3" Name="General">
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Type="Solid">
+                <Color V="#ffffffff" ThemeColor="1"/>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#969696" V="#ff6d6d6d" Shade="50" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Direction="90" GradientType="Linear" Type="Gradient">
+                <Stop Offset="0">
+                    <Color Tint="95" Ref="#939393" V="#fffbfbfb" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="100">
+                    <Color Tint="80" Ref="#989898" V="#ffefefef" ThemeColor="5"/>
+                </Stop>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#969696" V="#ff6d6d6d" Shade="50" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Scale="100" Mode="1" Blur="0" OffsetX="1.5" OffsetY="1.5" Angle="0">
+                    <Color V="#14000000"/>
+                </Shadow>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Type="Solid">
+                <Color V="#ff969696" ThemeColor="5"/>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color V="#ff969696" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Direction="90" GradientType="Linear" Type="Gradient">
+                <Stop Offset="0">
+                    <Color Tint="95" Ref="#939393" V="#fffbfbfb" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="100">
+                    <Color Tint="80" Ref="#989898" V="#ffefefef" ThemeColor="5"/>
+                </Stop>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#969696" V="#ff6d6d6d" Shade="50" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Scale="100" Mode="1" Blur="0" OffsetX="1.5" OffsetY="1.5" Angle="0">
+                    <Color V="#14000000"/>
+                </Shadow>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Direction="90" GradientType="Linear" Type="Gradient">
+                <Stop Offset="0">
+                    <Color Tint="20" Ref="#969696" V="#ffb2b2b2" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="100">
+                    <Color V="#ff969696" ThemeColor="5"/>
+                </Stop>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color V="#ff969696" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Scale="100" Mode="1" Blur="0" OffsetX="1.5" OffsetY="1.5" Angle="0">
+                    <Color V="#14000000"/>
+                </Shadow>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Direction="90" GradientType="Linear" Type="Gradient">
+                <Stop Offset="0">
+                    <Color V="#ff969696" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="100">
+                    <Color Ref="#959595" V="#ff838383" Shade="25" ThemeColor="5"/>
+                </Stop>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Direction="90" GradientType="Linear" Type="Gradient">
+                    <Stop Offset="0">
+                        <Color V="#ff969696" ThemeColor="5"/>
+                    </Stop>
+                    <Stop Offset="100">
+                        <Color Ref="#959595" V="#ff838383" Shade="25" ThemeColor="5"/>
+                    </Stop>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Scale="100" Mode="1" Blur="0" OffsetX="1.5" OffsetY="1.5" Angle="0">
+                    <Color V="#14000000"/>
+                </Shadow>
+            </EffectFormat>
+        </ShapeFormat>
+        <FontColor>
+            <Color V="#ff303030"/>
+            <Color V="#ff303030"/>
+            <Color V="#ffffffff"/>
+            <Color V="#ff303030"/>
+            <Color V="#ffffffff"/>
+            <Color V="#ffffffff"/>
+            <Color V="#ff303030"/>
+        </FontColor>
+    </ThemeEffect>
+    <ThemeEffect ID="4" Name="Waves">
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Type="Solid">
+                <Color V="#ffffffff"/>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Tint="20" Ref="#3398db" V="#ff83b3e3" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Type="Solid">
+                <Color Tint="80" Ref="#98b1d9" V="#ffeff2f8" ThemeColor="5"/>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Tint="20" Ref="#3398db" V="#ff83b3e3" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Type="Solid">
+                <Color Tint="20" Ref="#98b4d9" V="#ffb3c6e1" ThemeColor="5"/>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Tint="20" Ref="#98b4d9" V="#ffb3c6e1" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Type="Solid">
+                <Color V="#ff98b4d8" ThemeColor="5"/>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color V="#ff98b4d8" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Type="Solid">
+                <Color Ref="#98b4d8" V="#ff859ebe" Shade="25" ThemeColor="5"/>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#98b4d8" V="#ff859ebe" Shade="25" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Type="Solid">
+                <Color Ref="#98b4d8" V="#ff6e839e" Shade="50" ThemeColor="5"/>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#98b4d8" V="#ff6e839e" Shade="50" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Scale="100" Mode="1" Blur="1.5" OffsetX="0.75" OffsetY="0.75" Angle="0">
+                    <Color V="#33000000"/>
+                </Shadow>
+            </EffectFormat>
+        </ShapeFormat>
+        <FontColor>
+            <Color Ref="#98b4d8" V="#1f6391" Shade="60" ThemeColor="5"/>
+            <Color Ref="#98b4d8" V="#1f6391" Shade="60" ThemeColor="5"/>
+            <Color V="#ffffffff"/>
+            <Color V="#ffffffff"/>
+            <Color V="#ffffffff"/>
+            <Color V="#ffffffff"/>
+            <Color Ref="#98b4d8" V="#1f6391" Shade="60" ThemeColor="5"/>
+        </FontColor>
+    </ThemeEffect>
+    <ThemeEffect ID="5" Name="Flower">
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Type="Solid">
+                <Color V="#ffffffff" ThemeColor="1"/>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="10"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#000" V="#ffd39800" Shade="25" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Direction="45" GradientType="Linear" Type="SingleGradient">
+                <Stop Offset="0">
+                    <Color Tint="40" Ref="#f0b670" V="#fff6d7bb" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="10">
+                    <Color Tint="40" Ref="#f0b670" V="#fff6d7bb" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="10">
+                    <Color Tint="20" Ref="#f0b571" V="#fff3c79c" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="20">
+                    <Color Tint="20" Ref="#f0b571" V="#fff3c79c" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="20">
+                    <Color Tint="40" Ref="#f0b670" V="#fff6d7bb" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="100">
+                    <Color Tint="40" Ref="#f0b670" V="#fff6d7bb" ThemeColor="5"/>
+                </Stop>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color V="#fff0ad00" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Direction="45" GradientType="Linear" Type="SingleGradient">
+                <Stop Offset="0">
+                    <Color Tint="40" Ref="#f0b670" V="#fff6d7bb" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="10">
+                    <Color Tint="40" Ref="#f0b670" V="#fff6d7bb" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="10">
+                    <Color Tint="55" Ref="#efbc8e" V="#fff8e4d6" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="20">
+                    <Color Tint="55" Ref="#efbc8e" V="#fff8e4d6" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="20">
+                    <Color Tint="40" Ref="#f0b670" V="#fff6d7bb" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="100">
+                    <Color Tint="40" Ref="#f0b670" V="#fff6d7bb" ThemeColor="5"/>
+                </Stop>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color V="#fff0ad00" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Direction="0" GradientType="Linear" Type="SingleGradient">
+                <Stop Offset="0">
+                    <Color Tint="40" Ref="#f0b670" V="#fff6d7bb" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="10">
+                    <Color Tint="40" Ref="#f0b670" V="#fff6d7bb" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="10">
+                    <Color Tint="20" Ref="#f1bc8a" V="#fff4ccaa" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="20">
+                    <Color Tint="20" Ref="#f1bc8a" V="#fff4ccaa" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="20">
+                    <Color Tint="40" Ref="#f1bc8a" V="#fff7dac4" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="100">
+                    <Color Tint="40" Ref="#f0b670" V="#fff6d7bb" ThemeColor="5"/>
+                </Stop>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color V="#fff0ad00" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Direction="135" GradientType="Linear" Type="SingleGradient">
+                <Stop Offset="0">
+                    <Color V="#fff0ad00" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="10">
+                    <Color V="#fff0ad00" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="10">
+                    <Color Tint="20" Ref="#000" V="#fff3c17c" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="20">
+                    <Color Tint="20" Ref="#000" V="#fff3c17c" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="20">
+                    <Color V="#fff0ad00" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="100">
+                    <Color V="#fff0ad00" ThemeColor="5"/>
+                </Stop>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color V="#fff0ad00" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Scale="100" Mode="1" Blur="0" OffsetX="1.5" OffsetY="1.5" Angle="0">
+                    <Color V="#33000000" ThemeColor="2"/>
+                </Shadow>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Direction="90" GradientType="Linear" Type="SingleGradient">
+                <Stop Offset="0">
+                    <Color Tint="80" Ref="#000" V="#fffcf1e7" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="5">
+                    <Color V="#fff0ad00" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="95">
+                    <Color V="#fff0ad00" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="100">
+                    <Color Tint="80" Ref="#000" V="#fffcf1e7" ThemeColor="5"/>
+                </Stop>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#000" V="#ffd39800" Shade="25" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Scale="100" Mode="1" Blur="0" OffsetX="1.5" OffsetY="1.5" Angle="0">
+                    <Color V="#33000000" ThemeColor="2"/>
+                </Shadow>
+            </EffectFormat>
+        </ShapeFormat>
+        <FontColor>
+            <Color V="#ff454545"/>
+            <Color V="#ff454545"/>
+            <Color V="#ff454545"/>
+            <Color V="#ff454545"/>
+            <Color V="#ffffffff"/>
+            <Color V="#ffffffff"/>
+            <Color V="#ff454545"/>
+        </FontColor>
+    </ThemeEffect>
+    <ThemeEffect ID="6" Name="Town">
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Type="Solid">
+                <Color V="#ffffffff"/>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color V="#ff6ac5db" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat GradientType="Rectangle" Type="SingleGradient" PreDefine="2" FocusY="0.5" FocusX="0.5">
+                <Stop Offset="0">
+                    <Color Tint="60" Ref="#6bc5da" V="#ffd4eaf1" ThemeColor="5"/>
+                </Stop>            	
+                <Stop Offset="88">
+                    <Color Tint="50" Ref="#69c4db" V="#ffc7e4ee" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="100">
+                    <Color Tint="30" Ref="#6bc6dc" V="#ffaad9e7" ThemeColor="5"/>
+                </Stop>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Tint="20" Ref="#69c5db" V="#ff98d2e3" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat GradientType="Rectangle" Type="SingleGradient" PreDefine="2" FocusY="0.5" FocusX="0.5">
+                <Stop Offset="0">
+                    <Color V="#ff6ac5db" ThemeColor="5"/>
+                </Stop>            	
+                <Stop Offset="88">
+                    <Color V="#ff6ac5db" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="100">
+                    <Color Tint="50" Ref="#69c4db" V="#ffc7e4ee" ThemeColor="5"/>
+                </Stop>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Tint="40" Ref="#69c6da" V="#ffb9dfea" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat GradientType="Rectangle" Type="SingleGradient" PreDefine="2" FocusY="0.5" FocusX="0.5">
+                <Stop Offset="0">
+                    <Color Tint="10" Ref="#6ac5db" V="#ff84ccdf" ThemeColor="5"/>
+                </Stop>            	
+                <Stop Offset="88">
+                    <Color Tint="10" Ref="#6ac5db" V="#ff84ccdf" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="100">
+                    <Color Ref="#6ac5db" V="#ff65bcd1" Shade="10" ThemeColor="5"/>
+                </Stop>                
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color V="#ff6ac5db" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat GradientType="Rectangle" Type="SingleGradient" PreDefine="2" FocusY="0.5" FocusX="0.5">
+                <Stop Offset="0">
+                    <Color Ref="#6ac5db" V="#ff5fb2c6" Shade="20" ThemeColor="5"/>
+                </Stop>            	
+                <Stop Offset="85">
+                    <Color Ref="#6ac5db" V="#ff5fb2c6" Shade="20" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="100">
+                    <Color Ref="#6ac6db" V="#ff539dae" Shade="40" ThemeColor="5"/>
+                </Stop>                
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#6ac6db" V="#ff539dae" Shade="40" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat GradientType="Rectangle" Type="SingleGradient" PreDefine="2" FocusY="0.5" FocusX="0.5">
+                <Stop Offset="0">
+                    <Color Ref="#80c7d9" V="#ff6caab9" Shade="30" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="85">
+                    <Color Ref="#80c8d9" V="#ff659fad" Shade="40" ThemeColor="5"/>
+                </Stop>                            	
+                <Stop Offset="100">
+                    <Color Ref="#80c8d9" V="#ff538490" Shade="60" ThemeColor="5"/>
+                </Stop>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#6ac5db" V="#ff448291" Shade="60" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Scale="100" Mode="1" Blur="0" OffsetX="1.5" OffsetY="1.5" Angle="0">
+                    <Color V="#806ac5db" ThemeColor="5"/>
+                </Shadow>
+            </EffectFormat>
+        </ShapeFormat>
+        <FontColor>
+            <Color Ref="#98b4d8" V="#1f6391" Shade="60" ThemeColor="5"/>
+            <Color Ref="#98b4d8" V="#1f6391" Shade="60" ThemeColor="5"/>
+            <Color V="#ffffffff"/>
+            <Color V="#ffffffff"/>
+            <Color V="#ffffffff"/>
+            <Color V="#ffffffff"/>
+            <Color V="#ff454545"/>
+        </FontColor>
+    </ThemeEffect>
+    <ThemeEffect ID="7" Name="Garden">
+        <ShapeFormat QuickMask="-1">
+            <FillFormat GradientType="Radial" Type="SingleGradient" PreDefine="4" FocusY="0" FocusX="0">
+                <Stop Offset="0">
+                    <Color Tint="70" Ref="#2f96db" V="#ffdbe6f5" ThemeColor="5"/>
+                </Stop>            	
+							  <Stop Offset="80">
+                    <Color Tint="60" Ref="#2d97da" V="#ffcdddf1" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="80">
+                    <Color Tint="60" Ref="#2d97da" V="#ffcdddf1" ThemeColor="5"/>
+                </Stop>         
+                <Stop Offset="86">
+                    <Color Tint="25" Ref="#3398db" V="#ff8fb9e5" ThemeColor="5"/>
+                </Stop>           
+                <Stop Offset="87">
+                    <Color V="#ff489ed6" ThemeColor="5"/>
+                </Stop>            
+                <Stop Offset="89">
+                    <Color V="#ff489ed6" ThemeColor="5"/>
+                </Stop>      
+                <Stop Offset="90">
+                    <Color Tint="40" Ref="#499ed7" V="#ffb1cce8" ThemeColor="5"/>
+                </Stop>                                          
+                <Stop Offset="100">
+                    <Color Tint="50" Ref="#499fd7" V="#ffc1d6ec" ThemeColor="5"/>
+                </Stop>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color V="#ff3498db" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Direction="35" GradientType="Linear" Type="SingleGradient">
+                <Stop Offset="0">
+                    <Color Tint="50" Ref="#4299d9" V="#ffc0d4ed" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="60">
+                    <Color Tint="50" Ref="#4299d9" V="#ffc0d4ed" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="60">
+                    <Color Tint="30" Ref="#3d9ad9" V="#ff9cc0e5" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="100">
+                    <Color Tint="30" Ref="#3d9ad9" V="#ff9cc0e5" ThemeColor="5"/>
+                </Stop>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color V="#ff3498db" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Scale="100" Mode="1" Blur="0" OffsetX="1.5" OffsetY="1.5" Angle="0">
+                    <Color V="#80bebebe"/>
+                </Shadow>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Direction="90" GradientType="Linear" Type="SingleGradient">
+                <Stop Offset="0">
+                    <Color Tint="70" Ref="#2f96db" V="#ffdbe6f5" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="82">
+                    <Color Tint="50" Ref="#3099db" V="#ffbed4ee" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="86">
+                    <Color Tint="35" Ref="#3397da" V="#ffa4c4e8" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="86">
+                    <Color V="#ff73a4dc" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="90">
+                    <Color V="#ff73a4dc" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="90">
+                    <Color Tint="30" Ref="#72a4dc" V="#ffadc5e7" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="100">
+                    <Color Tint="30" Ref="#72a4dc" V="#ffadc5e7" ThemeColor="5"/>
+                </Stop>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color V="#ff3498db" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Direction="35" GradientType="Linear" Type="SingleGradient">
+                <Stop Offset="0">
+                    <Color Tint="30" Ref="#72d2f1" V="#ffade1f5" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="60">
+                    <Color Tint="30" Ref="#72d2f1" V="#ffade1f5" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="60">
+                    <Color Tint="10" Ref="#73d3f0" V="#ff8ad8f2" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="76">
+                    <Color Tint="10" Ref="#73d3f0" V="#ff8ad8f2" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="76">
+                    <Color Ref="#73d3f1" V="#ff6dc9e6" Shade="10" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="80">
+                    <Color Ref="#73d3f1" V="#ff6dc9e6" Shade="10" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="80">
+                    <Color Tint="10" Ref="#73d3f0" V="#ff8ad8f2" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="100">
+                    <Color Tint="10" Ref="#73d3f0" V="#ff8ad8f2" ThemeColor="5"/>
+                </Stop>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color V="#ff73d3f1" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Scale="100" Mode="1" Blur="0" OffsetX="1.5" OffsetY="1.5" Angle="0">
+                    <Color V="#80bebebe"/>
+                </Shadow>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Direction="35" GradientType="Linear" Type="SingleGradient">
+                <Stop Offset="0">
+                    <Color Ref="#73d3f1" V="#ff6dc9e6" Shade="10" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="60">
+                    <Color Ref="#73d3f1" V="#ff6dc9e6" Shade="10" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="60">
+                    <Color Ref="#73d3f1" V="#ff68bfda" Shade="20" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="76">
+                    <Color Ref="#73d3f1" V="#ff68bfda" Shade="20" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="76">
+                    <Color Ref="#73d3f1" V="#ff5aa8c0" Shade="40" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="80">
+                    <Color Ref="#73d3f1" V="#ff5aa8c0" Shade="40" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="80">
+                    <Color Ref="#73d3f1" V="#ff68bfda" Shade="20" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="100">
+                    <Color Ref="#73d3f1" V="#ff68bfda" Shade="20" ThemeColor="5"/>
+                </Stop>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color V="#ff489ed6" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Scale="100" Mode="1" Blur="0" OffsetX="1.5" OffsetY="1.5" Angle="0">
+                    <Color V="#80bebebe"/>
+                </Shadow>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Direction="30" GradientType="Linear" Type="SingleGradient">
+                <Stop Offset="0">
+                    <Color Ref="#3498db" V="#ff2b81bb" Shade="30" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="25">
+                    <Color Ref="#3498db" V="#ff2b81bb" Shade="30" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="25">
+                    <Color Ref="#3498db" V="#ff308dcc" Shade="15" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="30">
+                    <Color Ref="#3498db" V="#ff308dcc" Shade="15" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="30">
+                    <Color Ref="#3498db" V="#ff2778ae" Shade="40" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="75">
+                    <Color Ref="#3498db" V="#ff2b81bb" Shade="30" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="75">
+                    <Color Ref="#3398dc" V="#ff236ea1" Shade="50" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="100">
+                    <Color Ref="#3398dc" V="#ff236ea1" Shade="50" ThemeColor="5"/>
+                </Stop>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#3398dc" V="#ff236ea1" Shade="50" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Scale="100" Mode="1" Blur="0" OffsetX="1.5" OffsetY="1.5" Angle="0">
+                    <Color V="#80bebebe"/>
+                </Shadow>
+            </EffectFormat>
+        </ShapeFormat>
+        <FontColor>
+            <Color Ref="#98b4d8" V="#1f6391" Shade="60" ThemeColor="5"/>
+            <Color Ref="#98b4d8" V="#1f6391" Shade="60" ThemeColor="5"/>
+            <Color Ref="#98b4d8" V="#1f6391" Shade="60" ThemeColor="5"/>
+            <Color Ref="#98b4d8" V="#1f6391" Shade="60" ThemeColor="5"/>
+            <Color V="#ffffffff"/>
+            <Color V="#ffffffff"/>
+            <Color Ref="#98b4d8" V="#1f6391" Shade="60" ThemeColor="5"/>
+        </FontColor>
+    </ThemeEffect>
+    <ThemeEffect ID="8" Name="Brilliant">
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Direction="180" GradientType="Linear" Type="SingleGradient">
+                <Stop Offset="0">
+                    <Color Tint="60" Ref="#6baad7" V="#ffd4e2f0" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="90">
+                    <Color Tint="60" Ref="#6baad7" V="#ffd4e2f0" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="92">
+                    <Color Tint="50" Ref="#69aad7" V="#ffc7daec" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="92">
+                    <Color Tint="20" Ref="#67a8d7" V="#ff97bee0" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="94">
+                    <Color Tint="20" Ref="#67a8d7" V="#ff97bee0" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="94">
+                    <Color Tint="50" Ref="#69aad7" V="#ffc7daec" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="100">
+                    <Color Tint="60" Ref="#6baad7" V="#ffd4e2f0" ThemeColor="5"/>
+                </Stop>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color V="#ff68a9d7" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Direction="35" GradientType="Linear" Type="SingleGradient">
+                <Stop Offset="0">
+                    <Color Tint="70" Ref="#64abd7" V="#ffdfeaf4" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="82">
+                    <Color Tint="50" Ref="#69aad7" V="#ffc7daec" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="86">
+                    <Color Tint="40" Ref="#7cadd9" V="#ffbfd3e9" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="86">
+                    <Color Tint="20" Ref="#67a8d7" V="#ff97bee0" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="90">
+                    <Color Tint="20" Ref="#67a8d7" V="#ff97bee0" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="90">
+                    <Color Tint="40" Ref="#7cadd9" V="#ffbfd3e9" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="100">
+                    <Color Tint="50" Ref="#69aad7" V="#ffc7daec" ThemeColor="5"/>
+                </Stop>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color V="#ff68a9d7" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Direction="35" GradientType="Linear" Type="SingleGradient">
+                <Stop Offset="0">
+                    <Color Tint="20" Ref="#67a8d7" V="#ff97bee0" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="15">
+                    <Color Tint="20" Ref="#67a8d7" V="#ff97bee0" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="15">
+                    <Color Tint="10" Ref="#67a9d6" V="#ff82b4db" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="18">
+                    <Color Tint="10" Ref="#67a9d6" V="#ff82b4db" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="18">
+                    <Color Tint="40" Ref="#69a9d7" V="#ffb9d1e8" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="78">
+                    <Color Tint="40" Ref="#69a9d7" V="#ffb9d1e8" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="78">
+                    <Color Tint="10" Ref="#67a9d6" V="#ff82b4db" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="100">
+                    <Color Tint="10" Ref="#67a9d6" V="#ff82b4db" ThemeColor="5"/>
+                </Stop>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#68a9d7" V="#ff5b94bd" Shade="25" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Scale="100" Mode="1" Blur="0" OffsetX="1.5" OffsetY="1.5" Angle="0">
+                    <Color V="#80bebebe"/>
+                </Shadow>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Direction="35" GradientType="Linear" Type="SingleGradient">
+                <Stop Offset="0">
+                    <Color Tint="50" Ref="#3099db" V="#ffbed4ee" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="60">
+                    <Color Tint="50" Ref="#3099db" V="#ffbed4ee" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="60">
+                    <Color Tint="60" Ref="#70a2dd" V="#ffd5e0f2" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="100">
+                    <Color Tint="60" Ref="#70a2dd" V="#ffd5e0f2" ThemeColor="5"/>
+                </Stop>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#3598db" V="#ff2d85c1" Shade="25" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Scale="100" Mode="1" Blur="0" OffsetX="1.5" OffsetY="1.5" Angle="0">
+                    <Color V="#80bebebe"/>
+                </Shadow>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Direction="135" GradientType="Linear" Type="SingleGradient">
+                <Stop Offset="0">
+                    <Color V="#ff3498db" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="60">
+                    <Color V="#ff3498db" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="60">
+                    <Color Ref="#3498db" V="#ff308dcc" Shade="15" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="76">
+                    <Color Ref="#3498db" V="#ff308dcc" Shade="15" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="76">
+                    <Color Tint="60" Ref="#2d97da" V="#ffcdddf1" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="80">
+                    <Color Tint="60" Ref="#2d97da" V="#ffcdddf1" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="80">
+                    <Color Ref="#3498db" V="#ff308dcc" Shade="15" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="100">
+                    <Color Ref="#3498db" V="#ff308dcc" Shade="15" ThemeColor="5"/>
+                </Stop>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#3398dc" V="#ff236ea1" Shade="50" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Scale="100" Mode="1" Blur="0" OffsetX="1.5" OffsetY="1.5" Angle="0">
+                    <Color V="#80bebebe"/>
+                </Shadow>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Direction="140" GradientType="Linear" Type="SingleGradient">
+                <Stop Offset="0">
+                    <Color Ref="#3498db" V="#ff2b81bb" Shade="30" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="25">
+                    <Color Ref="#3498db" V="#ff2b81bb" Shade="30" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="25">
+                    <Color Ref="#3498db" V="#ff308dcc" Shade="15" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="30">
+                    <Color Ref="#3498db" V="#ff308dcc" Shade="15" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="30">
+                    <Color Ref="#3498db" V="#ff2778ae" Shade="40" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="75">
+                    <Color Ref="#3498db" V="#ff2b81bb" Shade="30" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="75">
+                    <Color Ref="#3398dc" V="#ff236ea1" Shade="50" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="100">
+                    <Color Ref="#3398dc" V="#ff236ea1" Shade="50" ThemeColor="5"/>
+                </Stop>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#3398dc" V="#ff236ea1" Shade="50" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Scale="100" Mode="1" Blur="0" OffsetX="1.5" OffsetY="1.5" Angle="0">
+                    <Color V="#80bebebe"/>
+                </Shadow>
+            </EffectFormat>
+        </ShapeFormat>
+        <FontColor>
+            <Color Ref="#98b4d8" V="#1f6391" Shade="60" ThemeColor="5"/>
+            <Color Ref="#98b4d8" V="#1f6391" Shade="60" ThemeColor="5"/>
+            <Color Ref="#98b4d8" V="#1f6391" Shade="60" ThemeColor="5"/>
+            <Color Ref="#98b4d8" V="#1f6391" Shade="60" ThemeColor="5"/>
+            <Color V="#ffffffff"/>
+            <Color V="#ffffffff"/>
+            <Color Ref="#98b4d8" V="#1f6391" Shade="60" ThemeColor="5"/>
+        </FontColor>
+    </ThemeEffect>
+    <ThemeEffect ID="9" Name="Beach">
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Type="Solid">
+                <Color V="#ffffffff" ThemeColor="1"/>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#6fbbce" V="#ff61a4b5" Shade="25" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Type="Solid">
+                <Color Tint="40" Ref="#70bccd" V="#ffbbdae3" ThemeColor="5"/>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#6fbbce" V="#ff61a4b5" Shade="25" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Type="Solid">
+                <Color V="#ff6fbbce" ThemeColor="5"/>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color V="#ff6fbbce" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Scale="100" Mode="2" Blur="3" OffsetX="1.5" OffsetY="0" Angle="0">
+                    <Color V="#66000000"/>
+                </Shadow>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat GradientType="Rectangle" Type="SingleGradient" PreDefine="2" FocusY="0.5" FocusX="0.5">
+            	  <Stop Offset="0">
+                    <Color Tint="50" Ref="#6ebace" V="#ffc8e0e8" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="80">
+                    <Color Tint="40" Ref="#70bccd" V="#ffbbdae3" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="100">
+                    <Color Tint="20" Ref="#6fbbce" V="#ff9bcbd9" ThemeColor="5"/>
+                </Stop>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#6fbbce" V="#ff61a4b5" Shade="25" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Scale="100" Mode="1" Blur="0" OffsetX="1.5" OffsetY="1.5" Angle="0">
+                    <Color V="#33000000" ThemeColor="2"/>
+                </Shadow>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat GradientType="Rectangle" Type="SingleGradient" PreDefine="2" FocusY="0.5" FocusX="0.5">
+                <Stop Offset="0">
+                    <Color Tint="10" Ref="#6fbbce" V="#ff87c3d4" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="80">
+                    <Color V="#ff6fbbce" ThemeColor="5"/>
+                </Stop>                            	
+                <Stop Offset="100">
+                    <Color Ref="#6fbbcd" V="#ff64a9ba" Shade="20" ThemeColor="5"/>
+                </Stop>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#6fbbce" V="#ff61a4b5" Shade="25" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Scale="100" Mode="1" Blur="0" OffsetX="1.5" OffsetY="1.5" Angle="0">
+                    <Color V="#33000000" ThemeColor="2"/>
+                </Shadow>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat GradientType="Rectangle" Type="SingleGradient" PreDefine="2" FocusY="0.5" FocusX="0.5">
+                <Stop Offset="0">
+                    <Color Ref="#6fbbce" V="#ff6ab2c5" Shade="10" ThemeColor="5"/>
+                </Stop>            	
+                <Stop Offset="80">
+                    <Color Ref="#6fbbce" V="#ff5e9fb0" Shade="30" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="100">
+                    <Color Ref="#6fbcce" V="#ff508997" Shade="50" ThemeColor="5"/>
+                </Stop>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#6fbcce" V="#ff508997" Shade="50" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Scale="100" Mode="1" Blur="0" OffsetX="1.5" OffsetY="1.5" Angle="0">
+                    <Color V="#33000000" ThemeColor="2"/>
+                </Shadow>
+            </EffectFormat>
+        </ShapeFormat>
+        <FontColor>
+            <Color Ref="#98b4d8" V="#1f6391" Shade="60" ThemeColor="5"/>
+            <Color Ref="#98b4d8" V="#1f6391" Shade="60" ThemeColor="5"/>
+            <Color V="#ffffffff"/>
+            <Color Ref="#98b4d8" V="#1f6391" Shade="60" ThemeColor="5"/>
+            <Color V="#ffffffff"/>
+            <Color V="#ffffffff"/>
+            <Color Ref="#98b4d8" V="#1f6391" Shade="60" ThemeColor="5"/>
+        </FontColor>
+    </ThemeEffect>
+    <ThemeEffect ID="10" Name="City">
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Type="Solid">
+                <Color V="#ffffffff"/>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="0.25"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#9c9dc7" V="#ff898aaf" Shade="25" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Direction="0" GradientType="Linear" Type="SingleGradient">
+                <Stop Offset="0">
+                    <Color Tint="50" Ref="#9c9cc6" V="#ffd5d5e5" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="50">
+                    <Color Tint="60" Ref="#9b9fc8" V="#ffdedfeb" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="100">
+                    <Color Tint="50" Ref="#9c9cc6" V="#ffd5d5e5" ThemeColor="5"/>
+                </Stop>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#9c9dc7" V="#ff898aaf" Shade="25" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Type="Solid">
+                <Color V="#ff9c9dc7" ThemeColor="5"/>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color V="#ff9c9dc7" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Direction="0" GradientType="Linear" Type="SingleGradient">
+                <Stop Offset="0">
+                    <Color Tint="20" Ref="#9c9cc7" V="#ffb6b6d4" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="50">
+                    <Color Tint="40" Ref="#9b9ec8" V="#ffcbcce0" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="100">
+                    <Color Tint="20" Ref="#9c9cc7" V="#ffb6b6d4" ThemeColor="5"/>
+                </Stop>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#9c9dc7" V="#ff898aaf" Shade="25" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Direction="0" GradientType="Linear" Type="SingleGradient">
+                <Stop Offset="0">
+                    <Color V="#ff9c9dc7" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="50">
+                    <Color Tint="20" Ref="#9c9cc7" V="#ffb6b6d4" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="100">
+                    <Color V="#ff9c9dc7" ThemeColor="5"/>
+                </Stop>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#9c9dc7" V="#ff898aaf" Shade="25" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Scale="100" Mode="1" Blur="0" OffsetX="1.5" OffsetY="1.5" Angle="0">
+                    <Color V="#33000000"/>
+                </Shadow>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Direction="0" GradientType="Linear" Type="SingleGradient">
+                <Stop Offset="0">
+                    <Color Ref="#9c9dc7" V="#ff8d8eb4" Shade="20" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="50">
+                    <Color V="#ff9c9dc7" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="100">
+                    <Color Ref="#9c9dc7" V="#ff8d8eb4" Shade="20" ThemeColor="5"/>
+                </Stop>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#9c9dc7" V="#ff898aaf" Shade="25" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Scale="100" Mode="1" Blur="0" OffsetX="1.5" OffsetY="1.5" Angle="0">
+                    <Color V="#33000000"/>
+                </Shadow>
+            </EffectFormat>
+        </ShapeFormat>
+        <FontColor>
+            <Color V="#ff454545"/>
+            <Color V="#ff454545"/>
+            <Color V="#ffffffff"/>
+            <Color V="#ff454545"/>
+            <Color V="#ffffffff"/>
+            <Color V="#ffffffff"/>
+            <Color V="#ff454545"/>
+        </FontColor>
+    </ThemeEffect>
+    <ThemeEffect ID="11" Name="Technic">
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Type="Solid">
+                <Color V="#ffffffff"/>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#8fb6c3" V="#ff7da0ab" Shade="25" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Direction="135" GradientType="Linear" Type="SingleGradient">
+                <Stop Offset="0">
+                    <Color Tint="20" Ref="#8eb5c2" V="#ffadc7d0" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="50">
+                    <Color Tint="40" Ref="#8fb6c2" V="#ffc6d7dd" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="100">
+                    <Color Tint="20" Ref="#8eb5c2" V="#ffadc7d0" ThemeColor="5"/>
+                </Stop>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#8fb6c3" V="#ff7da0ab" Shade="25" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Direction="90" GradientType="Linear" Type="SingleGradient">
+                <Stop Offset="0">
+                    <Color Tint="60" Ref="#8eb4c2" V="#ffdbe5e9" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="90">
+                    <Color Tint="60" Ref="#8eb4c2" V="#ffdbe5e9" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="90">
+                    <Color V="#ff8fb6c2" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="100">
+                    <Color Tint="40" Ref="#8fb6c2" V="#ffc6d7dd" ThemeColor="5"/>
+                </Stop>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#8fb6c3" V="#ff7da0ab" Shade="25" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Direction="90" GradientType="Linear" Type="SingleGradient">
+                <Stop Offset="0">
+                    <Color Tint="20" Ref="#8eb5c2" V="#ffadc7d0" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="50">
+                    <Color Tint="40" Ref="#8fb6c2" V="#ffc6d7dd" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="100">
+                    <Color Tint="20" Ref="#8eb5c2" V="#ffadc7d0" ThemeColor="5"/>
+                </Stop>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#8fb6c3" V="#ff7da0ab" Shade="25" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Direction="90" GradientType="Linear" Type="SingleGradient">
+                <Stop Offset="0">
+                    <Color V="#ff8fb6c2" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="50">
+                    <Color Tint="20" Ref="#8eb5c2" V="#ffadc7d0" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="100">
+                    <Color V="#ff8fb6c2" ThemeColor="5"/>
+                </Stop>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#8fb6c3" V="#ff7da0ab" Shade="25" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Scale="100" Mode="1" Blur="0" OffsetX="1.5" OffsetY="1.5" Angle="0">
+                    <Color V="#33000000"/>
+                </Shadow>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Direction="90" GradientType="Linear" Type="SingleGradient">
+                <Stop Offset="0">
+                    <Color Ref="#90b6c2" V="#ff68858e" Shade="50" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="50">
+                    <Color Ref="#8fb6c2" V="#ff799ba5" Shade="30" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="100">
+                    <Color Ref="#90b6c2" V="#ff68858e" Shade="50" ThemeColor="5"/>
+                </Stop>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#90b6c2" V="#ff68858e" Shade="50" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Scale="100" Mode="1" Blur="0" OffsetX="1.5" OffsetY="1.5" Angle="0">
+                    <Color V="#33000000"/>
+                </Shadow>
+            </EffectFormat>
+        </ShapeFormat>
+        <FontColor>
+            <Color V="#ff454545"/>
+            <Color V="#ff454545"/>
+            <Color V="#ff454545"/>
+            <Color V="#ff454545"/>
+            <Color V="#ffffffff"/>
+            <Color V="#ffffffff"/>
+            <Color V="#ff454545"/>
+        </FontColor>
+    </ThemeEffect>
+    <ThemeEffect ID="12" Name="Nature">
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Type="Solid">
+                <Color V="#ffffffff" ThemeColor="1"/>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="0.25"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#94b6d2" V="#ff82a0b9" Shade="25" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Type="Solid">
+                <Color V="#ffffffff" ThemeColor="1"/>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#94b6d2" V="#ff82a0b9" Shade="25" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Direction="125" GradientType="Linear" Type="SingleGradient">
+                <Stop Offset="0">
+                    <Color V="#ffffffff" ThemeColor="1"/>
+                </Stop>
+                <Stop Offset="100">
+                    <Color Tint="70" Ref="#96b5d3" V="#ffe6ecf3" ThemeColor="5"/>
+                </Stop>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#94b6d2" V="#ff82a0b9" Shade="25" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Type="Solid">
+                <Color V="#ffffffff" ThemeColor="1"/>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="3"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#94b6d2" V="#ff82a0b9" Shade="25" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Direction="0" GradientType="Linear" Type="SingleGradient">
+                <Stop Offset="0">
+                    <Color Tint="60" Ref="#92b4d1" V="#ffdce5ee" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="5">
+                    <Color Tint="60" Ref="#92b4d1" V="#ffdce5ee" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="5">
+                    <Color Ref="#94b6d2" V="#ff82a0b9" Shade="25" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="8">
+                    <Color Ref="#94b6d2" V="#ff82a0b9" Shade="25" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="8">
+                    <Color V="#ffffffff" ThemeColor="1"/>
+                </Stop>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#94b6d2" V="#ff82a0b9" Shade="25" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Scale="100" Mode="1" Blur="0" OffsetX="1.5" OffsetY="1.5" Angle="0">
+                    <Color V="#33000000"/>
+                </Shadow>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Direction="125" GradientType="Linear" Type="SingleGradient">
+                <Stop Offset="0">
+                    <Color Tint="80" Ref="#98b8d3" V="#ffeff3f7" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="30">
+                    <Color Tint="60" Ref="#92b4d1" V="#ffdce5ee" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="100">
+                    <Color V="#ff94b6d2" ThemeColor="5"/>
+                </Stop>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#94b6d2" V="#ff82a0b9" Shade="25" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Scale="100" Mode="1" Blur="0" OffsetX="1.5" OffsetY="1.5" Angle="0">
+                    <Color V="#33000000"/>
+                </Shadow>
+            </EffectFormat>
+        </ShapeFormat>
+        <FontColor>
+            <Color Ref="#98b4d8" V="#1f6391" Shade="60" ThemeColor="5"/>
+            <Color Ref="#98b4d8" V="#1f6391" Shade="60" ThemeColor="5"/>
+            <Color Ref="#98b4d8" V="#1f6391" Shade="60" ThemeColor="5"/>
+            <Color Ref="#98b4d8" V="#1f6391" Shade="60" ThemeColor="5"/>
+            <Color V="#ff454545"/>
+            <Color V="#ff454545"/>
+            <Color Ref="#98b4d8" V="#1f6391" Shade="60" ThemeColor="5"/>
+        </FontColor>
+    </ThemeEffect>
+    <ThemeEffect ID="13" Name="Engine">
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Type="Solid">
+                <Color V="#ffffffff" ThemeColor="1"/>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="0.25"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#dedede" V="#ff747474" Shade="76" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Direction="45" GradientType="Linear" Type="SingleGradient">
+                <Stop Offset="0">
+                    <Color Tint="90" Ref="#a7a7a7" V="#fff8f8f8" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="100">
+                    <Color Tint="100" Ref="#ffffff" V="#ffffffff" ThemeColor="5"/>
+                </Stop>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="0.25"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#dedede" V="#ff747474" Shade="76" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Type="Solid">
+                <Color V="#ffffffff" ThemeColor="1"/>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#dedede" V="#ff747474" Shade="76" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Type="Solid">
+                <Color V="#ffffffff" ThemeColor="1"/>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#dedede" V="#ff747474" Shade="76" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Type="Solid">
+                <Color Tint="60" Ref="#979797" V="#ffdddddd" ThemeColor="5"/>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Tint="60" Ref="#979797" V="#ffdddddd" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Type="Solid">
+                <Color Ref="#dedede" V="#ff747474" Shade="76" ThemeColor="5"/>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#dedede" V="#ff747474" Shade="76" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <FontColor>
+            <Color V="#ff303030"/>
+            <Color V="#ff303030"/>
+            <Color V="#ff303030"/>
+            <Color V="#ff303030"/>
+            <Color V="#ff303030"/>
+            <Color V="#ffffffff"/>
+            <Color V="#ff303030"/>
+        </FontColor>
+    </ThemeEffect>
+    <ThemeEffect ID="14" Name="Shining">
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Type="Solid">
+                <Color V="#ffffffff"/>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="0.25"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color V="#ffbf8096" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Direction="135" GradientType="Linear" Type="SingleGradient">
+                <Stop Offset="0">
+                    <Color Tint="80" Ref="#bf8598" V="#fff4edef" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="100">
+                    <Color Tint="100" Ref="#ffffff" V="#ffffffff" ThemeColor="5"/>
+                </Stop>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color V="#ffbf8096" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Type="Solid">
+                <Color Tint="40" Ref="#c07f96" V="#ffdcc0c9" ThemeColor="5"/>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="3"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color V="#ffbf8096" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Direction="90" GradientType="Linear" Type="SingleGradient">
+                <Stop Offset="0">
+                    <Color Tint="70" Ref="#be8396" V="#ffeee3e6" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="50">
+                    <Color Tint="40" Ref="#c07f96" V="#ffdcc0c9" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="50">
+                    <Color Tint="20" Ref="#bf8096" V="#ffcea4b2" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="100">
+                    <Color Tint="40" Ref="#c07f96" V="#ffdcc0c9" ThemeColor="5"/>
+                </Stop>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color V="#ffbf8096" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Direction="90" GradientType="Linear" Type="SingleGradient">
+                <Stop Offset="0">
+                    <Color Tint="50" Ref="#bf8196" V="#ffe2cdd3" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="49">
+                    <Color Tint="10" Ref="#bf8196" V="#ffc794a5" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="49">
+                    <Color V="#ffbf8096" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="100">
+                    <Color Tint="20" Ref="#bf8096" V="#ffcea4b2" ThemeColor="5"/>
+                </Stop>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#bf8095" V="#ffa87083" Shade="25" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Direction="90" GradientType="Linear" Type="SingleGradient">
+                <Stop Offset="0">
+                    <Color Tint="20" Ref="#bf8096" V="#ffcea4b2" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="90">
+                    <Color V="#ffbf8096" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="90">
+                    <Color Ref="#bf8095" V="#ffa87083" Shade="25" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="100">
+                    <Color V="#ffbf8096" ThemeColor="5"/>
+                </Stop>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#c08096" V="#ff8c5c6d" Shade="50" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Scale="100" Mode="1" Blur="0" OffsetX="1.5" OffsetY="1.5" Angle="0">
+                    <Color V="#33000000" ThemeColor="2"/>
+                </Shadow>
+            </EffectFormat>
+        </ShapeFormat>
+        <FontColor>
+            <Color V="#ff303030"/>
+            <Color V="#ff303030"/>
+            <Color V="#ff303030"/>
+            <Color V="#ff303030"/>
+            <Color V="#ffffffff"/>
+            <Color V="#ffffffff"/>
+            <Color V="#ff303030"/>
+        </FontColor>
+    </ThemeEffect>
+    <ThemeEffect ID="15" Name="Texture">
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Type="Solid">
+                <Color V="#ffffffff"/>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color V="#fff0a22e" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Type="Hatch" Style="12">
+                <ForeColor Tint="60" Ref="#f0a22d" V="#fff9e0cd" ThemeColor="5"/>
+                <BackColor Tint="80" Ref="#efa134" V="#fffcf0e8" ThemeColor="5"/>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color V="#fff0a22e" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Type="Solid">
+                <Color V="#fff0a22e" ThemeColor="5"/>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color V="#fff0a22e" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Type="Hatch" Style="13">
+                <ForeColor Tint="60" Ref="#f0a22d" V="#fff9e0cd" ThemeColor="5"/>
+                <BackColor Tint="80" Ref="#efa134" V="#fffcf0e8" ThemeColor="5"/>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color V="#fff0a22e" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Type="Hatch" Style="12">
+                <ForeColor Tint="30" Ref="#f1a22d" V="#fff5c499" ThemeColor="5"/>
+                <BackColor Tint="60" Ref="#f0a22d" V="#fff9e0cd" ThemeColor="5"/>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color V="#fff0a22e" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Type="Hatch" Style="14">
+                <ForeColor V="#fff0a22e" ThemeColor="5"/>
+                <BackColor Tint="20" Ref="#f0a330" V="#fff3ba82" ThemeColor="5"/>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#f0a22e" V="#ffd38e27" Shade="25" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Scale="100" Mode="1" Blur="0" OffsetX="1.5" OffsetY="1.5" Angle="0">
+                    <Color V="#33000000"/>
+                </Shadow>
+            </EffectFormat>
+        </ShapeFormat>
+        <FontColor>
+            <Color Ref="#98b4d8" V="#1f6391" Shade="60" ThemeColor="5"/>
+            <Color Ref="#98b4d8" V="#1f6391" Shade="60" ThemeColor="5"/>
+            <Color V="#ffffffff"/>
+            <Color Ref="#98b4d8" V="#1f6391" Shade="60" ThemeColor="5"/>
+            <Color Ref="#98b4d8" V="#1f6391" Shade="60" ThemeColor="5"/>
+            <Color V="#ffffffff"/>
+            <Color Ref="#98b4d8" V="#1f6391" Shade="60" ThemeColor="5"/>
+        </FontColor>
+    </ThemeEffect>
+    <ThemeEffect ID="16" Name="Cross">
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Type="Solid">
+                <Color V="#ffffffff" ThemeColor="1"/>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#a5b592" V="#ff919f80" Shade="25" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat GradientType="Rectangle" Type="Gradient" PreDefine="4" FocusY="0" FocusX="0">
+            	  <Stop Offset="0">
+                    <Color Tint="60" Ref="#a6b492" V="#ffe1e5dc" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="60">
+                    <Color Tint="40" Ref="#a4b691" V="#ffcfd7c7" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="100">
+                    <Color Tint="20" Ref="#a5b592" V="#ffbcc7af" ThemeColor="5"/>
+                </Stop>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#a5b592" V="#ff919f80" Shade="25" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Type="Solid">
+                <Color V="#ffa5b592" ThemeColor="5"/>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color V="#ffa5b592" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat GradientType="Radial" Type="Gradient" PreDefine="2" FocusY="0.5" FocusX="0.5">
+            	  <Stop Offset="0">
+                    <Color Tint="50" Ref="#a4b592" V="#ffd8ded2" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="60">
+                    <Color Tint="30" Ref="#a5b593" V="#ffc6cfbc" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="100">
+                    <Color Tint="15" Ref="#a5b693" V="#ffb6c3a9" ThemeColor="5"/>
+                </Stop>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#a5b592" V="#ff919f80" Shade="25" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat Direction="90" GradientType="Linear" Type="Gradient">
+                <Stop Offset="0">
+                    <Color Tint="20" Ref="#80d13b" V="#ffa4db85" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="100">
+                    <Color Ref="#7fd13b" V="#ff79c738" Shade="10" ThemeColor="5"/>
+                </Stop>
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#7fd13b" V="#ff6fb833" Shade="25" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Scale="100" Mode="1" Blur="0" OffsetX="1.5" OffsetY="1.5" Angle="0">
+                    <Color V="#33000000"/>
+                </Shadow>
+            </EffectFormat>
+        </ShapeFormat>
+        <ShapeFormat QuickMask="-1">
+            <FillFormat GradientType="Radial" Type="Gradient" PreDefine="2" FocusY="0.5" FocusX="0.5">
+            	  <Stop Offset="0">
+                    <Color Tint="20" Ref="#80d13b" V="#ffa4db85" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="60">
+                    <Color V="#ff7fd13b" ThemeColor="5"/>
+                </Stop>
+                <Stop Offset="100">
+                    <Color Ref="#7fd13b" V="#ff76c236" Shade="15" ThemeColor="5"/>
+                </Stop>                
+            </FillFormat>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="1"/>
+                <BeginArrow Size="4" ID="0"/>
+                <EndArrow Size="4" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color Ref="#7fd13b" V="#ff6fb833" Shade="25" ThemeColor="5"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Scale="100" Mode="1" Blur="0" OffsetX="1.5" OffsetY="1.5" Angle="0">
+                    <Color V="#33000000"/>
+                </Shadow>
+            </EffectFormat>
+        </ShapeFormat>
+        <FontColor>
+            <Color V="#ff454545"/>
+            <Color V="#ff454545"/>
+            <Color V="#ffffffff"/>
+            <Color V="#ff303030"/>
+            <Color V="#ff303030"/>
+            <Color V="#ff303030"/>
+            <Color V="#ff454545"/>
+        </FontColor>
+    </ThemeEffect>
+</ThemeEffects>

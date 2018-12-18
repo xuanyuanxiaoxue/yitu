@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Garden">
+    <Elem Prompt="游泳池" Name="游泳池" PromptU="Swimming Pool" NameU="Swimming Pool"/>
+    <Elem Prompt="游泳池" Name="游泳池" PromptU="Swimming Pool" NameU="Swimming Pool"/>
+    <Elem Prompt="游泳池" Name="游泳池" PromptU="Swimming Pool" NameU="Swimming Pool"/>
+    <Elem Prompt="喷泉水池" Name="喷泉水池" PromptU="Fountain Pool" NameU="Fountain Pool"/>
+    <Elem Prompt="喷泉水池 2" Name="喷泉水池 2" PromptU="Fountain Pool 2" NameU="Fountain Pool 2"/>
+    <Elem Prompt="喷泉水池 3" Name="喷泉水池 3" PromptU="Fountain Pool 3" NameU="Fountain Pool 3"/>
+    <Elem Prompt="喷泉水池 4" Name="喷泉水池 4" PromptU="Fountain Pool 4" NameU="Fountain Pool 4"/>
+    <Elem Prompt="喷泉水池 5" Name="喷泉水池 5" PromptU="Fountain Pool 5" NameU="Fountain Pool 5"/>
+    <Elem Prompt="喷泉水池 6" Name="喷泉水池 6" PromptU="Fountain Pool 6" NameU="Fountain Pool 6"/>
+    <Elem Prompt="喷泉水池 7" Name="喷泉水池 7" PromptU="Fountain Pool 7" NameU="Fountain Pool 7"/>
+    <Elem Prompt="喷泉水池 8" Name="喷泉水池 8" PromptU="Fountain Pool 8" NameU="Fountain Pool 8"/>
+    <Elem Prompt="池塘" Name="池塘" PromptU="Pond" NameU="Pond"/>
+    <Elem Prompt="池塘" Name="池塘" PromptU="Pond" NameU="Pond"/>
+    <Elem Prompt="池塘" Name="池塘" PromptU="Pond" NameU="Pond"/>
+    <Elem Prompt="池塘" Name="池塘" PromptU="Pond" NameU="Pond"/>
+    <Elem Prompt="休闲区" Name="休闲区" PromptU="Recreational Areas" NameU="Recreational Areas"/>
+    <Elem Prompt="石凳" Name="石凳" PromptU="Stone Bench" NameU="Stone Bench"/>
+    <Elem Prompt="石凳" Name="石凳" PromptU="Stone Bench" NameU="Stone Bench"/>
+    <Elem Prompt="石凳" Name="石凳" PromptU="Stone Bench" NameU="Stone Bench"/>
+    <Elem Prompt="石桥" Name="石桥" PromptU="Stone Bridge" NameU="Stone Bridge"/>
+    <Elem Prompt="石桥" Name="石桥" PromptU="Stone Bridge" NameU="Stone Bridge"/>
+    <Elem Prompt="木桥" Name="木桥" PromptU="Timber Bridge" NameU="Timber Bridge"/>
+    <Elem Prompt="木桥" Name="木桥" PromptU="Timber Bridge" NameU="Timber Bridge"/>
+    <Elem Prompt="长廊和桥" Name="长廊和桥" PromptU="The long corridor and bridge" NameU="The long corridor and bridge"/>
+    <Elem Prompt="长廊" Name="长廊" PromptU="The long corridor" NameU="The long corridor"/>
+    <Elem Prompt="长廊" Name="长廊" PromptU="The long corridor" NameU="The long corridor"/>
+    <Elem Prompt="秋千长椅" Name="秋千长椅" PromptU="Swing Bench" NameU="Swing Bench"/>
+    <Elem Prompt="躺椅" Name="躺椅" PromptU="Recliner" NameU="Recliner"/>
+    <Elem Prompt="躺椅" Name="躺椅" PromptU="Recliner" NameU="Recliner"/>
+    <Elem Prompt="木桌和木椅" Name="木桌和木椅" PromptU="Wooden tables and chairs" NameU="Wooden tables and chairs"/>
+    <Elem Prompt="木桌和木椅" Name="木桌和木椅" PromptU="Wooden tables and chairs" NameU="Wooden tables and chairs"/>
+    <Elem Prompt="长板凳" Name="长板凳" PromptU="Long bench" NameU="Long bench"/>
+    <Elem Prompt="长木凳" Name="长木凳" PromptU="Long wooden" NameU="Long wooden"/>
+    <Elem Prompt="长木凳" Name="长木凳" PromptU="Long wooden" NameU="Long wooden"/>
+    <Elem Prompt="桌子" Name="桌子" PromptU="Table" NameU="Table"/>
+    <Elem Prompt="7字形椅" Name="7字形椅" PromptU="Seven glyph bench" NameU="Seven glyph bench"/>
+    <Elem Prompt="7字形椅" Name="7字形椅" PromptU="Seven glyph bench" NameU="Seven glyph bench"/>
+    <Elem Prompt="U形椅" Name="U形椅" PromptU="U-Shaped bench" NameU="U-Shaped bench"/>
+    <Elem Prompt="亭子" Name="亭子" PromptU="Pavilion" NameU="Pavilion"/>
+    <Elem Prompt="落地灯" Name="落地灯" PromptU="Floor lamp" NameU="Floor lamp"/>
+    <Elem Prompt="落地灯" Name="落地灯" PromptU="Floor lamp" NameU="Floor lamp"/>
+    <Elem Prompt="落地灯" Name="落地灯" PromptU="Floor lamp" NameU="Floor lamp"/>
+    <Elem Prompt="灯" Name="灯" PromptU="lamp" NameU="lamp"/>
+    <Elem Prompt="石路" Name="石路" PromptU="Stone road" NameU="Stone road"/>
+    <Elem Prompt="鹅卵石路" Name="鹅卵石路" PromptU="Cobbled roadway" NameU="Cobbled roadway"/>
+    <Elem Prompt="岩石庭院" Name="岩石庭院" PromptU="Rock garden" NameU="Rock garden"/>
+    <Elem Prompt="石路" Name="石路" PromptU="Stone Path" NameU="Stone Path"/>
+    <Elem Prompt="石路" Name="石路" PromptU="Stone Path" NameU="Stone Path"/>
+    <Elem Prompt="石路" Name="石路" PromptU="Rocky road" NameU="Rocky road"/>
+    <Elem Prompt="小河" Name="小河" PromptU="Creek brook" NameU="Creek brook"/>
+    <Elem Prompt="泳圈" Name="泳圈" PromptU="Swim ring" NameU="Swim ring"/>
+    <Elem Prompt="泳圈" Name="泳圈" PromptU="Swim ring" NameU="Swim ring"/>
+    <Elem Prompt="荷花和荷叶" Name="荷花和荷叶" PromptU="Lotus and the lotus leaf" NameU="Lotus and the lotus leaf"/>
+    <Elem Prompt="荷花" Name="荷花" PromptU="Lotus" NameU="Lotus"/>
+    <Elem Prompt="荷叶" Name="荷叶" PromptU="Lotus Leaf" NameU="Lotus Leaf"/>
+    <Elem Prompt="花圃" Name="花圃" PromptU="Framed flower bed" NameU="Framed flower bed"/>
+    <Elem Prompt="草坪" Name="草坪" PromptU="Lawn" NameU="Lawn"/>
+    <Elem Prompt="花草和石头" Name="花草和石头" PromptU="Flower and stone" NameU="Flower and stone"/>
+    <Elem Prompt="石头" Name="石头" PromptU="Stone" NameU="Stone"/>
+    <Elem Prompt="石头 2" Name="石头 2" PromptU="Stone 2" NameU="Stone 2"/>
+    <Elem Prompt="值班室" Name="值班室" PromptU="Duty Room" NameU="Duty Room"/>
+    <Elem Prompt="木篱笆" Name="木篱笆" PromptU="Wood fence" NameU="Wood fence"/>
+    <Elem Prompt="木门" Name="木门" PromptU="Wood gate" NameU="Wood gate"/>
+    <Elem Prompt="木柱" Name="木柱" PromptU="Wood post" NameU="Wood post"/>
+    <Elem Prompt="亭子" Name="亭子" PromptU="Pavilion" NameU="Pavilion"/>
+    <Elem Prompt="伞" Name="伞" PromptU="Umbrella" NameU="Umbrella"/>
+    <Elem Prompt="伞" Name="伞" PromptU="Umbrella" NameU="Umbrella"/>
+    <Elem Prompt="石篱笆" Name="石篱笆" PromptU="Stone fence" NameU="Stone fence"/>
+    <Elem Prompt="链环篱笆" Name="链环篱笆" PromptU="Chain link fence" NameU="Chain link fence"/>
+    <Elem Prompt="篱笆" Name="篱笆" PromptU="Fence" NameU="Fence"/>
+    <Elem Prompt="链环门" Name="链环门" PromptU="Chain link gate" NameU="Chain link gate"/>
+    <Elem Prompt="金属柱子" Name="金属柱子" PromptU="Metal post" NameU="Metal post"/>
+    <Elem Prompt="圆石" Name="圆石" PromptU="Round stone" NameU="Round stone"/>
+    <Elem Prompt="方石" Name="方石" PromptU="Square stone" NameU="Square stone"/>
+    <Elem Prompt="石板" Name="石板" PromptU="Flagstone" NameU="Flagstone"/>
+    <Elem Prompt="六边形" Name="六边形" PromptU="Hexagon" NameU="Hexagon"/>
+    <Elem Prompt="车道" Name="车道" PromptU="Driveway" NameU="Driveway"/>
+    <Elem Prompt="砖路" Name="砖路" PromptU="Brick pathway" NameU="Brick pathway"/>
+    <Elem Prompt="露台" Name="露台" PromptU="Patio" NameU="Patio"/>
+    <Elem Prompt="垃圾分类回收桶" Name="垃圾分类回收桶" PromptU="Garbage sorting recycling barrel" NameU="Garbage sorting recycling barrel"/>
+    <Elem Prompt="垃圾分类回收桶" Name="垃圾分类回收桶" PromptU="Garbage sorting recycling barrel" NameU="Garbage sorting recycling barrel"/>
+    <Elem Prompt="篮球场" Name="篮球场" PromptU="Basketball court" NameU="Basketball court"/>
+    <Elem Prompt="高设花台" Name="高设花台" PromptU="Raised flower bed" NameU="Raised flower bed"/>
+    <Elem Prompt="健身器材" Name="健身器材" PromptU="Fitness equipment" NameU="Fitness equipment"/>
+    <Elem Prompt="健身器材" Name="健身器材" PromptU="Fitness equipment" NameU="Fitness equipment"/>
+    <Elem Prompt="健身器材" Name="健身器材" PromptU="Fitness equipment" NameU="Fitness equipment"/>
+    <Elem Prompt="健身器材" Name="健身器材" PromptU="Fitness equipment" NameU="Fitness equipment"/>
+    <Elem Prompt="室外儿童游乐区" Name="室外儿童游乐区" PromptU="Outdoor Children's Play Area" NameU="Outdoor Children's Play Area"/>
+    <Elem Prompt="钢琴" Name="钢琴" PromptU="Piano" NameU="Piano"/>
+</Lib>

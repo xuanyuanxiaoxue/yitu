@@ -1,0 +1,1519 @@
+﻿<?xml version="1.0" encoding="UTF-8"?> 
+<Galleries Default = "Basic Diagram">
+
+<Gallery NameU = "Basic Diagram" Name = "Basic Diagram" Version = "1.0" Help = "createbasicdiagram.php" Description= "Contains 2-D geometric shapes, 3-D geometric shapes and highlight style shapes for functional decomposition, hierarchical, data structure, data flow block, and data block diagrams.">
+<Templates NameU = "Blank Drawing" Name = "Blank Drawing" Icon = "./basicdraw/blank.bmp" Description= "Create a blank document.">
+</Templates>
+
+<Templates NameU = "Arrows" Name = "Arrows" Theme= "Edraw Flat" Icon = "./basicdraw/arrowdiagrams.bmp" Description= "Shows the required order of tasks in a project or process, the best schedule for the entire project, and potential scheduling and resource problems and their solutions.">
+	<Template Path = "./Basic Shape/Arrow Connectors.edt" Name = "Arrow Connectors"></Template>
+	<Template Path = "./Basic Shape/arrow.edt" Name = "Arrow Shapes"></Template>
+	<Template Path = "./Business Process/Circular Charting Shapes.edt" Name = "Circular Charting Shapes"></Template>
+</Templates>
+
+<Templates NameU = "Block Diagram" Name = "Block Diagram" Theme= "Edraw Flat" Icon = "./basicdraw/2d.bmp" Help = "createbasicdiagram.php" Description= "Contains 2-D geometric shapes and directional lines for feedback loops and for functional docomposition, hierarchical, data structure, data flow block, and data block diagrams.">
+<Template Path = "./Basic Shape/backgrounds.edt" Name = "Backgrounds"></Template>
+<Template Path = "./Basic Shape/arrow.edt" Name = "Arrow Shapes"></Template>
+<Template Path = "./Basic Shape/Text Box.edt" Name = "Text Box"></Template>		
+<Template Path = "./Basic Shape/basicshapes.edt" Name = "Basic Drawing Shapes"></Template>
+<Template Path = "./Basic Shape/Common Shapes.edt" Name = "Common Shapes"></Template>
+<Template Path = "./Basic Shape/Icons.edt" Name = "Icons"></Template>	
+<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D Block"></Template>
+</Templates>
+
+<Templates NameU = "Block Diagram (3D)" Name = "Block Diagram (3D)" Icon = "./basicdraw/3d.bmp" Description= "Contains 3-D shapes and directional lines for feedback loops and annotated functional decomposition, data structre, hierarchical, signal flow, and data flow block diagrams.">
+<Template Path = "./Basic Shape/backgrounds.edt" Name = "Backgrounds"></Template>
+<Template Path = "./Basic Shape/arrow.edt" Name = "Arrow Shapes"></Template>
+<Template Path = "./Basic Shape/Text Box.edt" Name = "Text Box"></Template>
+<Template Path = "./Basic Shape/3Dblock.edt" Name = "3D Block"></Template>
+</Templates>
+
+<Templates NameU = "Circle-Spoke Diagram" Name = "Circle-Spoke Diagram" Theme= "Edraw Flat" Icon = "./basicdraw/Circle-Spoke.bmp" Description= "Illustrate that every spoke is equal in value.">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>
+	<Template Path = "./Basic Shape/Circular Charting Shapes.edt" Name = "Circular Charting Shapes"></Template>
+</Templates>
+
+<Templates NameU = "Circular Diagram" Name = "Circular Diagram" Theme= "Edraw Flat" Icon = "./basicdraw/Circular Digram.bmp" Description= "Contains chart and graph shapes for financial and sales reports, profit and loss statements, budgets, statistical analyses, accounting tasks, market projections, and annual reports.">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>
+	<Template Path = "./Basic Shape/Circular Charting Shapes.edt" Name = "Circular Charting Shapes"></Template>
+</Templates>
+
+
+<Templates NameU = "Highlight Shapes" Name = "Highlight Shapes" Theme= "Edraw Flat" Icon = "./basicdraw/highlightshapes.bmp" Description= "Contains highlight style shapes for flowcharts, organizational charts, block diagrams.">
+<Template Path = "./Basic Shape/arrow.edt" Name = "Arrow Shapes"></Template>
+<Template Path = "./Basic Shape/Text Box.edt" Name = "Text Box"></Template>	
+<Template Path = "./Basic Shape/highlightshapes.edt" Name = "Highlight Shapes"></Template>	
+</Templates>
+
+<Templates NameU = "Lists" Name = "Lists" Theme= "Edraw Flat" Icon = "./basicdraw/List.bmp" Description= "Used to show non-sequential or grouped blocks of information. Maximizes both horizontal and vertical display space for shapes.">
+	<Template Path = "./Basic Shape/List Shapes.edt" Name = "List Shapes"></Template>
+	<Template Path = "./Basic Shape/List Shapes Dynamic.edt" Name = "List Shapes (Dynamic)"></Template>
+	<Template Path = "./Basic Shape/Titles.edt" Name = "Titles"></Template>
+	<Template Path = "./Basic Shape/Text Box.edt" Name = "Text Box"></Template>
+</Templates>
+
+<Templates NameU = "Presentation" Name = "Presentation" Theme= "Edraw Flat" Icon = "./basicdraw/presentation.bmp" Description= "Shows the required order of tasks in a project or process, the best schedule for the entire project, and potential scheduling and resource problems and their solutions.">
+	<Template Path = "./Basic Shape/arrow.edt" Name = "Arrow Shapes"></Template>
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "Basic Shapes"></Template>
+	<Template Path = "./Basic Shape/Text Box.edt" Name = "Text Box"></Template>
+	<Template Path = "./Basic Shape/List Shapes.edt" Name = "List Shapes"></Template>
+	<Template Path = "./Basic Shape/List Shapes Dynamic.edt" Name = "List Shapes (Dynamic)"></Template>
+	<Template Path = "./Basic Shape/Circular Charting Shapes.edt" Name = "Circular Charting Shapes"></Template>
+	
+</Templates>
+
+<Templates NameU = "Pyramid Chart" Name = "Pyramid Chart" Theme= "Edraw Flat" Icon = "./basicdraw/pyramid.bmp" Description= "Show proportional, interconnected, or hierarchical relationships with the largest component on the bottom and narrowing up.">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>
+	<Template Path = "./Basic Shape/Pyramid Shapes.edt" Name = "Pyramid Shapes"></Template>
+</Templates>
+
+<Templates NameU = "Timeline" Name = "Timeline" Theme= "Edraw Flat" Icon = "./basicdraw/timeline-basic.bmp" Description= "Shows the required order of tasks in a project or process, the best schedule for the entire project, and potential scheduling and resource problems and their solutions.">
+	<Template Path = "./Basic Shape/arrow.edt" Name = "Arrow Shapes"></Template>
+	<Template Path = "./Basic Shape/Titles.edt" Name = "Titles"></Template>
+	<Template Path = "./Basic Shape/Text Box.edt" Name = "Text Box"></Template>
+	<Template Path = "./Project/Custom Timeline.edt" Name = "Custom Timeline"></Template>
+</Templates>
+
+<Templates NameU = "Venn Diagram" Name = "Venn Diagram" Theme= "Edraw Flat" Icon = "./basicdraw/venn.bmp" Description= "Show all possible logical relations between a finite collection of sets.">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>
+	<Template Path = "./Basic Shape/Titles.edt" Name = "Titles"></Template>
+	<Template Path = "./Basic Shape/Venn Shapes.edt" Name = "Venn Shapes"></Template>
+</Templates>
+
+</Gallery>
+
+<Gallery NameU = "Business Diagram" Name = "Business Diagram" Version = "1.0" Help = "create-business-diagram.php" Description= "Create audit diagram, workflow, mind maps, cause-and-effect diagram, data flow diagram, EPC, process, list, chart and Fault Tree diagrams.">
+
+<Templates NameU = "Audit Diagram" Name = "Audit Diagram" Theme= "General" Icon = "./flowchart/auditflow.bmp" Description= "Create auditing diagrams for accounting, financial management, fiscal information tracking, money management, deciscon flowcharts, and financial inventories. Document 6 Sigma and ISO 9000 processes.">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>
+	<Template Path = "./Basic Shape/arrow.edt" Name = "Arrow Shapes"></Template>
+	<Template Path = "./Business process/auditflow.edt" Name = "Audit Flow Diagram Shapes"></Template>
+</Templates>
+
+<Templates NameU = "Business Matrix" Name = "Business Matrix" Theme= "Edraw Flat" Icon = "./business/business-matrix.bmp" Description= "Contains chart and graph shapes for SWOT matrix, position matrix, ansoff matrix and growth matrix.">
+	<Template Path = "./Business Process/marketing diagrams.edt" Name = "Marketing Diagrams"></Template>
+	<Template Path = "./Business Process/Matrix.edt" Name = "Matrix"></Template>
+</Templates>
+
+<Templates NameU = "Cause and Effect (Fishbone)" Name = "Cause and Effect (Fishbone)" Icon = "./flowchart/causeeffect.bmp" Description= "Create cause-and-effect diagrams (also known as fishbone or Ishikawa diagrams) to systematically review factors that affect or contribute to a given situation. Document 6 Sigma and ISO 9000 processes.">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>
+	<Template Path = "./Basic Shape/arrow.edt" Name = "Arrow Shapes"></Template>
+	<Template Path = "./Business process/causeeffect.edt" Name = "Cause and Effect Diagram"></Template>
+</Templates>
+
+<Templates NameU = "EPC" Name = "EPC" Icon = "./business/epc.bmp" Theme= "Edraw Flat" Description= "Create Event-driven Process Chain (EPC)diagrams to document business processes. Document SAP processes.">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>
+	<Template Path = "./Basic Shape/arrow.edt" Name = "Arrow Shapes"></Template>
+	<Template Path = "./Business process/EPC.edt" Name = "EPC Diagram Shapes"></Template>
+</Templates>
+
+<Templates NameU = "Enterprise Architecture" Name = "Enterprise Architecture" Icon = "./business/businessarchitecture.bmp" Theme= "Edraw Flat" Description= "Create Enterprise Architecture diagrams to determine how an organization can effectively achieve its current and future objectives.">	
+	<Template Path = "./Basic Shape/connectors.edt" Name = "Connectors"></Template>	
+	<Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>
+	<Template Path = "./Basic Shape/arrow.edt" Name = "Arrow Shapes"></Template>
+	<Template Path = "./Business Process/Enterprise Architecture.edt" Name = "Enterprise Architecture"></Template>
+</Templates>
+
+<Templates NameU = "Fault Tree Analysis" Name = "Fault Tree Analysis" Icon = "./business/faulttree.bmp" Description= "Create Fault Tree diagrams to document business processes. Document 6 Sigma and ISO 9000 processes.">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>
+	<Template Path = "./Basic Shape/arrow.edt" Name = "Arrow Shapes"></Template>
+	<Template Path = "./Business process/faulttree.edt" Name = "Fault Tree Analysis Shapes"></Template>
+</Templates>
+
+<Templates NameU = "Five Forces Chart" Name = "Five Forces Chart" Theme= "Edraw Flat" Icon = "./business/fiveforces.bmp" Help = "make-five-forces.php" Description= "Porter's 5 Forces help analyze everything from the intensity of competition to the profitability and attractiveness of an industry.">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>
+	<Template Path = "./Business Process/Five Forces Shapes.edt" Name = "Five Forces Shapes"></Template>
+</Templates>
+
+<Templates NameU = "Marketing Charts and Diagrams" Theme= "Edraw Flat" Name = "Marketing Charts and Diagrams" Icon = "./business/market.bmp" Description= "Use for process diagramming, benchmarking, simulation, path routing, resource or 'what-if' analyses, deployment charts, targets, sales pyramids, activity-based costing, and task managment.">
+	<Template Path = "./Symbols/Presentation Symbols.edt" Name = "Presentation Symbols"></Template>	
+	<Template Path = "./Business Process/marketing diagrams.edt" Name = "Marketing Diagrams"></Template>
+	<Template Path = "./Business Process/marketing shapes.edt" Name = "Marketing Shapes"></Template>
+</Templates>
+
+<Templates NameU = "PEST Chart" Name = "PEST Chart" Theme= "Edraw Flat" Icon = "./business/pest.bmp" Help = "make-pest-chart.php" Description= "PEST analysis stands for Political, Economic, Social, and Technological analysis and describes a framework of macro-environmental factors.">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>
+	<Template Path = "./Basic Shape/arrow.edt" Name = "Arrow Shapes"></Template>
+	<Template Path = "./Business Process/PEST.edt" Name = "PEST Shapes"></Template>
+</Templates>
+
+<Templates NameU = "Process Steps" Name = "Process Steps" Theme= "Edraw Flat" Icon = "./business/processsteps.bmp" Description= "Use to show sequence of actions or dependence of several concepts. Maximizes both horizontal and vertical display space for shapes.">
+	<Template Path = "./Business Process/Process Shapes.edt" Name = "Process Shapes"></Template>
+</Templates>
+
+<Templates NameU = "Six Sigma Matrix" Name = "Six Sigma Matrix" Theme= "General" Icon = "./business/sixsigma.bmp" Description= "Create a six sigma house of quality chart, prioritization matrix, involvement matrix and feature comparison chart.">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>
+	<Template Path = "./Business Process/Six Sigma.edt" Name = "Six Sigma"></Template>
+</Templates>
+
+<Templates NameU = "TQM" Name = "TQM" Theme= "General" Icon = "./business/tqm.bmp" Description= "Create cause and effect, top down and cross-functional process flow diagrams for business process re-engineering, Total Quality Management(TQM), and continuous improvement. Document 6 Sigma and ISO 9000 processes.">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>
+	<Template Path = "./Basic Shape/arrow.edt" Name = "Arrow Shapes"></Template>
+	<Template Path = "./Business process/TQM.edt" Name = "TQM Diagram Shapes"></Template>		
+</Templates>
+
+<Templates NameU = "Value Chain" Name = "Value Chain" Theme= "Edraw Flat" Icon = "./business/valuechain.bmp" Help = "ultimate-valuechain-tutorial.php" Description= "Representation of the various processes that are involved in producing services, starting with raw materials and ending with the delivered product.">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>
+	<Template Path = "./Business Process/Value Chain.edt" Name = "Value Chain"></Template>
+</Templates>
+
+<Templates NameU = "Value Stream Mapping" Name = "Value Stream Mapping" Theme= "General" Icon = "./business/valuestream.bmp" Help = "make-value-stream.php" Description= "Create value stream maps to illustrate the flow of material and information in a Lean manufacturing process.">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>
+	<Template Path = "./Basic Shape/arrow.edt" Name = "Arrow Shapes"></Template>
+	<Template Path = "./Business process/Value stream mapping.edt" Name = "Value Stream Map Shapes"></Template>
+</Templates>
+
+</Gallery>
+
+<Gallery NameU = "Card" Name = "Card" Version = "1.0" Description= "Contains special shapes for creating cards.">
+<Templates NameU = "Business Cards" Name = "Business Cards" Theme= "General" Icon = "./businesscard/card.bmp" help = "make-business-card.php" Description= "Contains special shapes for creating business cards.">
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "Common Shapes"></Template>		
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "Basic Drawing Shapes"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D Block"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "Icons"></Template>
+	<Template Path = "./Business Card/BusinessCardTemplates.edt" Name = "Business Card Templates"></Template>		
+  <Template Path = "./Business Card/BusinessCardText.edt" Name = "Business Card Text"></Template>	
+</Templates>
+
+<Templates NameU = "Thank You Card" Name = "Thank You Card" Icon = "./businesscard/thankyoucard.bmp" Description= "Contains special shapes for creating greeting cards.">
+  <Template Path = "./Basic Shape/Common Shapes.edt" Name = "Common Shapes"></Template>		
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "Basic Drawing Shapes"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D Block"></Template>
+	<Template Path = "./Symbols/Flowers.edt" Name = "Flowers"></Template>
+	<Template Path = "./Symbols/Ornament.edt" Name = "Ornament"></Template>
+	<Template Path = "./Symbols/Bow.edt" Name = "Bow"></Template>
+	<Template Path = "./Symbols/Heart.edt" Name = "Heart"></Template>
+</Templates>
+
+<Templates NameU = "Invitation Card" Name = "Invitation Card" Icon = "./businesscard/invitationcard.bmp" Description= "Contains special shapes for creating invitation cards.">
+  <Template Path = "./Basic Shape/Common Shapes.edt" Name = "Common Shapes"></Template>		
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "Basic Drawing Shapes"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D Block"></Template>
+	<Template Path = "./Symbols/Flowers.edt" Name = "Flowers"></Template>
+	<Template Path = "./Symbols/Ornament.edt" Name = "Ornament"></Template>
+	<Template Path = "./Symbols/Bow.edt" Name = "Bow"></Template>
+	<Template Path = "./Symbols/Heart.edt" Name = "Heart"></Template>
+</Templates>
+
+<Templates NameU = "Postcard" Name = "Postcard" Icon = "./businesscard/postcard.bmp" Description= "Contains special shapes for creating postcards.">
+  <Template Path = "./Basic Shape/Common Shapes.edt" Name = "Common Shapes"></Template>		
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "Basic Drawing Shapes"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D Block"></Template>
+	<Template Path = "./Symbols/Flowers.edt" Name = "Flowers"></Template>
+	<Template Path = "./Symbols/Ornament.edt" Name = "Ornament"></Template>
+	<Template Path = "./Symbols/Bow.edt" Name = "Bow"></Template>
+	<Template Path = "./Symbols/Heart.edt" Name = "Heart"></Template>
+</Templates>
+
+<Templates NameU = "Birthday Card" Name = "Birthday Card" Icon = "./businesscard/birthday.bmp" Description= "Contains special shapes for creating birthday cards.">
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "Basic Drawing Shapes"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D Block"></Template>
+	<Template Path = "./Symbols/Flowers.edt" Name = "Flowers"></Template>
+	<Template Path = "./Symbols/Ornament.edt" Name = "Ornament"></Template>
+	<Template Path = "./Symbols/Bow.edt" Name = "Bow"></Template>
+	<Template Path = "./Symbols/Heart.edt" Name = "Heart"></Template>
+  <Template Path = "./Business Card/Birthday.edt" Name = "Birthday"></Template>
+</Templates>
+
+<Templates NameU = "Christmas" Name = "Christmas" Icon = "./businesscard/christmas.bmp" Description= "Contains special shapes for creating cards for Christmas.">
+  <Template Path = "./Basic Shape/Common Shapes.edt" Name = "Common Shapes"></Template>		
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "Basic Drawing Shapes"></Template>
+	<Template Path = "./Symbols/Flowers.edt" Name = "Flowers"></Template>
+	<Template Path = "./Symbols/Ornament.edt" Name = "Ornament"></Template>
+	<Template Path = "./Symbols/Bow.edt" Name = "Bow"></Template>
+	<Template Path = "./Symbols/Heart.edt" Name = "Heart"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D Block"></Template>
+  <Template Path = "./Business Card/Christmas.edt" Name = "Christmas"></Template>
+  
+</Templates>
+
+<Templates NameU = "Halloween" Name = "Halloween" Icon = "./businesscard/calloween.bmp" Description= "Contains special shapes for creating cards for Halloween.">
+  <Template Path = "./Basic Shape/Common Shapes.edt" Name = "Common Shapes"></Template>		
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "Basic Drawing Shapes"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D Block"></Template>
+	<Template Path = "./Business Card/Halloween.edt" Name = "Halloween"></Template>
+</Templates>
+
+<Templates NameU = "Carnival" Name = "Carnival" Icon = "./businesscard/carnival.bmp" Description= "Contains special shapes for creating cards for Carnival.">
+  <Template Path = "./Basic Shape/Common Shapes.edt" Name = "Common Shapes"></Template>		
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "Basic Drawing Shapes"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D Block"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "Icons"></Template>
+  <Template Path = "./Business Card/Carnival.edt" Name = "Carnival"></Template>
+</Templates>
+
+<Templates NameU = "Childrens Day" Name = "Childrens Day" Icon = "./businesscard/childrensday.bmp" Description= "Contains special shapes for creating cards for Childrens Day.">
+  <Template Path = "./Basic Shape/Common Shapes.edt" Name = "Common Shapes"></Template>		
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "Basic Drawing Shapes"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D Block"></Template>
+	<Template Path = "./Symbols/Flowers.edt" Name = "Flowers"></Template>
+	<Template Path = "./Symbols/Ornament.edt" Name = "Ornament"></Template>
+	<Template Path = "./Symbols/Bow.edt" Name = "Bow"></Template>
+	<Template Path = "./Symbols/Heart.edt" Name = "Heart"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D Block"></Template>
+  <Template Path = "./Business Card/Childrens Day.edt" Name = "Childrens Day"></Template>
+</Templates>
+
+<Templates NameU = "Easter" Name = "Easter" Icon = "./businesscard/easter.bmp" Description= "Contains special shapes for creating cards for Easter.">
+  <Template Path = "./Basic Shape/Common Shapes.edt" Name = "Common Shapes"></Template>		
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "Basic Drawing Shapes"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D Block"></Template>
+	<Template Path = "./Symbols/Flowers.edt" Name = "Flowers"></Template>
+	<Template Path = "./Symbols/Ornament.edt" Name = "Ornament"></Template>
+	<Template Path = "./Symbols/Bow.edt" Name = "Bow"></Template>
+	<Template Path = "./Symbols/Heart.edt" Name = "Heart"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D Block"></Template>
+  <Template Path = "./Business Card/Easter.edt" Name = "Easter"></Template>
+</Templates>
+
+<Templates NameU = "New Year" Name = "New Year" Icon = "./businesscard/newyear.bmp" Description= "Contains special shapes for creating cards for New Year.">
+  <Template Path = "./Basic Shape/Common Shapes.edt" Name = "Common Shapes"></Template>		
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "Basic Drawing Shapes"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D Block"></Template>
+	<Template Path = "./Symbols/Flowers.edt" Name = "Flowers"></Template>
+	<Template Path = "./Symbols/Ornament.edt" Name = "Ornament"></Template>
+	<Template Path = "./Symbols/Bow.edt" Name = "Bow"></Template>
+	<Template Path = "./Symbols/Heart.edt" Name = "Heart"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D Block"></Template>
+  <Template Path = "./Business Card/New Year.edt" Name = "New Year"></Template>
+</Templates>
+
+<Templates NameU = "Valentines Day" Name = "Valentines Day" Icon = "./businesscard/valentinesday.bmp" Description= "Contains special shapes for creating cards for Valentines Day.">
+  <Template Path = "./Basic Shape/Common Shapes.edt" Name = "Common Shapes"></Template>		
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "Basic Drawing Shapes"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D Block"></Template>
+	<Template Path = "./Symbols/Flowers.edt" Name = "Flowers"></Template>
+	<Template Path = "./Symbols/Ornament.edt" Name = "Ornament"></Template>
+	<Template Path = "./Symbols/Bow.edt" Name = "Bow"></Template>
+	<Template Path = "./Symbols/Heart.edt" Name = "Heart"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D Block"></Template>
+  <Template Path = "./Business Card/Valentines Day.edt" Name = "Valentines Day"></Template>
+</Templates>
+</Gallery>
+
+<Gallery NameU = "Chart" Name = "Chart" Version = "1.0" Help = "make-chart.php" Description= "Contains special shapes for creating column, bar, line, area, pie, radar, scatter charts.">
+<Templates NameU = "Column" Name = "Column" Icon = "./charts/column.bmp" Solution = "Chart" Help = "createcolumnchart.php" Description= "Contains special shapes for creating clustered column, stacked column and 100% stacked column chart.">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>
+	<Template Path = "./Chart/Column.edt" Name = "Column"></Template>
+</Templates>
+<Templates NameU = "Bar" Name = "Bar" Icon = "./charts/bar.bmp" Solution = "Chart" Help = "createbarchart.php" Description= "Contains special shapes for creating simple bar, stacked bar and 100% stacked bar chart.">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>
+	<Template Path = "./Chart/Bar.edt" Name = "Bar"></Template>
+</Templates>
+<Templates NameU = "Pie" Name = "Pie" Icon = "./charts/pie.bmp" Solution = "Chart" Help = "createpiechart.php" Description= "Contains special shapes for creating pie chart.">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>
+	<Template Path = "./Chart/Pie and Doughnut.edt" Name = "Pie and Doughnut"></Template>
+</Templates>
+<Templates NameU = "Doughnut" Name = "Doughnut" Icon = "./charts/doughnut.bmp" Solution = "Chart" Help = "createdoughnut.php" Description= "Contains special shapes for creating doughnut chart.">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>
+	<Template Path = "./Chart/Pie and Doughnut.edt" Name = "Pie and Doughnut"></Template>
+</Templates>
+<Templates NameU = "Line" Name = "Line" Icon = "./charts/line.bmp" Solution = "Chart" Description= "Contains special shapes for creating line graphs.">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>
+	<Template Path = "./Chart/Line and Area.edt" Name = "Line and Area"></Template>
+</Templates>
+<Templates NameU = "Area" Name = "Area" Icon = "./charts/area.bmp" Solution = "Chart" Description= "Contains special shapes for creating area charts.">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>
+	<Template Path = "./Chart/Line and Area.edt" Name = "Line and Area"></Template>
+</Templates>
+<Templates NameU = "Scatter" Name = "Scatter" Icon = "./charts/scatter.bmp" Solution = "Chart" Help = "createscatterchart.php" Description= "Contains special shapes for creating scatter charts.">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>
+	<Template Path = "./Chart/Scatter and Bubble.edt" Name = "Scatter and Bubble"></Template>
+</Templates>
+<Templates NameU = "Spider and Radar" Name = "Spider and Radar" Icon = "./charts/spider.bmp" Solution = "Chart" Help = "create-spider-chart.php" Description= "Contains special shapes for creating spider charts and Radar charts.">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>
+	<Template Path = "./Chart/Spider.edt" Name = "Spider"></Template>
+</Templates>
+<Templates NameU = "Bubble Chart" Name = "Bubble Chart" Icon = "./charts/bubblechart.bmp" Help = "create-bubble-plot.php" Solution = "Chart" Description= "Contains special shapes for creating bubble plots.">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>
+	<Template Path = "./Chart/Scatter and Bubble.edt" Name = "Scatter and Bubble"></Template>
+</Templates>
+<Templates NameU = "Gauges" Name = "Gauges" Icon = "./charts/gauges.bmp" Solution = "Chart" Help = "how-to-create-gauges.php" Description= "Contains special shapes for creating gauge charts.">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>
+	<Template Path = "./Chart/Gauges.edt" Name = "Gauges"></Template>
+</Templates>
+<Templates NameU = "Comparison Chart" Name = "Comparison Chart" Icon = "./charts/comparison.bmp" Help = "create-comparison-chart.php" Description= "Create comparison table of goods, technology, business and more.">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>
+	<Template Path = "./Chart/Comparison Indicators.edt" Name = "Comparison Indicators"></Template>
+	<Template Path = "./Chart/Comparison Chart.edt" Name = "Comparison Chart"></Template>
+</Templates>
+</Gallery>
+
+<Gallery NameU = "Clip Art" Name = "Clip Art" Version = "1.0" help = "create-clipart.php" Description= "Contains some clip art (animals, business, finance, fruit, flags, gift, office, people, school, professions, weather and more) symbols.">
+<Templates NameU = "Animals" Name = "Animals" Icon = "./symbols/animals.bmp" Description= "Contains some animal symobls for common use.">
+  <Template Path = "./Symbols/Terricole.edt" Name = "Terricole"></Template>
+	<Template Path = "./Symbols/Sea Life.edt" Name = "Sea Life"></Template>
+    <Template Path = "./Symbols/Insect.edt" Name = "Insect"></Template>
+</Templates>
+
+<Templates NameU = "Business" Name = "Business" Icon = "./symbols/business.bmp" Description= "Contains some business symobls for common use.">
+  <Template Path = "./Symbols/Business.edt" Name = "Business"></Template>
+	<Template Path = "./Symbols/Business Flat.edt" Name = "Business Flat"></Template>	
+	<Template Path = "./Symbols/Business Scene.edt" Name = "Business Scene 1"></Template>
+	<Template Path = "./Symbols/Business Scene2.edt" Name = "Business Scene 2"></Template>
+</Templates>
+
+<Templates NameU = "Business scene" Name = "Business scene" Icon = "./symbols/businessscren.bmp" Description= "Contains some business scene symobls for common use.">
+  <Template Path = "./Symbols/Business scene.edt" Name = "Business scene"></Template>
+  <Template Path = "./Symbols/Business Scene2.edt" Name = "Business Scene 2"></Template>
+</Templates>
+
+<Templates NameU = "Finance" Name = "Finance" Icon = "./symbols/Finance.bmp" Description= "Contains some finance symobls for common use.">
+  <Template Path = "./Symbols/Finance.edt" Name = "Finance"></Template>
+	<Template Path = "./Symbols/Finance Flat.edt" Name = "Finance Flat"></Template>
+	<Template Path = "./Symbols/Money.edt" Name = "Money"></Template>	
+</Templates>
+
+<Templates NameU = "Food" Name = "Food" Icon = "./symbols/fruit.bmp" Description= "Contains some food symobls for common use.">
+  <Template Path = "./Symbols/Food.edt" Name = "Food"></Template>
+	<Template Path = "./Symbols/Bread.edt" Name = "Bread"></Template>
+	<Template Path = "./Symbols/Fruit.edt" Name = "Fruit"></Template>
+	<Template Path = "./Symbols/Drink.edt" Name = "Drink"></Template>
+	<Template Path = "./Symbols/Tableware.edt" Name = "Tableware"></Template>
+</Templates>
+
+<Templates NameU = "Flags" Name = "Flags" Icon = "./symbols/flags.bmp" Description= "Contains some flag symobls for common use.">
+  <Template Path = "./Symbols/Flags.edt" Name = "Flags"></Template>		
+</Templates>
+
+<Templates NameU = "Office" Name = "Office" Icon = "./symbols/office.bmp" Description= "Contains some office symobls for common use.">
+  	<Template Path = "./Symbols/Office.edt" Name = "Office"></Template>		
+	<Template Path = "./Symbols/Office Flat.edt" Name = "Office Flat"></Template>		
+</Templates>
+
+<Templates NameU = "People" Name = "People" Icon = "./symbols/people.bmp" Description= "Contains some people symobls for common use.">
+  <Template Path = "./Symbols/Silhouette.edt" Name = "Silhouette"></Template>
+	<Template Path = "./Symbols/Business People.edt" Name = "Business People"></Template>	
+	<Template Path = "./Symbols/user.edt" Name = "User"></Template>
+	<Template Path = "./Symbols/People Activity Pictogram.edt" Name = "People Activity Pictogram"></Template>	
+	<Template Path = "./Symbols/3D People Pictogram.edt" Name = "3D People Pictogram"></Template>	
+</Templates>
+
+<Templates NameU = "Professions" Name = "Professions" Icon = "./symbols/profession.bmp" Description= "Contains some profession symobls for common use.">
+  <Template Path = "./Symbols/Profession.edt" Name = "Profession"></Template>
+	<Template Path = "./Symbols/Profession Half-length.edt" Name = "Profession Half-length"></Template>
+</Templates>
+
+<Templates NameU = "Religion" Name = "Religion" Icon = "./symbols/religion.bmp" Description= "Contains some religion symobls for common use.">
+  <Template Path = "./Symbols/Religion.edt" Name = "Religion"></Template>
+</Templates>
+
+<Templates NameU = "School" Name = "School" Icon = "./symbols/school.bmp" Description= "Contains some school symobls for common use.">
+  <Template Path = "./Symbols/School.edt" Name = "School"></Template>
+  <Template Path = "./Symbols/Education.edt" Name = "Education"></Template>	
+	<Template Path = "./Symbols/Music.edt" Name = "Music"></Template>	
+</Templates>
+
+<Templates NameU = "Technology" Name = "Technology" Icon = "./symbols/technology.bmp" Description= "Contains some technology symobls for common use.">
+ 	<Template Path = "./Symbols/Electronics.edt" Name = "Electronics"></Template>
+	<Template Path = "./Symbols/Artificial Intelligence.edt" Name = "Artificial Intelligence"></Template>
+    <Template Path = "./Symbols/Biotechnology.edt" Name = "Biotechnology"></Template>	
+	<Template Path = "./Symbols/Aerospace Technology.edt" Name = "Aerospace Technology"></Template>
+</Templates>
+
+<Templates NameU = "Vehicles" Name = "Vehicles" Icon = "./symbols/vehicles.bmp" Description= "Contains some vehicle symobls for common use.">
+  <Template Path = "./Symbols/Vehicles.edt" Name = "Vehicles"></Template>
+</Templates>
+
+<Templates NameU = "Weather" Name = "Weather" Icon = "./symbols/weather.bmp" Description= "Contains some weather symobls for common use.">
+  <Template Path = "./Symbols/Weather.edt" Name = "Weather"></Template>
+</Templates>
+</Gallery>
+
+<Gallery NameU = "Database" Name = "Database" Version = "1.0" Theme="General" help = "create-database-diagram.php" Description= "Contains special shapes and setting for creating entity relationship diagrams, Chen ERD, database model diagram, Martin ERD, ORM diagram and Express-G.">
+<Templates NameU = "Chen ERD" Name = "Chen ERD" Theme= "General" Icon = "./database/chenerd.bmp" Description= "Contains special shapes and setting for creating entity relationship diagrams based on the Chen ERD notation.">
+	<Template Path = "./ERD and Database/Chen ERD.edt" Name = "Chen ERD"></Template>	
+	<Template Path = "./Software/Relationship.edt" Name = "Relationship"></Template>
+</Templates>
+
+<Templates NameU = "Database Model Diagram" Name = "Database Model Diagram" Theme= "General" Icon = "./database/databasemodel.bmp" help="how-to-draw-database-model-diagram.php" Description= "Contains special shapes and setting for creating database model diagrams. Supports IDEF1X and relational notations. ">
+	<Template Path = "./ERD and Database/Entity Relationship.edt" Name = "Entity Relationship"></Template>	
+	<Template Path = "./ERD and Database/Object Relationship.edt" Name = "Ojbect Relationship"></Template>
+	<Template Path = "./Software/Relationship.edt" Name = "Relationship"></Template>
+</Templates>
+
+<Templates NameU = "Express-G" Name = "Express-G" Theme= "General" Icon = "./database/express-g.bmp" Description= "Contains special shapes and setting for creating entity level and schema level diagrams, and product data models using the Express-G notation.">
+	<Template Path = "./ERD and Database/Express-G.edt" Name = "Express-G"></Template>
+	<Template Path = "./Software/Relationship.edt" Name = "Relationship"></Template>
+</Templates>
+
+<Templates NameU = "Martin ERD" Name = "Martin ERD" Theme= "General" Icon = "./database/martinerd.bmp" Description= "Contains special shapes and setting for creating entity relationship diagrams based on the Martin ERD notation.">
+	<Template Path = "./ERD and Database/Martin ERD.edt" Name = "Martin ERD"></Template>	
+	<Template Path = "./Software/Relationship.edt" Name = "Relationship"></Template>
+</Templates>
+
+<Templates NameU = "ORM Diagram" Name = "ORM Diagram" Theme= "General" Icon = "./database/ormdiagram.bmp" Description= "Contains special shapes (objects, constraints, connectors, predicates, and relationships) and settings for creating object-relationship models and static diagrams in object-oriented analysis and design.">
+	<Template Path = "./ERD and Database/ORM Diagram.edt" Name = "ORM Diagram"></Template>
+	<Template Path = "./Software/Relationship.edt" Name = "Relationship"></Template>
+</Templates>
+</Gallery>
+
+<Gallery NameU = "Engineering" Name = "Engineering" Version = "1.0" Help = "create-engineering-diagram.php" Description= "Create basic electrical diagram, circuits and logic, industrial control systems and systems.">
+<Templates NameU = "Basic Electrical" Name = "Basic Electrical" Theme= "Engine" Icon = "./electrical/basic electrical.bmp" Help = "create-basic-electrical-diagram.php" Description= "Create schematic, one-line, and wiring diagrams and blue prints. Contains shapes for switches, relays, transmission paths, semiconductors, circuits, and tubes.">
+	<Template Path = "./Electrical Engineering/Basic Electrical Symbols.edt" Name = "Basic Electrical Symbols"></Template>
+	<Template Path = "./Electrical Engineering/Qualifying Symbols.edt" Name = "Qualifying Symbols"></Template>
+	<Template Path = "./Electrical Engineering/Semiconductor Devices.edt" Name = "Semiconductor Devices"></Template>	
+	<Template Path = "./Electrical Engineering/Switches and Relays.edt" Name = "Switches and Relays"></Template>
+	<Template Path = "./Electrical Engineering/Transmission Path.edt" Name = "Transmission Path"></Template>
+</Templates>
+
+<Templates NameU = "Circuits and Logic" Name = "Circuits and Logic" Theme= "Engine" Icon = "./electrical/Circuits.bmp" Help = "create-circuit-diagram.php" Description= "Create annotated circuit and printed circuit board diagrams, integrated circuit schematics, and digital and analog logic designs. Contains terminal, connector, and transmission path shapes.">
+	<Template Path = "./Electrical Engineering/Basic Electrical Symbols.edt" Name = "Basic Electrical Symbols"></Template>
+	<Template Path = "./Electrical Engineering/Analog and Digital Logic.edt" Name = "Analog and Digital Logic"></Template>
+	<Template Path = "./Electrical Engineering/Integrated Circuit Component.edt" Name = "Integrated Circuit Component"></Template>	
+	<Template Path = "./Electrical Engineering/Terminals and Connectors.edt" Name = "Terminals and Connectors"></Template>
+	<Template Path = "./Electrical Engineering/Transmission Path.edt" Name = "Transmission Path"></Template>
+</Templates>
+
+<Templates NameU = "Industrial Control Systems" Name = "Industrial Control Systems" Theme= "Engine" Icon = "./electrical/Industrial.bmp" Description= "Create annotated diagrams of industrial power systems. Contains shapes for rotary machines, semiconductors, solid state devices, switches, relays, and transformers.">
+	<Template Path = "./Electrical Engineering/Basic Electrical Symbols.edt" Name = "Basic Electrical Symbols"></Template>
+	<Template Path = "./Electrical Engineering/Rotating Equip and Mech Functions.edt" Name = "Rotating Equip and Mech Functions"></Template>
+	<Template Path = "./Electrical Engineering/Switches and Relays.edt" Name = "Switches and Relays"></Template>	
+	<Template Path = "./Electrical Engineering/Terminals and Connectors.edt" Name = "Terminals and Connectors"></Template>	
+	<Template Path = "./Electrical Engineering/Transformers and Windings.edt" Name = "Transformers and Windings"></Template>
+	<Template Path = "./Electrical Engineering/Transmission Path.edt" Name = "Transmission Path"></Template>
+</Templates>
+
+<Templates NameU = "Systems" Name = "Systems" Theme= "Engine" Icon = "./electrical/systems.bmp" Description= "Create annotated electrical schematics, maintenance and repair diagrams, and utilities infrastructure designs. Contains shapes for static, communications, and solid state devices.">
+	<Template Path = "./Electrical Engineering/Composite Assemblies.edt" Name = "Composite Assemblies"></Template>
+	<Template Path = "./Electrical Engineering/Maintenance Symbol.edt" Name = "Maintenance Symbol"></Template>
+	<Template Path = "./Electrical Engineering/Maps and Charts.edt" Name = "Maps and Charts"></Template>
+	<Template Path = "./Electrical Engineering/Switches and Relays.edt" Name = "Switches and Relays"></Template>	
+	<Template Path = "./Electrical Engineering/Telecom Switch and Peripheral Equip.edt" Name = "Telecom Switch and Peripheral Equip"></Template>
+	<Template Path = "./Electrical Engineering/Terminals and Connectors.edt" Name = "Terminals and Connectors"></Template>	
+	<Template Path = "./Electrical Engineering/Transformers and Windings.edt" Name = "Transformers and Windings"></Template>
+	<Template Path = "./Electrical Engineering/Transmission Path.edt" Name = "Transmission Path"></Template>
+	<Template Path = "./Electrical Engineering/VHF-UHF-SHF.edt" Name = "VHF-UHF-SHF"></Template>
+</Templates>
+
+<Templates NameU = "Process Flow Diagram" Name = "Process Flow Diagram" Theme= "Engine" Icon = "./electrical/pfd.bmp" Help = "create-process-flow-diagram.php" Description= "Create process flow diagrams for piping systems, piping supports and liquid transfer systems.">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>	
+	<Template Path = "./Process Engineering/Stream Flag.edt" Name = "Stream Flag"></Template>
+	<Template Path = "./Process Engineering/Piping and Connection Shapes.edt" Name = "Piping and Connection Shapes"></Template>
+	<Template Path = "./Process Engineering/Equipment-General.edt" Name = "Equipment - General"></Template>
+	<Template Path = "./Process Engineering/Equipment-Pumps.edt" Name = "Equipment - Pumps"></Template>	
+	<Template Path = "./Process Engineering/Equipment-Heat Exchanges.edt" Name = "Equipment - Heat Exchanges"></Template>	
+	<Template Path = "./Process Engineering/Equipment-Vessels.edt" Name = "Equipment - Vessels"></Template>	
+	<Template Path = "./Process Engineering/Equipment-Valves.edt" Name = "Equipment - Valves"></Template>
+	<Template Path = "./Process Engineering/Equipment-Instruments.edt" Name = "Equipment - Instruments"></Template>
+</Templates>
+
+<Templates NameU = "Piping and Instrumentation Diagram" Name = "Piping and Instrumentation Diagram" Theme= "Engine" Icon = "./electrical/pid.bmp" Help = "create-piping-instrumentation-diagram.php" Description= "Create Piping and instrumentation diagrams for piping systems, piping supports and liquid transfer systems.">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>	
+	<Template Path = "./Process Engineering/Piping and Connection Shapes.edt" Name = "Piping and Connection Shapes"></Template>
+	<Template Path = "./Process Engineering/Equipment-General.edt" Name = "Equipment - General"></Template>
+	<Template path = "./Process Engineering/Equipment-Centrifuges.edt" Name = "Equipment - Centrifuges"></Template>
+	<Template path = "./Process Engineering/Equipment-Compressors.edt" Name = "Equipment - Compressors"></Template>	
+	<Template path = "./Process Engineering/Equipment-Crushers.edt" Name = "Equipment - Crushers"></Template>	
+	<Template path = "./Process Engineering/Equipment-Dryers.edt" Name = "Equipment - Dryers"></Template>
+	<Template path = "./Process Engineering/Equipment-Filters.edt" Name = "Equipment - Filters"></Template>	
+	<Template path = "./Process Engineering/Equipment-Heat Exchanges.edt" Name = "Equipment - Heat Exchanges"></Template>
+	<Template path = "./Process Engineering/Equipment-Mixers.edt" Name = "Equipment - Mixers"></Template>
+	<Template path = "./Process Engineering/Equipment-Motors.edt" Name = "Equipment - Motors"></Template>
+	<Template path = "./Process Engineering/Equipment-Peripheral.edt" Name = "Equipment - Peripheral"></Template>
+	<Template path = "./Process Engineering/Equipment-Pumps.edt" Name = "Equipment - Pumps"></Template>
+	<Template path = "./Process Engineering/Equipment-Vessels.edt" Name = "Equipment - Vessels"></Template>
+	<Template path = "./Process Engineering/Equipment-Valves.edt" Name = "Equipment - Valves"></Template>
+	<Template Path = "./Process Engineering/Equipment-Instruments.edt" Name = "Equipment - Instruments"></Template>
+</Templates>
+</Gallery>
+
+<Gallery NameU = "Fashion Design" Name = "Fashion Design" Version = "1.0" help = "design-fashion.php" Description= "Contains ten unique model with a variety of skin tones and hair colors, hundreds of cute clothing items to mix and match.">
+<Templates NameU = "Girl Dress" Name = "Girl Dress" Theme= "General" Icon = "./fashion/Girl.bmp" Description= "Contains ten unique model with a variety of skin tones and hair colors, hundreds of cute clothing items to mix and match.">
+	<Template Path = "./Dress Design/Model.edt" Name = "Models"></Template>	
+	<Template Path = "./Dress Design/Girl dress 1.edt" Name = "Girl dress 1" download = "Girl dress 1.zip"></Template>
+	<Template Path = "./Dress Design/Girl dress 2.edt" Name = "Girl dress 2" download = "Girl dress 2.zip"></Template>	
+	<Template Path = "./Dress Design/Girl dress 3.edt" Name = "Girl dress 3" download = "Girl dress 3.zip"></Template>
+	<Template Path = "./Dress Design/Girl dress 4.edt" Name = "Girl dress 4" download = "Girl dress 4.zip"></Template>	
+	<Template Path = "./Dress Design/Girl dress 5.edt" Name = "Girl dress 5" download = "Girl dress 5.zip"></Template>
+	<Template Path = "./Dress Design/Girl dress 6.edt" Name = "Girl dress 6" download = "Girl dress 6.zip"></Template>	
+	<Template Path = "./Dress Design/Girl dress 7.edt" Name = "Girl dress 7" download = "Girl dress 7.zip"></Template>
+	<Template Path = "./Dress Design/Girl dress 8.edt" Name = "Girl dress 8" download = "Girl dress 8.zip"></Template>	    
+</Templates>
+
+<Templates NameU = "Man Suit" Name = "Man Suit" Theme= "General" Icon = "./fashion/Man.bmp" Description= "Contains hundreds of man suits.">
+	<Template Path = "./Dress Design/Man suit.edt" Name = "Man Suit" download = "Man suit.zip"></Template>
+</Templates>
+
+<Templates NameU = "Child Dress" Name = "Child Dress" Theme= "General" Icon = "./fashion/Child.bmp" Description= "Contains hundreds of child dress.">
+	<Template Path = "./Dress Design/Child dress.edt" Name = "Child Dress" download = "Child dress.zip"></Template>	
+</Templates>
+</Gallery>
+
+<Gallery NameU = "Floor Plan" Name = "Floor Plan" Version = "1.0" Help = "floor-plan-tutorial.php" Description= "Use for commercial building design, home plan, office layout, electrical and telecom plan, space plans, architectural layout, construction documents, structural diagrams, and facility planning.">
+<Templates NameU = "Floor Plan" Name = "Floor Plan" Solution = "Plan" Theme= "Engine" Icon = "./building/floorplan.bmp" Help = "floor-plan-tutorial.php" Description= "Use for commercial building design, space plans, architectural layout, construction documents, structural diagrams, and facility planning.">
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "Basic Drawing Shapes"></Template>
+	<Template Path = "./Basic Shape/Dimensioning.edt" Name = "Dimensioning"></Template>	
+	<Template Path = "./Building Plans/Building Core.edt" Name = "Building Core"></Template>
+	<Template Path = "./Building Plans/Furniture.edt" Name = "Furniture"></Template>
+	<Template Path = "./Building Plans/ElectricalTelecom.edt" Name = "Electrical and Telecom"></Template>
+	<Template Path = "./Building Plans/WallShellStructure.edt" Name = "Wall, Shell and Structure"></Template>
+</Templates>
+
+<Templates NameU = "Home Plan" Name = "Home Plan" Solution = "Plan" Theme= "Engine" Icon = "./building/homeplan.bmp" Description= "Use for kitchen and bathroom design, architectural and construction documents, space plans, remodeling, and planning additions.">
+	<Template Path = "./Basic Shape/Dimensioning.edt" Name = "Dimensioning"></Template>	
+	<Template Path = "./Building Plans/Building Core.edt" Name = "Building Core"></Template>
+	<Template Path = "./Building Plans/Appliances.edt" Name = "Appliances"></Template>	
+	<Template Path = "./Building Plans/Kitchen.edt" Name = "Kitchen and Dining Room"></Template>
+	<Template Path = "./Building Plans/Bedroom.edt" Name = "Bedroom"></Template>
+	<Template Path = "./Building Plans/Bathroom.edt" Name = "Bathroom"></Template>
+	<Template Path = "./Building Plans/Cabinets.edt" Name = "Cabinets and Bookcases"></Template>		
+	<Template Path = "./Building Plans/WallShellStructure.edt" Name = "Wall, Shell and Structure"></Template>	
+</Templates>
+
+<Templates NameU = "Office Layout" Name = "Office Layout" Solution = "Plan" Theme= "Engine" Icon = "./building/officelayout.bmp" Description= "Create floor charts, floor plans, and bluprints for facilities management, move management, office supply inventories, assets inventories, office space planning, and cubicles.">
+	<Template Path = "./Basic Shape/Dimensioning.edt" Name = "Dimensioning"></Template>	
+	<Template Path = "./Building Plans/OfficeEquipment.edt" Name = "Office Equipment"></Template>
+	<Template Path = "./Building Plans/OfficeFurniture.edt" Name = "Office Furniture"></Template>
+	<Template Path = "./Building Plans/Plants.edt" Name = "Plants"></Template>
+	<Template Path = "./Building Plans/WallShellStructure.edt" Name = "Wall, Shell and Structure"></Template>
+</Templates>
+
+<Templates NameU = "Electrical and Telecom Plan" Name = "Electrical and Telecom Plan" Solution = "Plan" Theme= "Engine" Icon = "./building/electrical.bmp" Description= "Create electrical and telecommunication floor plans for design and construction including outlets, switches, and fixtures.">
+	<Template Path = "./Basic Shape/Dimensioning.edt" Name = "Dimensioning"></Template>	
+	<Template Path = "./Building Plans/Lighting.edt" Name = "Lighting"></Template>		
+	<Template Path = "./Building Plans/ElectricalTelecom.edt" Name = "Electrical and Telecom"></Template>
+</Templates>
+
+<Templates NameU = "Seating Plan" Name = "Seating Plan" Solution = "Plan" Theme= "Engine" Icon = "./building/seatingplan.bmp" Help = "make-seating-plan.php" Description= "Create the plans of bleachers, grandstands and seating.">
+	<Template Path = "./Basic Shape/Dimensioning.edt" Name = "Dimensioning"></Template>		
+	<Template Path = "./Building Plans/Sofas.edt" Name = "Sofas"></Template>	
+	<Template Path = "./Building Plans/Tables and Chairs.edt" Name = "Tables and Chairs"></Template>
+	<Template Path = "./Building Plans/WallShellStructure.edt" Name = "Wall, Shell and Structure"></Template>
+</Templates>
+
+<Templates NameU = "Security and Access Plan" Name = "Security and Access Plan" Theme= "Engine" Solution = "Plan" Icon = "./building/security.bmp" Description= "Create diagrams for security control systems, security system design, internal security systems, external security systems, security control monitoring, and security system blueprints.">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>	
+	<Template Path = "./Basic Shape/Dimensioning.edt" Name = "Dimensioning"></Template>	
+	<Template Path = "./Building Plans/Alarm and Access Control.edt" Name = "Alarm and Access Control"></Template>
+	<Template Path = "./Building Plans/Video Surveillance.edt" Name = "Video Surveillance"></Template>	
+	<Template Path = "./Building Plans/Initiation and Annunciation.edt" Name = "Initiation and Annunciation"></Template>		
+	<Template Path = "./Building Plans/WallShellStructure.edt" Name = "Wall, Shell and Structure"></Template>
+</Templates>
+
+<Templates NameU = "Garden Design" Name = "Garden Design" Solution = "Plan" Theme= "Engine" Icon = "./building/garden.bmp" Description= "Create floor plan for garden design.">
+	<Template Path = "./Basic Shape/Dimensioning.edt" Name = "Dimensioning"></Template>
+	<Template Path = "./Building Plans/WallShellStructure.edt" Name = "Wall, Shell and Structure"></Template>
+	<Template Path = "./Building Plans/Plants.edt" Name = "Plants"></Template>
+	<Template Path = "./Building Plans/Garden.edt" Name = "Garden"></Template>
+</Templates>
+
+<Templates NameU = "Fire and Emergency Plan" Name = "Fire and Emergency Plan" Solution = "Plan" Theme= "Engine" Icon = "./building/fire and emergency plan.bmp" Help = "make-fireemergency-plan.php" Description= "Create floor plan for fire and emergency.">
+	<Template Path = "./Basic Shape/Dimensioning.edt" Name = "Dimensioning"></Template>
+	<Template Path = "./Building Plans/WallShellStructure.edt" Name = "Wall, Shell and Structure"></Template>		
+	<Template Path = "./Building Plans/Fire and Emergency.edt" Name = "Fire and Emergency"></Template>
+</Templates>
+
+<Templates NameU = "Reflected Ceiling Plan" Name = "Reflected Ceiling Plan" Solution = "Plan" Theme= "Engine" Icon = "./building/ceiling.bmp" Description= "Create diagrams for commercial building ceiling tile and lighting panel layout.">
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "Basic Drawing Shapes"></Template>
+	<Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>	
+	<Template Path = "./Basic Shape/Dimensioning.edt" Name = "Dimensioning"></Template>	
+	<Template Path = "./Building Plans/Building Core.edt" Name = "Building Core"></Template>
+	<Template Path = "./Building Plans/Lighting.edt" Name = "Lighting"></Template>		
+	<Template Path = "./Building Plans/ElectricalTelecom.edt" Name = "Electrical and Telecom"></Template>	
+	<Template Path = "./Building Plans/Registers Grills and Diffusers.edt" Name = "Registers Grills and Diffusers"></Template>
+	<Template Path = "./Building Plans/WallShellStructure.edt" Name = "Wall, Shell and Structure"></Template>
+</Templates>
+
+<Templates NameU = "HVAC Plan" Name = "HVAC Plan" Solution = "Plan" Theme= "Engine" Icon = "./building/hvac.bmp" Description= "Create diagrams for heating, ventilation, and air conditioning.">
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "Basic Drawing Shapes"></Template>
+	<Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>	
+	<Template Path = "./Basic Shape/Dimensioning.edt" Name = "Dimensioning"></Template>	
+	<Template Path = "./Building Plans/Building Core.edt" Name = "Building Core"></Template>
+	<Template Path = "./Building Plans/Registers Grills and Diffusers.edt" Name = "Registers Grills and Diffusers"></Template>	
+	<Template Path = "./Building Plans/HVAC Equipment.edt" Name = "HVAC Equipment"></Template>	
+	<Template Path = "./Building Plans/HVAC Ductwork.edt" Name = "HVAC Ductwork"></Template>	
+	<Template Path = "./Building Plans/HVAC Controls.edt" Name = "HVAC Controls"></Template>	
+	<Template Path = "./Building Plans/HVAC Controls Equipment.edt" Name = "HVAC Controls Equipment"></Template>	
+	<Template Path = "./Building Plans/WallShellStructure.edt" Name = "Wall, Shell and Structure"></Template>
+</Templates>
+
+<Templates NameU = "Plumbing and Piping Plan" Name = "Plumbing and Piping Plan" Solution = "Plan" Theme= "Engine" Icon = "./building/plumbing.bmp" Description= "Create diagrams for schematics of waste water disposal systems, hot and cold water supply systems, water lines, and plumbing layous.">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>	
+	<Template Path = "./Basic Shape/Dimensioning.edt" Name = "Dimensioning"></Template>		
+	<Template Path = "./Process Engineering/Piping and Connection Shapes.edt" Name = "Piping and Connection Shapes"></Template>
+	<Template Path = "./Process Engineering/Equipment-Valves.edt" Name = "Equipment Valves"></Template>
+	<Template Path = "./Building Plans/Plumbing.edt" Name = "Plumbing"></Template>
+	<Template Path = "./Building Plans/WallShellStructure.edt" Name = "Wall, Shell and Structure"></Template>
+</Templates>
+
+<Templates NameU = "Elevations" Name = "Elevations" Solution = "Plan" Theme= "Engine" Icon = "./building/elevation.bmp" Help = "make-kitchen-elevations.php" Description= "Create elevation diagrams for cabinets, house design and kitchen plan.">
+	<Template Path = "./Basic Shape/Dimensioning.edt" Name = "Dimensioning"></Template>	
+	<Template Path = "./Building Plans/WallShellStructure.edt" Name = "Wall, Shell and Structure"></Template>	
+	<Template Path = "./Building Plans/Kitchen(Elevation).edt" Name = "Kitchen (Elevation)"></Template>	
+	<Template Path = "./Building Plans/Lighting and Handbag(Elevation).edt" Name = "Lighting and Handbag (Elevation)"></Template>	
+	<Template Path = "./Building Plans/Windows and Doors(Elevation).edt" Name = "Windows and Doors (Elevation)"></Template>	
+	<Template Path = "./Building Plans/Dining Room(Elevation).edt" Name = "Dining Room (Elevation)"></Template>
+	<Template Path = "./Building Plans/Elevations.edt" Name = "Elevations"></Template>		
+</Templates>
+
+<Templates NameU = "Wardrobe" Name = "Wardrobe" Solution = "Plan" drawingscale = "16" Theme= "Engine" Icon = "./building/wardrobe.bmp" Help = "make-wardrobe-plan.php" Description= "Create elevation diagrams for wardrobe plan.">
+	<Template Path = "./Basic Shape/Dimensioning.edt" Name = "Dimensioning"></Template>	
+	<Template Path = "./Building Plans/Wardrobe.edt" Name = "Wardrobe"></Template>
+</Templates>
+</Gallery>
+
+<Gallery NameU = "Flowchart" Name = "Flowchart" Version = "1.0" Help = "How-to-draw-flowchart.php" Description= "Create flowcharts, bpmn, cross functional flowchart, data flow diagram, IDEF0, SDL diagram and highlight flowchart.">
+<Templates NameU = "Basic Flowchart" Name = "Basic Flowchart" Theme= "General" Icon = "./flowchart/basicflow.bmp" Help = "How-to-draw-flowchart.php" Description= "Create flowcharts, top-down diagrams, information tracking diagrams, process planning diagrams and structure prediction diagrams.">
+	<Template Path = "./Basic Shape/backgrounds.edt" Name = "Backgrounds"></Template>
+	<Template Path = "./Basic Shape/borders.edt" Name = "Borders"></Template>
+	<Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>
+	<Template Path = "./Basic Shape/arrow.edt" Name = "Arrow Shapes"></Template>
+	<Template Path = "./Flowchart/basicflow.edt" Name = "Basic Flowchart Shapes"></Template>			
+</Templates>
+
+<Templates NameU = "Business Process Modeling Notation" Name = "Business Process Modeling Notation" Theme= "Waves" Icon = "./flowchart/bpmn.bmp" Help = "how-to-create-bpmn.php" Description= "Create a flowchart that follows the Business Process Modeling Notation 1.1 standard.">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>
+	<Template Path = "./Basic Shape/arrow.edt" Name = "Arrow Shapes"></Template>
+	<Template Path = "./Flowchart/bpmn.edt" Name = "BPMN Shapes"></Template>
+</Templates>
+
+<Templates NameU = "Cross Functional Horizontal" Name = "Cross Functional Horizontal" Theme="Edraw Flat" Icon = "./flowchart/cross-h.bmp" Description= "Show the relationship between a business process and the organizational or functional units, such as departments, that are responsible for steps in that process.">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>
+	<Template Path = "./Basic Shape/arrow.edt" Name = "Arrow Shapes"></Template>
+	<Template Path = "./Flowchart/basicflow.edt" Name = "Basic Flowchart Shapes"></Template>	
+	<Template Path = "./Flowchart/cross functional horizontal.edt" Name = "Cross Functional Horizontal"></Template>
+</Templates>
+
+<Templates NameU = "Cross Functional Vertical" Name = "Cross Functional Vertical" Theme="Edraw Flat" Icon = "./flowchart/cross-v.bmp" Description= "Show the relationship between a business process and the organizational or functional units, such as departments, that are responsible for steps in that process.">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>
+	<Template Path = "./Basic Shape/arrow.edt" Name = "Arrow Shapes"></Template>
+	<Template Path = "./Flowchart/basicflow.edt" Name = "Basic Flowchart Shapes"></Template>	
+	<Template Path = "./Flowchart/cross functional vertical.edt" Name = "Cross Functional Vertical"></Template>	
+</Templates>
+
+<Templates NameU = "Data Flow Diagram" Name = "Data Flow Diagram" Theme= "General" Icon = "./flowchart/dataflow.bmp" Description= "Create structured analysis, information flow, process-oriented, data-oriented, and data process diagrams as well as data flowcharts.">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>
+	<Template Path = "./Basic Shape/arrow.edt" Name = "Arrow Shapes"></Template>
+	<Template Path = "./Flowchart/dataflow.edt" Name = "Data Flow Diagram Shapes"></Template>	
+</Templates>
+
+<Templates NameU = "Event Flow Diagram" Name = "Event Flow Diagram" Theme= "General" Icon = "./flowchart/eventflow.bmp" Description= "Depict the relationship between events and process.">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>
+	<Template Path = "./Basic Shape/arrow.edt" Name = "Arrow Shapes"></Template>
+	<Template Path = "./Flowchart/eventflowdiagram.edt" Name = "Event Flow Diagram"></Template>	
+</Templates>
+
+<Templates NameU = "IDEF Diagram" Name = "IDEF Diagram" Theme= "General" Icon = "./business/idef0.bmp" Description= "Create hierarchical diagrams using IEDF process charting models for model configuration management, need and benefit analyses, requirements definitions, and continuous improvement models.">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>
+	<Template Path = "./Basic Shape/arrow.edt" Name = "Arrow Shapes"></Template>
+	<Template Path = "./Flowchart/IDEF0.edt" Name = "IDEF0 Diagram Shapes"></Template>
+	<Template Path = "./Flowchart/IDEF2.edt" Name = "IDEF2 Diagram Shapes"></Template>		
+</Templates>
+
+<Templates NameU = "Highlight Flowchart" Name = "Highlight Flowchart" Theme= "Edraw Flat" Icon = "./flowchart/highlightflow.bmp" Description= "Create highlight style flowcharts, top-down diagrams, information tracking diagrams, process planning diagrams and structure prediction diagrams.">
+	<Template Path = "./Basic Shape/backgrounds.edt" Name = "Backgrounds"></Template>
+	<Template Path = "./Basic Shape/borders.edt" Name = "Borders"></Template>
+	<Template Path = "./Flowchart/highlight flowchart.edt" Name = "Highlight Flowchart"></Template>
+</Templates>
+
+<Templates NameU = "Work Flow Diagram" Name = "Work Flow Diagram" Theme= "General" Icon = "./flowchart/workflow.bmp" Help = "create-workflow-diagram.php" Description= "Create diagrams of information flow, business process automation, business process re-engineering, accounting, management, and huaman resources tasks. Document 6 Sigma and ISO 9000 processes.">
+	<Template Path = "./Basic Shape/backgrounds.edt" Name = "Backgrounds"></Template>
+	<Template Path = "./Flowchart/Work Flow Department.edt" Name = "Work Flow Department"></Template>
+	<Template Path = "./Flowchart/work flow objects.edt" Name = "Work Flow Objects"></Template>
+	<Template Path = "./Flowchart/work flow steps.edt" Name = "Work Flow Steps.edt"></Template>
+</Templates>
+
+<Templates NameU = "SDL Diagram" Name = "SDL Diagram" Theme= "General" Icon = "./flowchart/sdl.bmp" Description= "Create object-oriented diagrams for communications and telecommunications systems and networks, using Specification and Description Language (SDL). Based on CCITT specifications.">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>
+	<Template Path = "./Basic Shape/arrow.edt" Name = "Arrow Shapes"></Template>
+	<Template Path = "./Flowchart/sdlflow.edt" Name = "SDL Diagram Shapes"></Template>	
+</Templates>
+</Gallery>
+
+<Gallery NameU = "Form" Name = "Form" Version = "1.0" help = "create-business-form.php" Description= "Contains special shapes for creating business cards, fax cover, invoice, receipt, and sales form.">
+<Templates NameU = "Report Form" Name = "Report Form" Theme= "Engine" Icon = "./forms/reportform.bmp" Description= "Contains special shapes for creating report forms.">
+	<Template Path = "./Chart/Column.edt" Name = "Column"></Template>
+	<Template Path = "./Chart/Bar.edt" Name = "Bar"></Template>
+	<Template Path = "./Chart/Pie and Doughnut.edt" Name = "Pie and Doughnut"></Template>	
+	<Template Path = "./Chart/Line and Area.edt" Name = "Line and Area"></Template>
+	<Template Path = "./Chart/Comparison Chart.edt" Name = "Comparison Chart"></Template>
+	<Template Path = "./Chart/Comparison Indicators.edt" Name = "Comparison Indicators"></Template>
+	<Template Path = "./Forms/Forms.edt" Name = "Forms"></Template>
+</Templates>
+<Templates NameU = "Fax Cover" Name = "Fax Cover" Theme= "Engine" Icon = "./forms/fax.bmp" Description= "Contains special shapes for creating fax cover shapesheet.">
+	<Template Path = "./Forms/Forms.edt" Name = "Forms"></Template>	
+</Templates>
+<Templates NameU = "Invoice" Name = "Invoice" Theme= "Engine" Icon = "./forms/invoice.bmp" help = "create-invoice.php" Description= "Contains special shapes for creating invoices and receipts.">
+	<Template Path = "./Forms/Forms.edt" Name = "Forms"></Template>	
+</Templates>
+<Templates NameU = "Sales" Name = "Sales" Theme= "Engine" Icon = "./forms/sales.bmp" Description= "Contains special shapes for creating sales order, company paper, order statement, budget and more.">
+	<Template Path = "./Forms/Forms.edt" Name = "Forms"></Template>	
+</Templates>
+<Templates NameU = "Expense Report" Name = "Expense Report" Theme= "Engine" Icon = "./forms/expense.bmp" Description= "Contains special shapes for creating expense forms and more.">
+	<Template Path = "./Forms/Forms.edt" Name = "Forms"></Template>	
+</Templates>
+<Templates NameU = "Inventory List" Name = "Inventory List" Theme= "Engine" Icon = "./forms/inventory.bmp" Description= "Contains special shapes for creating inventory list and more.">
+	<Template Path = "./Forms/Forms.edt" Name = "Forms"></Template>	
+</Templates>
+<Templates NameU = "Quote Form" Name = "Quote Form" Theme= "Engine" Icon = "./forms/quote.bmp" Description= "Contains special shapes for creating quote form and more.">
+	<Template Path = "./Forms/Forms.edt" Name = "Forms"></Template>	
+</Templates>
+</Gallery>
+
+<Gallery NameU = "Graphic Design" Name = "Graphic Design" Version = "1.0" Description= "Contains special shapes for graphic design.">
+<Templates NameU = "Annual Reports" Name = "Annual Reports" Theme= "Edraw Flat" Icon = "./graphicdesign/annualreport.bmp" Description= "Contains special shapes for creating annual reports and business plans.">
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "Basic Drawing Shapes"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "Common Shapes"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "Icons"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D Block"></Template>	
+</Templates>
+
+<Templates NameU = "Banner" Name = "Banner" Theme= "Edraw Flat" Icon = "./graphicdesign/banner.bmp" Description= "Contains special shapes for creating banners.">
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "Basic Drawing Shapes"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "Common Shapes"></Template>
+	<Template Path = "./Forms/Forms.edt" Name = "Forms"></Template>	
+	<Template Path = "./Basic Shape/Icons.edt" Name = "Icons"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D Block"></Template>	
+	<Template Path = "./Presentation/Gift Voucher.edt" Name = "Gift Voucher"></Template>	
+</Templates>
+
+<Templates NameU = "Brochure" Name = "Brochure" Theme= "Edraw Flat" Icon = "./graphicdesign/brochure.bmp" Description= "Contains special shapes for creating brochures.">
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "Basic Drawing Shapes"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "Common Shapes"></Template>
+	<Template Path = "./Forms/Forms.edt" Name = "Forms"></Template>	
+	<Template Path = "./Basic Shape/Icons.edt" Name = "Icons"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D Block"></Template>	
+	<Template Path = "./Presentation/Gift Voucher.edt" Name = "Gift Voucher"></Template>	
+</Templates>
+
+<Templates NameU = "Certificate" Name = "Certificate" Theme= "Edraw Flat" Icon = "./graphicdesign/certificate.bmp" Description= "Contains special shapes for creating certificate.">
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "Common Shapes"></Template>		
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "Basic Drawing Shapes"></Template>
+	<Template Path = "./Presentation/Certificate.edt" Name = "Certificate"></Template>	
+</Templates>
+
+<Templates NameU = "Cover" Name = "Cover" Theme= "Edraw Flat" Icon = "./graphicdesign/bookcover.bmp" Description= "Contains special shapes for creating covers.">
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "Basic Drawing Shapes"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "Common Shapes"></Template>
+	<Template Path = "./Forms/Forms.edt" Name = "Forms"></Template>	
+	<Template Path = "./Basic Shape/Icons.edt" Name = "Icons"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D Block"></Template>
+</Templates>
+
+<Templates NameU = "Flyer" Name = "Flyer" Theme= "Edraw Flat" Icon = "./graphicdesign/flyer.bmp" Description= "Contains special shapes for creating flyer.">
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "Basic Drawing Shapes"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "Common Shapes"></Template>
+	<Template Path = "./Forms/Forms.edt" Name = "Forms"></Template>	
+	<Template Path = "./Basic Shape/Icons.edt" Name = "Icons"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D Block"></Template>	
+	<Template Path = "./Presentation/Gift Voucher.edt" Name = "Gift Voucher"></Template>
+</Templates>
+
+<Templates NameU = "Label" Name = "Label" Theme= "Edraw Flat" Icon = "./graphicdesign/label.bmp" Description= "Contains special shapes for creating labels and cd covers.">
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "Basic Drawing Shapes"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "Common Shapes"></Template>
+	<Template Path = "./Forms/Forms.edt" Name = "Forms"></Template>	
+	<Template Path = "./Basic Shape/Icons.edt" Name = "Icons"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D Block"></Template>	
+	<Template Path = "./Presentation/Gift Voucher.edt" Name = "Gift Voucher"></Template>	
+</Templates>
+
+<Templates NameU = "Magazines" Name = "Magazines" Theme= "Edraw Flat" Icon = "./graphicdesign/Magazines.bmp" Description= "Contains special shapes for creating magazines， books and catalogs.">
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "Basic Drawing Shapes"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "Common Shapes"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "Icons"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D Block"></Template>
+</Templates>
+
+<Templates NameU = "Newsletter" Name = "Newsletter" Theme= "Edraw Flat" Icon = "./graphicdesign/newsletter.bmp" Description= "Contains special shapes for creating Newsletter.">
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "Basic Drawing Shapes"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "Common Shapes"></Template>
+	<Template Path = "./Forms/Forms.edt" Name = "Forms"></Template>	
+	<Template Path = "./Basic Shape/Icons.edt" Name = "Icons"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D Block"></Template>	
+	<Template Path = "./Presentation/Gift Voucher.edt" Name = "Gift Voucher"></Template>	
+</Templates>
+
+<Templates NameU = "Picture Collage" Name = "Picture Collage" Theme= "Edraw Flat" Icon = "./graphicdesign/picturecollage.bmp" Description= "Create stylish photo collages with abundant shapes and templates.">
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "Basic Drawing Shapes"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D Block"></Template>
+	<Template Path = "./Symbols/Flowers.edt" Name = "Flowers"></Template>
+	<Template Path = "./Symbols/Ornament.edt" Name = "Ornament"></Template>
+	<Template Path = "./Symbols/Bow.edt" Name = "Bow"></Template>
+	<Template Path = "./Symbols/Heart.edt" Name = "Heart"></Template>	
+</Templates>
+
+<Templates NameU = "Poster" Name = "Poster" Theme= "Edraw Flat" Icon = "./graphicdesign/poster.bmp" Description= "Contains special shapes for creating posters.">
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "Basic Drawing Shapes"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "Common Shapes"></Template>
+	<Template Path = "./Forms/Forms.edt" Name = "Forms"></Template>	
+	<Template Path = "./Basic Shape/Icons.edt" Name = "Icons"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D Block"></Template>
+</Templates>
+
+</Gallery>
+
+<Gallery NameU = "Graphic Organizer" Name = "Graphic Organizer" Version = "1.0" Description= "Contains special shapes for graphic organizer.">
+<Templates NameU = "Compare and Contract" Name = "Compare and Contract" Theme= "Edraw Flat" Icon = "./graphicorganizer/comparecontract.bmp" Description= "Compare and contrast is one of the composition patterns used for developing students' skills on telling the similarities and differences between two objects. ">
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "Basic Drawing Shapes"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "Common Shapes"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "Icons"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D Block"></Template>
+	<Template Path = "./Basic Shape/Venn Shapes.edt" Name = "Venn Shapes"></Template>
+	<Template Path = "./Symbols/Graphic Organizer.edt" Name = "Graphic Organizer"></Template>
+</Templates>
+
+<Templates NameU = "Grid and Matrix" Name = "Grid and Matrix" Theme= "Edraw Flat" Icon = "./graphicorganizer/gridmatrix.bmp" Description= "The grid and matrix compares items across two axes. Grids are often the best choice for storyboards with lots of information.">
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "Basic Drawing Shapes"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "Common Shapes"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "Icons"></Template>
+	<Template Path = "./Business Process/Matrix.edt" Name = "Matrix"></Template>	
+	<Template Path = "./Business Process/Five Forces Shapes.edt" Name = "Five Forces Shapes"></Template>
+	<Template Path = "./Business Process/PEST.edt" Name = "PEST"></Template>	
+	<Template Path = "./Symbols/Graphic Organizer.edt" Name = "Graphic Organizer"></Template>
+</Templates>
+
+<Templates NameU = "Main Idea and Detail" Name = "Main Idea and Detail" Theme= "Edraw Flat" Icon = "./graphicorganizer/mainidea.bmp" Description= "A main idea and details chart shows the hierarchical relationship between major concepts and their subordinate elements.">
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "Basic Drawing Shapes"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "Common Shapes"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "Icons"></Template>
+	<Template Path = "./Basic Shape/Circular Charting Shapes.edt" Name = "Circular Charting Shapes"></Template>		
+	<Template Path = "./Symbols/Graphic Organizer.edt" Name = "Graphic Organizer"></Template>
+</Templates>
+
+<Templates NameU = "Sequence Chart" Name = "Sequence Chart" Theme= "Edraw Flat" Icon = "./graphicorganizer/sequencechart.bmp" Description= "A sequence chart shows a series of steps or events in the order in which they take place.">
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "Basic Drawing Shapes"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "Common Shapes"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "Icons"></Template>
+	<Template Path = "./Basic Shape/List Shapes 2.edt" Name = "List Shapes"></Template>
+	<Template Path = "./Basic Shape/List Shapes.edt" Name = "Dynamic List Shapes (with floating buttons)"></Template>
+	<Template Path = "./Business Process/Process Shapes.edt" Name = "Process Shapes"></Template>	
+	<Template Path = "./Symbols/Graphic Organizer.edt" Name = "Graphic Organizer"></Template>
+</Templates>
+
+<Templates NameU = "Spider Chart" Name = "Spider Chart" Theme= "Edraw Flat" Icon = "./graphicorganizer/spiderchart.bmp" Description= "A spider chart is a graphical representation of ideas or topics in a radial, non-linear manner.">
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "Basic Drawing Shapes"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "Common Shapes"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "Icons"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D Block"></Template>
+	<Template Path = "./Symbols/Graphic Organizer.edt" Name = "Graphic Organizer"></Template>
+</Templates>
+
+<Templates NameU = "Storyboard" Name = "Storyboard" Theme= "Edraw Flat" Icon = "./graphicorganizer/storyboard.bmp" Description= "A story map is a study tool that helps students in pre-writing and post-reading activities by outlining the characters, plot, setting, problem and solution.">
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "Basic Drawing Shapes"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "Common Shapes"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "Icons"></Template>
+	<Template Path = "./Basic Shape/List Shapes 2.edt" Name = "List Shapes"></Template>
+	<Template Path = "./Basic Shape/List Shapes.edt" Name = "Dynamic List Shapes (with floating buttons)"></Template>
+	<Template Path = "./Symbols/Graphic Organizer.edt" Name = "Graphic Organizer"></Template>
+</Templates>
+
+<Templates NameU = "T-Chart" Name = "T-Chart" Theme= "Edraw Flat" Icon = "./graphicorganizer/tchart.bmp" Description= "The T chart is used to make comparisons in any content area or genre, such as with books or book characters, scientific phenomena, or social studies events.">
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "Basic Drawing Shapes"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "Common Shapes"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "Icons"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D Block"></Template>
+	<Template Path = "./Symbols/Graphic Organizer.edt" Name = "Graphic Organizer"></Template>
+</Templates>
+</Gallery>
+
+<Gallery NameU = "Industrial Automation" Name = "Industrial Automation" Version = "1.0" Description= "Create diagrams in the process industry to show the general or detailed flow of plant processes and equipment.">
+<Templates NameU = "Process P&amp;ID" Name = "Process P&amp;ID" Theme= "Engine" Icon = "./pid/processpid.bmp" Description= "Use for actual manufacturing process, reaction, material handling, separation, purification and other unit operations from process flow diagram.">
+	<Template Path = "./PID/Ductwork.edt" Name = "Ductwork"></Template>
+	<Template Path = "./PID/PID Valves.edt" Name = "Valves"></Template>	
+	<Template Path = "./PID/Valves Symbols.edt" Name = "Valves Symbols"></Template>
+	<Template Path = "./PID/Flow Meters.edt" Name = "Flow Meters"></Template>
+	<Template Path = "./PID/Industry.edt" Name = "Industry"></Template>	
+	<Template Path = "./PID/Material Handling.edt" Name = "Material Handling"></Template>	
+	<Template Path = "./PID/Plant Facilities.edt" Name = "Plant Facilities"></Template>
+	<Template Path = "./PID/Computer Keys.edt" Name = "Computer Keys"></Template>
+	<Template Path = "./PID/Process Cooling.edt" Name = "Process Cooling"></Template>
+	<Template Path = "./PID/Process Heating.edt" Name = "Process Heating"></Template>
+	<Template Path = "./PID/Lights.edt" Name = "Lights"></Template>
+	<Template Path = "./PID/Push Buttons.edt" Name = "Push Buttons"></Template>	
+</Templates>
+<Templates NameU = "Utility-Generation P&amp;ID" Name = "Utility-Generation P&amp;ID" Theme= "Engine" Icon = "./pid/utilitypid.bmp" Description= "Show utility systems such as boiler, cooling towers, fluid heaters and air compressors.">
+	<Template Path = "./PID/Ductwork.edt" Name = "Ductwork"></Template>	
+	<Template Path = "./PID/Blowers.edt" Name = "Blowers"></Template>
+	<Template Path = "./PID/Boilers.edt" Name = "Boilers"></Template>	
+	<Template Path = "./PID/Chemistry.edt" Name = "Chemistry"></Template>	
+	<Template Path = "./PID/Containers.edt" Name = "Containers"></Template>		
+	<Template Path = "./PID/Heaters.edt" Name = "Heaters"></Template>
+	<Template Path = "./PID/HVAC.edt" Name = "HVAC"></Template>
+	<Template Path = "./PID/Logistics.edt" Name = "Logistics"></Template>
+	<Template Path = "./PID/Machines.edt" Name = "Machines"></Template>		
+	<Template Path = "./PID/Mixers.edt" Name = "Mixers"></Template>	
+	<Template Path = "./PID/Motors.edt" Name = "Motors"></Template>	
+	<Template Path = "./PID/Power.edt" Name = "Power"></Template>
+	<Template Path = "./PID/Pumps.edt" Name = "Pumps"></Template>	
+	<Template Path = "./PID/Tanks.edt" Name = "Tanks"></Template>
+</Templates>
+<Templates NameU = "Environmental P&amp;ID" Name = "Environmental P&amp;ID" Theme= "Engine" Icon = "./pid/environmentpid.bmp" Description= "Used for pollution control processes such as scrubbing and waste-water treatment.">
+	<Template Path = "./PID/Ductwork.edt" Name = "Ductwork"></Template>
+	<Template Path = "./PID/Boilers.edt" Name = "Boilers"></Template>	
+	<Template Path = "./PID/Chemistry.edt" Name = "Chemistry"></Template>	
+	<Template Path = "./PID/Containers.edt" Name = "Containers"></Template>
+	<Template Path = "./PID/Industry.edt" Name = "Industry"></Template>		
+	<Template Path = "./PID/Mixers.edt" Name = "Mixers"></Template>	
+	<Template Path = "./PID/Motors.edt" Name = "Motors"></Template>
+	<Template Path = "./PID/Plant Facilities.edt" Name = "Plant Facilities"></Template>
+	<Template Path = "./PID/Power.edt" Name = "Power"></Template>
+	<Template Path = "./PID/Pumps.edt" Name = "Pumps"></Template>	
+	<Template Path = "./PID/Tanks.edt" Name = "Tanks"></Template>	
+	<Template Path = "./PID/Wastewater Treatment.edt" Name = "Wastewater Treatment"></Template>
+</Templates>
+<Templates NameU = "Auxillary System P&amp;ID" Name = "Auxillary System P&amp;ID" Theme= "Engine" Icon = "./pid/auxillarypid.bmp" Description= "Show compressor, lubrication and cooling systems, hydraulic systems, pump scales and other auxiliaries related to major equipment.">
+	<Template Path = "./PID/Ductwork.edt" Name = "Ductwork"></Template>	
+	<Template Path = "./PID/Motors.edt" Name = "Motors"></Template>
+	<Template Path = "./PID/Plant Facilities.edt" Name = "Plant Facilities"></Template>
+	<Template Path = "./PID/Power.edt" Name = "Power"></Template>	
+	<Template Path = "./PID/Pumps.edt" Name = "Pumps"></Template>	
+	<Template Path = "./PID/Meters.edt" Name = "Meters"></Template>
+	<Template Path = "./PID/Process Cooling.edt" Name = "Process Cooling"></Template>
+	<Template Path = "./PID/Process Heating.edt" Name = "Process Heating"></Template>	
+</Templates>
+<Templates NameU = "Distribution P&amp;ID" Name = "Distribution P&amp;ID" Theme= "Engine" Icon = "./pid/distributionpid.bmp" Description= "Show how utilities, chemicals and other non-process streams are distributed through the plant.">
+	<Template Path = "./PID/Ductwork.edt" Name = "Ductwork"></Template>
+	<Template Path = "./PID/Industry.edt" Name = "Industry"></Template>	
+	<Template Path = "./PID/Logistics.edt" Name = "Logistics"></Template>
+	<Template Path = "./PID/Plant Facilities.edt" Name = "Plant Facilities"></Template>
+	<Template Path = "./PID/Buildings.edt" Name = "Buildings"></Template>	
+	<Template Path = "./PID/Lights.edt" Name = "Lights"></Template>
+	<Template Path = "./PID/Meters.edt" Name = "Meters"></Template>
+	<Template Path = "./PID/Push Buttons.edt" Name = "Push Buttons"></Template>
+	<Template Path = "./PID/Safety.edt" Name = "Safety"></Template>
+</Templates>
+</Gallery>
+
+<Gallery NameU = "Infographic" Name = "Infographic" Version = "1.0" Description= "Create infographics for buiness, marketing, education, Environment, medical and transportation.">
+<Templates NameU = "Architecture" Name = "Architecture" Theme= "Edraw Flat" Icon = "./infographic/architecture.bmp" Description= "Create infographics for architecture.">
+	<Template Path = "./Basic Shape/Arrow.edt" Name = "Arrow Shapes"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "Common Shapes"></Template>		
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D Block"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "Icons"></Template>
+	<Template Path = "./Chart/Basic Charts.edt" Name = "Basic Charts"></Template>	
+	<Template Path = "./Symbols/Architecture.edt" Name = "Buildings"></Template>		
+</Templates>
+
+<Templates NameU = "Business" Name = "Business" Theme= "Edraw Flat" Icon = "./infographic/business.bmp" Description= "Create infographics for business.">
+	<Template Path = "./Basic Shape/Arrow.edt" Name = "Arrow Shapes"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "Common Shapes"></Template>		
+	<Template Path = "./Basic Shape/Icons.edt" Name = "Icons"></Template>
+	<Template Path = "./Chart/Basic Charts.edt" Name = "Basic Charts"></Template>
+	<Template Path = "./Symbols/Silhouette.edt" Name = "Silhouette"></Template>
+	<Template Path = "./Symbols/Business People.edt" Name = "Business People"></Template>
+	<Template Path = "./Symbols/Business Flat.edt" Name = "Business Flat"></Template>		
+</Templates>
+
+<Templates NameU = "Education" Name = "Education" Theme= "Edraw Flat" Icon = "./infographic/education.bmp" Description= "Create infographics for education.">
+	<Template Path = "./Basic Shape/Arrow.edt" Name = "Arrow Shapes"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "Common Shapes"></Template>		
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D Block"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "Icons"></Template>
+	<Template Path = "./Chart/Basic Charts.edt" Name = "Basic Charts"></Template>
+	<Template Path = "./Symbols/Education.edt" Name = "Education Flat"></Template>		
+</Templates>
+
+<Templates NameU = "Environment" Name = "Environment" Theme= "Edraw Flat" Icon = "./infographic/environment.bmp" Description= "Create infographics for environment.">
+	<Template Path = "./Basic Shape/Arrow.edt" Name = "Arrow Shapes"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "Common Shapes"></Template>		
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D Block"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "Icons"></Template>
+	<Template Path = "./Chart/Basic Charts.edt" Name = "Basic Charts"></Template>
+	<Template Path = "./Symbols/Environment.edt" Name = "Environment"></Template>	
+</Templates>
+
+<Templates NameU = "Food" Name = "Food" Theme= "Edraw Flat" Icon = "./infographic/food.bmp" Description= "Create infographics for food.">
+	<Template Path = "./Basic Shape/Arrow.edt" Name = "Arrow Shapes"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "Common Shapes"></Template>		
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D Block"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "Icons"></Template>
+	<Template Path = "./Chart/Basic Charts.edt" Name = "Basic Charts"></Template>	
+	<Template Path = "./Symbols/Food.edt" Name = "Food"></Template>
+	<Template Path = "./Symbols/Bread.edt" Name = "Bread"></Template>
+	<Template Path = "./Symbols/Fruit.edt" Name = "Fruit"></Template>
+	<Template Path = "./Symbols/Drinks.edt" Name = "Drinks"></Template>
+	<Template Path = "./Symbols/Tableware.edt" Name = "Tableware"></Template>
+</Templates>
+
+<Templates NameU = "Medical" Name = "Medical" Theme= "Edraw Flat" Icon = "./infographic/medical.bmp" Description= "Create infographics for medical.">
+	<Template Path = "./Basic Shape/Arrow.edt" Name = "Arrow Shapes"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "Common Shapes"></Template>		
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D Block"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "Icons"></Template>
+	<Template Path = "./Chart/Basic Charts.edt" Name = "Basic Charts"></Template>
+	<Template Path = "./Symbols/Medical.edt" Name = "Medical"></Template>	
+</Templates>
+
+<Templates NameU = "Music" Name = "Music" Theme= "Edraw Flat" Icon = "./infographic/music.bmp" Description= "Create infographics for music.">
+	<Template Path = "./Basic Shape/Arrow.edt" Name = "Arrow Shapes"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "Common Shapes"></Template>		
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D Block"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "Icons"></Template>
+	<Template Path = "./Chart/Basic Charts.edt" Name = "Basic Charts"></Template>
+	<Template Path = "./Symbols/Music.edt" Name = "Music"></Template>	
+</Templates>
+
+<Templates NameU = "News" Name = "News" Theme= "Edraw Flat" Icon = "./infographic/news.bmp" Description= "Create infographics for news.">
+	<Template Path = "./Basic Shape/Arrow.edt" Name = "Arrow Shapes"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "Common Shapes"></Template>		
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D Block"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "Icons"></Template>
+	<Template Path = "./Chart/Basic Charts.edt" Name = "Basic Charts"></Template>
+	<Template Path = "./Symbols/News.edt" Name = "News Media"></Template>
+</Templates>
+
+<Templates NameU = "Technology" Name = "Technology" Theme= "Edraw Flat" Icon = "./infographic/technology.bmp" Description= "Create infographics for technology.">
+	<Template Path = "./Basic Shape/Arrow.edt" Name = "Arrow Shapes"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "Common Shapes"></Template>		
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D Block"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "Icons"></Template>
+	<Template Path = "./Chart/Basic Charts.edt" Name = "Basic Charts"></Template>	
+	<Template Path = "./Symbols/Electronics.edt" Name = "Electronics"></Template>
+	<Template Path = "./Symbols/Artificial Intelligence.edt" Name = "Artificial Intelligence"></Template>
+    <Template Path = "./Symbols/Biotechnology.edt" Name = "Biotechnology"></Template>	
+	<Template Path = "./Symbols/Aerospace Technology.edt" Name = "Aerospace Technology"></Template>	
+</Templates>
+
+<Templates NameU = "Tourism" Name = "Tourism" Theme= "Edraw Flat" Icon = "./infographic/tourism.bmp" Description= "Create infographics for tourism.">
+	<Template Path = "./Basic Shape/Arrow.edt" Name = "Arrow Shapes"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "Common Shapes"></Template>		
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D Block"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "Icons"></Template>
+	<Template Path = "./Chart/Basic Charts.edt" Name = "Basic Charts"></Template>	
+	<Template Path = "./Symbols/Tourism.edt" Name = "Tourism"></Template>	
+</Templates>
+
+<Templates NameU = "Transportation" Name = "Transportation" Theme= "Edraw Flat" Icon = "./infographic/transportation.bmp" Description= "Create infographics for transportation.">
+	<Template Path = "./Basic Shape/Arrow.edt" Name = "Arrow Shapes"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "Common Shapes"></Template>		
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2D Block"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "Icons"></Template>
+	<Template Path = "./Chart/Basic Charts.edt" Name = "Basic Charts"></Template>	
+	<Template Path = "./Symbols/Transportation.edt" Name = "Transportation"></Template>
+</Templates>
+</Gallery>
+
+<Gallery NameU = "Map" Name = "Map" Version = "1.0" help = "create-street-map.php" Description= "Contains special shapes and settings for creating geographical maps and directional map.">
+<Templates NameU = "Directional Map" Name = "Directional Map" Theme= "General" Icon = "./maps/directional-map.bmp" help = "create-street-map.php" Description= "Contains transportation and maps transit shapes, such as highways, parkways, intersections, road and street signs, routes, railroad tracks, transit terminals, rivers, and building.">
+	<Template Path = "./Maps/Metro and train.edt" Name = "Metro and Train"></Template>
+	<Template Path = "./Maps/Road signs.edt" Name = "Road Signs"></Template>
+	<Template Path = "./Maps/Map Vehicles.edt" Name = "Map Vehicles"></Template>
+	<Template Path = "./Maps/2D Landmarks.edt" Name = "2D Landmarks"></Template>
+	<Template Path = "./Maps/2D Directional Map.edt" Name = "2D Directional Maps"></Template>
+</Templates>
+
+<Templates NameU = "Directional Map - 3D" Name = "Directional Map - 3D" Theme= "General" Icon = "./maps/3dmap.bmp" Description= "Contains transportation shapes such as roads, vehicles, intersections, and building landmarks.">
+	<Template Path = "./Maps/Map Vehicles.edt" Name = "Map Vehicles"></Template>
+	<Template Path = "./Maps/3D Landmarks.edt" Name = "3D Landmarks"></Template>
+	<Template Path = "./Maps/3D Directional Map.edt" Name = "3D Directional Maps"></Template>
+</Templates>
+
+<Templates NameU = "Subway Map" Name = "Subway Map" Theme= "General" Icon = "./maps/subway.bmp" Description= "Contains special shapes and settings for creating city subway maps.">
+	<Template Path = "./Maps/Subway.edt" Name = "Subway"></Template>
+</Templates>
+
+<Templates NameU = "Geo Map - Africa" Name = "Geo Map - Africa" Theme= "General" Icon = "./maps/continent/geo-africa.bmp" Description= "Contains special shapes and settings for creating Africa geographical maps.">
+	<Template Path = "./Maps/Africa.edt" Name = "Africa"></Template>
+</Templates>
+
+<Templates NameU = "Geo Map - Asia" Name = "Geo Map - Asia" Theme= "General" Icon = "./maps/continent/geo-asia.bmp" Description= "Contains special shapes and settings for creating Asia geographical maps.">
+	<Template Path = "./Maps/Asia.edt" Name = "Asia"></Template>
+</Templates>
+
+<Templates NameU = "Geo Map - Australia" Name = "Geo Map - Australia" Theme= "General" Icon = "./maps/continent/geo-australia.bmp" Description= "Contains special shapes and settings for creating Australia geographical maps.">
+	<Template Path = "./Maps/Australia.edt" Name = "Australia"></Template>
+</Templates>
+
+<Templates NameU = "Geo Map - Europe" Name = "Geo Map - Europe" Theme= "General" Icon = "./maps/continent/geo-europe.bmp" Description= "Contains special shapes and settings for creating Europe geographical maps.">
+	<Template Path = "./Maps/Europe.edt" Name = "Eruope"></Template>
+</Templates>
+
+<Templates NameU = "Geo Map - N. America" Name = "Geo Map - N. America" Theme= "General" Icon = "./maps/continent/geo-n-america.bmp" Description= "Contains special shapes and settings for creating N. America geographical maps.">
+	<Template Path = "./Maps/USA.edt" Name = "USA"></Template>
+	<Template Path = "./Maps/Canada.edt" Name = "Canada"></Template>
+</Templates>
+
+<Templates NameU = "Geo Map - S. America" Name = "Geo Map - S. America" Theme= "General" Icon = "./maps/continent/geo-s-america.bmp" Description= "Contains special shapes and settings for creating S. America geographical maps.">
+	<Template Path = "./Maps/South America.edt" Name = "South America"></Template>
+</Templates>
+</Gallery>
+
+<Gallery NameU = "Mind Map" Name = "Mind Map" Version = "1.0" Help = "create-mind-map.php" Description= "Create mind maps (graphical representations of thought processes) for brainstorming, problem solving, rational analysis, and decision marking.">
+<Templates NameU = "Mind Map" Name = "Mind Map" Solution = "Mind" Theme= "Edraw Flat" Icon = "./mindmap/mind.bmp" Help = "create-mind-map.php" Description= "Create mind maps (graphical representations of thought processes) for brainstorming, problem solving, rational analysis, and decision marking.">
+  <Template Path = "./Mind Map/Brainstorming.edt" Name = "Brainstorming"></Template>	
+  <Template Path = "./Mind Map/symbols.edt" Name = "Symbols"></Template>
+	<Template Path = "./Mind Map/mind shapes.edt" Name = "Mind Map Shapes"></Template>	
+</Templates>
+
+<Templates NameU = "Concept Map" Name = "Concept Map" Theme= "Edraw Flat" Icon = "./mindmap/concept.bmp" Help = "how-to-draw-concept-map.php" Description= "Create concept diagram for showing the relationships among concepts.">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>
+	<Template Path = "./Mind Map/conceptmap.edt" Name = "Concept Map"></Template>	
+</Templates>
+
+<Templates NameU = "Bubble Diagram" Name = "Bubble Diagram" Theme= "Edraw Flat" Icon = "./mindmap/bubble.bmp" Description= "Create bubble diagram for mind mapping.">
+	<Template Path = "./Basic Shape/arrow.edt" Name = "Arrow Shapes"></Template>
+	<Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>
+	<Template Path = "./Basic Shape/bubbleshapes.edt" Name = "Bubble Shapes"></Template>	
+</Templates>
+</Gallery>
+
+<Gallery NameU = "Network" Name = "Network" Version = "1.0" Help = "createnetworkdiagram.php" Description= "Create 3d network diagram, basic network diagram, detail network diagram, logical network diagram, Cisco network diagram, LDAP and active directory.">
+<Templates NameU = "3D Network Diagram" Name = "3D Network Diagram" Theme= "General" Icon = "./network/3dnetwork.bmp" Description= "Contains some 3d network, computer equipment shapes and oblique connectors for creating 3d network diagrams.">
+	<Template Path = "./Network/3D Network Diagram Shapes.edt" Name = "3D Network Diagram Shapes"></Template>	
+</Templates>
+
+<Templates NameU = "AWS" Name = "AWS" Theme= "General" Icon = "./network/aws.bmp" Description= "Create Amazon architecture diagrams.">
+  <Template Path = "./AWS/App Services.edt" Name = "AWS App Services"></Template>
+  <Template Path = "./AWS/Compute.edt" Name = "AWS Compute and Networking"></Template>
+  <Template Path = "./AWS/Database.edt" Name = "AWS Database"></Template>
+  <Template Path = "./AWS/Deployment Management.edt" Name = "AWS Deployment and Management"></Template>
+  <Template Path = "./AWS/Non-Service Specific.edt" Name = "AWS Non-Service Specific"></Template>
+  <Template Path = "./AWS/On-Demand Workforce.edt" Name = "AWS On-Demand Workforce"></Template>
+  <Template Path = "./AWS/SDKs.edt" Name = "AWS SDKs"></Template>
+  <Template Path = "./AWS/Storage Content Delivery.edt" Name = "AWS Storage Content and Delivery"></Template>
+</Templates>
+
+<Templates NameU = "Azure" Name = "Azure" Theme= "General" Icon = "./network/azure.bmp" Description= "Create Microsoft Azure, cloud and enterprise architecture diagrams.">
+  	<Template Path = "./Azure/Azure Cloud.edt" Name = "Azure Cloud"></Template>
+  	<Template Path = "./Azure/Azure Deprecated.edt" Name = "Azure Deprecated"></Template>
+	<Template Path = "./Azure/Azure Enterprise.edt" Name = "Azure Enterprise"></Template>
+	<Template Path = "./Azure/Azure General Symbols.edt" Name = "Azure General Symbols"></Template>
+	<Template Path = "./Azure/Azure Intune.edt" Name = "Azure Intune"></Template>
+	<Template Path = "./Azure/Azure Microsoft Productd.edt" Name = "Azure Microsoft Products"></Template>
+	<Template Path = "./Azure/Azure System Center.edt" Name = "Azure System Center"></Template>
+	<Template Path = "./Azure/Azure VMs by Function.edt" Name = "Azure VMs by Function"></Template>
+</Templates>
+
+<Templates NameU = "GCP" Name = "GCP" Theme= "General" Icon = "./network/GCP.bmp" Description= "Create Google cloud platform diagrams.">
+  	<Template Path = "./GCP/GCP Big Data.edt" Name = "GCP Big Data"></Template>
+	  <Template Path = "./GCP/GCP Compute.edt" Name = "GCP Compute"></Template>
+	  <Template Path = "./GCP/GCP Developer Tools.edt" Name = "GCP Developer Tools"></Template>
+	  <Template Path = "./GCP/GCP Extras.edt" Name = "GCP Extras"></Template>
+	  <Template Path = "./GCP/GCP Identity and Security.edt" Name = "GCP Identity and Security"></Template>
+	  <Template Path = "./GCP/GCP Internet of Things.edt" Name = "GCP Internet of Things"></Template>
+	  <Template Path = "./GCP/GCP Management Tools.edt" Name = "GCP Management Tools"></Template>
+	  <Template Path = "./GCP/GCP Networking.edt" Name = "GCP Networking"></Template>
+	  <Template Path = "./GCP/GCP Storage and Databases.edt" Name = "GCP Storage and Databases"></Template>
+</Templates>
+
+<Templates NameU = "Basic Network Diagram" Name = "Basic Network Diagram" Theme= "General" Icon = "./network/netbase.bmp" Help = "createnetworkdiagram.php" Description= "Create simple network designs and network architecture diagrams, using basic network and computer equipment shapes.">
+  <Template Path = "./Basic Shape/backgrounds.edt" Name = "Backgrounds"></Template>
+  <Template Path = "./Network/Computers and Monitors.edt" Name = "Computers and Monitors"></Template>
+  <Template Path = "./Network/Servers.edt" Name = "Servers"></Template>		
+	<Template Path = "./Network/Network and Peripherals.edt" Name = "Network and Peripherals"></Template>		
+</Templates>
+
+<Templates NameU = "Cisco Network Topology" Name = "Cisco Network Topology" Theme= "General" Icon = "./network/netcisco.bmp" Description= "Create basic cisco network designs and network architecture diagrams, using the cisco network and computer icons.">
+  <Template Path = "./Cisco/Cisco Network Topology.edt" Name = "Cisco Network Topology"></Template>
+</Templates>
+
+<Templates NameU = "Cisco Product Icons" Name = "Cisco Product Icons" Theme= "General" Icon = "./network/ciscoproducts.bmp" Description= "Contains some Cisco products for creating network diagrams.">
+  <Template Path = "./Cisco/Cisco Product Icons.edt" Name = "Cisco Product Icons"></Template>
+</Templates>
+
+<Templates NameU = "Cisco Safe Icons" Name = "Cisco Safe Icons" Theme= "General" Icon = "./network/ciscosafe.bmp" Description= "Contains some Cisco safe icons for creating safe threat diagrams, safe architectural control and safe design diagram.">
+  <Template Path = "./Cisco/Security Stealthwatch.edt" Name = "Security Stealthwatch"></Template>
+  <Template Path = "./Cisco/Safe Threat Icons.edt" Name = "Safe Threat Icons"></Template>
+  <Template Path = "./Cisco/Safe Architectural Icons.edt" Name = "Safe Architectural Icons"></Template>
+  <Template Path = "./Cisco/Safe Capability Icons.edt" Name = "Safe Capability Icons"></Template>
+  <Template Path = "./Cisco/Safe Design Icons.edt" Name = "Safe Design Icons"></Template>
+</Templates>
+
+<Templates NameU = "Detail Network Diagram" Name = "Detail Network Diagram" Theme= "General" Icon = "./network/netdetail.bmp" Description= "Create detailed physical, logical and network architecture diagrams, using a comprehensive set of network and computer equipment shapes.">
+  <Template Path = "./Network/Computers and Monitors.edt" Name = "Computers and Monitors"></Template>	
+  <Template Path = "./Network/Servers.edt" Name = "Servers"></Template>	
+	<Template Path = "./Network/Network and Peripherals.edt" Name = "Network and Peripherals"></Template>	
+	<Template Path = "./Network/Detailed Network Diagram.edt" Name = "Detailed Network Diagram"></Template>
+	<Template Path = "./Network/Peripheral Equipment.edt" Name = "Peripheral Equipment"></Template>	
+</Templates>
+
+<Templates NameU = "Logical Network Diagram" Name = "Logical Network Diagram" Theme= "General" Icon = "./network/netsymbol.bmp" Description= "Contains network and computer equipment shapes for creating logical network diagrams.">
+  <Template Path = "./Network/Computers and Monitors.edt" Name = "Computers and Monitors"></Template>
+  <Template Path = "./Network/Servers.edt" Name = "Servers"></Template>	
+  <Template Path = "./Network/Network Symbols.edt" Name = "Network Symbols"></Template>		
+</Templates>
+
+<Templates NameU = "Rack Diagram" Name = "Rack Diagram" Theme= "General" Icon = "./network/rack.bmp" Help = "create-rack-diagram.php" Description= "Contains rack and network equipment shapes for designing rack systems.">
+  <Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>
+	<Template Path = "./Network/Rack Equipment.edt" Name = "Rack Equipment"></Template>
+</Templates>
+
+<Templates NameU = "Video and Audio Ports" Name = "Video and Audio Ports" Theme= "General" Icon = "./network/video-audio-ports.bmp" Description= "Contains symbols for video and audio ports diagrams.">
+  <Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>
+	<Template Path = "./Network/Video and Audio Ports.edt" Name = "Video and Audio Ports"></Template>
+</Templates>
+
+<Templates NameU = "LDAP" Name = "LDAP" Theme= "General" Icon = "./network/ldap.bmp" Description= "Contains shapes that represent common LDAP (Lightweight Directory Access Protocol) objects used to document directory services.">
+  <Template Path = "./Network/LDAP Objects.edt" Name = "LDAP Objects"></Template>
+</Templates>
+
+<Templates NameU = "Active Directory" Name = "Active Directory" Theme= "General" Icon = "./network/activedirectory.bmp" Description= "Contains special shapes and settings for documenting Active Directory services.">
+  <Template Path = "./Network/Active Directory.edt" Name = "Active Directory"></Template>	
+	<Template Path = "./Network/Active Directory Objects.edt" Name = "Active Directory Objects"></Template>	
+	<Template Path = "./Network/Exchange Objects.edt" Name = "Exchange Objects"></Template>
+</Templates>
+
+<Templates NameU = "Network Location Diagram" Name = "Network Location Diagram" Theme= "General" Icon = "./network/netarea.bmp" Description= "Contains some network location shapes for creating network location diagrams.">
+	<Template Path = "./Network/Computers and Monitors.edt" Name = "Computers and Monitors"></Template>
+	<Template Path = "./Network/Network Locations.edt" Name = "Network Locations"></Template>	
+</Templates>
+
+</Gallery>
+
+<Gallery NameU = "Organizational Chart" Name = "Organizational Chart" Version = "1.0" Theme= "General" Help = "create-org-chart.php" Description= "Create organizational chart for human resources management, staff organization, office administration, and management structures.">
+<Templates NameU = "Organization Chart" Name = "Organization Chart" Theme= "General" Solution = "Org" Icon = "./orgchart/orgbase.bmp" Help = "create-org-chart.php" Description= "Create diagrams for human resources management, staff organization, office administration, and management structures.">
+	<Template Path = "./Orgchart/Organization Chart Shapes.edt" Name = "Organization Chart Shapes"></Template>
+</Templates>
+
+<Templates NameU = "Custom Organization Chart" Name = "Custom Organization Chart" Theme= "General" Solution = "Org" Icon = "./orgchart/orgcustom.bmp" Help = "create-org-chart.php" Description= "Create custom organizational chart diagrams for human resources management, staff organization, office administration, and management structures.">
+	<Template Path = "./Orgchart/Custom Organization Chart.edt" Name = "Custom Organization Chart"></Template>
+</Templates>
+
+<Templates NameU = "Family Tree" Name = "Family Tree" Theme= "Edraw Flat" Icon = "./orgchart/familytree.bmp" Help = "create-family-tree.php" Description= "Create family tree, family history or genealogy tree.">
+	<Template Path = "./Orgchart/Organization Chart Shapes.edt" Name = "Organization Chart Shapes"></Template>
+	<Template Path = "./Orgchart/Family Tree.edt" Name = "Family Tree"></Template>
+</Templates>
+</Gallery>
+
+<Gallery NameU = "Project Management" Name = "Project Management" Theme= "General" Version = "1.0" Help = "create-project-chart.php" Description= "Create PERT charts and timeline for project or task management, timetables, work breakdown structures, critical path method, project lifecycles, goal setting, schedules and agendas.">
+<Templates NameU = "Calendar" Name = "Calendar" Theme= "General" Icon = "./project/calendar.bmp" Help = "makeowncalendar.php" Description= "Use to create working calendar schedule, weekly task schedule.">
+  <Template Path = "./Basic Shape/backgrounds.edt" Name = "Backgrounds"></Template>	
+	<Template Path = "./Mind Map/symbols.edt" Name = "Symbols"></Template>
+	<Template Path = "./Project/Calendar.edt" Name = "Calendar"></Template>
+</Templates>
+
+<Templates NameU = "Gantt" Name = "Gantt" Theme= "General" Solution = "Gantt" Icon = "./project/gantt.bmp" Help = "how-to-draw-gantt-chart.php" Description= "Create Gantt chart for project schedule.">
+  <Template Path = "./Basic Shape/backgrounds.edt" Name = "Backgrounds"></Template>  
+	<Template Path = "./Mind Map/symbols.edt" Name = "Symbols"></Template>
+  <Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>
+	<Template Path = "./Project/Gantt.edt" Name = "Gantt"></Template>  
+</Templates>
+
+<Templates NameU = "House of Quality" Name = "House of Quality(HOQ)" Theme= "General" Icon = "./project/HOQ.bmp" Help = "create-house-quality-diagram.php" Description= "Create house of quality diagram for developing a design quality aiming at satisfying the consumer and then translating the consumer's demand into design targets and major quality assurance points to be used throughout the production phase.">
+	<Template Path = "./Basic Shape/BasicShapes.edt" Name = "Basic Drawing Shapes"></Template>
+  <Template Path = "./Project/HOQ and QFD.edt" Name = "HOQ and QFD"></Template>
+</Templates>
+
+<Templates NameU = "Quality Function Deployment" Name = "Quality Function Deployment(QFD)" Theme= "General" Help = "create-qfd-diagram.php" Icon = "./project/QFD.bmp" Description= "Create quality function deployment diagram to bring this personal interface to modern manufacturing and business.">
+	<Template Path = "./Basic Shape/BasicShapes.edt" Name = "Basic Drawing Shapes"></Template>
+  <Template Path = "./Project/HOQ and QFD.edt" Name = "HOQ and QFD"></Template>
+</Templates>
+
+<Templates NameU = "Relationship Matrix" Name = "Relationship Matrix" Theme= "General" Icon = "./business/Matrix.bmp" Help = "create-relationship-matrix.php" Description= "Visualize the relationship of project task, person, action and technology.">
+	<Template Path = "./Basic Shape/BasicShapes.edt" Name = "Basic Drawing Shapes"></Template>	
+	<Template Path = "./Project/Relationship Matrix.edt" Name = "Relationship Matrix"></Template>
+</Templates>
+
+<Templates NameU = "Relations Diagram" Name = "Relations Diagram" Theme= "General" Icon = "./project/relation.bmp" Description= "Create relations diagram to help a group analyze the natural links between different aspects of a complex situation.">
+  <Template Path = "./Basic Shape/arrow.edt" Name = "Arrow Shapes"></Template>
+  <Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>	
+  <Template Path = "./ERD and Database/Entity Relationship.edt" Name = "Relations Diagram"></Template>
+</Templates>
+
+<Templates NameU = "PERT Chart" Name = "PERT Chart" Theme= "General" Icon = "./project/pert.bmp" help= "create-pert-chart.php" Description= "Create PERT charts for project or task management, timetables, work breakdown structures, critical path method, project lifecycles, goal setting, schedules and agendas.">
+  <Template Path = "./Basic Shape/arrow.edt" Name = "Arrow Shapes"></Template>
+  <Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>	
+  <Template Path = "./Project/PERT Chart.edt" Name = "PERT Chart Objects"></Template>
+</Templates>
+
+<Templates NameU = "Timeline" Name = "Timeline" Theme= "Edraw Flat" Icon = "./project/timeline.bmp" Help = "how-to-draw-timeline.php" Description= "Create linear timelines with milestones and interval markers.">
+  <Template Path = "./Basic Shape/arrow.edt" Name = "Arrow Shapes"></Template>
+  <Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>	
+  <Template Path = "./Project/timeline.edt" Name = "Timeline Objects"></Template>
+</Templates>
+
+<Templates NameU = "Status Table" Name = "Status Table" Theme= "General" Icon = "./project/statustable.bmp" help="create-status-table.php" Description= "Create status table of your business, team, project, process or technology.">
+	<Template Path = "./Project/Status Table.edt" Name = "Status Table"></Template>
+</Templates>
+
+<Templates NameU = "Decision Tree" Name = "Decision Tree" Theme= "Edraw Flat" Icon = "./project/decisiontree.bmp" Help = "create-decision-tree.php" Description= "Help make good choices, especially decisions that involve high costs and risks.">
+  <Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>
+  <Template Path = "./Project/descisiontree.edt" Name = "Decision Tree"></Template>
+</Templates>
+
+<Templates NameU = "Work Breakdown Structure (WBS)" Name = "Work Breakdown Structure (WBS)" Theme= "Edraw Flat" Icon = "./project/wbs.bmp" Help = "create-wbs-diagram.php" Description= "Show a subdivision of effort required to achieve an objective and help organize and define the total work scope of the project.">
+  <Template Path = "./Project/WBS.edt" Name = "WBS Shapes"></Template>
+</Templates>
+</Gallery>
+
+<Gallery NameU = "Science" Name = "Science" Version = "1.0" help = "create-science-diagram.php" Description= "Create educational documents and presentations quickly with the math, chemistry and physics vector symbols.">
+<Templates NameU = "Mechanics" Name = "Mechanics" Theme= "General" Icon = "./science/mechanics.bmp" Description= "Use the template to create physics mechanics illustration.">
+  <Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>
+  <Template Path = "./Science/mechanics.edt" Name = "Mechanics"></Template>	
+</Templates>
+
+<Templates NameU = "Optics" Name = "Optics" Theme= "General" Icon = "./science/Optics.bmp" Description= "Use the template to create physics optics illustration.">
+  <Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>
+  <Template Path = "./Science/optics.edt" Name = "Optics"></Template>
+</Templates>
+
+<Templates NameU = "Chemistry Equation" Name = "Chemistry Equation" Theme= "General" Icon = "./science/chemicalequation.bmp" Description= "Use the template to create chemistry equation illustration.">
+  <Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>
+  <Template Path = "./Science/chemical equation.edt" Name = "Chemical Equation"></Template>
+</Templates>
+
+<Templates NameU = "Laboratory Equipment" Name = "Laboratory Equipment" Theme= "General" Icon = "./science/laboratory.bmp" Description= "Use the template to create chemistry laboratory equipment illustration.">
+  <Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>
+  <Template Path = "./Science/laboratory equipment.edt" Name = "Laboratory Equipment"></Template>
+</Templates>
+
+<Templates NameU = "Molecular Model" Name = "Molecular Model" Theme= "General" Icon = "./science/atommodels.bmp" Description= "Use the template to create chemistry molecular model illustration.">
+  <Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>
+  <Template Path = "./Science/molecular model.edt" Name = "Molecular Model"></Template>	
+	<Template Path = "./Science/ball and stick model.edt" Name = "Ball And Stick Model"></Template>	
+</Templates>
+
+<Templates NameU = "Mathematics" Name = "Mathematics" Theme= "General" Icon = "./science/mathematics.bmp" Description= "Use the template to create educational math illustrations with the shapes of plane and solid geometric figures, trigonometrical functions, greek letters.">
+  <Template Path = "./Science/greek letter.edt" Name = "Greek Letter"></Template>
+	<Template Path = "./Science/mathematical symbol.edt" Name = "Mathematical Symbol"></Template>	
+	<Template Path = "./Basic Shape/Dimensioning.edt" Name = "Dimensioning"></Template>	
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "Plane Geometry"></Template>
+	<Template Path = "./Basic Shape/3Dblock.edt" Name = "Solid Geometry"></Template>	
+</Templates>
+
+<Templates NameU = "Human Organs" Name = "Human Organs" Theme= "General" Icon = "./science/humanorgans.bmp" Description= "Use the template to create educational human organ diagrams.">
+  <Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>
+  <Template Path = "./Science/human organs.edt" Name = "Human Organs"></Template>		
+</Templates>
+
+<Templates NameU = "Cells" Name = "Cells" Theme= "General" Icon = "./science/cells.bmp" Description= "Use the template to create cell diagrams.">
+  <Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>
+  <Template Path = "./Science/animal cells and virus cells.edt" Name = "Animal Cells"></Template>
+	<Template Path = "./Science/plant Cell.edt" Name = "Plant Cell"></Template>	
+</Templates>
+
+<Templates NameU = "Astronomy" Name = "Astronomy" Theme= "General" Icon = "./science/astronomy.bmp" Description= "Use the template to create astronomy diagrams.">
+  <Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>
+  <Template Path = "./Science/Astronomy.edt" Name = "Astronomy"></Template>
+</Templates>
+	
+</Gallery>
+
+<Gallery NameU = "Software" Name = "Software" Version = "1.0" help = "design-software-diagram.php" Description= "Create UML diagram, Booch OOD, COM and OLE, data flow model diagram, enterprise application, jackbson use case diagram, Room, Shlaer-Mellor OOA diagram, program stucture diagram, Nassi-Shneiderman diagram and SSADM diagrams.">
+<Templates NameU = "UML Model Diagram" Name = "UML Model Diagram" Theme="ENG" Icon = "./software/uml.bmp" Description= "Contains special shapes and settings for creating UML mdoels and static structure (class and object), use case, collaboration, sequence, component, deployment, activity, using the UML notation.">
+  <Template Path = "./Software/UML-Activity.edt" Name = "UML Activity Diagram"></Template>
+  <Template Path = "./Software/UML-Class.edt" Name = "UML Class Diagram"></Template>
+	<Template Path = "./Software/UML-Collaboration.edt" Name = "UML Collaboration Diagram"></Template>
+	<Template Path = "./Software/UML-Component.edt" Name = "UML Component Diagram"></Template>
+	<Template Path = "./Software/UML-Deployment.edt" Name = "UML Deployment Diagram"></Template>
+	<Template Path = "./Software/UML-Sequence.edt" Name = "UML Sequence Diagram"></Template>
+	<Template Path = "./Software/UML-Statechart.edt" Name = "UML Statechart Diagram"></Template>	
+	<Template Path = "./Software/UML-UseCase.edt" Name = "UML Use Case Diagram"></Template>
+	<Template Path = "./Software/Relationship.edt" Name = "Relationship"></Template>
+</Templates>
+
+<Templates NameU = "Booch OOD" Name = "Booch OOD" Theme="ENG" Icon = "./software/Booch.bmp" Description= "Contains special shapes and settings for creating class and object diagrams using the Booch's ODD (Object-Oriented Design) notation.">
+	<Template Path = "./Basic Shape/arrow.edt" Name = "Arrow Shapes"></Template>
+  <Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>	
+	<Template Path = "./Software/Booch OOD.edt" Name = "Booch OOD"></Template>
+</Templates>
+
+<Templates NameU = "COM and OLE" Name = "COM and OLE" Theme="ENG" Icon = "./software/comole.bmp" Description= "Contains special shapes and setting for creating COM and OLE diagrams or diagrams of public exposed interfaces, COM interfaces, and OLE interfaces in object-oriented programming.">
+	<Template Path = "./Basic Shape/arrow.edt" Name = "Arrow Shapes"></Template>
+  <Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>	
+	<Template Path = "./Software/COM and OLE.edt" Name = "COM and OLE"></Template>
+</Templates>
+
+<Templates NameU = "Data Flow Model Diagram" Theme="ENG" Name = "Data Flow Model Diagram" Icon = "./software/datamodel.bmp" Description= "Contains special shapes and setting for creating dataflow diagrams using the Gane-Sarson (DFD) notation.">
+	<Template Path = "./Basic Shape/arrow.edt" Name = "Arrow Shapes"></Template>
+  <Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>	
+	<Template Path = "./Software/Data Flow Model.edt" Name = "Data Flow Model Diagram"></Template>
+</Templates>
+
+<Templates NameU = "Enterprise Application" Name = "Enterprise Application" Theme="ENG" Icon = "./software/enterprise-app.bmp" Description= "Create enterprise architecture diagrams using shapes representing PCs, mainframes, and architecture layers.">
+	<Template Path = "./Basic Shape/arrow.edt" Name = "Arrow Shapes"></Template>
+  <Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>	
+	<Template Path = "./Software/EnterpriseApplication.edt" Name = "Enterprise Application"></Template>	
+</Templates>
+
+<Templates NameU = "Jacobson Use Case" Name = "Jacobson Use Case" Theme="ENG" Icon = "./software/jackbson.bmp" Description= "Contains special shapes and settings for creating Jacobson's use case diagrams.">
+	<Template Path = "./Basic Shape/arrow.edt" Name = "Arrow Shapes"></Template>
+  <Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>	
+	<Template Path = "./Software/Jacobson Use Case.edt" Name = "Jacobson Use Case"></Template>
+</Templates>
+
+<Templates NameU = "Jackson" Name = "Jackson" Theme="ENG" Icon = "./software/jackson.bmp" Description= "Create data structure diagrams for program design using the Jackson methodology.">
+	<Template Path = "./Basic Shape/arrow.edt" Name = "Arrow Shapes"></Template>
+  <Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>	
+	<Template Path = "./Software/Jackson.edt" Name = "Jackson"></Template>
+</Templates>
+
+<Templates NameU = "Program Flowchart" Name = "Program Flowchart" Theme="ENG" Icon = "./software/program.bmp" help = "create-process-flowchart.php" Description= "Create basic program flowcharts.">
+	<Template Path = "./Basic Shape/arrow.edt" Name = "Arrow Shapes"></Template>
+  <Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>	
+	<Template Path = "./Software/Program Flowchart.edt" Name = "Program Flowchart Shapes"></Template>
+</Templates>
+
+<Templates NameU = "Program Structure" Name = "Program Structure" Theme="ENG" Icon = "./software/ProgramStructure.bmp" Description= "Create structural diagrams, flowcharts, and memory diagrams.">
+	<Template Path = "./Basic Shape/arrow.edt" Name = "Arrow Shapes"></Template>
+  <Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>	
+	<Template Path = "./Software/Language Level Shapes.edt" Name = "Language Level Shapes"></Template>
+	<Template Path = "./Software/Memory Objects.edt" Name = "Memory Objects"></Template>
+</Templates>
+
+<Templates NameU = "Nassi-Shneiderman" Name = "Nassi-Shneiderman" Theme="ENG" Icon = "./software/Nassi.bmp" Description= "Contains special shapes and settings for creating Nassi-Shneiderman diagrams.">
+	<Template Path = "./Basic Shape/arrow.edt" Name = "Arrow Shapes"></Template>
+  <Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>	
+	<Template Path = "./Software/Nassi-Shneiderman.edt" Name = "Nassi-Shneiderman"></Template>
+</Templates>
+
+<Templates NameU = "ROOM" Name = "ROOM" Theme="ENG" Icon = "./software/ROOM.BMP" Description= "Model real time systems based on timeliness, dynamic internal structure, reactiveness, concurrency and distribution, using the ROOM notation.">
+	<Template Path = "./Basic Shape/arrow.edt" Name = "Arrow Shapes"></Template>
+  <Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>	
+	<Template Path = "./Software/ROOM.edt" Name = "ROOM"></Template>
+</Templates>
+
+<Templates NameU = "Shlaer-Mellor OOA" Name = "Shlaer-Mellor OOA" Theme="ENG" Icon = "./software/shlaer.bmp" Description= "Contains special shapes and settings for creating Shlaer-Mellor OOA diagrams.">
+	<Template Path = "./Basic Shape/arrow.edt" Name = "Arrow Shapes"></Template>
+  <Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>	
+	<Template Path = "./Software/Shlaer-Mellor OOA.edt" Name = "Shlaer-Mellor OOA"></Template>
+</Templates>
+
+<Templates NameU = "SSADM" Name = "SSADM" Theme="ENG" Icon = "./software/SSADM.BMP" Description= "Contains special shapes and settings for creating SSADM diagrams. SSADM stands for Structured Systems Analysis and Design Method.">
+	<Template Path = "./Basic Shape/arrow.edt" Name = "Arrow Shapes"></Template>
+  <Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>	
+	<Template Path = "./Software/SSADM.edt" Name = "SSADM"></Template>
+</Templates>
+
+<Templates NameU = "Yourdon and Coad" Name = "Yourdon and Coad" Theme="ENG" Icon = "./software/yourdon.bmp" Description= "Contains special shapes and settings for creating Yourdon and Coad class diagrams.">
+	<Template Path = "./Basic Shape/arrow.edt" Name = "Arrow Shapes"></Template>
+  <Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>	
+	<Template Path = "./Software/Yourdon and Coad.edt" Name = "Yourdon and Coad"></Template>
+</Templates>
+</Gallery>
+
+<Gallery NameU = "Wireframe" Name = "Wireframe" Version = "1.0" help = "create-wireframes.php" Description= "Contains special shapes for createing wireframes.">
+<Templates NameU = "iPhone UI" Name = "iPhone UI" Theme= "General" Icon = "./wireframe/iPhone.bmp" Description= "Used to create iphone UI wireframes.">
+  <Template Path = "./Wireframe/IOS 6 UI.edt" Name = "IOS 6 UI"></Template> 
+  <Template Path = "./Wireframe/IOS 7 UI.edt" Name = "IOS 7 UI"></Template> 
+  <Template Path = "./Wireframe/IOS 8 UI.edt" Name = "IOS 8 UI"></Template> 
+  <Template Path = "./Wireframe/Vector Icons.edt" Name = "Vector Icons"></Template>
+  <Template Path = "./Wireframe/Touch Gesture.edt" Name = "Touch Gesture"></Template>    
+</Templates>
+
+<Templates NameU = "iPad UI" Name = "iPad UI" Theme= "General" Icon = "./wireframe/iPad.bmp" Description= "Used to create iPad UI wireframes.">
+  <Template Path = "./Wireframe/iPhone UI.edt" Name = "iPhone UI"></Template> 
+  <Template Path = "./Wireframe/Vector Icons.edt" Name = "Vector Icons"></Template>
+  <Template Path = "./Wireframe/Touch Gesture.edt" Name = "Touch Gesture"></Template>    
+</Templates>
+
+<Templates NameU = "Android UI" Name = "Android UI" Theme= "General" Icon = "./wireframe/Android.bmp" Description= "Use to create Android UI wireframes.">
+  <Template Path = "./Wireframe/Android UI.edt" Name = "Android UI"></Template> 
+  <Template Path = "./Wireframe/Vector Icons.edt" Name = "Vector Icons"></Template>
+  <Template Path = "./Wireframe/Touch Gesture.edt" Name = "Touch Gesture"></Template>    
+</Templates>
+
+<Templates NameU = "Windows UI" Name = "Windows UI" Theme= "General" Icon = "./wireframe/winui.bmp" Description= "Contains special shapes for designing Windows UI.">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>	
+	<Template Path = "./Wireframe/Windows7UI.edt" Name = "Windows 7 UI"></Template>
+</Templates>
+
+<Templates NameU = "Web Site Wireframe" Name = "Web Site Wireframe" Theme= "General" Icon = "./wireframe/wireframe.bmp" help = "create-wireframes.php" Description= "Represents the skeletal framework of a website.">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>	
+  <Template Path = "./Wireframe/Wireframe.edt" Name = "Wireframe"></Template>
+</Templates>
+
+<Templates NameU = "Conceptual Web Site" Name = "Conceptual Web Site" Theme= "General" Icon = "./wireframe/conceptual.bmp" help = "create-conceptual-website-diagram.php" Description= "Design conceptual diagrams and high-level architectures of home pages, Web sites, and hyperlinked documents.">
+ 	<Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>	
+  <Template Path = "./Wireframe/Conceptual Web Site.edt" Name = "Conceptual Web Site"></Template>
+</Templates>
+
+<Templates NameU = "Web Site Map" Name = "Web Site Map" Theme= "General" Icon = "./wireframe/sitemap.bmp" Description= "Draw site maps for web sites on HTTP servers, network servers, and local hard drives.">
+  <Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>	
+  <Template Path = "./Wireframe/Web Site Map.edt" Name = "Web Site Map"></Template>
+</Templates>
+</Gallery>
+
+</Galleries>

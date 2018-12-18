@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Subway">
+    <Elem Prompt="地铁线" Name="地铁线" PromptU="Metro line" NameU="Metro line"/>
+    <Elem Prompt="地铁线" Name="地铁线" PromptU="Metro line" NameU="Metro line"/>
+    <Elem Prompt="向上转角" Name="地铁转角" PromptU="Up corner" NameU="Metro corner"/>
+    <Elem Prompt="向下转角" Name="地铁转角" PromptU="Bottom corner" NameU="Metro corner"/>
+    <Elem Prompt="向左转角" Name="地铁转角" PromptU="Left corner" NameU="Metro corner"/>
+    <Elem Prompt="向右转角" Name="地铁转角" PromptU="Right corner" NameU="Metro corner"/>
+    <Elem Prompt="可改变方向和大小" Name="弧形转角" PromptU="Can change the direction and size" NameU="Metro curve"/>
+    <Elem Prompt="弧形转角" Name="弧形转角" PromptU="Metro curve" NameU="Metro curve"/>
+    <Elem Prompt="无文本" Name="站点" PromptU="No text" NameU="Station"/>
+    <Elem Prompt="下方文本" Name="站点" PromptU="Bottom text" NameU="Station"/>
+    <Elem Prompt="上方文本" Name="站点" PromptU="Top text" NameU="Station"/>
+    <Elem Prompt="左文本,移动黄色控制点改变文本角度" Name="站点" PromptU="Left text,drag yellow handle to change the angle of text" NameU="Station"/>
+    <Elem Prompt="右文本,移动黄色控制点改变文本角度" Name="站点" PromptU="Right text,drag yellow handle to change the angle of text" NameU="Station"/>
+    <Elem Prompt="左文本,移动黄色控制点改变文本角度" Name="换乘站" PromptU="Left text,drag yellow handle to change the angle of text" NameU="Transfer station"/>
+    <Elem Prompt="右文本,移动黄色控制点改变文本角度" Name="换乘站" PromptU="Right text,drag yellow handle to change the angle of text" NameU="Transfer station"/>
+    <Elem Prompt="上文本,移动黄色控制点改变文本角度" Name="换乘站" PromptU="Top text,drag yellow handle to change the angle of text" NameU="Transfer station"/>
+    <Elem Prompt="下文本,移动黄色控制点改变文本角度" Name="换乘站" PromptU="Bottom text,drag yellow handle to change the angle of text" NameU="Transfer station"/>
+    <Elem Prompt="上文本" Name="中转站" PromptU="Up text" NameU="Cross Station"/>
+    <Elem Prompt="下方文本" Name="中转站" PromptU="Bottom text" NameU="Cross Station"/>
+    <Elem Prompt="左文本,移动黄色控制点改变文本角度" Name="中转站" PromptU="Left text,drag yellow handle to change the angle of text" NameU="Cross station"/>
+    <Elem Prompt="右文本,移动黄色控制点改变文本角度" Name="中转站" PromptU="Right text,drag yellow handle to change the angle of text" NameU="Cross station"/>
+    <Elem Prompt="标牌" Name="标牌" PromptU="Label" NameU="Label"/>
+    <Elem Prompt="标牌" Name="标牌" PromptU="Label" NameU="Label"/>
+    <Elem Prompt="地铁" Name="地铁" PromptU="Subway" NameU="Subway"/>
+    <Elem Prompt="飞机场" Name="飞机场" PromptU="Airplane" NameU="Airplane"/>
+    <Elem Prompt="火车站" Name="火车站" PromptU="Railway Station" NameU="Railway Station"/>
+    <Elem Prompt="汽车站" Name="汽车站" PromptU="Bus Station" NameU="Bus Station"/>
+</Lib>

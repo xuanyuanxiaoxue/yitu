@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="SDL Diagram Shapes">
+    <Elem Prompt="起始" Name="起始" PromptU="Start" NameU="Start"/>
+    <Elem Prompt="可变起始点" Name="可变起始点" PromptU="Variable start" NameU="Variable start"/>
+    <Elem Prompt="过程" Name="过程" PromptU="Procedure" NameU="Procedure"/>
+    <Elem Prompt="可变过程" Name="可变过程" PromptU="Variable procedure" NameU="Variable procedure"/>
+    <Elem Prompt="创建请求" Name="创建请求" PromptU="Create request" NameU="Create request"/>
+    <Elem Prompt="替代项" Name="替代项" PromptU="Alternative" NameU="Alternative"/>
+    <Elem Prompt="返回" Name="返回" PromptU="Return" NameU="Return"/>
+    <Elem Prompt="判定 1" Name="判定 1" PromptU="Decision 1" NameU="Decision 1"/>
+    <Elem Prompt="判定 2" Name="判定 2" PromptU="Decision 2" NameU="Decision 2"/>
+    <Elem Prompt="来自用户的消息" Name="来自用户的消息" PromptU="Message from user" NameU="Message from user"/>
+    <Elem Prompt="给用户的消息" Name="给用户的消息" PromptU="Message to user" NameU="Message to user"/>
+    <Elem Prompt="来自调用控制的原语" Name="来自调用控制的原语" PromptU="Primitive from call control" NameU="Primitive from call..."/>
+    <Elem Prompt="给调用控制的原语" Name="给调用控制的原语" PromptU="Primitive to call control" NameU="Primitive to call control"/>
+    <Elem Prompt="保存" Name="保存" PromptU="Save" NameU="Save"/>
+    <Elem Prompt="文档" Name="文档" PromptU="Document" NameU="Document"/>
+    <Elem Prompt="多文档" Name="多文档" PromptU="Multi document" NameU="Multi document"/>
+    <Elem Prompt="磁盘存储" Name="磁盘存储" PromptU="Disk storage" NameU="Disk storage"/>
+    <Elem Prompt="分隔的进程" Name="分隔的进程" PromptU="Divided process" NameU="Divided process"/>
+    <Elem Prompt="分开的事件" Name="分开的事件" PromptU="Divided event" NameU="Divided event"/>
+    <Elem Prompt="终结符" Name="终结符" PromptU="Terminator" NameU="Terminator"/>
+    <Elem Prompt="页内引用" Name="页内引用" PromptU="On-page reference" NameU="On-page reference"/>
+    <Elem Prompt="跨页引用" Name="跨页引用" PromptU="Off-page reference" NameU="Off-page reference"/>
+    <Elem Prompt="曲线连接线" Name="曲线连接线" PromptU="Line curve connector" NameU="Line curve connector"/>
+    <Elem Prompt="动态连接线" Name="动态连接线" PromptU="Dynamic connector" NameU="Dynamic connector"/>
+</Lib>

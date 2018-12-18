@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Concept Map">
+    <Elem Prompt="矩形" Name="矩形" PromptU="Rectangle" NameU="Rectangle"/>
+    <Elem Prompt="正方形" Name="正方形" PromptU="Square" NameU="Square"/>
+    <Elem Prompt="圆角矩形" Name="圆角矩形" PromptU="Rounded rectangle" NameU="Rounded rectangle"/>
+    <Elem Prompt="圆角正方形" Name="圆角正方形" PromptU="Rounded square" NameU="Rounded square"/>
+    <Elem Prompt="椭圆" Name="椭圆" PromptU="Ellipse" NameU="Ellipse"/>
+    <Elem Prompt="圆头矩形" Name="圆头矩形" PromptU="Round head rectangle" NameU="Round head rectangle"/>
+    <Elem Prompt="菱形" Name="菱形" PromptU="Diamond" NameU="Diamond"/>
+    <Elem Prompt="五角星" Name="五角星" PromptU="Star 5" NameU="Star 5"/>
+    <Elem Prompt="圆圈" Name="圆圈" PromptU="Circle" NameU="Circle"/>
+    <Elem Prompt="动态星形" Name="动态星形" PromptU="Dynamic Star" NameU="Dynamic Star"/>
+    <Elem Prompt="连接线" Name="连接线" PromptU="Connector" NameU="Connector"/>
+    <Elem Prompt="弯曲连接线" Name="弯曲连接线" PromptU="Curve connector" NameU="Curve connector"/>
+    <Elem Prompt="连接线" Name="连接线" PromptU="Connector" NameU="Connector"/>
+    <Elem Prompt="爆炸" Name="爆炸" PromptU="Wow" NameU="Wow"/>
+    <Elem Prompt="大爆炸" Name="大爆炸" PromptU="KABOOM" NameU="KABOOM"/>
+    <Elem Prompt="椭圆气球" Name="椭圆气球" PromptU="Ellipse balloon" NameU="Ellipse balloon"/>
+    <Elem Prompt="椭圆气球 2" Name="椭圆气球 2" PromptU="Ellipse balloon 2" NameU="Ellipse balloon 2"/>
+    <Elem Prompt="矩形气球" Name="矩形气球" PromptU="Rect balloon" NameU="Rect balloon"/>
+    <Elem Prompt="云" Name="云" PromptU="Cloud" NameU="Cloud"/>
+    <Elem Prompt="下一页" Name="下一页" PromptU="Next Page" NameU="Next Page"/>
+    <Elem Prompt="前一页" Name="前一页" PromptU="Previous Page" NameU="Previous Page"/>
+    <Elem Prompt="矩形" Name="矩形" PromptU="Rectangle" NameU="Rectangle"/>
+    <Elem Prompt="圆角矩形" Name="圆角矩形" PromptU="Rounded rectangle" NameU="Rounded rectangle"/>
+    <Elem Prompt="椭圆" Name="椭圆" PromptU="Ellipse" NameU="Ellipse"/>
+    <Elem Prompt="圆圈" Name="圆圈" PromptU="Circle" NameU="Circle"/>
+    <Elem Prompt="菱形" Name="菱形" PromptU="Diamond" NameU="Diamond"/>
+    <Elem Prompt="圆头矩形" Name="圆头矩形" PromptU="Round head rectangle" NameU="Round head rectangle"/>
+    <Elem Prompt="平行四边形" Name="平行四边形" PromptU="Parallelogram" NameU="Parallelogram"/>
+    <Elem Prompt="五角星" Name="五角星" PromptU="Star 5" NameU="Star 5"/>
+    <Elem Prompt="爆炸" Name="爆炸" PromptU="Wow" NameU="Wow"/>
+    <Elem Prompt="大爆炸" Name="大爆炸" PromptU="KABOOM" NameU="KABOOM"/>
+    <Elem Prompt="椭圆气球" Name="椭圆气球" PromptU="Ellipse balloon" NameU="Ellipse balloon"/>
+    <Elem Prompt="矩形气球" Name="矩形气球" PromptU="Rect balloon" NameU="Rect balloon"/>
+    <Elem Prompt="下一页" Name="下一页" PromptU="Next page" NameU="Next page"/>
+    <Elem Prompt="前一页" Name="前一页" PromptU="Previous Page" NameU="Previous Page"/>
+</Lib>

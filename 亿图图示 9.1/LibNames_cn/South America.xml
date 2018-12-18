@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="South America">
+    <Elem Prompt="阿根廷" Name="阿根廷" PromptU="Argentina" NameU="Argentina"/>
+    <Elem Prompt="伯里兹" Name="伯里兹" PromptU="Belize" NameU="Belize"/>
+    <Elem Prompt="玻利维亚" Name="玻利维亚" PromptU="Bolivia" NameU="Bolivia"/>
+    <Elem Prompt="巴西" Name="巴西" PromptU="Brazil" NameU="Brazil"/>
+    <Elem Prompt="智利" Name="智利" PromptU="Chile" NameU="Chile"/>
+    <Elem Prompt="哥伦比亚" Name="哥伦比亚" PromptU="Colombia" NameU="Colombia"/>
+    <Elem Prompt="哥斯达黎加" Name="哥斯达黎加" PromptU="Costa Rica" NameU="Costa Rica"/>
+    <Elem Prompt="古巴" Name="古巴" PromptU="Cuba" NameU="Cuba"/>
+    <Elem Prompt="多米尼加共和国" Name="多米尼加共和国" PromptU="Dominican republic" NameU="Dominican republic"/>
+    <Elem Prompt="塞尔瓦多" Name="塞尔瓦多" PromptU="El Salvador" NameU="El Salvador"/>
+    <Elem Prompt="厄瓜多尔" Name="厄瓜多尔" PromptU="Equador" NameU="Equador"/>
+    <Elem Prompt="法属奎亚纳" Name="法属奎亚纳" PromptU="French Guiana" NameU="French Guiana"/>
+    <Elem Prompt="危地马拉" Name="危地马拉" PromptU="Guatemala" NameU="Guatemala"/>
+    <Elem Prompt="奎亚纳" Name="奎亚纳" PromptU="Guyana" NameU="Guyana"/>
+    <Elem Prompt="海地" Name="海地" PromptU="Haiti" NameU="Haiti"/>
+    <Elem Prompt="洪都拉斯" Name="洪都拉斯" PromptU="Honduras" NameU="Honduras"/>
+    <Elem Prompt="牙买加" Name="牙买加" PromptU="Jamaica" NameU="Jamaica"/>
+    <Elem Prompt="墨西哥" Name="墨西哥" PromptU="Mexico" NameU="Mexico"/>
+    <Elem Prompt="尼加拉瓜" Name="尼加拉瓜" PromptU="Nicaragua" NameU="Nicaragua"/>
+    <Elem Prompt="巴拿马" Name="巴拿马" PromptU="Panama" NameU="Panama"/>
+    <Elem Prompt="巴拉圭" Name="巴拉圭" PromptU="Paraguay" NameU="Paraguay"/>
+    <Elem Prompt="秘鲁" Name="秘鲁" PromptU="Peru" NameU="Peru"/>
+    <Elem Prompt="波多黎哥" Name="波多黎哥" PromptU="Puerto Rico" NameU="Puerto Rico"/>
+    <Elem Prompt="苏里南" Name="苏里南" PromptU="Suriname" NameU="Suriname"/>
+    <Elem Prompt="特立尼达和多巴哥" Name="特立尼达和多巴哥" PromptU="Trinidad and Tobago" NameU="Trinidad and Tobago"/>
+    <Elem Prompt="乌拉圭" Name="乌拉圭" PromptU="Uruguay" NameU="Uruguay"/>
+    <Elem Prompt="委内瑞拉" Name="委内瑞拉" PromptU="Venezuela" NameU="Venezuela"/>
+    <Elem Prompt="中美洲" Name="中美洲" PromptU="Central America" NameU="Central America"/>
+    <Elem Prompt="南美洲" Name="南美洲" PromptU="South America" NameU="South America"/>
+</Lib>

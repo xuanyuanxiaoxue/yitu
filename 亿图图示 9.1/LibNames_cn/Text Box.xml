@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Text Box">
+    <Elem Prompt="文本设计" Name="文本设计" PromptU="Text Block" NameU="Text Block"/>
+    <Elem Prompt="文本设计" Name="文本设计" PromptU="Text Block" NameU="Text Block"/>
+    <Elem Prompt="文本设计" Name="文本设计" PromptU="Text Block" NameU="Text Block"/>
+    <Elem Prompt="文本设计" Name="文本设计" PromptU="Text Block" NameU="Text Block"/>
+    <Elem Prompt="文本设计" Name="文本设计" PromptU="Text Block" NameU="Text Block"/>
+    <Elem Prompt="文本设计" Name="文本设计" PromptU="Text Block" NameU="Text Block"/>
+    <Elem Prompt="文本设计" Name="文本设计" PromptU="Text Block" NameU="Text Block"/>
+    <Elem Prompt="文本设计" Name="文本设计" PromptU="Text Block" NameU="Text Block"/>
+    <Elem Prompt="文本设计" Name="文本设计" PromptU="Text Block" NameU="Text Block"/>
+    <Elem Prompt="文本设计" Name="文本设计" PromptU="Text Block" NameU="Text Block"/>
+    <Elem Prompt="文本设计" Name="文本设计" PromptU="Text Block" NameU="Text Block"/>
+    <Elem Prompt="文本设计" Name="文本设计" PromptU="Text Block" NameU="Text Block"/>
+    <Elem Prompt="文本设计" Name="文本设计" PromptU="Text Block" NameU="Text Block"/>
+    <Elem Prompt="文本设计" Name="文本设计" PromptU="Text Block" NameU="Text Block"/>
+    <Elem Prompt="文本设计" Name="文本设计" PromptU="Text Block" NameU="Text Block"/>
+    <Elem Prompt="文本设计" Name="文本设计" PromptU="Text Block" NameU="Text Block"/>
+    <Elem Prompt="文本设计" Name="文本设计" PromptU="Text Block" NameU="Text Block"/>
+    <Elem Prompt="文本设计" Name="文本设计" PromptU="Text Block" NameU="Text Block"/>
+    <Elem Prompt="文本设计" Name="文本设计" PromptU="Text Block" NameU="Text Block"/>
+    <Elem Prompt="文本设计" Name="文本设计" PromptU="Text Block" NameU="Text Block"/>
+    <Elem Prompt="文本设计" Name="文本设计" PromptU="Text Block" NameU="Text Block"/>
+    <Elem Prompt="文本设计" Name="文本设计" PromptU="Text Block" NameU="Text Block"/>
+    <Elem Prompt="文本设计" Name="文本设计" PromptU="Text Block" NameU="Text Block"/>
+    <Elem Prompt="文本设计" Name="文本设计" PromptU="Text Block" NameU="Text Block"/>
+    <Elem Prompt="文本设计" Name="文本设计" PromptU="Text Block" NameU="Text Block"/>
+    <Elem Prompt="文本设计" Name="文本设计" PromptU="Text Block" NameU="Text Block"/>
+    <Elem Prompt="文本设计" Name="文本设计" PromptU="Text Block" NameU="Text Block"/>
+    <Elem Prompt="文本设计" Name="文本设计" PromptU="Text Block" NameU="Text Block"/>
+    <Elem Prompt="文本设计" Name="文本设计" PromptU="Text Block" NameU="Text Block"/>
+    <Elem Prompt="文本设计" Name="文本设计" PromptU="Text Block" NameU="Text Block"/>
+    <Elem Prompt="文本设计" Name="文本设计" PromptU="Text Block" NameU="Text Block"/>
+    <Elem Prompt="文本设计" Name="文本设计" PromptU="Text Block" NameU="Text Block"/>
+    <Elem Prompt="文本设计" Name="文本设计" PromptU="Text Block" NameU="Text Block"/>
+    <Elem Prompt="文本设计" Name="文本设计" PromptU="Text Block" NameU="Text Block"/>
+    <Elem Prompt="文本设计" Name="文本设计" PromptU="Text Block" NameU="Text Block"/>
+    <Elem Prompt="文本设计" Name="文本设计" PromptU="Text Block" NameU="Text Block"/>
+    <Elem Prompt="文本设计" Name="文本设计" PromptU="Text Block" NameU="Text Block"/>
+    <Elem Prompt="文本设计" Name="文本设计" PromptU="Text Block" NameU="Text Block"/>
+    <Elem Prompt="文本设计" Name="文本设计" PromptU="Text Block" NameU="Text Block"/>
+    <Elem Prompt="文本设计" Name="文本设计" PromptU="Text Block" NameU="Text Block"/>
+    <Elem Prompt="文本设计" Name="文本设计" PromptU="Text Block" NameU="Text Block"/>
+    <Elem Prompt="文本设计" Name="文本设计" PromptU="Text Block" NameU="Text Block"/>
+    <Elem Prompt="文本设计" Name="文本设计" PromptU="Text Block" NameU="Text Block"/>
+    <Elem Prompt="文本设计" Name="文本设计" PromptU="Text Block" NameU="Text Block"/>
+    <Elem Prompt="文本设计" Name="文本设计" PromptU="Text Block" NameU="Text Block"/>
+    <Elem Prompt="文本设计" Name="文本设计" PromptU="Text Block" NameU="Text Block"/>
+    <Elem Prompt="文本设计" Name="文本设计" PromptU="Text Block" NameU="Text Block"/>
+    <Elem Prompt="文本设计" Name="文本设计" PromptU="Text Block" NameU="Text Block"/>
+    <Elem Prompt="文本设计" Name="文本设计" PromptU="Text Block" NameU="Text Block"/>
+    <Elem Prompt="文本设计" Name="文本设计" PromptU="Text Block" NameU="Text Block"/>
+    <Elem Prompt="创意文本" Name="创意文本" PromptU="Creative Box" NameU="Creative Box"/>
+    <Elem Prompt="创意文本" Name="创意文本" PromptU="Creative Box 2" NameU="Creative Box 2"/>
+    <Elem Prompt="创意文本" Name="创意文本" PromptU="Creative Box 3" NameU="Creative Box 3"/>
+    <Elem Prompt="创意文本" Name="创意文本" PromptU="Creative Box 4" NameU="Creative Box 4"/>
+    <Elem Prompt="创意文本" Name="创意文本" PromptU="Creative Box 5" NameU="Creative Box 5"/>
+    <Elem Prompt="创意文本" Name="创意文本" PromptU="Creative Box 6" NameU="Creative Box 6"/>
+    <Elem Prompt="创意文本" Name="创意文本" PromptU="Creative Box 7" NameU="Creative Box 7"/>
+    <Elem Prompt="创意文本" Name="创意文本" PromptU="Creative Box 8" NameU="Creative Box 8"/>
+    <Elem Prompt="创意文本" Name="创意文本" PromptU="Creative Box 9" NameU="Creative Box 9"/>
+    <Elem Prompt="创意文本" Name="创意文本" PromptU="Creative Box 10" NameU="Creative Box 10"/>
+    <Elem Prompt="创意文本" Name="创意文本" PromptU="Creative Box 11" NameU="Creative Box 11"/>
+    <Elem Prompt="创意文本" Name="创意文本" PromptU="Creative Box 12" NameU="Creative Box 12"/>
+    <Elem Prompt="创意文本" Name="创意文本" PromptU="Creative Box 13" NameU="Creative Box 13"/>
+    <Elem Prompt="创意文本" Name="创意文本" PromptU="Creative Box 14" NameU="Creative Box 14"/>
+    <Elem Prompt="创意文本" Name="创意文本" PromptU="Creative Box 15" NameU="Creative Box 15"/>
+    <Elem Prompt="带标题文本框" Name="文本框" PromptU="Text box with title" NameU="Text Box"/>
+    <Elem Prompt="带标题文本框" Name="文本框 2" PromptU="Text box with title" NameU="Text Box 2"/>
+    <Elem Prompt="带标题文本框" Name="文本框 3" PromptU="Text box with title" NameU="Text Box 3"/>
+    <Elem Prompt="带标题文本框" Name="文本框 4" PromptU="Text box with title" NameU="Text Box 4"/>
+    <Elem Prompt="带标题文本框" Name="文本框 5" PromptU="Text box with title" NameU="Text Box 5"/>
+    <Elem Prompt="带标题文本框" Name="文本框 6" PromptU="Text box with title" NameU="Text Box 6"/>
+    <Elem Prompt="带标题文本框" Name="文本框 7" PromptU="Text box with title" NameU="Text Box 7"/>
+    <Elem Prompt="带标题文本框" Name="文本框 8" PromptU="Text box with title" NameU="Text Box 8"/>
+    <Elem Prompt="带标题文本框" Name="文本框 9" PromptU="Text box with title" NameU="Text Box 9"/>
+    <Elem Prompt="带标题文本框" Name="文本框 10" PromptU="Text box with title" NameU="Text Box 10"/>
+    <Elem Prompt="带标题文本框" Name="文本框 11" PromptU="Text box with title" NameU="Text Box 11"/>
+    <Elem Prompt="带标题文本框" Name="文本框 12" PromptU="Text box with title" NameU="Text Box 12"/>
+    <Elem Prompt="多样式文本框" Name="多样式文本框" PromptU="Multi-Style Rectangle" NameU="Multi-Style Rectangle"/>
+    <Elem Prompt="多样式文本框" Name="多样式文本框 2" PromptU="Multi-Style Rectangle" NameU="Multi-Style Rectangle 2"/>
+    <Elem Prompt="圆角长方形" Name="圆角长方形" PromptU="Arc Rectangle" NameU="Arc Rectangle"/>
+    <Elem Prompt="六边形" Name="六边形" PromptU="Hexagon" NameU="Hexagon"/>
+    <Elem Prompt="台形" Name="台形" PromptU="Trapezoid" NameU="Trapezoid"/>
+    <Elem Prompt="台形" Name="台形 2" PromptU="Trapeziod" NameU="Trapeziod 2"/>
+    <Elem Prompt="台形" Name="台形 3" PromptU="Trapeziod" NameU="Trapeziod 3"/>
+    <Elem Prompt="六边形" Name="六边形" PromptU="Hexagon" NameU="Hexagon"/>
+    <Elem Prompt="圆形" Name="圆形" PromptU="Circle" NameU="Circle"/>
+    <Elem Prompt="圆形" Name="圆形 2" PromptU="Circle" NameU="Circle 2"/>
+    <Elem Prompt="圆形" Name="圆形 3" PromptU="Circle" NameU="Circle 3"/>
+    <Elem Prompt="文本框" Name="文本框" PromptU="Box" NameU="Box"/>
+    <Elem Prompt="基本圆形" Name="基本圆形" PromptU="Basic Circle" NameU="Basic Circle"/>
+    <Elem Prompt="圆形" Name="圆形" PromptU="Circle" NameU="Circle"/>
+    <Elem Prompt="圆形 2" Name="圆形 2" PromptU="Circle 2" NameU="Circle 2"/>
+    <Elem Prompt="圆形 3" Name="圆形 3" PromptU="Circle 3" NameU="Circle 3"/>
+    <Elem Prompt="圆形 4" Name="圆形 4" PromptU="Circle 4" NameU="Circle 4"/>
+    <Elem Prompt="圆形 5" Name="圆形 5" PromptU="Circle 5" NameU="Circle 5"/>
+    <Elem Prompt="圆形 6" Name="圆形 6" PromptU="Circle 6" NameU="Circle 6"/>
+    <Elem Prompt="圆形 7" Name="圆形 7" PromptU="Circle 7" NameU="Circle 7"/>
+    <Elem Prompt="圆形 8" Name="圆形 8" PromptU="Circle 8" NameU="Circle 8"/>
+    <Elem Prompt="圆形 9" Name="圆形 9" PromptU="Circle 9" NameU="Circle 9"/>
+    <Elem Prompt="圆形 10" Name="圆形 10" PromptU="Circle 10" NameU="Circle 10"/>
+    <Elem Prompt="圆形 11" Name="圆形 11" PromptU="Circle 11" NameU="Circle 11"/>
+    <Elem Prompt="圆形 12" Name="圆形 12" PromptU="Circle 12" NameU="Circle 12"/>
+    <Elem Prompt="圆形 13" Name="圆形 13" PromptU="Circle 13" NameU="Circle 13"/>
+    <Elem Prompt="球" Name="球" PromptU="Ball" NameU="Ball"/>
+    <Elem Prompt="水滴" Name="水滴" PromptU="Water-drop" NameU="Water-drop"/>
+    <Elem Prompt="菱形" Name="菱形" PromptU="Diamond" NameU="Diamond"/>
+    <Elem Prompt="3D 菱形" Name="3D 菱形" PromptU="3D Diamond" NameU="3D Diamond"/>
+    <Elem Prompt="3D 菱形 2" Name="3D 菱形 2" PromptU="3D Diamond 2" NameU="3D Diamond 2"/>
+    <Elem Prompt="圆角长方形" Name="圆角长方形" PromptU="Round Rectangle" NameU="Round Rectangle"/>
+    <Elem Prompt="基本长方形" Name="基本长方形" PromptU="Basic Rectangle" NameU="Basic Rectangle"/>
+    <Elem Prompt="长方形" Name="长方形" PromptU="Rectangle" NameU="Rectangle"/>
+    <Elem Prompt="长方形 3" Name="长方形 3" PromptU="Rectangle 3" NameU="Rectangle 3"/>
+    <Elem Prompt="长方形 4" Name="长方形 4" PromptU="Rectangle 4" NameU="Rectangle 4"/>
+    <Elem Prompt="长方形 5" Name="长方形 5" PromptU="Rectangle 5" NameU="Rectangle 5"/>
+    <Elem Prompt="长方形 6" Name="长方形 6" PromptU="Rectangle 6" NameU="Rectangle 6"/>
+    <Elem Prompt="长方形 7" Name="长方形 7" PromptU="Rectangle 7" NameU="Rectangle 7"/>
+    <Elem Prompt="3D 长方形 2" Name="3D 长方形 2" PromptU="3D Rectangle 2" NameU="3D Rectangle 2"/>
+    <Elem Prompt="三角形" Name="三角形" PromptU="Triangle" NameU="Triangle"/>
+    <Elem Prompt="三角形 2" Name="三角形 2" PromptU="Triangle 2" NameU="Triangle 2"/>
+    <Elem Prompt="三角形 3" Name="三角形 3" PromptU="Triangle 3" NameU="Triangle 3"/>
+    <Elem Prompt="三角形 4" Name="三角形 4" PromptU="Triangle 4" NameU="Triangle 4"/>
+</Lib>

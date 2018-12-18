@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Technology - Flat">
+    <Elem NameU="PC" PromptU="PC" Name="PC" Prompt="PC"/>
+    <Elem NameU="PC" PromptU="PC" Name="PC" Prompt="PC"/>
+    <Elem NameU="PC" PromptU="PC" Name="PC" Prompt="PC"/>
+    <Elem NameU="PC" PromptU="PC" Name="PC" Prompt="PC"/>
+    <Elem NameU="Desktop" PromptU="Desktop" Name="台式机" Prompt="台式机"/>
+    <Elem NameU="Desktop" PromptU="Desktop" Name="台式机" Prompt="台式机"/>
+    <Elem NameU="Laptop" PromptU="Laptop" Name="笔记本电脑" Prompt="笔记本电脑"/>
+    <Elem NameU="Laptop" PromptU="Laptop" Name="笔记本电脑" Prompt="笔记本电脑"/>
+    <Elem NameU="TV" PromptU="TV" Name="TV" Prompt="TV"/>
+    <Elem NameU="iMAC" PromptU="iMAC" Name="iMAC" Prompt="iMAC"/>
+    <Elem NameU="iPad" PromptU="iPad" Name="iPad" Prompt="iPad"/>
+    <Elem NameU="Mobile Phone" PromptU="Mobile Phone" Name="手机" Prompt="手机"/>
+    <Elem NameU="Server" PromptU="Server" Name="服务器" Prompt="服务器"/>
+    <Elem NameU="Mainframe" PromptU="Mainframe" Name="大型机" Prompt="大型机"/>
+    <Elem NameU="Switch" PromptU="Switch" Name="交换机" Prompt="交换机"/>
+    <Elem NameU="Fax Machine" PromptU="Fax Machine" Name="传真机" Prompt="传真机"/>
+    <Elem NameU="Scanner" PromptU="Scanner" Name="扫描仪" Prompt="扫描仪"/>
+    <Elem NameU="Printer" PromptU="Printer" Name="打印机" Prompt="打印机"/>
+    <Elem NameU="Camera" PromptU="Camera" Name="照相机" Prompt="照相机"/>
+    <Elem NameU="Microphone" PromptU="Microphone" Name="麦克风" Prompt="麦克风"/>
+    <Elem NameU="Mouse" PromptU="Mouse" Name="鼠标" Prompt="鼠标"/>
+    <Elem NameU="Mouse" PromptU="Mouse" Name="鼠标" Prompt="鼠标"/>
+    <Elem NameU="Floppy" PromptU="Floppy" Name="软磁盘" Prompt="软磁盘"/>
+    <Elem NameU="Loudspeaker" PromptU="Loudspeaker" Name="喇叭" Prompt="喇叭"/>
+    <Elem NameU="iPod" PromptU="iPod" Name="iPod" Prompt="iPod"/>
+    <Elem NameU="Wacom" PromptU="Wacom" Name="手写板" Prompt="手写板"/>
+    <Elem NameU="U-disk" PromptU="U-disk" Name="U盘" Prompt="U盘"/>
+    <Elem NameU="White Board" PromptU="White Board" Name="白板" Prompt="白板"/>
+    <Elem NameU="Projector" PromptU="Projector" Name="投影仪" Prompt="投影仪"/>
+    <Elem NameU="Router" PromptU="Router" Name="路由器" Prompt="路由器"/>
+    <Elem NameU="Satellite" PromptU="Satellite" Name="卫星" Prompt="卫星"/>
+    <Elem NameU="Launching Tower" PromptU="Launching Tower" Name="发射塔" Prompt="发射塔"/>
+    <Elem NameU="Camera" PromptU="Camera" Name="照相机" Prompt="照相机"/>
+    <Elem NameU="Camera" PromptU="Camera" Name="照相机" Prompt="照相机"/>
+    <Elem NameU="Briefcase" PromptU="Briefcase" Name="公文包" Prompt="公文包"/>
+    <Elem NameU="Earth" PromptU="Earth" Name="地球" Prompt="地球"/>
+    <Elem NameU="User" PromptU="User" Name="用户" Prompt="用户"/>
+    <Elem NameU="Phone" PromptU="Phone" Name="电话" Prompt="电话"/>
+    <Elem NameU="Organizational chart" PromptU="Organizational chart" Name="组织结构图" Prompt="组织结构图"/>
+    <Elem NameU="Cloud" PromptU="Cloud" Name="云" Prompt="云"/>
+    <Elem NameU="Cloud" PromptU="Cloud" Name="云" Prompt="云"/>
+    <Elem NameU="Lock" PromptU="Lock" Name="锁" Prompt="锁"/>
+	<Elem NameU="Plane" PromptU="Plane" Name="飞机" Prompt="飞机"/>
+    <Elem NameU="Link" PromptU="Link" Name="链接" Prompt="链接"/>
+    <Elem NameU="Search" PromptU="Search" Name="搜索" Prompt="搜索"/>
+    <Elem NameU="Gear" PromptU="Gear" Name="齿轮" Prompt="齿轮"/>
+    <Elem NameU="Gear" PromptU="Gear" Name="齿轮" Prompt="齿轮"/>
+    <Elem NameU="Gear" PromptU="Gear" Name="齿轮" Prompt="齿轮"/>
+    <Elem NameU="Gear" PromptU="Gear" Name="齿轮" Prompt="齿轮"/>
+    <Elem NameU="Machine" PromptU="Machine" Name="机器" Prompt="机器"/>
+    <Elem NameU="Cerebrum" PromptU="Cerebrum" Name="大脑" Prompt="大脑"/>
+</Lib>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Cisco Safe Capability Icons">
+    <Elem NameU="Access Control Using TrustSec" Name="使用TrustSec访问控制" PromptU="Access Control Using TrustSec" Prompt="使用TrustSec访问控制"/>
+    <Elem NameU="Analysis/Correlation" Name="分析/关联" PromptU="Analysis/Correlation" Prompt="分析/关联"/>
+    <Elem NameU="Anomaly Detection" Name="异常检测" PromptU="Anomaly Detection" Prompt="异常检测"/>
+    <Elem NameU="Anti-Malware" Name="移除恶意软件" PromptU="Anti-Malware" Prompt="移除恶意软件"/>
+    <Elem NameU="Anti-Spam" Name="反垃圾邮件" PromptU="Anti-Spam" Prompt="反垃圾邮件"/>
+    <Elem NameU="Anti-Virus" Name="杀毒" PromptU="Anti-Virus" Prompt="杀毒"/>
+    <Elem NameU="Application" Name="应用" PromptU="Application" Prompt="应用"/>
+    <Elem NameU="Application Visibility Control (AVC)" Name="应用程序可见性控制(AVC)" PromptU="Application Visibility Control (AVC)" Prompt="应用程序可见性控制(AVC)"/>
+    <Elem NameU="Client Based Security" Name="客户端安全" PromptU="Client Based Security" Prompt="客户端安全"/>
+    <Elem NameU="Cloud Web Security" Name="云网络安全" PromptU="Cloud Web Security" Prompt="云网络安全"/>
+    <Elem NameU="Conference Bridge" Name="会议电话桥分器" PromptU="Conference Bridge" Prompt="会议电话桥分器"/>
+    <Elem NameU="Data Loss Prevention (DLP)" Name="数位光处理(DLP)" PromptU="Data Loss Prevention (DLP)" Prompt="数位光处理(DLP)"/>
+    <Elem NameU="Database" Name="数据库" PromptU="Database" Prompt="数据库"/>
+    <Elem NameU="Distributed Denial of Service Protection" Name="阻断服务攻击" PromptU="Distributed Denial of Service Protection" Prompt="阻断服务攻击"/>
+    <Elem NameU="DNS" Name="DNS服务器" PromptU="DNS" Prompt="DNS服务器"/>
+    <Elem NameU="Email Encryption" Name="电子邮件加密" PromptU="Email Encryption" Prompt="电子邮件加密"/>
+    <Elem NameU="Email Security" Name="电子邮件安全" PromptU="Email Security" Prompt="电子邮件安全"/>
+    <Elem NameU="Fabric Switching" Name="交换光纤" PromptU="Fabric Switching" Prompt="交换光纤"/>
+    <Elem NameU="Firewall" Name="防火墙" PromptU="Firewall" Prompt="防火墙"/>
+    <Elem NameU="Virtual Firewall" Name="虚拟防火墙" PromptU="Virtual Firewall" Prompt="虚拟防火墙"/>
+    <Elem NameU="Flow Analytics" Name="流量分析" PromptU="Flow Analytics" Prompt="流量分析"/>
+    <Elem NameU="Identity Authorization" Name="身份授权" PromptU="Identity Authorization" Prompt="身份授权"/>
+    <Elem NameU="Identity Authorization (ALT)" Name="身份授权 (ALT)" PromptU="Identity Authorization (ALT)" Prompt="身份授权 (ALT)"/>
+    <Elem NameU="Intrusion Detection" Name="入侵检测" PromptU="Intrusion Detection" Prompt="入侵检测"/>
+    <Elem NameU="Intrusion Prevention" Name="入侵预防" PromptU="Intrusion Prevention" Prompt="入侵预防"/>
+    <Elem NameU="L2 Switching" Name="L2转换" PromptU="L2 Switching" Prompt="L2转换"/>
+    <Elem NameU="Virtual L2 switching" Name="虚拟L2转换" PromptU="Virtual L2 switching" Prompt="虚拟L2转换"/>
+    <Elem NameU="Policy/Configuration.79" Name="规则/组态" PromptU="Policy/Configuration.79" Prompt="规则/组态"/>
+    <Elem NameU="L2/L3 Network" Name="L2/L3网络" PromptU="L2/L3 Network" Prompt="L2/L3网络"/>
+    <Elem NameU="L2/L3 Network Virtual" Name="L2/L3虚拟网络" PromptU="L2/L3 Network Virtual" Prompt="L2/L3虚拟网络"/>
+    <Elem NameU="L3 Switching" Name="L3转换" PromptU="L3 Switching" Prompt="L3转换"/>
+    <Elem NameU="Load Balancer" Name="负载平衡器" PromptU="Load Balancer" Prompt="负载平衡器"/>
+    <Elem NameU="Logging/Reporting" Name="日志/报告" PromptU="Logging/Reporting" Prompt="日志/报告"/>
+    <Elem NameU="Malware Sandbox" Name="恶意软件沙盒" PromptU="Malware Sandbox" Prompt="恶意软件沙盒"/>
+    <Elem NameU="Mobile Device Management (MDM)" Name="移动端设备管理(MDM)" PromptU="Mobile Device Management (MDM)" Prompt="移动端设备管理(MDM)"/>
+    <Elem NameU="Monitoring" Name="监控" PromptU="Monitoring" Prompt="监控"/>
+    <Elem NameU="Policy/Configuration.79" Name="规则/组态" PromptU="规则/组态" Prompt="Policy/Configuration.79"/>
+    <Elem NameU="Posture Assessment" Name="安全态势评估" PromptU="Posture Assessment" Prompt="安全态势评估"/>
+    <Elem NameU="Routing" Name="路由" PromptU="Routing" Prompt="路由"/>
+    <Elem NameU="Server Based Security" Name="基于服务器的安全" PromptU="Server Based Security" Prompt="基于服务器的安全"/>
+    <Elem NameU="SSL/TLS Offload" Name="SSL/TLS卸载" PromptU="SSL/TLS Offload" Prompt="SSL/TLS卸载"/>
+    <Elem NameU="Storage" Name="存储" PromptU="Storage" Prompt="存储"/>
+    <Elem NameU="Threat Intelligence" Name="威胁情报" PromptU="Threat Intelligence" Prompt="威胁情报"/>
+    <Elem NameU="Time Synchronization" Name="时间同步" PromptU="Time Synchronization" Prompt="时间同步"/>
+    <Elem NameU="User" Name="用户" PromptU="User" Prompt="用户"/>
+    <Elem NameU="Video" Name="视频" PromptU="Video" Prompt="视频"/>
+    <Elem NameU="Virtual Private Network (VPN)" Name="虚拟个人网络(VPN)" PromptU="Virtual Private Network (VPN)" Prompt="虚拟个人网络(VPN)"/>
+    <Elem NameU="VPN Concentrator" Name="VPN连通器" PromptU="VPN Concentrator" Prompt="VPN连通器"/>
+    <Elem NameU="Virtualized Capability" Name="虚拟化能力" PromptU="Virtualized Capability" Prompt="虚拟化能力"/>
+    <Elem NameU="Voice" Name="音效" PromptU="Voice" Prompt="音效"/>
+    <Elem NameU="Vulnerability Management" Name="漏洞管理" PromptU="Vulnerability Management" Prompt="漏洞管理"/>
+    <Elem NameU="Web Application Firewall" Name="网页应用防火墙" PromptU="Web Application Firewall" Prompt="网页应用防火墙"/>
+    <Elem NameU="Web Reputation/Filtering/DCS" Name="网页信誉度" PromptU="Web Reputation/Filtering/DCS" Prompt="网页信誉度"/>
+    <Elem NameU="Web Security" Name="网页安全" PromptU="Web Security" Prompt="网页安全"/>
+    <Elem NameU="Wireless Connection" Name="无线网连接" PromptU="Wireless Connection" Prompt="无线网连接"/>
+    <Elem NameU="Wireless Intrusion Detection System (WIDS)" Name="无线入侵检测系统(WIDS)" PromptU="Wireless Intrusion Detection System (WIDS)" Prompt="无线入侵检测系统(WIDS)"/>
+    <Elem NameU="Wireless Intrusion Prevention System (WIPS)" Name="无线入侵防御系统(WIPS)" PromptU="Wireless Intrusion Prevention System (WIPS)" Prompt="无线入侵防御系统(WIPS)"/>
+</Lib>

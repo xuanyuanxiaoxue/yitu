@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Web Site Map Shapes">
+    <Elem Prompt="通用" Name="通用" PromptU="Generic" NameU="Generic"/>
+    <Elem Prompt="HTML" Name="HTML" PromptU="HTML" NameU="HTML"/>
+    <Elem Prompt="脚本（服务器端）" Name="脚本（服务器端）" PromptU="Script (server-side)" NameU="Script (server-side)"/>
+    <Elem Prompt="图形(位图)" Name="图形(位图)" PromptU="Graphic (bitmap)" NameU="Graphic (bitmap)"/>
+    <Elem Prompt="脚本（客户端）" Name="脚本（客户端）" PromptU="Script (client-side)" NameU="Script (client-side)"/>
+    <Elem Prompt="Java" Name="Java" PromptU="Java" NameU="Java"/>
+    <Elem Prompt="图形(向量图)" Name="图形(向量图)" PromptU="Graphic (vector)" NameU="Graphic (vector)"/>
+    <Elem Prompt="音频" Name="音频" PromptU="Audio" NameU="Audio"/>
+    <Elem Prompt="视频" Name="视频" PromptU="Video" NameU="Video"/>
+    <Elem Prompt="样式表" Name="样式表" PromptU="Style sheet" NameU="Style sheet"/>
+    <Elem Prompt="多媒体" Name="多媒体" PromptU="Multimedia" NameU="Multimedia"/>
+    <Elem Prompt="插件" Name="插件" PromptU="Plug-in" NameU="Plug-in"/>
+    <Elem Prompt="XML" Name="XML" PromptU="XML" NameU="XML"/>
+    <Elem Prompt="控件" Name="控件" PromptU="ActiveX" NameU="ActiveX"/>
+    <Elem Prompt="文件" Name="文件" PromptU="Files" NameU="Files"/>
+    <Elem Prompt="存档" Name="存档" PromptU="Archive" NameU="Archive"/>
+    <Elem Prompt="程序" Name="程序" PromptU="Program" NameU="Program"/>
+    <Elem Prompt="文档" Name="文档" PromptU="Word Document" NameU="Word Document"/>
+    <Elem Prompt="电子表格" Name="电子表格" PromptU="Spreadsheet" NameU="Spreadsheet"/>
+    <Elem Prompt="展示" Name="展示" PromptU="Presentation" NameU="Presentation"/>
+    <Elem Prompt="数据库" Name="数据库" PromptU="Database" NameU="Database"/>
+    <Elem Prompt="云" Name="云" PromptU="Cloud" NameU="Cloud"/>
+    <Elem Prompt="文件" Name="文件" PromptU="Save" NameU="Save"/>
+    <Elem Prompt="FTP" Name="FTP" PromptU="FTP" NameU="FTP"/>
+    <Elem Prompt="邮寄地址" Name="邮寄地址" PromptU="MailTo" NameU="MailTo"/>
+    <Elem Prompt="新闻组" Name="新闻组" PromptU="Newsgroup" NameU="Newsgroup"/>
+    <Elem Prompt="评论" Name="评论" PromptU="Comment" NameU="Comment"/>
+    <Elem Prompt="RSS" Name="RSS" PromptU="RSS" NameU="RSS"/>
+    <Elem Prompt="社会" Name="社会" PromptU="Social" NameU="Social"/>
+    <Elem Prompt="服务器" Name="服务器" PromptU="Server" NameU="Server"/>
+    <Elem Prompt="PC" Name="PC" PromptU="PC" NameU="PC"/>
+    <Elem Prompt="安全" Name="安全" PromptU="Security" NameU="Security"/>
+    <Elem Prompt="购物车" Name="购物车" PromptU="Shopping Cart" NameU="Shopping Cart"/>
+    <Elem Prompt="支持" Name="支持" PromptU="Support" NameU="Support"/>
+    <Elem Prompt="搜索" Name="搜索" PromptU="Search" NameU="Search"/>
+    <Elem Prompt="搜索 2" Name="搜索 2" PromptU="Search 2" NameU="Search 2"/>
+    <Elem Prompt="网页跳转" Name="网页跳转" PromptU="Page jump" NameU="Page jump"/>
+    <Elem Prompt="文件" Name="文件" PromptU="Document" NameU="Document"/>
+    <Elem Prompt="主页" Name="主页" PromptU="Home page" NameU="Home page"/>
+    <Elem Prompt="连接线" Name="连接线" PromptU="Connector" NameU="Connector"/>
+</Lib>

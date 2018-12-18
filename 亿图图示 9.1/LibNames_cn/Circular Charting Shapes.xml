@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Circular Charting Shapes">
+    <Elem Prompt="环形箭头" Name="环形箭头" PromptU="Circular motion" NameU="Circular Motion"/>
+    <Elem Prompt="可变环形" Name="环形箭头 2" PromptU="Tensile circular motion" NameU="Circular Motion 2"/>
+    <Elem Prompt="Circular Motion 3" Name="环形箭头 3" PromptU="Circular Motion 3" NameU="Circular Motion 3"/>
+    <Elem Prompt="Circle" Name="无箭头环形" PromptU="Circle" NameU="Circle"/>
+    <Elem Prompt="Circle 2" Name="环形 2" PromptU="Circle 2" NameU="Circle 2"/>
+    <Elem Prompt="Circle 3" Name="环形 3" PromptU="Circle 3" NameU="Circle 3"/>
+    <Elem Prompt="梯形环" Name="梯形环" PromptU="Trapezoid ring" NameU="Trapezoid Ring"/>
+    <Elem Prompt="基本循环" Name="基本循环" PromptU="Loop with circles" NameU="Basic Loop"/>
+    <Elem Prompt="基本循环" Name="基本循环 2" PromptU="Loop with circles" NameU="Basic Loop 2"/>
+    <Elem Prompt="块循环" Name="块循环" PromptU="Loop with round rectangle" NameU="Block Loop"/>
+    <Elem Prompt="圆形环绕" Name="圆形环绕" PromptU="Circle Arrow Loop" NameU="Circle Arrow Loop"/>
+    <Elem Prompt="圆形放射" Name="圆形放射" PromptU="Divergent circle" NameU="Divergent Circle"/>
+    <Elem Prompt="块型放射" Name="块型放射" PromptU="Divergent blocks" NameU="Divergent Blocks"/>
+    <Elem Prompt="圆形环绕" Name="圆形环绕 2" PromptU="Circle Arrow Loop" NameU="Circle Arrow Loop 2"/>
+    <Elem Prompt="高光圆形放射" Name="圆形放射 2" PromptU="Highlight divergent circle" NameU="Divergent Circle 2"/>
+    <Elem Prompt="高光环" Name="高光环" PromptU="Highlight circle" NameU="Highlight Circle"/>
+    <Elem Prompt="多圆维恩图" Name="多圆维恩图" PromptU="Circles around circle" NameU="Circles"/>
+    <Elem Prompt="圆形层叠" Name="圆形层叠" PromptU="Stack circles" NameU="Stack Circles"/>
+    <Elem Prompt="色彩梯度" Name="色彩梯度" PromptU="Color gradient circle" NameU="Gradient Circle"/>
+    <Elem Prompt="扇形分割" Name="扇形分割" PromptU="Circle Sector" NameU="Circle Sector"/>
+    <Elem Prompt="概念环" Name="概念环" PromptU="Idea Wheel" NameU="Idea Wheel"/>
+    <Elem Prompt="可改变扇形数量和角度" Name="可改变角度扇形图" PromptU="Can change pie number and the radian of pie." NameU="Variable Radian Pie"/>
+    <Elem Prompt="可改变扇形数量和角度." Name="可改变角度环形图" PromptU="Can change doughnut pie number and the radian of doughnut pie." NameU="Variable Radian Doughnut"/>
+    <Elem Prompt="可改变扇形数量" Name="扇形圆" PromptU="Can change pie number" NameU="Circle Pie"/>
+    <Elem Prompt="可改变扇形数量" Name="多扇形圆" PromptU="Can change pie number" NameU="Bevel-style Circle Pie"/>
+    <Elem Prompt="可改变扇形数量" Name="圆形 4" PromptU="Can change ring number" NameU="Circle 4"/>
+    <Elem Prompt="可改变扇形数量" Name="多扇形圆" PromptU="Can change ring number" NameU="Bevel-style Circle"/>
+    <Elem Prompt="可改变扇形数量" Name="圆形 5" PromptU="Can change ring number" NameU="Circle 5"/>
+    <Elem Prompt="可改变扇形数量" Name="多扇形图 2" PromptU="Can change ring number" NameU="Bevel-style Circle 2"/>
+    <Elem Prompt="可改变扇形数量" Name="圆形 6" PromptU="Can change ring number" NameU="Circle 6"/>
+    <Elem Prompt="可改变扇形数量" Name="圆形 7" PromptU="Can change ring number" NameU="Circle 7"/>
+    <Elem Prompt="可改变扇形数量" Name="多扇形图 3" PromptU="Can change ring number" NameU="Bevel-style Circle 3"/>
+    <Elem Prompt="可改变扇形数量" Name="圆形 8" PromptU="Can change ring number" NameU="Circle 8"/>
+    <Elem Prompt="圆形 9" Name="圆形 9" PromptU="Circle 9" NameU="Circle 9"/>
+    <Elem Prompt="可改变扇形数量" Name="多扇形环" PromptU="Can change ring number" NameU="Sector Rings"/>
+    <Elem Prompt="可改变扇形数量" Name="多梯形环" PromptU="Can change ring number" NameU="Trapezoid Rings"/>
+    <Elem Prompt="维恩图循环" Name="维恩图循环" PromptU="Venn cycle" NameU="Venn Cycle"/>
+    <Elem Prompt="多箭头圆" Name="多箭头圆" PromptU="Multi-arrow circle" NameU="Multi-arrow Circle"/>
+    <Elem Prompt="箭头环形" Name="箭头环形" PromptU="Arrow circle" NameU="Arrow Circle"/>
+    <Elem Prompt="单环" Name="单环" PromptU="Annulus" NameU="Annulus"/>
+</Lib>

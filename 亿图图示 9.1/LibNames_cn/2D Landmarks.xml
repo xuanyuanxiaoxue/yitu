@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="2D Landmarks">
+    <Elem Prompt="城市" Name="城市" PromptU="City" NameU="City"/>
+    <Elem Prompt="银行" Name="银行" PromptU="Bank" NameU="Bank"/>
+    <Elem Prompt="书店" Name="书店" PromptU="Book store" NameU="Book store"/>
+    <Elem Prompt="美容院" Name="美容院" PromptU="Beauty salon" NameU="Beauty salon"/>
+    <Elem Prompt="诊所" Name="诊所" PromptU="Medical clinic" NameU="Medical clinic"/>
+    <Elem Prompt="酒店" Name="酒店" PromptU="Hotel" NameU="Hotel"/>
+    <Elem Prompt="酒店" Name="酒店" PromptU="Hotel" NameU="Hotel"/>
+    <Elem Prompt="邮局" Name="邮局" PromptU="Post office" NameU="Post office"/>
+    <Elem Prompt="警察局" Name="警察局" PromptU="Police" NameU="Police"/>
+    <Elem Prompt="电影院" Name="电影院" PromptU="Movie theater" NameU="Movie theater"/>
+    <Elem Prompt="餐馆" Name="餐馆" PromptU="Restaurant" NameU="Restaurant"/>
+    <Elem Prompt="市场" Name="市场" PromptU="Market" NameU="Market"/>
+    <Elem Prompt="超市" Name="超市" PromptU="Supermarket" NameU="Supermarket"/>
+    <Elem Prompt="咖啡店" Name="咖啡店" PromptU="Coffee shop" NameU="Coffee shop"/>
+    <Elem Prompt="图书馆" Name="图书馆" PromptU="Library" NameU="Library"/>
+    <Elem Prompt="市政厅" Name="市政厅" PromptU="Town hall" NameU="Town hall"/>
+    <Elem Prompt="学校" Name="学校" PromptU="School" NameU="School"/>
+    <Elem Prompt="大教堂" Name="大教堂" PromptU="Cathedral" NameU="Cathedral"/>
+    <Elem Prompt="汽车旅馆" Name="汽车旅馆" PromptU="Motel" NameU="Motel"/>
+    <Elem Prompt="市政厅" Name="市政厅" PromptU="Town Hall" NameU="Town Hall"/>
+    <Elem Prompt="公寓租房" Name="公寓租房" PromptU="Condos" NameU="Condos"/>
+    <Elem Prompt="小旅馆" Name="小旅馆" PromptU="Public house" NameU="Public house"/>
+    <Elem Prompt="加油站" Name="加油站" PromptU="Petrol station" NameU="Petrol station"/>
+    <Elem Prompt="加油站" Name="加油站" PromptU="Gas station" NameU="Gas station"/>
+    <Elem Prompt="谷仓" Name="谷仓" PromptU="Barn" NameU="Barn"/>
+    <Elem Prompt="谷仓 2" Name="谷仓 2" PromptU="Barn 2" NameU="Barn 2"/>
+    <Elem Prompt="建筑" Name="建筑" PromptU="Building" NameU="Building"/>
+    <Elem Prompt="工厂" Name="工厂" PromptU="Factory" NameU="Factory"/>
+    <Elem Prompt="医院" Name="医院" PromptU="Hospital" NameU="Hospital"/>
+    <Elem Prompt="露天体育馆" Name="露天体育馆" PromptU="Stadium" NameU="Stadium"/>
+    <Elem Prompt="野生动物园" Name="野生动物园" PromptU="Wildlife Park" NameU="Wildlife Park"/>
+    <Elem Prompt="山" Name="山" PromptU="Mountains" NameU="Mountains"/>
+    <Elem Prompt="公园" Name="公园" PromptU="Park" NameU="Park"/>
+    <Elem Prompt="度假别墅" Name="度假别墅" PromptU="Holiday Bungalow" NameU="Holiday Bungalow"/>
+    <Elem Prompt="沙滩" Name="沙滩" PromptU="Beach" NameU="Beach"/>
+    <Elem Prompt="喷泉广场" Name="喷泉广场" PromptU="Fountain Plaza" NameU="Fountain Plaza"/>
+    <Elem Prompt="游乐园" Name="游乐园" PromptU="Amusement Park" NameU="Amusement Park"/>
+    <Elem Prompt="瀑布" Name="瀑布" PromptU="Waterfall" NameU="Waterfall"/>
+    <Elem Prompt="河" Name="河" PromptU="River" NameU="River"/>
+    <Elem Prompt="湖" Name="湖" PromptU="Lake" NameU="Lake"/>
+    <Elem Prompt="树 1" Name="树 1" PromptU="Tree 1" NameU="Tree 1"/>
+    <Elem Prompt="树 2" Name="树 2" PromptU="Tree 2" NameU="Tree 2"/>
+    <Elem Prompt="树 3" Name="树 3" PromptU="Tree 3" NameU="Tree 3"/>
+    <Elem Prompt="树 4" Name="树 4" PromptU="Tree 4" NameU="Tree 4"/>
+    <Elem Prompt="游轮" Name="游轮" PromptU="Cruise ship" NameU="Cruise ship"/>
+    <Elem Prompt="港口" Name="港口" PromptU="Port" NameU="Port"/>
+    <Elem Prompt="吊车" Name="吊车" PromptU="Crane" NameU="Crane"/>
+    <Elem Prompt="吊车" Name="吊车" PromptU="Crane" NameU="Crane"/>
+    <Elem Prompt="挖掘机" Name="挖掘机" PromptU="Excavator" NameU="Excavator"/>
+    <Elem Prompt="起重机" Name="起重机" PromptU="Hoist" NameU="Hoist"/>
+    <Elem Prompt="机场" Name="机场" PromptU="Airport" NameU="Airport"/>
+    <Elem Prompt="货船" Name="货船" PromptU="Freighter" NameU="Freighter"/>
+    <Elem Prompt="红绿灯" Name="红绿灯" PromptU="Stop Light" NameU="Stop Light"/>
+    <Elem Prompt="方向引导" Name="方向引导" PromptU="Direction Guide" NameU="Direction Guide"/>
+    <Elem Prompt="位置" Name="位置" PromptU="location" NameU="location"/>
+    <Elem Prompt="路标" Name="路标" PromptU="Direction sign" NameU="Direction sign"/>
+    <Elem Prompt="停车场" Name="停车场" PromptU="Parking place" NameU="Parking place"/>
+</Lib>

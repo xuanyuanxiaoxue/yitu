@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Matrix">
+    <Elem Prompt="安索夫矩阵" Name="安索夫矩阵" PromptU="Ansoff Matrix" NameU="Ansoff Matrix"/>
+    <Elem Prompt="安索夫矩阵" Name="安索夫矩阵 2" PromptU="Ansoff Matrix" NameU="Ansoff Matrix 2"/>
+    <Elem Prompt="可变矩阵" Name="可变矩阵" PromptU="Position Map" NameU="Position Map"/>
+    <Elem Prompt="态势分析矩阵" Name="SWOT" PromptU="SWOT" NameU="SWOT"/>
+    <Elem Prompt="态势分析矩阵" Name="SWOT 2" PromptU="SWOT" NameU="SWOT 2"/>
+    <Elem Prompt="态势分析矩阵" Name="SWOT 3" PromptU="SWOT" NameU="SWOT 3"/>
+    <Elem Prompt="态势分析矩阵" Name="SWOT 4" PromptU="SWOT" NameU="SWOT 4"/>
+    <Elem Prompt="波士顿矩阵" Name="波士顿矩阵" PromptU="Boston Matrix" NameU="Boston Matrix"/>
+    <Elem Prompt="圆形矩阵/SWOT" Name="圆形矩阵/SWOT" PromptU="Circle Matrix/SWOT" NameU="Circle Matrix/SWOT"/>
+    <Elem Prompt="基础矩阵" Name="基础矩阵" PromptU="Basic Matrix" NameU="Basic Matrix"/>
+    <Elem Prompt="斜面矩阵" Name="矩阵(斜面)" PromptU="Matrix(Bevel Fill)" NameU="Matrix(Bevel)"/>
+    <Elem Prompt="矩阵" Name="矩阵" PromptU="Matrix" NameU="Matrix"/>
+    <Elem Prompt="矩阵" Name="矩阵 2" PromptU="Matrix" NameU="Matrix 2"/>
+    <Elem Prompt="矩阵" Name="矩阵 3" PromptU="Matrix" NameU="Matrix 3"/>
+    <Elem Prompt="矩阵" Name="矩阵 4" PromptU="Matrix" NameU="Matrix 4"/>
+    <Elem Prompt="矩阵" Name="矩阵 5" PromptU="Matrix" NameU="Matrix 5"/>
+    <Elem Prompt="3D 矩阵" Name="3D 矩阵" PromptU="3D Matrix" NameU="3D Matrix"/>
+    <Elem Prompt="3D 矩阵" Name="3D 矩阵 2" PromptU="3D Matrix" NameU="3D Matrix 2"/>
+    <Elem Prompt="3x3 矩阵" Name="3x3 矩阵" PromptU="3x3 Matrix" NameU="3x3 Matrix"/>
+    <Elem Prompt="彩色矩阵" Name="彩色矩阵" PromptU="Colorful Matrix" NameU="Colorful Matrix"/>
+    <Elem Prompt="轴" Name="轴" PromptU="Axis" NameU="Axis"/>
+</Lib>

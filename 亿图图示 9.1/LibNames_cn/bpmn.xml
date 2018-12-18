@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="BPMN Shapes">
+    <Elem Prompt="任务" Name="任务" PromptU="Task" NameU="Task"/>
+    <Elem Prompt="网关" Name="网关" PromptU="Gateway" NameU="Gateway"/>
+    <Elem Prompt="开始" Name="开始" PromptU="Start" NameU="Start"/>
+    <Elem Prompt="中间事件" Name="中间事件" PromptU="Intermediate" NameU="Intermediate"/>
+    <Elem Prompt="结束" Name="结束" PromptU="End" NameU="End"/>
+    <Elem Prompt="开始消息" Name="开始消息" PromptU="Start message" NameU="Start Message"/>
+    <Elem Prompt="开始消息" Name="开始消息 2" PromptU="Start message" NameU="Start Message 2"/>
+    <Elem Prompt="中间信息" Name="中间信息" PromptU="Intermediate message" NameU="Intermediate Message"/>
+    <Elem Prompt="中间信息" Name="中间信息 2" PromptU="Intermediate message" NameU="Intermediate Message 2"/>
+    <Elem Prompt="抛出消息" Name="抛出消息" PromptU="Throwing message" NameU="Throwing Message"/>
+    <Elem Prompt="结束消息" Name="结束消息" PromptU="Standard end message" NameU="End Message"/>
+    <Elem Prompt="开始定时器" Name="开始定时器" PromptU="Start timer" NameU="Start Timer"/>
+    <Elem Prompt="开始定时器" Name="开始定时器 2" PromptU="Start timer" NameU="Start Timer 2"/>
+    <Elem Prompt="中间定时器" Name="中间定时器" PromptU="Intermediate timer" NameU="Intermediate Timer"/>
+    <Elem Prompt="中间定时器" Name="中间定时器 2" PromptU="Intermediate timer" NameU="Intermediate Timer 2"/>
+    <Elem Prompt="开始升级" Name="开始升级" PromptU="Escalating to an higher level of responsibility" NameU="Start Escalation"/>
+    <Elem Prompt="开始升级" Name="开始升级 2" PromptU="Escalating to an higher level of responsibility" NameU="Start Escalation 2"/>
+    <Elem Prompt="中间升级" Name="中间升级" PromptU="Intermediate Escalation" NameU="Intermediate Escalation"/>
+    <Elem Prompt="中间升级 2" Name="中间升级 2" PromptU="Intermediate Escalation 2" NameU="Intermediate Escalation 2"/>
+    <Elem Prompt="中间升级 3" Name="中间升级 3" PromptU="Intermediate Escalation 3" NameU="Intermediate Escalation 3"/>
+    <Elem Prompt="开始升级" Name="升级结束" PromptU="Escalating to an higher level of responsibility" NameU="End Escalation"/>
+    <Elem Prompt="开始错误" Name="开始错误" PromptU="Start Error" NameU="Start Error"/>
+    <Elem Prompt="捕获错误" Name="中间错误" PromptU="Cathing error" NameU="Intermediate Error"/>
+    <Elem Prompt="抛出错误" Name="结束错误" PromptU="Throwing error" NameU="End Error"/>
+    <Elem Prompt="开始条件" Name="开始条件" PromptU="Start Condition" NameU="Start Condition"/>
+    <Elem Prompt="开始条件" Name="开始条件 2" PromptU="Start Condition" NameU="Start Condition 2"/>
+    <Elem Prompt="中间条件" Name="中间条件" PromptU="Intermediate condition" NameU="Intermediate Condition"/>
+    <Elem Prompt="中间条件" Name="中间条件 2" PromptU="Intermediate condition" NameU="Intermediate Condition 2"/>
+    <Elem Prompt="取消" Name="取消" PromptU="Cancel" NameU="Cancel"/>
+    <Elem Prompt="取消" Name="取消 2" PromptU="Cancel" NameU="Cancel 2"/>
+    <Elem Prompt="开始链接" Name="开始链接" PromptU="Start Link" NameU="Start Link"/>
+    <Elem Prompt="中间连接" Name="中间连接" PromptU="Intermediate link" NameU="Intermediate Link"/>
+    <Elem Prompt="中间连接" Name="中间连接 2" PromptU="Intermediate link" NameU="Intermediate Link 2"/>
+    <Elem Prompt="结束连接" Name="结束连接" PromptU="End link" NameU="End Link"/>
+    <Elem Prompt="开始补偿事件" Name="补偿" PromptU="Start compensation event" NameU="Compensation"/>
+    <Elem Prompt="中间补偿事件" Name="补偿 2" PromptU="Intermediate compensation event" NameU="Compensation 2"/>
+    <Elem Prompt="中间补偿事件" Name="补偿 3" PromptU="Intermediate compensation event" NameU="Compensation 3"/>
+    <Elem Prompt="结束补偿事件" Name="补偿 4" PromptU="End compensation event" NameU="Compensation 4"/>
+    <Elem Prompt="开始信号事件" Name="信号事件" PromptU="Start signal event" NameU="Signal Event"/>
+    <Elem Prompt="开始信号事件" Name="信号事件 2" PromptU="Start signal event" NameU="Signal Event 2"/>
+    <Elem Prompt="中间信号事件" Name="信号事件 3" PromptU="Intermediate signal event" NameU="Signal Event 3"/>
+    <Elem Prompt="中间信号事件" Name="信号事件 4" PromptU="Intermediate signal event" NameU="Signal Event 4"/>
+    <Elem Prompt="中间信号事件" Name="信号事件 5" PromptU="Intermediate signal event" NameU="Signal Event 5"/>
+    <Elem Prompt="结束信号事件" Name="信号事件 6" PromptU="End signal event" NameU="Signal Event 6"/>
+    <Elem Prompt="开始多重事件" Name="多重事件" PromptU="Start multiple event" NameU="Multiple Event"/>
+    <Elem Prompt="开始多重事件" Name="多重事件 2" PromptU="Start multiple event" NameU="Multiple Event 2"/>
+    <Elem Prompt="中间多重事件" Name="多重事件 3" PromptU="Intermediate multiple event" NameU="Multiple Event 3"/>
+    <Elem Prompt="中间多重事件" Name="多重事件 4" PromptU="Intermediate multiple event" NameU="Multiple Event 4"/>
+    <Elem Prompt="中间多重事件" Name="多重事件 5" PromptU="Intermediate multiple event" NameU="Multiple Event 5"/>
+    <Elem Prompt="结束多重事件" Name="多重事件 6" PromptU="End multiple event" NameU="Multiple Event 6"/>
+    <Elem Prompt="开始多重并行事件" Name="多重并行事件" PromptU="Start parallel multiple event" NameU="Parallel Multiple Event"/>
+    <Elem Prompt="开始多重并行事件" Name="多重并行事件 2" PromptU="Start parallel multiple event" NameU="Parallel Multiple Event 2"/>
+    <Elem Prompt="中间多重并行事件" Name="多重并行事件 3" PromptU="Intermediate parallel multiple event" NameU="Parallel Multiple Event 3"/>
+    <Elem Prompt="中间多重并行事件" Name="多重并行事件 4" PromptU="Intermediate parallel multiple event" NameU="Parallel Multiple Event 4"/>
+    <Elem Prompt="池/通道" Name="池/通道" PromptU="Pool Title" NameU="Pool Title"/>
+    <Elem Prompt="池/通道" Name="池/通道" PromptU="Pool" NameU="Pool"/>
+    <Elem Prompt="可增加或删除池" Name="池块" PromptU="Can add or delete pool" NameU="Pools Block"/>
+    <Elem Prompt="折叠子流程" Name="折叠子流程" PromptU="Collapsed Sub-Process" NameU="Collapsed Sub-Process"/>
+    <Elem Prompt="循环流程" Name="循环流程" PromptU="Loop Process" NameU="Loop Process"/>
+    <Elem Prompt="循环 — 并行多实例" Name="循环 — 并行多实例" PromptU="Loop - Parallel Multi-Instance" NameU="Loop - Parallel Multi-Instance"/>
+    <Elem Prompt="循环 — 连续多实例" Name="循环 — 连续多实例" PromptU="Loop - Sequential Multi-Instance" NameU="Loop - Sequential Multi-Instance"/>
+    <Elem Prompt="补偿" Name="补偿" PromptU="Compensation" NameU="Compensation"/>
+    <Elem Prompt="即席流程" Name="即席流程" PromptU="Ad-Hoc Process" NameU="Ad-Hoc Process"/>
+    <Elem Prompt="循环子流程" Name="循环子流程" PromptU="Loop Sub-Process" NameU="Loop Sub-Process"/>
+    <Elem Prompt="多重实例" Name="多重实例" PromptU="Multiple Instance" NameU="Multiple Instance"/>
+    <Elem Prompt="补偿子流程" Name="补偿子流程" PromptU="Compensation Sub-Process" NameU="Compensation Sub-Process"/>
+    <Elem Prompt="即席子流程" Name="即席子流程" PromptU="Ad-Hoc Sub-Process" NameU="Ad-Hoc Sub-Process"/>
+    <Elem Prompt="交易" Name="交易" PromptU="Transaction" NameU="Transaction"/>
+    <Elem Prompt="事件子流程" Name="事件子流程" PromptU="Event Sub-Process" NameU="Event Sub-Process"/>
+    <Elem Prompt="呼叫活动" Name="呼叫活动" PromptU="Call Activity" NameU="Call Activity"/>
+    <Elem Prompt="对话" Name="对话" PromptU="Conversation" NameU="Conversation"/>
+    <Elem Prompt="折叠的对话" Name="折叠的对话" PromptU="Collapsed Conversation" NameU="Collapsed Conversation"/>
+    <Elem Prompt="呼叫会话" Name="呼叫会话" PromptU="Call Conversation" NameU="Call Conversation"/>
+    <Elem Prompt="折叠的呼叫会话" Name="折叠的呼叫会话" PromptU="Collapsed Call Conversation" NameU="Collapsed Call Conversation"/>
+    <Elem Prompt="组" Name="组" PromptU="Group" NameU="Group"/>
+    <Elem Prompt="编排任务" Name="编排任务" PromptU="Choreography Task" NameU="Choreography Task"/>
+    <Elem Prompt="子编排任务" Name="子编排任务" PromptU="Sub-Choreography" NameU="Sub-Choreography"/>
+    <Elem Prompt="调用编排" Name="调用编排" PromptU="Call Choreography" NameU="Call Choreography"/>
+    <Elem Prompt="数据对象" Name="数据对象" PromptU="Data Object" NameU="Data Object"/>
+    <Elem Prompt="数据对象集" Name="数据对象集" PromptU="Collection Data Object" NameU="Collection Data Object"/>
+    <Elem Prompt="输入数据" Name="输入数据" PromptU="Input Data" NameU="Input Data"/>
+    <Elem Prompt="输出数据" Name="输出数据" PromptU="Output Data" NameU="Output Data"/>
+    <Elem Prompt="数据存储" Name="数据存储" PromptU="Data Store" NameU="Data Store"/>
+    <Elem Prompt="带标志的互斥网关" Name="带标志的互斥网关" PromptU="Exclusive Gateway with Marker" NameU="Exclusive Gateway with Marker"/>
+    <Elem Prompt="事件网关" Name="事件网关" PromptU="Event-Based Gateway" NameU="Event-Based Gateway"/>
+    <Elem Prompt="互斥事件网关" Name="互斥事件网关" PromptU="Exclusive Event-based Gateway" NameU="Exclusive Event-based Gateway"/>
+    <Elem Prompt="并行事件网关" Name="并行事件网关" PromptU="Parallel Event-based Gateway" NameU="Parallel Event-based Gateway"/>
+    <Elem Prompt="并行网关" Name="并行网关" PromptU="Parallel Gateway" NameU="Parallel Gateway"/>
+    <Elem Prompt="相容网关" Name="相容网关" PromptU="Inclusive Gateway" NameU="Inclusive Gateway"/>
+    <Elem Prompt="复杂网关" Name="复杂网关" PromptU="Complex Gateway" NameU="Complex Gateway"/>
+    <Elem Prompt="顺序流" Name="顺序流" PromptU="Sequence Flow" NameU="Sequence Flow"/>
+    <Elem Prompt="直角顺序流" Name="直角顺序流" PromptU="Sequence Flow Right-angle" NameU="Sequence Flow Right-angle"/>
+    <Elem Prompt="消息流" Name="消息流" PromptU="Message Flow" NameU="Message Flow"/>
+    <Elem Prompt="直角信息流" Name="直角信息流" PromptU="Message Flow Right-angle" NameU="Message Flow Right-angle"/>
+    <Elem Prompt="数据关联" Name="数据关联" PromptU="Data Association" NameU="Data Association"/>
+    <Elem Prompt="关联" Name="关联" PromptU="Association" NameU="Association"/>
+    <Elem Prompt="直角联合" Name="直角联合" PromptU="Association Right-angle" NameU="Association Right-angle"/>
+    <Elem Prompt="子流程标记" Name="流程标记" PromptU="Sub-process marker" NameU="Process Marker"/>
+    <Elem Prompt="循环标记" Name="循环标记" PromptU="Loop marker" NameU="Loop Marker"/>
+    <Elem Prompt="平行MI标记" Name="平行MI标记" PromptU="Parallel MI marker" NameU="Parallel MI Marker"/>
+    <Elem Prompt="顺序MI标记" Name="顺序MI标记" PromptU="Sequential MI marker" NameU="Sequential MI Marker"/>
+    <Elem Prompt="即席标记" Name="即席标记" PromptU="Ad-Hoc marker" NameU="Ad-Hoc Marker"/>
+    <Elem Prompt="补偿标记" Name="补偿标记" PromptU="Compensation marker" NameU="Compensation Marker"/>
+    <Elem Prompt="发送任务" Name="发送任务" PromptU="Send task" NameU="Send Task"/>
+    <Elem Prompt="接收任务" Name="接收任务" PromptU="Receive task" NameU="Receive Task"/>
+    <Elem Prompt="用户任务" Name="用户任务" PromptU="User task" NameU="User Task"/>
+    <Elem Prompt="手工任务" Name="手工任务" PromptU="Manual task" NameU="Manual Task"/>
+    <Elem Prompt="业务规则任务" Name="业务规则任务" PromptU="Business rule task" NameU="Business Rule Task"/>
+    <Elem Prompt="服务任务" Name="服务任务" PromptU="Service task" NameU="Service Task"/>
+    <Elem Prompt="脚本任务" Name="脚本任务" PromptU="Script task" NameU="Script Task"/>
+    <Elem Prompt="圆角气球" Name="圆角气球" PromptU="Rectangle balloon" NameU="Rectangle balloon"/>
+    <Elem Prompt="注释" Name="注释" PromptU="Annotation" NameU="Annotation"/>
+</Lib>

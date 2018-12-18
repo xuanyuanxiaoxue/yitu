@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Tables and Chairs">
+    <Elem Prompt="椅子 1" Name="椅子 1" PromptU="Chair 1" NameU="Chair 1"/>
+    <Elem Prompt="椅子 2" Name="椅子 2" PromptU="Chair 2" NameU="Chair 2"/>
+    <Elem Prompt="椅子 3" Name="椅子 3" PromptU="Chair 3" NameU="Chair 3"/>
+    <Elem Prompt="椅子 4" Name="椅子 4" PromptU="Chair 4" NameU="Chair 4"/>
+    <Elem Prompt="椅子 5" Name="椅子 5" PromptU="Chair 5" NameU="Chair 5"/>
+    <Elem Prompt="椅子 6" Name="椅子 6" PromptU="Chair 6" NameU="Chair 6"/>
+    <Elem Prompt="椅子 7" Name="椅子 7" PromptU="Chair 7" NameU="Chair 7"/>
+    <Elem Prompt="椅子 8" Name="椅子 8" PromptU="Chair 8" NameU="Chair 8"/>
+    <Elem Prompt="椅子 9" Name="椅子 9" PromptU="Chair 9" NameU="Chair 9"/>
+    <Elem Prompt="椅子 10" Name="椅子 10" PromptU="Chair 10" NameU="Chair 10"/>
+    <Elem Prompt="椅子 11" Name="椅子 11" PromptU="Chair 11" NameU="Chair 11"/>
+    <Elem Prompt="椅子 12" Name="椅子 12" PromptU="Chair 12" NameU="Chair 12"/>
+    <Elem Prompt="椅子 13" Name="椅子 13" PromptU="Chair 13" NameU="Chair 13"/>
+    <Elem Prompt="椅子 14" Name="椅子 14" PromptU="Chair 14" NameU="Chair 14"/>
+    <Elem Prompt="凳子" Name="凳子" PromptU="Stool" NameU="Stool"/>
+    <Elem Prompt="椅子 15" Name="椅子 15" PromptU="Chair 15" NameU="Chair 15"/>
+    <Elem Prompt="椅子 16" Name="椅子 16" PromptU="Chair 16" NameU="Chair 16"/>
+    <Elem Prompt="椅子 17" Name="椅子 17" PromptU="Chair 17" NameU="Chair 17"/>
+    <Elem Prompt="椅子 18" Name="椅子 18" PromptU="Chair 18" NameU="Chair 18"/>
+    <Elem Prompt="椅子 19" Name="椅子 19" PromptU="Chair 19" NameU="Chair 19"/>
+    <Elem Prompt="躺椅" Name="躺椅" PromptU="Recliner" NameU="Recliner"/>
+    <Elem Prompt="吊椅" Name="吊椅" PromptU="Sling chair" NameU="Sling chair"/>
+    <Elem Prompt="休闲椅" Name="休闲椅" PromptU="Lounge chair" NameU="Lounge chair"/>
+    <Elem Prompt="桌椅" Name="桌椅" PromptU="Table with Chairs" NameU="Table with Chairs"/>
+    <Elem Prompt="桌椅" Name="桌椅" PromptU="Style Station" NameU="Style Station"/>
+    <Elem Prompt="桌椅 1" Name="桌椅 1" PromptU="Style Station 1" NameU="Style Station 1"/>
+    <Elem Prompt="桌椅 2" Name="桌椅 2" PromptU="Style Station 2" NameU="Style Station 2"/>
+    <Elem Prompt="桌椅 3" Name="桌椅 3" PromptU="Style Station 3" NameU="Style Station 3"/>
+    <Elem Prompt="桌椅 4" Name="桌椅 4" PromptU="Style Station 4" NameU="Style Station 4"/>
+    <Elem Prompt="桌椅 5" Name="桌椅 5" PromptU="Style Station 5" NameU="Style Station 5"/>
+    <Elem Prompt="桌椅 6" Name="桌椅 6" PromptU="Style Station 6" NameU="Style Station 6"/>
+    <Elem Prompt="休闲椅 1" Name="休闲椅 1" PromptU="lounge chair 1" NameU="lounge chair 1"/>
+    <Elem Prompt="休闲椅 2" Name="休闲椅 2" PromptU="Lounge Chair 2" NameU="Lounge Chair 2"/>
+    <Elem Prompt="休闲椅 3" Name="休闲椅 3" PromptU="Lounge Chair 3" NameU="Lounge Chair 3"/>
+    <Elem Prompt="休闲椅 4" Name="休闲椅 4" PromptU="Lounge Chair 4" NameU="Lounge Chair 4"/>
+    <Elem Prompt="休闲椅 5" Name="休闲椅 5" PromptU="Lounge Chair 5" NameU="Lounge Chair 5"/>
+    <Elem Prompt="吧台 1" Name="吧台 1" PromptU="Bar Counter 1" NameU="Bar Counter 1"/>
+    <Elem Prompt="吧台 2" Name="吧台 2" PromptU="Bar Counter 2" NameU="Bar Counter 2"/>
+    <Elem Prompt="吧台 3" Name="吧台 3" PromptU="Bar Counter 3" NameU="Bar Counter 3"/>
+    <Elem Prompt="吧台 4" Name="吧台 4" PromptU="Bar Counter 4" NameU="Bar Counter 4"/>
+    <Elem Prompt="吧台 5" Name="吧台 5" PromptU="Bar Counter 5" NameU="Bar Counter 5"/>
+    <Elem Prompt="吧台 6" Name="吧台 6" PromptU="Bar Counter 6" NameU="Bar Counter 6"/>
+    <Elem Prompt="桌椅 1" Name="桌椅 1" PromptU="The Chair and Table 1" NameU="The Chair and Table 1"/>
+    <Elem Prompt="桌椅 2" Name="桌椅 2" PromptU="The Chair and Table 2" NameU="The Chair and Table 2"/>
+    <Elem Prompt="沙发茶几 1" Name="沙发茶几 1" PromptU="Sofa and Sofa Table 1" NameU="Sofa and Sofa Table 1"/>
+    <Elem Prompt="沙发茶几 2" Name="沙发茶几 2" PromptU="Sofa and Sofa Table 2" NameU="Sofa and Sofa Table 2"/>
+    <Elem Prompt="双人桌" Name="双人桌" PromptU="Double table" NameU="Double table"/>
+    <Elem Prompt="四人圆餐桌" Name="四人圆餐桌" PromptU="Circular dining table for four" NameU="Circular dining table for four"/>
+    <Elem Prompt="八人圆餐桌" Name="八人圆餐桌" PromptU="Eight people circular dining table" NameU="Eight people circular dining table"/>
+    <Elem Prompt="椭圆形餐桌" Name="椭圆形餐桌" PromptU="Oval dining table" NameU="Oval dining table"/>
+    <Elem Prompt="椭圆形餐桌" Name="椭圆形餐桌" PromptU="Oval dining table" NameU="Oval dining table"/>
+    <Elem Prompt="双人方桌" Name="双人方桌" PromptU="Double square table" NameU="Double square table"/>
+    <Elem Prompt="方桌" Name="方桌" PromptU="Square table" NameU="Square table"/>
+    <Elem Prompt="长方形的餐桌" Name="长方形的餐桌" PromptU="Oblong dining table" NameU="Oblong dining table"/>
+    <Elem Prompt="方餐桌" Name="方餐桌" PromptU="Square dining table" NameU="Square dining table"/>
+    <Elem Prompt="餐桌" Name="餐桌" PromptU="Dining table" NameU="Dining table"/>
+    <Elem Prompt="圆桌" Name="圆桌" PromptU="Circular table" NameU="Circular table"/>
+    <Elem Prompt="圆桌" Name="圆桌" PromptU="Circular table" NameU="Circular table"/>
+    <Elem Prompt="圆桌" Name="圆桌" PromptU="Circular table" NameU="Circular table"/>
+    <Elem Prompt="椭圆桌" Name="椭圆周" PromptU="Oval table" NameU="Oval table"/>
+    <Elem Prompt="方桌" Name="方桌" PromptU="Square table" NameU="Square table"/>
+    <Elem Prompt="休闲椅" Name="休闲椅" PromptU="Lounge chair" NameU="Lounge chair"/>
+    <Elem Prompt="休闲椅 2" Name="休闲椅 2" PromptU="Lounge chair 2" NameU="Lounge chair 2"/>
+    <Elem Prompt="圆桌" Name="圆桌" PromptU="Circular table" NameU="Circular table"/>
+    <Elem Prompt="椭圆桌子" Name="椭圆桌子" PromptU="Oval table" NameU="Oval table"/>
+    <Elem Prompt="会议桌 1" Name="会议桌 1" PromptU="Conference table 1" NameU="Conference table 1"/>
+    <Elem Prompt="会议桌 2" Name="会议桌 2" PromptU="Conference table 2" NameU="Conference table 2"/>
+    <Elem Prompt="会议桌 3" Name="会议桌 3" PromptU="Conference table 3" NameU="Conference table 3"/>
+    <Elem Prompt="长方形桌" Name="长方形桌" PromptU="Rectangle table" NameU="Rectangle table"/>
+    <Elem Prompt="六边形桌 1" Name="六边形桌 1" PromptU="Diamond table 1" NameU="Diamond table 1"/>
+    <Elem Prompt="六边形桌 2" Name="六边形桌 2" PromptU="Diamond table 2" NameU="Diamond table 2"/>
+    <Elem Prompt="圆角桌" Name="圆角桌" PromptU="Corner table" NameU="Corner table"/>
+    <Elem Prompt="半圆桌" Name="半圆桌" PromptU="Semicircle table" NameU="Semicircle table"/>
+    <Elem Prompt="扇形桌" Name="扇形桌" PromptU="The fan table" NameU="The fan table"/>
+    <Elem Prompt="乒乓球台" Name="乒乓球台" PromptU="Ping-pong table" NameU="Ping-pong table"/>
+    <Elem Prompt="办公桌" Name="办公桌" PromptU="Desk" NameU="Desk"/>
+    <Elem Prompt="办公桌 2" Name="办公桌 2" PromptU="Desk 2" NameU="Desk 2"/>
+    <Elem Prompt="办公桌 3" Name="办公桌 3" PromptU="Desk 3" NameU="Desk 3"/>
+    <Elem Prompt="办公桌 4" Name="办公桌 4" PromptU="Desk 4" NameU="Desk 4"/>
+    <Elem Prompt="办公桌 5" Name="办公桌 5" PromptU="Desk 5" NameU="Desk 5"/>
+    <Elem Prompt="梳妆台" Name="梳妆台" PromptU="Dressing table" NameU="Dressing table"/>
+</Lib>

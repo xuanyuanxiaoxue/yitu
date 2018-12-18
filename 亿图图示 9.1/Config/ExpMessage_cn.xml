@@ -1,0 +1,47 @@
+<EdrawExp>
+	<ExpConfig>
+		<RuntimeLog>FALSE</RuntimeLog>
+		<Exception>TRUE</Exception>
+		<ParseVisioLog>FALSE</ParseVisioLog>
+	</ExpConfig>	
+	<Exceptions>
+		<Message>未知的错误码</Message>
+		<Message>成功</Message>
+		<Message>未知错误</Message>
+		<Message>无法或不能进行估值运算</Message>
+		<Message>语法错误</Message>
+		<Message>未知的符号</Message>
+		<Message>公式错误</Message>		
+		<Message>函数参数类型错误或函数参数数量错误</Message>
+		<Message>函数参数类型错误</Message>
+		<Message>函数参数数量错误</Message>
+		<Message>值类型错误</Message>
+		<Message>超越了取值范围</Message>
+		<Message>判断语句语法错误</Message>
+		<Message>乘除语句语法错误</Message>
+		<Message>加减语句语法错误</Message>
+		<Message>赋值语句语法错误</Message>
+		<Message>形状属性语法错误</Message>
+		<Message>无效的索引值</Message>
+		<Message>公式不存在</Message>		
+		<Message>无效的形状ID</Message>
+		<Message>指定形状不存在</Message>
+		<Message>指定形状不是连接对象</Message>
+		<Message>指定形状不存在</Message>
+		<Message>形状不存在父对象</Message>
+		<Message>指定页不存在</Message>
+		<Message>指定文本不存在</Message>
+		<Message>指定的数据段不存在该域</Message>
+		<Message>不存在指定名称的连接点</Message>
+		<Message>不存在指定索引的连接点</Message>						
+		<Message>命令调用失败</Message>
+		<Message>公式规格化错误</Message>
+		<Message>公式估值错误</Message>
+		<Message>公式依赖构建错误</Message>
+		<Message>该名称在该数据段内已经存在</Message>
+		<Message>输入必须是数值</Message>
+		<Message>输入必须是日期,请确保输入格式是以下的一种:"5/25/2008 20:30:00","20:30:00","8:30:00".</Message>
+		<Message>输入必须是列表中的一项</Message>
+		<Message>请点击定义按钮进入自定义属性对话框进行日期或时间编辑</Message>				
+	</Exceptions>
+</EdrawExp>

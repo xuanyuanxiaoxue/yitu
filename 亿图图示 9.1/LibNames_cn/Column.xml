@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Column">
+    <Elem Prompt="如何使用柱状图" Name="如何使用柱状图" PromptU="How to use Column Chart" NameU="How to use Column Chart"/>
+    <Elem Prompt="简单柱状图" Name="简单柱状图" PromptU="Column" NameU="Column"/>
+    <Elem Prompt="柱状图 2" Name="柱状图 2" PromptU="Column 2" NameU="Column 2"/>
+    <Elem Prompt="渐变色柱状图" Name="渐变色柱状图" PromptU="Gradient Column" NameU="Gradient Column"/>
+    <Elem Prompt="单系列柱状图" Name="单系列柱状图" PromptU="Single Series Column" NameU="Single Series Column"/>
+    <Elem Prompt="单系列柱状图 2" Name="单系列柱状图 2" PromptU="Single Series Column 2" NameU="Single Series Column 2"/>
+    <Elem Prompt="单系列柱状图 3" Name="单系列柱状图 3" PromptU="Single Series Column 3" NameU="Single Series Column 3"/>
+    <Elem Prompt="单系列柱状图 4" Name="单系列柱状图 4" PromptU="Single Series Column 4" NameU="Single Series Column 4"/>
+    <Elem Prompt="簇状柱形图" Name="簇状柱形图" PromptU="Clustered Column" NameU="Clustered Column"/>
+    <Elem Prompt="簇状柱形图 - 斜面样式" Name="簇状柱形图2" PromptU="Clustered Column - bevel style" NameU="Clustered Column 2"/>
+    <Elem Prompt="3D簇状柱形图" Name="3D簇状柱形图" PromptU="3D Clustered Column" NameU="3D Clustered Column"/>
+    <Elem Prompt="簇状圆柱图" Name="簇状圆柱图" PromptU="Clustered Cylinder" NameU="Clustered Cylinder"/>
+    <Elem Prompt="堆积柱形图" Name="堆积柱形图" PromptU="Stacked Column" NameU="Stacked Column"/>
+    <Elem Prompt="堆积柱形图 - 斜面样式" Name="堆积柱形图2" PromptU="Stacked Column - bevel style" NameU="Stacked Column 2"/>
+    <Elem Prompt="3D堆积柱形图" Name="3D堆积柱形图" PromptU="3D Stacked Column" NameU="3D Stacked Column"/>
+    <Elem Prompt="堆积圆柱图" Name="堆积圆柱图" PromptU="Stacked Cylinder" NameU="Stacked Cylinder"/>
+    <Elem Prompt="百分比堆积柱形图" Name="百分比堆积柱形图" PromptU="100% Stacked Column" NameU="100% Stacked Column"/>
+    <Elem Prompt="百分比堆积柱形图 - 斜面样式" Name="百分比堆积柱形图2" PromptU="100% Stacked Column - bevel style" NameU="100% Stacked Column 2"/>
+    <Elem Prompt="3D百分比堆积柱形图" Name="3D百分比堆积柱形图" PromptU="3D 100% Stacked Column" NameU="3D 100% Stacked Column"/>
+    <Elem Prompt="百分比堆积圆柱图" Name="百分比堆积圆柱图" PromptU="100% Stacked Cylinder" NameU="100% Stacked Cylinder"/>
+    <Elem Prompt="单柱柱形图" Name="单柱柱形图" PromptU="Single Column" NameU="Single Column"/>
+    <Elem Prompt="渐变色单柱图" Name="渐变色单柱图" PromptU="Gradient Single Column" NameU="Gradient Single Column"/>
+</Lib>

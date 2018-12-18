@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Education Flat">
+    <Elem NameU="Folder" Name="文件夹" PromptU="Folder" Prompt="文件夹"/>
+    <Elem NameU="Books" Name="书籍" PromptU="Books" Prompt="书籍"/>
+    <Elem NameU="Pen Pot" Name="笔筒" PromptU="Pen Pot" Prompt="笔筒"/>
+    <Elem NameU="Globe" Name="地球仪" PromptU="Globe" Prompt="地球仪"/>
+    <Elem NameU="Schoolbag" Name="书包" PromptU="Schoolbag" Prompt="书包"/>
+    <Elem NameU="Opened Book" Name="打开的书" PromptU="Opened Book" Prompt="打开的书"/>
+    <Elem NameU="Color Pens" Name="彩笔" PromptU="Color Pens" Prompt="彩笔"/>
+    <Elem NameU="Paint" Name="颜料" PromptU="Paint" Prompt="颜料"/>
+    <Elem NameU="Brushes" Name="刷子" PromptU="Brushes" Prompt="刷子"/>
+    <Elem NameU="Scissors" Name="剪刀" PromptU="Scissors" Prompt="剪刀"/>
+    <Elem NameU="Pen" Name="钢笔" PromptU="Pen" Prompt="钢笔"/>
+    <Elem NameU="Ballpoint Pen" Name="圆珠笔" PromptU="Ballpoint Pen" Prompt="圆珠笔"/>
+    <Elem NameU="Pencil 1" Name="铅笔1" PromptU="Pencil 1" Prompt="铅笔1"/>
+    <Elem NameU="Pencil 2" Name="铅笔2" PromptU="Pencil 2" Prompt="铅笔2"/>
+    <Elem NameU="Palette 1" Name="调色板1" PromptU="Palette 1" Prompt="调色板1"/>
+    <Elem NameU="Palette 2" Name="调色板2" PromptU="Palette 2" Prompt="调色板2"/>
+    <Elem NameU="Rubber" Name="橡皮" PromptU="Rubber" Prompt="橡皮"/>
+    <Elem NameU="Compass" Name="指南针" PromptU="Compass" Prompt="指南针"/>
+    <Elem NameU="Drawing Board" Name="绘图板" PromptU="Drawing Board" Prompt="绘图板"/>
+    <Elem NameU="Pushpin" Name="图钉" PromptU="Pushpin" Prompt="图钉"/>
+    <Elem NameU="Paper Clip" Name="纸夹" PromptU="Paper Clip" Prompt="纸夹"/>
+    <Elem NameU="Note Paper" Name="便条纸" PromptU="Note Paper" Prompt="便条纸"/>
+    <Elem NameU="Glasses" Name="眼镜" PromptU="Glasses" Prompt="眼镜"/>
+    <Elem NameU="Glue" Name="胶水" PromptU="Glue" Prompt="胶水"/>
+    <Elem NameU="Blackboard" Name="黑板" PromptU="Blackboard" Prompt="黑板"/>
+    <Elem NameU="Calculater" Name="计算器" PromptU="Calculater" Prompt="计算器"/>
+    <Elem NameU="School Bus" Name="校车" PromptU="School Bus" Prompt="校车"/>
+    <Elem NameU="Mortarboard" Name="学位帽" PromptU="Mortarboard" Prompt="学位帽"/>
+    <Elem NameU="Diploma" Name="毕业证书" PromptU="Diploma" Prompt="毕业证书"/>
+    <Elem NameU="Football" Name="足球" PromptU="Football" Prompt="足球"/>
+    <Elem NameU="Basketball" Name="篮球" PromptU="Basketball" Prompt="篮球"/>
+    <Elem NameU="Rugby" Name="橄榄球" PromptU="Rugby" Prompt="橄榄球"/>
+    <Elem NameU="Tennis Ball" Name="网球" PromptU="Tennis Ball" Prompt="网球"/>
+    <Elem NameU="Flask" Name="烧瓶" PromptU="Flask" Prompt="烧瓶"/>
+    <Elem NameU="Conical Flask" Name="锥形烧瓶" PromptU="Conical Flask" Prompt="锥形烧瓶"/>
+    <Elem NameU="Beaker" Name="烧杯" PromptU="Beaker" Prompt="烧杯"/>
+    <Elem NameU="Flask" Name="烧瓶" PromptU="Flask" Prompt="烧瓶"/>
+    <Elem NameU="Test Tube" Name="试管" PromptU="Test Tube" Prompt="试管"/>
+    <Elem NameU="Alcohol Burner" Name="酒精灯" PromptU="Alcohol Burner" Prompt="酒精灯"/>
+    <Elem NameU="Ruler" Name="尺子" PromptU="Ruler" Prompt="尺子"/>
+    <Elem NameU="Set Square" Name="三角尺" PromptU="Set Square" Prompt="三角尺"/>
+    <Elem NameU="Angle Ruler" Name="角度平尺" PromptU="Angle Ruler" Prompt="角度平尺"/>
+    <Elem NameU="Telescopes" Name="望远镜" PromptU="Telescopes" Prompt="望远镜"/>
+    <Elem NameU="Microscope" Name="显微镜" PromptU="Microscope" Prompt="显微镜"/>
+    <Elem NameU="Sand Timer" Name="沙漏" PromptU="Sand Timer" Prompt="沙漏"/>
+    <Elem NameU="Cell" Name="细胞" PromptU="Cell" Prompt="细胞"/>
+    <Elem NameU="Gene Map" Name="基因图" PromptU="Gene Map" Prompt="基因图"/>
+    <Elem NameU="Sun" Name="太阳" PromptU="Sun" Prompt="太阳"/>
+    <Elem NameU="Planetary motion" Name="行星运动" PromptU="Planetary motion" Prompt="行星运动"/>
+    <Elem NameU="Astronomical telescope" Name="天文望远镜" PromptU="Astronomical telescope" Prompt="天文望远镜"/>
+    <Elem NameU="Table lamp" Name="台灯" PromptU="Table lamp" Prompt="台灯"/>
+    <Elem NameU="Small bell 1" Name="小铃铛1" PromptU="Small bell 1" Prompt="小铃铛1"/>
+    <Elem NameU="Small bell 2" Name="小铃铛2" PromptU="Small bell 2" Prompt="小铃铛2"/>
+    <Elem NameU="Tree 1" Name="树1" PromptU="Tree 1" Prompt="树1"/>
+    <Elem NameU="Tree 2" Name="树2" PromptU="Tree 2" Prompt="树2"/>
+    <Elem NameU="Bass 1" Name="贝斯1" PromptU="Bass 1" Prompt="贝斯1"/>
+    <Elem NameU="Bass 2" Name="贝斯2" PromptU="Bass 2" Prompt="贝斯2"/>
+    <Elem NameU="Guitar 1" Name="吉他1" PromptU="Guitar 1" Prompt="吉他1"/>
+    <Elem NameU="Guitar 2" Name="吉他2" PromptU="Guitar 2" Prompt="吉他2"/>
+    <Elem NameU="School" Name="学校" PromptU="School" Prompt="学校"/>
+    <Elem NameU="Lecturer" Name="讲师" PromptU="Lecturer" Prompt="讲师"/>
+    <Elem NameU="Notebook computer" Name="笔记本电脑" PromptU="Notebook computer" Prompt="笔记本电脑"/>
+    <Elem NameU="Desktop computer" Name="台式电脑" PromptU="Desktop computer" Prompt="台式电脑"/>
+    <Elem NameU="Flower pot 1" Name="花盆1" PromptU="Flower pot 1" Prompt="花盆1"/>
+    <Elem NameU="Flower pot 2" Name="花盆2" PromptU="Flower pot 2" Prompt="花盆2"/>
+    <Elem NameU="Apple" Name="苹果" PromptU="Apple" Prompt="苹果"/>
+    <Elem NameU="Light bulb 1" Name="灯泡1" PromptU="Light bulb 1" Prompt="灯泡1"/>
+    <Elem NameU="Light bulb 2" Name="灯泡2" PromptU="Light bulb 2" Prompt="灯泡2"/>
+    <Elem NameU="Balloon" Name="气球" PromptU="Balloon" Prompt="气球"/>
+    <Elem NameU="Trophy" Name="奖品" PromptU="Trophy" Prompt="奖品"/>
+    <Elem NameU="Medal" Name="勋章" PromptU="Medal" Prompt="勋章"/>
+    <Elem NameU="Various certificates" Name="奖励证书" PromptU="Various certificates" Prompt="奖励证书"/>
+    <Elem NameU="Go to school 1" Name="去学校1" PromptU="Go to school 1" Prompt="去学校1"/>
+    <Elem NameU="Go to school 2" Name="去学校2" PromptU="Go to school 2" Prompt="去学校2"/>
+    <Elem NameU="Reading 1" Name="看书1" PromptU="Reading 1" Prompt="看书1"/>
+    <Elem NameU="Reading 2" Name="看书2" PromptU="Reading 2" Prompt="看书2"/>
+    <Elem NameU="School Boy" Name="男同学" PromptU="School Boy" Prompt="男同学"/>
+    <Elem NameU="School Girl" Name="女同学" PromptU="School Girl" Prompt="女同学"/>
+    <Elem NameU="Party" Name="派对" PromptU="Party" Prompt="派对"/>
+    <Elem NameU="Student with Trophy" Name="学生获奖" PromptU="Student with Trophy" Prompt="学生获奖"/>
+    <Elem NameU="Pupil girl 1" Name="小学女生1" PromptU="Pupil girl 1" Prompt="Pupil girl 1"/>
+    <Elem NameU="Pupil boy 1" Name="小学男生1" PromptU="Pupil boy 1" Prompt="小学男生1"/>
+    <Elem NameU="Pupil girl 2" Name="小学女生2" PromptU="Pupil girl 2" Prompt="小学女生1"/>
+    <Elem NameU="Pupil boy 2" Name="小学男生2" PromptU="Pupil boy 2" Prompt="小学男生2"/>
+    <Elem NameU="Student Girl 1" Name="女学生1" PromptU="Student Girl 1" Prompt="女学生1"/>
+    <Elem NameU="Student Boy 1" Name="男学生1" PromptU="Student Boy 1" Prompt="男学生1"/>
+    <Elem NameU="Student Girl 2" Name="女学生2" PromptU="Student Girl 2" Prompt="女学生2"/>
+    <Elem NameU="Student Boy 2" Name="男学生2" PromptU="Student Boy 2" Prompt="男学生2"/>
+    <Elem NameU="Attend class" Name="上课" PromptU="Attend class" Prompt="上课"/>
+    <Elem NameU="The Graduate" Name="毕业生" PromptU="The Graduate" Prompt="毕业生"/>
+</Lib>

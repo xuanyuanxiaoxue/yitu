@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="AWS Compute and Networking">
+    <Elem NameU="AMI" Name="AMI系统映像" PromptU="AMI" Prompt="AMI系统映像"/>
+    <Elem NameU="CloudWatch" Name="CloudWatch 云和网络监控服务" PromptU="CloudWatch" Prompt="CloudWatch 云和网络监控服务"/>
+    <Elem NameU="DB on Instance" Name="数据库实例" PromptU="DB on Instance" Prompt="数据库实例"/>
+    <Elem NameU="Elastic IP" Name="弹性IP" PromptU="Elastic IP" Prompt="弹性IP"/>
+    <Elem NameU="Instance" Name="实例" PromptU="Instance" Prompt="实例"/>
+    <Elem NameU="Instances" Name="多个实例" PromptU="Instances" Prompt="多个实例"/>
+    <Elem NameU="Instance Contents" Name="实例内容" PromptU="Instance Contents" Prompt="实例内容"/>
+    <Elem NameU="Amazon EC2" Name="Amazon EC2" PromptU="Amazon EC2" Prompt="Amazon EC2"/>
+    <Elem NameU="Cluster" Name="集群" PromptU="Cluster" Prompt="集群"/>
+    <Elem NameU="HDFS Cluster" Name="HDFS 集群" PromptU="HDFS Cluster" Prompt="HDFS 集群"/>
+    <Elem NameU="Amazon EMR" Name="Amazon EMR" PromptU="Amazon EMR" Prompt="Amazon EMR"/>
+    <Elem NameU="Route 53 Hosted Zone" Name="路线53托管区" PromptU="Route 53 Hosted Zone" Prompt="路线53托管区"/>
+    <Elem NameU="Route 53 Route Table" Name="路线53路由表" PromptU="Route 53 Route Table" Prompt="路线53路由表"/>
+    <Elem NameU="Route 53" Name="路线53" PromptU="Route 53" Prompt="路线53"/>
+    <Elem NameU="VPC Customer Gateway" Name="VPC客户网关" PromptU="VPC Customer Gateway" Prompt="VPC客户网关"/>
+    <Elem NameU="VPC Internet Gateway" Name="VPC互联网网关" PromptU="VPC Internet Gateway" Prompt="VPC互联网网关"/>
+    <Elem NameU="VPC Contents" Name="VPC内容" PromptU="VPC Contents" Prompt="VPC内容"/>
+    <Elem NameU="VPC Router" Name="VPC路由器" PromptU="VPC Router" Prompt="VPC路由器"/>
+    <Elem NameU="VPC VPN Connection" Name="VPC VPN连接" PromptU="VPC VPN Connection" Prompt="VPC VPN连接"/>
+    <Elem NameU="VPC VPN Gateway" Name="VPC VPN网关" PromptU="VPC VPN Gateway" Prompt="VPC VPN网关"/>
+    <Elem NameU="VPN Connection" Name="VPN连接" PromptU="VPN Connection" Prompt="VPN连接"/>
+    <Elem NameU="VPC" Name="虚拟私有云" PromptU="VPC" Prompt="虚拟私有云"/>
+    <Elem NameU="Auto Scaling" Name="自动扩展" PromptU="Auto Scaling" Prompt="自动扩展"/>
+    <Elem NameU="AWS Direct Connect" Name="AWS直接连接" PromptU="AWS Direct Connect" Prompt="AWS直接连接"/>
+    <Elem NameU="EC2 Optimized Instance" Name="EC2 优化实例" PromptU="EC2 Optimized Instance" Prompt="EC2 优化实例"/>
+    <Elem NameU="Elastic Load Balancing" Name="弹性负载均衡" PromptU="Elastic Load Balancing" Prompt="弹性负载均衡"/>
+    <Elem NameU="Elastic Network Instance" Name="弹性网络实例" PromptU="Elastic Network Instance" Prompt="弹性网络实例"/>
+    <Elem NameU="EMR Engine" Name="EMR引擎" PromptU="EMR Engine" Prompt="EMR引擎"/>
+    <Elem NameU="EMR MapR M3 Engine" Name="EMR MapR M3 引擎" PromptU="EMR MapR M3 Engine" Prompt="EMR MapR M3 引擎"/>
+    <Elem NameU="EMR MapR M5 Engine" Name="EMR MapR M5 引擎" PromptU="EMR MapR M5 Engine" Prompt="EMR MapR M5 引擎"/>
+    <Elem NameU="EMR MapR M7 Engine" Name="EMR MapR M7 引擎" PromptU="EMR MapR M7 Engine" Prompt="EMR MapR M7 引擎"/>
+    <Elem NameU="Kinesis Enabled App" Name="Kinesis 启用应用程序" PromptU="Kinesis Enabled App" Prompt="Kinesis 启用应用程序"/>
+    <Elem NameU="VPC Peering" Name="VPC Peering对等体" PromptU="VPC Peering" Prompt="VPC Peering对等体"/>
+    <Elem NameU="WorkSpaces" Name="桌面云" PromptU="WorkSpaces" Prompt="桌面云"/>
+    <Elem NameU="Lambda" Name="Lambda云计算服务" PromptU="Lambda" Prompt="Lambda云计算服务"/>
+</Lib>

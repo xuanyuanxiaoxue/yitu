@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Pumps">
+    <Elem Prompt="3-D 工业标准泵" Name="3-D 工业标准泵" PromptU="3-D ISA Pump" NameU="3-D ISA Pump"/>
+    <Elem Prompt="3-D 泵" Name="3-D 泵" PromptU="3-D Pump" NameU="3-D Pump"/>
+    <Elem Prompt="气动泵" Name="气动泵" PromptU="Air powered pump" NameU="Air powered pump"/>
+    <Elem Prompt="气动隔膜泵" Name="气动隔膜泵" PromptU="Air-operated diaphragm pump" NameU="Air-operated diaphragm pump"/>
+    <Elem Prompt="离心泵 1" Name="离心泵 1" PromptU="Centrifugal pump 1" NameU="Centrifugal pump 1"/>
+    <Elem Prompt="离心泵 2" Name="离心泵 2" PromptU="Centrifugal pump 2" NameU="Centrifugal pump 2"/>
+    <Elem Prompt="离心泵 3" Name="离心泵 3" PromptU="Centrifugal pump 3" NameU="Centrifugal pump 3"/>
+    <Elem Prompt="离心泵 4" Name="离心泵 4" PromptU="Centrifugal pump 4" NameU="Centrifugal pump 4"/>
+    <Elem Prompt="离心泵 5" Name="离心泵 5" PromptU="Centrifugal pump 5" NameU="Centrifugal pump 5"/>
+    <Elem Prompt="带轴离心泵" Name="带轴离心泵" PromptU="Centrifugal pump with integral pump-motor shaft" NameU="Centrifugal pump with integral pump-motor shaft"/>
+    <Elem Prompt="热塑塑料离心泵" Name="热塑塑料离心泵" PromptU="Centrifugal thermoplastic pump" NameU="Centrifugal thermoplastic pump"/>
+    <Elem Prompt="化工泵 1" Name="化工泵 1" PromptU="Chemical pump 1" NameU="Chemical pump 1"/>
+    <Elem Prompt="化工泵 2" Name="化工泵 2" PromptU="Chemical pump 2" NameU="Chemical pump 2"/>
+    <Elem Prompt="化工泵 3" Name="化工泵 3" PromptU="Chemical pump 3" NameU="Chemical pump 3"/>
+    <Elem Prompt="经典泵" Name="经典泵" PromptU="Classic pump 4" NameU="Classic pump 4"/>
+    <Elem Prompt="冷泵" Name="冷泵" PromptU="Cool pump" NameU="Cool pump"/>
+    <Elem Prompt="耐腐蚀潜水泵" Name="耐腐蚀潜水泵" PromptU="Corrosion resistant submersible pump" NameU="Corrosion resistant submersible pump"/>
+    <Elem Prompt="耐腐持续工作泵" Name="耐腐持续工作泵" PromptU="Corrosion-resistant continuous duty pump" NameU="Corrosion-resistant continuous duty pump"/>
+    <Elem Prompt="隔膜泵" Name="隔膜泵" PromptU="Diaphragm pump" NameU="Diaphragm pump"/>
+    <Elem Prompt="隔膜泵 2" Name="隔膜泵 2" PromptU="Diaphragm pump 2" NameU="Diaphragm pump 2"/>
+    <Elem Prompt="单吸离心泵" Name="单吸离心泵" PromptU="End-suction centrifugal pump" NameU="End-suction centrifugal pump"/>
+    <Elem Prompt="防爆泵" Name="防爆泵" PromptU="Explosion-proof pump" NameU="Explosion-proof pump"/>
+    <Elem Prompt="法兰泵" Name="法兰泵" PromptU="Flanged pump" NameU="Flanged pump"/>
+    <Elem Prompt="离心泵 6" Name="离心泵 6" PromptU="Flex-mounted centrifugal pump" NameU="Flex-mounted centrifugal pump"/>
+    <Elem Prompt="重载塑料离心泵" Name="重载塑料离心泵" PromptU="Heavy-duty plastic centrifugal pump" NameU="Heavy-duty plastic centrifugal pump"/>
+    <Elem Prompt="高温热转换泵" Name="高温热转换泵" PromptU="High temp heat trans pump" NameU="High temp heat trans pump"/>
+    <Elem Prompt="大排量泵" Name="大排量泵" PromptU="High volume pump" NameU="High volume pump"/>
+    <Elem Prompt="高粘度泵" Name="高粘度泵" PromptU="High-viscosity pump" NameU="High-viscosity pump"/>
+    <Elem Prompt="高粘度泵(左向)" Name="高粘度泵(左向)" PromptU="High-viscosity pump (left)" NameU="High-viscosity pump (left)"/>
+    <Elem Prompt="高粘度泵(右向)" Name="高粘度泵(右向)" PromptU="High-viscosity pump (right)" NameU="High-viscosity pump (right)"/>
+    <Elem Prompt="卧式泵 1" Name="卧式泵 1" PromptU="Horizontal pump 1" NameU="Horizontal pump 1"/>
+    <Elem Prompt="卧式泵 2 (左向)" Name="卧式泵 2 (左向)" PromptU="Horizontal pump 2 (left)" NameU="Horizontal pump 2 (left)"/>
+    <Elem Prompt="卧式泵 3 (右向)" Name="卧式泵 3 (右向)" PromptU="Horizontal pump 2 (right)" NameU="Horizontal pump 2 (right)"/>
+    <Elem Prompt="卧式泵 4" Name="卧式泵 4" PromptU="Horizontal pump 3" NameU="Horizontal pump 3"/>
+    <Elem Prompt="卧式固体处理旋涡泵" Name="卧式固体处理旋涡泵" PromptU="Horizontal solids handling vortex pump" NameU="Horizontal solids handling vortex pump"/>
+    <Elem Prompt="卧式剖分式泵" Name="卧式剖分式泵" PromptU="Horizontal split case pump" NameU="Horizontal split case pump"/>
+    <Elem Prompt="隔膜泵" Name="隔膜泵" PromptU="Isolating diaphragm pump" NameU="Isolating diaphragm pump"/>
+    <Elem Prompt="大排量化工潜水泵" Name="大排量化工潜水泵" PromptU="Large volume chemical and submersible pump" NameU="Large volume chemical and submersible pump"/>
+    <Elem Prompt="磁力驱动非金属泵" Name="磁力驱动非金属泵" PromptU="Mag drive non-metallic pump" NameU="Mag drive non-metallic pump"/>
+    <Elem Prompt="磁力驱动泵 1" Name="磁力驱动泵 1" PromptU="Mag drive pump 1" NameU="Mag drive pump 1"/>
+    <Elem Prompt="磁力驱动泵 2" Name="磁力驱动泵 2" PromptU="Mag drive pump 2" NameU="Mag drive pump 2"/>
+    <Elem Prompt="油泵" Name="油泵" PromptU="Oil pump" NameU="Oil pump"/>
+    <Elem Prompt="抽油泵" Name="抽油泵" PromptU="Oil well pump" NameU="Oil well pump"/>
+    <Elem Prompt="柱塞泵" Name="柱塞泵" PromptU="Plunger pump" NameU="Plunger pump"/>
+    <Elem Prompt="容积式齿轮泵" Name="容积式齿轮泵" PromptU="Positive displacement gear pump" NameU="Positive displacement gear pump"/>
+    <Elem Prompt="耐强腐蚀泵" Name="耐强腐蚀泵" PromptU="Pump for highly-corrosive applications" NameU="Pump for highly-corrosive applications"/>
+    <Elem Prompt="泵" Name="泵" PromptU="Pump" NameU="Pump"/>
+    <Elem Prompt="泵抽式疏水器" Name="泵抽式疏水器" PromptU="Pumping trap" NameU="Pumping trap"/>
+    <Elem Prompt="回转真空泵" Name="回转真空泵" PromptU="Rotary vacuum pump" NameU="Rotary vacuum pump"/>
+    <Elem Prompt="无轴封泵" Name="无轴封泵" PromptU="sealless pump" NameU="sealless pump"/>
+    <Elem Prompt="自吸离心泵" Name="自吸离心泵" PromptU="self-priming centrifugal pump" NameU="self-priming centrifugal pump"/>
+    <Elem Prompt="排污泵" Name="排污泵" PromptU="sewage pump" NameU="sewage pump"/>
+    <Elem Prompt="简单泵" Name="简单泵" PromptU="Simple pump" NameU="Simple pump"/>
+    <Elem Prompt="简单立式泵" Name="简单立式泵" PromptU="Simple vertical pump" NameU="Simple vertical pump"/>
+    <Elem Prompt="固体处理自吸泵" Name="固体处理自吸泵" PromptU="Solids-handling self-priming pump" NameU="Solids-handling self-priming pump"/>
+    <Elem Prompt="SRH乳化泵" Name="SRH乳化泵" PromptU="SRH pump" NameU="SRH pump"/>
+    <Elem Prompt="标准法兰容积泵" Name="标准法兰容积泵" PromptU="Standard-flange positive displacement pump" NameU="Standard-flange positive displacement pump"/>
+    <Elem Prompt="潜水液下泵" Name="潜水液下泵" PromptU="Submersible sump pump" NameU="Submersible sump pump"/>
+    <Elem Prompt="污水泵" Name="污水泵" PromptU="Sump pump" NameU="Sump pump"/>
+    <Elem Prompt="螺纹泵" Name="螺纹泵" PromptU="Threaded gear" NameU="Threaded gear"/>
+    <Elem Prompt="真空泵" Name="真空泵" PromptU="Vacuum pump" NameU="Vacuum pump"/>
+    <Elem Prompt="立式泵(向下)" Name="立式泵(向下)" PromptU="Vertical pump (down)" NameU="Vertical pump (down)"/>
+    <Elem Prompt="立式泵(向上)" Name="立式泵(向上)" PromptU="Vertical pump (up)" NameU="Vertical pump (up)"/>
+    <Elem Prompt="立式泵" Name="立式泵" PromptU="Vertical pump" NameU="Vertical pump"/>
+    <Elem Prompt="白色泵" Name="白色泵" PromptU="White pump" NameU="White pump"/>
+    <Elem Prompt="黄色泵" Name="黄色泵" PromptU="Yellow pump" NameU="Yellow pump"/>
+    <Elem Prompt="冷凝泵" Name="冷凝泵" PromptU="Condensate pump" NameU="Condensate pump"/>
+    <Elem Prompt="CIP泵" Name="CIP泵" PromptU="CIP Pump" NameU="CIP Pump"/>
+    <Elem Prompt="原水泵" Name="原水泵" PromptU="Raw Water Pump" NameU="Raw Water Pump"/>
+    <Elem Prompt="活塞泵" Name="活塞泵" PromptU="Plunger Pump" NameU="Plunger Pump"/>
+    <Elem Prompt="泵" Name="泵" PromptU="Pump" NameU="Pump"/>
+    <Elem Prompt="泵" Name="泵" PromptU="Pump" NameU="Pump"/>
+    <Elem Prompt="低区生活热水泵" Name="低区生活热水泵" PromptU="Hot Living Water Pump for Low Area" NameU="Hot Living Water Pump for Low Area"/>
+    <Elem Prompt="高区生活热水泵" Name="高区生活热水泵" PromptU="Hot Living Water Pump for High Area" NameU="Hot Living Water Pump for High Area"/>
+    <Elem Prompt="冷冻泵" Name="冷冻泵" PromptU="Freezing Pump" NameU="Freezing Pump"/>
+    <Elem Prompt="泵" Name="泵" PromptU="Pump" NameU="Pump"/>
+    <Elem Prompt="冷却泵" Name="冷却泵" PromptU="Cooling Pump" NameU="Cooling Pump"/>
+    <Elem Prompt="冷冻泵" Name="冷冻泵" PromptU="Freezing Pump" NameU="Freezing Pump"/>
+    <Elem Prompt="泵" Name="泵" PromptU="Pump" NameU="Pump"/>
+    <Elem Prompt="泵" Name="泵" PromptU="Pump" NameU="Pump"/>
+    <Elem Prompt="泵" Name="泵" PromptU="Pump" NameU="Pump"/>
+</Lib>

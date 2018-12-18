@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Ball and Stick Model">
+    <Elem Prompt="C60" Name="C60" PromptU="C60" NameU="C60"/>
+    <Elem Prompt="金刚石的球棍模型" Name="金刚石" PromptU="Diamond" NameU="Diamond"/>
+    <Elem Prompt="氯化钠的球棍模型" Name="氯化钠" PromptU="Sodium Chloride" NameU="Sodium Chloride"/>
+    <Elem Prompt="石墨的球棍模型" Name="石墨" PromptU="Plumbago" NameU="Plumbago"/>
+    <Elem Prompt="CH4 球棍模型" Name="CH4" PromptU="CH4 ball and stick model" NameU="CH4"/>
+    <Elem Prompt="C2H6 的球棍模型" Name="C2H6" PromptU="C2H6 ball and stick model" NameU="C2H6"/>
+    <Elem Prompt="C2H4 的球棍模型" Name="C2H4" PromptU="C2H4 ball and stick model" NameU="C2H4"/>
+    <Elem Prompt="C2H2 的球棍模型" Name="C2H2" PromptU="C2H2 ball and stick model" NameU="C2H2"/>
+    <Elem Prompt="C6H6 的球棍模型" Name="C6H6" PromptU="C6H6 ball and stick model" NameU="C6H6"/>
+    <Elem Prompt="C2H5Br 的球棍模型" Name="C2H5Br" PromptU="C2H5Br ball and stick model" NameU="C2H5Br"/>
+    <Elem Prompt="C2H5OH 的球棍模型" Name="C2H5OH" PromptU="C2H5OH ball and stick model" NameU="C2H5OH"/>
+    <Elem Prompt="C4H10O 的球棍模型" Name="C4H10O" PromptU="C4H10O ball and stick model" NameU="C4H10O"/>
+    <Elem Prompt="C6H6O 的球棍模型" Name="C6H6O" PromptU="C6H6O ball and stick model" NameU="C6H6O"/>
+    <Elem Prompt="C2H4O2 的球棍模型" Name="C2H4O2" PromptU="C2H4O2 ball and stick model" NameU="C2H4O2"/>
+    <Elem Prompt="C2H4O 的球棍模型" Name="C2H4O" PromptU="C2H4O ball and stick model" NameU="C2H4O"/>
+    <Elem Prompt="C3H6O 的球棍模型" Name="C3H6O" PromptU="C3H6O ball and stick model" NameU="C3H6O"/>
+    <Elem Prompt="H20 的球棍模型" Name="H20" PromptU="H20 ball and stick model" NameU="H20"/>
+    <Elem Prompt="NH3 的球棍模型" Name="NH3" PromptU="NH3 ball and stick model" NameU="NH3"/>
+    <Elem Prompt="磷的球棍模型" Name="磷" PromptU="Phosphorus" NameU="Phosphorus"/>
+    <Elem Prompt="氮的球棍模型" Name="氮" PromptU="Nitrogen ball and stick model" NameU="Nitrogen"/>
+    <Elem Prompt="SO3球棍模型" Name="SO3" PromptU="SO3 ball and stick model" NameU="SO3"/>
+    <Elem Prompt="CO2球棍模型" Name="CO2" PromptU="CO2 ball and stick model" NameU="CO2"/>
+    <Elem Prompt="链" Name="链" PromptU="Chain" NameU="Chain"/>
+</Lib>

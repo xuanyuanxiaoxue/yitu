@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Equipment - Motors">
+    <Elem Prompt="马达" Name="马达" PromptU="Motor" NameU="Motor"/>
+    <Elem Prompt="步进发动机" Name="步进发动机" PromptU="Step motor" NameU="Step motor"/>
+    <Elem Prompt="直流电动机" Name="直流电动机" PromptU="DC motor" NameU="DC motor"/>
+    <Elem Prompt="交流电动机" Name="交流电动机" PromptU="AC motor" NameU="AC motor"/>
+    <Elem Prompt="电动发电机" Name="电动发电机" PromptU="Motor generator" NameU="Motor generator"/>
+    <Elem Prompt="传动装置" Name="传动装置" PromptU="Gear" NameU="Gear"/>
+    <Elem Prompt="发电机" Name="发电机" PromptU="Generator" NameU="Generator"/>
+    <Elem Prompt="交流发电机" Name="交流发电机" PromptU="AC generator" NameU="AC generator"/>
+    <Elem Prompt="直流发电机" Name="直流发电机" PromptU="DC generator" NameU="DC generator"/>
+    <Elem Prompt="电动阀" Name="电动阀" PromptU="Motor-operated valve" NameU="Motor-operated valve"/>
+    <Elem Prompt="电动涡轮" Name="电动涡轮" PromptU="Motor driven turbine" NameU="Motor driven turbine"/>
+    <Elem Prompt="马达" Name="马达" PromptU="Motor" NameU="Motor"/>
+    <Elem Prompt="柴油发动机" Name="柴油发动机" PromptU="Diesel motor" NameU="Diesel motor"/>
+    <Elem Prompt="电动机" Name="电动机" PromptU="Electric motor" NameU="Electric motor"/>
+    <Elem Prompt="涡轮" Name="涡轮" PromptU="Turbine" NameU="Turbine"/>
+</Lib>

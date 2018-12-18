@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Logistics">
+    <Elem Prompt="棚车" Name="棚车" PromptU="Boxcar" NameU="Boxcar"/>
+    <Elem Prompt="货柜车(单箱)" Name="货柜车(单箱)" PromptU="Container car (single)" NameU="Container car (single)"/>
+    <Elem Prompt="货柜车 (堆叠)" Name="货柜车 (堆叠)" PromptU="Container car (stacked)" NameU="Container car (stacked)"/>
+    <Elem Prompt="龙门起重机" Name="龙门起重机" PromptU="Gantry crane" NameU="Gantry crane"/>
+    <Elem Prompt="漏斗车" Name="漏斗车" PromptU="Hopper car" NameU="Hopper car"/>
+    <Elem Prompt="带煤漏斗车" Name="带煤漏斗车" PromptU="Hopper car with coal" NameU="Hopper car with coal"/>
+    <Elem Prompt="带煤漏斗车" Name="带煤漏斗车" PromptU="Hopper car with coal" NameU="Hopper car with coal"/>
+    <Elem Prompt="带木屑漏斗车" Name="带木屑漏斗车" PromptU="Hopper car with wood chips" NameU="Hopper car with wood chips"/>
+    <Elem Prompt="火车头" Name="火车头" PromptU="Locomotive" NameU="Locomotive"/>
+    <Elem Prompt="起重机 1" Name="起重机 1" PromptU="Port crane (extended)1" NameU="Port crane (extended)1"/>
+    <Elem Prompt="起重机 2" Name="起重机 2" PromptU="Port crane (extended)2" NameU="Port crane (extended)2"/>
+    <Elem Prompt="标准20英尺集装箱" Name="标准20英尺集装箱" PromptU="Standard 20-foot container" NameU="Standard 20-foot container"/>
+    <Elem Prompt="标准40英尺集装箱" Name="标准40英尺集装箱" PromptU="Standard 40-foot container" NameU="Standard 40-foot container"/>
+    <Elem Prompt="罐式集装箱" Name="罐式集装箱" PromptU="Tank container" NameU="Tank container"/>
+    <Elem Prompt="油罐" Name="油罐" PromptU="Tanker" NameU="Tanker"/>
+    <Elem Prompt="18轮卡车" Name="18轮卡车" PromptU="18-wheeler truck" NameU="18-wheeler truck"/>
+    <Elem Prompt="飞机" Name="飞机" PromptU="Airplane" NameU="Airplane"/>
+    <Elem Prompt="飞机侧面" Name="飞机侧面" PromptU="Airplane right" NameU="Airplane right"/>
+    <Elem Prompt="自行车" Name="自行车" PromptU="Bicycle" NameU="Bicycle"/>
+    <Elem Prompt="小汽车" Name="小汽车" PromptU="Car" NameU="Car"/>
+    <Elem Prompt="小汽车" Name="小汽车" PromptU="Car" NameU="Car"/>
+    <Elem Prompt="混凝土搅拌输送车" Name="混凝土搅拌输送车" PromptU="Concrete mixing truck" NameU="Concrete mixing truck"/>
+    <Elem Prompt="挖土机 1" Name="挖土机 1" PromptU="Digging machine 1" NameU="Digging machine 1"/>
+    <Elem Prompt="挖土机 2" Name="挖土机 2" PromptU="Digging machine 2" NameU="Digging machine 2"/>
+    <Elem Prompt="挖掘机" Name="挖掘机" PromptU="Excavator" NameU="Excavator"/>
+    <Elem Prompt="自动倾卸车" Name="自动倾卸车" PromptU="Dumpcart" NameU="Dumpcart"/>
+    <Elem Prompt="自卸卡车(未卸)" Name="自卸卡车(未卸)" PromptU="Dump truck (lowered)" NameU="Dump truck (lowered)"/>
+    <Elem Prompt="自卸卡车(倾卸)" Name="自卸卡车(倾卸)" PromptU="Dump truck (raised)" NameU="Dump truck (raised)"/>
+    <Elem Prompt="油船" Name="油船" PromptU="Oiler" NameU="Oiler"/>
+    <Elem Prompt="送料机" Name="送料机" PromptU="Feeder" NameU="Feeder"/>
+    <Elem Prompt="送料机" Name="送料机" PromptU="Feeder" NameU="Feeder"/>
+    <Elem Prompt="火车车厢" Name="火车车厢" PromptU="Railway carriage" NameU="Railway carriage"/>
+    <Elem Prompt="油罐车 1" Name="油罐车 1" PromptU="Tank car 1" NameU="Tank car 1"/>
+    <Elem Prompt="油罐车 2" Name="油罐车 2" PromptU="Tank car 2" NameU="Tank car 2"/>
+    <Elem Prompt="卡车 2" Name="卡车 1" PromptU="Truck" NameU="Truck"/>
+    <Elem Prompt="卡车 2" Name="卡车 1" PromptU="Truck" NameU="Truck"/>
+    <Elem Prompt="高压罐车" Name="高压罐车" PromptU="Differential pressure car" NameU="Differential pressure car"/>
+    <Elem Prompt="煤" Name="煤" PromptU="Coal" NameU="Coal"/>
+    <Elem Prompt="沙土" Name="沙土" PromptU="Sandpile" NameU="Sandpile"/>
+    <Elem Prompt="土堆" Name="土堆" PromptU="Mound" NameU="Mound"/>
+    <Elem Prompt="石堆" Name="石堆" PromptU="Rock mound" NameU="Rock mound"/>
+    <Elem Prompt="预清机" Name="预清机" PromptU="Precleaner" NameU="Precleaner"/>
+    <Elem Prompt="筛分机" Name="筛分机" PromptU="Filtrate machine" NameU="Filtrate machine"/>
+    <Elem Prompt="振动筛" Name="振动筛" PromptU="Vibrating screen" NameU="Vibrating screen"/>
+    <Elem Prompt="综合分类系统" Name="综合分类系统" PromptU="Comprehensive Sorting System" NameU="Comprehensive Sorting System"/>
+    <Elem Prompt="货物" Name="货物" PromptU="Fresh yeast" NameU="Fresh yeast"/>
+    <Elem Prompt="升降机" Name="升降机" PromptU="Lifter" NameU="Lifter"/>
+    <Elem Prompt="升降机" Name="升降机" PromptU="Lifter" NameU="Lifter"/>
+    <Elem Prompt="升降机" Name="升降机" PromptU="Lifter" NameU="Lifter"/>
+    <Elem Prompt="传送带" Name="传送带" PromptU="Conveyor" NameU="Conveyor"/>
+    <Elem Prompt="传送带" Name="传送带" PromptU="Conveyor" NameU="Conveyor"/>
+    <Elem Prompt="传送带" Name="传送带" PromptU="Conveyor" NameU="Conveyor"/>
+    <Elem Prompt="送料机" Name="送料机" PromptU="Feeder" NameU="Feeder"/>
+    <Elem Prompt="传送带 &amp; 计量称" Name="传送带 &amp; 计量称" PromptU="Belt conveyor &amp; JiLiangCheng" NameU="Belt conveyor &amp; JiLiangCheng"/>
+    <Elem Prompt="带粮食的传送带" Name="带粮食的传送带" PromptU="Belt conveyor &amp; unloading grain pits" NameU="Belt conveyor &amp; unloading grain pits"/>
+    <Elem Prompt="平台秤" Name="平台秤" PromptU="Platform weighting" NameU="Platform weighting"/>
+    <Elem Prompt="移动散料秤" Name="移动散料秤" PromptU="Mobile bulk scale" NameU="Mobile bulk scale"/>
+    <Elem Prompt="包装秤" Name="包装秤" PromptU="Packing scale" NameU="Packing scale"/>
+    <Elem Prompt="LCS-MT" Name="LCS-MT" PromptU="LCS-MT" NameU="LCS-MT"/>
+    <Elem Prompt="带漏斗称重传感器" Name="带漏斗称重传感器" PromptU="Scale hopper of the weighing sensor" NameU="Scale hopper of the weighing sensor"/>
+    <Elem Prompt="材料" Name="材料" PromptU="Material" NameU="Material"/>
+    <Elem Prompt="集装箱" Name="集装箱" PromptU="Bulk Container" NameU="Bulk Container"/>
+    <Elem Prompt="袋装" Name="袋装" PromptU="A pouch pack" NameU="A pouch pack"/>
+    <Elem Prompt="LCA-MT" Name="LCA-MT" PromptU="LCA-MT" NameU="LCA-MT"/>
+    <Elem Prompt="膜组件" Name="膜组件" PromptU="Membrane module " NameU="Membrane module "/>
+    <Elem Prompt="港口中心存储" Name="港口中心存储" PromptU="Port entrepot storage" NameU="Port entrepot storage"/>
+</Lib>

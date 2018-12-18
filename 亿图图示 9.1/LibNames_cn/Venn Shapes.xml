@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Venn Shapes">
+    <Elem Prompt="二圆维恩图" Name="二圆维恩图" PromptU="Venn-2 circles" NameU="Venn-2 circles"/>
+    <Elem Prompt="三圆维恩图" Name="三圆维恩图" PromptU="Venn-3 circles" NameU="Venn-3 circles"/>
+    <Elem Prompt="三圆维恩图" Name="三圆维恩图 2" PromptU="Venn-3 circles" NameU="Venn-3 circles 2"/>
+    <Elem Prompt="动态二圆维恩图" Name="动态二圆维恩图" PromptU="Dynamic Venn-2" NameU="Dynamic Venn-2"/>
+    <Elem Prompt="动态维恩图" Name="动态维恩图" PromptU="Dynamic Venn" NameU="Dynamic Venn"/>
+    <Elem Prompt="多层式维恩图" Name="多层式维恩图" PromptU="Venn multi-layers" NameU="Venn multi-layers"/>
+    <Elem Prompt="多层式维恩图" Name="多层式维恩图 2" PromptU="Venn multi-layers" NameU="Venn multi-layers 2"/>
+    <Elem Prompt="圆柱多层式维恩图" Name="圆柱多层式维恩图" PromptU="Cylinder Venn" NameU="Cylinder Venn"/>
+    <Elem Prompt="圆柱多层式维恩图" Name="圆柱多层式维恩图 2" PromptU="Cylinder Venn" NameU="Cylinder Venn 2"/>
+    <Elem Prompt="自定义维恩图" Name="自定义维恩图" PromptU="Custom venn" NameU="Custom venn"/>
+</Lib>

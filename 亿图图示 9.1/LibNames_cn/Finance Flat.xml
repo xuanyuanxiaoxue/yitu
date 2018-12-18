@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Finance Flat">
+    <Elem NameU="Diamond" Name="钻石" PromptU="Diamond" Prompt="钻石"/>
+    <Elem NameU="Gold Coin" Name="金币" PromptU="Gold Coin" Prompt="金币"/>
+    <Elem NameU="Savings" Name="存款" PromptU="Savings" Prompt="存款"/>
+    <Elem NameU="Gold Bars" Name="金条" PromptU="Gold Bars" Prompt="金条"/>
+    <Elem NameU="Gold ingot" Name="元宝" PromptU="Gold ingot" Prompt="元宝"/>
+    <Elem NameU="Golden Eggs" Name="金蛋" PromptU="Golden Eggs" Prompt="金蛋"/>
+    <Elem NameU="Coin" Name="硬币" PromptU="Coin" Prompt="硬币"/>
+    <Elem NameU="Accounting" Name="会计" PromptU="Accounting" Prompt="会计"/>
+    <Elem NameU="Cash" Name="现金" PromptU="Cash" Prompt="现金"/>
+    <Elem NameU="Cash Payment" Name="现金支付" PromptU="Cash Payment" Prompt="现金支付"/>
+    <Elem NameU="Mail Payment" Name="邮汇支付" PromptU="Mail Payment" Prompt="邮汇支付"/>
+    <Elem NameU="Bank Card" Name="银行卡" PromptU="Bank Card" Prompt="银行卡"/>
+    <Elem NameU="Wallet" Name="钱包" PromptU="Wallet" Prompt="钱包"/>
+    <Elem NameU="Money Bag" Name="钱袋" PromptU="Money Bag" Prompt="钱袋"/>
+    <Elem NameU="Cash Box" Name="现金箱" PromptU="Cash Box" Prompt="现金箱"/>
+    <Elem NameU="Dollar Exchange" Name="美元汇兑" PromptU="Dollar Exchange" Prompt="美元汇兑"/>
+    <Elem NameU="Return on Investment" Name="投资回报率" PromptU="Return on Investment" Prompt="投资回报率"/>
+    <Elem NameU="Roulette" Name="轮盘赌" PromptU="Roulette" Prompt="轮盘赌"/>
+    <Elem NameU="Dollar" Name="美元" PromptU="Dollar" Prompt="美元"/>
+    <Elem NameU="RMB" Name="人民币" PromptU="RMB" Prompt="人民币"/>
+    <Elem NameU="Target" Name="目标" PromptU="Target" Prompt="目标"/>
+    <Elem NameU="Bank" Name="银行" PromptU="Bank" Prompt="银行"/>
+    <Elem NameU="Law Hammer" Name="法槌" PromptU="Law Hammer" Prompt="法槌"/>
+    <Elem NameU="Scales of Justice" Name="正义天平" PromptU="Scales of Justice" Prompt="正义天平"/>
+    <Elem NameU="Analysis" Name="分析" PromptU="Analysis" Prompt="分析"/>
+    <Elem NameU="Dollar Security" Name="美元安全" PromptU="Dollar Security" Prompt="美元安全"/>
+    <Elem NameU="Online Payment" Name="在线支付" PromptU="Online Payment" Prompt="在线支付"/>
+    <Elem NameU="Reports" Name="报告" PromptU="Reports" Prompt="报告"/>
+    <Elem NameU="Loss" Name="亏损" PromptU="Loss" Prompt="亏损"/>
+    <Elem NameU="Profit" Name="利润" PromptU="Profit" Prompt="利润"/>
+    <Elem NameU="Pie Chart" Name="饼图" PromptU="Pie Chart" Prompt="饼图"/>
+    <Elem NameU="Exchange" Name="汇兑" PromptU="Exchange" Prompt="汇兑"/>
+    <Elem NameU="Loan" Name="贷款" PromptU="Loan" Prompt="贷款"/>
+    <Elem NameU="Investment" Name="投资" PromptU="Investment" Prompt="投资"/>
+    <Elem NameU="Mobile Payment" Name="移动支付" PromptU="Mobile Payment" Prompt="移动支付"/>
+    <Elem NameU="Security" Name="担保" PromptU="Security" Prompt="担保"/>
+    <Elem NameU="Safe" Name="保险箱" PromptU="Safe" Prompt="保险箱"/>
+    <Elem NameU="Hourglass" Name="沙漏" PromptU="Hourglass" Prompt="沙漏"/>
+    <Elem NameU="Choice" Name="选择" PromptU="Choice" Prompt="选择"/>
+    <Elem NameU="Antique" Name="文物" PromptU="Antique" Prompt="文物"/>
+</Lib>

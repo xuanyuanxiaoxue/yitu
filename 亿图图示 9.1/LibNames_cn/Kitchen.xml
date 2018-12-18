@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Kitchen and Dining Room">
+    <Elem Prompt="橱柜" Name="橱柜" PromptU="Closet" NameU="Closet"/>
+    <Elem Prompt="橱柜 2" Name="橱柜 2" PromptU="Closet 2" NameU="Closet 2"/>
+    <Elem Prompt="橱柜 3" Name="橱柜 3" PromptU="Closet 3" NameU="Closet 3"/>
+    <Elem Prompt="橱柜 4" Name="橱柜 4" PromptU="Closet 4" NameU="Closet 4"/>
+    <Elem Prompt="燃气灶" Name="燃气灶" PromptU="Gas stoves" NameU="Gas stoves"/>
+    <Elem Prompt="燃气灶 2" Name="燃气灶 2" PromptU="Gas stoves 2" NameU="Gas stoves 2"/>
+    <Elem Prompt="燃气灶 3" Name="燃气灶 3" PromptU="Gas stoves 3" NameU="Gas stoves 3"/>
+    <Elem Prompt="燃气灶 4" Name="燃气灶 4" PromptU="Gas stoves 4" NameU="Gas stoves 4"/>
+    <Elem Prompt="燃气灶 5" Name="燃气灶 5" PromptU="Gas stoves 5" NameU="Gas stoves 5"/>
+    <Elem Prompt="燃气灶 6" Name="燃气灶 6" PromptU="Gas stoves 6" NameU="Gas stoves 6"/>
+    <Elem Prompt="带烤架的煤气灶" Name="带烤架的煤气灶" PromptU="Range with grill" NameU="Range with grill"/>
+    <Elem Prompt="四炉煤气灶" Name="四炉煤气灶" PromptU="Four-element gas range" NameU="Four-element gas range"/>
+    <Elem Prompt="六炉煤气灶" Name="六炉煤气灶" PromptU="Six-element gas range" NameU="Six-element gas range"/>
+    <Elem Prompt="煤气灶" Name="煤气灶" PromptU="Gas range" NameU="Gas range"/>
+    <Elem Prompt="煤气灶" Name="煤气灶" PromptU="Gas range" NameU="Gas range"/>
+    <Elem Prompt="有低烤箱的炉灶" Name="有低烤箱的炉灶" PromptU="Cooker with low oven" NameU="Cooker with low oven"/>
+    <Elem Prompt="炉子" Name="炉子" PromptU="Cooker" NameU="Cooker"/>
+    <Elem Prompt="炉灶" Name="炉灶" PromptU="Range" NameU="Range"/>
+    <Elem Prompt="电炉" Name="电炉" PromptU="Flat electic range" NameU="Flat electic range"/>
+    <Elem Prompt="滑动电炉" Name="滑动电炉" PromptU="Slide-in electric range" NameU="Slide-in electric range"/>
+    <Elem Prompt="壁炉" Name="壁炉" PromptU="Wall oven" NameU="Wall oven"/>
+    <Elem Prompt="微波炉" Name="微波炉" PromptU="Microwave" NameU="Microwave"/>
+    <Elem Prompt="洗碗机" Name="洗碗机" PromptU="Dishwasher" NameU="Dishwasher"/>
+    <Elem Prompt="洗衣机" Name="洗衣机" PromptU="Washing machine" NameU="Washing machine"/>
+    <Elem Prompt="垃圾压缩机" Name="垃圾有压缩机" PromptU="Trash compactor" NameU="Trash compactor"/>
+    <Elem Prompt="食物冷却器" Name="食物冷却器" PromptU="Food cooler" NameU="Food cooler"/>
+    <Elem Prompt="水槽 1" Name="水槽 1" PromptU="Sink 1" NameU="Sink 1"/>
+    <Elem Prompt="榨汁机" Name="榨汁机" PromptU="Juicer" NameU="Juicer"/>
+    <Elem Prompt="面包机 1" Name="面包机 1" PromptU="Bread machine 1" NameU="Bread machine 1"/>
+    <Elem Prompt="面包机 2" Name="面包机 2" PromptU="Bread machine 2" NameU="Bread machine 2"/>
+    <Elem Prompt="售货机" Name="售货机" PromptU="Vending machine" NameU="Vending machine"/>
+    <Elem Prompt="水槽 2" Name="水槽 2" PromptU="Sink 2" NameU="Sink 2"/>
+    <Elem Prompt="水槽 3" Name="水槽 3" PromptU="Sink 3" NameU="Sink 3"/>
+    <Elem Prompt="水槽 4" Name="水槽 4" PromptU="Sink 4" NameU="Sink 4"/>
+    <Elem Prompt="水槽 5" Name="水槽 5" PromptU="Sink 5" NameU="Sink 5"/>
+    <Elem Prompt="水槽 6" Name="水槽 6" PromptU="Sink 6" NameU="Sink 6"/>
+    <Elem Prompt="水槽 7" Name="水槽 7" PromptU="Sink 7" NameU="Sink 7"/>
+    <Elem Prompt="水池" Name="水池" PromptU="Basin" NameU="Basin"/>
+    <Elem Prompt="双水池" Name="双水池" PromptU="Double basin" NameU="Double basin"/>
+    <Elem Prompt="支柱水槽" Name="支柱水槽" PromptU="Pedestal sink" NameU="Pedestal sink"/>
+    <Elem Prompt="台面水槽" Name="台面水槽" PromptU="Countertop sink" NameU="Countertop sink"/>
+    <Elem Prompt="饮水机" Name="饮水机" PromptU="Dispenser" NameU="Dispenser"/>
+    <Elem Prompt="毛巾架" Name="毛巾架" PromptU="Towel rack" NameU="Towel rack"/>
+    <Elem Prompt="圆形餐桌" Name="圆形餐桌" PromptU="Circular dining table" NameU="Circular dining table"/>
+    <Elem Prompt="圆桌" Name="圆桌" PromptU="Circular table" NameU="Circular table"/>
+    <Elem Prompt="餐桌" Name="餐桌" PromptU="Dining table" NameU="Dining table"/>
+    <Elem Prompt="长方形餐桌" Name="长方形餐桌" PromptU="Oblong dining table" NameU="Oblong dining table"/>
+    <Elem Prompt="椭圆餐桌" Name="椭圆餐桌" PromptU="Oval dining table" NameU="Oval dining table"/>
+    <Elem Prompt="方桌" Name="方桌" PromptU="Square table" NameU="Square table"/>
+    <Elem Prompt="冰箱" Name="冰箱" PromptU="Ref" NameU="Ref"/>
+    <Elem Prompt="冰箱 2" Name="冰箱 2" PromptU="Ref 2" NameU="Ref 2"/>
+    <Elem Prompt="橱柜" Name="橱柜" PromptU="Cabinet" NameU="Cabinet"/>
+    <Elem Prompt="橱柜 2" Name="橱柜 2" PromptU="Cabinet 2" NameU="Cabinet 2"/>
+    <Elem Prompt="橱柜 3" Name="橱柜 3" PromptU="Cabinet 3" NameU="Cabinet 3"/>
+    <Elem Prompt="电烤箱" Name="电烤箱" PromptU="Toaster" NameU="Toaster"/>
+    <Elem Prompt="电烤箱 2" Name="电烤箱 2" PromptU="Toaster 2" NameU="Toaster 2"/>
+    <Elem Prompt="烤箱" Name="烤箱" PromptU="Oven" NameU="Oven"/>
+    <Elem Prompt="电烧烤炉" Name="电烧烤炉" PromptU="Electric barbecue" NameU="Electric barbecue"/>
+    <Elem Prompt="平底锅" Name="平底锅" PromptU="Saucepan" NameU="Saucepan"/>
+    <Elem Prompt="平底锅 2" Name="平底锅 2" PromptU="Saucepan 2" NameU="Saucepan 2"/>
+    <Elem Prompt="慢炖锅" Name="慢炖锅" PromptU="Slow cooker" NameU="Slow cooker"/>
+    <Elem Prompt="慢炖锅 2" Name="慢炖锅 2" PromptU="Slow cooker 2" NameU="Slow cooker 2"/>
+    <Elem Prompt="电磁炉" Name="电磁炉" PromptU="Induction cooker" NameU="Induction cooker"/>
+    <Elem Prompt="锅" Name="锅" PromptU="Pan" NameU="Pan"/>
+    <Elem Prompt="盘" Name="盘" PromptU="Dish" NameU="Dish"/>
+    <Elem Prompt="盘 2" Name="盘 2" PromptU="Dish 2" NameU="Dish 2"/>
+    <Elem Prompt="果盘" Name="果盘" PromptU="Fruit plate" NameU="Fruit plate"/>
+    <Elem Prompt="果盘 2" Name="果盘 2" PromptU="Fruit plate 2" NameU="Fruit plate 2"/>
+    <Elem Prompt="案板" Name="案板" PromptU="Chopping board" NameU="Chopping board"/>
+    <Elem Prompt="油烟机" Name="油烟机" PromptU="Smoke machine" NameU="Smoke machine"/>
+    <Elem Prompt="消毒柜" Name="消毒柜" PromptU="Disinfection cabinet" NameU="Disinfection cabinet"/>
+    <Elem Prompt="冰柜" Name="冰柜" PromptU="Refrigerator" NameU="Refrigerator"/>
+    <Elem Prompt="冰柜 2" Name="冰柜 2" PromptU="Refrigerator 2" NameU="Refrigerator 2"/>
+    <Elem Prompt="烟道" Name="烟道" PromptU="Flue" NameU="Flue"/>
+    <Elem Prompt="摆放" Name="摆放" PromptU="Placement" NameU="Placement"/>
+    <Elem Prompt="冷却柜" Name="冷却柜" PromptU="Chest freezer" NameU="Chest freezer"/>
+    <Elem Prompt="内置冰箱" Name="内置冰箱" PromptU="Built-in refrigerator" NameU="Built-in refrigerator"/>
+    <Elem Prompt="水冷却器" Name="水冷却器" PromptU="Water cooler" NameU="Water cooler"/>
+    <Elem Prompt="咖啡机" Name="咖啡机" PromptU="Coffee maker" NameU="Coffee maker"/>
+    <Elem Prompt="热水器" Name="热水器" PromptU="Water heater" NameU="Water heater"/>
+</Lib>

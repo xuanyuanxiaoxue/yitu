@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Cisco Wireless Icons">
+    <Elem PromptU="Air-AP Front" NameU="Air-AP Front" Prompt="Air-AP正面" Name="Air-AP正面"/>
+    <Elem PromptU="Air-AP Front" NameU="Air-AP Front" Prompt="Air-AP正面" Name="Air-AP正面"/>
+    <Elem PromptU="Air-AP Rear" NameU="Air-AP Rear" Prompt="Air-AP背面" Name="Air-AP背面"/>
+    <Elem PromptU="Air-AP Side" NameU="Air-AP Side" Prompt="Air-AP侧面" Name="Air-AP侧面"/>
+    <Elem PromptU="Air-AP Rear" NameU="Air-AP Rear" Prompt="Air-AP背面" Name="Air-AP背面"/>
+    <Elem PromptU="Air-AP Side" NameU="Air-AP Side" Prompt="Air-AP侧面" Name="Air-AP侧面"/>
+    <Elem PromptU="AP Rear" NameU="AP Rear" Prompt="AP背面" Name="AP背面"/>
+    <Elem PromptU="AP Rear" NameU="AP Rear" Prompt="AP背面" Name="AP背面"/>
+    <Elem PromptU="Air-AP Rear" NameU="Air-AP Rear" Prompt="Air-AP背面" Name="Air-AP背面"/>
+</Lib>

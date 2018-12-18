@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Mixers">
+    <Elem Prompt="工业标准搅拌器" Name="工业标准搅拌器" PromptU="ISA Agitator" NameU="ISA Agitator"/>
+    <Elem Prompt="搅拌器" Name="搅拌器" PromptU="3-D Mixer" NameU="3-D Mixer"/>
+    <Elem Prompt="凝结水集水箱" Name="凝结水集水箱" PromptU="Condensate collection tank" NameU="Condensate collection tank"/>
+    <Elem Prompt="叶轮" Name="叶轮" PromptU="Impeller" NameU="Impeller"/>
+    <Elem Prompt="工业标准搅拌器" Name="工业标准搅拌器" PromptU="ISA Agitator" NameU="ISA Agitator"/>
+    <Elem Prompt="工业标准搅拌器 3" Name="工业标准搅拌器 3" PromptU="ISA Inline mixer" NameU="ISA Inline mixer"/>
+    <Elem Prompt="搅拌器 2" Name="搅拌器 2" PromptU="Mixer 1" NameU="Mixer 1"/>
+    <Elem Prompt="搅拌器 3" Name="搅拌器 3" PromptU="Mixer 2" NameU="Mixer 2"/>
+    <Elem Prompt="磁力搅拌器" Name="磁力搅拌器" PromptU="Magnetic mixer" NameU="Magnetic mixer"/>
+    <Elem Prompt="叶片式搅拌器" Name="叶片式搅拌器" PromptU="Mixer blade" NameU="Mixer blade"/>
+    <Elem Prompt="气动搅拌机" Name="气动搅拌机" PromptU="Pneumatic mixer" NameU="Pneumatic mixer"/>
+    <Elem Prompt="气动搅拌机" Name="气动搅拌机" PromptU="Pneumatic mixer" NameU="Pneumatic mixer"/>
+    <Elem Prompt="便携搅拌器" Name="便携搅拌器" PromptU="Portable mixer" NameU="Portable mixer"/>
+    <Elem Prompt="螺旋式搅拌器" Name="螺旋式搅拌器" PromptU="Screw-type mixer" NameU="Screw-type mixer"/>
+    <Elem Prompt="搅拌器 4" Name="搅拌器 4" PromptU="Simple mixer" NameU="Simple mixer"/>
+    <Elem Prompt="潜水式搅拌器" Name="潜水式搅拌器" PromptU="Submersible mixer" NameU="Submersible mixer"/>
+    <Elem Prompt="带搅拌器的水槽" Name="带搅拌器的水槽" PromptU="Tank with agitator" NameU="Tank with agitator"/>
+    <Elem Prompt="汽轮式搅拌器" Name="汽轮式搅拌器" PromptU="Turbine agitator" NameU="Turbine agitator"/>
+    <Elem Prompt="搅拌器 5" Name="搅拌器 4" PromptU="Mixer" NameU="Mixer"/>
+    <Elem Prompt="搅拌器 5" Name="搅拌器 4" PromptU="Mixer" NameU="Mixer"/>
+    <Elem Prompt="搅拌器 6" Name="搅拌器 6" PromptU="Slurrification" NameU="Slurrification"/>
+</Lib>

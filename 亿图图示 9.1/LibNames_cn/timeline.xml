@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Timeline">
+    <Elem Prompt="时间轴" Name="时间轴" PromptU="Time Bar" NameU="Time Bar"/>
+    <Elem Prompt="时间轴" Name="时间轴 2" PromptU="Timeline Bar 2" NameU="Timeline Bar 2"/>
+    <Elem Prompt="时间轴" Name="时间轴 3" PromptU="Timeline Bar 3" NameU="Timeline Bar 3"/>
+    <Elem Prompt="分割条时间轴" Name="分割条时间轴" PromptU="Divided Time Bar" NameU="Divided Time Bar"/>
+    <Elem Prompt="圆柱时间轴" Name="圆柱时间轴" PromptU="Cylindrical Timeline" NameU="Cylindrical Timeline"/>
+    <Elem Prompt="菱形里程碑" Name="菱形里程碑" PromptU="Diamond Milestone" NameU="Diamond Milestone"/>
+    <Elem Prompt="圆形里程碑" Name="圆形里程碑" PromptU="Circle Milestone" NameU="Circle Milestone"/>
+    <Elem Prompt="矩形里程碑" Name="矩形里程碑" PromptU="Rect Milestone" NameU="Rect Milestone"/>
+    <Elem Prompt="三角形里程碑" Name="三角形里程碑" PromptU="Triangle Milestone" NameU="Triangle Milestone"/>
+    <Elem Prompt="三角形里程碑 2" Name="三角形里程碑 2" PromptU="Triangle Milestone 2" NameU="Triangle Milestone 2"/>
+    <Elem Prompt="点状里程碑" Name="点状里程碑" PromptU="Point Milestone" NameU="Point Milestone"/>
+    <Elem Prompt="里程碑" Name="里程碑" PromptU="Empty Milestone" NameU="Empty Milestone"/>
+    <Elem Prompt="线状里程碑" Name="线状里程碑" PromptU="Line Milestone" NameU="Line Milestone"/>
+    <Elem Prompt="多样式任务" Name="多样式任务" PromptU="Multi-style Mission" NameU="Multi-style Mission"/>
+    <Elem Prompt="点状任务" Name="点状任务" PromptU="Point Mission" NameU="Point Mission"/>
+    <Elem Prompt="线状任务" Name="线状任务" PromptU="Line Mission" NameU="Line Mission"/>
+    <Elem Prompt="线状任务" Name="线状任务 2" PromptU="Line Mission 2" NameU="Line Mission 2"/>
+    <Elem Prompt="时间段" Name="时间段" PromptU="Interval Description" NameU="Interval Description"/>
+    <Elem Prompt="时间段" Name="时间段" PromptU="Interval Description" NameU="Solid Interval Description"/>
+    <Elem Prompt="圆柱时间段" Name="圆柱时间段" PromptU="Cylinder Interval Description" NameU="Cylinder Interval Description"/>
+    <Elem Prompt="边描述框" Name="边描述框" PromptU="Side Brace" NameU="Side Brace"/>
+    <Elem Prompt="已用的时间" Name="已用的时间" PromptU="Elapsed Time" NameU="Elapsed Time"/>
+</Lib>

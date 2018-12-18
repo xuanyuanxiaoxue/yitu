@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Work Flow Steps">
+    <Elem Prompt="接待" Name="接待" PromptU="Entertain" NameU="Entertain"/>
+    <Elem Prompt="询问" Name="询问" PromptU="Request" NameU="Request"/>
+    <Elem Prompt="收集数据" Name="收集数据" PromptU="Collect Data" NameU="Collect Data"/>
+    <Elem Prompt="分析" Name="分析" PromptU="Analyze" NameU="Analyze"/>
+    <Elem Prompt="调查" Name="调查" PromptU="Research" NameU="Research"/>
+    <Elem Prompt="大脑风暴" Name="大脑风暴" PromptU="Brainstorm" NameU="Brainstorm"/>
+    <Elem Prompt="提交" Name="提交" PromptU="Submit" NameU="Submit"/>
+    <Elem Prompt="提交 2" Name="提交 2" PromptU="Submit 2" NameU="Submit 2"/>
+    <Elem Prompt="项目分析" Name="项目分析" PromptU="Program analysis" NameU="Program analysis"/>
+    <Elem Prompt="批准" Name="批准" PromptU="Approve" NameU="Approve"/>
+    <Elem Prompt="拒绝" Name="拒绝" PromptU="Refuse" NameU="Refuse"/>
+    <Elem Prompt="日程" Name="日程" PromptU="Schedule" NameU="Schedule"/>
+    <Elem Prompt="原型设计" Name="原型设计" PromptU="Prototype Design" NameU="Prototype Design"/>
+    <Elem Prompt="任务" Name="任务" PromptU="Task" NameU="Task"/>
+    <Elem Prompt="问题" Name="问题" PromptU="Problem" NameU="Problem"/>
+    <Elem Prompt="会议" Name="会议" PromptU="Meeting" NameU="Meeting"/>
+    <Elem Prompt="展示" Name="展示" PromptU="Present" NameU="Present"/>
+    <Elem Prompt="打电话" Name="打电话" PromptU="Phone Call" NameU="Call"/>
+    <Elem Prompt="达成协议" Name="达成协议" PromptU="Agreement" NameU="Agreement"/>
+</Lib>

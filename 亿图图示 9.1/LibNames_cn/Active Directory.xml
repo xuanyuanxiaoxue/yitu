@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Active Directory">
+    <Elem Prompt="域二维图" Name="域二维图" PromptU="Domain 2D" NameU="Domain 2D"/>
+    <Elem Prompt="域三维图" Name="域三维图" PromptU="Domain 3D" NameU="Domain 3D"/>
+    <Elem Prompt="域控制器二维图" Name="域控制器二维图" PromptU="Domain controller 2D" NameU="Domain controller 2D"/>
+    <Elem Prompt="域控制器三维图" Name="域控制器三维图" PromptU="Domain controller 3D" NameU="Domain controller 3D"/>
+    <Elem Prompt="应用程序二维图" Name="应用程序二维图" PromptU="Application 2D" NameU="Application 2D"/>
+    <Elem Prompt="应用程序三维图" Name="应用程序三维图" PromptU="Application 3D" NameU="Application 3D"/>
+    <Elem Prompt="站点/网络二维图" Name="站点/网络二维图" PromptU="Site or subnet 2D" NameU="Site or subnet 2D"/>
+    <Elem Prompt="站点/网络三维图" Name="站点/网络三维图" PromptU="Site or subnet 3D" NameU="Site or subnet 3D"/>
+    <Elem Prompt="客户端" Name="客户端" PromptU="Client" NameU="Client"/>
+    <Elem Prompt="数据库" Name="数据库" PromptU="Database" NameU="Database"/>
+    <Elem Prompt="通信链路" Name="通信链路" PromptU="Comm-link" NameU="Comm-link"/>
+    <Elem Prompt="双向连接" Name="双向连接" PromptU="Replication connection" NameU="Replication connection"/>
+    <Elem Prompt="站点连接二维图" Name="站点连接二维图" PromptU="Site link 3D" NameU="Site link 3D"/>
+    <Elem Prompt="站点连接网桥三维图" Name="站点连接网桥三维图" PromptU="Site link bridge 3D" NameU="Site link bridge 3D"/>
+    <Elem Prompt="WAN" Name="WAN" PromptU="WAN" NameU="WAN"/>
+</Lib>

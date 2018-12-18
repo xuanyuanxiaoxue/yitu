@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Custom Organization Chart">
+    <Elem Prompt="矩形" Name="矩形" PromptU="Rectangle" NameU="Rectangle"/>
+    <Elem Prompt="粗边形状" Name="粗边形状" PromptU="Webbing Shape" NameU="Webbing Shape"/>
+    <Elem Prompt="样式可变形状" Name="样式可变形状" PromptU="Multi-style Shape" NameU="Multi-style Shape"/>
+    <Elem Prompt="圆角矩形" Name="圆角矩形" PromptU="Rounded rectangle" NameU="Rounded Rect"/>
+    <Elem Prompt="圆角矩形" Name="圆角矩形 2" PromptU="Rounded Rect" NameU="Rounded Rect 2"/>
+    <Elem Prompt="矩形" Name="矩形 2" PromptU="Rectangle" NameU="Rectangle 2"/>
+    <Elem Prompt="矩形" Name="矩形 3" PromptU="Rectangle" NameU="Rectangle 3"/>
+    <Elem Prompt="矩形" Name="矩形 4" PromptU="Rectangle" NameU="Rectangle 4"/>
+    <Elem Prompt="高光形状" Name="高光形状" PromptU="Highlight shape" NameU="Highlight shape"/>
+    <Elem Prompt="椭圆形" Name="椭圆形" PromptU="Ellipse" NameU="Ellipse"/>
+    <Elem Prompt="智能单位形状" Name="智能单位形状" PromptU="Dynamic unit" NameU="Dynamic unit"/>
+    <Elem Prompt="部门/单位（表格）" Name="部门/单位（表格）" PromptU="Department unit(table)" NameU="Department unit(table)"/>
+    <Elem Prompt="部门/单位（表格）" Name="部门/单位（表格）" PromptU="Business unit(table)" NameU="Business unit(table)"/>
+    <Elem Prompt="团队结构" Name="团队结构" PromptU="Team structure" NameU="Team structure"/>
+    <Elem Prompt="团队结构 2" Name="团队结构 2" PromptU="Team structure 2" NameU="Team structure 2"/>
+    <Elem Prompt="部门结构" Name="部门结构" PromptU="Department structure" NameU="Department structure"/>
+</Lib>

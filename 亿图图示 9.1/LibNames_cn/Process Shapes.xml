@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Process Shapes">
+    <Elem Prompt="多样式流程" Name="多样式流程" PromptU="Multi-Style Process" NameU="Multi-Style Process"/>
+    <Elem Prompt="基础流程" Name="基础流程" PromptU="Basic Process" NameU="Basic Process"/>
+    <Elem Prompt="流程" Name="流程" PromptU="Process" NameU="Process"/>
+    <Elem Prompt="流程" Name="流程" PromptU="Process" NameU="Process"/>
+    <Elem Prompt="流程" Name="流程" PromptU="Process" NameU="Process"/>
+    <Elem Prompt="流程" Name="流程" PromptU="Process" NameU="Process"/>
+    <Elem Prompt="流程" Name="流程" PromptU="Process" NameU="Process"/>
+    <Elem Prompt="流程" Name="流程" PromptU="Process" NameU="Process"/>
+    <Elem Prompt="流程" Name="流程" PromptU="Process" NameU="Process"/>
+    <Elem Prompt="流程" Name="流程" PromptU="Process" NameU="Process"/>
+    <Elem Prompt="流程" Name="流程" PromptU="Process" NameU="Process"/>
+    <Elem Prompt="流程" Name="流程" PromptU="Process" NameU="Process"/>
+    <Elem Prompt="流程" Name="流程" PromptU="Process" NameU="Process"/>
+    <Elem Prompt="流程" Name="流程" PromptU="Process" NameU="Process"/>
+    <Elem Prompt="流程" Name="流程" PromptU="Process" NameU="Process"/>
+    <Elem Prompt="流程" Name="流程" PromptU="Process" NameU="Process"/>
+    <Elem Prompt="流程" Name="流程" PromptU="Process" NameU="Process"/>
+    <Elem Prompt="流程" Name="流程" PromptU="Process" NameU="Process"/>
+    <Elem Prompt="流程" Name="流程" PromptU="Process" NameU="Process"/>
+    <Elem Prompt="流程" Name="流程" PromptU="Process" NameU="Process"/>
+    <Elem Prompt="流程" Name="流程" PromptU="Process" NameU="Process"/>
+    <Elem Prompt="多行流程" Name="流程" PromptU="Twist Process" NameU="Process"/>
+</Lib>

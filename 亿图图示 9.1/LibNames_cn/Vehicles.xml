@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Vehicles">
+    <Elem NameU="Bicycle" Name="自行车" PromptU="Bicycle" Prompt="自行车"/>
+    <Elem NameU="Mountain bike" Name="山地自行车" PromptU="Mountain bike" Prompt="山地自行车"/>
+    <Elem NameU="Scooter" Name="小型摩托车" PromptU="Scooter" Prompt="小型摩托车"/>
+    <Elem NameU="Motorcycle" Name="摩托车" PromptU="Motorcycle" Prompt="摩托车"/>
+    <Elem NameU="Red car" Name="红色轿车" PromptU="Red car" Prompt="红色轿车"/>
+    <Elem NameU="Yellow Car" Name="黄色轿车" PromptU="Yellow Car" Prompt="黄色轿车"/>
+    <Elem NameU="Sports car" Name="跑车" PromptU="Sports car" Prompt="跑车"/>
+    <Elem NameU="SUV" Name="越野车" PromptU="SUV" Prompt="越野车"/>
+    <Elem NameU="Bus 1" Name="公交车1" PromptU="Bus 1" Prompt="公交车1"/>
+    <Elem NameU="Bus 2" Name="公交车2" PromptU="Bus" Prompt="公交车2"/>
+    <Elem NameU="Militery Car" Name="军用车" PromptU="Militery Car" Prompt="军用车"/>
+    <Elem NameU="Snowmobile" Name="机动雪橇" PromptU="Snowmobile" Prompt="机动雪橇"/>
+    <Elem NameU="Helicopter 1" Name="直升飞机1" PromptU="Helicopter 1" Prompt="直升飞机1"/>
+    <Elem NameU="Helicopter 2" Name="直升飞机2" PromptU="Helicopter 2" Prompt="直升飞机2"/>
+    <Elem NameU="Airplane 1" Name="飞机1" PromptU="Airplane 1" Prompt="飞机1"/>
+    <Elem NameU="Airplane 2" Name="飞机2" PromptU="Airplane" Prompt="Airplane"/>
+    <Elem NameU="Airplane 3" Name="飞机3" PromptU="Airplane 3" Prompt="飞机3"/>
+    <Elem NameU="Airplane 4" Name="飞机4" PromptU="Airplane 4" Prompt="飞机4"/>
+    <Elem NameU="Ship" Name="轮船" PromptU="Ship" Prompt="轮船"/>
+    <Elem NameU="Sail boat" Name="帆船" PromptU="Sail boat" Prompt="帆船"/>
+    <Elem NameU="Formula car" Name="赛车" PromptU="Formula car" Prompt="赛车"/>
+    <Elem NameU="Ambulance" Name="救护车" PromptU="Ambulance" Prompt="救护车"/>
+    <Elem NameU="Fire truck 1" Name="消防车1" PromptU="Fire truck 1" Prompt="消防车1"/>
+    <Elem NameU="Fire truck 2" Name="消防车2" PromptU="Fire truck 2" Prompt="消防车2"/>
+    <Elem NameU="Truck 1" Name="卡车1" PromptU="Truck 1" Prompt="卡车1"/>
+    <Elem NameU="Truck 2" Name="卡车2" PromptU="Truck 2" Prompt="卡车2"/>
+    <Elem NameU="Tractor" Name="货车" PromptU="Tractor" Prompt="货车"/>
+    <Elem NameU="Cement mixer" Name="混凝土车" PromptU="Cement mixer" Prompt="混凝土车"/>
+    <Elem NameU="Forklift" Name="铲车" PromptU="Forklift" Prompt="铲车"/>
+    <Elem NameU="Crane" Name="吊车" PromptU="Crane" Prompt="吊车"/>
+    <Elem NameU="Train" Name="火车" PromptU="Train" Prompt="火车"/>
+</Lib>

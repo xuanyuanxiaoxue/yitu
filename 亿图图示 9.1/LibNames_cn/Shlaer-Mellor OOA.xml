@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Shlaer-Mellor OOA">
+    <Elem Prompt="类盒" Name="类盒" PromptU="Class Box" NameU="Class Box"/>
+    <Elem Prompt="小型类盒" Name="小型类盒" PromptU="Small Class Box" NameU="Small Class Box"/>
+    <Elem Prompt="发布操作" Name="发布操作" PromptU="Published Operation" NameU="Published Operation"/>
+    <Elem Prompt="延迟操作" Name="延迟操作" PromptU="Defering Operation" NameU="Defering Operation"/>
+    <Elem Prompt="逻辑组件" Name="逻辑组件" PromptU="Logical Component" NameU="Logical Component"/>
+    <Elem Prompt="条件参数" Name="条件参数" PromptU="Conditional Parameter" NameU="Conditional Parameter"/>
+    <Elem Prompt="基本标志" Name="基本标志" PromptU="Basis Marker" NameU="Basis Marker"/>
+    <Elem Prompt="异常" Name="异常" PromptU="Exception" NameU="Exception"/>
+    <Elem Prompt="异常处理" Name="异常处理" PromptU="Exception Handler" NameU="Exception Handler"/>
+    <Elem Prompt="参数列表" Name="参数列表" PromptU="Parameter List" NameU="Parameter List"/>
+    <Elem Prompt="模块" Name="模块" PromptU="Module" NameU="Module"/>
+    <Elem Prompt="实例数据" Name="实例数据" PromptU="Instance Data" NameU="Instance Data"/>
+    <Elem Prompt="外部模块" Name="外部模块" PromptU="Foreign Module" NameU="Foreign Module"/>
+</Lib>

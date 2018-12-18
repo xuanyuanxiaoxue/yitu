@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Cisco Safe Architectural Icons">
+    <Elem NameU="ACI Controller" Name="ACI控制器" PromptU="ACI Controller" Prompt="ACI控制器"/>
+    <Elem NameU="ACI Leaf Switch" Name="ACI转换" PromptU="ACI Leaf Switch" Prompt="ACI转换"/>
+    <Elem NameU="ACI Spine Switch" Name="ACI转换2" PromptU="ACI Spine Switch" Prompt="ACI转换2"/>
+    <Elem NameU="Adaptive Security Appliance" Name="自适应安全设备" PromptU="Adaptive Security Appliance" Prompt="自适应安全设备"/>
+    <Elem NameU="Automated System" Name="自动系统" PromptU="Automated System" Prompt="自动系统"/>
+    <Elem NameU="Blade Server" Name="刀鋒伺服器" PromptU="Blade Server" Prompt="刀鋒伺服器"/>
+    <Elem NameU="Catalyst Switch" Name="Catalyst转换" PromptU="Catalyst Switch" Prompt="Catalyst转换"/>
+    <Elem NameU="Corporate Device" Name="组合设备" PromptU="Corporate Device" Prompt="组合设备"/>
+    <Elem NameU="Email Security" Name="邮件安全" PromptU="Email Security" Prompt="邮件安全"/>
+    <Elem NameU="Fabric Switch" Name="交换光纤" PromptU="Fabric Switch" Prompt="交换光纤"/>
+    <Elem NameU="Firepower Appliance" Name="防火墙功能" PromptU="Firepower Appliance" Prompt="防火墙功能"/>
+    <Elem NameU="Firewall" Name="防火墙" PromptU="Firewall" Prompt="防火墙"/>
+    <Elem NameU="Generic Appliance" Name="通用设备" PromptU="Generic Appliance" Prompt="通用设备"/>
+    <Elem NameU="Intrusion Detection" Name="入侵检测" PromptU="Intrusion Detection" Prompt="入侵检测"/>
+    <Elem NameU="Load Balancer" Name="负载平衡器" PromptU="Load Balancer" Prompt="负载平衡器"/>
+    <Elem NameU="Nexus Switch" Name="Nexus交换" PromptU="Nexus Switch" Prompt="Nexus交换"/>
+    <Elem NameU="Nexus Data Center Switch" Name="Nexus数据中心交换" PromptU="Nexus Data Center Switch" Prompt="Nexus数据中心交换"/>
+    <Elem NameU="Nexus Fabric Switch" Name="Nexus交换光纤" PromptU="Nexus Fabric Switch" Prompt="Nexus交换光纤"/>
+    <Elem NameU="Nexus 1kv" Name="Nexus流量1kv" PromptU="Nexus 1kv" Prompt="Nexus流量1kv"/>
+    <Elem NameU="Phone" Name="电话" PromptU="Phone" Prompt="电话"/>
+    <Elem NameU="Router" Name="路径" PromptU="Router" Prompt="路径"/>
+    <Elem NameU="Stacked Switch" Name="堆叠转换" PromptU="Stacked Switch" Prompt="堆叠转换"/>
+    <Elem NameU="Secure Server" Name="安全服务器" PromptU="Secure Server" Prompt="安全服务器"/>
+    <Elem NameU="Server" Name="服务器" PromptU="Server" Prompt="服务器"/>
+    <Elem NameU="Storage" Name="存储" PromptU="Storage" Prompt="存储"/>
+    <Elem NameU="Switch" Name="转换" PromptU="Switch" Prompt="转换"/>
+    <Elem NameU="L3 Switch" Name="L3转换" PromptU="L3 Switch" Prompt="L3转换"/>
+    <Elem NameU="TLS Appliance" Name="TLS设备" PromptU="TLS Appliance" Prompt="TLS设备"/>
+    <Elem NameU="Unified Access Switch" Name="统一接入交换" PromptU="Unified Access Switch" Prompt="统一接入交换"/>
+    <Elem NameU="Web Application Firewall" Name="网页应用防火墙" PromptU="Web Application Firewall" Prompt="网页应用防火墙"/>
+    <Elem NameU="Web Security" Name="网页安全" PromptU="Web Security" Prompt="网页安全"/>
+    <Elem NameU="Wide Area Application Engine (WAE)" Name="广域应用程序(WAE)" PromptU="Wide Area Application Engine (WAE)" Prompt="广域应用程序(WAE)"/>
+    <Elem NameU="Wireless Access Point" Name="无限连通点" PromptU="Wireless Access Point" Prompt="无限连通点"/>
+    <Elem NameU="Wireless LAN Controller" Name="无限LAN控制器" PromptU="Wireless LAN Controller" Prompt="无限LAN控制器"/>
+</Lib>

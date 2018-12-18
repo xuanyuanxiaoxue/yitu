@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Detailed Network Diagram">
+    <Elem Prompt="A-B 交换机" Name="A-B 交换机" PromptU="A-B switch" NameU="A-B Switch"/>
+    <Elem Prompt="指纹识别" Name="指纹识别" PromptU="Biometric Reader" NameU="Biometric Reader"/>
+    <Elem Prompt="数据" Name="数据" PromptU="Data" NameU="Data"/>
+    <Elem Prompt="诊断设备" Name="诊断设备" PromptU="Diagnostic device" NameU="Diagnostic Device"/>
+    <Elem Prompt="外接媒体驱动器" Name="外接媒体驱动器" PromptU="External media drive" NameU="External Media Drive"/>
+    <Elem Prompt="移动硬盘" Name="移动硬盘" PromptU="External Hard Drive" NameU="External Hard Drive"/>
+    <Elem Prompt="无线电塔" Name="无线电塔" PromptU="Radio tower" NameU="Radio tower"/>
+    <Elem Prompt="光纤传输器" Name="光纤传输器" PromptU="Fiber optic transmitter" NameU="Fiber optic transmitter"/>
+    <Elem Prompt="插线面板" Name="插线面板" PromptU="Patch panel" NameU="Patch Panel"/>
+    <Elem Prompt="PBX" Name="PBX" PromptU="PBX" NameU="PBX"/>
+    <Elem Prompt="中继器" Name="中继器" PromptU="Repeater" NameU="Repeater"/>
+    <Elem Prompt="卫星天线" Name="卫星天线" PromptU="Satellite dish" NameU="Satellite dish"/>
+    <Elem Prompt="卫星" Name="卫星" PromptU="Satellite" NameU="Satellite"/>
+    <Elem Prompt="智能卡读卡器" Name="智能卡读卡器" PromptU="Smartcard Reader" NameU="Smartcard Reader"/>
+    <Elem Prompt="XML网络服务器" Name="XML网络服务器" PromptU="XML web server" NameU="XML web server"/>
+</Lib>

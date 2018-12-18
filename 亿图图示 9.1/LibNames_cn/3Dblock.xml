@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="3D Block">
+    <Elem Prompt="圆柱 1" Name="圆柱 1" PromptU="Cylinder 1" NameU="Cylinder 1"/>
+    <Elem Prompt="圆柱 2" Name="圆柱 2" PromptU="Cylinder 2" NameU="Cylinder 2"/>
+    <Elem Prompt="圆柱 3" Name="圆柱 3" PromptU="Cylinder 3" NameU="Cylinder 3"/>
+    <Elem Prompt="圆柱 4" Name="圆柱 4" PromptU="Cylinder 4" NameU="Cylinder 4"/>
+    <Elem Prompt="圆柱 5" Name="圆柱 5" PromptU="Cylinder 5" NameU="Cylinder 5"/>
+    <Elem Prompt="水平圆柱" Name="水平圆柱" PromptU="Horizontal Cylinder" NameU="Horizontal Cylinder"/>
+    <Elem Prompt="球" Name="球" PromptU="Sphere" NameU="Sphere"/>
+    <Elem Prompt="平顶圆锥" Name="平顶圆锥" PromptU="Cone" NameU="Cone 3"/>
+    <Elem Prompt="长方体" Name="长方体" PromptU="Rectangular box" NameU="Rectangular box"/>
+    <Elem Prompt="正方体" Name="正方体" PromptU="Cube" NameU="Cube"/>
+    <Elem Prompt="3D长方体" Name="3D长方体" PromptU="3D Rectangle" NameU="3D Rectangle"/>
+    <Elem Prompt="长方体" Name="长方体" PromptU="Cuboid" NameU="Cuboid"/>
+    <Elem Prompt="4面金字塔" Name="4面金字塔" PromptU="4-side pyramid" NameU="4-side pyramid"/>
+    <Elem Prompt="四面体" Name="四面体" PromptU="Tetrahedron" NameU="Tetrahedron"/>
+    <Elem Prompt="五角锥" Name="五角锥" PromptU="Pentagonal cone" NameU="Pentagonal cone"/>
+    <Elem Prompt="平顶金字塔" Name="平顶金字塔" PromptU="Pyramid with flat top" NameU="Pyramid with flat top"/>
+    <Elem Prompt="平顶五棱锥" Name="平顶五棱锥" PromptU="Pentagonal pyramid with flat top" NameU="Pentagonal pyramid with flat top"/>
+    <Elem Prompt="多面锥" Name="多面锥" PromptU="Polyhedral cone" NameU="Polyhedral cone"/>
+    <Elem Prompt="底部为长方体的金字塔" Name="底部为长方体的金字塔" PromptU="Pyramid with rectangular box" NameU="Pyramid with rectangular box"/>
+    <Elem Prompt="十二面体" Name="十二面体" PromptU="Dodecahedron" NameU="Dodecahedron"/>
+    <Elem Prompt="八面体" Name="八面体" PromptU="Octahedron" NameU="Octahedron"/>
+    <Elem Prompt="二十面体" Name="二十面体" PromptU="Icosahedron" NameU="Icosahedron"/>
+    <Elem Prompt="多面体" Name="多面体" PromptU="Polyhedron" NameU="Polyhedron"/>
+    <Elem Prompt="多面体 2" Name="多面体 2" PromptU="Polyhedron 2" NameU="Polyhedron 2"/>
+    <Elem Prompt="多面体" Name="多面体" PromptU="Polyhedron" NameU="Polyhedron"/>
+    <Elem Prompt="多面体" Name="多面体" PromptU="Polyhedron" NameU="Polyhedron"/>
+    <Elem Prompt="多面体" Name="多面体" PromptU="Polyhedron" NameU="Polyhedron"/>
+    <Elem Prompt="多面体" Name="多面体" PromptU="Polyhedron" NameU="Polyhedron"/>
+    <Elem Prompt="多面体" Name="多面体" PromptU="Polyhedron" NameU="Polyhedron"/>
+    <Elem Prompt="不规则多面体" Name="不规则多面体" PromptU="Irregular polyhedron" NameU="Irregular polyhedron"/>
+    <Elem Prompt="多面体" Name="多面体" PromptU="Polyhedron" NameU="Polyhedron"/>
+    <Elem Prompt="多面体" Name="多面体" PromptU="Polyhedron" NameU="Polyhedron"/>
+    <Elem Prompt="多面体" Name="多面体" PromptU="Polyhedron" NameU="Polyhedron"/>
+    <Elem Prompt="多面体" Name="多面体" PromptU="Polyhedron" NameU="Polyhedron"/>
+    <Elem Prompt="多面体" Name="多面体" PromptU="Polyhedron" NameU="Polyhedron"/>
+    <Elem Prompt="平顶圆锥" Name="圆锥体" PromptU="Cone" NameU="Cone"/>
+    <Elem Prompt="洋陀螺形 2" Name="洋陀螺形 2" PromptU="Top Shaped 2" NameU="Top Shaped 2"/>
+    <Elem Prompt="半球" Name="半球" PromptU="Half Sphere" NameU="Half Sphere"/>
+    <Elem Prompt="不规则圆柱" Name="不规则圆柱" PromptU="Irregular Cylinder" NameU="Irregular Cylinder"/>
+</Lib>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="UML Component Diagram">
+    <Elem Prompt="组件" Name="组件" PromptU="Component" NameU="Component"/>
+    <Elem Prompt="包" Name="包" PromptU="Package" NameU="Package"/>
+    <Elem Prompt="容器" Name="容器" PromptU="Package Container" NameU="Package Container"/>
+    <Elem Prompt="依赖关系" Name="依赖关系" PromptU="Dependency" NameU="Dependency"/>
+    <Elem Prompt="泛化" Name="泛化" PromptU="Generalization" NameU="Generalization"/>
+    <Elem Prompt="透明构造型" Name="透明构造型" PromptU="Transparent Stereotype" NameU="Transparent Stereotype"/>
+    <Elem Prompt="不透明构造型" Name="不透明构造型" PromptU="Opaque Stereotype" NameU="Opaque Stereotype"/>
+    <Elem Prompt="符号《》" Name="符号《》" PromptU="Symbol &lt;&lt;and>>" NameU="Symbol &lt;&lt;and>>"/>
+    <Elem Prompt="约束" Name="约束" PromptU="Constraint" NameU="Constraint"/>
+    <Elem Prompt="注释" Name="注释" PromptU="Note" NameU="Note"/>
+</Lib>

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Exchange Objects">
+    <Elem Prompt="Exchange 组织" Name="Exchange 组织" PromptU="Exchange Organization" NameU="Exchange Organization"/>
+    <Elem Prompt="消息格式" Name="消息格式" PromptU="Massage Formats" NameU="Massage Formats"/>
+    <Elem Prompt="多台Exchange 服务器" Name="多台Exchange 服务器" PromptU="Exchange Servers" NameU="Exchange Servers"/>
+    <Elem Prompt="Exchange 服务器" Name="Exchange 服务器" PromptU="Exchange Server" NameU="Exchange Server"/>
+    <Elem Prompt="公用文件夹" Name="公用文件夹" PromptU="Public Folders" NameU="Public Folders"/>
+    <Elem Prompt="存储组" Name="存储组" PromptU="Storage Group" NameU="Storage Group"/>
+    <Elem Prompt="收件人更新服务" Name="收件人更新服务" PromptU="Recipient Update Service" NameU="Recipient Update Service"/>
+    <Elem Prompt="收件人策略" Name="收件人策略" PromptU="Recipient Policy" NameU="Recipient Policy"/>
+    <Elem Prompt="消息传递" Name="消息传递" PromptU="Message Delivery" NameU="Message Delivery"/>
+    <Elem Prompt="POP 虚拟服务器" Name="POP 虚拟服务器" PromptU="POP virtual server" NameU="POP virtual server"/>
+    <Elem Prompt="虚拟服务器" Name="虚拟服务器" PromptU="Exchange Virtual Server" NameU="Exchange Virtual Server"/>
+    <Elem Prompt="会话" Name="会话" PromptU="Dialog" NameU="Dialog"/>
+    <Elem Prompt="HTTP 虚拟目录" Name="HTTP 虚拟目录" PromptU="HTTP Virtual Directory" NameU="HTTP Virtual Directory"/>
+    <Elem Prompt="公用存储区" Name="公用存储区" PromptU="Public Store" NameU="Public Store"/>
+    <Elem Prompt="邮箱存储区" Name="邮箱存储区" PromptU="Mailbox Store" NameU="Mailbox Store"/>
+    <Elem Prompt="IMAP 虚拟服务器" Name="IMAP 虚拟服务器" PromptU="IMAP Virtual Server" NameU="IMAP Virtual Server"/>
+    <Elem Prompt="NNTP 虚拟服务器" Name="NNTP 虚拟服务器" PromptU="NNTP Virtual Server" NameU="NNTP Virtual Server"/>
+</Lib>

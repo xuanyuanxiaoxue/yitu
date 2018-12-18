@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="GCP Big Data">
+    <Elem NameU="BigQuery" Name="谷歌软件BigQuery" PromptU="BigQuery" Prompt="谷歌软件BigQuery"/>
+    <Elem NameU="Cloud Dataflow" Name="云数据流" PromptU="Cloud Dataflow" Prompt="云数据流"/>
+    <Elem NameU="Cloud Datalab" Name="云数据库" PromptU="Cloud Datalab" Prompt="云数据库"/>
+    <Elem NameU="Cloud Dataprep" Name="云数据" PromptU="Cloud Dataprep" Prompt="云数据"/>
+    <Elem NameU="Cloud Dataproc" Name="云端数据服务" PromptU="Cloud Dataproc" Prompt="云端数据服务"/>
+    <Elem NameU="Cloud PubSub" Name="谷歌软件Cloud PubSub" PromptU="Cloud PubSub" Prompt="谷歌软件Cloud PubSub"/>
+    <Elem NameU="Data Studio" Name="数据工作室" PromptU="Data Studio" Prompt="数据工作室"/>
+    <Elem NameU="Genomics" Name="基因组学" PromptU="Genomics" Prompt="基因组学"/>
+</Lib>

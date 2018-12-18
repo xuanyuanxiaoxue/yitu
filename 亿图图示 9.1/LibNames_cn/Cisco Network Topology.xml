@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Cisco Network Topology">
+    <Elem Prompt="Router- Color and Router- Color and subdued" Name="Router- Color and Router- Color and subdued" PromptU="Router- Color and Router- Color and subdued" NameU="Router- Color and Router- Color and subdued"/>
+    <Elem Prompt="Router w/Silicon Switch" Name="Router w/Silicon Switch" PromptU="Router w/Silicon Switch" NameU="Router w/Silicon Switch"/>
+    <Elem Prompt="Wavelength Router" Name="Wavelength Router" PromptU="Wavelength Router" NameU="Wavelength Router"/>
+    <Elem Prompt="Protocol Translator" Name="Protocol Translator" PromptU="Protocol Translator" NameU="Protocol Translator"/>
+    <Elem Prompt="CiscoWorks Workstation" Name="CiscoWorks Workstation" PromptU="CiscoWorks Workstation" NameU="CiscoWorks Workstation"/>
+    <Elem Prompt="Network Management Appliance" Name="Network Management Appliance" PromptU="Network Management Appliance" NameU="Network Management Appliance"/>
+    <Elem Prompt="Access Server" Name="Access Server" PromptU="Access Server" NameU="Access Server"/>
+    <Elem Prompt="Workgroup Director" Name="Workgroup Director" PromptU="Workgroup Director" NameU="Workgroup Director"/>
+    <Elem Prompt="Storage Solution  Engine  (SSE)" Name="Storage Solution  Engine  (SSE)" PromptU="Storage Solution  Engine  (SSE)" NameU="Storage Solution  Engine  (SSE)"/>
+    <Elem Prompt="PC Router Card" Name="PC Router Card" PromptU="PC Router Card" NameU="PC Router Card"/>
+    <Elem Prompt="Cisco Hub" Name="Cisco Hub" PromptU="Cisco Hub" NameU="Cisco Hub"/>
+    <Elem Prompt="NetFlow Router" Name="NetFlow Router" PromptU="NetFlow Router" NameU="NetFlow Router"/>
+    <Elem Prompt="Cisco MeetingPlace Express" Name="Cisco MeetingPlace Express" PromptU="Cisco MeetingPlace Express" NameU="Cisco MeetingPlace Express"/>
+    <Elem Prompt="Software- Based Router on File/Application Server" Name="Software- Based Router on File/Application Server" PromptU="Software- Based Router on File/Application Server" NameU="Software- Based Router on File/Application Server"/>
+    <Elem Prompt="TransPath" Name="TransPath" PromptU="TransPath" NameU="TransPath"/>
+    <Elem Prompt="Bridge" Name="Bridge" PromptU="Bridge" NameU="Bridge"/>
+    <Elem Prompt="Workgroup  Switch Voice-Enabled" Name="Workgroup  Switch Voice-Enabled" PromptU="Workgroup  Switch Voice-Enabled" NameU="Workgroup  Switch Voice-Enabled"/>
+    <Elem Prompt="100BaseT Hub" Name="100BaseT Hub" PromptU="100BaseT Hub" NameU="100BaseT Hub"/>
+    <Elem Prompt="IOS SLB" Name="IOS SLB" PromptU="IOS SLB" NameU="IOS SLB"/>
+    <Elem Prompt="uBR910 Cable DSU" Name="uBR910 Cable DSU" PromptU="uBR910 Cable DSU" NameU="uBR910 Cable DSU"/>
+    <Elem Prompt="CDDI/ FDDI Concentrator" Name="CDDI/ FDDI Concentrator" PromptU="CDDI/ FDDI Concentrator" NameU="CDDI/ FDDI Concentrator"/>
+    <Elem Prompt="PC Adapter Card" Name="PC Adapter Card" PromptU="PC Adapter Card" NameU="PC Adapter Card"/>
+    <Elem Prompt="VIP" Name="VIP" PromptU="VIP" NameU="VIP"/>
+    <Elem Prompt="Small Hub (10BaseT Hub)" Name="Small Hub (10BaseT Hub)" PromptU="Small Hub (10BaseT Hub)" NameU="Small Hub (10BaseT Hub)"/>
+    <Elem Prompt="Terminal Server" Name="Terminal Server" PromptU="Terminal Server" NameU="Terminal Server"/>
+    <Elem Prompt="Route/Switch Processor  with and without Si" Name="Route/Switch Processor  with and without Si" PromptU="Route/Switch Processor  with and without Si" NameU="Route/Switch Processor  with and without Si"/>
+    <Elem Prompt="PXF" Name="PXF" PromptU="PXF" NameU="PXF"/>
+    <Elem Prompt="CDM (Content Distribution Manager)" Name="CDM (Content Distribution Manager)" PromptU="CDM (Content Distribution Manager)" NameU="CDM (Content Distribution Manager)"/>
+    <Elem Prompt="Management Engine (ME 1100)" Name="Management Engine (ME 1100)" PromptU="Management Engine (ME 1100)" NameU="Management Engine (ME 1100)"/>
+    <Elem Prompt="PC with Router-Based Software" Name="PC with Router-Based Software" PromptU="PC with Router-Based Software" NameU="PC with Router-Based Software"/>
+    <Elem Prompt="PC with Software" Name="PC with Software" PromptU="PC with Software" NameU="PC with Software"/>
+    <Elem Prompt="ASIC Processor" Name="ASIC Processor" PromptU="ASIC Processor" NameU="ASIC Processor"/>
+    <Elem Prompt="General Processor" Name="General Processor" PromptU="General Processor" NameU="General Processor"/>
+    <Elem Prompt="Application Velocity System" Name="Application Velocity System" PromptU="Application Velocity System" NameU="Application Velocity System"/>
+    <Elem Prompt="Workgroup  Switch Color/Subdued" Name="Workgroup  Switch Color/Subdued" PromptU="Workgroup  Switch Color/Subdued" NameU="Workgroup  Switch Color/Subdued"/>
+    <Elem Prompt="Switch Processor" Name="Switch Processor" PromptU="Switch Processor" NameU="Switch Processor"/>
+    <Elem Prompt="Broadband Router" Name="Broadband Router" PromptU="Broadband Router" NameU="Broadband Router"/>
+    <Elem Prompt="ATM Switch" Name="ATM Switch" PromptU="ATM Switch" NameU="ATM Switch"/>
+    <Elem Prompt="LAN2LAN Switch" Name="LAN2LAN Switch" PromptU="LAN2LAN Switch" NameU="LAN2LAN Switch"/>
+    <Elem Prompt="ISDN Switch" Name="ISDN Switch" PromptU="ISDN Switch" NameU="ISDN Switch"/>
+    <Elem Prompt="Cisco 5500 Family" Name="Cisco 5500 Family" PromptU="Cisco 5500 Family" NameU="Cisco 5500 Family"/>
+    <Elem Prompt="SSL Terminator" Name="SSL Terminator" PromptU="SSL Terminator" NameU="SSL Terminator"/>
+    <Elem Prompt="ITP" Name="ITP" PromptU="ITP" NameU="ITP"/>
+    <Elem Prompt="Cisco CA" Name="Cisco CA" PromptU="Cisco CA" NameU="Cisco CA"/>
+    <Elem Prompt="MGX 8000 Multiservice Switch" Name="MGX 8000 Multiservice Switch" PromptU="MGX 8000 Multiservice Switch" NameU="MGX 8000 Multiservice Switch"/>
+    <Elem Prompt="Voice Gateway" Name="Voice Gateway" PromptU="Voice Gateway" NameU="Voice Gateway"/>
+    <Elem Prompt="BBSM" Name="BBSM" PromptU="BBSM" NameU="BBSM"/>
+    <Elem Prompt="IP Transport Concentrator" Name="IP Transport Concentrator" PromptU="IP Transport Concentrator" NameU="IP Transport Concentrator"/>
+    <Elem Prompt="SIP Proxy Server" Name="SIP Proxy Server" PromptU="SIP Proxy Server" NameU="SIP Proxy Server"/>
+    <Elem Prompt="MicroWeb Server" Name="MicroWeb Server" PromptU="MicroWeb Server" NameU="MicroWeb Server"/>
+    <Elem Prompt="NetRanger" Name="NetRanger" PromptU="NetRanger" NameU="NetRanger"/>
+    <Elem Prompt="Cisco 6920 RateMux" Name="Cisco 6920 RateMux" PromptU="Cisco 6920 RateMux" NameU="Cisco 6920 RateMux"/>
+    <Elem Prompt="NetSonar" Name="NetSonar" PromptU="NetSonar" NameU="NetSonar"/>
+    <Elem Prompt="Multi- Switch Device" Name="Multi- Switch Device" PromptU="Multi- Switch Device" NameU="Multi- Switch Device"/>
+    <Elem Prompt="ATA" Name="ATA" PromptU="ATA" NameU="ATA"/>
+    <Elem Prompt="Edge Label  Switch  Router  with NetFlow" Name="Edge Label  Switch  Router  with NetFlow" PromptU="Edge Label  Switch  Router  with NetFlow" NameU="Edge Label  Switch  Router  with NetFlow"/>
+    <Elem Prompt="IP  Standard  and Old  (Some  Prefer)" Name="IP  Standard  and Old  (Some  Prefer)" PromptU="IP  Standard  and Old  (Some  Prefer)" NameU="IP  Standard  and Old  (Some  Prefer)"/>
+    <Elem Prompt="IP  Standard  and Old  (Some  Prefer) .62" Name="IP  Standard  and Old  (Some  Prefer) .62" PromptU="IP  Standard  and Old  (Some  Prefer) .62" NameU="IP  Standard  and Old  (Some  Prefer) .62"/>
+    <Elem Prompt="Cisco 7505" Name="Cisco 7505" PromptU="Cisco 7505" NameU="Cisco 7505"/>
+    <Elem Prompt="Cisco 1000" Name="Cisco 1000" PromptU="Cisco 1000" NameU="Cisco 1000"/>
+    <Elem Prompt="Cisco 7500 (7513)" Name="Cisco 7500 (7513)" PromptU="Cisco 7500 (7513)" NameU="Cisco 7500 (7513)"/>
+    <Elem Prompt="Edge Label Switch Router" Name="Edge Label Switch Router" PromptU="Edge Label Switch Router" NameU="Edge Label Switch Router"/>
+    <Elem Prompt="Multilayer Switch, with and without Text and Subdued" Name="Multilayer Switch, with and without Text and Subdued" PromptU="Multilayer Switch, with and without Text and Subdued" NameU="Multilayer Switch, with and without Text and Subdued"/>
+    <Elem Prompt="Router  with TDM" Name="Router  with TDM" PromptU="Router  with TDM" NameU="Router  with TDM"/>
+    <Elem Prompt="ADM" Name="ADM" PromptU="ADM" NameU="ADM"/>
+    <Elem Prompt="Cisco 7507" Name="Cisco 7507" PromptU="Cisco 7507" NameU="Cisco 7507"/>
+    <Elem Prompt="Cisco Unity Express" Name="Cisco Unity Express" PromptU="Cisco Unity Express" NameU="Cisco Unity Express"/>
+    <Elem Prompt="Cisco Unity Server" Name="Cisco Unity Server" PromptU="Cisco Unity Server" NameU="Cisco Unity Server"/>
+    <Elem Prompt="Voice-  Enabled  Router" Name="Voice-  Enabled  Router" PromptU="Voice-  Enabled  Router" NameU="Voice-  Enabled  Router"/>
+    <Elem Prompt="Cisco Security Manager" Name="Cisco Security Manager" PromptU="Cisco Security Manager" NameU="Cisco Security Manager"/>
+    <Elem Prompt="Data Switch Processor,  AKA Data  Center Switch" Name="Data Switch Processor,  AKA Data  Center Switch" PromptU="Data Switch Processor,  AKA Data  Center Switch" NameU="Data Switch Processor,  AKA Data  Center Switch"/>
+    <Elem Prompt="Firewall Services  Module" Name="Firewall Services  Module" PromptU="Firewall Services  Module" NameU="Firewall Services  Module"/>
+    <Elem Prompt="Cisco MP" Name="Cisco MP" PromptU="Cisco MP" NameU="Cisco MP"/>
+    <Elem Prompt="Cisco IOS Firewall" Name="Cisco IOS Firewall" PromptU="Cisco IOS Firewall" NameU="Cisco IOS Firewall"/>
+    <Elem Prompt="Router with Firewall" Name="Router with Firewall" PromptU="Router with Firewall" NameU="Router with Firewall"/>
+    <Elem Prompt="Centri Firewall" Name="Centri Firewall" PromptU="Centri Firewall" NameU="Centri Firewall"/>
+    <Elem Prompt="Cisco CallManager" Name="Cisco CallManager" PromptU="Cisco CallManager" NameU="Cisco CallManager"/>
+    <Elem Prompt="Data Center Switch, Reversed" Name="Data Center Switch, Reversed" PromptU="Data Center Switch, Reversed" NameU="Data Center Switch, Reversed"/>
+    <Elem Prompt="Cisco 6705 Access Server" Name="Cisco 6705 Access Server" PromptU="Cisco 6705 Access Server" NameU="Cisco 6705 Access Server"/>
+    <Elem Prompt="MGX 8220" Name="MGX 8220" PromptU="MGX 8220" NameU="MGX 8220"/>
+    <Elem Prompt="MGX 8240" Name="MGX 8240" PromptU="MGX 8240" NameU="MGX 8240"/>
+    <Elem Prompt="MGX 8260" Name="MGX 8260" PromptU="MGX 8260" NameU="MGX 8260"/>
+    <Elem Prompt="PIX Firewall Right and Left" Name="PIX Firewall Right and Left" PromptU="PIX Firewall Right and Left" NameU="PIX Firewall Right and Left"/>
+    <Elem Prompt="IP Telephony Router" Name="IP Telephony Router" PromptU="IP Telephony Router" NameU="IP Telephony Router"/>
+    <Elem Prompt="Cisco 6732 Access Server" Name="Cisco 6732 Access Server" PromptU="Cisco 6732 Access Server" NameU="Cisco 6732 Access Server"/>
+    <Elem Prompt="Cisco 6701" Name="Cisco 6701" PromptU="Cisco 6701" NameU="Cisco 6701"/>
+    <Elem Prompt="IP DSL Switch" Name="IP DSL Switch" PromptU="IP DSL Switch" NameU="IP DSL Switch"/>
+    <Elem Prompt="H.323" Name="H.323" PromptU="H.323" NameU="H.323"/>
+    <Elem Prompt="Access Gateway" Name="Access Gateway" PromptU="Access Gateway" NameU="Access Gateway"/>
+    <Elem Prompt="DSLAM" Name="DSLAM" PromptU="DSLAM" NameU="DSLAM"/>
+    <Elem Prompt="VPN Concentrator" Name="VPN Concentrator" PromptU="VPN Concentrator" NameU="VPN Concentrator"/>
+    <Elem Prompt="CDM (Content Distribution Manager)" Name="CDM (Content Distribution Manager)" PromptU="CDM (Content Distribution Manager)" NameU="CDM (Content Distribution Manager)"/>
+    <Elem Prompt="IAD Router" Name="IAD Router" PromptU="IAD Router" NameU="IAD Router"/>
+    <Elem Prompt="Content  Router" Name="Content  Router" PromptU="Content  Router" NameU="Content  Router"/>
+    <Elem Prompt="Voice-Enabled ATM Switch" Name="Voice-Enabled ATM Switch" PromptU="Voice-Enabled ATM Switch" NameU="Voice-Enabled ATM Switch"/>
+    <Elem Prompt="ICS 7750" Name="ICS 7750" PromptU="ICS 7750" NameU="ICS 7750"/>
+    <Elem Prompt="CSS 11000" Name="CSS 11000" PromptU="CSS 11000" NameU="CSS 11000"/>
+    <Elem Prompt="Cisco 15800" Name="Cisco 15800" PromptU="Cisco 15800" NameU="Cisco 15800"/>
+    <Elem Prompt="Cisco  Storage  Router" Name="Cisco  Storage  Router" PromptU="Cisco  Storage  Router" NameU="Cisco  Storage  Router"/>
+    <Elem Prompt="Content  Service  Module" Name="Content  Service  Module" PromptU="Content  Service  Module" NameU="Content  Service  Module"/>
+    <Elem Prompt="Content  Switch" Name="Content  Switch" PromptU="Content  Switch" NameU="Content  Switch"/>
+    <Elem Prompt="Cisco  VN 2900" Name="Cisco  VN 2900" PromptU="Cisco  VN 2900" NameU="Cisco  VN 2900"/>
+    <Elem Prompt="Cisco 15200" Name="Cisco 15200" PromptU="Cisco 15200" NameU="Cisco 15200"/>
+    <Elem Prompt="Cisco  VN 5902" Name="Cisco  VN 5902" PromptU="Cisco  VN 5902" NameU="Cisco  VN 5902"/>
+    <Elem Prompt="Cisco Unified Presence Server" Name="Cisco Unified Presence Server" PromptU="Cisco Unified Presence Server" NameU="Cisco Unified Presence Server"/>
+    <Elem Prompt="Handheld" Name="Handheld" PromptU="Handheld" NameU="Handheld"/>
+    <Elem Prompt="Content  Transformation Engine" Name="Content  Transformation Engine" PromptU="Content  Transformation Engine" NameU="Content  Transformation Engine"/>
+    <Elem Prompt="Access Point" Name="Access Point" PromptU="Access Point" NameU="Access Point"/>
+    <Elem Prompt="Dual Mode Access Point" Name="Dual Mode Access Point" PromptU="Dual Mode Access Point" NameU="Dual Mode Access Point"/>
+    <Elem Prompt="Cisco  VN 5900" Name="Cisco  VN 5900" PromptU="Cisco  VN 5900" NameU="Cisco  VN 5900"/>
+    <Elem Prompt="Dual Mode Access Point" Name="Dual Mode Access Point" PromptU="Dual Mode Access Point" NameU="Dual Mode Access Point"/>
+    <Elem Prompt="Scanner" Name="Scanner" PromptU="Scanner" NameU="Scanner"/>
+    <Elem Prompt="EtherClient" Name="EtherClient" PromptU="EtherClient" NameU="EtherClient"/>
+    <Elem Prompt="Tablet" Name="Tablet" PromptU="Tablet" NameU="Tablet"/>
+    <Elem Prompt="Wireless  Transport" Name="Wireless  Transport" PromptU="Wireless  Transport" NameU="Wireless  Transport"/>
+    <Elem Prompt="Wireless  Bridge" Name="Wireless  Bridge" PromptU="Wireless  Bridge" NameU="Wireless  Bridge"/>
+    <Elem Prompt="Lightweight  Single Radio  Access Point" Name="Lightweight  Single Radio  Access Point" PromptU="Lightweight  Single Radio  Access Point" NameU="Lightweight  Single Radio  Access Point"/>
+    <Elem Prompt="Lightweight  Double Radio  Access Point" Name="Lightweight  Double Radio  Access Point" PromptU="Lightweight  Double Radio  Access Point" NameU="Lightweight  Double Radio  Access Point"/>
+    <Elem Prompt="WLAN Controller" Name="WLAN Controller" PromptU="WLAN Controller" NameU="WLAN Controller"/>
+    <Elem Prompt="Wi-Fi Tag" Name="Wi-Fi Tag" PromptU="Wi-Fi Tag" NameU="Wi-Fi Tag"/>
+    <Elem Prompt="Wireless Location Appliance" Name="Wireless Location Appliance" PromptU="Wireless Location Appliance" NameU="Wireless Location Appliance"/>
+    <Elem Prompt="Wireless Router" Name="Wireless Router" PromptU="Wireless Router" NameU="Wireless Router"/>
+    <Elem Prompt="Wireless Connectivity, Different Orientations" Name="Wireless Connectivity, Different Orientations" PromptU="Wireless Connectivity, Different Orientations" NameU="Wireless Connectivity, Different Orientations"/>
+    <Elem Prompt="WiSM" Name="WiSM" PromptU="WiSM" NameU="WiSM"/>
+    <Elem Prompt="Mesh  Access Point" Name="Mesh  Access Point" PromptU="Mesh  Access Point" NameU="Mesh  Access Point"/>
+    <Elem Prompt="SC2200 Signaling Controller" Name="SC2200 Signaling Controller" PromptU="SC2200 Signaling Controller" NameU="SC2200 Signaling Controller"/>
+    <Elem Prompt="VSC3000 Virtual Switch Controller" Name="VSC3000 Virtual Switch Controller" PromptU="VSC3000 Virtual Switch Controller" NameU="VSC3000 Virtual Switch Controller"/>
+    <Elem Prompt="VSC3000 or SC2200 Host" Name="VSC3000 or SC2200 Host" PromptU="VSC3000 or SC2200 Host" NameU="VSC3000 or SC2200 Host"/>
+    <Elem Prompt="BTS 10200 Softswitch" Name="BTS 10200 Softswitch" PromptU="BTS 10200 Softswitch" NameU="BTS 10200 Softswitch"/>
+    <Elem Prompt="Detector" Name="Detector" PromptU="Detector" NameU="Detector"/>
+    <Elem Prompt="IP/TV Content Manager" Name="IP/TV Content Manager" PromptU="IP/TV Content Manager" NameU="IP/TV Content Manager"/>
+    <Elem Prompt="IP/TV Broadcast Server" Name="IP/TV Broadcast Server" PromptU="IP/TV Broadcast Server" NameU="IP/TV Broadcast Server"/>
+    <Elem Prompt="Master.136" Name="Master.136" PromptU="Master.136" NameU="Master.136"/>
+    <Elem Prompt="Generic Softswitch (Cisco Branded)" Name="Generic Softswitch (Cisco Branded)" PromptU="Generic Softswitch (Cisco Branded)" NameU="Generic Softswitch (Cisco Branded)"/>
+    <Elem Prompt="Generic Softswitch" Name="Generic Softswitch" PromptU="Generic Softswitch" NameU="Generic Softswitch"/>
+    <Elem Prompt="Guard" Name="Guard" PromptU="Guard" NameU="Guard"/>
+    <Elem Prompt="Mobile  Access  Router" Name="Mobile  Access  Router" PromptU="Mobile  Access  Router" NameU="Mobile  Access  Router"/>
+    <Elem Prompt="Cisco Carrier Routing System" Name="Cisco Carrier Routing System" PromptU="Cisco Carrier Routing System" NameU="Cisco Carrier Routing System"/>
+    <Elem Prompt="FC Storage" Name="FC Storage" PromptU="FC Storage" NameU="FC Storage"/>
+    <Elem Prompt="IntelliSwitch Stack" Name="IntelliSwitch Stack" PromptU="IntelliSwitch Stack" NameU="IntelliSwitch Stack"/>
+    <Elem Prompt="Service Control" Name="Service Control" PromptU="Service Control" NameU="Service Control"/>
+    <Elem Prompt="Virtual Layer Switch" Name="Virtual Layer Switch" PromptU="Virtual Layer Switch" NameU="Virtual Layer Switch"/>
+    <Elem Prompt="Multilayer Remote Switch" Name="Multilayer Remote Switch" PromptU="Multilayer Remote Switch" NameU="Multilayer Remote Switch"/>
+    <Elem Prompt="Layer 2 Remote Switch" Name="Layer 2 Remote Switch" PromptU="Layer 2 Remote Switch" NameU="Layer 2 Remote Switch"/>
+    <Elem Prompt="Multi-Fabric Server Switch" Name="Multi-Fabric Server Switch" PromptU="Multi-Fabric Server Switch" NameU="Multi-Fabric Server Switch"/>
+    <Elem Prompt="Server Switch" Name="Server Switch" PromptU="Server Switch" NameU="Server Switch"/>
+    <Elem Prompt="UPC Unified Personal Communicato" Name="UPC Unified Personal Communicato" PromptU="UPC Unified Personal Communicato" NameU="UPC Unified Personal Communicato"/>
+    <Elem Prompt="PMC" Name="PMC" PromptU="PMC" NameU="PMC"/>
+    <Elem Prompt="IP Communicator" Name="IP Communicator" PromptU="IP Communicator" NameU="IP Communicator"/>
+    <Elem Prompt="Streamer" Name="Streamer" PromptU="Streamer" NameU="Streamer"/>
+    <Elem Prompt="Vault" Name="Vault" PromptU="Vault" NameU="Vault"/>
+    <Elem Prompt="Cisco Unified Communications 500 Series for Small Business" Name="Cisco Unified Communications 500 Series for Small Business" PromptU="Cisco Unified Communications 500 Series for Small Business" NameU="Cisco Unified Communications 500 Series for Small Business"/>
+    <Elem Prompt="DWDM Filter" Name="DWDM Filter" PromptU="DWDM Filter" NameU="DWDM Filter"/>
+    <Elem Prompt="DWDM Ring" Name="DWDM Ring" PromptU="DWDM Ring" NameU="DWDM Ring"/>
+    <Elem Prompt="DWDM Network Line" Name="DWDM Network Line" PromptU="DWDM Network Line" NameU="DWDM Network Line"/>
+    <Elem Prompt="Streamer (Half-Full)" Name="Streamer (Half-Full)" PromptU="Streamer (Half-Full)" NameU="Streamer (Half-Full)"/>
+    <Elem Prompt="Vault (Half-Full)" Name="Vault (Half-Full)" PromptU="Vault (Half-Full)" NameU="Vault (Half-Full)"/>
+    <Elem Prompt="System Controller" Name="System Controller" PromptU="System Controller" NameU="System Controller"/>
+    <Elem Prompt="Application Control Engine" Name="Application Control Engine" PromptU="Application Control Engine" NameU="Application Control Engine"/>
+    <Elem Prompt="ACE XML Gateway" Name="ACE XML Gateway" PromptU="ACE XML Gateway" NameU="ACE XML Gateway"/>
+    <Elem Prompt="ACE XML Manager" Name="ACE XML Manager" PromptU="ACE XML Manager" NameU="ACE XML Manager"/>
+    <Elem Prompt="Service Router" Name="Service Router" PromptU="Service Router" NameU="Service Router"/>
+    <Elem Prompt="VSS" Name="VSS" PromptU="VSS" NameU="VSS"/>
+    <Elem Prompt="ASR 1000 Series" Name="ASR 1000 Series" PromptU="ASR 1000 Series" NameU="ASR 1000 Series"/>
+    <Elem Prompt="IPICS Server" Name="IPICS Server" PromptU="IPICS Server" NameU="IPICS Server"/>
+    <Elem Prompt="Nexus 5000" Name="Nexus 5000" PromptU="Nexus 5000" NameU="Nexus 5000"/>
+    <Elem Prompt="Automatic Protection Switching" Name="Automatic Protection Switching" PromptU="Automatic Protection Switching" NameU="Automatic Protection Switching"/>
+    <Elem Prompt="Channelized Pipe" Name="Channelized Pipe" PromptU="Channelized Pipe" NameU="Channelized Pipe"/>
+    <Elem Prompt="Concatenated Payload" Name="Concatenated Payload" PromptU="Concatenated Payload" NameU="Concatenated Payload"/>
+    <Elem Prompt="Optical Cross- Connect" Name="Optical Cross- Connect" PromptU="Optical Cross- Connect" NameU="Optical Cross- Connect"/>
+    <Elem Prompt="WDM" Name="WDM" PromptU="WDM" NameU="WDM"/>
+    <Elem Prompt="Optical Fiber" Name="Optical Fiber" PromptU="Optical Fiber" NameU="Optical Fiber"/>
+    <Elem Prompt="ONS15104" Name="ONS15104" PromptU="ONS15104" NameU="ONS15104"/>
+    <Elem Prompt="SONET MUX" Name="SONET MUX" PromptU="SONET MUX" NameU="SONET MUX"/>
+    <Elem Prompt="Optical Amplifier" Name="Optical Amplifier" PromptU="Optical Amplifier" NameU="Optical Amplifier"/>
+    <Elem Prompt="Digital Cross-Connect" Name="Digital Cross-Connect" PromptU="Digital Cross-Connect" NameU="Digital Cross-Connect"/>
+    <Elem Prompt="Optical Services Router" Name="Optical Services Router" PromptU="Optical Services Router" NameU="Optical Services Router"/>
+    <Elem Prompt="Cisco 10700" Name="Cisco 10700" PromptU="Cisco 10700" NameU="Cisco 10700"/>
+    <Elem Prompt="Optical Transport" Name="Optical Transport" PromptU="Optical Transport" NameU="Optical Transport"/>
+    <Elem Prompt="Wide Area Application Engine" Name="Wide Area Application Engine" PromptU="Wide Area Application Engine" NameU="Wide Area Application Engine"/>
+    <Elem Prompt="Protected Optical" Name="Protected Optical" PromptU="Protected Optical" NameU="Protected Optical"/>
+    <Elem Prompt="Unprotected Optical" Name="Unprotected Optical" PromptU="Unprotected Optical" NameU="Unprotected Optical"/>
+    <Elem Prompt="Metro 1500" Name="Metro 1500" PromptU="Metro 1500" NameU="Metro 1500"/>
+    <Elem Prompt="ONS 15540" Name="ONS 15540" PromptU="ONS 15540" NameU="ONS 15540"/>
+    <Elem Prompt="Secure Switch Cisco" Name="Secure Switch Cisco" PromptU="Secure Switch Cisco" NameU="Secure Switch Cisco"/>
+    <Elem Prompt="Secure Switch Subdued Color" Name="Secure Switch Subdued Color" PromptU="Secure Switch Subdued Color" NameU="Secure Switch Subdued Color"/>
+    <Elem Prompt="Secure Router (Cisco)" Name="Secure Router (Cisco)" PromptU="Secure Router (Cisco)" NameU="Secure Router (Cisco)"/>
+    <Elem Prompt="(Subdued Color )" Name="(Subdued Color )" PromptU="(Subdued Color )" NameU="(Subdued Color )"/>
+    <Elem Prompt="Secure Catalyst Switch" Name="Secure Catalyst Switch" PromptU="Secure Catalyst Switch" NameU="Secure Catalyst Switch"/>
+    <Elem Prompt="Secure Catalyst Switch  Subdued Color" Name="Secure Catalyst Switch  Subdued Color" PromptU="Secure Catalyst Switch  Subdued Color" NameU="Secure Catalyst Switch  Subdued Color"/>
+    <Elem Prompt="Security Management  (Cisco )" Name="Security Management  (Cisco )" PromptU="Security Management  (Cisco )" NameU="Security Management  (Cisco )"/>
+    <Elem Prompt="Security Management (Generic Color Schemes)" Name="Security Management (Generic Color Schemes)" PromptU="Security Management (Generic Color Schemes)" NameU="Security Management (Generic Color Schemes)"/>
+    <Elem Prompt="Cisco ASA 5500" Name="Cisco ASA 5500" PromptU="Cisco ASA 5500" NameU="Cisco ASA 5500"/>
+    <Elem Prompt="NAC Appliance" Name="NAC Appliance" PromptU="NAC Appliance" NameU="NAC Appliance"/>
+    <Elem Prompt="Secure Server" Name="Secure Server" PromptU="Secure Server" NameU="Secure Server"/>
+    <Elem Prompt="CS-MARS" Name="CS-MARS" PromptU="CS-MARS" NameU="CS-MARS"/>
+    <Elem Prompt="Secure Endpoints (PC and Laptop)" Name="Secure Endpoints (PC and Laptop)" PromptU="Secure Endpoints (PC and Laptop)" NameU="Secure Endpoints (PC and Laptop)"/>
+    <Elem Prompt="SSC" Name="SSC" PromptU="SSC" NameU="SSC"/>
+    <Elem Prompt="IBM Mainframe" Name="IBM Mainframe" PromptU="IBM Mainframe" NameU="IBM Mainframe"/>
+    <Elem Prompt="IBM Mainframe with FEP" Name="IBM Mainframe with FEP" PromptU="IBM Mainframe with FEP" NameU="IBM Mainframe with FEP"/>
+    <Elem Prompt="FEP  (Front End Processor)" Name="FEP  (Front End Processor)" PromptU="FEP  (Front End Processor)" NameU="FEP  (Front End Processor)"/>
+    <Elem Prompt="Cluster Controller/3174 (Desktop Model, Not Used Much)" Name="Cluster Controller/3174 (Desktop Model, Not Used Much)" PromptU="Cluster Controller/3174 (Desktop Model, Not Used Much)" NameU="Cluster Controller/3174 (Desktop Model, Not Used Much)"/>
+    <Elem Prompt="IBM Mini (AS400)" Name="IBM Mini (AS400)" PromptU="IBM Mini (AS400)" NameU="IBM Mini (AS400)"/>
+    <Elem Prompt="Cluster Controller/ 3274 or 3174 (Most Common Type)" Name="Cluster Controller/ 3274 or 3174 (Most Common Type)" PromptU="Cluster Controller/ 3274 or 3174 (Most Common Type)" NameU="Cluster Controller/ 3274 or 3174 (Most Common Type)"/>
+    <Elem Prompt="DSU/CSU (Add Text in PowerPoint" Name="DSU/CSU (Add Text in PowerPoint" PromptU="DSU/CSU (Add Text in PowerPoint" NameU="DSU/CSU (Add Text in PowerPoint"/>
+    <Elem Prompt="WAN" Name="WAN" PromptU="WAN" NameU="WAN"/>
+    <Elem Prompt="MUX" Name="MUX" PromptU="MUX" NameU="MUX"/>
+    <Elem Prompt="PBX/ Switch" Name="PBX/ Switch" PromptU="PBX/ Switch" NameU="PBX/ Switch"/>
+    <Elem Prompt="Hub Gray and Blue" Name="Hub Gray and Blue" PromptU="Hub Gray and Blue" NameU="Hub Gray and Blue"/>
+    <Elem Prompt="NAT" Name="NAT" PromptU="NAT" NameU="NAT"/>
+    <Elem Prompt="Network Cloud,  Dark" Name="Network Cloud,  Dark" PromptU="Network Cloud,  Dark" NameU="Network Cloud,  Dark"/>
+    <Elem Prompt="Network Cloud,  Gold" Name="Network Cloud,  Gold" PromptU="Network Cloud,  Gold" NameU="Network Cloud,  Gold"/>
+    <Elem Prompt="Network Cloud,  White" Name="Network Cloud,  White" PromptU="Network Cloud,  White" NameU="Network Cloud,  White"/>
+    <Elem Prompt="Network Cloud, Standard Color" Name="Network Cloud, Standard Color" PromptU="Network Cloud, Standard Color" NameU="Network Cloud, Standard Color"/>
+    <Elem Prompt="Distributed Director" Name="Distributed Director" PromptU="Distributed Director" NameU="Distributed Director"/>
+    <Elem Prompt="Local Director" Name="Local Director" PromptU="Local Director" NameU="Local Director"/>
+    <Elem Prompt="PBX (Small)" Name="PBX (Small)" PromptU="PBX (Small)" NameU="PBX (Small)"/>
+    <Elem Prompt="DPT Ring" Name="DPT Ring" PromptU="DPT Ring" NameU="DPT Ring"/>
+    <Elem Prompt="Workstation (Sun)" Name="Workstation (Sun)" PromptU="Workstation (Sun)" NameU="Workstation (Sun)"/>
+    <Elem Prompt="PC" Name="PC" PromptU="PC" NameU="PC"/>
+    <Elem Prompt="Cisco Unified Contact Center Express" Name="Cisco Unified Contact Center Express" PromptU="Cisco Unified Contact Center Express" NameU="Cisco Unified Contact Center Express"/>
+    <Elem Prompt="VQE" Name="VQE" PromptU="VQE" NameU="VQE"/>
+    <Elem Prompt="VSD" Name="VSD" PromptU="VSD" NameU="VSD"/>
+    <Elem Prompt="Space Router" Name="Space Router" PromptU="Space Router" NameU="Space Router"/>
+    <Elem Prompt="Decoder" Name="Decoder" PromptU="Decoder" NameU="Decoder"/>
+    <Elem Prompt="TP MCU" Name="TP MCU" PromptU="TP MCU" NameU="TP MCU"/>
+    <Elem Prompt="Nexus 5000" Name="Nexus 5000" PromptU="Nexus 5000" NameU="Nexus 5000"/>
+    <Elem Prompt="NCE" Name="NCE" PromptU="NCE" NameU="NCE"/>
+    <Elem Prompt="NCE Router" Name="NCE Router" PromptU="NCE Router" NameU="NCE Router"/>
+    <Elem Prompt="Services" Name="Services" PromptU="Services" NameU="Services"/>
+    <Elem Prompt="RF Modem" Name="RF Modem" PromptU="RF Modem" NameU="RF Modem"/>
+    <Elem Prompt="Mediator" Name="Mediator" PromptU="Mediator" NameU="Mediator"/>
+    <Elem Prompt="Ground Terminal" Name="Ground Terminal" PromptU="Ground Terminal" NameU="Ground Terminal"/>
+    <Elem Prompt="10GE_FCoE" Name="10GE_FCoE" PromptU="10GE_FCoE" NameU="10GE_FCoE"/>
+    <Elem Prompt="MXE" Name="MXE" PromptU="MXE" NameU="MXE"/>
+    <Elem Prompt="Mobility Service Engine" Name="Mobility Service Engine" PromptU="Mobility Service Engine" NameU="Mobility Service Engine"/>
+    <Elem Prompt="BWG" Name="BWG" PromptU="BWG" NameU="BWG"/>
+    <Elem Prompt="WiMAX" Name="WiMAX" PromptU="WiMAX" NameU="WiMAX"/>
+    <Elem Prompt="Cisco WAAS Mobile Server" Name="Cisco WAAS Mobile Server" PromptU="Cisco WAAS Mobile Server" NameU="Cisco WAAS Mobile Server"/>
+    <Elem Prompt="ACS View" Name="ACS View" PromptU="ACS View" NameU="ACS View"/>
+    <Elem Prompt="AXP" Name="AXP" PromptU="AXP" NameU="AXP"/>
+    <Elem Prompt="Email and Web Interaction Manager" Name="Email and Web Interaction Manager" PromptU="Email and Web Interaction Manager" NameU="Email and Web Interaction Manager"/>
+    <Elem Prompt="Customer Voice Portal" Name="Customer Voice Portal" PromptU="Customer Voice Portal" NameU="Customer Voice Portal"/>
+    <Elem Prompt="Key" Name="Key" PromptU="Key" NameU="Key"/>
+    <Elem Prompt="Cisco WAAS Mobile Client" Name="Cisco WAAS Mobile Client" PromptU="Cisco WAAS Mobile Client" NameU="Cisco WAAS Mobile Client"/>
+    <Elem Prompt="Cisco Unified Intelligent Contact Management" Name="Cisco Unified Intelligent Contact Management" PromptU="Cisco Unified Intelligent Contact Management" NameU="Cisco Unified Intelligent Contact Management"/>
+    <Elem Prompt="SDTV" Name="SDTV" PromptU="SDTV" NameU="SDTV"/>
+    <Elem Prompt="Modem .324" Name="Modem .324" PromptU="Modem .324" NameU="Modem .324"/>
+    <Elem Prompt="Wireless Modem/ Wireless Gateway" Name="Wireless Modem/ Wireless Gateway" PromptU="Wireless Modem/ Wireless Gateway" NameU="Wireless Modem/ Wireless Gateway"/>
+    <Elem Prompt="Cisco Unified Contact Center Enterprise &amp; Hosted" Name="Cisco Unified Contact Center Enterprise &amp; Hosted" PromptU="Cisco Unified Contact Center Enterprise &amp; Hosted" NameU="Cisco Unified Contact Center Enterprise &amp; Hosted"/>
+    <Elem Prompt="HDTV" Name="HDTV" PromptU="HDTV" NameU="HDTV"/>
+    <Elem Prompt="DCM" Name="DCM" PromptU="DCM" NameU="DCM"/>
+    <Elem Prompt="Encoder" Name="Encoder" PromptU="Encoder" NameU="Encoder"/>
+    <Elem Prompt="Netcrypt" Name="Netcrypt" PromptU="Netcrypt" NameU="Netcrypt"/>
+    <Elem Prompt="QAM" Name="QAM" PromptU="QAM" NameU="QAM"/>
+    <Elem Prompt="Set-top" Name="Set-top" PromptU="Set-top" NameU="Set-top"/>
+    <Elem Prompt="Shield" Name="Shield" PromptU="Shield" NameU="Shield"/>
+    <Elem Prompt="Clock" Name="Clock" PromptU="Clock" NameU="Clock"/>
+    <Elem Prompt="Diskette (3.5&quot; Floppy)" Name="Diskette (3.5&quot; Floppy)" PromptU="Diskette (3.5&quot; Floppy)" NameU="Diskette (3.5&quot; Floppy)"/>
+    <Elem Prompt="PAD" Name="PAD" PromptU="PAD" NameU="PAD"/>
+    <Elem Prompt="MAU" Name="MAU" PromptU="MAU" NameU="MAU"/>
+    <Elem Prompt="UPS, RPS" Name="UPS, RPS" PromptU="UPS, RPS" NameU="UPS, RPS"/>
+    <Elem Prompt="Satellite and Satellite Dish" Name="Satellite and Satellite Dish" PromptU="Satellite and Satellite Dish" NameU="Satellite and Satellite Dish"/>
+    <Elem Prompt="BBS  (Bulletin Board System)" Name="BBS  (Bulletin Board System)" PromptU="BBS  (Bulletin Board System)" NameU="BBS  (Bulletin Board System)"/>
+    <Elem Prompt="Modem" Name="Modem" PromptU="Modem" NameU="Modem"/>
+    <Elem Prompt="Database, Relational" Name="Database, Relational" PromptU="Database, Relational" NameU="Database, Relational"/>
+    <Elem Prompt="Host" Name="Host" PromptU="Host" NameU="Host"/>
+    <Elem Prompt="Breakout Box" Name="Breakout Box" PromptU="Breakout Box" NameU="Breakout Box"/>
+    <Elem Prompt="File Cabinet" Name="File Cabinet" PromptU="File Cabinet" NameU="File Cabinet"/>
+    <Elem Prompt="Truck" Name="Truck" PromptU="Truck" NameU="Truck"/>
+    <Elem Prompt="Car" Name="Car" PromptU="Car" NameU="Car"/>
+    <Elem Prompt="Lock and Key" Name="Lock and Key" PromptU="Lock and Key" NameU="Lock and Key"/>
+    <Elem Prompt="Lock" Name="Lock" PromptU="Lock" NameU="Lock"/>
+    <Elem Prompt="Firewall, Horizontal and Vertical, Subdued" Name="Firewall, Horizontal and Vertical, Subdued" PromptU="Firewall, Horizontal and Vertical, Subdued" NameU="Firewall, Horizontal and Vertical, Subdued"/>
+    <Elem Prompt="Turret" Name="Turret" PromptU="Turret" NameU="Turret"/>
+    <Elem Prompt="Hoot and Holler Phone" Name="Hoot and Holler Phone" PromptU="Hoot and Holler Phone" NameU="Hoot and Holler Phone"/>
+    <Elem Prompt="Class 4/5 Switch" Name="Class 4/5 Switch" PromptU="Class 4/5 Switch" NameU="Class 4/5 Switch"/>
+    <Elem Prompt="Pager" Name="Pager" PromptU="Pager" NameU="Pager"/>
+    <Elem Prompt="BBFW Media" Name="BBFW Media" PromptU="BBFW Media" NameU="BBFW Media"/>
+    <Elem Prompt="BBFW" Name="BBFW" PromptU="BBFW" NameU="BBFW"/>
+    <Elem Prompt="Phone Polycom" Name="Phone Polycom" PromptU="Phone Polycom" NameU="Phone Polycom"/>
+    <Elem Prompt="Headphones" Name="Headphones" PromptU="Headphones" NameU="Headphones"/>
+    <Elem Prompt="Microphone" Name="Microphone" PromptU="Microphone" NameU="Microphone"/>
+    <Elem Prompt="Speaker" Name="Speaker" PromptU="Speaker" NameU="Speaker"/>
+    <Elem Prompt="Television .355" Name="Television .355" PromptU="Television .355" NameU="Television .355"/>
+    <Elem Prompt="Set Top  Box (STB)" Name="Set Top  Box (STB)" PromptU="Set Top  Box (STB)" NameU="Set Top  Box (STB)"/>
+    <Elem Prompt="IP Phone" Name="IP Phone" PromptU="IP Phone" NameU="IP Phone"/>
+    <Elem Prompt="Fax" Name="Fax" PromptU="Fax" NameU="Fax"/>
+    <Elem Prompt="Cell Phone" Name="Cell Phone" PromptU="Cell Phone" NameU="Cell Phone"/>
+    <Elem Prompt="Camera PC/Video .273" Name="Camera PC/Video .273" PromptU="Camera PC/Video .273" NameU="Camera PC/Video .273"/>
+    <Elem Prompt="Camera PC/Video" Name="Camera PC/Video" PromptU="Camera PC/Video" NameU="Camera PC/Video"/>
+    <Elem Prompt="Mobile  Access  Phone" Name="Mobile  Access  Phone" PromptU="Mobile  Access  Phone" NameU="Mobile  Access  Phone"/>
+    <Elem Prompt="Phone 2" Name="Phone 2" PromptU="Phone 2" NameU="Phone 2"/>
+    <Elem Prompt="Phone Ethernet" Name="Phone Ethernet" PromptU="Phone Ethernet" NameU="Phone Ethernet"/>
+    <Elem Prompt="Phone Feature" Name="Phone Feature" PromptU="Phone Feature" NameU="Phone Feature"/>
+    <Elem Prompt="Fax/ Phone" Name="Fax/ Phone" PromptU="Fax/ Phone" NameU="Fax/ Phone"/>
+    <Elem Prompt="Phone-Appliance" Name="Phone-Appliance" PromptU="Phone-Appliance" NameU="Phone-Appliance"/>
+    <Elem Prompt="Phone" Name="Phone" PromptU="Phone" NameU="Phone"/>
+    <Elem Prompt="End User Female, Left and Right" Name="End User Female, Left and Right" PromptU="End User Female, Left and Right" NameU="End User Female, Left and Right"/>
+    <Elem Prompt="End User Male, Left and Right" Name="End User Male, Left and Right" PromptU="End User Male, Left and Right" NameU="End User Male, Left and Right"/>
+    <Elem Prompt="Androgynous Person" Name="Androgynous Person" PromptU="Androgynous Person" NameU="Androgynous Person"/>
+    <Elem Prompt="End User, CiscoWorks" Name="End User, CiscoWorks" PromptU="End User, CiscoWorks" NameU="End User, CiscoWorks"/>
+    <Elem Prompt="Symbol Man, Various Colors" Name="Symbol Man, Various Colors" PromptU="Symbol Man, Various Colors" NameU="Symbol Man, Various Colors"/>
+    <Elem Prompt="Symbol Woman, Various Colors" Name="Symbol Woman, Various Colors" PromptU="Symbol Woman, Various Colors" NameU="Symbol Woman, Various Colors"/>
+    <Elem Prompt="Running Woman" Name="Running Woman" PromptU="Running Woman" NameU="Running Woman"/>
+    <Elem Prompt="Running Man (Color and Subdued)" Name="Running Man (Color and Subdued)" PromptU="Running Man (Color and Subdued)" NameU="Running Man (Color and Subdued)"/>
+    <Elem Prompt="Woman" Name="Woman" PromptU="Woman" NameU="Woman"/>
+    <Elem Prompt="Man" Name="Man" PromptU="Man" NameU="Man"/>
+    <Elem Prompt="MDU" Name="MDU" PromptU="MDU" NameU="MDU"/>
+    <Elem Prompt="Medium Building, Regular, Subdued,  and Blue" Name="Medium Building, Regular, Subdued,  and Blue" PromptU="Medium Building, Regular, Subdued,  and Blue" NameU="Medium Building, Regular, Subdued,  and Blue"/>
+    <Elem Prompt="Home Office" Name="Home Office" PromptU="Home Office" NameU="Home Office"/>
+    <Elem Prompt="Telecommuter House (Color and Subdued)" Name="Telecommuter House (Color and Subdued)" PromptU="Telecommuter House (Color and Subdued)" NameU="Telecommuter House (Color and Subdued)"/>
+    <Elem Prompt="House, Regular and Blue" Name="House, Regular and Blue" PromptU="House, Regular and Blue" NameU="House, Regular and Blue"/>
+    <Elem Prompt="Headquarters, Regular, Subdued,  and Blue" Name="Headquarters, Regular, Subdued,  and Blue" PromptU="Headquarters, Regular, Subdued,  and Blue" NameU="Headquarters, Regular, Subdued,  and Blue"/>
+    <Elem Prompt="Branch Office, Regular, Subdued,  and Blue" Name="Branch Office, Regular, Subdued,  and Blue" PromptU="Branch Office, Regular, Subdued,  and Blue" NameU="Branch Office, Regular, Subdued,  and Blue"/>
+    <Elem Prompt="Small Business" Name="Small Business" PromptU="Small Business" NameU="Small Business"/>
+    <Elem Prompt="University" Name="University" PromptU="University" NameU="University"/>
+    <Elem Prompt="Government" Name="Government" PromptU="Government" NameU="Government"/>
+    <Elem Prompt="Line: Ethernet  (Use Thicker where There Is Space)" Name="Line: Ethernet  (Use Thicker where There Is Space)" PromptU="Line: Ethernet  (Use Thicker where There Is Space)" NameU="Line: Ethernet  (Use Thicker where There Is Space)"/>
+    <Elem Prompt="Line: Circuit-Switched  (Use Thicker where There Is Space)" Name="Line: Circuit-Switched  (Use Thicker where There Is Space)" PromptU="Line: Circuit-Switched  (Use Thicker where There Is Space)" NameU="Line: Circuit-Switched  (Use Thicker where There Is Space)"/>
+    <Elem Prompt="Line: Serial (Use Thicker where There Is Space)" Name="Line: Serial (Use Thicker where There Is Space)" PromptU="Line: Serial (Use Thicker where There Is Space)" NameU="Line: Serial (Use Thicker where There Is Space)"/>
+    <Elem Prompt="FDDI Rings, with and without Text, Vertical and Horizontal" Name="FDDI Rings, with and without Text, Vertical and Horizontal" PromptU="FDDI Rings, with and without Text, Vertical and Horizontal" NameU="FDDI Rings, with and without Text, Vertical and Horizontal"/>
+    <Elem Prompt="Token Rings, with and without Text and Subdued" Name="Token Rings, with and without Text and Subdued" PromptU="Token Rings, with and without Text and Subdued" NameU="Token Rings, with and without Text and Subdued"/>
+    <Elem Prompt="Intelligence Engine 2100 Series" Name="Intelligence Engine 2100 Series" PromptU="Intelligence Engine 2100 Series" NameU="Intelligence Engine 2100 Series"/>
+    <Elem Prompt="Newton" Name="Newton" PromptU="Newton" NameU="Newton"/>
+    <Elem Prompt="Repeater" Name="Repeater" PromptU="Repeater" NameU="Repeater"/>
+    <Elem Prompt="Web Browser" Name="Web Browser" PromptU="Web Browser" NameU="Web Browser"/>
+    <Elem Prompt="Web Server" Name="Web Server" PromptU="Web Server" NameU="Web Server"/>
+    <Elem Prompt="LAN2LAN" Name="LAN2LAN" PromptU="LAN2LAN" NameU="LAN2LAN"/>
+    <Elem Prompt="Super- computer" Name="Super- computer" PromptU="Super- computer" NameU="Super- computer"/>
+    <Elem Prompt="HP Mini" Name="HP Mini" PromptU="HP Mini" NameU="HP Mini"/>
+    <Elem Prompt="ATM/FastGb Etherswitch" Name="ATM/FastGb Etherswitch" PromptU="ATM/FastGb Etherswitch" NameU="ATM/FastGb Etherswitch"/>
+    <Elem Prompt="Web Cluster" Name="Web Cluster" PromptU="Web Cluster" NameU="Web Cluster"/>
+    <Elem Prompt="Monitor" Name="Monitor" PromptU="Monitor" NameU="Monitor"/>
+    <Elem Prompt="File/ Application Server" Name="File/ Application Server" PromptU="File/ Application Server" NameU="File/ Application Server"/>
+    <Elem Prompt="Laptop" Name="Laptop" PromptU="Laptop" NameU="Laptop"/>
+    <Elem Prompt="Printer" Name="Printer" PromptU="Printer" NameU="Printer"/>
+    <Elem Prompt="Mini or  VAX/VMS  with DECnet" Name="Mini or  VAX/VMS  with DECnet" PromptU="Mini or  VAX/VMS  with DECnet" NameU="Mini or  VAX/VMS  with DECnet"/>
+    <Elem Prompt="Terminal" Name="Terminal" PromptU="Terminal" NameU="Terminal"/>
+    <Elem Prompt="Mac" Name="Mac" PromptU="Mac" NameU="Mac"/>
+</Lib>

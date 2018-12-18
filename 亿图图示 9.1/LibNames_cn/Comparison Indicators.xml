@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Comparison Indicators">
+    <Elem Prompt="双半球比较" Name="双半球比较" PromptU="Semicircular Indicator" NameU="Semicircular Indicator"/>
+    <Elem Prompt="双条形比较" Name="双条形比较" PromptU="Bar Indicator" NameU="Bar Indicator"/>
+    <Elem Prompt="双条形比较 2" Name="双条形比较 2" PromptU="Bar Indicator 2" NameU="Bar Indicator 2"/>
+    <Elem Prompt="百分比比较" Name="百分比比较" PromptU="Percentage Indicator" NameU="Percentage Indicator"/>
+    <Elem Prompt="分割条比较" Name="分割条比较" PromptU="Divided Bar Indicator" NameU="Divided Bar Indicator"/>
+    <Elem Prompt="圆形指示" Name="圆形指示" PromptU="Circle Indicator" NameU="Circle Indicator"/>
+    <Elem Prompt="圆形指示" Name="圆形指示" PromptU="Circle Indicator" NameU="Circle Indicator"/>
+    <Elem Prompt="圆形指示" Name="圆形指示 2" PromptU="Circle Indicator" NameU="Circle Indicator 2"/>
+    <Elem Prompt="圆形指示" Name="圆形指示 3" PromptU="Circle Indicator" NameU="Circle Indicator 3"/>
+    <Elem Prompt="圆形指示" Name="圆形指示 4" PromptU="Circle Indicator" NameU="Circle Indicator 4"/>
+    <Elem Prompt="圆形指示" Name="圆形指示 5" PromptU="Circle Indicator" NameU="Circle Indicator 5"/>
+    <Elem Prompt="圆形指示" Name="圆形指示 6" PromptU="Circle Indicator" NameU="Circle Indicator 6"/>
+    <Elem Prompt="垂直分割条比较" Name="垂直分割条比较" PromptU="Vertical Bar Indicator" NameU="Vertical Bar Indicator"/>
+    <Elem Prompt="电量指示" Name="电量指示" PromptU="Battery Indicator" NameU="Battery Indicator"/>
+    <Elem Prompt="饼图比较" Name="饼图比较" PromptU="Pie Indicator" NameU="Pie Indicator"/>
+    <Elem Prompt="图例符号" Name="图例符号" PromptU="Legend Icon" NameU="Legend Icon"/>
+    <Elem Prompt="渐变条" Name="渐变条" PromptU="Gradient Bar" NameU="Gradient Bar"/>
+    <Elem Prompt="水平渐变圆" Name="水平渐变圆" PromptU="Hori-Gradient Circle" NameU="Hori-Gradient Circle"/>
+    <Elem Prompt="水平渐变菱形" Name="水平渐变菱形" PromptU="Hori-Gradient Diamond" NameU="Hori-Gradient Diamond"/>
+    <Elem Prompt="渐变列" Name="渐变列" PromptU="Gradient Column" NameU="Gradient Column"/>
+    <Elem Prompt="渐变圆" Name="渐变圆" PromptU="Gradient Circles" NameU="Gradient Circles"/>
+    <Elem Prompt="渐变菱形" Name="渐变菱形" PromptU="Gradient Diamond" NameU="Gradient Diamond"/>
+</Lib>

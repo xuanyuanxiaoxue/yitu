@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Equipment - Vessels">
+    <Elem Prompt="加压立式容器" Name="立式容器" PromptU="Pressurized vertical vessel" NameU="Vertical vessel"/>
+    <Elem Prompt="加压卧式容器" Name="卧式容器" PromptU="Pressurized horizontal vessel" NameU="Horizontal vessel"/>
+    <Elem Prompt="夹套混合容器 （高压灭菌器）" Name="夹套混合容器 （高压灭菌器）" PromptU="Jacketed mixing vessel (autoclave)" NameU="Jacketed mixing vessel (autoclave)"/>
+    <Elem Prompt="半管混合容器" Name="半管混合容器" PromptU="Half pipe mixing vessel" NameU="Half pipe mixing vessel"/>
+    <Elem Prompt="柱形" Name="柱形" PromptU="Column" NameU="Column"/>
+    <Elem Prompt="板式塔" Name="板式塔" PromptU="Tray column" NameU="Tray column"/>
+    <Elem Prompt="板式塔 2" Name="板式塔 2" PromptU="Tray column 2" NameU="Tray column 2"/>
+    <Elem Prompt="板式塔 3" Name="板式塔 3" PromptU="Tray column 3" NameU="Tray column 3"/>
+    <Elem Prompt="流化床塔" Name="流化床塔" PromptU="Fluidized bed column" NameU="Fluidized bed column"/>
+    <Elem Prompt="泡罩托盘塔" Name="泡罩托盘塔" PromptU="Bubble cap trays column" NameU="Bubble cap trays column"/>
+    <Elem Prompt="交错挡板托盘塔" Name="交错挡板托盘塔" PromptU="Staggered baffle trays column" NameU="Staggered baffle trays column"/>
+    <Elem Prompt="阀盘塔" Name="阀盘塔" PromptU="Valve trays column" NameU="Valve trays column"/>
+    <Elem Prompt="填料塔" Name="填料塔" PromptU="Packing column" NameU="Packing column"/>
+    <Elem Prompt="填料塔 2" Name="填料塔 2" PromptU="Packing column 2" NameU="Packing column 2"/>
+    <Elem Prompt="鼓" Name="鼓" PromptU="Drum" NameU="Drum"/>
+    <Elem Prompt="分离鼓" Name="分离鼓" PromptU="Knock-out drum" NameU="Knock-out drum"/>
+    <Elem Prompt="袋" Name="袋" PromptU="Bag" NameU="Bag"/>
+    <Elem Prompt="袋 (ISO)" Name="袋 (ISO)" PromptU="Bag (ISO)" NameU="Bag (ISO)"/>
+    <Elem Prompt="桶" Name="桶" PromptU="Barrel" NameU="Barrel"/>
+    <Elem Prompt="桶 (ISO)" Name="桶 (ISO)" PromptU="Barrel (ISO)" NameU="Barrel (ISO)"/>
+    <Elem Prompt="气瓶" Name="气瓶" PromptU="Gas bottle" NameU="Gas bottle"/>
+    <Elem Prompt="锅炉" Name="锅炉" PromptU="Boiler" NameU="Boiler"/>
+    <Elem Prompt="圆顶锅炉" Name="圆顶锅炉" PromptU="Dome boiler" NameU="Dome boiler"/>
+    <Elem Prompt="热液体锅炉" Name="热液体锅炉" PromptU="Hot liquid boiler" NameU="Hot liquid boiler"/>
+    <Elem Prompt="水槽" Name="水槽" PromptU="Tank" NameU="Tank"/>
+    <Elem Prompt="水槽 2" Name="水槽 2" PromptU="Tank 2" NameU="Tank 2"/>
+    <Elem Prompt="水槽 3" Name="水槽 3" PromptU="Tank 3" NameU="Tank 3"/>
+    <Elem Prompt="水槽 4" Name="水槽 4" PromptU="Tank 4" NameU="Tank 4"/>
+    <Elem Prompt="开式水箱" Name="开式水箱" PromptU="Open tank" NameU="Open tank"/>
+    <Elem Prompt="盖罐" Name="盖罐" PromptU="Covered tank" NameU="Covered tank"/>
+    <Elem Prompt="浮顶罐" Name="浮顶罐" PromptU="Floating roof tank" NameU="Floating roof tank"/>
+    <Elem Prompt="开式批量储存器" Name="开式批量储存器" PromptU="Open bulk storage" NameU="Open bulk storage"/>
+    <Elem Prompt="拱顶水箱" Name="拱顶水箱" PromptU="Dome roof tank" NameU="Dome roof tank"/>
+    <Elem Prompt="锥顶水箱" Name="锥顶水箱" PromptU="Cone roof tank" NameU="Cone roof tank"/>
+    <Elem Prompt="内浮顶水槽" Name="内浮顶水槽" PromptU="Internal floating roof tank" NameU="Internal floating roof tank"/>
+    <Elem Prompt="双壁水槽" Name="双壁水槽" PromptU="Double wall tank" NameU="Double wall tank"/>
+    <Elem Prompt="洋葱型水槽" Name="洋葱型水槽" PromptU="Onion tank" NameU="Onion tank"/>
+    <Elem Prompt="保温容器" Name="保温容器" PromptU="Thermal insulation vessel" NameU="Thermal insulation vessel"/>
+    <Elem Prompt="加热和冷却夹套容器" Name="加热和冷却夹套容器" PromptU="Heating-cooling jacket vessel" NameU="Heating-cooling jacket vessel"/>
+    <Elem Prompt="带支架容器" Name="带支架容器" PromptU="Brackets vessel" NameU="Brackets vessel"/>
+    <Elem Prompt="盘形底容器" Name="盘形底容器" PromptU="Dished ends vessel" NameU="Dished ends vessel"/>
+    <Elem Prompt="外壁带凹槽的容器" Name="外壁带凹槽的容器" PromptU="Pit vessel" NameU="Pit vessel"/>
+    <Elem Prompt="电加热容器" Name="电加热容器" PromptU="Electrical heating vessel" NameU="Electrical heating vessel"/>
+    <Elem Prompt="污水处理" Name="污水处理" PromptU="Wastewater treatment" NameU="Wastewater treatment"/>
+    <Elem Prompt="箱子" Name="箱子" PromptU="Bin" NameU="Bin"/>
+</Lib>

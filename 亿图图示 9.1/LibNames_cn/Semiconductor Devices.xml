@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Semiconductor Devices">
+    <Elem Prompt="晶体管 PNP" Name="晶体管 PNP" PromptU="Transistor PNP" NameU="Transistor PNP"/>
+    <Elem Prompt="晶体管 NPN" Name="晶体管 NPN" PromptU="Transistor NPN" NameU="Transistor NPN"/>
+    <Elem Prompt="JFET(PNP)" Name="JFET(PNP)" PromptU="JFET(PNP)" NameU="JFET(PNP)"/>
+    <Elem Prompt="JFET(NPN)" Name="JFET(NPN)" PromptU="JFET(NPN)" NameU="JFET(NPN)"/>
+    <Elem Prompt="MOSFET(P)" Name="MOSFET(P)" PromptU="MOSFET(P)" NameU="MOSFET(P)"/>
+    <Elem Prompt="MOSFET(N)" Name="MOSFET(N)" PromptU="MOSFET(N)" NameU="MOSFET(N)"/>
+    <Elem Prompt="MOSFET感应通道 Channel (N)" Name="MOSFET感应通道 (N)" PromptU="MOSFET Inductive Channel (N)" NameU="MOSFET Inductive Channel (N)"/>
+    <Elem Prompt="MOSFET感应通道 (P)" Name="MOSFET感应通道 (P)" PromptU="MOSFET Inductive Channel (P)" NameU="MOSFET Inductive Channel (P)"/>
+    <Elem Prompt="MOSFET（N型基极）" Name="MOSFET（N型基极）" PromptU="MOSFET No Bulk (N)" NameU="MOSFET No Bulk (N)"/>
+    <Elem Prompt="MOSFET（P型基极）" Name="MOSFET（P型基极）" PromptU="MOSFET No Bulk (P)" NameU="MOSFET No Bulk (P)"/>
+    <Elem Prompt="Gual栅场效应晶体管(P)" Name="Gual栅场效应晶体管(P)" PromptU="Gual Gate MOSFET (P)" NameU="Gual Gate MOSFET (P)"/>
+    <Elem Prompt="Gual栅场效应晶体管(N)" Name="Gual栅场效应晶体管(N)" PromptU="Gual Gate MOSFET (N)" NameU="Gual Gate MOSFET (N)"/>
+    <Elem Prompt="二极管" Name="二极管" PromptU="Diode" NameU="Diode"/>
+    <Elem Prompt="二极管 2" Name="二极管 2" PromptU="Diode 2" NameU="Diode 2"/>
+    <Elem Prompt="晶体管 PNP 2" Name="晶体管 PNP 2" PromptU="Transistor PNP 2" NameU="Transistor PNP 2"/>
+    <Elem Prompt="晶体管 PNP（成像）" Name="晶体管 PNP（成像）" PromptU="Transistor PNP Photo" NameU="Transistor PNP Photo"/>
+    <Elem Prompt="晶体管 NPN 2" Name="晶体管 NPN 2" PromptU="Transistor NPN 2" NameU="Transistor NPN 2"/>
+    <Elem Prompt="晶体管 NPN（成像）" Name="晶体管 NPN（成像）" PromptU="Transistor NPN Photo" NameU="Transistor NPN Photo"/>
+    <Elem Prompt="四层二极管" Name="四层二极管" PromptU="Four layer diode" NameU="Four layer diode"/>
+    <Elem Prompt="金属氧化物半导体场效应晶体管" Name="金属氧化物半导体场效应晶体管" PromptU="MOSFET" NameU="MOSFET"/>
+    <Elem Prompt="二端交流开关元件" Name="二端交流开关元件" PromptU="Diac" NameU="Diac"/>
+    <Elem Prompt="三端双向可控硅开关元件" Name="三端双向可控硅开关元件" PromptU="Triac" NameU="Triac"/>
+    <Elem Prompt="结合点 - P通道" Name="结合点 - P通道" PromptU="Junction - P Channel" NameU="Junction - P Channel"/>
+    <Elem Prompt="结合点 - N通道" Name="结合点 - N通道" PromptU="Junction - N Channel" NameU="Junction - N Channel"/>
+    <Elem Prompt="横向" Name="横向" PromptU="Transverse" NameU="Transverse"/>
+    <Elem Prompt="电阻" Name="电阻" PromptU="Ohmic" NameU="Ohmic"/>
+    <Elem Prompt="单结" Name="单结" PromptU="Unijunction" NameU="Unijunction"/>
+    <Elem Prompt="复合晶体管" Name="复合晶体管" PromptU="Darlington" NameU="Darlington"/>
+    <Elem Prompt="闭锁" Name="闭锁" PromptU="Latch" NameU="Latch"/>
+    <Elem Prompt="N 型 IGFET" Name="N 型 IGFET" PromptU="IGFET N-Type" NameU="IGFET N-Type"/>
+    <Elem Prompt="P 型 IGFET" Name="P 型 IGFET" PromptU="IGFET P-Type" NameU="IGFET P-Type"/>
+    <Elem Prompt="甘恩二极管" Name="甘恩二极管" PromptU="Gunn diode" NameU="Gunn diode"/>
+    <Elem Prompt="阻断" Name="阻断" PromptU="Breakdown" NameU="Breakdown"/>
+    <Elem Prompt="变容二极管" Name="变容二极管" PromptU="Varactor varicap" NameU="Varactor varicap"/>
+    <Elem Prompt="隧道二极管" Name="隧道二极管" PromptU="Tunnel diode" NameU="Tunnel diode"/>
+    <Elem Prompt="反向二极管" Name="反向二极管" PromptU="Backward diode" NameU="Backward diode"/>
+    <Elem Prompt="肖特基二极管" Name="肖特基二极管" PromptU="Schottky diode" NameU="Schottky diode"/>
+    <Elem Prompt="齐纳二极管" Name="齐纳二极管" PromptU="Zener diode" NameU="Zener diode"/>
+    <Elem Prompt="变容二极管" Name="变容二极管" PromptU="Varactor" NameU="Varactor"/>
+    <Elem Prompt="瞬态吸收器" Name="瞬态吸收器" PromptU="Transorb" NameU="Transorb"/>
+    <Elem Prompt="瞬态吸收器 2" Name="瞬态吸收器 2" PromptU="Transorb 2" NameU="Transorb 2"/>
+    <Elem Prompt="控制开关" Name="控制开关" PromptU="Controlled switch" NameU="Controlled switch"/>
+    <Elem Prompt="受控整流器" Name="受控整流器" PromptU="Controlled rectifier" NameU="Controlled rectifier"/>
+    <Elem Prompt="关断整流器" Name="关断整流器" PromptU="Turn off rectifier" NameU="Turn off rectifier"/>
+    <Elem Prompt="四层二极管" Name="四层二极管" PromptU="Four layer diode" NameU="Four layer diode"/>
+    <Elem Prompt="光敏二极管" Name="光敏二极管" PromptU="Photodiode" NameU="Photodiode"/>
+    <Elem Prompt="击穿二极管" Name="击穿二极管" PromptU="Breakdown diode" NameU="Breakdown diode"/>
+    <Elem Prompt="电子管二极管" Name="电子管二极管" PromptU="Tube diode" NameU="Tube diode"/>
+    <Elem Prompt="电子管三极管" Name="电子管三极管" PromptU="Tube triode" NameU="Tube triode"/>
+    <Elem Prompt="电子管四极管" Name="电子管四极管" PromptU="Tube tetrode" NameU="Tube tetrode"/>
+    <Elem Prompt="电子管五极管" Name="电子管五极管" PromptU="Tube pentode" NameU="Tube pentode"/>
+    <Elem Prompt="关断三极管" Name="关断三极管" PromptU="Turn-off triode" NameU="Turn-off triode"/>
+    <Elem Prompt="真空二极管" Name="真空二极管" PromptU="Diode vacuum tubes" NameU="Diode vacuum tubes"/>
+    <Elem Prompt="双二极管 1" Name="双二极管 1" PromptU="Double diode" NameU="Double diode"/>
+    <Elem Prompt="双二极管 1" Name="双二极管 1" PromptU="Double diode" NameU="Double diode"/>
+    <Elem Prompt="双三极管" Name="双三极管" PromptU="Double triode" NameU="Double triode"/>
+    <Elem Prompt="四极管" Name="四极管" PromptU="Tetrode" NameU="Tetrode"/>
+    <Elem Prompt="五极管" Name="五极管" PromptU="Pentode" NameU="Pentode"/>
+    <Elem Prompt="光电管" Name="光电管" PromptU="Photocell" NameU="Photocell"/>
+</Lib>

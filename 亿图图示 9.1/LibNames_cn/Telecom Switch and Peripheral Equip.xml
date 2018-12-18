@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Telecom Switch and Peripheral Equip">
+    <Elem Prompt="电话" Name="电话" PromptU="Telephone" NameU="Telephone"/>
+    <Elem Prompt="连接阶段" Name="连接阶段" PromptU="Connecting stage" NameU="Connecting stage"/>
+    <Elem Prompt="标记阶段" Name="标记阶段" PromptU="Marking stage" NameU="Marking stage"/>
+    <Elem Prompt="开关阶段" Name="开关阶段" PromptU="Switching stage" NameU="Switching stage"/>
+    <Elem Prompt="开关设备 1" Name="开关设备 1" PromptU="Switching equipment 1" NameU="Switching equipment 1"/>
+    <Elem Prompt="开关设备 2" Name="开关设备 2" PromptU="Switching equipment 2" NameU="Switching equipment 2"/>
+    <Elem Prompt="磁型" Name="磁型" PromptU="Magnetic type" NameU="Magnetic type"/>
+    <Elem Prompt="移动线圈型" Name="移动线圈型" PromptU="Moving coil type" NameU="Moving coil type"/>
+    <Elem Prompt="移动铁型" Name="移动铁型" PromptU="Moving iron type" NameU="Moving iron type"/>
+    <Elem Prompt="立体声型" Name="立体声型" PromptU="Stereo type" NameU="Stereo type"/>
+    <Elem Prompt="盘型" Name="盘型" PromptU="Disc type" NameU="Disc type"/>
+    <Elem Prompt="磁带/胶卷型" Name="磁带/胶卷型" PromptU="Tape/Film type" NameU="Tape/Film type"/>
+    <Elem Prompt="磁鼓型" Name="磁鼓型" PromptU="Drum type" NameU="Drum type"/>
+    <Elem Prompt="复制" Name="复制" PromptU="Reproducing" NameU="Reproducing"/>
+    <Elem Prompt="录音/复制" Name="录音/复制" PromptU="Recording/reproducing" NameU="Recording/reproducing"/>
+    <Elem Prompt="擦除" Name="擦除" PromptU="Erasing" NameU="Erasing"/>
+    <Elem Prompt="放大器电路" Name="放大器电路" PromptU="Amplified circuit" NameU="Amplified circuit"/>
+    <Elem Prompt="脉冲调制" Name="脉冲调制" PromptU="Pulse modulation" NameU="Pulse modulation"/>
+    <Elem Prompt="变换器" Name="变换器" PromptU="Changer" NameU="Changer"/>
+    <Elem Prompt="滤波器" Name="滤波器" PromptU="Filter" NameU="Filter"/>
+    <Elem Prompt="滤波器 2" Name="滤波器 2" PromptU="Filter 2" NameU="Filter 2"/>
+    <Elem Prompt="高通滤波器" Name="高通滤波器" PromptU="Highpass filter" NameU="Highpass filter"/>
+    <Elem Prompt="低通滤波器" Name="低通滤波器" PromptU="Lowpass filter" NameU="Lowpass filter"/>
+    <Elem Prompt="带通滤波器" Name="带通滤波器" PromptU="Bandpass filter" NameU="Bandpass filter"/>
+    <Elem Prompt="网络" Name="网络" PromptU="Networks" NameU="Networks"/>
+    <Elem Prompt="端接装置" Name="端接装置" PromptU="Terminating sets" NameU="Terminating sets"/>
+    <Elem Prompt="调制器" Name="调制器" PromptU="Modulator" NameU="Modulator"/>
+    <Elem Prompt="录音机/复制机" Name="录音机/复制机" PromptU="Recorder/reproducer" NameU="Recorder/reproducer"/>
+    <Elem Prompt="集中" Name="集中" PromptU="Concentrating" NameU="Concentrating"/>
+    <Elem Prompt="频谱元件" Name="频谱元件" PromptU="Frequency spectrum element" NameU="Frequency spectrum element"/>
+    <Elem Prompt="频带" Name="频带" PromptU="Frequency band" NameU="Frequency band"/>
+    <Elem Prompt="导向光发射器" Name="导向光发射器" PromptU="Guided light transmitter" NameU="Guided light transmitter"/>
+    <Elem Prompt="手写笔操作头" Name="手写笔操作头" PromptU="Stylus operated head" NameU="Stylus operated head"/>
+    <Elem Prompt="等位" Name="等位" PromptU="Equipotential" NameU="Equipotential"/>
+    <Elem Prompt="热敏电阻" Name="热敏电阻" PromptU="Thermistor with independent integral heater" NameU="Thermistor with independent integral heater"/>
+</Lib>

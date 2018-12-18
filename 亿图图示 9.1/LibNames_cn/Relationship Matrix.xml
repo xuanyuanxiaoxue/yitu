@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Relationship Matrix">
+    <Elem Prompt="基础关系矩阵" Name="基础关系矩阵" PromptU="Basic Matrix" NameU="Basic Matrix"/>
+    <Elem Prompt="关系矩阵-垂直标题" Name="关系矩阵-垂直标题" PromptU="Basic Matrix-Vertical Title" NameU="Basic Matrix-Vertical Title"/>
+    <Elem Prompt="关系矩阵-角度标题" Name="关系矩阵-角度标题" PromptU="Basic Matrix-Angled Title" NameU="Basic Matrix-Angled Title"/>
+    <Elem Prompt="关系矩阵" Name="关系矩阵" PromptU="Relationship Matrix with Weight" NameU="Relationship Matrix"/>
+    <Elem Prompt="参与矩阵" Name="参与矩阵" PromptU="Involvement Matrix" NameU="Involvement Matrix"/>
+    <Elem Prompt="参与矩阵 2" Name="参与矩阵 2" PromptU="Involvement Matrix 2" NameU="Involvement Matrix 2"/>
+    <Elem Prompt="单列" Name="单列" PromptU="Single Column" NameU="Single Column"/>
+    <Elem Prompt="单行" Name="单行" PromptU="Single row with vertical text" NameU="Single Row"/>
+    <Elem Prompt="符号表" Name="符号表" PromptU="Legend" NameU="Legend"/>
+    <Elem Prompt="符号表 2" Name="符号表 2" PromptU="Legend 2" NameU="Legend 2"/>
+    <Elem Prompt="Text Block" Name="文本块" PromptU="Text Block" NameU="Text Block"/>
+    <Elem Prompt="12种符号" Name="12种符号" PromptU="12 different kinds of role flag" NameU="12-Role Flag"/>
+    <Elem Prompt="10种符号" Name="10种符号" PromptU="10 different kinds of role flag" NameU="10-Role Flag"/>
+    <Elem Prompt="多种颜色圆形符号" Name="多种颜色圆形符号" PromptU="Colorful Circle Flag" NameU="Colorful Circle Flag"/>
+    <Elem Prompt="数字" Name="数字" PromptU="Numbering" NameU="Numbering"/>
+    <Elem Prompt="进度" Name="进度" PromptU="Progress" NameU="Progress"/>
+    <Elem Prompt="3种状态 - 选中，没选中和空白." Name="选中框" PromptU="There are three states - checked, unchecked and corss." NameU="Check Box"/>
+    <Elem Prompt="是/否" Name="是/否" PromptU="Yes/No" NameU="Yes/No"/>
+    <Elem Prompt="播放符号" Name="播放符号" PromptU="Play Flag" NameU="Play Flag"/>
+    <Elem Prompt="上下左右4方向" Name="4方向箭头" PromptU="Up, Down, Left, Right" NameU="Four Directions"/>
+    <Elem Prompt="6种符号" Name="6种符号" PromptU="6 kinds of flag" NameU="6-Role Flag"/>
+</Lib>

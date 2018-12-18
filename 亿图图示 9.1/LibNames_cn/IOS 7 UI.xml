@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="IOS 7 UI">
+    <Elem Prompt="iPhone 5" Name="iPhone 5" PromptU="iPhone 5" NameU="iPhone 5"/>
+    <Elem Prompt="iphone 6" Name="iphone 6" PromptU="iphone 6" NameU="iphone 6"/>
+    <Elem Prompt="iphone 6 Plus" Name="iphone 6 Plus" PromptU="iphone 6 Plus" NameU="iphone 6 Plus"/>
+    <Elem Prompt="状态栏" Name="状态栏" PromptU="Status Bar" NameU="Status Bar"/>
+    <Elem Prompt="状态栏 2" Name="状态栏 2" PromptU="Status Bar 2" NameU="Status Bar 2"/>
+    <Elem Prompt="状态栏 3" Name="状态栏 3" PromptU="Status Bar 3" NameU="Status Bar 3"/>
+    <Elem Prompt="导航栏" Name="导航栏" PromptU="Navigation Bar" NameU="Navigation Bar"/>
+    <Elem Prompt="导航栏 2" Name="导航栏 2" PromptU="Navigation Bar 2" NameU="Navigation Bar 2"/>
+    <Elem Prompt="导航栏 3" Name="导航栏 3" PromptU="Navigation Bar 3" NameU="Navigation Bar 3"/>
+    <Elem Prompt="导航栏 2" Name="导航栏 2" PromptU="Navigation Bar 2" NameU="Navigation Bar 2"/>
+    <Elem Prompt="导航栏 3" Name="导航栏 3" PromptU="Navigation Bar 3" NameU="Navigation Bar 3"/>
+    <Elem Prompt="导航栏 4" Name="导航栏 4" PromptU="Navigation Bar 4" NameU="Navigation Bar 4"/>
+    <Elem Prompt="导航栏 5" Name="导航栏 5" PromptU="Navigation Bar 5" NameU="Navigation Bar 5"/>
+    <Elem Prompt="导航栏 6" Name="导航栏 6" PromptU="Navigation Bar 6" NameU="Navigation Bar 6"/>
+    <Elem Prompt="导航栏 7" Name="导航栏 7" PromptU="Navigation Bar 7" NameU="Navigation Bar 7"/>
+    <Elem Prompt="导航栏 8" Name="导航栏 8" PromptU="Navigation Bar 8" NameU="Navigation Bar 8"/>
+    <Elem Prompt="菜单栏 2" Name="菜单栏 1" PromptU="Menu bar 2" NameU="Menu bar 1"/>
+    <Elem Prompt="菜单栏 2" Name="菜单栏 2" PromptU="Menu bar 2" NameU="Menu bar 2"/>
+    <Elem Prompt="菜单栏 3" Name="菜单栏 3" PromptU="Menu bar 3" NameU="Menu bar 3"/>
+    <Elem Prompt="菜单栏 4" Name="菜单栏 4" PromptU="Menu bar 4" NameU="Menu bar 4"/>
+    <Elem Prompt="菜单栏 5" Name="菜单栏 5" PromptU="Menu bar 5" NameU="Menu bar 5"/>
+    <Elem Prompt="双按钮控制" Name="双按钮控制" PromptU="Two Buttons Control" NameU="Two Buttons Control"/>
+    <Elem Prompt="按钮控制" Name="按钮控制" PromptU="Buttons Control" NameU="Buttons Control"/>
+    <Elem Prompt="按钮控制" Name="按钮控制" PromptU="Buttons Control" NameU="Buttons Control"/>
+    <Elem Prompt="信息栏" Name="信息栏" PromptU="Message Bar" NameU="Message Bar"/>
+    <Elem Prompt="音量控制" Name="音量控制" PromptU="Volume Control" NameU="Volume Control"/>
+    <Elem Prompt="时间控制器" Name="时间控制器" PromptU="Time controller" NameU="Time controller"/>
+    <Elem Prompt="按钮带" Name="按钮带" PromptU="Button Bar" NameU="Button Bar"/>
+    <Elem Prompt="按钮带" Name="按钮带" PromptU="Button Bar" NameU="Button Bar"/>
+    <Elem Prompt="工作栏" Name="工作栏" PromptU="Work field" NameU="Work field"/>
+    <Elem Prompt="选择栏 1" Name="选择栏 1" PromptU="Option Bar 1" NameU="Option Bar 1"/>
+    <Elem Prompt="选择栏 2" Name="选择栏 2" PromptU="Option Bar 2" NameU="Option Bar 2"/>
+    <Elem Prompt="选择栏 3" Name="选择栏 3" PromptU="Option Bar 3" NameU="Option Bar 3"/>
+    <Elem Prompt="选择栏 4" Name="选择栏 4" PromptU="Option Bar 4" NameU="Option Bar 4"/>
+    <Elem Prompt="选择栏" Name="选择栏" PromptU="Option Bar" NameU="Option Bar"/>
+    <Elem Prompt="分隔线" Name="分隔线" PromptU="Line between" NameU="Line between"/>
+    <Elem Prompt="进度条" Name="进度条" PromptU="Progress Bar" NameU="Progress Bar"/>
+    <Elem Prompt="滑动条" Name="滑动条" PromptU="Slider" NameU="Slider"/>
+    <Elem Prompt="滑动条" Name="滑动条" PromptU="Slider" NameU="Slider"/>
+    <Elem Prompt="Google工具栏" Name="Google工具栏" PromptU="Google Toolbar" NameU="Google Toolbar"/>
+    <Elem Prompt="搜索框" Name="搜索框" PromptU="Search Bar" NameU="Search Bar"/>
+    <Elem Prompt="搜索框" Name="搜索框" PromptU="Search Bar" NameU="Search Bar"/>
+    <Elem Prompt="开" Name="开" PromptU="Turn On" NameU="Turn On"/>
+    <Elem Prompt="关" Name="关" PromptU="Turn Off" NameU="Turn Off"/>
+    <Elem Prompt="按键" Name="按键" PromptU="Button" NameU="Button"/>
+    <Elem Prompt="按键 1" Name="按键 1" PromptU="Button 1" NameU="Button 1"/>
+    <Elem Prompt="按键 3" Name="按键 3" PromptU="Button 3" NameU="Button 3"/>
+    <Elem Prompt="键盘控制" Name="键盘控制" PromptU="Keyboard Control" NameU="Keyboard Control"/>
+    <Elem Prompt="数字键盘" Name="数字键盘" PromptU="Number Keyboard" NameU="Number Keyboard"/>
+    <Elem Prompt="手机键盘" Name="手机键盘" PromptU="Phone keyboard" NameU="Phone keyboard"/>
+    <Elem Prompt="手机按键" Name="手机按键" PromptU="Phone buttons" NameU="Phone buttons"/>
+    <Elem Prompt="通话菜单" Name="通话菜单" PromptU="MENU-Call Related Features" NameU="MENU-Call Related Features"/>
+    <Elem Prompt="选择文本框" Name="选择文本框" PromptU="Text Selection Frame" NameU="Text Selection Frame"/>
+    <Elem Prompt="选择框" Name="选择框" PromptU="Selection Frame" NameU="Selection Frame"/>
+    <Elem Prompt="警报" Name="警报" PromptU="Alert" NameU="Alert"/>
+    <Elem Prompt="应用图标" Name="应用图标" PromptU="App Icon" NameU="App Icon"/>
+    <Elem Prompt="方框" Name="方框" PromptU="Block" NameU="Block"/>
+</Lib>

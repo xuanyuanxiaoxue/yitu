@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Symbols">
+    <Elem Prompt="点击颜色条改变颜色" Name="红色旗帜" PromptU="Click color bar to change its color" NameU="Red Flag"/>
+    <Elem Prompt="点击颜色条改变颜色" Name="蓝色旗帜" PromptU="Click color bar to change its color." NameU="Blue Flag"/>
+    <Elem Prompt="点击颜色条改变颜色" Name="绿色旗帜" PromptU="Click color bar to change its color." NameU="Green Flag"/>
+    <Elem Prompt="点击颜色条改变颜色" Name="紫色旗帜" PromptU="Click color bar to change its color." NameU="Purple Flag"/>
+    <Elem Prompt="点击颜色条改变颜色" Name="黄色旗帜" PromptU="Click color bar to change its color." NameU="Yellow Flag"/>
+    <Elem Prompt="可以改变颜色" Name="红色资源" PromptU="You can change its color." NameU="Red Resource"/>
+    <Elem Prompt="可以改变颜色" Name="蓝色资源" PromptU="You can change its color." NameU="Blue Resource"/>
+    <Elem Prompt="可以改变颜色" Name="绿色资源" PromptU="You can change its color." NameU="Resource Green"/>
+    <Elem Prompt="可以改变颜色" Name="紫色资源" PromptU="You can change its color." NameU="Purple Resource"/>
+    <Elem Prompt="可以改变颜色" Name="黄色资源" PromptU="You can change its color." NameU="Yellow Resource"/>
+    <Elem Prompt="箭头" Name="向右箭头" PromptU="Arrow" NameU="Right Arrow"/>
+    <Elem Prompt="箭头" Name="向左箭头" PromptU="Arrow" NameU="Left Arrow"/>
+    <Elem Prompt="箭头" Name="向上箭头" PromptU="Arrow" NameU="Up Arrow"/>
+    <Elem Prompt="箭头" Name="向下箭头" PromptU="Arrow" NameU="Down Arrow"/>
+    <Elem Prompt="动态流程" Name="动态流程" PromptU="Dynamic Progress" NameU="Dynamic Progress"/>
+    <Elem Prompt="数字" Name="数字" PromptU="Numbers" NameU="Numbers"/>
+    <Elem Prompt="感叹号" Name="感叹号" PromptU="Exclamation" NameU="Exclamation"/>
+    <Elem Prompt="问题" Name="问题" PromptU="Question" NameU="Question"/>
+    <Elem Prompt="星星" Name="星星" PromptU="Star" NameU="Star"/>
+    <Elem Prompt="创意" Name="创意" PromptU="Idea" NameU="Idea"/>
+    <Elem Prompt="创意 2" Name="创意 2" PromptU="Idea 2" NameU="Idea 2"/>
+    <Elem Prompt="完成" Name="完成" PromptU="Completed" NameU="Completed"/>
+    <Elem Prompt="取消" Name="取消" PromptU="Cancel" NameU="Cancel"/>
+    <Elem Prompt="竖拇指" Name="竖拇指" PromptU="Thumbs Up" NameU="Thumbs Up"/>
+    <Elem Prompt="拇指向下" Name="拇指向下" PromptU="Thumbs Down" NameU="Thumbs Down"/>
+    <Elem Prompt="V手势" Name="V手势" PromptU="Guesture V" NameU="Guesture V"/>
+    <Elem Prompt="握手" Name="握手" PromptU="Shake hands" NameU="Shake hands"/>
+    <Elem Prompt="女人" Name="女人" PromptU="Woman" NameU="Woman"/>
+    <Elem Prompt="男人" Name="男人" PromptU="Man" NameU="Man"/>
+    <Elem Prompt="主页" Name="主页" PromptU="Home" NameU="Home"/>
+    <Elem Prompt="锁定" Name="锁定" PromptU="Lock" NameU="Lock"/>
+    <Elem Prompt="解锁" Name="解锁" PromptU="Unlock" NameU="Unlock"/>
+    <Elem Prompt="关键" Name="关键" PromptU="Key" NameU="Key"/>
+    <Elem Prompt="开心" Name="开心" PromptU="Happy" NameU="Happy"/>
+    <Elem Prompt="难过" Name="难过" PromptU="Sad" NameU="Sad"/>
+    <Elem Prompt="惊讶" Name="惊讶" PromptU="Surprised" NameU="Surprised"/>
+    <Elem Prompt="大笑" Name="大笑" PromptU="Laugh" NameU="Laugh"/>
+    <Elem Prompt="生病" Name="生病" PromptU="Sick" NameU="Sick"/>
+    <Elem Prompt="生气" Name="生气" PromptU="Angry" NameU="Angry"/>
+    <Elem Prompt="桃心" Name="桃心" PromptU="Heart" NameU="Heart"/>
+    <Elem Prompt="篮球" Name="篮球" PromptU="Basketball" NameU="Basketball"/>
+    <Elem Prompt="足球" Name="足球" PromptU="Football" NameU="Football"/>
+    <Elem Prompt="眼镜" Name="眼镜" PromptU="Glasses" NameU="Glasses"/>
+    <Elem Prompt="火箭" Name="火箭" PromptU="Rocket" NameU="Rocket"/>
+    <Elem Prompt="闹钟" Name="闹钟" PromptU="Time" NameU="Time"/>
+    <Elem Prompt="文件夹" Name="文件夹" PromptU="Folder" NameU="Folder"/>
+    <Elem Prompt="磁盘" Name="磁盘" PromptU="Disc" NameU="Disc"/>
+    <Elem Prompt="咖啡" Name="咖啡" PromptU="Coffee" NameU="Coffee"/>
+    <Elem Prompt="铅笔" Name="铅笔" PromptU="Pencil" NameU="Pencil"/>
+    <Elem Prompt="不安全" Name="不安全" PromptU="Unsafety" NameU="Unsafety"/>
+    <Elem Prompt="安全" Name="安全" PromptU="Safety" NameU="Safety"/>
+    <Elem Prompt="缩放" Name="缩放" PromptU="Zoom" NameU="Zoom"/>
+    <Elem Prompt="电话" Name="电话" PromptU="Phone" NameU="Phone"/>
+    <Elem Prompt="设备" Name="设备" PromptU="Device" NameU="Device"/>
+    <Elem Prompt="炸弹" Name="炸弹" PromptU="Bomb" NameU="Bomb"/>
+    <Elem Prompt="信息" Name="信息" PromptU="Information" NameU="Information"/>
+    <Elem Prompt="说明" Name="说明" PromptU="Comment" NameU="Comment"/>
+    <Elem Prompt="日历" Name="日历" PromptU="Calendar" NameU="Calendar"/>
+    <Elem Prompt="条形图" Name="条形图" PromptU="Bar Chart" NameU="Bar Chart"/>
+    <Elem Prompt="饼图" Name="饼图" PromptU="Pie Chart" NameU="Pie Chart"/>
+    <Elem Prompt="欧元" Name="欧元" PromptU="Euro" NameU="Euro"/>
+    <Elem Prompt="美元" Name="美元" PromptU="Dollar" NameU="Dollar"/>
+    <Elem Prompt="礼物" Name="礼物" PromptU="Gift" NameU="Gift"/>
+    <Elem Prompt="齿轮" Name="齿轮" PromptU="Gear" NameU="Gear"/>
+    <Elem Prompt="音乐" Name="音乐" PromptU="Music" NameU="Music"/>
+    <Elem Prompt="十字" Name="十字" PromptU="Cross" NameU="Cross"/>
+    <Elem Prompt="购物车" Name="购物车" PromptU="Shopping Cart" NameU="Shopping Cart"/>
+    <Elem Prompt="撤销" Name="撤销" PromptU="Undo" NameU="Undo"/>
+    <Elem Prompt="重做" Name="重做" PromptU="Redo" NameU="Redo"/>
+    <Elem Prompt="链接" Name="链接" PromptU="Link" NameU="Link"/>
+    <Elem Prompt="公文包" Name="公文包" PromptU="Briefcase" NameU="Briefcase"/>
+    <Elem Prompt="闪电" Name="闪电" PromptU="Lightning" NameU="Lightning"/>
+    <Elem Prompt="电池" Name="电池" PromptU="Battery" NameU="Battery"/>
+    <Elem Prompt="猴头符" Name="猴头符" PromptU="At" NameU="At"/>
+</Lib>

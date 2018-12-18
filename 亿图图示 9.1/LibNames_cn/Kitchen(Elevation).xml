@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Kitchen (Elevation)">
+    <Elem Prompt="冰箱 1" Name="冰箱 1" PromptU="Refrigerator 1" NameU="Refrigerator 1"/>
+    <Elem Prompt="冰箱 2" Name="冰箱 2" PromptU="Refrigerator 2" NameU="Refrigerator 2"/>
+    <Elem Prompt="冰箱 3" Name="冰箱 3" PromptU="Refrigerator 3" NameU="Refrigerator 3"/>
+    <Elem Prompt="冰箱 4" Name="冰箱 4" PromptU="Refrigerator 4" NameU="Refrigerator 4"/>
+    <Elem Prompt="冰箱 5" Name="冰箱 5" PromptU="Refrigerator 5" NameU="Refrigerator 5"/>
+    <Elem Prompt="冰箱 6" Name="冰箱 6" PromptU="Refrigerator 6" NameU="Refrigerator 6"/>
+    <Elem Prompt="冰箱 7" Name="冰箱 7" PromptU="Refrigerator 7" NameU="Refrigerator 7"/>
+    <Elem Prompt="冰箱 8" Name="冰箱 8" PromptU="Refrigerator 8" NameU="Refrigerator 8"/>
+    <Elem Prompt="双开门冰箱" Name="双开门冰箱" PromptU="Two-door refrigerator" NameU="Two-door refrigerator"/>
+    <Elem Prompt="抽油烟机 1" Name="抽油烟机 1" PromptU="kitchen ventilator 1" NameU="kitchen ventilator 1"/>
+    <Elem Prompt="抽油烟机 2" Name="抽油烟机 2" PromptU="kitchen ventilator 2" NameU="kitchen ventilator 2"/>
+    <Elem Prompt="抽油烟机 3" Name="抽油烟机 3" PromptU="kitchen ventilator 3" NameU="kitchen ventilator 3"/>
+    <Elem Prompt="抽油烟机 4" Name="抽油烟机 4" PromptU="Kitchen ventilator 4" NameU="Kitchen ventilator 4"/>
+    <Elem Prompt="微波炉" Name="微波炉" PromptU="Microwave oven" NameU="Microwave oven"/>
+    <Elem Prompt="微波炉" Name="微波炉" PromptU="Microwave oven" NameU="Microwave oven"/>
+    <Elem Prompt="锅铲" Name="锅铲" PromptU="Turner" NameU="Turner"/>
+    <Elem Prompt="锅铲" Name="锅铲" PromptU="Truner" NameU="Truner"/>
+    <Elem Prompt="汤勺" Name="汤勺" PromptU="Soup ladle" NameU="Soup ladle"/>
+    <Elem Prompt="厨具" Name="厨具" PromptU="kitchen ware" NameU="kitchen ware"/>
+    <Elem Prompt="茶壶" Name="茶壶" PromptU="Teapot" NameU="Teapot"/>
+    <Elem Prompt="茶杯" Name="茶杯" PromptU="Teacup" NameU="Teacup"/>
+    <Elem Prompt="茶杯" Name="茶杯" PromptU="Teacup" NameU="Teacup"/>
+    <Elem Prompt="茶杯" Name="茶杯" PromptU="Teacup" NameU="Teacup"/>
+    <Elem Prompt="水壶" Name="水壶" PromptU="kettle" NameU="kettle"/>
+    <Elem Prompt="蒸笼" Name="蒸笼" PromptU="Steamer" NameU="Steamer"/>
+    <Elem Prompt="煎锅" Name="煎锅" PromptU="Frying pan" NameU="Frying pan"/>
+    <Elem Prompt="保暖锅" Name="保暖锅" PromptU="Chafing dish" NameU="Chafing dish"/>
+    <Elem Prompt="炖锅" Name="炖锅" PromptU="Saucepan" NameU="Saucepan"/>
+    <Elem Prompt="煤气炉" Name="煤气炉" PromptU="Gas cooker" NameU="Gas cooker"/>
+    <Elem Prompt="消毒柜" Name="消毒柜" PromptU="Disinfection cabinet" NameU="Disinfection cabinet"/>
+    <Elem Prompt="消毒柜 2" Name="消毒柜 2" PromptU="Disinfection cabinet 2" NameU="Disinfection cabinet 2"/>
+    <Elem Prompt="抽油烟机" Name="抽油烟机" PromptU="Range hood" NameU="Range hood"/>
+    <Elem Prompt="洗衣机" Name="洗衣机" PromptU="Washer" NameU="Washer"/>
+    <Elem Prompt="洗衣机" Name="洗衣机" PromptU="Washer" NameU="Washer"/>
+    <Elem Prompt="清洁剂" Name="清洁剂" PromptU="Detergent" NameU="Detergent"/>
+    <Elem Prompt="清洁剂" Name="清洁剂" PromptU="Detergent" NameU="Detergent"/>
+    <Elem Prompt="清洁剂" Name="清洁剂" PromptU="Detergent" NameU="Detergent"/>
+    <Elem Prompt="洗发水" Name="洗发水" PromptU="Shampoo" NameU="Shampoo"/>
+    <Elem Prompt="沐浴露" Name="沐浴露" PromptU="Shower Cream" NameU="Shower Cream"/>
+</Lib>

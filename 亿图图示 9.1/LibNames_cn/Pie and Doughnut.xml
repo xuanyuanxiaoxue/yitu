@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Pie and Doughnut">
+    <Elem Prompt="如何使用饼图" Name="如何使用饼图" PromptU="How to use Pie" NameU="How to use Pie"/>
+    <Elem Prompt="饼图" Name="饼图" PromptU="Pie" NameU="Pie"/>
+    <Elem Prompt="渐变色饼图" Name="渐变色饼图" PromptU="Gradient Pie" NameU="Gradient Pie"/>
+    <Elem Prompt="饼图 - 发散样式" Name="饼图 2" PromptU="Pie - Radio style" NameU="Pie 2"/>
+    <Elem Prompt="饼图 - 斜面样式" Name="饼图 3" PromptU="Pie - Bevel style" NameU="Pie 3"/>
+    <Elem Prompt="渐变百分比饼图" Name="渐变百分比饼图" PromptU="Gradient Percentage Pie" NameU="Gradient Percentage Pie"/>
+    <Elem Prompt="百分比饼图" Name="百分比饼图" PromptU="Percentage Pie" NameU="Percentage Pie"/>
+    <Elem Prompt="百分比饼图 - 发散样式" Name="百分比饼图 2" PromptU="Percentage Pie - Radio style" NameU="Percentage Pie 2"/>
+    <Elem Prompt="百分比饼图 - 斜面样式" Name="百分比饼图 3" PromptU="Percentage Pie - Bevel style" NameU="Percentage Pie 3"/>
+    <Elem Prompt="多饼图" Name="多饼图" PromptU="Multi-pie" NameU="Multi-pie"/>
+    <Elem Prompt="多饼图 - 发散样式" Name="多饼图 - 发散样式" PromptU="Multi-pie - Radio Style" NameU="Multi-pie - Radio Style"/>
+    <Elem Prompt="带有控制点的百分比饼图" Name="带有控制点的饼图" PromptU="Percentage Pie with yellow control handle" NameU="Pie with Handle"/>
+    <Elem Prompt="渐变环型图" Name="渐变环型图" PromptU="Gradient Doughnut" NameU="Gradient Doughnut"/>
+    <Elem Prompt="环型图" Name="环型图" PromptU="Doughnut" NameU="Doughnut"/>
+    <Elem Prompt="Percentage Doughnut with yellow control handle" Name="带控制点的环型图" PromptU="Percentage Doughnut with yellow control handle" NameU="Doughnut with Handle"/>
+    <Elem Prompt="环型图 - 发散样式" Name="环型图 2" PromptU="Doughnut - Radio style" NameU="Doughnut 2"/>
+    <Elem Prompt="环型图 - 斜面样式" Name="环型图 3" PromptU="Doughnut - Bevel style" NameU="Doughnut 3"/>
+    <Elem Prompt="渐变百分比环型图" Name="渐变百分比环型图" PromptU="Gradient Percentage Doughnut" NameU="Gradient Percentage Doughnut"/>
+    <Elem Prompt="百分比圆环图" Name="百分比圆环图" PromptU="Percentage Doughnut" NameU="Percentage Doughnut"/>
+    <Elem Prompt="百分比圆环图 - 发散样式" Name="百分比圆环图 2" PromptU="Percentage Doughnut - Radio style" NameU="Percentage Doughnut 2"/>
+    <Elem Prompt="百分比圆环图 - 斜面样式" Name="百分比圆环图 3" PromptU="Percentage Doughnut - Bevel style" NameU="Percentage Doughnut 3"/>
+    <Elem Prompt="多圆环图" Name="多圆环图" PromptU="Multi-level Doughnut" NameU="Multi-level Doughnut"/>
+</Lib>

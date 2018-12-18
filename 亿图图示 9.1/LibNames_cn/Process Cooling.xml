@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Process Cooling">
+    <Elem Prompt="吸收式冷却器" Name="吸收式冷却器" PromptU="Absorption chiller" NameU="Absorption chiller"/>
+    <Elem Prompt="冷却器 1" Name="冷却器 1" PromptU="Chiller 1" NameU="Chiller 1"/>
+    <Elem Prompt="冷却器 2" Name="冷却器 2" PromptU="Chiller 2" NameU="Chiller 2"/>
+    <Elem Prompt="冷却器 3" Name="冷却器 3" PromptU="Chiller 3" NameU="Chiller 3"/>
+    <Elem Prompt="冷却器 4" Name="冷却器 4" PromptU="Chiller 4" NameU="Chiller 4"/>
+    <Elem Prompt="冷却器 5" Name="冷却器 5" PromptU="Chiller 5" NameU="Chiller 5"/>
+    <Elem Prompt="冷却器 6" Name="冷却器 6" PromptU="Chiller 6" NameU="Chiller 6"/>
+    <Elem Prompt="冷发电机冷却器" Name="冷发电机冷却器" PromptU="Cold generator chiller" NameU="Cold generator chiller"/>
+    <Elem Prompt="冷却塔 1" Name="冷却塔 1" PromptU="Cooling tower 1" NameU="Cooling tower 1"/>
+    <Elem Prompt="冷却塔 2" Name="冷却塔 2" PromptU="Cooling tower 2" NameU="Cooling tower 2"/>
+    <Elem Prompt="冷却塔 3" Name="冷却塔 3" PromptU="Cooling tower 3" NameU="Cooling tower 3"/>
+    <Elem Prompt="冷却塔 4" Name="冷却塔 4" PromptU="Cooling tower 4" NameU="Cooling tower 4"/>
+    <Elem Prompt="冷却塔群塔" Name="冷却塔群塔" PromptU="Cooling Tower Make-up" NameU="Cooling Tower Make-up"/>
+    <Elem Prompt="舒适性冷却塔" Name="舒适性冷却塔" PromptU="Comfort cooler" NameU="Comfort cooler"/>
+    <Elem Prompt="发动机驱动冷却器" Name="发动机驱动冷却器" PromptU="Engine driven chiller" NameU="Engine driven chiller"/>
+    <Elem Prompt="防爆工业冷藏冷冻箱" Name="防爆工业冷藏冷冻箱" PromptU="Explosion-proof industrial refrigerator-freezer" NameU="Explosion-proof industrial refrigerator-freezer"/>
+    <Elem Prompt="大型便携式冷却器" Name="大型便携式冷却器" PromptU="Large portable chiller" NameU="Large portable chiller"/>
+    <Elem Prompt="天然气制冷系统" Name="天然气制冷系统" PromptU="Natural gas refrigeration system" NameU="Natural gas refrigeration system"/>
+    <Elem Prompt="反应产品冷却器" Name="反应产品冷却器" PromptU="Reactor product cooler" NameU="Reactor product cooler"/>
+    <Elem Prompt="简单冷却塔" Name="简单冷却塔" PromptU="Simple cooling tower" NameU="Simple cooling tower"/>
+    <Elem Prompt="温度控制装置" Name="温度控制装置" PromptU="Temperature control unit" NameU="Temperature control unit"/>
+    <Elem Prompt="水冷式冷却器" Name="水冷式冷却器" PromptU="Water-cooled chiller" NameU="Water-cooled chiller"/>
+</Lib>

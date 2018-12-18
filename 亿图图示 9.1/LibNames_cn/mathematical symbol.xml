@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Mathematical Symbol">
+    <Elem Prompt="分数" Name="分数" PromptU="Fraction" NameU="Fraction"/>
+    <Elem Prompt="分数" Name="分数" PromptU="Fraction" NameU="Fraction"/>
+    <Elem Prompt="导数" Name="导数" PromptU="Derivative" NameU="Derivative"/>
+    <Elem Prompt="加号" Name="加号" PromptU="Plus" NameU="Plus"/>
+    <Elem Prompt="减号" Name="减号" PromptU="Minus" NameU="Minus"/>
+    <Elem Prompt="正负号" Name="正负号" PromptU="Plus or Minus" NameU="Plus or Minus"/>
+    <Elem Prompt="乘号" Name="乘号" PromptU="Is Multiplied By" NameU="Is Multiplied By"/>
+    <Elem Prompt="除号" Name="除号" PromptU="Is Divided By " NameU="Is Divided By "/>
+    <Elem Prompt="等于" Name="等于" PromptU="Is Equal To " NameU="Is Equal To "/>
+    <Elem Prompt="不等于" Name="不等于" PromptU="Is Not Equal To" NameU="Is Not Equal To"/>
+    <Elem Prompt="等于或约等于" Name="等于或约等于" PromptU="Is Equal To Or Approximately Equal To " NameU="Is Equal To Or Approximately Equal To "/>
+    <Elem Prompt="恒等于" Name="恒等于" PromptU="Is Equivalent To" NameU="Is Equivalent To"/>
+    <Elem Prompt="约等于" Name="约等于" PromptU="Is Approximately Equal To" NameU="Is Approximately Equal To"/>
+    <Elem Prompt="小于" Name="小于" PromptU="Is Less Than" NameU="Is Less Than"/>
+    <Elem Prompt="大于" Name="大于" PromptU="Is More Than" NameU="Is More Than"/>
+    <Elem Prompt="小于或等于" Name="小于或等于" PromptU="Is Less Than Or Equal To" NameU="Is Less Than Or Equal To"/>
+    <Elem Prompt="大于或等于" Name="大于或等于" PromptU="Is More Than Or Equal To" NameU="Is More Than Or Equal To"/>
+    <Elem Prompt="百分之" Name="百分之" PromptU="Percent" NameU="Percent"/>
+    <Elem Prompt="千分之" Name="千分之" PromptU="Per Mill" NameU="Per Mill"/>
+    <Elem Prompt="无穷大" Name="无穷大" PromptU="Infinity" NameU="Infinity"/>
+    <Elem Prompt="正比例" Name="正比例" PromptU="Varies As" NameU="Varies As"/>
+    <Elem Prompt="因为" Name="因为" PromptU="Since; Because" NameU="Since; Because"/>
+    <Elem Prompt="所以" Name="所以" PromptU="Hence" NameU="Hence"/>
+    <Elem Prompt="比率" Name="比率" PromptU="proportion" NameU="proportion"/>
+    <Elem Prompt="角" Name="角" PromptU="Angle" NameU="Angle"/>
+    <Elem Prompt="半圆" Name="半圆" PromptU="Semicircle" NameU="Semicircle"/>
+    <Elem Prompt="圆" Name="圆" PromptU="Circle" NameU="Circle"/>
+    <Elem Prompt="圆周" Name="圆周" PromptU="Circumference" NameU="Circumference"/>
+    <Elem Prompt="Pi" Name="Pi" PromptU="Pi" NameU="Pi"/>
+    <Elem Prompt="三角形" Name="三角形" PromptU="Triangle" NameU="Triangle"/>
+    <Elem Prompt="垂直于" Name="垂直于" PromptU="Perpendicular To" NameU="Perpendicular To"/>
+    <Elem Prompt="交集" Name="交集" PromptU="Union Of" NameU="Union Of"/>
+    <Elem Prompt="并集" Name="并集" PromptU="Intersection Of" NameU="Intersection Of"/>
+    <Elem Prompt="积分" Name="积分" PromptU="The Integral Of" NameU="The Integral Of"/>
+    <Elem Prompt="总和" Name="总和" PromptU="Summation Of" NameU="Summation Of"/>
+    <Elem Prompt="度" Name="度" PromptU="Degree" NameU="Degree"/>
+    <Elem Prompt="分" Name="分" PromptU="Minute" NameU="Minute"/>
+    <Elem Prompt="秒" Name="秒" PromptU="Second" NameU="Second"/>
+    <Elem Prompt="摄氏温度" Name="摄氏温度" PromptU="Celsius System" NameU="Celsius System"/>
+    <Elem Prompt="和" Name="和" PromptU="Ampersand, And, Reference" NameU="Ampersand, And, Reference"/>
+    <Elem Prompt="斜杠" Name="斜杠" PromptU="Slash, Divide, Oblique" NameU="Slash, Divide, Oblique"/>
+    <Elem Prompt="#" Name="#" PromptU="Pound" NameU="Pound"/>
+    <Elem Prompt="相似于" Name="相似于" PromptU="Tilde" NameU="Tilde"/>
+    <Elem Prompt="句号" Name="句号" PromptU="Full Stop" NameU="Full Stop"/>
+    <Elem Prompt="Omma" Name="Omma" PromptU="Omma" NameU="Omma"/>
+    <Elem Prompt="冒号" Name="冒号" PromptU="Colon" NameU="Colon"/>
+    <Elem Prompt="分号" Name="分号" PromptU="Semicolon" NameU="Semicolon"/>
+    <Elem Prompt="问号" Name="问号" PromptU="Question Mark" NameU="Question Mark"/>
+    <Elem Prompt="叹号" Name="叹号" PromptU="Exclamation Mark" NameU="Exclamation Mark"/>
+    <Elem Prompt="点/省略号" Name="点/省略号" PromptU="Dots/ Ellipsis" NameU="Dots/ Ellipsis"/>
+    <Elem Prompt="分区；除法" Name="分区；除法" PromptU="Section; Division" NameU="Section; Division"/>
+    <Elem Prompt="箭头" Name="箭头" PromptU="Arrow" NameU="Arrow"/>
+    <Elem Prompt="竖线（直线，斜线）" Name="竖线（直线，斜线）" PromptU="Vertical Bar, Vertical Virgule " NameU="Vertical Bar, Vertical Virgule "/>
+    <Elem Prompt="平行线" Name="平行线" PromptU="Parallel" NameU="Parallel"/>
+    <Elem Prompt="包含" Name="包含" PromptU="Contain" NameU="Contain"/>
+    <Elem Prompt="包含" Name="包含" PromptU="Contain" NameU="Contain"/>
+    <Elem Prompt="包含或等于" Name="包含或等于" PromptU="Contain Or Is Equal To" NameU="Contain Or Is Equal To"/>
+    <Elem Prompt="包含或等于" Name="包含或等于" PromptU="Contain Or Is Equal To" NameU="Contain Or Is Equal To"/>
+    <Elem Prompt="不包含" Name="不包含" PromptU="Not Contain" NameU="Not Contain"/>
+    <Elem Prompt="属于" Name="属于" PromptU="Belong To" NameU="Belong To"/>
+    <Elem Prompt="不属于" Name="不属于" PromptU="Not Belong To" NameU="Not Belong To"/>
+    <Elem Prompt="左大括号" Name="左大括号" PromptU="Open Brace, Open Curly" NameU="Open Brace, Open Curly"/>
+    <Elem Prompt="右大括号" Name="右大括号" PromptU="Close Brace, Close Curly" NameU="Close Brace, Close Curly"/>
+    <Elem Prompt="左中括号" Name="左中括号" PromptU="Open Bracket" NameU="Open Bracket"/>
+    <Elem Prompt="右中括号" Name="右中括号" PromptU="Close Bracket" NameU="Close Bracket"/>
+    <Elem Prompt="左小括号" Name="左小括号" PromptU="Open Parenthesis, Open Paren" NameU="Open Parenthesis, Open Paren"/>
+    <Elem Prompt="右小括号" Name="右小括号" PromptU="Close Parenthesis, Close Paren" NameU="Close Parenthesis, Close Paren"/>
+</Lib>

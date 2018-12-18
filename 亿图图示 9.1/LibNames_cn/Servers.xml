@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Servers">
+    <Elem Prompt="服务器" Name="服务器 1" PromptU="Server" NameU="Server 1"/>
+    <Elem Prompt="服务器" Name="服务器 2" PromptU="Server" NameU="Server 2"/>
+    <Elem Prompt="服务器" Name="服务器 3" PromptU="Server" NameU="Server 3"/>
+    <Elem Prompt="超级计算机" Name="超级计算机" PromptU="Super Computer" NameU="Super Computer"/>
+    <Elem Prompt="大型机" Name="大型机" PromptU="Mainframe" NameU="Mainframe"/>
+    <Elem Prompt="文件服务器" Name="文件服务器" PromptU="File Server" NameU="File Server"/>
+    <Elem Prompt="Web 服务器" Name="Web 服务器" PromptU="Web Server" NameU="Web Server"/>
+    <Elem Prompt="FTP 服务器" Name="FTP 服务器" PromptU="FTP Server" NameU="FTP Server"/>
+    <Elem Prompt="邮件服务器" Name="邮件服务器" PromptU="Email Server" NameU="Email Server"/>
+    <Elem Prompt="电子商务服务器" Name="电子商务服务器" PromptU="E-Commerce Server" NameU="E-Commerce Server"/>
+    <Elem Prompt="数据库服务器" Name="数据库服务器" PromptU="Database Server" NameU="Database Server"/>
+    <Elem Prompt="通信服务器" Name="通信服务器" PromptU="Communication Server" NameU="Communication Server"/>
+    <Elem Prompt="代理服务器" Name="代理服务器" PromptU="Proxy Server" NameU="Proxy Server"/>
+    <Elem Prompt="打印服务器" Name="打印服务器" PromptU="Print Server" NameU="Print Server"/>
+    <Elem Prompt="管理服务器" Name="管理服务器" PromptU="Management Server" NameU="Management Server"/>
+    <Elem Prompt="流化媒体服务器" Name="流化媒体服务器" PromptU="Streaming Media Server" NameU="Streaming Media Server"/>
+    <Elem Prompt="目录服务器" Name="目录服务器" PromptU="Directory Server" NameU="Directory Server"/>
+    <Elem Prompt="移动通信服务器" Name="移动通信服务器" PromptU="Mobile Information Server" NameU="Mobile Information Server"/>
+    <Elem Prompt="私人或公共访问服务器" Name="私人或公共访问服务器" PromptU="Private or Public Access Server" NameU="Private or Public Access Server"/>
+</Lib>

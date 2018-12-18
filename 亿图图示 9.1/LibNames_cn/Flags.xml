@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Flags">
+    <Elem NameU="Afghanistan" Name="阿富汗" PromptU="Afghanistan" Prompt="阿富汗"/>
+    <Elem NameU="Albania" Name="阿尔巴尼亚" PromptU="Albania" Prompt="阿尔巴尼亚"/>
+    <Elem NameU="Algeria" Name="阿尔及利亚" PromptU="Algeria" Prompt="阿尔及利亚"/>
+    <Elem NameU="Andorra" Name="安道尔共和国" PromptU="Andorra" Prompt="安道尔共和国"/>
+    <Elem NameU="Angola" Name="安哥拉" PromptU="Angola" Prompt="安哥拉"/>
+    <Elem NameU="Argentina" Name="阿根廷" PromptU="Argentina" Prompt="阿根廷"/>
+    <Elem NameU="Armenia" Name="亚美尼亚" PromptU="Armenia" Prompt="亚美尼亚"/>
+    <Elem NameU="Australia" Name="澳大利亚" PromptU="Australia" Prompt="澳大利亚"/>
+    <Elem NameU="Austria" Name="奥地利" PromptU="Austria" Prompt="奥地利"/>
+    <Elem NameU="Azerbaijan" Name="阿塞拜疆" PromptU="Azerbaijan" Prompt="阿塞拜疆"/>
+    <Elem NameU="Bahamas" Name="巴哈马群岛" PromptU="Bahamas" Prompt="巴哈马群岛"/>
+    <Elem NameU="Bahrain" Name="巴林" PromptU="Bahrain" Prompt="巴林"/>
+    <Elem NameU="Bangladesh" Name="孟加拉" PromptU="Bangladesh" Prompt="孟加拉"/>
+    <Elem NameU="Barbados" Name="巴巴多斯岛" PromptU="Barbados" Prompt="巴巴多斯岛"/>
+    <Elem NameU="Belarus" Name="白俄罗斯共和国" PromptU="Belarus" Prompt="白俄罗斯共和国"/>
+    <Elem NameU="Belgium" Name="比利时" PromptU="Belgium" Prompt="比利时"/>
+    <Elem NameU="Benin" Name="贝宁湾" PromptU="Benin" Prompt="贝宁湾"/>
+    <Elem NameU="Bolivia" Name="玻利维亚" PromptU="Bolivia" Prompt="玻利维亚"/>
+    <Elem NameU="Bosnia-Herzegovina" Name="波斯尼亚-黑塞哥维那" PromptU="Bosnia-Herzegovina" Prompt="波斯尼亚-黑塞哥维那"/>
+    <Elem NameU="Botswana" Name="博茨瓦纳" PromptU="Botswana" Prompt="博茨瓦纳"/>
+    <Elem NameU="Brazil" Name="巴西" PromptU="Brazil" Prompt="巴西"/>
+    <Elem NameU="Bulgaria" Name="保加利亚" PromptU="Bulgaria" Prompt="保加利亚"/>
+    <Elem NameU="Burkina Faso" Name="布基纳法索" PromptU="Burkina Faso" Prompt="布基纳法索"/>
+    <Elem NameU="Burundi" Name="布隆迪" PromptU="Burundi" Prompt="布隆迪"/>
+    <Elem NameU="Cameroon" Name="喀麦隆" PromptU="Cameroon" Prompt="喀麦隆"/>
+    <Elem NameU="Canada" Name="加拿大" PromptU="Canada" Prompt="加拿大"/>
+    <Elem NameU="Central Africa" Name="中非" PromptU="Central Africa" Prompt="中非"/>
+    <Elem NameU="Chad" Name="乍得共和国" PromptU="Chad" Prompt="乍得共和国"/>
+    <Elem NameU="Chile" Name="智利" PromptU="Chile" Prompt="智利"/>
+    <Elem NameU="China" Name="中国" PromptU="China" Prompt="中国"/>
+    <Elem NameU="Colombia" Name="哥伦比亚" PromptU="Colombia" Prompt="哥伦比亚"/>
+    <Elem NameU="Congo" Name="刚果" PromptU="Congo" Prompt="刚果"/>
+    <Elem NameU="Costa Rica" Name="哥斯达黎加" PromptU="Costa Rica" Prompt="哥斯达黎加"/>
+    <Elem NameU="Croatia" Name="克罗地亚共和国" PromptU="Croatia" Prompt="克罗地亚共和国"/>
+    <Elem NameU="Cuba" Name="古巴" PromptU="Cuba" Prompt="古巴"/>
+    <Elem NameU="Cyprus" Name="塞浦路斯" PromptU="Cyprus" Prompt="塞浦路斯"/>
+    <Elem NameU="Czech Republic" Name="捷克共和国" PromptU="Czech Republic" Prompt="捷克共和国"/>
+    <Elem NameU="Denmark" Name="丹麦" PromptU="Denmark" Prompt="丹麦"/>
+    <Elem NameU="Djibouti" Name="吉布提" PromptU="Djibouti" Prompt="吉布提"/>
+    <Elem NameU="Dominican Republic" Name="多米尼加共和国" PromptU="Dominican Republic" Prompt="多米尼加共和国"/>
+    <Elem NameU="Ecuador" Name="厄瓜多尔" PromptU="Ecuador" Prompt="厄瓜多尔"/>
+    <Elem NameU="El Salvador" Name="萨尔瓦多" PromptU="El Salvador" Prompt="萨尔瓦多"/>
+    <Elem NameU="Equatorial guinea" Name="赤道几内亚" PromptU="Equatorial guinea" Prompt="赤道几内亚"/>
+    <Elem NameU="Egypt" Name="埃及" PromptU="Egypt" Prompt="埃及"/>
+    <Elem NameU="Eritrea" Name="厄立特里亚" PromptU="Eritrea" Prompt="厄立特里亚"/>
+    <Elem NameU="Estonia" Name="爱沙尼亚" PromptU="Estonia" Prompt="爱沙尼亚"/>
+    <Elem NameU="Ethiopia" Name="埃塞俄比亚" PromptU="Ethiopia" Prompt="埃塞俄比亚"/>
+    <Elem NameU="European-Union" Name="欧联体" PromptU="European-Union" Prompt="欧联体"/>
+    <Elem NameU="Finland" Name="芬兰" PromptU="Finland" Prompt="芬兰"/>
+    <Elem NameU="France" Name="法国" PromptU="France" Prompt="法国"/>
+    <Elem NameU="Gabon" Name="加蓬" PromptU="Gabon" Prompt="加蓬"/>
+    <Elem NameU="Gambia" Name="冈比亚" PromptU="Gambia" Prompt="冈比亚"/>
+    <Elem NameU="Georgia" Name="格鲁吉亚" PromptU="Georgia" Prompt="格鲁吉亚"/>
+    <Elem NameU="Germany" Name="德国" PromptU="Germany" Prompt="德国"/>
+    <Elem NameU="Ghana" Name="加纳" PromptU="Ghana" Prompt="加纳"/>
+    <Elem NameU="Greece" Name="希腊" PromptU="Greece" Prompt="希腊"/>
+    <Elem NameU="Greenland" Name="格陵兰" PromptU="Greenland" Prompt="格陵兰"/>
+    <Elem NameU="Guatemala" Name="危地马拉" PromptU="Guatemala" Prompt="危地马拉"/>
+    <Elem NameU="Guinea" Name="几内亚" PromptU="Guinea" Prompt="几内亚"/>
+    <Elem NameU="Guinea-Bissau" Name="几内亚比绍共和国" PromptU="Guinea-Bissau" Prompt="几内亚比绍共和国"/>
+    <Elem NameU="Guyana" Name="圭亚那" PromptU="Guyana" Prompt="圭亚那"/>
+    <Elem NameU="Haiti" Name="海地" PromptU="Haiti" Prompt="海地"/>
+    <Elem NameU="Honduras" Name="洪都拉斯" PromptU="Honduras" Prompt="洪都拉斯"/>
+    <Elem NameU="Hong Kong" Name="香港特别行政区" PromptU="Hong Kong" Prompt="香港特别行政区"/>
+    <Elem NameU="Hungary" Name="匈牙利" PromptU="Hungary" Prompt="匈牙利"/>
+    <Elem NameU="Iceland" Name="冰岛" PromptU="Iceland" Prompt="冰岛"/>
+    <Elem NameU="India" Name="印度" PromptU="India" Prompt="印度"/>
+    <Elem NameU="Indonesia" Name="印度尼西亚" PromptU="Indonesia" Prompt="印度尼西亚"/>
+    <Elem NameU="Iran" Name="伊朗" PromptU="Iran" Prompt="伊朗"/>
+    <Elem NameU="Iraq" Name="伊拉克" PromptU="Iraq" Prompt="伊拉克"/>
+    <Elem NameU="Ireland" Name="爱尔兰" PromptU="Ireland" Prompt="爱尔兰"/>
+    <Elem NameU="Israel" Name=" 以色列" PromptU="Israel" Prompt="以色列"/>
+    <Elem NameU="Italy" Name="意大利" PromptU="Italy" Prompt="意大利"/>
+    <Elem NameU="Jamaica" Name="牙买加" PromptU="Jamaica" Prompt="牙买加"/>
+    <Elem NameU="Japan" Name="日本" PromptU="Japan" Prompt="日本"/>
+    <Elem NameU="Jordan" Name="约旦" PromptU="Jordan" Prompt="约旦"/>
+    <Elem NameU="Kazakhstan" Name="哈萨克" PromptU="Kazakhstan" Prompt="哈萨克"/>
+    <Elem NameU="Kenya" Name="肯尼亚" PromptU="Kenya" Prompt="肯尼亚"/>
+    <Elem NameU="Kuwait" Name="科威特" PromptU="Kuwait" Prompt="科威特"/>
+    <Elem NameU="Kyrgayzstan" Name="吉尔吉斯坦" PromptU="Kyrgayzstan" Prompt="吉尔吉斯坦"/>
+    <Elem NameU="Laos" Name="老挝" PromptU="Laos" Prompt="老挝"/>
+    <Elem NameU="Latvia" Name="拉脱维亚" PromptU="Latvia" Prompt="拉脱维亚"/>
+    <Elem NameU="Lebanon" Name="黎巴嫩" PromptU="Lebanon" Prompt="黎巴嫩"/>
+    <Elem NameU="Lebowa" Name="利波瓦" PromptU="Lebowa" Prompt="利波瓦"/>
+    <Elem NameU="Lesotho" Name="莱索托" PromptU="Lesotho" Prompt="莱索托"/>
+    <Elem NameU="Liberia" Name="利比里亚" PromptU="Liberia" Prompt="利比里亚"/>
+    <Elem NameU="Libya" Name="利比亚" PromptU="Libya" Prompt="利比亚"/>
+    <Elem NameU="Liechtenstein" Name="列支敦士登" PromptU="Liechtenstein" Prompt="列支敦士登"/>
+    <Elem NameU="Lithuania" Name="立陶宛" PromptU="Lithuania" Prompt="立陶宛"/>
+    <Elem NameU="Luxembourg" Name="卢森堡" PromptU="Luxembourg" Prompt="卢森堡"/>
+    <Elem NameU="Madagascar" Name="马达加斯加" PromptU="Madagascar" Prompt="马达加斯加"/>
+    <Elem NameU="Malawi" Name="马拉维" PromptU="Malawi" Prompt="马拉维"/>
+    <Elem NameU="Malaysia" Name="马来西亚" PromptU="Malaysia" Prompt="马来西亚"/>
+    <Elem NameU="Mali" Name="马里" PromptU="Mali" Prompt="马里"/>
+    <Elem NameU="Mauritania" Name="毛里塔尼亚伊斯兰共和国" PromptU="Mauritania" Prompt="毛里塔尼亚伊斯兰共和国"/>
+    <Elem NameU="Macedonia" Name="马其顿" PromptU="Macedonia" Prompt="马其顿"/>
+    <Elem NameU="Mexico" Name="墨西哥" PromptU="Mexico" Prompt="墨西哥"/>
+    <Elem NameU="Moldova" Name="摩尔多瓦共和国" PromptU="Moldova" Prompt="摩尔多瓦共和国"/>
+    <Elem NameU="Monaco" Name="摩纳哥" PromptU="Monaco" Prompt="摩纳哥"/>
+    <Elem NameU="Mongolia" Name="蒙古" PromptU="Mongolia" Prompt="蒙古"/>
+    <Elem NameU="Morocco" Name="摩洛哥" PromptU="Morocco" Prompt="摩洛哥"/>
+    <Elem NameU="Mozambique" Name="莫桑比克" PromptU="Mozambique" Prompt="莫桑比克"/>
+    <Elem NameU="Namibia" Name="纳米比亚" PromptU="Namibia" Prompt="纳米比亚"/>
+    <Elem NameU="Nepal" Name="尼泊尔" PromptU="Nepal" Prompt="尼泊尔"/>
+    <Elem NameU="Netherlands" Name="荷兰" PromptU="Netherlands" Prompt="荷兰"/>
+    <Elem NameU="New Zealand" Name="新西兰" PromptU="New Zealand" Prompt="新西兰"/>
+    <Elem NameU="Nicaragua" Name="尼加拉瓜" PromptU="Nicaragua" Prompt="尼加拉瓜"/>
+    <Elem NameU="Niger" Name="尼日尔" PromptU="Niger" Prompt="尼日尔"/>
+    <Elem NameU="Nigeria" Name="尼日利亚" PromptU="Nigeria" Prompt="尼日利亚"/>
+    <Elem NameU="North Korea" Name="北朝鲜" PromptU="North Korea" Prompt="北朝鲜"/>
+    <Elem NameU="Norway" Name="挪威" PromptU="Norway" Prompt="挪威"/>
+    <Elem NameU="Oman" Name="阿曼" PromptU="Oman" Prompt="阿曼"/>
+    <Elem NameU="Pakistan" Name="巴基斯坦" PromptU="Pakistan" Prompt="巴基斯坦"/>
+    <Elem NameU="Palestine" Name="巴勒斯坦" PromptU="Palestine" Prompt="巴勒斯坦"/>
+    <Elem NameU="Panama" Name="巴拿马" PromptU="Panama" Prompt="巴拿马"/>
+    <Elem NameU="Papua New Cuinea" Name="巴布亚新几内亚" PromptU="Papua New Cuinea" Prompt="巴布亚新几内亚"/>
+    <Elem NameU="Paraguay" Name="巴拉圭" PromptU="Paraguay" Prompt="巴拉圭"/>
+    <Elem NameU="Peru" Name="秘鲁" PromptU="Peru" Prompt="秘鲁"/>
+    <Elem NameU="Philippines" Name="菲律宾" PromptU="Philippines" Prompt="菲律宾"/>
+    <Elem NameU="Poland" Name="波兰" PromptU="Poland" Prompt="波兰"/>
+    <Elem NameU="Portugal" Name="葡萄牙" PromptU="Portugal" Prompt="葡萄牙"/>
+    <Elem NameU="Puerto-Rico" Name="波多黎各" PromptU="Puerto-Rico" Prompt="波多黎各"/>
+    <Elem NameU="Qatar" Name="卡塔尔" PromptU="Qatar" Prompt="卡塔尔"/>
+    <Elem NameU="Romania" Name="罗马尼亚" PromptU="Romania" Prompt="罗马尼亚"/>
+    <Elem NameU="Russia" Name="俄罗斯" PromptU="Russia" Prompt="俄罗斯"/>
+    <Elem NameU="Rwanda" Name="卢旺达" PromptU="Rwanda" Prompt="卢旺达"/>
+    <Elem NameU="Saudi Arabia" Name="沙特阿拉伯" PromptU="Saudi Arabia" Prompt="沙特阿拉伯"/>
+    <Elem NameU="Senegal" Name="塞内加尔" PromptU="Senegal" Prompt="塞内加尔"/>
+    <Elem NameU="Serbia" Name="塞尔维亚" PromptU="Serbia" Prompt="塞尔维亚"/>
+    <Elem NameU="Sierra Leone" Name="塞拉利昂" PromptU="Sierra Leone" Prompt="塞拉利昂"/>
+    <Elem NameU="Singapore" Name="新加坡" PromptU="Singapore" Prompt="新加坡"/>
+    <Elem NameU="Slovakia" Name="斯洛伐克" PromptU="Slovakia" Prompt="斯洛伐克"/>
+    <Elem NameU="Slovenia" Name="斯洛文尼亚" PromptU="Slovenia" Prompt="斯洛文尼亚"/>
+    <Elem NameU="Somaila" Name="索马里" PromptU="Somaila" Prompt="索马里"/>
+    <Elem NameU="South Africa" Name="南非" PromptU="South Africa" Prompt="南非"/>
+    <Elem NameU="South Korea" Name="南韩" PromptU="South Korea" Prompt="南韩"/>
+    <Elem NameU="Spain" Name="西班牙" PromptU="Spain" Prompt="西班牙"/>
+    <Elem NameU="Sri Lanka" Name="斯里兰卡" PromptU="Sri Lanka" Prompt="斯里兰卡"/>
+    <Elem NameU="Sudan" Name="苏丹" PromptU="Sudan" Prompt="苏丹"/>
+    <Elem NameU="Swaziland" Name="斯威士兰" PromptU="Swaziland" Prompt="斯威士兰"/>
+    <Elem NameU="Sweden" Name="瑞典" PromptU="Sweden" Prompt="瑞典"/>
+    <Elem NameU="Switzerland" Name="瑞士" PromptU="Switzerland" Prompt="瑞士"/>
+    <Elem NameU="Syria" Name="叙利亚" PromptU="Syria" Prompt="叙利亚"/>
+    <Elem NameU="Taiwan" Name="台湾" PromptU="Taiwan" Prompt="台湾"/>
+    <Elem NameU="Tajikistan" Name="塔吉克斯坦" PromptU="Tajikistan" Prompt="塔吉克斯坦"/>
+    <Elem NameU="Tanzania" Name="坦桑尼亚" PromptU="Tanzania" Prompt="坦桑尼亚"/>
+    <Elem NameU="Thailand" Name="泰国" PromptU="Thailand" Prompt="泰国"/>
+    <Elem NameU="Togo" Name="多哥" PromptU="Togo" Prompt="多哥"/>
+    <Elem NameU="Trinidad And Tobago" Name="特立尼达和多巴哥共和国" PromptU="Trinidad And Tobago" Prompt="特立尼达和多巴哥共和国"/>
+    <Elem NameU="Tunisia" Name="突尼斯" PromptU="Tunisia" Prompt="突尼斯"/>
+    <Elem NameU="Turkey" Name="土耳其" PromptU="Turkey" Prompt="土耳其"/>
+    <Elem NameU="Turkmenistan" Name="土库曼斯坦斯坦" PromptU="Turkmenistan" Prompt="土库曼斯坦斯坦"/>
+    <Elem NameU="Uganda" Name="乌干达" PromptU="Uganda" Prompt="乌干达"/>
+    <Elem NameU="Ukraine" Name="乌克兰" PromptU="Ukraine" Prompt="乌克兰"/>
+    <Elem NameU="United Arab" Name="阿拉伯联合酋长国" PromptU="United Arab" Prompt="阿拉伯联合酋长国"/>
+    <Elem NameU="United Kingdom" Name="英国" PromptU="United Kingdom" Prompt="英国"/>
+    <Elem NameU="United States" Name="美国" PromptU="United States" Prompt="美国"/>
+    <Elem NameU="Uruguay" Name="乌拉圭" PromptU="Uruguay" Prompt="乌拉圭"/>
+    <Elem NameU="Uzbekistan" Name="乌兹别克" PromptU="Uzbekistan" Prompt="乌兹别克"/>
+    <Elem NameU="Venezuela" Name="委内瑞拉" PromptU="Venezuela" Prompt="委内瑞拉"/>
+    <Elem NameU="Vietnam" Name="越南" PromptU="Vietnam" Prompt="越南"/>
+    <Elem NameU="Yeman" Name="也门" PromptU="Yeman" Prompt="也门"/>
+    <Elem NameU="Yugoslavia" Name="南斯拉夫联盟" PromptU="Yugoslavia" Prompt="南斯拉夫联盟"/>
+    <Elem NameU="Zaire" Name="扎伊尔" PromptU="Zaire" Prompt="扎伊尔"/>
+    <Elem NameU="Zambia" Name="赞比亚" PromptU="Zambia" Prompt="赞比亚"/>
+    <Elem NameU="Zimbabwe" Name="津巴布韦" PromptU="Zimbabwe" Prompt="津巴布韦"/>
+</Lib>

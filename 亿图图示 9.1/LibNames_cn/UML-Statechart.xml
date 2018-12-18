@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="UML Statechart Diagram">
+    <Elem Prompt="状态" Name="状态" PromptU="State" NameU="State"/>
+    <Elem Prompt="子状态机状态" Name="子状态机状态" PromptU="Submachine State" NameU="Submachine State"/>
+    <Elem Prompt="复合状态" Name="复合状态" PromptU="Composite State" NameU="Composite State"/>
+    <Elem Prompt="初始状态" Name="初始状态" PromptU="Start State" NameU="Start State"/>
+    <Elem Prompt="最终状态" Name="最终状态" PromptU="End State" NameU="End State"/>
+    <Elem Prompt="转换" Name="转换" PromptU="Transition" NameU="Transition"/>
+    <Elem Prompt="转换" Name="转换" PromptU="Transition Arc" NameU="Transition Arc"/>
+    <Elem Prompt="转换 (分叉)" Name="转换 (分叉)" PromptU="Transition (branch)" NameU="Transition (branch)"/>
+    <Elem Prompt="转换 (连接)" Name="转换 (连接)" PromptU="Transition (joint)" NameU="Transition (joint)"/>
+    <Elem Prompt="判定" Name="判定" PromptU="Decision" NameU="Decision"/>
+    <Elem Prompt="简略历史" Name="简略历史" PromptU="History" NameU="History"/>
+    <Elem Prompt="详细历史" Name="详细历史" PromptU="Detail History" NameU="Detail History"/>
+    <Elem Prompt="约束" Name="约束" PromptU="Constraint" NameU="Constraint"/>
+    <Elem Prompt="注释" Name="注释" PromptU="Note" NameU="Note"/>
+</Lib>

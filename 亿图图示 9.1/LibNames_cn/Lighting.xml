@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Lighting">
+    <Elem Prompt="吸顶灯" Name="吸顶灯" PromptU="Luminaire ceiling mount" NameU="Luminaire ceiling mount"/>
+    <Elem Prompt="封闭式天花灯" Name="封闭式天花灯" PromptU="Encl ceiling lum" NameU="Encl ceiling lum"/>
+    <Elem Prompt="壁灯" Name="壁灯" PromptU="Wall light" NameU="Wall light"/>
+    <Elem Prompt="下射式灯具" Name="下射式灯具" PromptU="Downlight" NameU="Downlight"/>
+    <Elem Prompt="户外灯" Name="户外灯" PromptU="Outdoor lighting" NameU="Outdoor lighting"/>
+    <Elem Prompt="浴室墙灯" Name="浴室墙灯" PromptU="Multi-light bar" NameU="Multi-light bar"/>
+    <Elem Prompt="板条荧光棒" Name="板条荧光棒" PromptU="Batten fluores" NameU="Batten fluores"/>
+    <Elem Prompt="模块化萤石" Name="模块化萤石" PromptU="Modular fluores" NameU="Modular fluores"/>
+    <Elem Prompt="应急灯" Name="应急灯" PromptU="Emerg. light" NameU="Emerg. light"/>
+    <Elem Prompt="应急标志" Name="应急标志" PromptU="Emerg. sign" NameU="Emerg. sign"/>
+    <Elem Prompt="灯" Name="灯" PromptU="Light" NameU="Light"/>
+    <Elem Prompt="天花板灯插座" Name="天花板灯插座" PromptU="Ceiling Light Outlet" NameU="Ceiling Light Outlet"/>
+    <Elem Prompt="嵌壁式吊灯" Name="嵌壁式吊灯" PromptU="Recessed ceiling light" NameU="Recessed ceiling light"/>
+    <Elem Prompt="吊扇" Name="吊扇" PromptU="Ceiling fan" NameU="Ceiling fan"/>
+    <Elem Prompt="不受天气影响的景观灯" Name="不受天气影响的景观灯" PromptU="Weatherproof landscape light" NameU="Weatherproof landscape light"/>
+    <Elem Prompt="拉绳式天花灯" Name="拉绳式天花灯" PromptU="Ceiling light with pull cord" NameU="Ceiling light with pull cord"/>
+    <Elem Prompt="带蓄电池双头应急灯" Name="带蓄电池双头应急灯" PromptU="Emergency battery unit with two light" NameU="Emergency battery unit with two light"/>
+    <Elem Prompt="聚光灯" Name="聚光灯" PromptU="Spotlight" NameU="Spotlight"/>
+    <Elem Prompt="出口标志" Name="出口标志" PromptU="Exit sign" NameU="Exit sign"/>
+    <Elem Prompt="灯" Name="灯" PromptU="Light" NameU="Light"/>
+    <Elem Prompt="路灯" Name="路灯" PromptU="Roadway light" NameU="Roadway light"/>
+    <Elem Prompt="双束光" Name="双束光" PromptU="Twin lights" NameU="Twin lights"/>
+    <Elem Prompt="灯" Name="灯" PromptU="Light" NameU="Light"/>
+    <Elem Prompt="灯" Name="灯" PromptU="Lights" NameU="Lights"/>
+    <Elem Prompt="集成投光灯" Name="集成投光灯" PromptU="Integrated  Light" NameU="Integrated  Light"/>
+    <Elem Prompt="夜间照明灯" Name="夜间照明灯" PromptU="Night Light" NameU="Night Light"/>
+    <Elem Prompt="百叶窗" Name="百叶窗" PromptU="Louvers" NameU="Louvers"/>
+</Lib>

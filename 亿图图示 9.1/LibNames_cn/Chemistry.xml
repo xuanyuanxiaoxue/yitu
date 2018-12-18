@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Chemistry">
+    <Elem Prompt="空气洗涤器" Name="空气洗涤器" PromptU="Air scrubber" NameU="Air scrubber"/>
+    <Elem Prompt="空气吹提器" Name="空气吹提器" PromptU="Air stripper" NameU="Air stripper"/>
+    <Elem Prompt="烧塔" Name="烧塔" PromptU="Burn tower" NameU="Burn tower"/>
+    <Elem Prompt="化学剂混合罐" Name="化学剂混合罐" PromptU="Chemical mixing tank" NameU="Chemical mixing tank"/>
+    <Elem Prompt="化学处理塔" Name="化学处理塔" PromptU="Chemical processing tower" NameU="Chemical processing tower"/>
+    <Elem Prompt="原油蒸馏装置" Name="原油蒸馏装置" PromptU="Crude unit" NameU="Crude unit"/>
+    <Elem Prompt="结晶器 1" Name="结晶器 1" PromptU="Crystallizer 1" NameU="Crystallizer 1"/>
+    <Elem Prompt="结晶器 2" Name="结晶器 2" PromptU="Crystallizer 2" NameU="Crystallizer 2"/>
+    <Elem Prompt="结晶器 3" Name="结晶器 3" PromptU="Crystallizer 3" NameU="Crystallizer 3"/>
+    <Elem Prompt="结晶器 4" Name="结晶器 4" PromptU="Crystallizer 4" NameU="Crystallizer 4"/>
+    <Elem Prompt="结晶器 5" Name="结晶器 5" PromptU="Crystallizer 5" NameU="Crystallizer 5"/>
+    <Elem Prompt="蒸馏塔" Name="蒸馏塔" PromptU="Distillation column" NameU="Distillation column"/>
+    <Elem Prompt="干燥塔" Name="干燥塔" PromptU="Dryer tower" NameU="Dryer tower"/>
+    <Elem Prompt="干燥机组" Name="干燥机组" PromptU="Dryer unit" NameU="Dryer unit"/>
+    <Elem Prompt="蒸发过程" Name="蒸发过程" PromptU="Evaporation process" NameU="Evaporation process"/>
+    <Elem Prompt="蒸发器" Name="蒸发器" PromptU="Evaporator" NameU="Evaporator"/>
+    <Elem Prompt="蒸发器" Name="蒸发器" PromptU="Evaporator" NameU="Evaporator"/>
+    <Elem Prompt="过滤器系统" Name="过滤器系统" PromptU="Filter system" NameU="Filter system"/>
+    <Elem Prompt="过滤器系统" Name="过滤器系统" PromptU="Filter system" NameU="Filter system"/>
+    <Elem Prompt="过滤器 1" Name="过滤器 1" PromptU="Filter 1" NameU="Filter 1"/>
+    <Elem Prompt="过滤器 2" Name="过滤器 2" PromptU="Filter 2" NameU="Filter 2"/>
+    <Elem Prompt="过滤器 3" Name="过滤器 3" PromptU="Filter 3" NameU="Filter 3"/>
+    <Elem Prompt="分馏器" Name="分馏器" PromptU="Fractionator" NameU="Fractionator"/>
+    <Elem Prompt="气液分离器" Name="气液分离器" PromptU="Gas and liquid separator" NameU="Gas and liquid separator"/>
+    <Elem Prompt="气体处理器" Name="气体处理器" PromptU="Gas processor" NameU="Gas processor"/>
+    <Elem Prompt="加热除湿干燥机" Name="加热除湿干燥机" PromptU="Heated desiccant dryer" NameU="Heated desiccant dryer"/>
+    <Elem Prompt="无热除湿干燥机" Name="无热除湿干燥机" PromptU="Heatless desiccant dryer" NameU="Heatless desiccant dryer"/>
+    <Elem Prompt="工艺塔" Name="工艺塔" PromptU="Process column" NameU="Process column"/>
+    <Elem Prompt="工艺搅拌器" Name="工艺搅拌器" PromptU="Process mixer" NameU="Process mixer"/>
+    <Elem Prompt="炼油塔" Name="炼油塔" PromptU="Refinery tower" NameU="Refinery tower"/>
+    <Elem Prompt="带式搅拌机" Name="带式搅拌机" PromptU="Ribbon blender" NameU="Ribbon blender"/>
+    <Elem Prompt="分段通量电容器" Name="分段通量电容器" PromptU="Segmented flux capacitor" NameU="Segmented flux capacitor"/>
+    <Elem Prompt="简易式空气汽提塔" Name="简易式空气汽提塔" PromptU="Simple air stripper" NameU="Simple air stripper"/>
+    <Elem Prompt="简易套筒隔板式结晶器" Name="简易套筒隔板式结晶器" PromptU="Simple draft-tube baffle crystallizer" NameU="Simple draft-tube baffle crystallizer"/>
+    <Elem Prompt="简易流态化隔板式结晶器" Name="简易流态化隔板式结晶器" PromptU="Simple fluidized baffle crystallizer" NameU="Simple fluidized baffle crystallizer"/>
+    <Elem Prompt="剥离器" Name="剥离器" PromptU="Stripper" NameU="Stripper"/>
+    <Elem Prompt="直燃式焚烧炉" Name="直燃式焚烧炉" PromptU="Thermal oxidizer" NameU="Thermal oxidizer"/>
+    <Elem Prompt="热处理塔" Name="热处理塔" PromptU="Thermal processing tower" NameU="Thermal processing tower"/>
+    <Elem Prompt="氨分离器液位" Name="氨分离器液位" PromptU="Ammonia separator liquid level" NameU="Ammonia separator liquid level"/>
+    <Elem Prompt="旋风分离器" Name="旋风分离器" PromptU="Cyclone separator" NameU="Cyclone separator"/>
+    <Elem Prompt="旋风分离器" Name="旋风分离器" PromptU="Cyclone separator" NameU="Cyclone separator"/>
+    <Elem Prompt="离心分离" Name="离心分离" PromptU="Centrifugal separation" NameU="Centrifugal separation"/>
+    <Elem Prompt="旋风除尘器" Name="旋风除尘器" PromptU="Cyclone Dust Extractor" NameU="Cyclone Dust Extractor"/>
+    <Elem Prompt="环流式旋风除尘器" Name="环流式旋风除尘器" PromptU="Circulation Type Cyclone Dust Extractor" NameU="Circulation Type Cyclone Dust Extractor"/>
+    <Elem Prompt="旋风分离器" Name="旋风分离器" PromptU="Cyclone Separator" NameU="Cyclone Separator"/>
+    <Elem Prompt="旋风分离器" Name="旋风分离器" PromptU="Dust chamber" NameU="Dust chamber"/>
+    <Elem Prompt="水幕除尘" Name="水幕除尘" PromptU="Dedusting by Water Curtain" NameU="Dedusting by Water Curtain"/>
+    <Elem Prompt="静电除尘器" Name="静电除尘器" PromptU="Electrostatic Precipitator" NameU="Electrostatic Precipitator"/>
+    <Elem Prompt="高效脱硫除尘器" Name="高效脱硫除尘器" PromptU="High-efficient Desulfurization Dust Extractor" NameU="High-efficient Desulfurization Dust Extractor"/>
+    <Elem Prompt="布袋除尘器" Name="布袋除尘器" PromptU="Bag-type Dust Remover" NameU="Bag-type Dust Remover"/>
+    <Elem Prompt="重力分离器" Name="重力分离器" PromptU="Gravitational separator" NameU="Gravitational separator"/>
+    <Elem Prompt="粗粉分离器" Name="粗粉分离器" PromptU="Tails separator" NameU="Tails separator"/>
+    <Elem Prompt="去湿器" Name="去湿器" PromptU="Moisture Separator" NameU="Moisture Separator"/>
+    <Elem Prompt="脉冲布袋除尘器" Name="脉冲布袋除尘器" PromptU="Pulsed jet cloth filter" NameU="Pulsed jet cloth filter"/>
+    <Elem Prompt="高速离心雾化器" Name="高速离心雾化器" PromptU="High-speed Centrifugal Atomizer" NameU="High-speed Centrifugal Atomizer"/>
+    <Elem Prompt="重沸器" Name="重沸器" PromptU="Reboiler" NameU="Reboiler"/>
+    <Elem Prompt="脱硫剂" Name="脱硫剂" PromptU="Desulfurizer" NameU="Desulfurizer"/>
+    <Elem Prompt="搅拌器" Name="搅拌器" PromptU="Mixer" NameU="Mixer"/>
+    <Elem Prompt="结晶塔" Name="结晶塔" PromptU="Crystallization tower" NameU="Crystallization tower"/>
+    <Elem Prompt="蒸馏塔" Name="蒸馏塔" PromptU="Distillation Tower" NameU="Distillation Tower"/>
+    <Elem Prompt="脱硫塔" Name="脱硫塔" PromptU="Thionizer" NameU="Thionizer"/>
+    <Elem Prompt="吸收塔" Name="吸收塔" PromptU="Absorption Tower" NameU="Absorption Tower"/>
+    <Elem Prompt="烟气脱硫吸收塔" Name="烟气脱硫吸收塔" PromptU="FGD Absorber" NameU="FGD Absorber"/>
+    <Elem Prompt="氧化塔" Name="氧化塔" PromptU="Oxidation Tower" NameU="Oxidation Tower"/>
+    <Elem Prompt="回收塔" Name="回收塔" PromptU="Recovery tower" NameU="Recovery tower"/>
+    <Elem Prompt="重沸器" Name="重沸器" PromptU="Reboiler" NameU="Reboiler"/>
+    <Elem Prompt="反应塔" Name="反应塔" PromptU="Reaction Tower" NameU="Reaction Tower"/>
+    <Elem Prompt="反应器" Name="反应器" PromptU="Reactor" NameU="Reactor"/>
+    <Elem Prompt="洗涤塔" Name="洗涤塔" PromptU="Scrubbing tower" NameU="Scrubbing tower"/>
+    <Elem Prompt="稳定塔" Name="稳定塔" PromptU="Stabilization Tower" NameU="Stabilization Tower"/>
+    <Elem Prompt="氨吸收塔" Name="氨吸收塔" PromptU="Ammonia Absorption Tower" NameU="Ammonia Absorption Tower"/>
+    <Elem Prompt="水槽" Name="水槽" PromptU="Tank" NameU="Tank"/>
+    <Elem Prompt="水槽" Name="水槽" PromptU="Tank" NameU="Tank"/>
+    <Elem Prompt="蛋白质分离器" Name="蛋白质分离器" PromptU="Protein Skimmer" NameU="Protein Skimmer"/>
+    <Elem Prompt="空调" Name="空调" PromptU="Air conditioner" NameU="Air conditioner"/>
+    <Elem Prompt="氨存储设备" Name="氨存储设备" PromptU="Ammonia Storage Device" NameU="Ammonia Storage Device"/>
+    <Elem Prompt="氨化反应堆" Name="氨化反应堆" PromptU="Ammoniation Reactor" NameU="Ammoniation Reactor"/>
+    <Elem Prompt="选择性催化还原反应器" Name="选择性催化还原反应器" PromptU="SCR Reactor" NameU="SCR Reactor"/>
+    <Elem Prompt="后发酵罐" Name="后发酵罐" PromptU="After fermentation tank" NameU="After fermentation tank"/>
+    <Elem Prompt="厌氧反应池" Name="厌氧反应池" PromptU="Level of anaerobic reaction tank" NameU="Level of anaerobic reaction tank"/>
+    <Elem Prompt="发酵罐" Name="发酵罐" PromptU="Fermentor" NameU="Fermentor"/>
+    <Elem Prompt="发酵" Name="发酵" PromptU="Fermentation" NameU="Fermentation"/>
+    <Elem Prompt="垃圾处理" Name="垃圾处理" PromptU="Garbage Disposal" NameU="Garbage Disposal"/>
+    <Elem Prompt="气焊枪" Name="气焊枪" PromptU="Gas torch" NameU="Gas torch"/>
+    <Elem Prompt="改性剂" Name="改性剂" PromptU="Modifier" NameU="Modifier"/>
+    <Elem Prompt="改性剂吸收系统" Name="改性剂吸收系统" PromptU="Modifier Absorption System" NameU="Modifier Absorption System"/>
+    <Elem Prompt="稳定剂吸收系统" Name="稳定剂吸收系统" PromptU="Stabilizer absorption system" NameU="Stabilizer absorption system"/>
+    <Elem Prompt="稳定剂" Name="稳定剂" PromptU="Stabilizer" NameU="Stabilizer"/>
+    <Elem Prompt="精馏" Name="精馏" PromptU="Rectification" NameU="Rectification"/>
+    <Elem Prompt="臭氧发生器" Name="臭氧发生器" PromptU="Ozone Generator" NameU="Ozone Generator"/>
+    <Elem Prompt="混合器" Name="混合器" PromptU="Commingler" NameU="Commingler"/>
+    <Elem Prompt="回旋沉淀" Name="回旋沉淀" PromptU="Cyclotron precipitation" NameU="Cyclotron precipitation"/>
+    <Elem Prompt="空调系统" Name="空调系统" PromptU="Conditioning system" NameU="Conditioning system"/>
+    <Elem Prompt="超高温灭菌系统" Name="超高温灭菌系统" PromptU="Uht-system" NameU="Uht-system"/>
+    <Elem Prompt="脱氧器" Name="脱氧器" PromptU="Deaerator" NameU="Deaerator"/>
+    <Elem Prompt="脱氧" Name="脱氧" PromptU="Deoxygenation" NameU="Deoxygenation"/>
+    <Elem Prompt="氧化器" Name="氧化器" PromptU="Oxygenizer" NameU="Oxygenizer"/>
+    <Elem Prompt="蒸发器" Name="蒸发器" PromptU="Evaporator" NameU="Evaporator"/>
+    <Elem Prompt="微生物菌种" Name="微生物菌种" PromptU="Microbial Strain" NameU="Microbial Strain"/>
+</Lib>

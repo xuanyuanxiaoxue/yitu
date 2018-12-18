@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Audit Diagram Shapes">
+    <Elem Prompt="进程" Name="进程" PromptU="Process" NameU="Process"/>
+    <Elem Prompt="标记的进程" Name="标记的进程" PromptU="Tagged process" NameU="Tagged process"/>
+    <Elem Prompt="判定" Name="判定" PromptU="Decision" NameU="Decision"/>
+    <Elem Prompt="标记的文档" Name="标记的文档" PromptU="Tagged document" NameU="Tagged document"/>
+    <Elem Prompt="I/O" Name="I/O" PromptU="I/O" NameU="I/O"/>
+    <Elem Prompt="手动操作" Name="手动操作" PromptU="Manual operation" NameU="Manual operation"/>
+    <Elem Prompt="终结符" Name="终结符" PromptU="Terminator" NameU="Terminator"/>
+    <Elem Prompt="非电子文档" Name="非电子文档" PromptU="Manual file" NameU="Manual file"/>
+    <Elem Prompt="显示内容" Name="显示内容" PromptU="Display" NameU="Display"/>
+    <Elem Prompt="延迟" Name="延迟" PromptU="Delay" NameU="Delay"/>
+    <Elem Prompt="是或否" Name="是或否" PromptU="Yes or No" NameU="Yes or No"/>
+    <Elem Prompt="页面内引用" Name="页面内引用" PromptU="On-page reference" NameU="On-page reference"/>
+    <Elem Prompt="离页引用" Name="离页引用" PromptU="Off-page reference" NameU="Off-page reference"/>
+    <Elem Prompt="分段进程" Name="分段进程" PromptU="Divided process" NameU="Divided process"/>
+    <Elem Prompt="多重进程/文档" Name="多重进程/文档" PromptU="Multi proc/doc" NameU="Multi proc/doc"/>
+    <Elem Prompt="线条型－阴影型进程" Name="线条型－阴影型进程" PromptU="Lined-shaded process" NameU="Lined-shaded process"/>
+    <Elem Prompt="线条型文档" Name="线条型文档" PromptU="Lined document" NameU="Lined document"/>
+    <Elem Prompt="多重进程、文档" Name="多重进程、文档" PromptU="Multi documents" NameU="Multi documents"/>
+    <Elem Prompt="磁盘存储" Name="磁盘存储" PromptU="Disk storage" NameU="Disk storage"/>
+    <Elem Prompt="数据库" Name="数据库" PromptU="Database" NameU="Database"/>
+    <Elem Prompt="磁盘 1" Name="磁盘 1" PromptU="Diskette 1" NameU="Diskette 1"/>
+    <Elem Prompt="磁盘 2" Name="磁盘 2" PromptU="Diskette 2" NameU="Diskette 2"/>
+    <Elem Prompt="磁带" Name="磁带" PromptU="Magnetic tape" NameU="Magnetic tape"/>
+    <Elem Prompt="数据传输" Name="数据传输" PromptU="Data transmission" NameU="Data transmission"/>
+    <Elem Prompt="手动输入" Name="手动输入" PromptU="Manual input" NameU="Manual input"/>
+    <Elem Prompt="检验1 （审计）" Name="检验1 （审计）" PromptU="Check 1 (audit)" NameU="Check 1 (audit)"/>
+    <Elem Prompt="比较 1" Name="比较 1" PromptU="Compare 1" NameU="Compare 1"/>
+    <Elem Prompt="检验 2 （审计）" Name="检验 2 （审计）" PromptU="Check 2 (audit)" NameU="Check 2 (audit)"/>
+    <Elem Prompt="比较 2" Name="比较 2" PromptU="Compare 2" NameU="Compare 2"/>
+    <Elem Prompt="引用点" Name="引用点" PromptU="Reference point" NameU="Reference point"/>
+    <Elem Prompt="事件" Name="事件" PromptU="Event" NameU="Event"/>
+    <Elem Prompt="分段事件" Name="分段事件" PromptU="Divided event" NameU="Divided event"/>
+    <Elem Prompt="标题块" Name="标题块" PromptU="Title block" NameU="Title block"/>
+    <Elem Prompt="注释块" Name="注释块" PromptU="Note block" NameU="Note block"/>
+    <Elem Prompt="直线－曲线连接点" Name="直线－曲线连接点" PromptU="Line curve connector" NameU="Line curve connector"/>
+    <Elem Prompt="动态连接点" Name="动态连接点" PromptU="Dynamic connector" NameU="Dynamic connector"/>
+</Lib>

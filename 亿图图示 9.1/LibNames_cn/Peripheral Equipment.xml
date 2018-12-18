@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Peripheral Equipment">
+    <Elem Prompt="充电器" Name="充电器" PromptU="Airport Express" NameU="Airport Express"/>
+    <Elem Prompt="相机 1" Name="相机 1" PromptU="Camera 1" NameU="Camera 1"/>
+    <Elem Prompt="相机 2" Name="相机 2" PromptU="Camera 2" NameU="Camera 2"/>
+    <Elem Prompt="CRT 投影仪" Name="CRT 投影仪" PromptU="CRT Projector" NameU="CRT Projector"/>
+    <Elem Prompt="复印机" Name="复印机" PromptU="Copier" NameU="Copier"/>
+    <Elem Prompt="数据中心" Name="数据中心" PromptU="Data Center" NameU="Data Center"/>
+    <Elem Prompt="数字电话" Name="数字电话" PromptU="Digital Telephone" NameU="Digital Telephone"/>
+    <Elem Prompt="耳机" Name="耳机" PromptU="Earphone" NameU="Earphone"/>
+    <Elem Prompt="传真机" Name="传真机" PromptU="Fax" NameU="Fax"/>
+    <Elem Prompt="键盘" Name="键盘" PromptU="Keyboard" NameU="Keyboard"/>
+    <Elem Prompt="麦克风" Name="麦克风" PromptU="Microphone" NameU="Microphone"/>
+    <Elem Prompt="全向麦克风" Name="全向麦克风" PromptU="Omnidirectional microphone" NameU="Omnidirectional microphone"/>
+    <Elem Prompt="电话会议终端" Name="电话会议终端" PromptU="Telephone conference terminal" NameU="Telephone conference terminal"/>
+    <Elem Prompt="移动硬盘" Name="移动硬盘" PromptU="Mobile HDD" NameU="Mobile HDD"/>
+    <Elem Prompt="鼠标" Name="鼠标" PromptU="Mouse" NameU="Mouse"/>
+    <Elem Prompt="鼠标" Name="鼠标 2" PromptU="Mouse" NameU="Mouse 2"/>
+    <Elem Prompt="放映机" Name="放映机" PromptU="Projector" NameU="Projector"/>
+    <Elem Prompt="多功能一体机" Name="多功能一体机" PromptU="Multi-function Device" NameU="Multi-function Device"/>
+    <Elem Prompt="绘图机" Name="绘图机" PromptU="Plotter" NameU="Plotter"/>
+    <Elem Prompt="打印机" Name="打印机" PromptU="Printer" NameU="Printer"/>
+    <Elem Prompt="扫描机" Name="扫描机" PromptU="Scanner" NameU="Scanner"/>
+    <Elem Prompt="演示屏" Name="演示屏" PromptU="Screen" NameU="Screen"/>
+    <Elem Prompt="音响" Name="音响" PromptU="Speakers" NameU="Speakers"/>
+    <Elem Prompt="电话" Name="电话" PromptU="Telephone" NameU="Telephone"/>
+    <Elem Prompt="可视电话" Name="可视电话" PromptU="Visual telephone" NameU="Visual telephone"/>
+    <Elem Prompt="存储卡" Name="存储卡" PromptU="Memory card" NameU="Memory card"/>
+    <Elem Prompt="U盘" Name="U盘" PromptU="U Disk" NameU="U Disk"/>
+    <Elem Prompt="网络摄像头" Name="网络摄像头" PromptU="Web Camera" NameU="Web Camera"/>
+    <Elem Prompt="刷卡机" Name="刷卡机" PromptU="Credit card machine" NameU="Credit card machine"/>
+    <Elem Prompt="扩音器" Name="扩音器" PromptU="Amplifier" NameU="Amplifier"/>
+    <Elem Prompt="DVD" Name="DVD" PromptU="DVD" NameU="DVD"/>
+    <Elem Prompt="混频器" Name="混频器" PromptU="Mixer" NameU="Mixer"/>
+    <Elem Prompt="服务器" Name="服务器" PromptU="Server" NameU="Server"/>
+</Lib>

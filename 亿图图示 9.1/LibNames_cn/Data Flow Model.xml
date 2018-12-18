@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Data Flow Model Diagram">
+    <Elem Prompt="外部实体" Name="外部实体" PromptU="External Entity" NameU="External Entity"/>
+    <Elem Prompt="实体" Name="实体" PromptU="Entity" NameU="Entity"/>
+    <Elem Prompt="进程 2" Name="进程 2" PromptU="Process 2" NameU="Process 2"/>
+    <Elem Prompt="进程" Name="进程" PromptU="Process" NameU="Process"/>
+    <Elem Prompt="进程 w/位置" Name="进程 w/位置" PromptU="Process w/location" NameU="Process w/location"/>
+    <Elem Prompt="数据存储" Name="数据存储" PromptU="Data Store" NameU="Data Store"/>
+    <Elem Prompt="接口" Name="接口" PromptU="Interface" NameU="Interface"/>
+    <Elem Prompt="带弧形连接线" Name="带弧形连接线" PromptU="Jump" NameU="Jump"/>
+    <Elem Prompt="折角连接线" Name="折角连接线" PromptU="Angled Connector" NameU="Angled Connector"/>
+    <Elem Prompt="顶到底的连接线" Name="顶到底的连接线" PromptU="Top to Bottom Variable" NameU="Top to Bottom Variable"/>
+    <Elem Prompt="底到边的连接线" Name="底到边的连接线" PromptU="Bottom to Side" NameU="Bottom to Side"/>
+    <Elem Prompt="边到边的连接线" Name="边到边的连接线" PromptU="Side to Side" NameU="Side to Side"/>
+    <Elem Prompt="同边连接线" Name="同边连接线" PromptU="Side to Same Side" NameU="Side to Same Side"/>
+    <Elem Prompt="顶到顶连接线" Name="顶到顶连接线" PromptU="Top to Top Side" NameU="Top to Top Side"/>
+    <Elem Prompt="直线连接线" Name="直线连接线" PromptU="Straight Connector" NameU="Straight Connector"/>
+    <Elem Prompt="动态连接线" Name="动态连接线" PromptU="Dynamical Connector" NameU="Dynamical Connector"/>
+    <Elem Prompt="曲线连接线" Name="曲线连接线" PromptU="Line curve connector" NameU="Line Curve Connector"/>
+</Lib>

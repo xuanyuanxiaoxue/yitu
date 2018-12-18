@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Elevations">
+    <Elem Prompt="框架" Name="框架" PromptU="Frame" NameU="Frame"/>
+    <Elem Prompt="框架 2" Name="框架 2" PromptU="Frame 2" NameU="Frame 2"/>
+    <Elem Prompt="垂直分隔物" Name="垂直分隔物" PromptU="Divider - H" NameU="Divider - H"/>
+    <Elem Prompt="水平分隔物" Name="水平分隔物" PromptU="Divider - V" NameU="Divider - V"/>
+    <Elem Prompt="垂直分隔物2" Name="垂直分隔物2" PromptU="Divider - H 2" NameU="Divider - H 2"/>
+    <Elem Prompt="水平分隔物2" Name="水平分隔物2" PromptU="Divider - V 2" NameU="Divider - V 2"/>
+    <Elem Prompt="分隔物 2" Name="分隔物 2" PromptU="Diveder 2" NameU="Diveder 2"/>
+    <Elem Prompt="板" Name="板" PromptU="Rect" NameU="Rect"/>
+    <Elem Prompt="左门" Name="左门" PromptU="Door Left" NameU="Door Left"/>
+    <Elem Prompt="右门" Name="右门" PromptU="Door Right" NameU="Door Right"/>
+    <Elem Prompt="双门" Name="双门" PromptU="Door Double" NameU="Door Double"/>
+    <Elem Prompt="床头柜" Name="床头柜" PromptU="Bedside cabinet" NameU="Bedside cabinet"/>
+    <Elem Prompt="沙发" Name="沙发" PromptU="Sofa" NameU="Sofa"/>
+    <Elem Prompt="洗脸盆" Name="洗脸盆" PromptU="Washbasin" NameU="Washbasin"/>
+    <Elem Prompt="盆栽" Name="盆栽" PromptU="Plants" NameU="Plants"/>
+    <Elem Prompt="壁炉" Name="壁炉" PromptU="Fireplace" NameU="Fireplace"/>
+    <Elem Prompt="挂画" Name="挂画" PromptU="Painting" NameU="Painting"/>
+    <Elem Prompt="墙壁" Name="墙壁" PromptU="Wall" NameU="Wall"/>
+    <Elem Prompt="烟道" Name="烟道" PromptU="Flue" NameU="Flue"/>
+    <Elem Prompt="台面" Name="台面" PromptU="Table facet" NameU="Table facet"/>
+    <Elem Prompt="L形台面" Name="L形台面" PromptU="L table facet" NameU="L table facet"/>
+    <Elem Prompt="排水管" Name="排水管" PromptU="Drainage pipe" NameU="Drainage pipe"/>
+    <Elem Prompt="排放孔" Name="排放孔" PromptU="Outlet" NameU="Outlet"/>
+    <Elem Prompt="通风口" Name="通风口" PromptU="Intake" NameU="Intake"/>
+</Lib>

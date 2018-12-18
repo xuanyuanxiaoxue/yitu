@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Equipment - Stream Flag">
+    <Elem Prompt="流ID" Name="流ID" PromptU="Stream ID" NameU="Stream ID"/>
+    <Elem Prompt="温度" Name="温度" PromptU="Temperature" NameU="Temperature"/>
+    <Elem Prompt="压力" Name="压力" PromptU="Pressure" NameU="Pressure"/>
+    <Elem Prompt="液体流率" Name="液体流率" PromptU="Liquid Flowrate" NameU="Liquid Flowrate"/>
+    <Elem Prompt="气体流率" Name="气体流率" PromptU="Gas Flowrate" NameU="Gas Flowrate"/>
+    <Elem Prompt="摩尔流量" Name="摩尔流量" PromptU="Molar Flowrate" NameU="Molar Flowrate"/>
+    <Elem Prompt="质量流率" Name="质量流率" PromptU="Mass Flowrate" NameU="Mass Flowrate"/>
+    <Elem Prompt="过程输入通道" Name="过程输入通道" PromptU="Process Input" NameU="Process Input"/>
+    <Elem Prompt="过程输出通道" Name="过程输出通道" PromptU="Process Output" NameU="Process Output"/>
+    <Elem Prompt="模块" Name="模块" PromptU="Module" NameU="Module"/>
+</Lib>

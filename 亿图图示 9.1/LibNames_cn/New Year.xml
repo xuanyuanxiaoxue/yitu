@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="New Year">
+    <Elem NameU="Paper-cut" Name="剪纸" PromptU="Paper-cut" Prompt="剪纸"/>
+    <Elem NameU="Chinese Knot" Name="中国结" PromptU="Chinese Knot" Prompt="中国结"/>
+    <Elem NameU="Fish" Name="鱼" PromptU="Fish" Prompt="鱼"/>
+    <Elem NameU="Lion Dance" Name="舞狮" PromptU="Lion Dance" Prompt="舞狮"/>
+    <Elem NameU="Lantern" Name="灯笼" PromptU="Lantern" Prompt="灯笼"/>
+    <Elem NameU="Red Packet" Name="红包" PromptU="Red Packet" Prompt="红包"/>
+    <Elem NameU="Gold Ingot" Name="金元宝" PromptU="Gold Ingot" Prompt="金元宝"/>
+    <Elem NameU="Plaque" Name="牌匾" PromptU="Plaque" Prompt="牌匾"/>
+    <Elem NameU="Wine" Name="酒" PromptU="Wine" Prompt="酒"/>
+    <Elem NameU="Firecrackers 1" Name="爆竹 1" PromptU="Firecrackers 1" Prompt="爆竹 1"/>
+    <Elem NameU="Firecrackers 2" Name="爆竹 2" PromptU="Firecrackers 2" Prompt="爆竹 2"/>
+    <Elem NameU="Firecrackers 3" Name="爆竹 3" PromptU="Firecrackers 3" Prompt="爆竹 3"/>
+    <Elem NameU="Firecrackers 4" Name="爆竹 4" PromptU="Firecrackers 4" Prompt="爆竹 4"/>
+    <Elem NameU="Fireworks 1 " Name="烟花 1 " PromptU="Fireworks 1 " Prompt="烟花 1 "/>
+    <Elem NameU="Fireworks 2" Name="烟花 2" PromptU="Fireworks 2" Prompt="烟花 2"/>
+    <Elem NameU="Fireworks 3" Name="烟花 3" PromptU="Fireworks 3" Prompt="烟花 3"/>
+    <Elem NameU="Fireworks 4" Name="烟花 4" PromptU="Fireworks 4" Prompt="烟花 4"/>
+    <Elem NameU="Fireworks 5" Name="烟花 5" PromptU="Fireworks 5" Prompt="烟花 5"/>
+</Lib>

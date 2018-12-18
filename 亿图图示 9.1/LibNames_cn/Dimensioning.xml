@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Dimensioning">
+    <Elem Prompt="水平" Name="水平" PromptU="Horizontal" NameU="Horizontal"/>
+    <Elem Prompt="垂直" Name="垂直" PromptU="Vertical" NameU="Vertical"/>
+    <Elem Prompt="对齐(延长线长度相等)" Name="对齐(延长线长度相等)" PromptU="Aligned even" NameU="Aligned even"/>
+    <Elem Prompt="对齐(外部标注、延长线长度不等)" Name="对齐(外部标注、延长线长度不等)" PromptU="Aligned out even" NameU="Aligned out even"/>
+    <Elem Prompt="对齐(延长线长度不等)" Name="对齐(延长线长度不等)" PromptU="Aligned uneven" NameU="Aligned uneven"/>
+    <Elem Prompt="对齐(外部标注、延长线相等)" Name="对齐(外部标注、延长线相等)" PromptU="Aligned out uneven" NameU="Aligned out uneven"/>
+    <Elem Prompt="多层对齐" Name="多层对齐" PromptU="Multi-aligned even" NameU="Multi-aligned even"/>
+    <Elem Prompt="外部水平标注" Name="外部水平标注" PromptU="Horizontal outside" NameU="Horizontal outside"/>
+    <Elem Prompt="外部垂直标注" Name="外部垂直标注" PromptU="Vertical outside" NameU="Vertical outside"/>
+    <Elem Prompt="弧半径" Name="弧半径" PromptU="Arc radius" NameU="Arc radius"/>
+    <Elem Prompt="在外部标注半径" Name="在外部标注半径" PromptU="Radius outside" NameU="Radius outside"/>
+    <Elem Prompt="半径" Name="半径" PromptU="Radius" NameU="Radius"/>
+    <Elem Prompt="直径" Name="直径" PromptU="Diameter" NameU="Diameter"/>
+    <Elem Prompt="在外部标注直径" Name="在外部标注直径" PromptU="Diameter outside" NameU="Diameter outside"/>
+    <Elem Prompt="角中心" Name="角中心" PromptU="Angle center" NameU="Angle center"/>
+    <Elem Prompt="角度(延长线长度不等)" Name="角度(延长线长度不等)" PromptU="Angle even" NameU="Angle even"/>
+    <Elem Prompt="角度(延长线长度相等)" Name="角度(延长线长度相等)" PromptU="Angle uneven" NameU="Angle uneven"/>
+    <Elem Prompt="外部角度标注" Name="外部角度标注" PromptU="Angle outside" NameU="Angle outside"/>
+    <Elem Prompt="多条水平坐标线" Name="多条水平坐标线" PromptU="Ordinate multi horizontal" NameU="Ordinate multi horizontal"/>
+    <Elem Prompt="多条垂直坐标线" Name="多条垂直坐标线" PromptU="Ordinate multi vertical" NameU="Ordinate multi vertical"/>
+    <Elem Prompt="空间度量" Name="空间度量" PromptU="Room measure" NameU="Room measure"/>
+    <Elem Prompt="中线" Name="中线" PromptU="Centerline" NameU="Centerline"/>
+</Lib>

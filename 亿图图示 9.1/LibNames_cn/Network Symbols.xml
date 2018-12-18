@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Network Symbols">
+    <Elem Prompt="通用路由器" Name="通用路由器" PromptU="Router General" NameU="Router General"/>
+    <Elem Prompt="路由器" Name="路由器" PromptU="Router" NameU="Router"/>
+    <Elem Prompt="ATM 路由器" Name="ATM 路由器" PromptU="ATM router" NameU="ATM router"/>
+    <Elem Prompt="无线路由器" Name="无线路由器" PromptU="Wireless Router" NameU="Wireless Router"/>
+    <Elem Prompt="ATM 交换机" Name="ATM 交换机" PromptU="ATM switch" NameU="ATM switch"/>
+    <Elem Prompt="ISDN 交换机" Name="ISDN 交换机" PromptU="ISDN switch" NameU="ISDN switch"/>
+    <Elem Prompt="工作组交换机" Name="工作组交换机" PromptU="Workgroup switch" NameU="Workgroup switch"/>
+    <Elem Prompt="小型集线器" Name="小型集线器" PromptU="Small hub" NameU="Small hub"/>
+    <Elem Prompt="100BaseT 集线器" Name="100BaseT 集线器" PromptU="100BaseT hub" NameU="100BaseT hub"/>
+    <Elem Prompt="CDDI-FDDI 集线器" Name="CDDI-FDDI 集线器" PromptU="CDDI-FDDI concentrator" NameU="CDDI-FDDI concentrator"/>
+    <Elem Prompt="以太网路由器" Name="以太网路由器" PromptU="Ethernet router" NameU="Ethernet router"/>
+    <Elem Prompt="通信服务器" Name="通信服务器" PromptU="Communication server" NameU="Communication server"/>
+    <Elem Prompt="网关" Name="网关" PromptU="Gateway" NameU="Gateway"/>
+    <Elem Prompt="集线器" Name="集线器" PromptU="Hub" NameU="Hub"/>
+    <Elem Prompt="网桥" Name="网桥" PromptU="Bridge" NameU="Bridge"/>
+    <Elem Prompt="关系数据库" Name="关系数据库" PromptU="Relative database" NameU="Relative database"/>
+    <Elem Prompt="WAN" Name="WAN" PromptU="WAN" NameU="WAN"/>
+    <Elem Prompt="主机" Name="主机" PromptU="Host" NameU="Host"/>
+    <Elem Prompt="DSU-CSU" Name="DSU-CSU" PromptU="DSU-CSU" NameU="DSU-CSU"/>
+    <Elem Prompt="终端服务器" Name="终端服务器" PromptU="Terminal server" NameU="Terminal server"/>
+    <Elem Prompt="探测器" Name="探测器" PromptU="Probe" NameU="Probe"/>
+    <Elem Prompt="锁和密钥" Name="锁和密钥" PromptU="Lock and key" NameU="Lock and key"/>
+    <Elem Prompt="锁" Name="锁" PromptU="Lock" NameU="Lock"/>
+    <Elem Prompt="密钥" Name="密钥" PromptU="Key" NameU="Key"/>
+    <Elem Prompt="公钥/私钥服务器" Name="公钥/私钥服务器" PromptU="Public-private server" NameU="Public-private server"/>
+    <Elem Prompt="证书服务器" Name="证书服务器" PromptU="Certificate server" NameU="Certificate server"/>
+    <Elem Prompt="ATM 交换机2" Name="ATM 交换机2" PromptU="ATM switch 2" NameU="ATM switch 2"/>
+    <Elem Prompt="ATM/Fast GB 以太网交换机" Name="ATM/Fast GB 以太网交换机" PromptU="ATM/Fast GB etherswitch" NameU="ATM/Fast GB etherswitch"/>
+    <Elem Prompt="一般服务器" Name="一般服务器" PromptU="Comm server" NameU="Comm server"/>
+    <Elem Prompt="同轴电缆标记" Name="同轴电缆标记" PromptU="Coaxial line tag" NameU="Coaxial line tag"/>
+    <Elem Prompt="光纤标记" Name="光纤标记" PromptU="Fiber optic line tag" NameU="Fiber optic line tag"/>
+    <Elem Prompt="双纹线标记" Name="双纹线标记" PromptU="Twisted pair line tag" NameU="Twisted pair line tag"/>
+</Lib>

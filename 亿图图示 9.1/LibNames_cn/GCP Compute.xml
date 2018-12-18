@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="GCP Compute">
+    <Elem NameU="App Engine" Name="App 程序" PromptU="App Engine" Prompt="App 程序"/>
+    <Elem NameU="Cloud Functions" Name="云端功能" PromptU="Cloud Functions" Prompt="云端功能"/>
+    <Elem NameU="Compute Engine" Name="计算程序" PromptU="Compute Engine" Prompt="计算程序"/>
+    <Elem NameU="Container Engine" Name="管理器系统" PromptU="Container Engine" Prompt="管理器系统"/>
+    <Elem NameU="Container-Optimized OS" Name="管理器优化 OS" PromptU="Container-Optimized OS" Prompt="管理器优化 OS"/>
+    <Elem NameU="GPU" Name="图形处理器GPU" PromptU="GPU" Prompt="图形处理器GPU"/>
+</Lib>

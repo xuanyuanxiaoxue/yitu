@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Qualifying Symbols">
+    <Elem Prompt="预置" Name="预置" PromptU="Preset, general" NameU="Preset, general"/>
+    <Elem Prompt="温度相关" Name="温度相关" PromptU="Temperature dependence" NameU="Temperature dependence"/>
+    <Elem Prompt="辐射" Name="辐射" PromptU="Radiation" NameU="Radiation"/>
+    <Elem Prompt="材料" Name="材料" PromptU="Material" NameU="Material"/>
+    <Elem Prompt="脉冲" Name="脉冲" PromptU="Pulse" NameU="Pulse"/>
+    <Elem Prompt="交替脉冲" Name="交替脉冲" PromptU="Alternating pulse" NameU="Alternating pulse"/>
+    <Elem Prompt="阶跃函数" Name="阶跃函数" PromptU="Step function" NameU="Step function"/>
+    <Elem Prompt="阶跃函数 2" Name="阶跃函数 2" PromptU="Step function 2" NameU="Step function 2"/>
+    <Elem Prompt="方波" Name="方波" PromptU="Square wave" NameU="Square wave"/>
+    <Elem Prompt="锯齿波" Name="锯齿波" PromptU="Sawtooth" NameU="Sawtooth"/>
+    <Elem Prompt="锯齿波 2" Name="锯齿波 2" PromptU="Sawtooch 2" NameU="Sawtooch 2"/>
+    <Elem Prompt="正弦波" Name="正弦波" PromptU="Sine wave" NameU="Sine wave"/>
+    <Elem Prompt="截方波" Name="截方波" PromptU="Chopped square wave" NameU="Chopped square wave"/>
+    <Elem Prompt="方波" Name="方波" PromptU="Square wave" NameU="Square wave"/>
+    <Elem Prompt="正极性" Name="正极性" PromptU="Positive polarity" NameU="Positive polarity"/>
+    <Elem Prompt="负极性" Name="负极性" PromptU="Negative polarity" NameU="Negative polarity"/>
+    <Elem Prompt="交流电" Name="交流电" PromptU="Alternating current" NameU="Alternating current"/>
+    <Elem Prompt="中性符号" Name="中性符号" PromptU="Neutral symbol" NameU="Neutral symbol"/>
+    <Elem Prompt="中间件符号" Name="中间件符号" PromptU="Midware symbol" NameU="Midware symbol"/>
+    <Elem Prompt="多相" Name="多相" PromptU="Multiple-phase" NameU="Multiple-phase"/>
+    <Elem Prompt="3 个分离绕组" Name="3 个分离绕组" PromptU="3 separate windings" NameU="3 separate windings"/>
+    <Elem Prompt="两相三线" Name="两相三线" PromptU="2-phase 3-wire" NameU="2-phase 3-wire"/>
+    <Elem Prompt="两相四线" Name="两相四线" PromptU="2-phase 4-wire" NameU="2-phase 4-wire"/>
+    <Elem Prompt="三相(V 形)" Name="三相(V 形)" PromptU="3-phase (V)" NameU="3-phase (V)"/>
+    <Elem Prompt="三相(T 形)" Name="三相(T 形)" PromptU="3-Phase (T)" NameU="3-Phase (T)"/>
+    <Elem Prompt="三相三角连接 1" Name="三相三角连接 1" PromptU="3-phase Delta 1" NameU="3-phase Delta 1"/>
+    <Elem Prompt="三相三角连接 2" Name="三相三角连接 2" PromptU="3-phase Delta 2" NameU="3-phase Delta 2"/>
+    <Elem Prompt="三相三角连接 3" Name="三相三角连接 3" PromptU="3-phase Delta 3" NameU="3-phase Delta 3"/>
+    <Elem Prompt="三相三角连接 4" Name="三相三角连接 4" PromptU="3-phase Delta 4" NameU="3-phase Delta 4"/>
+    <Elem Prompt="三相星形连接" Name="三相星形连接" PromptU="3-phase star" NameU="3-phase star"/>
+    <Elem Prompt="三相之字绕组" Name="三相之字绕组" PromptU="3-phase zigzag" NameU="3-phase zigzag"/>
+    <Elem Prompt="三相四线" Name="三相四线" PromptU="3-phase 4-wire" NameU="3-phase 4-wire"/>
+    <Elem Prompt="四相" Name="四相" PromptU="4-phase" NameU="4-phase"/>
+    <Elem Prompt="六相双星形" Name="六相双星形" PromptU="6-phase double star" NameU="6-phase double star"/>
+    <Elem Prompt="六相双三角形" Name="六相双三角形" PromptU="6-phase double delta" NameU="6-phase double delta"/>
+    <Elem Prompt="六相六角形" Name="六相六角形" PromptU="6-phase hexagonal" NameU="6-phase hexagonal"/>
+    <Elem Prompt="六相叉式" Name="六相叉式" PromptU="6-phase fork" NameU="6-phase fork"/>
+    <Elem Prompt="单向信号" Name="单向信号" PromptU="One-way signal" NameU="One-way signal"/>
+    <Elem Prompt="任意方向信号" Name="任意方向信号" PromptU="Either way signal" NameU="Either way signal"/>
+    <Elem Prompt="双向信号" Name="双向信号" PromptU="Both ways signal" NameU="Both ways signal"/>
+    <Elem Prompt="模拟信号" Name="模拟信号" PromptU="Analog signals" NameU="Analog signals"/>
+    <Elem Prompt="数字信号" Name="数字信号" PromptU="Digital signals" NameU="Digital signals"/>
+    <Elem Prompt="特殊连接线" Name="特殊连接线" PromptU="Special connector" NameU="Special connector"/>
+    <Elem Prompt="同轴符号" Name="同轴符号" PromptU="Coaxial symbol" NameU="Coaxial symbol"/>
+    <Elem Prompt="驻极体" Name="驻极体" PromptU="Electret" NameU="Electret"/>
+</Lib>

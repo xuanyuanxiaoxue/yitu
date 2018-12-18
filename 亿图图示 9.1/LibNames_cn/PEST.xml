@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PEST Shapes">
+    <Elem Prompt="基本PEST" Name="基本PEST" PromptU="Basic PEST" NameU="Basic PEST"/>
+    <Elem Prompt="PEST矩阵" Name="PEST矩阵" PromptU="PEST Matrix" NameU="PEST Matrix"/>
+    <Elem Prompt="条状PEST" Name="条状PEST" PromptU="PEST Bar" NameU="PEST Bar"/>
+    <Elem Prompt="块状PEST" Name="块状PEST" PromptU="PEST Box" NameU="PEST Box"/>
+    <Elem Prompt="斜面PEST" Name="斜面PEST" PromptU="PEST Box-Bevel Fill" NameU="PEST Box-Bevel"/>
+    <Elem Prompt="圆形PEST" Name="圆形PEST" PromptU="Circular PEST" NameU="Circular PEST"/>
+    <Elem Prompt="PEST" Name="PEST" PromptU="PEST" NameU="PEST"/>
+    <Elem Prompt="PEST" Name="PEST 2" PromptU="PEST" NameU="PEST 2"/>
+    <Elem Prompt="PEST" Name="PEST 3" PromptU="PEST" NameU="PEST 3"/>
+    <Elem Prompt="圆" Name="圆" PromptU="Circle" NameU="Circle"/>
+    <Elem Prompt="圆" Name="圆 2" PromptU="Circle" NameU="Circle 2"/>
+    <Elem Prompt="文本块" Name="文本块" PromptU="Text Box" NameU="Text Box"/>
+    <Elem Prompt="文本块" Name="文本块 2" PromptU="Text Box" NameU="Text Box 2"/>
+    <Elem Prompt="文本块" Name="文本块 3" PromptU="Text Box" NameU="Text Box 3"/>
+    <Elem Prompt="文本块" Name="文本块 4" PromptU="Text Box" NameU="Text Box 4"/>
+</Lib>

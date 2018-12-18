@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Active Directory Objects">
+    <Elem Prompt="域" Name="域" PromptU="Domain" NameU="Domain"/>
+    <Elem Prompt="计算机" Name="计算机" PromptU="Computer" NameU="Computer"/>
+    <Elem Prompt="用户" Name="用户" PromptU="User" NameU="User"/>
+    <Elem Prompt="组" Name="组" PromptU="Group" NameU="Group"/>
+    <Elem Prompt="容器" Name="容器" PromptU="Container" NameU="Container"/>
+    <Elem Prompt="打印队列" Name="打印队列" PromptU="Print Queue" NameU="Print Queue"/>
+    <Elem Prompt="联系人" Name="联系人" PromptU="Contact" NameU="Contact"/>
+    <Elem Prompt="组织单元" Name="组织单元" PromptU="Organizational Unit" NameU="Organizational Unit"/>
+    <Elem Prompt="策略" Name="策略" PromptU="Policy" NameU="Policy"/>
+    <Elem Prompt="卷" Name="卷" PromptU="Volume" NameU="Volume"/>
+    <Elem Prompt="一般对象" Name="一般对象" PromptU="Generic object" NameU="Generic object"/>
+    <Elem Prompt="服务器" Name="服务器" PromptU="Server" NameU="Server"/>
+    <Elem Prompt="站点" Name="站点" PromptU="Site" NameU="Site"/>
+    <Elem Prompt="站点链接" Name="站点链接" PromptU="Site link" NameU="Site link"/>
+    <Elem Prompt="网站链接网桥" Name="网站链接网桥" PromptU="Site link bridge" NameU="Site link bridge"/>
+    <Elem Prompt="NTDS站点设置" Name="NTDS站点设置" PromptU="NTDS site settings" NameU="NTDS site settings"/>
+    <Elem Prompt="IP 子网" Name="IP 子网" PromptU="IP subnet" NameU="IP subnet"/>
+    <Elem Prompt="证书模板" Name="证书模板" PromptU="Certificate Template" NameU="Certificate Template"/>
+    <Elem Prompt="颁发许可得站点" Name="颁发许可得站点" PromptU="Licensing Site" NameU="Licensing Site"/>
+    <Elem Prompt="连接" Name="连接" PromptU="Connection" NameU="Connection"/>
+    <Elem Prompt="目录连接线" Name="目录连接线" PromptU="Directory Connector" NameU="Directory Connector"/>
+</Lib>

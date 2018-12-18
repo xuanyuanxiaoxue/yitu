@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Marketing Shapes">
+    <Elem Prompt="靶" Name="靶" PromptU="Target" NameU="Target"/>
+    <Elem Prompt="靶 2" Name="靶 2" PromptU="Target 2" NameU="Target 2"/>
+    <Elem Prompt="飞镖" Name="飞镖" PromptU="Dart" NameU="Dart"/>
+    <Elem Prompt="中标" Name="中标" PromptU="Hit the Target" NameU="Hit the Target"/>
+    <Elem Prompt="地球仪" Name="地球仪" PromptU="Global" NameU="Global"/>
+    <Elem Prompt="复选框" Name="复选框" PromptU="Check Box" NameU="Check Box"/>
+    <Elem Prompt="完成或取消" Name="完成或取消" PromptU="Check or Cross" NameU="Check or Cross"/>
+    <Elem Prompt="纸币" Name="纸币" PromptU="Money" NameU="Money"/>
+    <Elem Prompt="钱袋" Name="钱袋" PromptU="Money Bag" NameU="Money Bag"/>
+    <Elem Prompt="标语牌" Name="标语牌" PromptU="Sign Post" NameU="Sign Post"/>
+    <Elem Prompt="温度计" Name="温度计" PromptU="Thermometer" NameU="Thermometer"/>
+    <Elem Prompt="指向" Name="指向" PromptU="Extend Hand" NameU="Extend Hand"/>
+    <Elem Prompt="握手" Name="握手" PromptU="Shake Hands" NameU="Shake Hands"/>
+    <Elem Prompt="男人" Name="男人" PromptU="Man" NameU="Man"/>
+    <Elem Prompt="女人" Name="女人" PromptU="Female" NameU="Female"/>
+    <Elem Prompt="会议" Name="会议" PromptU="Meeting" NameU="Meeting"/>
+    <Elem Prompt="天平" Name="天平" PromptU="Scales" NameU="Scales"/>
+    <Elem Prompt="伞" Name="伞" PromptU="Umbrella" NameU="Umbrella"/>
+    <Elem Prompt="铅笔" Name="铅笔" PromptU="Pencil" NameU="Pencil"/>
+    <Elem Prompt="眼镜" Name="眼镜" PromptU="Glasses" NameU="Glasses"/>
+    <Elem Prompt="花朵" Name="花朵" PromptU="Flower" NameU="Flower"/>
+    <Elem Prompt="花朵 2" Name="花朵 2" PromptU="Flower 2" NameU="Flower 2"/>
+    <Elem Prompt="树" Name="树" PromptU="Tree" NameU="Tree"/>
+    <Elem Prompt="工厂" Name="工厂" PromptU="Factory" NameU="Factory"/>
+    <Elem Prompt="仓库" Name="仓库" PromptU="Warehouse" NameU="Warehouse"/>
+    <Elem Prompt="批发商" Name="批发商" PromptU="Wholesaler" NameU="Wholesaler"/>
+    <Elem Prompt="银行" Name="银行" PromptU="Bank" NameU="Bank"/>
+    <Elem Prompt="酒店" Name="酒店" PromptU="Hotel" NameU="Hotel"/>
+    <Elem Prompt="建筑物" Name="建筑物" PromptU="Building" NameU="Building"/>
+    <Elem Prompt="油井" Name="油井" PromptU="Oil Well" NameU="Oil Well"/>
+    <Elem Prompt="圆柱形" Name="圆柱形" PromptU="Cylinder" NameU="Cylinder"/>
+    <Elem Prompt="文件" Name="文件" PromptU="Documents" NameU="Documents"/>
+    <Elem Prompt="纸张" Name="纸张" PromptU="Papers" NameU="Papers"/>
+    <Elem Prompt="衰退型" Name="衰退型" PromptU="Dog" NameU="Dog"/>
+    <Elem Prompt="现金" Name="现金" PromptU="Money Box" NameU="Money Box"/>
+    <Elem Prompt="星形" Name="星形" PromptU="Star" NameU="Star"/>
+    <Elem Prompt="问号" Name="问号" PromptU="Question Mark" NameU="Question Mark"/>
+    <Elem Prompt="满箱" Name="满箱" PromptU="Full Box" NameU="Full Box"/>
+    <Elem Prompt="空箱" Name="空箱" PromptU="Empty Box" NameU="Empty Box"/>
+    <Elem Prompt="木桶" Name="木桶" PromptU="Wooden Barrel" NameU="Wooden Barrel"/>
+    <Elem Prompt="油桶" Name="油桶" PromptU="Oil barrel" NameU="Oil barrel"/>
+    <Elem Prompt="飞机" Name="飞机" PromptU="Airplane" NameU="Airplane"/>
+    <Elem Prompt="公交车" Name="公交车" PromptU="Bus" NameU="Bus"/>
+    <Elem Prompt="火车" Name="火车" PromptU="Train" NameU="Train"/>
+    <Elem Prompt="卡车" Name="卡车" PromptU="Truck" NameU="Truck"/>
+    <Elem Prompt="轮船" Name="轮船" PromptU="Ship" NameU="Ship"/>
+    <Elem Prompt="购物车" Name="购物车" PromptU="Shopping Cart" NameU="Shopping Cart"/>
+    <Elem Prompt="购物车 2" Name="购物车 2" PromptU="Shopping Cart 2" NameU="Shopping Cart 2"/>
+    <Elem Prompt="奖杯" Name="奖杯" PromptU="Cup" NameU="Cup"/>
+    <Elem Prompt="奖牌" Name="奖牌" PromptU="Award" NameU="Award"/>
+    <Elem Prompt="奖牌" Name="奖牌 2" PromptU="Award" NameU="Award 2"/>
+    <Elem Prompt="奖牌" Name="奖牌 3" PromptU="Award" NameU="Award 3"/>
+    <Elem Prompt="奖章" Name="奖章" PromptU="Medal" NameU="Medal"/>
+    <Elem Prompt="停止标志" Name="停止标志" PromptU="Stop Sign" NameU="Stop Sign"/>
+    <Elem Prompt="“禁止”标记" Name="“禁止”标记" PromptU="No Sign" NameU="No Sign"/>
+    <Elem Prompt="警告标志" Name="警告标志" PromptU="Warning Sign" NameU="Warning Sign"/>
+    <Elem Prompt="完整拼图" Name="完整拼图" PromptU="Puzzle Whole" NameU="Puzzle Whole"/>
+    <Elem Prompt="拼图" Name="拼图 1" PromptU="Puzzle" NameU="Puzzle 1"/>
+    <Elem Prompt="拼图" Name="拼图 2" PromptU="Puzzle" NameU="Puzzle 2"/>
+    <Elem Prompt="拼图" Name="拼图 3" PromptU="Puzzle" NameU="Puzzle 3"/>
+    <Elem Prompt="拼图" Name="拼图 4" PromptU="Puzzle" NameU="Puzzle 4"/>
+    <Elem Prompt="拼图" Name="拼图 5" PromptU="Puzzle" NameU="Puzzle 5"/>
+    <Elem Prompt="拼图" Name="拼图 6" PromptU="Puzzle" NameU="Puzzle 6"/>
+    <Elem Prompt="拼图" Name="拼图 7" PromptU="Puzzle" NameU="Puzzle 7"/>
+    <Elem Prompt="拼图" Name="拼图 8" PromptU="Puzzle" NameU="Puzzle 8"/>
+    <Elem Prompt="拼图" Name="拼图 9" PromptU="Puzzle" NameU="Puzzle 9"/>
+    <Elem Prompt="拼图" Name="拼图 10" PromptU="Puzzle" NameU="Puzzle 10"/>
+</Lib>

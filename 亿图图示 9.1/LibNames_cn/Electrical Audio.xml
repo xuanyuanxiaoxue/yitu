@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Electrical Audio">
+    <Elem Prompt="扬声器" Name="扬声器" PromptU="Speaker" NameU="Speaker"/>
+    <Elem Prompt="麦克风" Name="麦克风" PromptU="Microphone" NameU="Microphone"/>
+    <Elem Prompt="麦克风 2" Name="麦克风 2" PromptU="Microphone 2" NameU="Microphone 2"/>
+    <Elem Prompt="麦克风 3" Name="麦克风 3" PromptU="Microphone 3" NameU="Microphone 3"/>
+    <Elem Prompt="麦克风 4" Name="麦克风 4" PromptU="Microphone 4" NameU="Microphone 4"/>
+    <Elem Prompt="偶极" Name="偶极" PromptU="Dipole" NameU="Dipole"/>
+    <Elem Prompt="电话筒" Name="电话筒" PromptU="Electrical microphone" NameU="Electrical microphone"/>
+    <Elem Prompt="压力发声器" Name="压力发声器" PromptU="Piezo sounder" NameU="Piezo sounder"/>
+    <Elem Prompt="蜂鸣器" Name="蜂鸣器" PromptU="Buzzer" NameU="Buzzer"/>
+    <Elem Prompt="耳机" Name="耳机" PromptU="Headphones" NameU="Headphones"/>
+</Lib>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Plant Cell">
+    <Elem Prompt="花粉1" Name="花粉1" PromptU="Pollen1" NameU="Pollen1"/>
+    <Elem Prompt="花粉2" Name="花粉2" PromptU="Pollen2" NameU="Pollen2"/>
+    <Elem Prompt="花粉3" Name="花粉3" PromptU="Pollen3" NameU="Pollen3"/>
+    <Elem Prompt="花粉4" Name="花粉4" PromptU="Pollen4" NameU="Pollen4"/>
+    <Elem Prompt="花粉5" Name="花粉5" PromptU="Pollen5" NameU="Pollen5"/>
+    <Elem Prompt="花粉6" Name="花粉6" PromptU="Pollen6" NameU="Pollen6"/>
+    <Elem Prompt="花粉7" Name="花粉7" PromptU="Pollen7" NameU="Pollen7"/>
+    <Elem Prompt="花粉8" Name="花粉8" PromptU="Pollen8" NameU="Pollen8"/>
+    <Elem Prompt="花粉9" Name="花粉9" PromptU="Pollen9" NameU="Pollen9"/>
+    <Elem Prompt="植物细胞模型图1" Name="植物细胞模型图1" PromptU="Plant cell model diagram1" NameU="Plant cell model diagram1"/>
+    <Elem Prompt="植物细胞模型图2" Name="植物细胞模型图2" PromptU="Plant cell model diagram2" NameU="Plant cell model diagram2"/>
+    <Elem Prompt="厚角组织" Name="厚角组织" PromptU="Collenchymas" NameU="Collenchymas"/>
+    <Elem Prompt="洋葱组织" Name="洋葱组织" PromptU="Onion tissue" NameU="Onion tissue"/>
+</Lib>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Athletic Ground">
+    <Elem Prompt="篮球场" Name="篮球场" PromptU="Basketball court" NameU="Basketball court"/>
+    <Elem Prompt="足球场" Name="足球场" PromptU="Football field" NameU="Football field"/>
+    <Elem Prompt="操场" Name="操场" PromptU="Playground" NameU="Playground"/>
+    <Elem Prompt="操场" Name="操场 2" PromptU="Playground2" NameU="Playground2"/>
+</Lib>

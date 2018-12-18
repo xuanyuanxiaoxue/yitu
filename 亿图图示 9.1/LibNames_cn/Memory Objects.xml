@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Memory Objects">
+    <Elem Prompt="三维堆栈顶部" Name="三维堆栈顶部" PromptU="3D stact top" NameU="3D stact top"/>
+    <Elem Prompt="三维堆栈中部" Name="三维堆栈中部" PromptU="3D stact middle" NameU="3D stact middle"/>
+    <Elem Prompt="范围标签" Name="范围标签" PromptU="Range Label" NameU="Range Label"/>
+    <Elem Prompt="范围标签 2" Name="范围标签 2" PromptU="Range Label 2" NameU="Range Label 2"/>
+    <Elem Prompt="数据块" Name="数据块" PromptU="Data block" NameU="Data block"/>
+    <Elem Prompt="数据区块" Name="数据区块" PromptU="Data chunk" NameU="Data chunk"/>
+    <Elem Prompt="字节或变量" Name="字节或变量" PromptU="Byte or variable" NameU="Byte or variable"/>
+    <Elem Prompt="数组" Name="数组" PromptU="Array" NameU="Array"/>
+    <Elem Prompt="指针" Name="指针" PromptU="Pointer" NameU="Pointer"/>
+    <Elem Prompt="指针 (1-D)" Name="指针 (1-D)" PromptU="Pointer 2" NameU="Pointer 2"/>
+    <Elem Prompt="指针 (1-D)" Name="指针 (1-D)" PromptU="Pointer (1-D)" NameU="Pointer (1-D)"/>
+    <Elem Prompt="单向链接列表节点" Name="单向链接列表节点" PromptU="Single link. list node" NameU="Single link. list node"/>
+    <Elem Prompt="单向链接列表节点2" Name="单向链接列表节点2" PromptU="Single link. list node 2" NameU="Single link. list node 2"/>
+    <Elem Prompt="双向链接列表节点" Name="双向链接列表节点" PromptU="Double link. list node" NameU="Double link. list node"/>
+    <Elem Prompt="堆栈指针" Name="堆栈指针" PromptU="Stack Pointer" NameU="Stack Pointer"/>
+    <Elem Prompt="堆或堆栈" Name="堆或堆栈" PromptU="Stack or heap" NameU="Stack or heap"/>
+    <Elem Prompt="数据存储" Name="数据存储" PromptU="Data stock" NameU="Data stock"/>
+</Lib>

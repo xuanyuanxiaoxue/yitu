@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Analog and Digital Logic">
+    <Elem Prompt="And" Name="And" PromptU="And" NameU="And"/>
+    <Elem Prompt="OR" Name="OR" PromptU="OR" NameU="OR"/>
+    <Elem Prompt="XOR" Name="XOR" PromptU="XOR" NameU="XOR"/>
+    <Elem Prompt="NAND" Name="NAND" PromptU="NAND" NameU="NAND"/>
+    <Elem Prompt="NOR" Name="NOR" PromptU="NOR" NameU="NOR"/>
+    <Elem Prompt="NXOR" Name="NXOR" PromptU="NXOR" NameU="NXOR"/>
+    <Elem Prompt="NNOR" Name="NNOR" PromptU="NNOR" NameU="NNOR"/>
+    <Elem Prompt="And (IEC)" Name="And (IEC)" PromptU="And (IEC)" NameU="And (IEC)"/>
+    <Elem Prompt="NAND (IEC)" Name="NAND (IEC)" PromptU="NAND (IEC)" NameU="NAND (IEC)"/>
+    <Elem Prompt="OR (IEC)" Name="OR (IEC)" PromptU="OR (IEC)" NameU="OR (IEC)"/>
+    <Elem Prompt="NOR (IEC)" Name="NOR (IEC)" PromptU="NOR (IEC)" NameU="NOR (IEC)"/>
+    <Elem Prompt="NOT (IEC)" Name="NOT (IEC)" PromptU="NOT (IEC)" NameU="NOT (IEC)"/>
+    <Elem Prompt="XOR (IEC)" Name="XOR (IEC)" PromptU="XOR (IEC)" NameU="XOR (IEC)"/>
+    <Elem Prompt="反相器" Name="反相器" PromptU="Inverter" NameU="Inverter"/>
+    <Elem Prompt="缓冲器" Name="缓冲器" PromptU="Buffer" NameU="Buffer"/>
+    <Elem Prompt="传输门" Name="传输门" PromptU="Transfer gate" NameU="Transfer gate"/>
+    <Elem Prompt="时钟" Name="时钟" PromptU="Clock" NameU="Clock"/>
+    <Elem Prompt="定标器" Name="定标器" PromptU="Coefficient scaler" NameU="Coefficient scaler"/>
+    <Elem Prompt="Mux" Name="Mux" PromptU="Mux" NameU="Mux"/>
+    <Elem Prompt="Mux-Demux" Name="Mux-Demux" PromptU="Mux-Demux" NameU="Mux-Demux"/>
+    <Elem Prompt="Demux" Name="Demux" PromptU="Demux" NameU="Demux"/>
+    <Elem Prompt="D型触发器" Name="D型触发器" PromptU="D Type Flip-Flop" NameU="D Type Flip-Flop"/>
+    <Elem Prompt="具有清零功能的D型触发器" Name="具有清零功能的D型触发器" PromptU="D Type Flip-Flop With Clear" NameU="D Type Flip-Flop With Clear"/>
+    <Elem Prompt="D型RS触发器" Name="D型RS触发器" PromptU="D Type RS Flip-Flop" NameU="D Type RS Flip-Flop"/>
+    <Elem Prompt="JK触发器" Name="JK触发器" PromptU="JK Flip-Flop" NameU="JK Flip-Flop"/>
+    <Elem Prompt="具有清零功能的JK触发器" Name="具有清零功能的JK触发器" PromptU="JK Flip-Flop With Clear" NameU="JK Flip-Flop With Clear"/>
+    <Elem Prompt="双稳态JK触发器" Name="双稳态JK触发器" PromptU="JK Flip-Flop With SR" NameU="JK Flip-Flop With SR"/>
+    <Elem Prompt="双稳态锁存器" Name="双稳态锁存器" PromptU="RS Latch" NameU="RS Latch"/>
+    <Elem Prompt="双稳态同步锁存器" Name="双稳态同步锁存器" PromptU="RS Latch Synchronous" NameU="RS Latch Synchronous"/>
+    <Elem Prompt="T型触发器" Name="T型触发器" PromptU="T Type Flip-Flop" NameU="T Type Flip-Flop"/>
+    <Elem Prompt="放大器" Name="放大器" PromptU="Amplifier" NameU="Amplifier"/>
+    <Elem Prompt="转换器" Name="转换器" PromptU="Converter" NameU="Converter"/>
+    <Elem Prompt="逻辑门 1" Name="逻辑门 1" PromptU="Logic gate 1" NameU="Logic gate 1"/>
+    <Elem Prompt="触发器" Name="触发器" PromptU="Flip-flop" NameU="Flip-flop"/>
+    <Elem Prompt="模拟到数字转换" Name="模拟到数字转换" PromptU="Analog to digital" NameU="Analog to digital"/>
+    <Elem Prompt="数字到模拟转换" Name="数字到模拟转换" PromptU="Digital to analog" NameU="Digital to analog"/>
+    <Elem Prompt="模拟符号" Name="模拟符号" PromptU="Analog symbol" NameU="Analog symbol"/>
+    <Elem Prompt="数字符号" Name="数字符号" PromptU="Digital symbol" NameU="Digital symbol"/>
+    <Elem Prompt="负逻辑圆点" Name="负逻辑圆点" PromptU="Negative logic dot" NameU="Negative logic dot"/>
+    <Elem Prompt="函数电位计" Name="函数电位计" PromptU="Function potentiom..." NameU="Function potentiom..."/>
+    <Elem Prompt="位置伺服机构" Name="位置伺服机构" PromptU="Positional servo" NameU="Positional servo"/>
+    <Elem Prompt="延迟元件" Name="延迟元件" PromptU="Delay element" NameU="Delay element"/>
+    <Elem Prompt="输入/输出端口" Name="输入/输出端口" PromptU="I/O port" NameU="I/O port"/>
+    <Elem Prompt="信号波形" Name="信号波形" PromptU="Signal waveforms" NameU="Signal waveforms"/>
+    <Elem Prompt="三态缓冲器" Name="三态缓冲器" PromptU="Three-state buffer" NameU="Three-state buffer"/>
+    <Elem Prompt="三态门" Name="三态门" PromptU="Tri-state gate" NameU="Tri-state gate"/>
+    <Elem Prompt="三态门 2" Name="三态门 2" PromptU="Tri-state gate 2" NameU="Tri-state gate 2"/>
+    <Elem Prompt="积分器" Name="积分器" PromptU="Integrator" NameU="Integrator"/>
+    <Elem Prompt="放大器" Name="放大器" PromptU="Amplifier" NameU="Amplifier"/>
+    <Elem Prompt="加法放大器" Name="加法放大器" PromptU="Summing amplifier" NameU="Summing amplifier"/>
+    <Elem Prompt="控制放大器" Name="控制放大器" PromptU="Controlled amplifier" NameU="Controlled amplifier"/>
+    <Elem Prompt="乘法器" Name="乘法器" PromptU="Multiplier" NameU="Multiplier"/>
+    <Elem Prompt="除法器" Name="除法器" PromptU="Divider" NameU="Divider"/>
+    <Elem Prompt="函数生成器 2" Name="函数生成器 2" PromptU="Function generator 2" NameU="Function generator 2"/>
+    <Elem Prompt="通用积分器" Name="通用积分器" PromptU="Generalized integrator" NameU="Generalized integrator"/>
+    <Elem Prompt="运算放大器" Name="运算放大器" PromptU="Operational amplifier" NameU="Operational amplifier"/>
+    <Elem Prompt="运算放大器 2" Name="运算放大器 2" PromptU="Operational amplifier 2" NameU="Operational amplifier 2"/>
+    <Elem Prompt="施米特触发器" Name="施米特触发器" PromptU="Schmitt Trigger" NameU="Schmitt Trigger"/>
+    <Elem Prompt="通用" Name="通用" PromptU="Generic" NameU="Generic"/>
+    <Elem Prompt="乘法器" Name="乘法器" PromptU="Multiplier" NameU="Multiplier"/>
+    <Elem Prompt="除法器" Name="除法器" PromptU="Divider" NameU="Divider"/>
+    <Elem Prompt="乘法-除法器" Name="乘法-除法器" PromptU="Multiplier-divider" NameU="Multiplier-divider"/>
+    <Elem Prompt="指数器" Name="指数器" PromptU="Exponential" NameU="Exponential"/>
+    <Elem Prompt="余切" Name="余切" PromptU="Cotangent" NameU="Cotangent"/>
+</Lib>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Basic Electrical Symbols">
+    <Elem Prompt="接地" Name="接地" PromptU="Earth electrode" NameU="Earth electrode"/>
+    <Elem Prompt="接地保护" Name="接地保护" PromptU="Protective earth" NameU="Protective earth"/>
+    <Elem Prompt="信号接地" Name="信号接地" PromptU="Signal ground" NameU="Signal ground"/>
+    <Elem Prompt="电极" Name="电极" PromptU="Cell" NameU="Cell"/>
+    <Elem Prompt="电池" Name="电池" PromptU="Battery" NameU="Battery"/>
+    <Elem Prompt="电源" Name="电源" PromptU="Source" NameU="Source"/>
+    <Elem Prompt="理想电源" Name="理想电源" PromptU="Ideal source" NameU="Ideal source"/>
+    <Elem Prompt="电阻器" Name="电阻器" PromptU="Resister" NameU="Resister"/>
+    <Elem Prompt="交替电阻器" Name="交替电阻器" PromptU="Alternate resister" NameU="Alternate resister"/>
+    <Elem Prompt="可变电阻器" Name="可变电阻器" PromptU="Variable resister" NameU="Variable resister"/>
+    <Elem Prompt="预设电阻器" Name="预设电阻器" PromptU="Pre-set resister" NameU="Pre-set resister"/>
+    <Elem Prompt="预设电位计" Name="预设电位计" PromptU="Pre-set potentiometer" NameU="Pre-set potentiometer"/>
+    <Elem Prompt="电位计电阻器" Name="电位计电阻器" PromptU="Potentiometer resister" NameU="Potentiometer resister"/>
+    <Elem Prompt="衰减器" Name="衰减器" PromptU="Attenuator" NameU="Attenuator"/>
+    <Elem Prompt="开关" Name="开关" PromptU="Contact" NameU="Contact"/>
+    <Elem Prompt="电容器" Name="电容器" PromptU="Capacitor" NameU="Capacitor"/>
+    <Elem Prompt="电容器 2" Name="电容器 2" PromptU="Capacitor 2" NameU="Capacitor 2"/>
+    <Elem Prompt="电容器 3" Name="电容器 3" PromptU="Capacitor with Step" NameU="Capacitor with Step"/>
+    <Elem Prompt="电容器 4" Name="电容器 4" PromptU="Capacitor with tapping" NameU="Capacitor with tapping"/>
+    <Elem Prompt="各种连接点" Name="各种连接点" PromptU="Various connections" NameU="Various connections"/>
+    <Elem Prompt="蓄电池" Name="蓄电池" PromptU="Accumulator" NameU="Accumulator"/>
+    <Elem Prompt="天线" Name="天线" PromptU="Antenna" NameU="Antenna"/>
+    <Elem Prompt="天线 2" Name="天线 2" PromptU="Antenna 2" NameU="Antenna 2"/>
+    <Elem Prompt="二极管" Name="二极管" PromptU="Diode" NameU="Diode"/>
+    <Elem Prompt="二极管LED" Name="二极管LED" PromptU="Diode LED" NameU="Diode LED"/>
+    <Elem Prompt="环形天线" Name="环形天线" PromptU="Loop antenna" NameU="Loop antenna"/>
+    <Elem Prompt="回路天线 2" Name="回路天线 2" PromptU="Loop antenna 2" NameU="Loop antenna 2"/>
+    <Elem Prompt="同轴阀" Name="同轴阀" PromptU="Co-Ax" NameU="Co-Ax"/>
+    <Elem Prompt="晶体" Name="晶体" PromptU="Crystal" NameU="Crystal"/>
+    <Elem Prompt="断路器" Name="断路器" PromptU="Circuit breaker" NameU="Circuit breaker"/>
+    <Elem Prompt="保险丝" Name="保险丝" PromptU="Fuse" NameU="Fuse"/>
+    <Elem Prompt="保险丝 2" Name="保险丝 2" PromptU="Fuse 2" NameU="Fuse 2"/>
+    <Elem Prompt="保险丝 3" Name="保险丝 3" PromptU="Fuse 3" NameU="Fuse 3"/>
+    <Elem Prompt="保险丝 (IEC)" Name="保险丝 (IEC)" PromptU="Fuse (IEC)" NameU="Fuse (IEC)"/>
+    <Elem Prompt="保险丝 (IEEE)" Name="保险丝 (IEEE)" PromptU="Fuse (IEEE)" NameU="Fuse (IEEE)"/>
+    <Elem Prompt="保险丝 (obsolete)" Name="保险丝 (obsolete)" PromptU="Fuse (obsolete)" NameU="Fuse (obsolete)"/>
+    <Elem Prompt="普通组件" Name="普通组件" PromptU="Generic component" NameU="Generic component"/>
+    <Elem Prompt="传感器" Name="传感器" PromptU="Transducer" NameU="Transducer"/>
+    <Elem Prompt="传感器 2" Name="传感器 2" PromptU="Transducer 2" NameU="Transducer 2"/>
+    <Elem Prompt="电感器" Name="电感器" PromptU="Inductor" NameU="Inductor"/>
+    <Elem Prompt="半电感器" Name="半电感器" PromptU="Half inductor" NameU="Half inductor"/>
+    <Elem Prompt="加热器" Name="加热器" PromptU="Heater" NameU="Heater"/>
+    <Elem Prompt="电流变换器" Name="电流变换器" PromptU="Current transformer" NameU="Current transformer"/>
+    <Elem Prompt="潜在转换" Name="潜在转换" PromptU="Potential transforming" NameU="Potential transforming"/>
+    <Elem Prompt="电源变压器" Name="电源变压器" PromptU="Power transformer" NameU="Power transformer"/>
+    <Elem Prompt="拾音头" Name="拾音头" PromptU="Pickup head" NameU="Pickup head"/>
+    <Elem Prompt="脉冲" Name="脉冲" PromptU="Pulse" NameU="Pulse"/>
+    <Elem Prompt="交替脉冲" Name="交替脉冲" PromptU="Alternating pulse" NameU="Alternating pulse"/>
+    <Elem Prompt="锯齿波" Name="锯齿波" PromptU="Saw tooth" NameU="Saw tooth"/>
+    <Elem Prompt="阶跃函数" Name="阶跃函数" PromptU="Step function" NameU="Step function"/>
+    <Elem Prompt="爆炸导火管" Name="爆炸导火管" PromptU="Explosive squib" NameU="Explosive squib"/>
+    <Elem Prompt="感应链接导火管" Name="感应链接导火管" PromptU="Sensing link squib" NameU="Sensing link squib"/>
+    <Elem Prompt="导火管点火器" Name="导火管点火器" PromptU="Squib ignitor" NameU="Squib ignitor"/>
+    <Elem Prompt="电泳保护器 2" Name="电泳保护器 2" PromptU="Surge protectors 2" NameU="Surge protectors 2"/>
+    <Elem Prompt="指示器" Name="指示器" PromptU="Indicator" NameU="Indicator"/>
+    <Elem Prompt="转换开关" Name="转换开关" PromptU="Switch" NameU="Switch"/>
+    <Elem Prompt="安培表转换开关" Name="安培表转换开关" PromptU="Ammeter switch" NameU="Ammeter switch"/>
+    <Elem Prompt="伏特表转换开关" Name="伏特表转换开关" PromptU="Voltmeter switch" NameU="Voltmeter switch"/>
+    <Elem Prompt="电动机" Name="电动机" PromptU="Motor" NameU="Motor"/>
+    <Elem Prompt="电流表" Name="电流表" PromptU="Ammeter" NameU="Ammeter"/>
+    <Elem Prompt="电压表" Name="电压表" PromptU="Voltmeter" NameU="Voltmeter"/>
+    <Elem Prompt="发电机" Name="发电机" PromptU="Generator" NameU="Generator"/>
+    <Elem Prompt="无功计" Name="无功计" PromptU="Varmeter" NameU="Varmeter"/>
+    <Elem Prompt="赫兹" Name="赫兹" PromptU="HZ" NameU="HZ"/>
+    <Elem Prompt="温度计" Name="温度计" PromptU="Thermometer" NameU="Thermometer"/>
+    <Elem Prompt="计时器" Name="计时器" PromptU="Hourmeter" NameU="Hourmeter"/>
+    <Elem Prompt="材料" Name="材料" PromptU="Material" NameU="Material"/>
+    <Elem Prompt="元件" Name="元件" PromptU="Component" NameU="Component"/>
+    <Elem Prompt="延迟元件" Name="延迟元件" PromptU="Delay element" NameU="Delay element"/>
+    <Elem Prompt="电泳保护器" Name="电泳保护器" PromptU="Surge protectors" NameU="Surge protectors"/>
+    <Elem Prompt="永磁体" Name="永磁体" PromptU="Permanent magnet" NameU="Permanent magnet"/>
+    <Elem Prompt="磁芯" Name="磁芯" PromptU="Magnet core" NameU="Magnet core"/>
+    <Elem Prompt="铁芯" Name="铁芯" PromptU="Ferrite core" NameU="Ferrite core"/>
+    <Elem Prompt="配电板" Name="配电板" PromptU="Distribution panel" NameU="Distribution panel"/>
+    <Elem Prompt="仪表板" Name="仪表板" PromptU="Instrumentation panel" NameU="Instrumentation panel"/>
+    <Elem Prompt="点火塞" Name="点火塞" PromptU="Igniter plug" NameU="Igniter plug"/>
+    <Elem Prompt="电铃" Name="电铃" PromptU="Bell" NameU="Bell"/>
+    <Elem Prompt="蜂鸣器" Name="蜂鸣器" PromptU="Buzzer" NameU="Buzzer"/>
+    <Elem Prompt="遥控站" Name="遥控站" PromptU="Remote control station" NameU="Remote control station"/>
+    <Elem Prompt="热元件" Name="热元件" PromptU="Thermal element" NameU="Thermal element"/>
+    <Elem Prompt="热电偶" Name="热电偶" PromptU="Thermocouple" NameU="Thermocouple"/>
+    <Elem Prompt="热电堆" Name="热电堆" PromptU="Thermopile" NameU="Thermopile"/>
+    <Elem Prompt="灯" Name="灯" PromptU="Lamp" NameU="Lamp"/>
+    <Elem Prompt="灯 2" Name="灯 2" PromptU="Lamp 2" NameU="Lamp 2"/>
+    <Elem Prompt="灯 3" Name="灯 3" PromptU="Lamp 3" NameU="Lamp 3"/>
+    <Elem Prompt="灯 4" Name="灯 4" PromptU="Lamp 4" NameU="Lamp 4"/>
+    <Elem Prompt="霓虹灯" Name="霓虹灯" PromptU="Neon lamp" NameU="Neon lamp"/>
+    <Elem Prompt="照明灯泡" Name="照明灯泡" PromptU="Illuminating bulb" NameU="Illuminating bulb"/>
+    <Elem Prompt="荧光灯" Name="荧光灯" PromptU="Fluorescent lamp" NameU="Fluorescent lamp"/>
+    <Elem Prompt="扬声器" Name="扬声器" PromptU="Speaker" NameU="Speaker"/>
+    <Elem Prompt="扩音器" Name="扩音器" PromptU="Microphone" NameU="Microphone"/>
+    <Elem Prompt="扩音器 2" Name="扩音器 2" PromptU="Microphone 2" NameU="Microphone 2"/>
+    <Elem Prompt="示波器" Name="示波器" PromptU="Oscillator" NameU="Oscillator"/>
+    <Elem Prompt="交流电源" Name="交流电源" PromptU="AC source" NameU="AC source"/>
+    <Elem Prompt="直流电源" Name="直流电源" PromptU="DC source" NameU="DC source"/>
+    <Elem Prompt="恒流电源" Name="恒流电源" PromptU="Constant source" NameU="Constant source"/>
+    <Elem Prompt="接线盒" Name="接线盒" PromptU="Junction box" NameU="Junction box"/>
+    <Elem Prompt="直接线盒" Name="直接线盒" PromptU="Straight junction box" NameU="Straight junction box"/>
+    <Elem Prompt="等电势" Name="等电势" PromptU="Equipotential" NameU="Equipotential"/>
+    <Elem Prompt="机壳" Name="机壳" PromptU="Frame" NameU="Frame"/>
+    <Elem Prompt="接地" Name="接地" PromptU="Protected earth electrode" NameU="Protected earth electrode"/>
+</Lib>

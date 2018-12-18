@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Backgrounds">
+    <Elem Prompt="无背景" Name="无背景" PromptU="Empty Background" NameU="Empty Background"/>
+    <Elem Prompt="白色背景" Name="白色背景" PromptU="White Background" NameU="White Background"/>
+    <Elem Prompt="渐变背景" Name="渐变背景" PromptU="Gradient Background" NameU="Gradient Background"/>
+    <Elem Prompt="灰色渐变背景" Name="灰色渐变背景" PromptU="Gray gradient background" NameU="Gray Gradient"/>
+    <Elem Prompt="背景" Name="背景" PromptU="Background" NameU="Background"/>
+    <Elem Prompt="背景" Name="背景" PromptU="Background" NameU="Background"/>
+    <Elem Prompt="背景" Name="背景" PromptU="Background" NameU="Background"/>
+    <Elem Prompt="背景" Name="背景" PromptU="Background" NameU="Background"/>
+    <Elem Prompt="背景" Name="背景" PromptU="Background" NameU="Background"/>
+    <Elem Prompt="背景" Name="背景" PromptU="Background" NameU="Background"/>
+    <Elem Prompt="背景" Name="背景" PromptU="Background" NameU="Background"/>
+    <Elem Prompt="背景" Name="背景" PromptU="Background" NameU="Background"/>
+    <Elem Prompt="背景" Name="背景" PromptU="Background" NameU="Background"/>
+    <Elem Prompt="背景" Name="背景" PromptU="Background" NameU="Background"/>
+    <Elem Prompt="背景" Name="背景" PromptU="Background" NameU="Background"/>
+    <Elem Prompt="背景" Name="背景" PromptU="Background" NameU="Background"/>
+    <Elem Prompt="背景" Name="背景" PromptU="Background" NameU="Background"/>
+    <Elem Prompt="背景" Name="背景" PromptU="Background" NameU="Background"/>
+    <Elem Prompt="背景" Name="背景" PromptU="Background" NameU="Background"/>
+    <Elem Prompt="背景" Name="背景" PromptU="Background" NameU="Background"/>
+    <Elem Prompt="背景" Name="背景" PromptU="Background" NameU="Background"/>
+    <Elem Prompt="背景" Name="背景" PromptU="Background" NameU="Background"/>
+    <Elem Prompt="背景" Name="背景" PromptU="Background" NameU="Background"/>
+    <Elem Prompt="背景" Name="背景" PromptU="Background" NameU="Background"/>
+    <Elem Prompt="背景" Name="背景" PromptU="Background" NameU="Background"/>
+    <Elem Prompt="背景" Name="背景" PromptU="Background" NameU="Background"/>
+    <Elem Prompt="背景" Name="背景" PromptU="Background" NameU="Background"/>
+    <Elem Prompt="背景" Name="背景" PromptU="Background" NameU="Background"/>
+    <Elem Prompt="背景" Name="背景" PromptU="Background" NameU="Background"/>
+    <Elem Prompt="背景" Name="背景" PromptU="Background" NameU="Background"/>
+    <Elem Prompt="背景" Name="背景" PromptU="Background" NameU="Background"/>
+    <Elem Prompt="背景" Name="背景" PromptU="Background" NameU="Background"/>
+    <Elem Prompt="背景" Name="背景" PromptU="Background" NameU="Background"/>
+    <Elem Prompt="背景" Name="背景" PromptU="Background" NameU="Background"/>
+    <Elem Prompt="背景" Name="背景" PromptU="Background" NameU="Background"/>
+    <Elem Prompt="背景" Name="背景" PromptU="Background" NameU="Background"/>
+    <Elem Prompt="背景" Name="背景" PromptU="Background" NameU="Background"/>
+    <Elem Prompt="背景" Name="背景" PromptU="Background" NameU="Background"/>
+    <Elem Prompt="背景" Name="背景" PromptU="Background" NameU="Background"/>
+    <Elem Prompt="背景" Name="背景" PromptU="Background" NameU="Background"/>
+    <Elem Prompt="背景" Name="背景" PromptU="Background" NameU="Background"/>
+    <Elem Prompt="背景" Name="背景" PromptU="Background" NameU="Background"/>
+    <Elem Prompt="背景" Name="背景" PromptU="Background" NameU="Background"/>
+    <Elem Prompt="背景" Name="背景" PromptU="Background" NameU="Background"/>
+    <Elem Prompt="背景" Name="背景" PromptU="Background" NameU="Background"/>
+    <Elem Prompt="背景" Name="背景" PromptU="Background" NameU="Background"/>
+    <Elem Prompt="背景" Name="背景" PromptU="Background" NameU="Background"/>
+    <Elem Prompt="中国风背景" Name="中国风背景" PromptU="Bamboo" NameU="Bamboo"/>
+</Lib>

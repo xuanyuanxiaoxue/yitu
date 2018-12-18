@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Gauges">
+    <Elem Prompt="如何使用仪表符号" Name="如何使用仪表符号" PromptU="How to use Gauge" NameU="How to use Gauge"/>
+    <Elem Prompt="圆形仪表" Name="圆形仪表" PromptU="Circular Gauge" NameU="Circular Gauge"/>
+    <Elem Prompt="圆形仪表 2" Name="圆形仪表 2" PromptU="Circular Gauge 2" NameU="Circular Gauge 2"/>
+    <Elem Prompt="圆形仪表 3" Name="圆形仪表 3" PromptU="Circular Gauge 3" NameU="Circular Gauge 3"/>
+    <Elem Prompt="条形仪表-进度" Name="条形仪表-进度" PromptU="Linear Gauge-Progress" NameU="Linear Gauge-Progress"/>
+    <Elem Prompt="条形仪表-进度 2" Name="条形仪表-进度 2" PromptU="Linear Gauge-Progress 2" NameU="Linear Gauge-Progress 2"/>
+    <Elem Prompt="条形仪表-滑动条" Name="条形仪表-滑动条" PromptU="Linear Gauge-Slider" NameU="Linear Gauge-Slider"/>
+    <Elem Prompt="条形仪表-滑动条" Name="条形仪表-滑动条 2" PromptU="Linear Gauge-Slider" NameU="Linear Gauge-Slider 2"/>
+    <Elem Prompt="条形仪表-滑动条" Name="条形仪表-滑动条 3" PromptU="Linear Gauge-Slider" NameU="Linear Gauge-Slider 3"/>
+    <Elem Prompt="垂直条形仪表-滑动条" Name="垂直条形仪表-滑动条" PromptU="Vertical Linear Gauge-Slider" NameU="Vertical Linear Gauge-Slider"/>
+    <Elem Prompt="垂直条形仪表-滑动条" Name="垂直条形仪表-滑动条 2" PromptU="Vertical Linear Gauge-Slider" NameU="Vertical Linear Gauge-Slider 2"/>
+    <Elem Prompt="垂直条形仪表-滑动条" Name="垂直条形仪表-滑动条 3" PromptU="Vertical Linear Gauge-Slider" NameU="Vertical Linear Gauge-Slider 3"/>
+</Lib>

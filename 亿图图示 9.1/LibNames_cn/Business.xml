@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Business">
+    <Elem NameU="Global" Name="全球" PromptU="Global" Prompt="全球"/>
+    <Elem NameU="Research" Name="研究" PromptU="Research" Prompt="研究"/>
+    <Elem NameU="International" Name="国际" PromptU="International" Prompt="国际"/>
+    <Elem NameU="Hot Air Balloon" Name="热气球" PromptU="Hot Air Balloon" Prompt="热气球"/>
+    <Elem NameU="City" Name="城市" PromptU="City" Prompt="城市"/>
+    <Elem NameU="Skyscraper" Name="摩天大楼" PromptU="Skyscraper" Prompt="摩天大楼"/>
+    <Elem NameU="Branch" Name="分公司" PromptU="Branch" Prompt="分公司"/>
+    <Elem NameU="Business Office" Name="营业部" PromptU="Business Office" Prompt="营业部"/>
+    <Elem NameU="Purchase" Name="采购" PromptU="Purchase" Prompt="采购"/>
+    <Elem NameU="Warehouse" Name="仓库" PromptU="Storehouse" Prompt="仓库"/>
+    <Elem NameU="Goods" Name="商品" PromptU="Freight" Prompt="商品"/>
+    <Elem NameU="Goods 2" Name="商品 2" PromptU="Goods 2" Prompt="商品 2"/>
+    <Elem NameU="Labor" Name="工人" PromptU="Labor" Prompt="工人"/>
+    <Elem NameU="CEO" Name="CEO" PromptU="CEO" Prompt="CEO"/>
+    <Elem NameU="CEO 2" Name="CEO 2" PromptU="CEO 2" Prompt="CEO 2"/>
+    <Elem NameU="Communication" Name="通讯" PromptU="Communication" Prompt="通讯"/>
+    <Elem NameU="Customer Service" Name="客服" PromptU="Customer Service" Prompt="客服"/>
+    <Elem NameU="Customer Service 2" Name="客服 2" PromptU="Customer Service 2" Prompt="Customer Service 2"/>
+    <Elem NameU="Direction" Name="方向" PromptU="Direction" Prompt="方向"/>
+    <Elem NameU="Competition" Name="竞争" PromptU="Competition" Prompt="竞争"/>
+    <Elem NameU="Team Work" Name="团队协作" PromptU="Team Work" Prompt="团队协作"/>
+    <Elem NameU="Binding" Name="协作" PromptU="Binding" Prompt="协作"/>
+    <Elem NameU="Invoice" Name="发票" PromptU="Invoice" Prompt="发票"/>
+    <Elem NameU="Letter" Name="信" PromptU="Letter" Prompt="信"/>
+    <Elem NameU="Award" Name="奖章" PromptU="Award" Prompt="奖章"/>
+    <Elem NameU="Award 2" Name="奖章 2" PromptU="Award" Prompt="奖章"/>
+    <Elem NameU="Income" Name="收入" PromptU="Income" Prompt="收入"/>
+    <Elem NameU="Expenses" Name="费用" PromptU="Expenses" Prompt="费用"/>
+    <Elem NameU="Cost" Name="费用" PromptU="Cost" Prompt="费用"/>
+    <Elem NameU="Tax" Name="税" PromptU="Tax" Prompt="税"/>
+    <Elem NameU="R &amp; D" Name="研发" PromptU="R &amp; D" Prompt="研发"/>
+    <Elem NameU="Cash Register" Name="收银机" PromptU="Cash Register" Prompt="收银机"/>
+</Lib>

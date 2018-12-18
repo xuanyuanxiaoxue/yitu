@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Heaters">
+    <Elem Prompt="批烤箱" Name="批烤箱" PromptU="Batch oven" NameU="Batch oven"/>
+    <Elem Prompt="锅炉" Name="锅炉" PromptU="Boiler" NameU="Boiler"/>
+    <Elem Prompt="锅炉" Name="锅炉" PromptU="Boiler" NameU="Boiler"/>
+    <Elem Prompt="火焰锅炉" Name="火焰锅炉" PromptU="Boiler with flames" NameU="Boiler with flames"/>
+    <Elem Prompt="蒸发器" Name="蒸发器" PromptU="Evaporator" NameU="Evaporator"/>
+    <Elem Prompt="燃煤锅炉" Name="燃煤锅炉" PromptU="Fossil-fired boiler" NameU="Fossil-fired boiler"/>
+    <Elem Prompt="加热器" Name="加热器" PromptU="Heater" NameU="Heater"/>
+    <Elem Prompt="换热器" Name="换热器" PromptU="Heat exchanger" NameU="Heat exchanger"/>
+    <Elem Prompt="换热器" Name="换热器" PromptU="Heat exchanger" NameU="Heat exchanger"/>
+    <Elem Prompt="换热器" Name="换热器" PromptU="Heat exchanger" NameU="Heat exchanger"/>
+    <Elem Prompt="换热器" Name="换热器" PromptU="Heat exchanger" NameU="Heat exchanger"/>
+    <Elem Prompt="燃油锅炉" Name="燃油锅炉" PromptU="Oil fired boiler" NameU="Oil fired boiler"/>
+    <Elem Prompt="蒸汽锅炉" Name="蒸汽锅炉" PromptU="Steam boiler" NameU="Steam boiler"/>
+    <Elem Prompt="蒸汽混合器" Name="蒸汽混合器" PromptU="Steam mixer" NameU="Steam mixer"/>
+    <Elem Prompt="热流体加热器" Name="热流体加热器" PromptU="Thermal fluid heater" NameU="Thermal fluid heater"/>
+    <Elem Prompt="热回收锅炉" Name="热回收锅炉" PromptU="Thermal recycle boiler" NameU="Thermal recycle boiler"/>
+    <Elem Prompt="过热器" Name="过热器" PromptU="Superheater" NameU="Superheater"/>
+</Lib>

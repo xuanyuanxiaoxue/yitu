@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Entity Relationship">
+    <Elem Prompt="实体" Name="实体" PromptU="Entity" NameU="Entity"/>
+    <Elem Prompt="实体" Name="实体 2" PromptU="Entity 2" NameU="Entity 2"/>
+    <Elem Prompt="实体" Name="实体 3" PromptU="Entity 3" NameU="Entity 3"/>
+    <Elem Prompt="视图" Name="视图" PromptU="View" NameU="View"/>
+    <Elem Prompt="关系" Name="关系" PromptU="Relationship" NameU="Relationship"/>
+    <Elem Prompt="父表与类别" Name="父表与类别" PromptU="Parent to category" NameU="Parent to Category"/>
+    <Elem Prompt="类别" Name="类别" PromptU="Category" NameU="Category"/>
+    <Elem Prompt="类别与子类" Name="类别与子类" PromptU="Category to child" NameU="Category to Child"/>
+    <Elem Prompt="动态链接线" Name="动态链接线" PromptU="Dynamic connector" NameU="Dynamic Connector"/>
+    <Elem Prompt="指示" Name="指示" PromptU="Line connector" NameU="Line Connector"/>
+    <Elem Prompt="实体" Name="实体 5" PromptU="Entity 5" NameU="Entity 5"/>
+    <Elem Prompt="强实体" Name="强实体" PromptU="Strong Entity" NameU="Strong Entity"/>
+    <Elem Prompt="弱实体" Name="弱实体" PromptU="Weak Entity" NameU="Weak Entity"/>
+    <Elem Prompt="强关系" Name="强关系" PromptU="Strong Relationship" NameU="Strong Relationship"/>
+    <Elem Prompt="弱关系" Name="弱关系" PromptU="Weak Relationship" NameU="Weak Relationship"/>
+    <Elem Prompt="属性" Name="属性" PromptU="Attribute" NameU="Attribute"/>
+    <Elem Prompt="衍生属性" Name="衍生属性" PromptU="Derived attribute" NameU="Derived Attribute"/>
+    <Elem Prompt="多值属性" Name="多值属性" PromptU="Multi-valued attribute" NameU="Multi-valued Attribute"/>
+    <Elem Prompt="约束条件" Name="约束条件" PromptU="Constraints" NameU="Constraints"/>
+    <Elem Prompt="基数" Name="基数" PromptU="Cardinality" NameU="Cardinality"/>
+    <Elem Prompt="部分" Name="部分" PromptU="Partial" NameU="Partial"/>
+    <Elem Prompt="弱连线" Name="弱连线" PromptU="Weak line" NameU="Weak line"/>
+    <Elem Prompt="参与" Name="参与" PromptU="Participation" NameU="Participation"/>
+    <Elem Prompt="参与" Name="参与 2" PromptU="Participation 2" NameU="Participation 2"/>
+</Lib>

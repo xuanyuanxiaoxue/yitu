@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Chemical Equation">
+    <Elem Prompt="苯" Name="苯" PromptU="Benzene" NameU="Benzene"/>
+    <Elem Prompt="苯" Name="苯 2" PromptU="Benzene" NameU="Benzene 2"/>
+    <Elem Prompt="环戊" Name="环戊" PromptU="Cyclopentane" NameU="Cyclopentane"/>
+    <Elem Prompt="六边形文字环" Name="六边形文字环" PromptU="Hexagon Text Ring" NameU="Hexagon Text Ring"/>
+    <Elem Prompt="五边形文字环" Name="五边形文字环" PromptU="Pentagon Text Ring" NameU="Pentagon Text Ring"/>
+    <Elem Prompt="苯" Name="苯 3" PromptU="Benzene" NameU="Benzene 3"/>
+    <Elem Prompt="苯" Name="苯 4" PromptU="Benzene" NameU="Benzene 4"/>
+    <Elem Prompt="苯" Name="苯 5" PromptU="Benzene" NameU="Benzene 5"/>
+    <Elem Prompt="苯" Name="苯 6" PromptU="Benzene" NameU="Benzene 6"/>
+    <Elem Prompt="苯" Name="苯 7" PromptU="Benzene" NameU="Benzene 7"/>
+    <Elem Prompt="五边形文字环 2" Name="五边形文字环 2" PromptU="Pentagon Text Ring 2" NameU="Pentagon Text Ring 2"/>
+    <Elem Prompt="五边形文字环 3" Name="五边形文字环 3" PromptU="Pentagon Text Ring 3" NameU="Pentagon Text Ring 3"/>
+    <Elem Prompt="双线" Name="双线" PromptU="Double Line" NameU="Double Line"/>
+    <Elem Prompt="双线" Name="双线" PromptU="Double Line" NameU="Double Line"/>
+    <Elem Prompt="碳" Name="碳" PromptU="Carbon" NameU="Carbon"/>
+    <Elem Prompt="氮原子" Name="氮原子" PromptU="Nitrogen Atom" NameU="Nitrogen Atom"/>
+    <Elem Prompt="氢" Name="氢" PromptU="Hydrogen" NameU="Hydrogen"/>
+    <Elem Prompt="氟" Name="氟" PromptU="Fluorin" NameU="Fluorin"/>
+    <Elem Prompt="氧" Name="氧" PromptU="Oxygen" NameU="Oxygen"/>
+    <Elem Prompt="氧 2" Name="氧 2" PromptU="Oxygen 2" NameU="Oxygen 2"/>
+    <Elem Prompt="氯" Name="氯" PromptU="Chlorine" NameU="Chlorine"/>
+    <Elem Prompt="碘" Name="碘" PromptU="Iodine" NameU="Iodine"/>
+    <Elem Prompt="溴" Name="溴" PromptU="Bromine" NameU="Bromine"/>
+    <Elem Prompt="氢氧根" Name="氢氧根" PromptU="Hydroxy" NameU="Hydroxy"/>
+    <Elem Prompt="硝基" Name="硝基" PromptU="Nitryl" NameU="Nitryl"/>
+    <Elem Prompt="酰氨基" Name="酰氨基" PromptU="Amido" NameU="Amido"/>
+    <Elem Prompt="亚氨基" Name="亚氨基 " PromptU="Imidogen" NameU="Imidogen"/>
+    <Elem Prompt="CH3" Name="CH3" PromptU="CH3" NameU="CH3"/>
+    <Elem Prompt="CH2" Name="CH2" PromptU="CH2" NameU="CH2"/>
+    <Elem Prompt="CH" Name="CH" PromptU="CH" NameU="CH"/>
+    <Elem Prompt="乙烯" Name="乙烯" PromptU="Ethylene" NameU="Ethylene"/>
+    <Elem Prompt="HCCH" Name="HCCH" PromptU="HCCH" NameU="HCCH"/>
+    <Elem Prompt="CHCH" Name="CHCH" PromptU="CHCH" NameU="CHCH"/>
+    <Elem Prompt="CC" Name="CC" PromptU="CC" NameU="CC"/>
+    <Elem Prompt="乙醛" Name="乙醛" PromptU="Aldehyde" NameU="Aldehyde"/>
+    <Elem Prompt="氢氧根" Name="氢氧根" PromptU="Hydroxy" NameU="Hydroxy"/>
+    <Elem Prompt="羧基" Name="羧基" PromptU="Carboxyl" NameU="Carboxyl"/>
+    <Elem Prompt="酯" Name="酯" PromptU="Ester" NameU="Ester"/>
+    <Elem Prompt="相等" Name="相等" PromptU="Equivalence" NameU="Equivalence"/>
+    <Elem Prompt="作用于" Name="作用于" PromptU="Act on" NameU="Act on"/>
+    <Elem Prompt="作用于 2" Name="作用于 2" PromptU="Act on 2" NameU="Act on 2"/>
+    <Elem Prompt="作用于 3" Name="作用于 3" PromptU="Act on 3" NameU="Act on 3"/>
+    <Elem Prompt="作用于 4" Name="作用于 4" PromptU="Act on 4" NameU="Act on 4"/>
+    <Elem Prompt="作用于 5" Name="作用于 5" PromptU="Act on 5" NameU="Act on 5"/>
+    <Elem Prompt="作用于 6" Name="作用于 6" PromptU="Act on 6" NameU="Act on 6"/>
+    <Elem Prompt="作用于 7" Name="作用于 7" PromptU="Act on 7" NameU="Act on 7"/>
+    <Elem Prompt="线纽带" Name="线纽带" PromptU="Line Bond" NameU="Line Bond"/>
+    <Elem Prompt="加粗纽带" Name="加粗纽带" PromptU="Bold Bond" NameU="Bold Bond"/>
+    <Elem Prompt="催化剂" Name="催化剂" PromptU="Activator" NameU="Activator"/>
+    <Elem Prompt="左大括号" Name="左大括号" PromptU="Left Brace" NameU="Left Brace"/>
+    <Elem Prompt="右大括号" Name="右大括号" PromptU="Right Brace" NameU="Right Brace"/>
+    <Elem Prompt="左圆角括号" Name="左圆角括号" PromptU="Left Rounded Bracket" NameU="Left Rounded Bracket"/>
+    <Elem Prompt="右圆角括号" Name="右圆角括号" PromptU="Right Rounded Bracket" NameU="Right Rounded Bracket"/>
+    <Elem Prompt="左方括号" Name="左方括号" PromptU="Left Square Bracket" NameU="Left Square Bracket"/>
+    <Elem Prompt="右方括号" Name="右方括号" PromptU="Right Square Bracket" NameU="Right Square Bracket"/>
+    <Elem Prompt="左括号" Name="左括号" PromptU="Open Parenthesis, Open Paren" NameU="Open Parenthesis, Open Paren"/>
+    <Elem Prompt="右括号" Name="右括号" PromptU="Close Parenthesis, Close Paren" NameU="Close Parenthesis, Close Paren"/>
+</Lib>

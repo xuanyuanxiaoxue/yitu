@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Switches and Relays">
+    <Elem Prompt="开关 1P" Name="开关 1P" PromptU="Switch 1P" NameU="Switch 1P"/>
+    <Elem Prompt="隔离器 1P" Name="隔离器 1P" PromptU="Isolator 1P" NameU="Isolator 1P"/>
+    <Elem Prompt="断路器 1P" Name="断路器 1P" PromptU="Circuit breaker 1P" NameU="Circuit breaker 1P"/>
+    <Elem Prompt="开关切断器 1P" Name="开关切断器 1P" PromptU="Switch Disconnector 1P" NameU="Switch Disconnector 1P"/>
+    <Elem Prompt="SPST" Name="SPST" PromptU="SPST" NameU="SPST"/>
+    <Elem Prompt="SPDT" Name="SPDT" PromptU="SPDT" NameU="SPDT"/>
+    <Elem Prompt="DPST" Name="DPST" PromptU="DPST" NameU="DPST"/>
+    <Elem Prompt="DPDT" Name="DPDT" PromptU="DPDT" NameU="DPDT"/>
+    <Elem Prompt="手动开关 1P" Name="手动开关 1P" PromptU="Manual switch 1P" NameU="Manual switch 1P"/>
+    <Elem Prompt="热量断路" Name="热量断路" PromptU="Circuit break thermal" NameU="Circuit break thermal"/>
+    <Elem Prompt="剩余电流断路" Name="剩余电流断路" PromptU="Residual current circuit break" NameU="Residual current circuit break"/>
+    <Elem Prompt="闭合触点" Name="闭合触点" PromptU="Make Contact" NameU="Make Contact"/>
+    <Elem Prompt="断路器触点" Name="断路器触点" PromptU="Break Contact" NameU="Break Contact"/>
+    <Elem Prompt="双向触点" Name="双向触点" PromptU="Two way contact" NameU="Two way contact"/>
+    <Elem Prompt="交闭合触点" Name="交闭合触点" PromptU="Passing Make-contact" NameU="Passing Make-contact"/>
+    <Elem Prompt="弹簧复位" Name="弹簧复位" PromptU="Spring return" NameU="Spring return"/>
+    <Elem Prompt="保持原位" Name="保持原位" PromptU="Stay put" NameU="Stay put"/>
+    <Elem Prompt="限制开关" Name="限制开关" PromptU="Limit Switch" NameU="Limit Switch"/>
+    <Elem Prompt="弹簧复位 2" Name="弹簧复位 2" PromptU="Spring Return 2" NameU="Spring Return 2"/>
+    <Elem Prompt="弹簧复位 3" Name="弹簧复位 3" PromptU="Spring Return 3" NameU="Spring Return 3"/>
+    <Elem Prompt="限制开关 n/o" Name="限制开关 n/o" PromptU="Limit switch n/o" NameU="Limit switch n/o"/>
+    <Elem Prompt="限制开关 n/c" Name="限制开关 n/c" PromptU="Limit switch n/c" NameU="Limit switch n/c"/>
+    <Elem Prompt="双脚位开关" Name="双脚位开关" PromptU="Switch 2P" NameU="Switch 2P"/>
+    <Elem Prompt="双脚位隔离开关" Name="双脚位隔离开关" PromptU="Isolator 2P" NameU="Isolator 2P"/>
+    <Elem Prompt="3脚位开关" Name="3脚位开关" PromptU="Switch 3P" NameU="Switch 3P"/>
+    <Elem Prompt="3双脚位隔离开关" Name="3脚位隔离开关" PromptU="Isolator 3P" NameU="Isolator 3P"/>
+    <Elem Prompt="双脚位转换开关" Name="双脚位转换开关" PromptU="2P change over" NameU="2P change over"/>
+    <Elem Prompt="双脚位开关" Name="双脚位开关" PromptU="2 position switch" NameU="2 position switch"/>
+    <Elem Prompt="3脚位开关" Name="3脚位开关" PromptU="3 position switch" NameU="3 position switch"/>
+    <Elem Prompt="3脚位选择开关" Name="3脚位选择开关" PromptU="3 position selector switch" NameU="3 position selector switch"/>
+    <Elem Prompt="4脚位开关" Name="4脚位开关" PromptU="4 position switch" NameU="4 position switch"/>
+    <Elem Prompt="手动开关" Name="手动开关" PromptU="Manual switch" NameU="Manual switch"/>
+    <Elem Prompt="接近开关" Name="接近开关" PromptU="Proximity switch" NameU="Proximity switch"/>
+    <Elem Prompt="按键闭合" Name="按键闭合" PromptU="Pushbutton make" NameU="Pushbutton make"/>
+    <Elem Prompt="按键断路器" Name="按键断路器" PromptU="Pushbutton break" NameU="Pushbutton break"/>
+    <Elem Prompt="按键 2-电路" Name="按键 2-电路" PromptU="Pushbutton 2-circuit" NameU="Pushbutton 2-circuit"/>
+    <Elem Prompt="选择器开关" Name="选择器开关" PromptU="Selector switch" NameU="Selector switch"/>
+    <Elem Prompt="短路选择器" Name="短路选择器" PromptU="Shorting selector" NameU="Shorting selector"/>
+    <Elem Prompt="邻近限制开关" Name="邻近限制开关" PromptU="Proximity limit switch" NameU="Proximity limit switch"/>
+    <Elem Prompt="时延闭合" Name="时延闭合" PromptU="Time delay make" NameU="Time delay make"/>
+    <Elem Prompt="时延断路器" Name="时延断路器" PromptU="Time delay break" NameU="Time delay break"/>
+    <Elem Prompt="时延闭合 2" Name="时延闭合 2" PromptU="Time delay make 2" NameU="Time delay make 2"/>
+    <Elem Prompt="时延断路器 2" Name="时延断路器 2" PromptU="Time delay break 2" NameU="Time delay break 2"/>
+    <Elem Prompt="安全联锁装置" Name="安全联锁装置" PromptU="Safety interlock" NameU="Safety interlock"/>
+    <Elem Prompt="启动的电流" Name="启动的电流" PromptU="Flow actuate" NameU="Flow actuate"/>
+    <Elem Prompt="液面启动" Name="液面启动" PromptU="Liquid level actuated" NameU="Liquid level actuated"/>
+    <Elem Prompt="液面启动 2" Name="液面启动 2" PromptU="Liquid level actuated 2" NameU="Liquid level actuated 2"/>
+    <Elem Prompt="气流启动" Name="气流启动" PromptU="Gas flow actuated" NameU="Gas flow actuated"/>
+    <Elem Prompt="压力启动" Name="压力启动" PromptU="Pressure actuated" NameU="Pressure actuated"/>
+    <Elem Prompt="调温器" Name="调温器" PromptU="Thermostat" NameU="Thermostat"/>
+    <Elem Prompt="温度启动" Name="温度启动" PromptU="Temperature actuated" NameU="Temperature actuated"/>
+    <Elem Prompt="温度开关" Name="温度开关" PromptU="Temperature switch" NameU="Temperature switch"/>
+    <Elem Prompt="延时开关" Name="延时开关" PromptU="Inertia switch" NameU="Inertia switch"/>
+    <Elem Prompt="水银开关" Name="水银开关" PromptU="Mercury" NameU="Mercury"/>
+    <Elem Prompt="水银开关 2" Name="水银开关 2" PromptU="Mercury switch 2" NameU="Mercury switch 2"/>
+    <Elem Prompt="转换触点" Name="转换触点" PromptU="Change-Over Contact" NameU="Change-Over Contact"/>
+    <Elem Prompt="开关断电器" Name="开关断电器" PromptU="Fuse" NameU="Fuse"/>
+    <Elem Prompt="磁簧开关" Name="磁簧开关" PromptU="Reed switch" NameU="Reed switch"/>
+    <Elem Prompt="继电器触点" Name="继电器触点" PromptU="Relay contacts" NameU="Relay contacts"/>
+    <Elem Prompt="继电器线圈" Name="继电器线圈" PromptU="Relay coil" NameU="Relay coil"/>
+    <Elem Prompt="继电器" Name="继电器" PromptU="Relay" NameU="Relay"/>
+</Lib>

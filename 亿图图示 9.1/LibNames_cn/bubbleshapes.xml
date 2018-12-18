@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Bubble Shapes">
+    <Elem Prompt="主题" Name="主题" PromptU="Main idea" NameU="Main idea"/>
+    <Elem Prompt="圆" Name="圆" PromptU="Circle" NameU="Circle"/>
+    <Elem Prompt="椭圆" Name="椭圆" PromptU="Ellipse" NameU="Ellipse"/>
+    <Elem Prompt="云" Name="云" PromptU="Cloud" NameU="Cloud"/>
+    <Elem Prompt="主题" Name="主题 2" PromptU="Main idea" NameU="Main idea 2"/>
+    <Elem Prompt="圆" Name="圆 2" PromptU="Circle" NameU="Circle 2"/>
+    <Elem Prompt="椭圆" Name="椭圆 2" PromptU="Ellipse" NameU="Ellipse 2"/>
+    <Elem Prompt="云" Name="云 2" PromptU="Cloud" NameU="Cloud 2"/>
+    <Elem Prompt="灰色气泡" Name="灰色气泡" PromptU="Gray bubble" NameU="Gray bubble"/>
+    <Elem Prompt="蓝色气泡" Name="蓝色气泡" PromptU="Blue bubble" NameU="Blue bubble"/>
+    <Elem Prompt="粉红色气泡" Name="粉红色气泡" PromptU="Pink bubble" NameU="Pink bubble"/>
+    <Elem Prompt="高光圆" Name="高光圆" PromptU="Highlight circle" NameU="Highlight circle"/>
+    <Elem Prompt="高光椭圆" Name="高光椭圆" PromptU="Highlight ellipse" NameU="Highlight ellipse"/>
+    <Elem Prompt="高光云" Name="高光云" PromptU="Highlight cloud" NameU="Highlight cloud"/>
+    <Elem Prompt="高光主题" Name="高光主题" PromptU="Highlight main idea" NameU="Highlight main idea"/>
+    <Elem Prompt="高光主题" Name="高光主题 2" PromptU="Highlight main idea with arrow" NameU="Highlight main idea 2"/>
+    <Elem Prompt="连接线" Name="连接线" PromptU="Connector" NameU="Connector"/>
+</Lib>

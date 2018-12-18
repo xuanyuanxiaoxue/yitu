@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Piping and Connection Shapes">
+    <Elem Prompt="主管道" Name="主管道" PromptU="Major pipeline" NameU="Major pipeline"/>
+    <Elem Prompt="副管道" Name="副管道" PromptU="Connect pipeline" NameU="Connect pipeline"/>
+    <Elem Prompt="主管线" Name="主管线" PromptU="Major Straight line pipe" NameU="Major Straight line pipe"/>
+    <Elem Prompt="直管线" Name="直管线" PromptU="Straight line pipe" NameU="Straight line pipe"/>
+    <Elem Prompt="过程连接" Name="过程连接" PromptU="Process connection" NameU="Process connection"/>
+    <Elem Prompt="未来线" Name="未来线" PromptU="Future line" NameU="Future line"/>
+    <Elem Prompt="电池极限线" Name="电池极限线" PromptU="Battery limit line" NameU="Battery limit line"/>
+    <Elem Prompt="电子序列" Name="电子序列" PromptU="Electronic serial" NameU="Electronic serial"/>
+    <Elem Prompt="热轨道" Name="热轨道" PromptU="Heat trace" NameU="Heat trace"/>
+    <Elem Prompt="并排" Name="并排" PromptU="Side by side" NameU="Side by side"/>
+    <Elem Prompt="从上到下" Name="从上到下" PromptU="Top-bottom" NameU="Top-bottom"/>
+    <Elem Prompt="一对多" Name="一对多" PromptU="One-to-many" NameU="One-to-many"/>
+    <Elem Prompt="追踪线" Name="追踪线" PromptU="Traced line" NameU="Traced line"/>
+    <Elem Prompt="多线" Name="多线" PromptU="Multi-lines" NameU="Multi-lines"/>
+    <Elem Prompt="箭头" Name="箭头" PromptU="Mid arrow" NameU="Mid arrow"/>
+    <Elem Prompt="多线弯线" Name="多线弯线" PromptU="Multi-lines elbow" NameU="Multi-lines elbow"/>
+    <Elem Prompt="顶到顶" Name="顶到顶" PromptU="Top to top" NameU="Top to top"/>
+    <Elem Prompt="电信号" Name="电信号" PromptU="Electrical signal" NameU="Electrical signal"/>
+    <Elem Prompt="声波信号" Name="声波信号" PromptU="Sonic signal" NameU="Sonic signal"/>
+    <Elem Prompt="原子信号" Name="原子信号" PromptU="Nuclear" NameU="Nuclear"/>
+    <Elem Prompt="气动控制" Name="气动控制" PromptU="Pneumatic control" NameU="Pneumatic control"/>
+    <Elem Prompt="气动二进制信号线" Name="气动二进制信号线" PromptU="Pneumatic binary signal line" NameU="Pneumatic binary signal line"/>
+    <Elem Prompt="电信号线" Name="电信号线" PromptU="Electric signal line" NameU="Electric signal line"/>
+    <Elem Prompt="电动二进制信号线" Name="电动二进制信号线" PromptU="Electric binary signal line" NameU="Electric binary signal line"/>
+    <Elem Prompt="电动二进制信号线" Name="电动二进制信号线" PromptU="Electric binary signal line" NameU="Electric binary signal line"/>
+    <Elem Prompt="液压信号线 line" Name="液压信号线" PromptU="Hydraulic signal line" NameU="Hydraulic signal line"/>
+    <Elem Prompt="套接" Name="套接" PromptU="Sleeve joint" NameU="Sleeve joint"/>
+    <Elem Prompt="常规接点" Name="常规接点" PromptU="General joint" NameU="General joint"/>
+    <Elem Prompt="对接焊接" Name="对接焊接" PromptU="Butt weld" NameU="Butt weld"/>
+    <Elem Prompt="焊接连接" Name="焊接连接" PromptU="Welded connection" NameU="Welded connection"/>
+    <Elem Prompt="机械连杆" Name="机械连杆" PromptU="Mechanical Link" NameU="Mechanical Link"/>
+    <Elem Prompt="焊料/溶剂" Name="焊料/溶剂" PromptU="Soldered/ Solvent" NameU="Soldered/ Solvent"/>
+    <Elem Prompt="双重密封" Name="双重密封" PromptU="Double Containment" NameU="Double Containment"/>
+    <Elem Prompt="带法兰/用螺栓固定" Name="带法兰/用螺栓固定" PromptU="Flange" NameU="Flange"/>
+    <Elem Prompt="端帽" Name="端帽" PromptU="End caps" NameU="End caps"/>
+    <Elem Prompt="端帽 2" Name="端帽 2" PromptU="End caps 2" NameU="End caps 2"/>
+    <Elem Prompt="排气管" Name="排气管" PromptU="Breather" NameU="Breather"/>
+    <Elem Prompt="盛液盘" Name="盛液盘" PromptU="Drip pan elbow" NameU="Drip pan elbow"/>
+    <Elem Prompt="带法兰/用螺栓固定" Name="带法兰/用螺栓固定" PromptU="Flange" NameU="Flange"/>
+    <Elem Prompt="联合" Name="联合" PromptU="Union" NameU="Union"/>
+    <Elem Prompt="承插焊" Name="承插焊" PromptU="Socket weld" NameU="Socket weld"/>
+    <Elem Prompt="螺纹连接" Name="螺纹连接" PromptU="Screwed connection" NameU="Screwed connection"/>
+    <Elem Prompt="孔板" Name="孔板" PromptU="Orifice plate" NameU="Orifice plate"/>
+    <Elem Prompt="法兰假盖" Name="法兰假盖" PromptU="Flanged dummy cover" NameU="Flanged dummy cover"/>
+    <Elem Prompt="电子分界" Name="电子分界" PromptU="Electrical Bounded" NameU="Electrical Bounded"/>
+    <Elem Prompt="斜率的要求" Name="斜率的要求" PromptU="Slope requirements line" NameU="Slope requirements line"/>
+    <Elem Prompt="减径管" Name="减径管" PromptU="Reducer" NameU="Reducer"/>
+    <Elem Prompt="电绝缘" Name="电绝缘" PromptU="Electrically insulated" NameU="Electrically insulated"/>
+    <Elem Prompt="流入线上混合器" Name="流入线上混合器" PromptU="In-line mixer" NameU="In-line mixer"/>
+    <Elem Prompt="分离器" Name="分离器" PromptU="Separator" NameU="Separator"/>
+    <Elem Prompt="防爆膜" Name="防爆膜" PromptU="Bursting disc" NameU="Bursting disc"/>
+    <Elem Prompt="灭火器" Name="灭火器" PromptU="Flame arrester" NameU="Flame arrester"/>
+    <Elem Prompt="排水管消音器" Name="排水管消音器" PromptU="Drain silencer" NameU="Drain silencer"/>
+    <Elem Prompt="排气消声器" Name="排气消声器" PromptU="Exhaust silencer" NameU="Exhaust silencer"/>
+    <Elem Prompt="过滤器" Name="过滤器" PromptU="Strainer" NameU="Strainer"/>
+    <Elem Prompt="排气头" Name="排气头" PromptU="Exhaust head" NameU="Exhaust head"/>
+    <Elem Prompt="三角形分离器" Name="三角形分离器" PromptU="Triangle separator" NameU="Triangle separator"/>
+    <Elem Prompt="三角形分离器 2" Name="三角形分离器 2" PromptU="Triangle separator 2" NameU="Triangle separator 2"/>
+    <Elem Prompt="浇注盘" Name="浇注盘" PromptU="Tundish" NameU="Tundish"/>
+    <Elem Prompt="敞口式通风管" Name="敞口式通风管" PromptU="Open vent" NameU="Open vent"/>
+    <Elem Prompt="弯管排水管" Name="弯管排水管" PromptU="Syphon drain" NameU="Syphon drain"/>
+    <Elem Prompt="消防栓" Name="消防栓" PromptU="Hydrant" NameU="Hydrant"/>
+    <Elem Prompt="旋转接头" Name="旋转接头" PromptU="Swivel joint" NameU="Swivel joint"/>
+    <Elem Prompt="伸缩接头" Name="伸缩接头" PromptU="Expansion joint" NameU="Expansion joint"/>
+    <Elem Prompt="软管" Name="软管" PromptU="Hose" NameU="Hose"/>
+    <Elem Prompt="挠性软管" Name="挠性软管" PromptU="Flexible hose" NameU="Flexible hose"/>
+    <Elem Prompt="水流指示器" Name="水流指示器" PromptU="Flow indicator" NameU="Flow indicator"/>
+    <Elem Prompt="喇叭口" Name="喇叭口" PromptU="Bell mouth" NameU="Bell mouth"/>
+    <Elem Prompt="可拆卸短管" Name="可拆卸短管" PromptU="Removable spool" NameU="Removable spool"/>
+    <Elem Prompt="篮式粗滤器" Name="篮式粗滤器" PromptU="Basket strainer" NameU="Basket strainer"/>
+    <Elem Prompt="排气管" Name="排气管" PromptU="Breather" NameU="Breather"/>
+    <Elem Prompt="阻尼器" Name="阻尼器" PromptU="Damper" NameU="Damper"/>
+    <Elem Prompt="击穿" Name="击穿" PromptU="Breakthrough" NameU="Breakthrough"/>
+    <Elem Prompt="孔口" Name="孔口" PromptU="Orifice" NameU="Orifice"/>
+    <Elem Prompt="夹式法兰接头" Name="夹式法兰接头" PromptU="Clamped flange coupling" NameU="Clamped flange coupling"/>
+    <Elem Prompt="补偿" Name="补偿" PromptU="Compensate" NameU="Compensate"/>
+    <Elem Prompt="耦合" Name="耦合" PromptU="Coupling" NameU="Coupling"/>
+    <Elem Prompt="Y型过滤器" Name="Y型过滤器" PromptU="Y-type strainer" NameU="Y-type strainer"/>
+    <Elem Prompt="Y型过滤器" Name="Y型过滤器" PromptU="Y-strainer" NameU="Y-strainer"/>
+    <Elem Prompt="分流阀" Name="分流阀" PromptU="Diverter valve" NameU="Diverter valve"/>
+    <Elem Prompt="盲盘" Name="盲盘" PromptU="Blind disc" NameU="Blind disc"/>
+    <Elem Prompt="带双圈的盲板" Name="带双圈的盲板" PromptU="Spectacle blind" NameU="Spectacle blind"/>
+    <Elem Prompt="可互换盲点" Name="可互换盲点" PromptU="Interchangeable blind" NameU="Interchangeable blind"/>
+    <Elem Prompt="圆盘" Name="圆盘" PromptU="Open disc" NameU="Open disc"/>
+    <Elem Prompt="孔板" Name="孔板" PromptU="Orifice plate" NameU="Orifice plate"/>
+    <Elem Prompt="脉动阻尼器" Name="脉动阻尼器" PromptU="Pulsation dampener" NameU="Pulsation dampener"/>
+    <Elem Prompt="复式过滤器" Name="复式过滤器" PromptU="Duplex strainer" NameU="Duplex strainer"/>
+    <Elem Prompt="通风口消音器" Name="通风口消音器" PromptU="Vent silencer" NameU="Vent silencer"/>
+    <Elem Prompt="篮式粗滤器" Name="篮式粗滤器" PromptU="Basket strainer" NameU="Basket strainer"/>
+    <Elem Prompt="圆锥过滤器" Name="圆锥过滤器" PromptU="Cone strainer" NameU="Cone strainer"/>
+    <Elem Prompt="防爆器" Name="防爆器" PromptU="Detonation arrestor" NameU="Detonation arrestor"/>
+    <Elem Prompt="灭火器 2" Name="灭火器 2" PromptU="Flame arrestor" NameU="Flame arrestor"/>
+    <Elem Prompt="流入线消音器" Name="流入线消音器" PromptU="In-line silencer" NameU="In-line silencer"/>
+    <Elem Prompt="疏水阀" Name="疏水阀" PromptU="Steam trap" NameU="Steam trap"/>
+    <Elem Prompt="减热器" Name="减热器" PromptU="Desuperheater" NameU="Desuperheater"/>
+    <Elem Prompt="喷射器/排泄器" Name="喷射器/排泄器" PromptU="Ejector or eductor" NameU="Ejector or eductor"/>
+    <Elem Prompt="排气头" Name="排气头" PromptU="Exhaust head" NameU="Exhaust head"/>
+    <Elem Prompt="旋转阀" Name="旋转阀" PromptU="Rotary valve" NameU="Rotary valve"/>
+    <Elem Prompt="伸缩缝" Name="伸缩缝 2" PromptU="Expansion joint 2" NameU="Expansion joint 2"/>
+    <Elem Prompt="防爆膜" Name="防爆膜" PromptU="Bursting disc" NameU="Bursting disc"/>
+    <Elem Prompt="电绝缘" Name="电绝缘" PromptU="Electrically insulated" NameU="Electrically insulated"/>
+    <Elem Prompt="灭火器 2" Name="灭火器 2" PromptU="Flame arrestor" NameU="Flame arrestor"/>
+    <Elem Prompt="防爆阻火器" Name="防爆阻火器" PromptU="Explosion-Proof flame arrestor" NameU="Explosion-Proof flame arrestor"/>
+    <Elem Prompt="防爆阻火器 2" Name="防爆阻火器 2" PromptU="Detonation-Proof flame arrestor" NameU="Detonation-Proof flame arrestor"/>
+    <Elem Prompt="防火阻火器" Name="防火阻火器" PromptU="Fire-Resistant flame arrestor" NameU="Fire-Resistant flame arrestor"/>
+    <Elem Prompt="防火防爆阻火器" Name="防火防爆阻火器" PromptU="Fire-Resistant, Explosion-Proof flame arrestor" NameU="Fire-Resistant, Explosion-Proof flame arrestor"/>
+    <Elem Prompt="先导式安全阀" Name="先导式安全阀" PromptU="Pilot operated relief valve with renote sensor" NameU="Pilot operated relief valve with renote sensor"/>
+    <Elem Prompt="阀组" Name="阀组" PromptU="Valve manifold" NameU="Valve manifold"/>
+</Lib>

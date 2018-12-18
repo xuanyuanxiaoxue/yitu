@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Work Flow Department">
+    <Elem Prompt="会计" Name="会计" PromptU="Accounting" NameU="Accounting"/>
+    <Elem Prompt="应收账款" Name="应收账款" PromptU="Accounts Receivable" NameU="Accounts Receivable"/>
+    <Elem Prompt="应付账款" Name="应付账款" PromptU="Accounts Payable" NameU="Accounts Payable"/>
+    <Elem Prompt="审计" Name="审计" PromptU="Audit" NameU="Audit"/>
+    <Elem Prompt="银行" Name="银行" PromptU="Bank" NameU="Bank"/>
+    <Elem Prompt="董事会" Name="董事会" PromptU="Board of directors" NameU="Board of directors"/>
+    <Elem Prompt="复印中心" Name="复印中心" PromptU="Copy Center" NameU="Copy Center"/>
+    <Elem Prompt="客服" Name="客服" PromptU="Customer Service" NameU="Customer Service"/>
+    <Elem Prompt="数据中心" Name="数据中心" PromptU="Data Center" NameU="Data Center"/>
+    <Elem Prompt="递送" Name="递送" PromptU="Delivery" NameU="Delivery"/>
+    <Elem Prompt="设计" Name="设计" PromptU="Design" NameU="Design"/>
+    <Elem Prompt="设备管理" Name="设备管理" PromptU="Devices Management" NameU="Devices Management"/>
+    <Elem Prompt="员工" Name="员工" PromptU="Employee" NameU="Employee"/>
+    <Elem Prompt="工程" Name="工程" PromptU="Engineering" NameU="Engineering"/>
+    <Elem Prompt="设备" Name="设备" PromptU="Facilities" NameU="Facilities"/>
+    <Elem Prompt="人力资源" Name="人力资源" PromptU="Human Resource" NameU="Human Resource"/>
+    <Elem Prompt="资讯服务" Name="资讯服务" PromptU="Information services" NameU="Information services"/>
+    <Elem Prompt="分公司" Name="分公司" PromptU="Branch" NameU="Branch"/>
+    <Elem Prompt="库存" Name="库存" PromptU="Inventory" NameU="Inventory"/>
+    <Elem Prompt="法务部" Name="法务部" PromptU="Legal Department" NameU="Legal Department"/>
+    <Elem Prompt="邮件服务" Name="邮件服务" PromptU="Mail Service" NameU="Mail Service"/>
+    <Elem Prompt="销售" Name="销售" PromptU="Marketing" NameU="Marketing"/>
+    <Elem Prompt="管理" Name="管理" PromptU="Management" NameU="Management"/>
+    <Elem Prompt="生产" Name="生产" PromptU="Manufacturing" NameU="Manufacturing"/>
+    <Elem Prompt="车辆调配" Name="车辆调配" PromptU="Motorpool" NameU="Motorpool"/>
+    <Elem Prompt="现场服务" Name="现场服务" PromptU="Onsite Service" NameU="Onsite Service"/>
+    <Elem Prompt="包装" Name="包装" PromptU="Packaging" NameU="Packaging"/>
+    <Elem Prompt="薪资" Name="薪资" PromptU="Payroll" NameU="Payroll"/>
+    <Elem Prompt="出版" Name="出版" PromptU="Publications" NameU="Publications"/>
+    <Elem Prompt="采购" Name="采购" PromptU="Purchasing" NameU="Purchasing"/>
+    <Elem Prompt="品质保证" Name="品质保证" PromptU="Quality Assurance" NameU="Quality Assurance"/>
+    <Elem Prompt="接收" Name="接收" PromptU="Receiving" NameU="Receiving"/>
+    <Elem Prompt="接待" Name="接待" PromptU="Reception" NameU="Reception"/>
+    <Elem Prompt="研发" Name="研发" PromptU="Research" NameU="Research"/>
+    <Elem Prompt="销售" Name="销售" PromptU="Sales" NameU="Sales"/>
+    <Elem Prompt="安防" Name="安防" PromptU="Security" NameU="Security"/>
+    <Elem Prompt="货运" Name="货运" PromptU="Shipping" NameU="Shipping"/>
+    <Elem Prompt="供应商" Name="供应商" PromptU="Suppliers" NameU="Suppliers"/>
+    <Elem Prompt="通讯" Name="通讯" PromptU="Telecommunications" NameU="Telecommunications"/>
+    <Elem Prompt="财务" Name="财务" PromptU="Treasurer" NameU="Treasurer"/>
+    <Elem Prompt="仓库" Name="仓库" PromptU="Warehouse" NameU="Warehouse"/>
+</Lib>

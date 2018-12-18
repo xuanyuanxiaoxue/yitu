@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Plant Facilities">
+    <Elem Prompt="通道梯" Name="通道梯" PromptU="Access ladder" NameU="Access ladder"/>
+    <Elem Prompt="砖烟囱带架" Name="砖烟囱带架" PromptU="Brick exhaust stack with deck" NameU="Brick exhaust stack with deck"/>
+    <Elem Prompt="砖烟囱" Name="砖烟囱" PromptU="Brick exhaust stack" NameU="Brick exhaust stack"/>
+    <Elem Prompt="绿色铁丝网" Name="绿色铁丝网" PromptU="Chain link fence (green)" NameU="Chain link fence (green)"/>
+    <Elem Prompt="绿色有刺铁丝网" Name="绿色有刺铁丝网" PromptU="Chain link fence with barbed wire (green)" NameU="Chain link fence with barbed wire (green)"/>
+    <Elem Prompt="有刺铁丝网" Name="有刺铁丝网" PromptU="Chain link fence with barbed wire" NameU="Chain link fence with barbed wire"/>
+    <Elem Prompt="铁丝网" Name="铁丝网" PromptU="Chain link fence" NameU="Chain link fence"/>
+    <Elem Prompt="吊车" Name="吊车" PromptU="Communications tower" NameU="Communications tower"/>
+    <Elem Prompt="黑色烟雾" Name="黑色烟雾" PromptU="Dark smoke" NameU="Dark smoke"/>
+    <Elem Prompt="紧急喷淋装置" Name="紧急喷淋装置" PromptU="Emergency shower" NameU="Emergency shower"/>
+    <Elem Prompt="梯子 1" Name="梯子 1" PromptU="Enclosed ladder" NameU="Enclosed ladder"/>
+    <Elem Prompt="红白条烟囱" Name="红白条烟囱" PromptU="Exhaust stack with warning stripes" NameU="Exhaust stack with warning stripes"/>
+    <Elem Prompt="烟囱" Name="烟囱" PromptU="Exhaust stack" NameU="Exhaust stack"/>
+    <Elem Prompt="梯子 2" Name="梯子 2" PromptU="Exposed ladder" NameU="Exposed ladder"/>
+    <Elem Prompt="防护筛" Name="防护筛" PromptU="Guard screen" NameU="Guard screen"/>
+    <Elem Prompt="防护筛" Name="防护筛" PromptU="Guard screen" NameU="Guard screen"/>
+    <Elem Prompt="生产平台 1" Name="生产平台 1" PromptU="Industrial platform 1" NameU="Industrial platform 1"/>
+    <Elem Prompt="生产平台 2" Name="生产平台 2" PromptU="Industrial platform 2" NameU="Industrial platform 2"/>
+    <Elem Prompt="楼梯" Name="楼梯" PromptU="Industrial stairs" NameU="Industrial stairs"/>
+    <Elem Prompt="生产设备" Name="生产设备" PromptU="Industrial structure" NameU="Industrial structure"/>
+    <Elem Prompt="生产平台 1" Name="生产平台 1" PromptU="Industrial platform 1" NameU="Industrial platform 1"/>
+    <Elem Prompt="淡烟" Name="淡烟" PromptU="Light smoke" NameU="Light smoke"/>
+    <Elem Prompt="楼层夹板" Name="楼层夹板" PromptU="Mezzanine decking" NameU="Mezzanine decking"/>
+    <Elem Prompt="楼层办公室" Name="楼层办公室" PromptU="Mezzanine with office" NameU="Mezzanine with office"/>
+    <Elem Prompt="钻探设备" Name="钻探设备" PromptU="Oil rig" NameU="Oil rig"/>
+    <Elem Prompt="石油钻塔" Name="石油钻塔" PromptU="Oil well" NameU="Oil well"/>
+    <Elem Prompt="加工工厂" Name="加工工厂" PromptU="Processing plant" NameU="Processing plant"/>
+    <Elem Prompt="制浆厂" Name="制浆厂" PromptU="Pulp mill" NameU="Pulp mill"/>
+    <Elem Prompt="金字塔型通信塔" Name="金字塔型通信塔" PromptU="Pyramid communication tower" NameU="Pyramid communication tower"/>
+    <Elem Prompt="提炼厂" Name="提炼厂" PromptU="Refinery" NameU="Refinery"/>
+    <Elem Prompt="楼梯 2" Name="楼梯 2" PromptU="Smooth exhaust stairs" NameU="Smooth exhaust stairs"/>
+    <Elem Prompt="楼梯 2" Name="楼梯 2" PromptU="Smooth exhaust stairs" NameU="Smooth exhaust stairs"/>
+    <Elem Prompt="钢格板 1" Name="钢格板 1" PromptU="Steel grating 1" NameU="Steel grating 1"/>
+    <Elem Prompt="钢格板 2" Name="钢格板 2" PromptU="Steel grating 2" NameU="Steel grating 2"/>
+    <Elem Prompt="楼梯 4" Name="楼梯 4" PromptU="Vertical stairs" NameU="Vertical stairs"/>
+    <Elem Prompt="楼梯 4" Name="楼梯 4" PromptU="Vertical stairs" NameU="Vertical stairs"/>
+    <Elem Prompt="烟囱 2" Name="烟囱 2" PromptU="Chimney" NameU="Chimney"/>
+    <Elem Prompt="烟囱 2" Name="烟囱 2" PromptU="Chimney" NameU="Chimney"/>
+</Lib>

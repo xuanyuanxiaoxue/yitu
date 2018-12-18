@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Infographic Charts">
+    <Elem NameU="Bar Chart" PromptU="Bar Chart" Name="条形图" Prompt="条形图"/>
+    <Elem NameU="Bar Chart" PromptU="Bar Chart" Name="条形图" Prompt="条形图"/>
+    <Elem NameU="Column Chart" PromptU="Column Chart" Name="柱状图" Prompt="柱状图"/>
+    <Elem NameU="Column Chart" PromptU="Column Chart" Name="柱状图" Prompt="柱状图"/>
+    <Elem NameU="Column Chart" PromptU="Column Chart" Name="柱状图" Prompt="柱状图"/>
+    <Elem NameU="Pie" PromptU="Pie" Name="饼图" Prompt="饼图"/>
+    <Elem NameU="Pie" PromptU="Pie" Name="饼图" Prompt="饼图"/>
+    <Elem NameU="Percentage Pie" PromptU="Percentage Pie" Name="百分比饼图" Prompt="百分比饼图"/>
+    <Elem NameU="Control Point Pie" PromptU="Control Point Pie" Name="带控制点的饼图" Prompt="带控制点的饼图"/>
+    <Elem NameU="Doughnut" PromptU="Doughnut" Name="环形图" Prompt="环形图"/>
+    <Elem NameU="Doughnut" PromptU="Doughnut" Name="环形图" Prompt="环形图"/>
+    <Elem NameU="Doughnut" PromptU="Doughnut" Name="环形图" Prompt="环形图"/>
+    <Elem NameU="Circle Indicator" PromptU="Circle Indicator" Name="圆指示" Prompt="圆指示"/>
+    <Elem NameU="Circle Indicator" PromptU="Circle Indicator" Name="圆指示" Prompt="圆指示"/>
+    <Elem NameU="Circle Indicator" PromptU="Circle Indicator" Name="圆指示" Prompt="圆指示"/>
+    <Elem NameU="Progress Bar" PromptU="Progress Bar" Name="进度条" Prompt="进度条"/>
+    <Elem NameU="Circle Indicator" PromptU="Circle Indicator" Name="圆指示" Prompt="圆指示"/>
+    <Elem NameU="Circle Indicator" PromptU="Circle Indicator" Name="圆指示" Prompt="圆指示"/>
+    <Elem NameU="Semicircular Indicator" PromptU="Semicircular Indicator" Name="半圆形数值指示" Prompt="半圆形数值指示"/>
+    <Elem NameU="Bar Indicator" PromptU="Bar Indicator" Name="条形百分比指示" Prompt="条形百分比指示"/>
+    <Elem NameU="Bar Indicator" PromptU="Bar Indicator" Name="条形百分比指示" Prompt="条形百分比指示"/>
+    <Elem NameU="Column Indicator" PromptU="Column Indicator" Name="柱形百分比指示" Prompt="柱形百分比指示"/>
+    <Elem NameU="Battery Indicator" PromptU="Battery Indicator" Name="电量指示" Prompt="电量指示"/>
+    <Elem NameU="Percentage Indicator" PromptU="Percentage Indicator" Name="百分比指示" Prompt="百分比指示"/>
+    <Elem NameU="Data Analysis Table" PromptU="Data Analysis Table" Name="数据分析表" Prompt="数据分析表"/>
+    <Elem NameU="Data Analysis Table" PromptU="Data Analysis Table" Name="数据分析表" Prompt="数据分析表"/>
+    <Elem NameU="Scale Map" PromptU="Scale Map" Name="比例图" Prompt="比例图"/>
+</Lib>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Event Flow Diagram">
+    <Elem Prompt="事件" Name="事件" PromptU="Event" NameU="Event"/>
+    <Elem Prompt="行为" Name="行为" PromptU="Act" NameU="Act"/>
+    <Elem Prompt="一般实体" Name="一般实体" PromptU="General Entity" NameU="General Entity"/>
+    <Elem Prompt="节点" Name="节点" PromptU="Node" NameU="Node"/>
+    <Elem Prompt="或" Name="或" PromptU="Symbol 5" NameU="OR"/>
+    <Elem Prompt="与" Name="与" PromptU="And" NameU="And"/>
+    <Elem Prompt="外部行为者" Name="外部行为者" PromptU="External Actor" NameU="External Actor"/>
+    <Elem Prompt="机器行为" Name="机器行为" PromptU="Machine Act" NameU="Machine Act"/>
+    <Elem Prompt="机器实体" Name="机器实体" PromptU="Machine Entity" NameU="Machine Entity"/>
+    <Elem Prompt="手动行为" Name="手动行为" PromptU="Manual Act" NameU="Manual Act"/>
+    <Elem Prompt="手动实体" Name="手动实体" PromptU="Manual Entity" NameU="Manual Entity"/>
+    <Elem Prompt="单位" Name="单位" PromptU="Unit" NameU="Unit"/>
+</Lib>

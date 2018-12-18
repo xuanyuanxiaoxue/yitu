@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Fault Tree Analysis Shapes">
+    <Elem Prompt="与门" Name="与门" PromptU="AND gate" NameU="AND gate"/>
+    <Elem Prompt="或门" Name="或门" PromptU="OR gate" NameU="OR gate"/>
+    <Elem Prompt="禁止门" Name="禁止门" PromptU="Inhibit gate" NameU="Inhibit gate"/>
+    <Elem Prompt="优先与门" Name="优先与门" PromptU="Priority AND gate" NameU="Priority AND gate"/>
+    <Elem Prompt="异或门" Name="异或门" PromptU="Exclusive OR gate" NameU="Exclusive OR gate"/>
+    <Elem Prompt="组合" Name="组合" PromptU="Combination" NameU="Combination"/>
+    <Elem Prompt="中间事件" Name="中间事件" PromptU="Intermediate event" NameU="Intermediate event"/>
+    <Elem Prompt="基本事件" Name="基本事件" PromptU="Basic event" NameU="Basic event"/>
+    <Elem Prompt="未开展事件" Name="未开展事件" PromptU="Undeveloped event" NameU="Undeveloped event"/>
+    <Elem Prompt="初始事件" Name="初始事件" PromptU="Initiating event" NameU="Initiating event"/>
+    <Elem Prompt="条件事件" Name="条件事件" PromptU="Conditional even" NameU="Conditional even"/>
+    <Elem Prompt="转移符号" Name="转移符号" PromptU="Transfer symbol" NameU="Transfer symbol"/>
+    <Elem Prompt="直线-曲线连接线" Name="直线-曲线连接线" PromptU="Line curve connector" NameU="Line curve connector"/>
+    <Elem Prompt="动态链接线" Name="动态链接线" PromptU="Dynamic connector" NameU="Dynamic connector"/>
+    <Elem Prompt="直线连接线" Name="直线连接线" PromptU="Line Connector" NameU="Line Connector"/>
+    <Elem Prompt="与门事件" Name="与门" PromptU="AND gate with event" NameU="AND gate"/>
+    <Elem Prompt="优先与门事件" Name="优先与门" PromptU="Priority AND gate with event" NameU="Priority AND gate"/>
+    <Elem Prompt="或门事件" Name="或门" PromptU="OR gate with event" NameU="OR gate"/>
+    <Elem Prompt="异或门事件" Name="异或门" PromptU="Exclusive OR gate with event" NameU="Exclusive OR gate"/>
+    <Elem Prompt="基本事件" Name="基本事件" PromptU="Basic event" NameU="Basic event"/>
+    <Elem Prompt="未开展事件" Name="未开展事件" PromptU="Undeveloped event" NameU="Undeveloped event"/>
+    <Elem Prompt="初始事件" Name="初始事件" PromptU="Initiating event" NameU="Initiating event"/>
+    <Elem Prompt="条件事件" Name="条件事件" PromptU="Conditional event" NameU="Conditional event"/>
+    <Elem Prompt="转移事件" Name="转移" PromptU="Transfer with event" NameU="Transfer"/>
+    <Elem Prompt="禁止门事件" Name="禁止门" PromptU="Inhibit gate event" NameU="Inhibit gate"/>
+    <Elem Prompt="组合事件" Name="组合" PromptU="Combination with event" NameU="Combination"/>
+</Lib>

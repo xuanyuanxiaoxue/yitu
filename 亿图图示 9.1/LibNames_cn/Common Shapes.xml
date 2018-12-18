@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Common Shapes">
+    <Elem Prompt="导航" Name="导航" PromptU="Navigation" NameU="Navigation"/>
+    <Elem Prompt="V形臂章" Name="V形臂章" PromptU="Chevron" NameU="Chevron"/>
+    <Elem Prompt="环" Name="环" PromptU="Ring" NameU="Ring"/>
+    <Elem Prompt="环 2" Name="环 2" PromptU="Ring 2" NameU="Ring 2"/>
+    <Elem Prompt="环 3" Name="环 3" PromptU="Ring 3" NameU="Ring 3"/>
+    <Elem Prompt="三角形" Name="三角形" PromptU="Triangle" NameU="Triangle"/>
+    <Elem Prompt="三角星" Name="三角星" PromptU="3-point Star" NameU="3-point Star"/>
+    <Elem Prompt="三角星 2" Name="三角星 2" PromptU="3-point Star 2" NameU="3-point Star 2"/>
+    <Elem Prompt="四角星" Name="四角形" PromptU="4-point Star" NameU="4-point Star"/>
+    <Elem Prompt="四角星 2" Name="四角形 2" PromptU="4-point Star 2" NameU="4-point Star 2"/>
+    <Elem Prompt="四角星" Name="四角形" PromptU="4-point Star" NameU="4-point Star"/>
+    <Elem Prompt="方形框架" Name="方形框架" PromptU="Square Frame" NameU="Square Frame"/>
+    <Elem Prompt="方形框架 2" Name="方形框架 2" PromptU="Square Frame 2" NameU="Square Frame 2"/>
+    <Elem Prompt="空心星形" Name="空心星形" PromptU="Hollow Star Shape" NameU="Hollow Star Shape"/>
+    <Elem Prompt="四角星 3" Name="四角形 3" PromptU="4-point Start 3" NameU="4-point Start 3"/>
+    <Elem Prompt="多边形" Name="多边形" PromptU="Polygon" NameU="Polygon"/>
+    <Elem Prompt="五角星" Name="五角星" PromptU="5-point Star" NameU="5-point Star"/>
+    <Elem Prompt="六角星" Name="六角星" PromptU="6-point Star" NameU="6-point Star"/>
+    <Elem Prompt="六角星 2" Name="六角星 2" PromptU="6-point Star 2" NameU="6-point Star 2"/>
+    <Elem Prompt="八角星" Name="八角星" PromptU="8-point Star" NameU="8-point Star"/>
+    <Elem Prompt="八角星 2" Name="八角星 2" PromptU="8-point Star 2" NameU="8-point Star 2"/>
+    <Elem Prompt="爆炸" Name="爆炸" PromptU="Kaboom" NameU="Kaboom"/>
+    <Elem Prompt="标签" Name="标签" PromptU="Tag" NameU="Tag"/>
+    <Elem Prompt="标签 2" Name="标签 2" PromptU="Tag 2" NameU="Tag 2"/>
+    <Elem Prompt="齿轮" Name="齿轮" PromptU="Gear" NameU="Gear"/>
+    <Elem Prompt="月亮" Name="月亮" PromptU="Moon" NameU="Moon"/>
+    <Elem Prompt="星星" Name="星星" PromptU="Star" NameU="Star"/>
+    <Elem Prompt="几何图形装饰" Name="几何图形装饰" PromptU="Geometric Ornament" NameU="Geometric Ornament"/>
+    <Elem Prompt="几何图形装饰 2" Name="几何图形装饰 2" PromptU="Geometric Ornament 2" NameU="Geometric Ornament 2"/>
+    <Elem Prompt="风车" Name="风车" PromptU="Pinwheel" NameU="Pinwheel"/>
+    <Elem Prompt="几何图形装饰 3" Name="几何图形装饰 3" PromptU="Geometric Ornament 3" NameU="Geometric Ornament 3"/>
+    <Elem Prompt="几何图形装饰 4" Name="几何图形装饰 4" PromptU="Geometric Ornament 4" NameU="Geometric Ornament 4"/>
+    <Elem Prompt="几何图形装饰 5" Name="几何图形装饰 5" PromptU="Geometric Ornament 5" NameU="Geometric Ornament 5"/>
+    <Elem Prompt="几何图形装饰 6" Name="几何图形装饰 6" PromptU="Geometric Ornament 6" NameU="Geometric Ornament 6"/>
+    <Elem Prompt="几何图形装饰 7" Name="几何图形装饰 7" PromptU="Geometric Ornament 7" NameU="Geometric Ornament 7"/>
+    <Elem Prompt="漩涡" Name="漩涡" PromptU="Swirl" NameU="Swirl"/>
+    <Elem Prompt="地球轨道" Name="地球轨道" PromptU="Globe Orbits" NameU="Globe Orbits"/>
+    <Elem Prompt="几何图形装饰 8" Name="几何图形装饰 8" PromptU="Geometric Ornament 8" NameU="Geometric Ornament 8"/>
+    <Elem Prompt="几何图形装饰 9" Name="几何图形装饰 9" PromptU="Geometric Ornament 9" NameU="Geometric Ornament 9"/>
+    <Elem Prompt="#号" Name="#号" PromptU="Pound" NameU="Pound"/>
+    <Elem Prompt="十字" Name="十字" PromptU="Cross" NameU="Cross"/>
+    <Elem Prompt="维恩图" Name="维恩图" PromptU="Venn" NameU="Venn"/>
+    <Elem Prompt="几何图形装饰 10" Name="几何图形装饰 10" PromptU="Geometric Ornament 10" NameU="Geometric Ornament 10"/>
+    <Elem Prompt="几何图形装饰 11" Name="几何图形装饰 11" PromptU="Geometric Ornament 11" NameU="Geometric Ornament 11"/>
+    <Elem Prompt="几何图形装饰 12" Name="几何图形装饰 12" PromptU="Geometric Ornament 12" NameU="Geometric Ornament 12"/>
+    <Elem Prompt="几何图形装饰 13" Name="几何图形装饰 13" PromptU="Geometric Ornament 13" NameU="Geometric Ornament 13"/>
+    <Elem Prompt="几何图形装饰 14" Name="几何图形装饰 14" PromptU="Geometric Ornament 14" NameU="Geometric Ornament 14"/>
+    <Elem Prompt="完成" Name="完成" PromptU="Done" NameU="Done"/>
+    <Elem Prompt="取消" Name="取消" PromptU="Cancel" NameU="Cancel"/>
+    <Elem Prompt="禁止" Name="禁止" PromptU="Prohibition" NameU="Prohibition"/>
+    <Elem Prompt="水滴" Name="水滴" PromptU="Water Drop" NameU="Water Drop"/>
+    <Elem Prompt="心形" Name="心形" PromptU="Heart " NameU="Heart "/>
+    <Elem Prompt="心形 2" Name="心形 2" PromptU="Heart 2" NameU="Heart 2"/>
+    <Elem Prompt="心形 3" Name="心形 3" PromptU="Heart 3" NameU="Heart 3"/>
+    <Elem Prompt="梅花" Name="梅花" PromptU="Club" NameU="Club"/>
+    <Elem Prompt="花" Name="花" PromptU="Flower" NameU="Flower"/>
+    <Elem Prompt="花 2" Name="花 2" PromptU="Flower 2" NameU="Flower 2"/>
+    <Elem Prompt="花 3" Name="花 3" PromptU="Flower 3" NameU="Flower 3"/>
+    <Elem Prompt="花 4" Name="花 4" PromptU="Flower 4" NameU="Flower 4"/>
+    <Elem Prompt="花 5" Name="花 5" PromptU="Flower 5" NameU="Flower 5"/>
+    <Elem Prompt="花 6" Name="花 6" PromptU="Flower 6" NameU="Flower 6"/>
+    <Elem Prompt="花 7" Name="花 7" PromptU="Flower 7" NameU="Flower 7"/>
+    <Elem Prompt="花 8" Name="花 8" PromptU="Flower 8" NameU="Flower 8"/>
+    <Elem Prompt="星号" Name="星号" PromptU="Asterisp" NameU="Asterisp"/>
+    <Elem Prompt="星号 2" Name="星号 2" PromptU="Asterisp 2" NameU="Asterisp 2"/>
+    <Elem Prompt="雪花" Name="雪花" PromptU="Snow Flake" NameU="Snow Flake"/>
+    <Elem Prompt="雪花 2" Name="雪花 2" PromptU="Snow Flake 2" NameU="Snow Flake 2"/>
+    <Elem Prompt="雪花 3" Name="雪花 3" PromptU="Snow Flake 3" NameU="Snow Flake 3"/>
+    <Elem Prompt="雪花 4" Name="雪花 4" PromptU="Snow Flake 4" NameU="Snow Flake 4"/>
+    <Elem Prompt="雪花 5" Name="雪花 5" PromptU="Snow Flake 5" NameU="Snow Flake 5"/>
+    <Elem Prompt="雪花 6" Name="雪花 6" PromptU="Snow Flake 6" NameU="Snow Flake 6"/>
+    <Elem Prompt="星号 3" Name="星号 3" PromptU="Asterisp 3" NameU="Asterisp 3"/>
+    <Elem Prompt="星号 4" Name="星号 4" PromptU="Asterisp 4" NameU="Asterisp 4"/>
+    <Elem Prompt="旋转" Name="旋转" PromptU="Spin" NameU="Spin"/>
+    <Elem Prompt="螺旋" Name="螺旋" PromptU="Spiral" NameU="Spiral"/>
+    <Elem Prompt="雨滴" Name="雨滴" PromptU="Raindrops" NameU="Raindrops"/>
+    <Elem Prompt="网格" Name="网格" PromptU="Gridding" NameU="Gridding"/>
+    <Elem Prompt="屏幕" Name="屏幕" PromptU="Screen" NameU="Screen"/>
+    <Elem Prompt="空间" Name="空间" PromptU="Space" NameU="Space"/>
+    <Elem Prompt="折线" Name="折线" PromptU="Break Line" NameU="Break Line"/>
+    <Elem Prompt="空心盾" Name="空心盾" PromptU="Shield - Hollow" NameU="Shield - Hollow"/>
+    <Elem Prompt="盾" Name="盾" PromptU="Shield" NameU="Shield"/>
+    <Elem Prompt="目标" Name="目标" PromptU="Aiming" NameU="Aiming"/>
+    <Elem Prompt="目标 2" Name="目标 2" PromptU="Aiming 2" NameU="Aiming 2"/>
+    <Elem Prompt="漩涡 2" Name="漩涡 2" PromptU="Swirl 2" NameU="Swirl 2"/>
+    <Elem Prompt="管" Name="管" PromptU="Pipe" NameU="Pipe"/>
+    <Elem Prompt="同心圆" Name="同心圆" PromptU="Concentric Circles" NameU="Concentric Circles"/>
+    <Elem Prompt="同心圆 2" Name="同心圆 2" PromptU="Concentric Circles 2" NameU="Concentric Circles 2"/>
+    <Elem Prompt="同心圆 3" Name="同心圆 3" PromptU="Concentric Circles 3" NameU="Concentric Circles 3"/>
+    <Elem Prompt="松树" Name="松树" PromptU="Pine Tree" NameU="Pine Tree"/>
+    <Elem Prompt="枫叶" Name="枫叶" PromptU="Maple Leaf" NameU="Maple Leaf"/>
+    <Elem Prompt="四叶草" Name="四叶草" PromptU="Clover" NameU="Clover"/>
+</Lib>

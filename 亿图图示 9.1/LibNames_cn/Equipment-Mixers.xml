@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Equipment - Mixers">
+    <Elem Prompt="液体连续搅拌机" Name="液体连续搅拌机" PromptU="In-line mixer" NameU="In-line mixer"/>
+    <Elem Prompt="搅拌机" Name="搅拌机" PromptU="Mixer" NameU="Mixer"/>
+    <Elem Prompt="多种搅拌机" Name="多种搅拌机" PromptU="Various mixers" NameU="Various mixers"/>
+    <Elem Prompt="多种搅拌机" Name="多种搅拌机" PromptU="Various mixers" NameU="Various mixers"/>
+    <Elem Prompt="多种搅拌机 2" Name="多种搅拌机 2" PromptU="Various mixers 2" NameU="Various mixers 2"/>
+    <Elem Prompt="搅拌器，搅拌机" Name="搅拌器，搅拌机" PromptU="Agitator, Stirrer" NameU="Agitator, Stirrer"/>
+    <Elem Prompt="搅拌器, 螺旋桨" Name="搅拌器, 螺旋桨" PromptU="Agitator, Propeller" NameU="Agitator, Propeller"/>
+    <Elem Prompt="锚式搅拌器" Name="锚式搅拌器" PromptU="Agitator, Anchor" NameU="Agitator, Anchor"/>
+    <Elem Prompt="叶轮搅拌器" Name="叶轮搅拌器" PromptU="Agitator, Impeller" NameU="Agitator, Impeller"/>
+    <Elem Prompt="涡轮式搅拌器" Name="涡轮式搅拌器" PromptU="Agitator, Turbine" NameU="Agitator, Turbine"/>
+    <Elem Prompt="螺式旋搅拌器" Name="螺式旋搅拌器" PromptU="Agitator, Helical" NameU="Agitator, Helical"/>
+    <Elem Prompt="桨式搅拌器" Name="桨式搅拌器" PromptU="Agitator, Gat Paddle" NameU="Agitator, Gat Paddle"/>
+    <Elem Prompt="盘式搅拌器" Name="盘式搅拌器" PromptU="Agitator, Disc" NameU="Agitator, Disc"/>
+    <Elem Prompt="错臂搅拌器" Name="错臂搅拌器" PromptU="Agitator, Cross-beam" NameU="Agitator, Cross-beam"/>
+</Lib>

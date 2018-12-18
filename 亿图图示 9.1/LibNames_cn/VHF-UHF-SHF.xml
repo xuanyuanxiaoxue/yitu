@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="VHF-UHF-SHF">
+    <Elem Prompt="定向耦合器" Name="定向耦合器" PromptU="Directional coupler" NameU="Directional coupler"/>
+    <Elem Prompt="波模抑制器" Name="波模抑制器" PromptU="Mode suppressor" NameU="Mode suppressor"/>
+    <Elem Prompt="波模滤波器" Name="波模滤波器" PromptU="Mode filter" NameU="Mode filter"/>
+    <Elem Prompt="模滤波器指示" Name="模滤波器指示" PromptU="Mode filter indication" NameU="Mode filter indication"/>
+    <Elem Prompt="不连续性" Name="不连续性" PromptU="Discontinuity" NameU="Discontinuity"/>
+    <Elem Prompt="等效串联" Name="等效串联" PromptU="Equivalent series" NameU="Equivalent series"/>
+    <Elem Prompt="等效并联" Name="等效并联" PromptU="Equivalent shunt" NameU="Equivalent shunt"/>
+    <Elem Prompt="电容性阻抗" Name="电容性阻抗" PromptU="Capacitive reactance" NameU="Capacitive reactance"/>
+    <Elem Prompt="电感性阻抗" Name="电感性阻抗" PromptU="Inductive reactance" NameU="Inductive reactance"/>
+    <Elem Prompt="电感电容" Name="电感电容" PromptU="Inductance capacitance" NameU="Inductance capacitance"/>
+    <Elem Prompt="电阻" Name="电阻" PromptU="Resistance" NameU="Resistance"/>
+    <Elem Prompt="E-H 调谐器" Name="E-H 调谐器" PromptU="E-H tuner" NameU="E-H tuner"/>
+    <Elem Prompt="电导" Name="电导" PromptU="Conductance" NameU="Conductance"/>
+    <Elem Prompt="电感性电纳" Name="电感性电纳" PromptU="Inductive susceptance" NameU="Inductive susceptance"/>
+    <Elem Prompt="电容性电纳" Name="电容性电纳" PromptU="Capacitive susceptance" NameU="Capacitive susceptance"/>
+    <Elem Prompt="滑动旋拧式调谐器" Name="滑动旋拧式调谐器" PromptU="Slide screw tuner" NameU="Slide screw tuner"/>
+    <Elem Prompt="多短线调谐器" Name="多短线调谐器" PromptU="Multistub tuner" NameU="Multistub tuner"/>
+    <Elem Prompt="功率分配器" Name="功率分配器" PromptU="Power divider" NameU="Power divider"/>
+    <Elem Prompt="三端口接线" Name="三端口接线" PromptU="Three-port junction" NameU="Three-port junction"/>
+    <Elem Prompt="四端口接线" Name="四端口接线" PromptU="Four-port junction" NameU="Four-port junction"/>
+    <Elem Prompt="旋转接点" Name="旋转接点" PromptU="Rotary joint" NameU="Rotary joint"/>
+    <Elem Prompt="隔离器" Name="隔离器" PromptU="Isolator" NameU="Isolator"/>
+    <Elem Prompt="移相器" Name="移相器" PromptU="Phase shifter" NameU="Phase shifter"/>
+    <Elem Prompt="回转器" Name="回转器" PromptU="Gyrator" NameU="Gyrator"/>
+    <Elem Prompt="固定循环器" Name="固定循环器" PromptU="Circulator fixed" NameU="Circulator fixed"/>
+    <Elem Prompt="可逆循环器" Name="可逆循环器" PromptU="Circulator reversible" NameU="Circulator reversible"/>
+    <Elem Prompt="场极化转子" Name="场极化转子" PromptU="Shortcut to Field polarization rotator" NameU="Shortcut to Field polarization rotator"/>
+    <Elem Prompt="场极化幅度调制器" Name="场极化幅度调制器" PromptU="Field polarization amplitude modulator" NameU="Field polarization amplitude modulator"/>
+    <Elem Prompt="谐振器" Name="谐振器" PromptU="Resonator" NameU="Resonator"/>
+    <Elem Prompt="慢波耦合器" Name="慢波耦合器" PromptU="Slow-wave coupler" NameU="Slow-wave coupler"/>
+    <Elem Prompt="螺旋耦合器" Name="螺旋耦合器" PromptU="Helical coupler" NameU="Helical coupler"/>
+    <Elem Prompt="平衡-不平衡变压器" Name="平衡-不平衡变压器" PromptU="Balun" NameU="Balun"/>
+    <Elem Prompt="频率滤波器" Name="频率滤波器" PromptU="Frequency filter" NameU="Frequency filter"/>
+    <Elem Prompt="移相器(匹配的)" Name="移相器(匹配的)" PromptU="Phase shifter (matched)" NameU="Phase shifter (matched)"/>
+    <Elem Prompt="铁珠环" Name="铁珠环" PromptU="Ferrite bead ring" NameU="Ferrite bead ring"/>
+    <Elem Prompt="线拉伸器" Name="线拉伸器" PromptU="Line stretcher" NameU="Line stretcher"/>
+    <Elem Prompt="微波激射器" Name="微波激射器" PromptU="Maser" NameU="Maser"/>
+    <Elem Prompt="微波激射放大器" Name="微波激射放大器" PromptU="Ruby amplifier" NameU="Maser amplifier"/>
+    <Elem Prompt="激光" Name="激光" PromptU="Laser" NameU="Laser"/>
+    <Elem Prompt="激光器" Name="激光器" PromptU="Laser generator" NameU="Laser generator"/>
+    <Elem Prompt="红宝石激光器" Name="红宝石激光器" PromptU="Ruby laser" NameU="Ruby laser"/>
+</Lib>

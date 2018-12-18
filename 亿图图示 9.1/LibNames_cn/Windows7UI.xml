@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Windows7  UI">
+    <Elem Prompt="对话窗口" Name="对话窗口" PromptU="Dialog Window" NameU="Dialog Window"/>
+    <Elem Prompt="窗口" Name="窗口" PromptU="Window" NameU="Window"/>
+    <Elem Prompt="窗口背景" Name="窗口背景" PromptU="Window Backgroud" NameU="Window Backgroud"/>
+    <Elem Prompt="区域" Name="区域" PromptU="Field" NameU="Field"/>
+    <Elem Prompt="水平滚动条" Name="水平滚动条" PromptU="Horizontal Scrollbar" NameU="Horizontal Scrollbar"/>
+    <Elem Prompt="垂直滚动条" Name="垂直滚动条" PromptU="Vertical Scrollbar" NameU="Vertical Scrollbar"/>
+    <Elem Prompt="关闭按钮" Name="关闭按钮" PromptU="Close Button" NameU="Close Button"/>
+    <Elem Prompt="最大化按钮" Name="最大化按钮" PromptU="Max Button" NameU="Max Button"/>
+    <Elem Prompt="最小化按钮" Name="最小化按钮" PromptU="Min Button" NameU="Min Button"/>
+    <Elem Prompt="帮助按钮" Name="帮助按钮" PromptU="Help Button" NameU="Help Button"/>
+    <Elem Prompt="帮助和关闭按钮" Name="帮助和关闭按钮" PromptU="Help and Close Button" NameU="Help and Close Button"/>
+    <Elem Prompt="最小化最大化关闭按钮" Name="最小化最大化关闭按钮" PromptU="Min Max Close Button" NameU="Min Max Close Button"/>
+    <Elem Prompt="主工具栏" Name="主工具栏" PromptU="Primary Toolbar" NameU="Primary Toolbar"/>
+    <Elem Prompt="工具栏按钮" Name="工具栏按钮" PromptU="Toolbar Button" NameU="Toolbar Button"/>
+    <Elem Prompt="空工具栏" Name="空工具栏" PromptU="Empty Toolbar" NameU="Empty Toolbar"/>
+    <Elem Prompt="菜单栏" Name="菜单栏" PromptU="Menubar" NameU="Menubar"/>
+    <Elem Prompt="菜单项目" Name="菜单项目" PromptU="Menu Item" NameU="Menu Item"/>
+    <Elem Prompt="按钮" Name="按钮" PromptU="Button" NameU="Button"/>
+    <Elem Prompt="编辑控制" Name="编辑控制" PromptU="Edit Control" NameU="Edit Control"/>
+    <Elem Prompt="富文本控制" Name="富文本控制" PromptU="Rich Text Control" NameU="Rich Text Control"/>
+    <Elem Prompt="静态文本" Name="静态文本" PromptU="Static Text" NameU="Static Text"/>
+    <Elem Prompt="超链接文本" Name="超链接文本" PromptU="Hyperlink Text" NameU="Hyperlink Text"/>
+    <Elem Prompt="选值框" Name="选值框" PromptU="Spin Box" NameU="Spin Box"/>
+    <Elem Prompt="搜索框" Name="搜索框" PromptU="Search Box" NameU="Search Box"/>
+    <Elem Prompt="列表" Name="列表" PromptU="List" NameU="List"/>
+    <Elem Prompt="下拉组合框" Name="下拉组合框" PromptU="Combo List" NameU="Combo List"/>
+    <Elem Prompt="组合框" Name="组合框" PromptU="Combo Box" NameU="Combo Box"/>
+    <Elem Prompt="可编辑组合框" Name="可编辑组合框" PromptU="Editable Combo Box" NameU="Editable Combo Box"/>
+    <Elem Prompt="列表" Name="列表 2" PromptU="List" NameU="List 2"/>
+    <Elem Prompt="列表框" Name="列表框" PromptU="List Box" NameU="List Box"/>
+    <Elem Prompt="组群方块" Name="组群方块" PromptU="Group Box" NameU="Group Box"/>
+    <Elem Prompt="垂直滑动条" Name="垂直滑动条" PromptU="Vertical Slidebar" NameU="Vertical Slidebar"/>
+    <Elem Prompt="水平滑动条" Name="水平滑动条" PromptU="Horizontal Slidebar" NameU="Horizontal Slidebar"/>
+    <Elem Prompt="进度条" Name="进度条" PromptU="Progress Bar" NameU="Progress Bar"/>
+    <Elem Prompt="无限进度条" Name="无限进度条" PromptU="Infinite Progresss Bar" NameU="Infinite Progresss Bar"/>
+    <Elem Prompt="复选框" Name="复选框" PromptU="Check Box" NameU="Check Box"/>
+    <Elem Prompt="复选框组" Name="复选框组" PromptU="Check Box Group" NameU="Check Box Group"/>
+    <Elem Prompt="单选按钮" Name="单选按钮" PromptU="Radio Button" NameU="Radio Button"/>
+    <Elem Prompt="单选按钮组" Name="单选按钮组" PromptU="Radio Button Group" NameU="Radio Button Group"/>
+    <Elem Prompt="水平间距器" Name="水平间距器" PromptU="Horizontal Spacer" NameU="Horizontal Spacer"/>
+    <Elem Prompt="垂直间距器" Name="垂直间距器" PromptU="Vertical Spacer" NameU="Vertical Spacer"/>
+    <Elem Prompt="导航按钮" Name="导航按钮" PromptU="Navigate Button" NameU="Navigate Button"/>
+    <Elem Prompt="V型按钮" Name="V型按钮" PromptU="Chevron Button" NameU="Chevron Button"/>
+    <Elem Prompt="V型箭头" Name="V型箭头" PromptU="Chevron" NameU="Chevron"/>
+    <Elem Prompt="箭头按钮" Name="箭头按钮" PromptU="Arrow Button" NameU="Arrow Button"/>
+    <Elem Prompt="小箭头" Name="小箭头" PromptU="Small Arrow" NameU="Small Arrow"/>
+    <Elem Prompt="双箭头" Name="双箭头" PromptU="Double Chevron" NameU="Double Chevron"/>
+    <Elem Prompt="加/减 控制" Name="加/减 控制" PromptU="Plus/Minus Control" NameU="Plus/Minus Control"/>
+    <Elem Prompt="文本选择光标" Name="文本选择光标" PromptU="Text Select Cursor" NameU="Text Select Cursor"/>
+    <Elem Prompt="繁忙" Name="繁忙" PromptU="Busy Cusor" NameU="Busy Cusor"/>
+    <Elem Prompt="后台繁忙" Name="后台繁忙" PromptU="Working Busy in Backgroud" NameU="Working Busy in Backgroud"/>
+    <Elem Prompt="选择游标" Name="选择游标" PromptU="Select Cursor" NameU="Select Cursor"/>
+    <Elem Prompt="精确选择游标" Name="精确选择游标" PromptU="Precision Select Cursor" NameU="Precision Select Cursor"/>
+    <Elem Prompt="选择游标 2" Name="选择游标 2" PromptU="Select Cursor 2" NameU="Select Cursor 2"/>
+    <Elem Prompt="不可选择" Name="不可选择" PromptU="Unavailable Cursor" NameU="Unavailable Cursor"/>
+    <Elem Prompt="移动游标" Name="移动游标" PromptU="Move Cusor" NameU="Move Cusor"/>
+    <Elem Prompt="列表视图" Name="列表视图" PromptU="List View" NameU="List View"/>
+    <Elem Prompt="选项卡视图" Name="选项卡视图" PromptU="Tab View" NameU="Tab View"/>
+    <Elem Prompt="选项卡视图 2" Name="选项卡视图 2" PromptU="Tab View 2" NameU="Tab View 2"/>
+    <Elem Prompt="选项卡标签" Name="选项卡标签" PromptU="Tab View Label" NameU="Tab View Label"/>
+    <Elem Prompt="关闭" Name="关闭" PromptU="Close" NameU="Close"/>
+    <Elem Prompt="水平分割线" Name="水平分割线" PromptU="Etched Horizontal" NameU="Etched Horizontal"/>
+    <Elem Prompt="垂直分割线" Name="垂直分割线" PromptU="Etched Vertical" NameU="Etched Vertical"/>
+    <Elem Prompt="数值调节控制" Name="数值调节控制" PromptU="Spin Control" NameU="Spin Control"/>
+    <Elem Prompt="图片控制" Name="图片控制" PromptU="Picture Control" NameU="Picture Control"/>
+    <Elem Prompt="警示" Name="警示" PromptU="Warning Icon" NameU="Warning Icon"/>
+    <Elem Prompt="信息" Name="信息" PromptU="Information Icon" NameU="Information Icon"/>
+    <Elem Prompt="帮助" Name="帮助" PromptU="Help Icon" NameU="Help Icon"/>
+    <Elem Prompt="错误" Name="错误" PromptU="Error Icon" NameU="Error Icon"/>
+</Lib>

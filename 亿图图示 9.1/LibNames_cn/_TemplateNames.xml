@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TemplateNames>
+	<Elem NameU="Business Diagram" Name="商务"/>
+	<Elem NameU="Chart" Name="图表"/>
+	<Elem NameU="Engineering" Name="工程"/>
+	<Elem NameU="Electrical Engineering" Name="电子工程"/>
+	<Elem NameU="ERD &amp; Database" Name="数据库"/>																	
+	<Elem NameU="Fashion Design" Name="时装设计"/>	
+	<Elem NameU="Flowchart" Name="流程图"/>
+	<Elem NameU="Floor Plan" Name="平面布置图"/>
+	<Elem NameU="General" Name="常用基本符号"/>
+	<Elem NameU="Illustration" Name="示例图"/>
+	<Elem NameU="Maps" Name="地图"/>
+	<Elem NameU="Mind Map" Name="思维导图"/>
+	<Elem NameU="Network" Name="网络图"/>
+	<Elem NameU="Organizational Chart" Name="组织结构图"/>
+	<Elem NameU="Project Management" Name="工程管理"/>		
+	<Elem NameU="Science" Name="科学"/>
+	<Elem NameU="Software" Name="软件"/>
+	<Elem NameU="Wireframe" Name="线框图"/>
+	<Elem NameU="Forms" Name="表单"/>
+	<Elem NameU="Business Card" Name="商业卡片"/>
+	<Elem NameU="Presentation" Name="演示文稿"/>
+	<Elem NameU="Clip Art" Name="剪贴画"/>
+	<Elem NameU="Industrial Automation" Name="工业自动化"/>			
+	<Elem NameU="P&amp;&amp;ID Symbols" Name="P&amp;&amp;ID 符号"/>
+	<Elem NameU="Card" Name="卡片"/>
+	<Elem NameU="ERD and Database" Name="ERD和数据库"/>
+	<Elem NameU="Infographic" Name="信息图"/>
+	<Elem NameU="Map" Name="地图"/>
+	<Elem NameU="PID Symbols" Name="PID符号"/>
+	<Elem NameU="Graphic Design" Name="平面设计"/>
+	<Elem NameU="Graphic Organizer" Name="图形组织"/>	
+</TemplateNames>
+

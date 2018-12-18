@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Relationship">
+    <Elem Prompt="连接线" Name="连接线" PromptU="Line connector" NameU="Line connector"/>
+    <Elem Prompt="直角连接线" Name="直角连接线" PromptU="Right angle connector" NameU="Right angle connector"/>
+    <Elem Prompt="双线连接线" Name="双线连接线" PromptU="Double line connector" NameU="Double line connector"/>
+    <Elem Prompt="消息" Name="消息" PromptU="Message" NameU="Message"/>
+    <Elem Prompt="集合体" Name="集合体" PromptU="Aggregation" NameU="Aggregation"/>
+    <Elem Prompt="组成" Name="组成" PromptU="Composition" NameU="Composition"/>
+    <Elem Prompt="继承" Name="继承" PromptU="Inheritance" NameU="Inheritance"/>
+    <Elem Prompt="依赖" Name="依赖" PromptU="Dependency" NameU="Dependency"/>
+    <Elem Prompt="关联" Name="关联" PromptU="Association" NameU="Association"/>
+    <Elem Prompt="接口" Name="接口" PromptU="Interface" NameU="Interface"/>
+    <Elem Prompt="接口式输入" Name="接口式输入" PromptU="Interface Type Imp" NameU="Interface Type Imp"/>
+    <Elem Prompt=" 需求接口" Name=" 需求接口" PromptU="Required Interface" NameU="Required Interface"/>
+    <Elem Prompt="包含" Name="包含" PromptU="Include" NameU="Include"/>
+    <Elem Prompt="延伸" Name="延伸" PromptU="Extend" NameU="Extend"/>
+    <Elem Prompt="约束" Name="约束" PromptU="Constraint" NameU="Constraint"/>
+    <Elem Prompt="直接联系" Name="直接联系" PromptU="Directed Association" NameU="Directed Association"/>
+    <Elem Prompt="同步消息" Name="同步消息" PromptU="Synchronous Message" NameU="Synchronous Message"/>
+    <Elem Prompt="异步消息" Name="异步消息" PromptU="ASynchronous Message" NameU="ASynchronous Message"/>
+    <Elem Prompt="返回消息" Name="返回消息" PromptU="Return Message" NameU="Return Message"/>
+    <Elem Prompt="起始状态" Name="起始状态" PromptU="Initial State" NameU="Initial State"/>
+    <Elem Prompt="参数" Name="参数" PromptU="Parameter" NameU="Parameter"/>
+    <Elem Prompt="1 或多" Name="1 或多" PromptU="1 or more" NameU="1 or more"/>
+    <Elem Prompt="1 且只有 1" Name="1 且只有 1" PromptU="1 and only 1" NameU="1 and only 1"/>
+    <Elem Prompt="0 或 1" Name="0 或 1" PromptU="0 or 1" NameU="0 or 1"/>
+    <Elem Prompt="M : 1" Name="M : 1" PromptU="M : 1" NameU="M : 1"/>
+    <Elem Prompt="M : 1" Name="M : 1" PromptU="M : 1" NameU="M : 1"/>
+    <Elem Prompt="M : 1" Name="M : 1" PromptU="M : 1" NameU="M : 1"/>
+    <Elem Prompt="1 : 1" Name="1 : 1" PromptU="1 : 1" NameU="1 : 1"/>
+    <Elem Prompt="1 : 1" Name="1 : 1" PromptU="1 : 1" NameU="1 : 1"/>
+    <Elem Prompt="一对多" Name="一对多" PromptU="One to many caption" NameU="One to many caption"/>
+    <Elem Prompt="多对多" Name="多对多" PromptU="Many to many caption" NameU="Many to many caption"/>
+    <Elem Prompt="一对一" Name="一对一" PromptU="One to one caption" NameU="One to one caption"/>
+    <Elem Prompt="多对多" Name="多对多" PromptU="Variable to variable" NameU="Variable to variable"/>
+</Lib>

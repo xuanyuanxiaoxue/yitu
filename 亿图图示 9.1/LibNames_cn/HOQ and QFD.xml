@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="HOQ and QFD">
+    <Elem Prompt="主矩阵" Name="主矩阵" PromptU="Main Matrix" NameU="Main Matrix"/>
+    <Elem Prompt="单列" Name="单列" PromptU="Single Column" NameU="Single Column"/>
+    <Elem Prompt="带垂直文本的单行" Name="带垂直文本的单行" PromptU="Single row with vertical text" NameU="Single Row"/>
+    <Elem Prompt="右侧矩阵" Name="右侧矩阵" PromptU="Right Matrix" NameU="Right Matrix"/>
+    <Elem Prompt="底部矩阵" Name="底部矩阵" PromptU="Bottom Matrix" NameU="Bottom Matrix"/>
+    <Elem Prompt="屋顶矩阵" Name="屋顶矩阵" PromptU="Roof Matrix" NameU="Roof Matrix"/>
+    <Elem Prompt="左侧矩阵" Name="左侧矩阵" PromptU="Left Roof Matrix" NameU="Left Roof Matrix"/>
+    <Elem Prompt="简单QFD" Name="简单QFD" PromptU="Simple QFD" NameU="Simple QFD"/>
+    <Elem Prompt="QFD" Name="QFD" PromptU="QFD" NameU="QFD"/>
+    <Elem Prompt="HOQ" Name="HOQ" PromptU="HOQ" NameU="HOQ"/>
+    <Elem Prompt="文本块" Name="文本块" PromptU="Text Block" NameU="Text Block"/>
+    <Elem Prompt="符号表" Name="符号表" PromptU="Legend" NameU="Legend"/>
+    <Elem Prompt="图例 2" Name="图例 2" PromptU="Legend 2" NameU="Legend 2"/>
+    <Elem Prompt="12种变形标志" Name="12种变形标志" PromptU="12-Role Flag" NameU="12-Role Flag"/>
+    <Elem Prompt="10种变形标志" Name="10种变形标志" PromptU="10-Role Flag" NameU="10-Role Flag"/>
+    <Elem Prompt="旗帜" Name="旗帜" PromptU="Flag" NameU="Flag"/>
+    <Elem Prompt="箭头旗帜" Name="箭头旗帜" PromptU="Arrow Flag" NameU="Arrow Flag"/>
+</Lib>

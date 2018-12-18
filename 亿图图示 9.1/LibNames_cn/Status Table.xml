@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Status Table">
+    <Elem Prompt="B可改变列宽度和标题颜色" Name="空白状态表" PromptU="Blank Status Table" NameU="Blank Status Table"/>
+    <Elem Prompt="可改变列宽度和标题颜色." Name="空白状态表 - 绿色" PromptU="You can change column with and title bar color." NameU="Blank Status Table - Green"/>
+    <Elem Prompt="可改变列宽度和标题颜色." Name="空白状态表 - 深红色" PromptU="You can change the column width and title bar color." NameU="Blank Status Table - Dark Red"/>
+    <Elem Prompt="状态表" Name="状态表" PromptU="Status Table" NameU="Status Table"/>
+    <Elem Prompt="状态表 2" Name="状态表 2" PromptU="Status Table 2" NameU="Status Table 2"/>
+    <Elem Prompt="任务表" Name="任务表" PromptU="Task Status" NameU="Task Status"/>
+    <Elem Prompt="是/否" Name="是/否" PromptU="Yes/No" NameU="Yes/No"/>
+    <Elem Prompt="3种状态 - 选中，没选中和空白." Name="复选框" PromptU="There are three states - checked, unchecked and corss." NameU="Check Box"/>
+    <Elem Prompt="编辑文本改变进度." Name="进度" PromptU="Edit the percentage text to change the progress." NameU="Progress"/>
+    <Elem Prompt="编辑文本改变进度." Name="进度 2" PromptU="Edit the percentage text to change the progress." NameU="Progress 2"/>
+    <Elem Prompt="编辑文本改变进度." Name="进度 3" PromptU="Click floating menu to change the progress." NameU="Progress 3"/>
+    <Elem Prompt="点击浮动按钮改变优先级." Name="优先级" PromptU="Click floating menu to change priority." NameU="Priority"/>
+    <Elem Prompt="4状态 - 紧急,高,正常,低." Name="4状态优先级" PromptU="Four states - Urgent, High, Normal, Low. You can edit the text." NameU="4-State Priority"/>
+    <Elem Prompt="3种状态 - 错误,警告,可操作,可编辑说明文字." Name="3状态警示符" PromptU="Three states - Error, Warning, Operational. You can edit the text." NameU="3-State Alert"/>
+    <Elem Prompt="6种状态 - 处理中,完成,确认,创建,设想,取消,可编辑说明文字." Name="6状态符号" PromptU="There six states - In Porgress, Completed, Verified, Created, Draft, Canceled. You can edit the text." NameU="6-State Status"/>
+    <Elem Prompt="点击浮动按钮改变状态,可编辑说明文字." Name="4方向箭头" PromptU="Click floating menu to change the status. You can add status text." NameU="4-Direction Arrow"/>
+    <Elem Prompt="点击浮动按钮改变状态,可编辑说明文字." Name="4方向箭头 2" PromptU="Click floating menu to change the status. You can add status text." NameU="4-Direction Arrow 2"/>
+    <Elem Prompt="点击浮动按钮改变状态,可编辑说明文字." Name="进度状态" PromptU="Click floating menu to change the status. You can add status text." NameU="Progress Status"/>
+    <Elem Prompt="点击浮动按钮改变状态,可编辑说明文字." Name="红绿灯" PromptU="Click floating menu to change the status. You can add status text." NameU="Trafic Light"/>
+    <Elem Prompt="点击浮动按钮改变评级." Name="评价" PromptU="Click floating menu to change rating." NameU="Rating"/>
+    <Elem Prompt="质量" Name="质量" PromptU="Quality" NameU="Quality"/>
+    <Elem Prompt="Lock/UnLock" Name="锁/解锁" PromptU="Lock/UnLock" NameU="Lock/UnLock"/>
+    <Elem Prompt="10种变形标志" Name="10种变形标志" PromptU="10 kinds of flag" NameU="10-State Flag"/>
+    <Elem Prompt="12种变形标志" Name="12种变形标志" PromptU="12 kinds of flag" NameU="12-State Flag"/>
+    <Elem Prompt="数字" Name="数字" PromptU="Numbering" NameU="Numbering"/>
+    <Elem Prompt="消息" Name="消息" PromptU="Message" NameU="Message"/>
+    <Elem Prompt="消息 2" Name="消息 2" PromptU="Message 2" NameU="Message 2"/>
+    <Elem Prompt="间隔条" Name="间隔条" PromptU="Spacing Bar" NameU="Spacing Bar"/>
+</Lib>

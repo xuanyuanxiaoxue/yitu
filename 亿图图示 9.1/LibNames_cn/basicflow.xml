@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Basic Flowchart Shapes">
+    <Elem Prompt="流程" Name="流程" PromptU="Process" NameU="Process"/>
+    <Elem Prompt="判定" Name="判定" PromptU="Decision" NameU="Decision"/>
+    <Elem Prompt="文档" Name="文档" PromptU="Document" NameU="Document"/>
+    <Elem Prompt="数据" Name="数据" PromptU="Data" NameU="Data"/>
+    <Elem Prompt="开始或结束" Name="开始或结束" PromptU="Start or Terminator" NameU="Start or Terminator"/>
+    <Elem Prompt="子流程" Name="子流程" PromptU="Sub Process" NameU="Sub Process"/>
+    <Elem Prompt="预定义流程" Name="预定义流程" PromptU="Predefined Process" NameU="Predefined Process"/>
+    <Elem Prompt="开始1" Name="开始1" PromptU="Start 1" NameU="Start 1"/>
+    <Elem Prompt="开始2" Name="开始2" PromptU="Start 2" NameU="Start 2"/>
+    <Elem Prompt="人员 1" Name="人员 1" PromptU="People 1" NameU="People 1"/>
+    <Elem Prompt="人员 2" Name="人员 2" PromptU="People 2" NameU="People 2"/>
+    <Elem Prompt="是或否" Name="是或否" PromptU="Yes or No" NameU="Yes or No"/>
+    <Elem Prompt="数据库" Name="数据库" PromptU="Database" NameU="Database"/>
+    <Elem Prompt="存储数据" Name="存储数据" PromptU="Stored Data" NameU="Stored Data"/>
+    <Elem Prompt="内部存储" Name="内部存储器" PromptU="Internal Storage" NameU="Internal Storage"/>
+    <Elem Prompt="顺序数据" Name="顺序数据" PromptU="Sequential Data" NameU="Sequential Data"/>
+    <Elem Prompt="直接数据" Name="直接数据" PromptU="Direct Data" NameU="Direct Data"/>
+    <Elem Prompt="手动输入" Name="手动输入" PromptU="Manual Input" NameU="Manual Input"/>
+    <Elem Prompt="卡" Name="卡" PromptU="Card" NameU="Card"/>
+    <Elem Prompt="纸带" Name="纸带" PromptU="Paper Tape" NameU="Paper Tape"/>
+    <Elem Prompt="推迟" Name="推迟" PromptU="Delay" NameU="Delay"/>
+    <Elem Prompt="显示内容" Name="显示内容" PromptU="Display" NameU="Display"/>
+    <Elem Prompt="手动操作" Name="手动操作" PromptU="Manual Operation" NameU="Manual Operation"/>
+    <Elem Prompt="准备" Name="准备" PromptU="Preparation" NameU="Preparation"/>
+    <Elem Prompt="并行模式" Name="并行模式" PromptU="Parallel Mode" NameU="Parallel Mode"/>
+    <Elem Prompt="循环界限" Name="循环界限" PromptU="Loop Limit" NameU="Loop Limit"/>
+    <Elem Prompt="终结符" Name="终结符" PromptU="Terminator" NameU="Terminator"/>
+    <Elem Prompt="页面内引用" Name="页面内引用" PromptU="On-page Reference" NameU="On-page Reference"/>
+    <Elem Prompt="跨页引用" Name="跨页引用" PromptU="Off-page Reference" NameU="Off-page Reference"/>
+    <Elem Prompt="流程图形状" Name="流程图形状" PromptU="Flowchart Shapes" NameU="Flowchart Shapes"/>
+    <Elem Prompt="高度自调节框" Name="高度自调节框" PromptU="Auto Height Text" NameU="Auto Height Text"/>
+    <Elem Prompt="动态链接线" Name="动态链接线" PromptU="Dynamic Connector" NameU="Dynamic Connector"/>
+    <Elem Prompt="曲线链接线" Name="曲线链接线" PromptU="Curved Connector" NameU="Curved Connector"/>
+    <Elem Prompt="控制传递" Name="控制传递" PromptU="Control Transfer" NameU="Control Transfer"/>
+    <Elem Prompt="批注" Name="批注" PromptU="Annotation" NameU="Annotation"/>
+</Lib>

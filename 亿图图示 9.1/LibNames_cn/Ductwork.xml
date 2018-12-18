@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Ductwork">
+    <Elem Prompt="直管" Name="直管" PromptU="Straight duct" NameU="Straight duct"/>
+    <Elem Prompt="直管 2" Name="直管 2" PromptU="Straight duct 2" NameU="Straight duct 2"/>
+    <Elem Prompt="斜面弯管 1" Name="斜面弯管 1" PromptU="Miter bend 1" NameU="Miter bend 1"/>
+    <Elem Prompt="斜面弯管 2" Name="斜面弯管 2" PromptU="Miter bend 2" NameU="Miter bend 2"/>
+    <Elem Prompt="斜面弯管 3" Name="斜面弯管 3" PromptU="Miter bend 3" NameU="Miter bend 3"/>
+    <Elem Prompt="斜面弯管 4" Name="斜面弯管 4" PromptU="Miter bend 4" NameU="Miter bend 4"/>
+    <Elem Prompt="斜三通 上" Name="斜三通 上" PromptU="Junction up" NameU="Junction up"/>
+    <Elem Prompt="斜三通 下" Name="斜三通 下" PromptU="Junction bottom" NameU="Junction bottom"/>
+    <Elem Prompt="四通" Name="四通" PromptU="Cross" NameU="Cross"/>
+    <Elem Prompt="三通" Name="三通" PromptU="Beveled junction" NameU="Beveled junction"/>
+    <Elem Prompt="斜四通" Name="斜四通" PromptU="3 way junction" NameU="3 way junction"/>
+    <Elem Prompt="Y形接头" Name="Y形接头" PromptU="Y junction" NameU="Y junction"/>
+    <Elem Prompt="转换接头" Name="转换接头" PromptU="Transition" NameU="Transition"/>
+    <Elem Prompt="转换接头 2" Name="转换接头 2" PromptU="Transition 2" NameU="Transition 2"/>
+    <Elem Prompt="转换接头 3" Name="转换接头 3" PromptU="Transition 3" NameU="Transition 3"/>
+    <Elem Prompt="转换接头 4" Name="转换接头 4" PromptU="Transition 4" NameU="Transition 4"/>
+    <Elem Prompt="转换接头 5" Name="转换接头 5" PromptU="Transition 5" NameU="Transition 5"/>
+</Lib>

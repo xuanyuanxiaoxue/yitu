@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Terminals and Connectors">
+    <Elem Prompt="M 触点" Name="M 触点" PromptU="Male Contact" NameU="Male Contact"/>
+    <Elem Prompt="F 触点" Name="F 触点" PromptU="Female Contact" NameU="Female Contact"/>
+    <Elem Prompt="M 触点" Name="M 触点" PromptU="Male Contact 2" NameU="Male Contact 2"/>
+    <Elem Prompt="F 触点 2" Name="F 触点 2" PromptU="Female Contact 2" NameU="Female Contact 2"/>
+    <Elem Prompt="适配器" Name="适配器" PromptU="Adapter" NameU="Adapter"/>
+    <Elem Prompt="电缆终端" Name="电缆终端" PromptU="Cable terminal" NameU="Cable terminal"/>
+    <Elem Prompt="电路端子" Name="电路端子" PromptU="Circuit terminal" NameU="Circuit terminal"/>
+    <Elem Prompt="端子板" Name="端子板" PromptU="Terminal board" NameU="Terminal board"/>
+    <Elem Prompt="电缆终端" Name="电缆终端" PromptU="Cable termination" NameU="Cable termination"/>
+    <Elem Prompt="两导线插座" Name="两导线插座" PromptU="2-conductor jack" NameU="2-conductor jack"/>
+    <Elem Prompt="两导线插头" Name="两导线插头" PromptU="2-conductor plug" NameU="2-conductor plug"/>
+    <Elem Prompt="正常双向布线的插座" Name="正常双向布线的插座" PromptU="Normallled jacks" NameU="Normalled jacks"/>
+    <Elem Prompt="正常单向布线的插座" Name="正常单向布线的插座" PromptU="Normalled jack" NameU="Normalled jack"/>
+    <Elem Prompt="同轴外部导体" Name="同轴外部导体" PromptU="Coaxial outside conductor" NameU="Coaxial outside conductor"/>
+    <Elem Prompt="同轴中心导体" Name="同轴中心导体" PromptU="Coaxial center conductor" NameU="Coaxial center conductor"/>
+    <Elem Prompt="大号 D 连接器" Name="大号 D 连接器" PromptU="Large D connector" NameU="Large D connector"/>
+    <Elem Prompt="小号 D 连接器" Name="小号 D 连接器" PromptU="Small D connector" NameU="Small D connector"/>
+    <Elem Prompt="C 头连接器" Name="C 头连接器" PromptU="C header connector" NameU="C header connector"/>
+    <Elem Prompt="屏蔽插座/插头" Name="屏蔽插座/插头" PromptU="Shielded jack/plug" NameU="Shielded jack/plug"/>
+    <Elem Prompt="同轴插座/插头" Name="同轴插座/插头" PromptU="Coaxial jack/plug" NameU="Coaxial jack/plug"/>
+    <Elem Prompt="F/M 2-导线 1" Name="F/M 2-导线 1" PromptU="F/M 2-conductor 1" NameU="F/M 2-conductor 1"/>
+    <Elem Prompt="F/M 2-导线 2" Name="F/M 2-导线 2" PromptU="F/M 2-conductor 2" NameU="F/M 2-conductor 2"/>
+    <Elem Prompt="F/M 2-导线 3" Name="F/M 2-导线 3" PromptU="F/M 2-conductor 3" NameU="F/M 2-conductor 3"/>
+    <Elem Prompt="F/M 3-导线 1" Name="F/M 3-导线 1" PromptU="F/M 3-conductor 1" NameU="F/M 3-conductor 1"/>
+    <Elem Prompt="F/M 3-导线 2" Name="F/M 3-导线 2" PromptU="F/M 3-conductor 2" NameU="F/M 3-conductor 2"/>
+    <Elem Prompt="F/M 3-导线 3" Name="F/M 3-导线 3" PromptU="F/M 3-conductor 3" NameU="F/M 3-conductor 3"/>
+    <Elem Prompt="F/M 3-导线 4" Name="F/M 3-导线 4" PromptU="F/M 3-conductor 4" NameU="F/M 3-conductor 4"/>
+    <Elem Prompt="F/M 3-导线 5" Name="F/M 3-导线 5" PromptU="F/M 3-conductor 5" NameU="F/M 3-conductor 5"/>
+    <Elem Prompt="配磨" Name="配磨" PromptU="Mated pair" NameU="Mated pair"/>
+    <Elem Prompt="三导线插头" Name="三导线插头" PromptU="3-conductor plug" NameU="3-conductor plug"/>
+    <Elem Prompt="三导线插座" Name="三导线插座" PromptU="3-conductor jack" NameU="3-conductor jack"/>
+</Lib>

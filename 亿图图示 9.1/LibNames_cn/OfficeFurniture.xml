@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Office Furniture">
+    <Elem Prompt="单柜" Name="单柜" PromptU="Single Cubicle" NameU="Single Cubicle"/>
+    <Elem Prompt="双柜" Name="双柜" PromptU="Two Seats Cubicle" NameU="Two Seats Cubicle"/>
+    <Elem Prompt="双柜" Name="双柜 2" PromptU="Two Seats Cubicle" NameU="Two Seats Cubicle 2"/>
+    <Elem Prompt="双柜" Name="双柜 3" PromptU="Two Seats Cubicle" NameU="Two Seats Cubicle 3"/>
+    <Elem Prompt="柜" Name="柜" PromptU="Cubicle" NameU="Cubicle"/>
+    <Elem Prompt="柜" Name="柜 2" PromptU="Cubicle" NameU="Cubicle 2"/>
+    <Elem Prompt="柜" Name="柜 3" PromptU="Cubicle" NameU="Cubicle 3"/>
+    <Elem Prompt="柜" Name="柜 4" PromptU="Cubicle" NameU="Cubicle 4"/>
+    <Elem Prompt="柜" Name="柜 5" PromptU="Cubicle" NameU="Cubicle 5"/>
+    <Elem Prompt="柜" Name="柜 6" PromptU="Cubicle" NameU="Cubicle 6"/>
+    <Elem Prompt="柜" Name="柜 7" PromptU="Cubicle" NameU="Cubicle 7"/>
+    <Elem Prompt="直工作台" Name="直工作台" PromptU="Straight workstation" NameU="Straight workstation"/>
+    <Elem Prompt="U形工作台" Name="U形工作台" PromptU="U workstation" NameU="U workstation"/>
+    <Elem Prompt="会议工作台" Name="会议工作台" PromptU="Council workstation" NameU="Council workstation"/>
+    <Elem Prompt="L形工作台" Name="L形工作台" PromptU="L workstation" NameU="L workstation"/>
+    <Elem Prompt="桌子" Name="桌子" PromptU="Table" NameU="Table"/>
+    <Elem Prompt="圆桌" Name="圆桌" PromptU="Round table" NameU="Round table"/>
+    <Elem Prompt="书桌" Name="书桌" PromptU="Desk" NameU="Desk"/>
+    <Elem Prompt="椭圆桌" Name="椭圆桌" PromptU="Racetrack table" NameU="Racetrack table"/>
+    <Elem Prompt="船形桌" Name="船形桌" PromptU="Boat table" NameU="Boat table"/>
+    <Elem Prompt="四座桌" Name="四座桌" PromptU="4 seat table" NameU="4 seat table"/>
+    <Elem Prompt="六座桌" Name="六座桌" PromptU="6 seat table" NameU="6 seat table"/>
+    <Elem Prompt="八座桌" Name="八座桌" PromptU="8 seat table" NameU="8 seat table"/>
+    <Elem Prompt="十座圆角桌" Name="十座圆角桌" PromptU="10 seat rounded table" NameU="10 seat rounded table"/>
+    <Elem Prompt="十座船形桌" Name="十座船形桌" PromptU="10 seat boat table" NameU="10 seat boat table"/>
+    <Elem Prompt="十座桌" Name="十座桌" PromptU="10 seat table" NameU="10 seat table"/>
+    <Elem Prompt="十二座桌" Name="十二座桌" PromptU="12 seat table" NameU="12 seat table"/>
+    <Elem Prompt="二十座桌" Name="二十座桌" PromptU="20 seat table" NameU="20 seat table"/>
+    <Elem Prompt="带多把椅子的圆桌" Name="带多把椅子的圆桌" PromptU="Multi-chair round table" NameU="Multi-chair round table"/>
+    <Elem Prompt="角桌" Name="角桌" PromptU="Corner table" NameU="Corner table"/>
+    <Elem Prompt="圆角桌" Name="圆角桌" PromptU="Round corner" NameU="Round corner"/>
+    <Elem Prompt="工作台面" Name="工作台面" PromptU="Work surface" NameU="Work surface"/>
+    <Elem Prompt="拐角台面" Name="拐角台面" PromptU="Corner surface" NameU="Corner surface"/>
+    <Elem Prompt="拐角台面 2" Name="拐角台面 2" PromptU="Corner surface 2" NameU="Corner surface 2"/>
+    <Elem Prompt="拐角台面 3" Name="拐角台面 3" PromptU="Corner surface 3" NameU="Corner surface 3"/>
+    <Elem Prompt="拐角台面 4" Name="拐角台面 4" PromptU="Corner surface 4" NameU="Corner surface 4"/>
+    <Elem Prompt="半圆工作台" Name="半圆工作台" PromptU="Work peninsula" NameU="Work peninsula"/>
+    <Elem Prompt="书架" Name="书架" PromptU="Bookshelf" NameU="Bookshelf"/>
+    <Elem Prompt="书柜" Name="书柜" PromptU="Credenza" NameU="Credenza"/>
+    <Elem Prompt="台座" Name="台座" PromptU="Pedestal" NameU="Pedestal"/>
+    <Elem Prompt="橱柜" Name="橱柜" PromptU="Cabinet" NameU="Cabinet"/>
+    <Elem Prompt="橱柜 2" Name="橱柜 2" PromptU="Cabinet 2" NameU="Cabinet 2"/>
+    <Elem Prompt="橱柜 3" Name="橱柜 3" PromptU="Cabinet 3" NameU="Cabinet 3"/>
+    <Elem Prompt="贮存单元" Name="贮存单元" PromptU="Storage unit" NameU="Storage unit"/>
+    <Elem Prompt="悬挂式大衣柜" Name="悬挂式大衣柜" PromptU="Susp coat bar" NameU="Susp coat bar"/>
+    <Elem Prompt="开放式衣柜" Name="开放式衣柜" PromptU="Susp open shelf" NameU="Susp open shelf"/>
+    <Elem Prompt="横向柜" Name="横向柜" PromptU="Suspended lateral file" NameU="Suspended lateral file"/>
+    <Elem Prompt="文件" Name="文件" PromptU="File" NameU="File"/>
+    <Elem Prompt="直立文件柜" Name="直立文件柜" PromptU="Lateral file" NameU="Lateral file"/>
+    <Elem Prompt="平宽文件柜" Name="平宽文件柜" PromptU="Flat file" NameU="Flat file"/>
+    <Elem Prompt="可旋转椅子" Name="可旋转椅子" PromptU="Swivel tilt chair" NameU="Swivel tilt chair"/>
+    <Elem Prompt="双人沙发" Name="双人沙发" PromptU="2 seat sofa" NameU="2 seat sofa"/>
+    <Elem Prompt="三人沙发" Name="三人沙发" PromptU="3 seat sofa" NameU="3 seat sofa"/>
+    <Elem Prompt="四人沙发" Name="四人沙发" PromptU="4 seat sofa" NameU="4 seat sofa"/>
+    <Elem Prompt="90度桌子" Name="90度桌子" PromptU="90 deg table" NameU="90 deg table"/>
+    <Elem Prompt="椅子" Name="椅子" PromptU="Chair" NameU="Chair"/>
+    <Elem Prompt="椅子 2" Name="椅子 2" PromptU="Chair 2" NameU="Chair 2"/>
+    <Elem Prompt="椅子 3" Name="椅子 3" PromptU="Chair 3" NameU="Chair 3"/>
+    <Elem Prompt="30度座椅" Name="30度座椅" PromptU="30 deg seat" NameU="30 deg seat"/>
+    <Elem Prompt="书桌椅" Name="书桌椅" PromptU="Desk chair" NameU="Desk chair"/>
+    <Elem Prompt="高凳" Name="高凳" PromptU="High stool" NameU="High stool"/>
+    <Elem Prompt="凳子" Name="凳子" PromptU="Stool" NameU="Stool"/>
+    <Elem Prompt="面板" Name="面板" PromptU="Panel" NameU="Panel"/>
+    <Elem Prompt="2 面板" Name="2 面板" PromptU="2 panel" NameU="2 panel"/>
+    <Elem Prompt="3 面板" Name="3 面板" PromptU="3 panel" NameU="3 panel"/>
+    <Elem Prompt="4 面板" Name="4 面板" PromptU="4 panel" NameU="4 panel"/>
+    <Elem Prompt="交叉面板" Name="交叉面板" PromptU="Cross panel" NameU="Cross panel"/>
+</Lib>

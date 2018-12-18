@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Tanks">
+    <Elem Prompt="5加仑桶" Name="5加仑桶" PromptU="5-gallon bucket" NameU="5-gallon bucket"/>
+    <Elem Prompt="气缸" Name="气缸" PromptU="Air cylinder" NameU="Air cylinder"/>
+    <Elem Prompt="储气罐" Name="储气罐" PromptU="Air tank" NameU="Air tank"/>
+    <Elem Prompt="桶" Name="桶" PromptU="Barrel" NameU="Barrel"/>
+    <Elem Prompt="仓式泵" Name="仓式泵" PromptU="Batch tank" NameU="Batch tank"/>
+    <Elem Prompt="螺栓 1" Name="螺栓 1" PromptU="Bolt 1" NameU="Bolt 1"/>
+    <Elem Prompt="螺栓 2" Name="螺栓 2" PromptU="Bolt 2" NameU="Bolt 2"/>
+    <Elem Prompt="酿造锅" Name="酿造锅" PromptU="Brew kettle" NameU="Brew kettle"/>
+    <Elem Prompt="容器" Name="容器" PromptU="Container" NameU="Container"/>
+    <Elem Prompt="中型耐腐蚀槽" Name="耐腐蚀槽" PromptU="Corrosion resistant tank (medium)" NameU="Corrosion resistant tank (medium)"/>
+    <Elem Prompt="日量熔槽" Name="日量熔槽" PromptU="Day tank" NameU="Day tank"/>
+    <Elem Prompt="鼓式槽" Name="鼓式槽" PromptU="Drum" NameU="Drum"/>
+    <Elem Prompt="椭圆散装储罐" Name="椭圆散装储罐" PromptU="Elliptical bulk storage tank" NameU="Elliptical bulk storage tank"/>
+    <Elem Prompt="粉末储罐" Name="粉末储罐" PromptU="Flour Storage Tank" NameU="Flour Storage Tank"/>
+    <Elem Prompt="扁容器 1" Name="扁容器 1" PromptU="Flat vessel 1" NameU="Flat vessel 1"/>
+    <Elem Prompt="扁容器 2" Name="扁容器 2" PromptU="Flat vessel 2" NameU="Flat vessel 2"/>
+    <Elem Prompt="扁容器 3" Name="扁容器 3" PromptU="Flat vessel 3" NameU="Flat vessel 3"/>
+    <Elem Prompt="扁容器 4" Name="扁容器 4" PromptU="Flat vessel 4" NameU="Flat vessel 4"/>
+    <Elem Prompt="扁容器 5" Name="扁容器 5" PromptU="Flat vessel 5" NameU="Flat vessel 5"/>
+    <Elem Prompt="扁容器 6" Name="扁容器 6" PromptU="Flat vessel 6" NameU="Flat vessel 6"/>
+    <Elem Prompt="扁容器 7" Name="扁容器 7" PromptU="Flat vessel 7" NameU="Flat vessel 7"/>
+    <Elem Prompt="独立式储罐" Name="独立式储罐" PromptU="Free-standing leg tank" NameU="Free-standing leg tank"/>
+    <Elem Prompt="玻璃条纹式储罐" Name="玻璃条纹式储罐" PromptU="Glass lined tank" NameU="Glass lined tank"/>
+    <Elem Prompt="绿色油缸" Name="绿色油缸" PromptU="Green cylinder" NameU="Green cylinder"/>
+    <Elem Prompt="绿色容器" Name="绿色容器" PromptU="Green vessel" NameU="Green vessel"/>
+    <Elem Prompt="舱口" Name="舱口" PromptU="Hatch" NameU="Hatch"/>
+    <Elem Prompt="热交换器" Name="热交换器" PromptU="Heat exchanger" NameU="Heat exchanger"/>
+    <Elem Prompt="料斗" Name="料斗" PromptU="Hopper" NameU="Hopper"/>
+    <Elem Prompt="同质化储罐" Name="同质化储罐" PromptU="Homogenize Tank" NameU="Homogenize Tank"/>
+    <Elem Prompt="液压气动罐" Name="液压气动罐" PromptU="Hydropneumatic tank" NameU="Hydropneumatic tank"/>
+    <Elem Prompt="生活热水箱" Name="生活热水箱" PromptU="Hot Living Water Tank" NameU="Hot Living Water Tank"/>
+    <Elem Prompt="大型锥底聚乙烯储罐" Name="大型锥底聚乙烯储罐" PromptU="Large cone-bottom polyethylene tank" NameU="Large cone-bottom polyethylene tank"/>
+    <Elem Prompt="液体存储鼓" Name="液体存储鼓" PromptU="Liquid storage drum" NameU="Liquid storage drum"/>
+    <Elem Prompt="搅拌罐" Name="搅拌罐" PromptU="Mix tank" NameU="Mix tank"/>
+    <Elem Prompt="模制聚乙烯罐" Name="模制聚乙烯罐" PromptU="Molded polyethylene tank" NameU="Molded polyethylene tank"/>
+    <Elem Prompt="聚乙烯化学混合槽" Name="聚乙烯化学混合槽" PromptU="Polyethylene chemical mix tank" NameU="Polyethylene chemical mix tank"/>
+    <Elem Prompt="聚乙烯混合和填充槽" Name="聚乙烯混合和填充槽" PromptU="Polyethylene mix and fill tank" NameU="Polyethylene mix and fill tank"/>
+    <Elem Prompt="有双支撑脚的的储罐" Name="有双支撑脚的的储罐" PromptU="Polyethylene storage tank with twin legs" NameU="Polyethylene storage tank with twin legs"/>
+    <Elem Prompt="聚乙烯储罐" Name="聚乙烯储罐" PromptU="Polyethylene storage tank" NameU="Polyethylene storage tank"/>
+    <Elem Prompt="聚乙烯储罐" Name="聚乙烯储罐" PromptU="Polyethylene tank" NameU="Polyethylene tank"/>
+    <Elem Prompt="带混合器的聚乙烯储罐" Name="带混合器的聚乙烯储罐" PromptU="Polyethylene tank with mixer" NameU="Polyethylene tank with mixer"/>
+    <Elem Prompt="有植物的池塘" Name="有植物的池塘" PromptU="Pond with plant life" NameU="Pond with plant life"/>
+    <Elem Prompt="池塘" Name="池塘" PromptU="Pond" NameU="Pond"/>
+    <Elem Prompt="压力容器" Name="压力容器" PromptU="Pressure vessel" NameU="Pressure vessel"/>
+    <Elem Prompt="反应器 1" Name="反应器 1" PromptU="Reactor 1" NameU="Reactor 1"/>
+    <Elem Prompt="反应器 2" Name="反应器 2" PromptU="Reactor 2" NameU="Reactor 2"/>
+    <Elem Prompt="反应器 3" Name="反应器 3" PromptU="Reactor 3" NameU="Reactor 3"/>
+    <Elem Prompt="反应器 4" Name="反应器 4" PromptU="Reactor 4" NameU="Reactor 4"/>
+    <Elem Prompt="反应器 tank" Name="反应器 tank" PromptU="Reactor tank" NameU="Reactor tank"/>
+    <Elem Prompt="带搅拌器的反应器" Name="带搅拌器的反应器" PromptU="Reactor with agitator" NameU="Reactor with agitator"/>
+    <Elem Prompt="带舱口和梯子的反应器" Name="带舱口和梯子的反应器" PromptU="Reactor with hatch and ladder" NameU="Reactor with hatch and ladder"/>
+    <Elem Prompt="带搅拌机的加强型储罐" Name="带搅拌机的加强型储罐" PromptU="Reinforced tank with mixer" NameU="Reinforced tank with mixer"/>
+    <Elem Prompt="有支脚的圆形反应堆" Name="有支脚的圆形反应堆" PromptU="Round reactor with legs" NameU="Round reactor with legs"/>
+    <Elem Prompt="有螺旋梯的筒仓" Name="有螺旋梯的筒仓" PromptU="Silo with spiral ladder" NameU="Silo with spiral ladder"/>
+    <Elem Prompt="有直梯的筒仓" Name="有直梯的筒仓" PromptU="Silo with straight ladder" NameU="Silo with straight ladder"/>
+    <Elem Prompt="简单处理罐" Name="简单处理罐" PromptU="Simple process tank" NameU="Simple process tank"/>
+    <Elem Prompt="简单反应器" Name="简单反应器" PromptU="Simple reactor" NameU="Simple reactor"/>
+    <Elem Prompt="简单储罐 1" Name="简单储罐 1" PromptU="Simple tank 1" NameU="Simple tank 1"/>
+    <Elem Prompt="简单储罐 2" Name="简单储罐 2" PromptU="Simple tank 2" NameU="Simple tank 2"/>
+    <Elem Prompt="简单储罐 3" Name="简单储罐 3" PromptU="Simple tank 3" NameU="Simple tank 3"/>
+    <Elem Prompt="简单储罐 4" Name="简单储罐 4" PromptU="Simple tank 4" NameU="Simple tank 4"/>
+    <Elem Prompt="简单储罐 5" Name="简单储罐 5" PromptU="Simple tank 5" NameU="Simple tank 5"/>
+    <Elem Prompt="简单储罐系统" Name="简单储罐系统" PromptU="Simple tank system" NameU="Simple tank system"/>
+    <Elem Prompt="光滑筒仓" Name="光滑筒仓" PromptU="Smooth silo" NameU="Smooth silo"/>
+    <Elem Prompt="球形储罐" Name="球形储罐" PromptU="Spherical tank" NameU="Spherical tank"/>
+    <Elem Prompt="有铆钉的球形储罐" Name="有铆钉的球形储罐" PromptU="Spherical tank with rivets" NameU="Spherical tank with rivets"/>
+    <Elem Prompt="稳定罐" Name="稳定罐" PromptU="Stabilization tank" NameU="Stabilization tank"/>
+    <Elem Prompt="不锈钢柱形储罐" Name="不锈钢柱形储罐" PromptU="Stainless steel cylinder" NameU="Stainless steel cylinder"/>
+    <Elem Prompt="存储设备 1" Name="存储设备 1" PromptU="Storage facility 1" NameU="Storage facility 1"/>
+    <Elem Prompt="存储设备 2" Name="存储设备 2" PromptU="Storage facility 2" NameU="Storage facility 2"/>
+    <Elem Prompt="存储设备 3" Name="存储设备 3" PromptU="Storage facility 3" NameU="Storage facility 3"/>
+    <Elem Prompt="存储设备 4" Name="存储设备 4" PromptU="Storage facility 4" NameU="Storage facility 4"/>
+    <Elem Prompt="带梯子的储罐" Name="带梯子的储罐" PromptU="Storage tank with ladder" NameU="Storage tank with ladder"/>
+    <Elem Prompt="储罐" Name="储罐" PromptU="Storage tank" NameU="Storage tank"/>
+    <Elem Prompt="储罐 1" Name="储罐 1" PromptU="Tank 1" NameU="Tank 1"/>
+    <Elem Prompt="储罐 2" Name="储罐 2" PromptU="Tank 2" NameU="Tank 2"/>
+    <Elem Prompt="储罐 3" Name="储罐 3" PromptU="Tank 3" NameU="Tank 3"/>
+    <Elem Prompt="储罐 4" Name="储罐 4" PromptU="Tank 4" NameU="Tank 4"/>
+    <Elem Prompt="储罐 5" Name="储罐 5" PromptU="Tank 5" NameU="Tank 5"/>
+    <Elem Prompt="储罐 6" Name="储罐 6" PromptU="Tank 6" NameU="Tank 6"/>
+    <Elem Prompt="储罐 7" Name="储罐 7" PromptU="Tank 7" NameU="Tank 7"/>
+    <Elem Prompt="储罐 8" Name="储罐 8" PromptU="Tank 8" NameU="Tank 8"/>
+    <Elem Prompt="储罐 9" Name="储罐 9" PromptU="Tank 9" NameU="Tank 9"/>
+    <Elem Prompt="储罐 10" Name="储罐 10" PromptU="Tank 10" NameU="Tank 10"/>
+    <Elem Prompt="储罐 11" Name="储罐 11" PromptU="Tank 11" NameU="Tank 11"/>
+    <Elem Prompt="储罐 12" Name="储罐 12" PromptU="Tank 12" NameU="Tank 12"/>
+    <Elem Prompt="储罐 13" Name="储罐 13" PromptU="Tank 13" NameU="Tank 13"/>
+    <Elem Prompt="储罐 14" Name="储罐 14" PromptU="Tank 14" NameU="Tank 14"/>
+    <Elem Prompt="储罐 15" Name="储罐 15" PromptU="Tank 15" NameU="Tank 15"/>
+    <Elem Prompt="储罐 16" Name="储罐 16" PromptU="Tank 16" NameU="Tank 16"/>
+    <Elem Prompt="配量池" Name="配量池" PromptU="Dosing Tank" NameU="Dosing Tank"/>
+    <Elem Prompt="储罐群" Name="储罐群" PromptU="Tank bank" NameU="Tank bank"/>
+    <Elem Prompt="储罐支架 1" Name="储罐支架 1" PromptU="Tank support 1" NameU="Tank support 1"/>
+    <Elem Prompt="储罐支架 2" Name="储罐支架 2" PromptU="Tank support 2" NameU="Tank support 2"/>
+    <Elem Prompt="剖面储罐" Name="剖面储罐 with cutaway" PromptU="Tank with cutaway" NameU="Tank with cutaway"/>
+    <Elem Prompt="有舱口的储蓄" Name="有舱口的储蓄" PromptU="Tank with hatch" NameU="Tank with hatch"/>
+    <Elem Prompt="带铆钉的储罐" Name="带铆钉的储罐" PromptU="Tank with rivets" NameU="Tank with rivets"/>
+    <Elem Prompt="带铆钉和梯子的储罐" Name="带铆钉和梯子的储罐" PromptU="Tank with rivets and ladder" NameU="Tank with rivets and ladder"/>
+    <Elem Prompt="地下储罐" Name="地下储罐" PromptU="Underground storage tank" NameU="Underground storage tank"/>
+    <Elem Prompt="十分光滑的储蓄罐" Name="十分光滑的储蓄罐" PromptU="Very smooth tank" NameU="Very smooth tank"/>
+    <Elem Prompt="家用热水储罐" Name="家用热水储罐" PromptU="Domestic hot water storage tank" NameU="Domestic hot water storage tank"/>
+    <Elem Prompt="消化反应池" Name="消化反应池" PromptU="Digestion Reaction Tank" NameU="Digestion Reaction Tank"/>
+    <Elem Prompt="乙醇存储" Name="乙醇存储" PromptU="Ethanol storage" NameU="Ethanol storage"/>
+    <Elem Prompt="暂存罐" Name="暂存罐" PromptU="Temporary storage tank" NameU="Temporary storage tank"/>
+    <Elem Prompt="原水箱" Name="原水箱" PromptU="The original water tank" NameU="The original water tank"/>
+    <Elem Prompt="保温罐" Name="保温罐" PromptU="Insulation cans" NameU="Insulation cans"/>
+    <Elem Prompt="产品" Name="产品" PromptU="Product" NameU="Product"/>
+</Lib>

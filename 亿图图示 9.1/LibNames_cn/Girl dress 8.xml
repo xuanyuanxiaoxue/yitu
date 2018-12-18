@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Girl Dress 8">
+    <Elem Prompt="女士服装 8-1" Name="女士服装 8-1" PromptU="Dress 8-1" NameU="Dress 8-1"/>
+    <Elem Prompt="女士服装 8-2" Name="女士服装 8-2" PromptU="Dress 8-2" NameU="Dress 8-2"/>
+    <Elem Prompt="女士服装 8-3" Name="女士服装 8-3" PromptU="Dress 8-3" NameU="Dress 8-3"/>
+    <Elem Prompt="女士服装 8-4" Name="女士服装 8-4" PromptU="Dress 8-4" NameU="Dress 8-4"/>
+    <Elem Prompt="女士服装 8-5" Name="女士服装 8-5" PromptU="Dress 8-5" NameU="Dress 8-5"/>
+    <Elem Prompt="女士服装 8-6" Name="女士服装 8-6" PromptU="Dress 8-6" NameU="Dress 8-6"/>
+    <Elem Prompt="女士服装 8-7" Name="女士服装 8-7" PromptU="Dress 8-7" NameU="Dress 8-7"/>
+    <Elem Prompt="女士服装 8-8" Name="女士服装 8-8" PromptU="Dress 8-8" NameU="Dress 8-8"/>
+    <Elem Prompt="女士服装 8-9" Name="女士服装 8-9" PromptU="Dress 8-9" NameU="Dress 8-9"/>
+</Lib>

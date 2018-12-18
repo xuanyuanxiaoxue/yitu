@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Plumbing">
+    <Elem Prompt="热水器" Name="热水器" PromptU="Boiler" NameU="Boiler"/>
+    <Elem Prompt="热水器 2" Name="热水器 2" PromptU="Boiler 2" NameU="Boiler 2"/>
+    <Elem Prompt="热交换" Name="热交换" PromptU="Heat exchanges" NameU="Heat exchanges"/>
+    <Elem Prompt="加热/冷却线圈" Name="加热/冷却线圈" PromptU="Heating / cooling coil" NameU="Heating / cooling coil"/>
+    <Elem Prompt="泵" Name="泵" PromptU="Pump" NameU="Pump"/>
+    <Elem Prompt="泵 2" Name="泵 2" PromptU="Pump 2" NameU="Pump 2"/>
+    <Elem Prompt="加热器 /  冷却器" Name="加热器 /  冷却器" PromptU="Heater /  cooler" NameU="Heater /  cooler"/>
+    <Elem Prompt="加热器 /  冷却器 水平" Name="加热器 /  冷却器 水平" PromptU="Heater / cooler horizontal" NameU="Heater / cooler horizontal"/>
+    <Elem Prompt="散热器" Name="散热器" PromptU="Radiator" NameU="Radiator"/>
+    <Elem Prompt="换流器" Name="换流器" PromptU="Convector" NameU="Convector"/>
+    <Elem Prompt="辐射板" Name="辐射板" PromptU="Radiant panel" NameU="Radiant panel"/>
+    <Elem Prompt="辐射板 2" Name="辐射板 2" PromptU="Radiant panel 2" NameU="Radiant panel 2"/>
+    <Elem Prompt="开式水箱" Name="开式水箱" PromptU="Open tank" NameU="Open tank"/>
+    <Elem Prompt="闭式水箱" Name="闭式水箱" PromptU="Closed tank" NameU="Closed tank"/>
+    <Elem Prompt="水面" Name="水面" PromptU="Water surface" NameU="Water surface"/>
+    <Elem Prompt="盘管" Name="盘管" PromptU="Pipe coils" NameU="Pipe coils"/>
+    <Elem Prompt="水槽" Name="水槽" PromptU="Sink" NameU="Sink"/>
+    <Elem Prompt="水池" Name="水池" PromptU="Basin" NameU="Basin"/>
+    <Elem Prompt="马桶" Name="马桶" PromptU="Toilet" NameU="Toilet"/>
+    <Elem Prompt="浴缸" Name="浴缸" PromptU="Bath" NameU="Bath"/>
+    <Elem Prompt="水池 （侧面）" Name="水池 （侧面）" PromptU="Basin (side)" NameU="Basin (side)"/>
+    <Elem Prompt="马桶（侧面）" Name="马桶（侧面）" PromptU="Toilet (side)" NameU="Toilet (side)"/>
+    <Elem Prompt="浴缸（侧面）" Name="浴缸（侧面）" PromptU="Bath (side)" NameU="Bath (side)"/>
+    <Elem Prompt="侧视图" Name="侧视图" PromptU="End view" NameU="End view"/>
+    <Elem Prompt="喷头" Name="喷头" PromptU="Shower head" NameU="Shower head"/>
+    <Elem Prompt="毛巾杆" Name="毛巾杆" PromptU="Towel rail" NameU="Towel rail"/>
+</Lib>

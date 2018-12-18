@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Jacobson Use Case">
+    <Elem Prompt="用户" Name="用户" PromptU="Actor" NameU="Actor"/>
+    <Elem Prompt="用例" Name="用例" PromptU="Use case" NameU="Use case"/>
+    <Elem Prompt="边界" Name="边界" PromptU="Boundary" NameU="Boundary"/>
+    <Elem Prompt="关系" Name="关系" PromptU="Relationship" NameU="Relationship"/>
+    <Elem Prompt="对象类型" Name="对象类型" PromptU="Object types" NameU="Object types"/>
+    <Elem Prompt="3维" Name="3维" PromptU="Dimensions" NameU="Dimensions"/>
+    <Elem Prompt="时间线" Name="时间线" PromptU="Time" NameU="Time"/>
+    <Elem Prompt="系统边界" Name="系统边界" PromptU="System border" NameU="System border"/>
+    <Elem Prompt="操作" Name="操作" PromptU="Operation" NameU="Operation"/>
+    <Elem Prompt="回调" Name="回调" PromptU="Callback" NameU="Callback"/>
+    <Elem Prompt="消息" Name="消息" PromptU="Message carrier" NameU="Message carrier"/>
+    <Elem Prompt="块" Name="块" PromptU="Block" NameU="Block"/>
+    <Elem Prompt="开始符号" Name="开始符号" PromptU="Start symbol" NameU="Start symbol"/>
+    <Elem Prompt="状态" Name="状态" PromptU="State" NameU="State"/>
+    <Elem Prompt="消息" Name="消息" PromptU="Message" NameU="Message"/>
+    <Elem Prompt="信号" Name="信号" PromptU="Signal" NameU="Signal"/>
+    <Elem Prompt="任务" Name="任务" PromptU="Task" NameU="Task"/>
+    <Elem Prompt="判定" Name="判定" PromptU="Decision" NameU="Decision"/>
+    <Elem Prompt="销毁对象" Name="销毁对象" PromptU="Destroy object" NameU="Destroy object"/>
+    <Elem Prompt="标签" Name="标签" PromptU="Label" NameU="Label"/>
+</Lib>

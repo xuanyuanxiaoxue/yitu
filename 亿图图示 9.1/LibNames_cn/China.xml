@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="China">
+    <Elem Prompt="安徽" Name="安徽" PromptU="Anhui" NameU="Anhui"/>
+    <Elem Prompt="北京" Name="北京" PromptU="Beijing" NameU="Beijing"/>
+    <Elem Prompt="重庆" Name="重庆" PromptU="Chongqing" NameU="Chongqing"/>
+    <Elem Prompt="福建" Name="福建" PromptU="Fujian" NameU="Fujian"/>
+    <Elem Prompt="甘肃" Name="甘肃" PromptU="Gansu" NameU="Gansu"/>
+    <Elem Prompt="广东" Name="广东" PromptU="Guangdong" NameU="Guangdong"/>
+    <Elem Prompt="广西" Name="广西" PromptU="Guangxi" NameU="Guangxi"/>
+    <Elem Prompt="贵州" Name="贵州" PromptU="Guizhou" NameU="Guizhou"/>
+    <Elem Prompt="海南" Name="海南" PromptU="Hainan" NameU="Hainan"/>
+    <Elem Prompt="河北" Name="河北" PromptU="Hebei" NameU="Hebei"/>
+    <Elem Prompt="黑龙江" Name="黑龙江" PromptU="Heilongjiang" NameU="Heilongjiang"/>
+    <Elem Prompt="河南" Name="河南" PromptU="Henan" NameU="Henan"/>
+    <Elem Prompt="湖北" Name="湖北" PromptU="Hubei" NameU="Hubei"/>
+    <Elem Prompt="湖南" Name="湖南" PromptU="Hunan" NameU="Hunan"/>
+    <Elem Prompt="江苏" Name="江苏" PromptU="Jiangsu" NameU="Jiangsu"/>
+    <Elem Prompt="江西" Name="江西" PromptU="Jiangxi" NameU="Jiangxi"/>
+    <Elem Prompt="吉林" Name="吉林" PromptU="Jilin" NameU="Jilin"/>
+    <Elem Prompt="辽宁" Name="辽宁" PromptU="Liaoning" NameU="Liaoning"/>
+    <Elem Prompt="内蒙古" Name="内蒙古" PromptU="Neimenggu" NameU="Neimenggu"/>
+    <Elem Prompt="宁夏" Name="宁夏" PromptU="Ningxia" NameU="Ningxia"/>
+    <Elem Prompt="青海" Name="青海" PromptU="Qinghai" NameU="Qinghai"/>
+    <Elem Prompt="山西" Name="山西" PromptU="Shanxi" NameU="Shanxi"/>
+    <Elem Prompt="山东" Name="山东" PromptU="Shandong" NameU="Shandong"/>
+    <Elem Prompt="陕西" Name="陕西" PromptU="Shaanxi" NameU="Shaanxi"/>
+    <Elem Prompt="四川" Name="四川" PromptU="Sichuan" NameU="Sichuan"/>
+    <Elem Prompt="台湾" Name="台湾" PromptU="Taiwan" NameU="Taiwan"/>
+    <Elem Prompt="天津" Name="天津" PromptU="Tianjin" NameU="Tianjin"/>
+    <Elem Prompt="香港" Name="香港" PromptU="Hong Kong" NameU="Hong Kong"/>
+    <Elem Prompt="新疆" Name="新疆" PromptU="Xinjiang" NameU="Xinjiang"/>
+    <Elem Prompt="西藏" Name="西藏" PromptU="Tibet" NameU="Tibet"/>
+    <Elem Prompt="云南" Name="云南" PromptU="Yunnan" NameU="Yunnan"/>
+    <Elem Prompt="浙江" Name="浙江" PromptU="Zhejiang" NameU="Zhejiang"/>
+    <Elem Prompt="中国地图" Name="中国地图" PromptU="Chinese Map" NameU="Chinese Map"/>
+</Lib>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="EPC Diagram Shapes">
+    <Elem Prompt="事件" Name="事件" PromptU="Event" NameU="Event"/>
+    <Elem Prompt="职能" Name="职能" PromptU="Function" NameU="Function"/>
+    <Elem Prompt="进程路径" Name="进程路径" PromptU="Process path" NameU="Process Path"/>
+    <Elem Prompt="异或" Name="异或" PromptU="XOR" NameU="XOR"/>
+    <Elem Prompt="或" Name="或" PromptU="OR" NameU="OR"/>
+    <Elem Prompt="与" Name="与" PromptU="AND" NameU="AND"/>
+    <Elem Prompt="连接" Name="连接" PromptU="Joint" NameU="Joint"/>
+    <Elem Prompt="Yes/No" Name="Yes/No" PromptU="Yes/No" NameU="Yes/No"/>
+    <Elem Prompt="组织单元" Name="组织单元" PromptU="Organizational unit" NameU="Organizational Unit"/>
+    <Elem Prompt="信息/材料" Name="信息/材料" PromptU="Informational or material" NameU="Informational or Material"/>
+    <Elem Prompt="信息框" Name="信息框" PromptU="Information Box" NameU="Information Box"/>
+    <Elem Prompt="信息框" Name="信息框 2" PromptU="Information Box" NameU="Information Box 2"/>
+    <Elem Prompt="Main Process" Name="主进程" PromptU="Main Process" NameU="Main Process"/>
+    <Elem Prompt="组件" Name="组件" PromptU="Component" NameU="Component"/>
+    <Elem Prompt="企业区域" Name="企业区域" PromptU="Enterprise area" NameU="Enterprise Area"/>
+    <Elem Prompt="进程组" Name="进程组" PromptU="Process group" NameU="Process Group"/>
+    <Elem Prompt="文档" Name="文档" PromptU="Document" NameU="Document"/>
+    <Elem Prompt="数据库" Name="数据库" PromptU="Database" NameU="Database"/>
+    <Elem Prompt="直线连接线" Name="直线连接线" PromptU="Line Connector" NameU="Line Connector"/>
+    <Elem Prompt="曲线连接线" Name="曲线连接线" PromptU="Curve Connector" NameU="Curve Connector"/>
+    <Elem Prompt="动态连接线" Name="动态连接线" PromptU="Dynamic connector" NameU="Dynamic Connector"/>
+</Lib>

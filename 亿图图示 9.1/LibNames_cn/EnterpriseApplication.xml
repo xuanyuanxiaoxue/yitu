@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Enterprise Application">
+    <Elem Prompt="服务器" Name="服务器" PromptU="Server" NameU="Server"/>
+    <Elem Prompt="主机" Name="主机" PromptU="Mainframe" NameU="Mainframe"/>
+    <Elem Prompt="工作站" Name="工作站" PromptU="Workstation" NameU="Workstation"/>
+    <Elem Prompt="多个服务器" Name="多个服务器" PromptU="Servers" NameU="Servers"/>
+    <Elem Prompt="主机群" Name="主机群" PromptU="Mainframes" NameU="Mainframes"/>
+    <Elem Prompt="多个工作站" Name="多个工作站" PromptU="Workstations" NameU="Workstations"/>
+    <Elem Prompt="备件" Name="备件" PromptU="Spare" NameU="Spare"/>
+    <Elem Prompt="便携电脑" Name="便携电脑" PromptU="Laptop" NameU="Laptop"/>
+    <Elem Prompt="多台便携电脑" Name="多台便携电脑" PromptU="Laptops" NameU="Laptops"/>
+    <Elem Prompt="边界" Name="边界" PromptU="Boundary" NameU="Boundary"/>
+    <Elem Prompt="数据存储" Name="数据存储" PromptU="Datastore" NameU="Datastore"/>
+    <Elem Prompt="对象" Name="对象" PromptU="Object" NameU="Object"/>
+    <Elem Prompt="进程" Name="进程" PromptU="Process" NameU="Process"/>
+    <Elem Prompt="标签" Name="标签" PromptU="Label" NameU="Label"/>
+    <Elem Prompt="用户" Name="用户" PromptU="User" NameU="User"/>
+    <Elem Prompt="文档" Name="文档" PromptU="Document" NameU="Document"/>
+    <Elem Prompt="组件" Name="组件" PromptU="Component" NameU="Component"/>
+    <Elem Prompt="接口" Name="接口" PromptU="Interface" NameU="Interface"/>
+</Lib>

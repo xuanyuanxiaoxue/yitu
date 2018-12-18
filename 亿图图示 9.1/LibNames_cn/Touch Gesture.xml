@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Touch Gesture">
+    <Elem Prompt="单击" Name="单击" PromptU="Tap" NameU="Tap"/>
+    <Elem Prompt="双击" Name="双击" PromptU="Double tap" NameU="Double tap"/>
+    <Elem Prompt="轻拍两次" Name="轻拍两次" PromptU="Double tap with three fingers" NameU="Double tap with three fingers"/>
+    <Elem Prompt="长按" Name="长按" PromptU="Press and hold" NameU="Press and hold"/>
+    <Elem Prompt="刷新" Name="刷新" PromptU="Refresh" NameU="Refresh"/>
+    <Elem Prompt="单指向上滑动" Name="单指向上滑动" PromptU="One finger swipe up" NameU="One finger swipe up"/>
+    <Elem Prompt="单指向下滑动" Name="单指向下滑动" PromptU="One finger swipe down" NameU="One finger swipe down"/>
+    <Elem Prompt="双指向上滑动" Name="双指向上滑动" PromptU="Two-finger swipe up" NameU="Two-finger swipe up"/>
+    <Elem Prompt="双指向上滑动2" Name="双指向上滑动2" PromptU="Two-finger swipe up 2" NameU="Two-finger swipe up 2"/>
+    <Elem Prompt="双指向下滑动" Name="双指向下滑动" PromptU="Two-finger swipe down" NameU="Two-finger swipe down"/>
+    <Elem Prompt="三指向上滑动" Name="三指向上滑动" PromptU="Three-finger swipe up" NameU="Three-finger swipe up"/>
+    <Elem Prompt="三指向下滑动" Name="三指向下滑动" PromptU="Three-finger swipe down" NameU="Three-finger swipe down"/>
+    <Elem Prompt="四指聚拢" Name="四指聚拢" PromptU="Four-finger pinch" NameU="Four-finger pinch"/>
+    <Elem Prompt="五指聚拢" Name="五指聚拢" PromptU="Five-finger pinch" NameU="Five-finger pinch"/>
+    <Elem Prompt="拖拽页面" Name="拖拽页面" PromptU="Drag and drop page" NameU="Drag and drop page"/>
+    <Elem Prompt="缩小" Name="缩小" PromptU="Zoom out" NameU="Zoom out"/>
+    <Elem Prompt="扩大" Name="放大" PromptU="Zoom in" NameU="Zoom in"/>
+    <Elem Prompt="切换到上一标签" Name="切换到上一标签" PromptU="Switch to the previous tab" NameU="Switch to the previous tab"/>
+    <Elem Prompt="切换到下一标签" Name="切换到下一标签" PromptU="Switch to the next tab" NameU="Switch to the next tab"/>
+    <Elem Prompt="双指聚拢" Name="双指聚拢" PromptU="Two-finger pinch" NameU="Two-finger pinch"/>
+    <Elem Prompt="双指滑动" Name="双指滑动" PromptU="Two-finger swipe" NameU="Two-finger swipe"/>
+    <Elem Prompt="指向" Name="指向" PromptU="Point" NameU="Point"/>
+    <Elem Prompt="指向2" Name="指向2" PromptU="Point2" NameU="Point2"/>
+    <Elem Prompt="指向3" Name="指向3" PromptU="Point3" NameU="Point3"/>
+    <Elem Prompt="指向4" Name="指向4" PromptU="Point4" NameU="Point4"/>
+    <Elem Prompt="双指聚拢2" Name="双指聚拢2" PromptU="Two-finger pinch 2" NameU="Two-finger pinch 2"/>
+    <Elem Prompt="夹住" Name="夹住" PromptU="Carry with two fingers" NameU="Carry with two fingers"/>
+    <Elem Prompt="箭头" Name="箭头" PromptU="Arrow" NameU="Arrow"/>
+    <Elem Prompt="箭头2" Name="箭头2" PromptU="Arrow2" NameU="Arrow2"/>
+    <Elem Prompt="箭头3" Name="箭头3" PromptU="Arrow3" NameU="Arrow3"/>
+</Lib>

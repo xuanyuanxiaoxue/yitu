@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Bathroom">
+    <Elem Prompt="水槽" Name="水槽" PromptU="Sink" NameU="Sink"/>
+    <Elem Prompt="水槽 2" Name="水槽 2" PromptU="Sink 2" NameU="Sink 2"/>
+    <Elem Prompt="水槽 3" Name="水槽 3" PromptU="Sink 3" NameU="Sink 3"/>
+    <Elem Prompt="水槽 4" Name="水槽 4" PromptU="Sink 4" NameU="Sink 4"/>
+    <Elem Prompt="水槽 5" Name="水槽 5" PromptU="Sink 5" NameU="Sink 5"/>
+    <Elem Prompt="水槽 6" Name="水槽 6" PromptU="Sink 6" NameU="Sink 6"/>
+    <Elem Prompt="水槽 7" Name="水槽 7" PromptU="Sink 7" NameU="Sink 7"/>
+    <Elem Prompt="水槽 8" Name="水槽 8" PromptU="Sink 8" NameU="Sink 8"/>
+    <Elem Prompt="水槽 9" Name="水槽 9" PromptU="Sink 9" NameU="Sink 9"/>
+    <Elem Prompt="水槽 10" Name="水槽 10" PromptU="Sink 10" NameU="Sink 10"/>
+    <Elem Prompt="水槽 11" Name="水槽 11" PromptU="Sink 11" NameU="Sink 11"/>
+    <Elem Prompt="水槽 12" Name="水槽 12" PromptU="Sink 12" NameU="Sink 12"/>
+    <Elem Prompt="台面水槽" Name="台面水槽" PromptU="Countertop sink" NameU="Countertop sink"/>
+    <Elem Prompt="立柱水槽" Name="立柱水槽" PromptU="Pedestal sink" NameU="Pedestal sink"/>
+    <Elem Prompt="马桶 1" Name="马桶 1" PromptU="Toilet 1" NameU="Toilet 1"/>
+    <Elem Prompt="马桶 2" Name="马桶 2" PromptU="Toilet 2" NameU="Toilet 2"/>
+    <Elem Prompt="马桶 3" Name="马桶 3" PromptU="Toilet 3" NameU="Toilet 3"/>
+    <Elem Prompt="马桶 4" Name="马桶 4" PromptU="Toilet 4" NameU="Toilet 4"/>
+    <Elem Prompt="马桶 5" Name="马桶 5" PromptU="Toilet 5" NameU="Toilet 5"/>
+    <Elem Prompt="坐浴盆" Name="坐浴盆" PromptU="Bidet" NameU="Bidet"/>
+    <Elem Prompt="蹲厕" Name="蹲厕" PromptU="Squat wc" NameU="Squat wc"/>
+    <Elem Prompt="浴室" Name="浴室" PromptU="Shower" NameU="Shower"/>
+    <Elem Prompt="角落淋浴" Name="角落淋浴" PromptU="Corner shower" NameU="Corner shower"/>
+    <Elem Prompt="墙角浴室" Name="墙角浴室" PromptU="Corner bath" NameU="Corner bath"/>
+    <Elem Prompt="浴室" Name="浴室" PromptU="Bathroom" NameU="Bathroom"/>
+    <Elem Prompt="浴缸 1" Name="浴缸 1" PromptU="Bathtub 1" NameU="Bathtub 1"/>
+    <Elem Prompt="浴缸 2" Name="浴缸 2" PromptU="Bathtub 2" NameU="Bathtub 2"/>
+    <Elem Prompt="浴缸 3" Name="浴缸 3" PromptU="Bathtub 3" NameU="Bathtub 3"/>
+    <Elem Prompt="浴缸 4" Name="浴缸 4" PromptU="Bathtub 4" NameU="Bathtub 4"/>
+    <Elem Prompt="浴缸 5" Name="浴缸 5" PromptU="Bathtub 5" NameU="Bathtub 5"/>
+    <Elem Prompt="浴缸 6" Name="浴缸 6" PromptU="Bathtub 6" NameU="Bathtub 6"/>
+    <Elem Prompt="浴缸 7" Name="浴缸 7" PromptU="Bathtub 7" NameU="Bathtub 7"/>
+    <Elem Prompt="浴缸 8" Name="浴缸 8" PromptU="Bathtub 8" NameU="Bathtub 8"/>
+    <Elem Prompt="浴缸 8" Name="浴缸 8" PromptU="Bathtub 8" NameU="Bathtub 8"/>
+    <Elem Prompt="地漏" Name="地漏" PromptU="Shower Drain" NameU="Shower Drain"/>
+    <Elem Prompt="水龙头 1" Name="水龙头 1" PromptU="Water Tap 1" NameU="Water Tap 1"/>
+    <Elem Prompt="水龙头 2" Name="水龙头 2" PromptU="Water Tap 2" NameU="Water Tap 2"/>
+    <Elem Prompt="水龙头 3" Name="水龙头 3" PromptU="Water Tap 3" NameU="Water Tap 3"/>
+    <Elem Prompt="水龙头 4" Name="水龙头 4" PromptU="Water Tap 4" NameU="Water Tap 4"/>
+    <Elem Prompt="水龙头 5" Name="水龙头 5" PromptU="Water Tap 5" NameU="Water Tap 5"/>
+    <Elem Prompt="垃圾桶" Name="垃圾桶" PromptU="Dustbin" NameU="Dustbin"/>
+    <Elem Prompt="卫生纸" Name="卫生纸" PromptU="Toilet Paper" NameU="Toilet Paper"/>
+    <Elem Prompt="毛巾架" Name="毛巾架" PromptU="Towel Rack" NameU="Towel Rack"/>
+    <Elem Prompt="毛巾架 2" Name="毛巾架 2" PromptU="Towel Rack 2" NameU="Towel Rack 2"/>
+    <Elem Prompt="灯 1" Name="灯 1" PromptU="Light 1" NameU="Light 1"/>
+    <Elem Prompt="灯 2" Name="灯 2" PromptU="Light 2" NameU="Light 2"/>
+    <Elem Prompt="灯 3" Name="灯 3" PromptU="Light 3" NameU="Light 3"/>
+    <Elem Prompt="灯 4" Name="灯 4" PromptU="Light 4" NameU="Light 4"/>
+    <Elem Prompt="浴室灯 1" Name="浴室灯 1" PromptU="Shower Lamp 1" NameU="Shower Lamp 1"/>
+    <Elem Prompt="浴室灯 2" Name="浴室灯 2" PromptU="Shower Lamp 2" NameU="Shower Lamp 2"/>
+    <Elem Prompt="浴室灯 3" Name="浴室灯 3" PromptU="Shower Lamp 3" NameU="Shower Lamp 3"/>
+    <Elem Prompt="浴室灯 4" Name="浴室灯 4" PromptU="Shower Lamp 4" NameU="Shower Lamp 4"/>
+    <Elem Prompt="浴室灯 5" Name="浴室灯 5" PromptU="Shower Lamp 5" NameU="Shower Lamp 5"/>
+    <Elem Prompt="浴室灯 6" Name="浴室灯 6" PromptU="Shower Lamp 6" NameU="Shower Lamp 6"/>
+</Lib>

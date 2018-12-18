@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="3D Network Diagram Shapes">
+    <Elem Prompt="倾斜连接线" Name="倾斜连接线" PromptU="Oblique connector" NameU="Oblique connector"/>
+    <Elem Prompt="倾斜连接线 2" Name="倾斜连接线 2" PromptU="Oblique connector 2" NameU="Oblique connector 2"/>
+    <Elem Prompt="动态连接线" Name="动态连接线" PromptU="Flexi connector" NameU="Flexi connector"/>
+    <Elem Prompt="直线连接线" Name="直线连接线" PromptU="Line connector" NameU="Line connector"/>
+    <Elem Prompt="1U 服务器" Name="1U 服务器" PromptU="1U Server" NameU="1U Server"/>
+    <Elem Prompt="1U服务器堆" Name="1U服务器堆" PromptU="2U Server Stack" NameU="1U Server Stack"/>
+    <Elem Prompt="2U 服务器" Name="2U 服务器" PromptU="2U Server" NameU="2U Server"/>
+    <Elem Prompt="1U服务器堆" Name="2U 堆叠服务器" PromptU="2U Server Stack" NameU="2U Server Stack"/>
+    <Elem Prompt="交换机" Name="交换机" PromptU="Switch" NameU="Switch"/>
+    <Elem Prompt="交换机组" Name="交换机组" PromptU="Switch Pool" NameU="Switch Pool"/>
+    <Elem Prompt="调制解调器组" Name="调制解调器组" PromptU="Modem Pool" NameU="Modem Pool"/>
+    <Elem Prompt="终端服务器" Name="终端服务器" PromptU="Terminal Server" NameU="Terminal Server"/>
+    <Elem Prompt="PC" Name="PC" PromptU="PC" NameU="PC"/>
+    <Elem Prompt="PC 2" Name="PC 2" PromptU="PC 2" NameU="PC 2"/>
+    <Elem Prompt="笔记本电脑" Name="笔记本电脑" PromptU="Laptop" NameU="Laptop"/>
+    <Elem Prompt="服务器" Name="服务器" PromptU="Server" NameU="Server"/>
+    <Elem Prompt="服务器" Name="服务器 2" PromptU="Server" NameU="Server 2"/>
+    <Elem Prompt="计算机房" Name="计算机房" PromptU="Computer Lab" NameU="Computer Lab"/>
+    <Elem Prompt="计算机房 2" Name="计算机房 2" PromptU="Computer Lab 2" NameU="Computer Lab 2"/>
+    <Elem Prompt="交换机符号" Name="交换机符号" PromptU="Switch Symbol" NameU="Switch Symbol"/>
+    <Elem Prompt="ISDN 交换机" Name="ISDN 交换机" PromptU="ISDN Switch" NameU="ISDN Switch"/>
+    <Elem Prompt="路由器" Name="路由器" PromptU="Router" NameU="Router"/>
+    <Elem Prompt="CDDI-FDDI 集中器" Name="CDDI-FDDI 集中器" PromptU="CDDI-FDDI concentrator" NameU="CDDI-FDDI concentrator"/>
+    <Elem Prompt="网桥" Name="网桥" PromptU="Bridge" NameU="Bridge"/>
+    <Elem Prompt="集线器" Name="集线器" PromptU="Hub" NameU="Hub"/>
+    <Elem Prompt="网关" Name="网关" PromptU="Gateway" NameU="Gateway"/>
+    <Elem Prompt="WAN" Name="WAN" PromptU="WAN" NameU="WAN"/>
+    <Elem Prompt="主机" Name="主机" PromptU="Host" NameU="Host"/>
+    <Elem Prompt="服务器 2" Name="服务器 2" PromptU="Server 2" NameU="Server 2"/>
+    <Elem Prompt="办公室" Name="办公室" PromptU="Office" NameU="Office"/>
+    <Elem Prompt="办公室" Name="办公室" PromptU="Office" NameU="Office"/>
+    <Elem Prompt="办公室" Name="办公室" PromptU="Office" NameU="Office"/>
+    <Elem Prompt="防火墙" Name="防火墙" PromptU="Firewall" NameU="Firewall"/>
+    <Elem Prompt="防火墙" Name="防火墙" PromptU="Firewall" NameU="Firewall"/>
+    <Elem Prompt="环" Name="环" PromptU="Ring" NameU="Ring"/>
+    <Elem Prompt="因特网" Name="因特网" PromptU="Internet" NameU="Internet"/>
+    <Elem Prompt="因特网云图" Name="因特网云图" PromptU="Internet Cloud" NameU="Internet Cloud"/>
+    <Elem Prompt="因特网" Name="因特网" PromptU="Internet" NameU="Internet"/>
+    <Elem Prompt="因特网" Name="因特网" PromptU="Internet" NameU="Internet"/>
+    <Elem Prompt="黑客" Name="黑客" PromptU="Hacker" NameU="Hacker"/>
+    <Elem Prompt="无黑客" Name="无黑客" PromptU="No hackers" NameU="No hackers"/>
+    <Elem Prompt="网络安全体系" Name="网络安全体系" PromptU="Network security system" NameU="Network security system"/>
+    <Elem Prompt="路由器" Name="路由器" PromptU="Router" NameU="Router"/>
+    <Elem Prompt="路由器" Name="路由器" PromptU="Router" NameU="Router"/>
+    <Elem Prompt="网路规划" Name="网路规划" PromptU="Network Planning" NameU="Network Planning"/>
+    <Elem Prompt="曲线连接线" Name="曲线连接线" PromptU="Curved Connector" NameU="Curved Connector"/>
+    <Elem Prompt="令牌环" Name="令牌环" PromptU="Token Ring" NameU="Token Ring"/>
+    <Elem Prompt="箭头 1" Name="箭头 1" PromptU="Arrow 1" NameU="Arrow 1"/>
+    <Elem Prompt="箭头 2" Name="箭头 2" PromptU="Arrow 2" NameU="Arrow 2"/>
+    <Elem Prompt="箭头 3" Name="箭头 3" PromptU="Arrow 3" NameU="Arrow 3"/>
+    <Elem Prompt="箭头 4" Name="箭头 4" PromptU="Arrow 4" NameU="Arrow 4"/>
+    <Elem Prompt="中心向外拖拽圆 1" Name="中心向外拖拽圆" PromptU="Center drag circle" NameU="Center drag circle"/>
+    <Elem Prompt="中心向外拖拽圆 2" Name="中心向外拖拽圆 2" PromptU="Center drag circle 2" NameU="Center drag circle 2"/>
+</Lib>

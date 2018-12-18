@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Power">
+    <Elem Prompt="三相开关盒" Name="三相开关盒" PromptU="3-phase switching enclosure" NameU="3-phase switching enclosure"/>
+    <Elem Prompt="交流驱动" Name="交流驱动" PromptU="AC drive" NameU="AC drive"/>
+    <Elem Prompt="交流驱动" Name="交流驱动" PromptU="AC drive" NameU="AC drive"/>
+    <Elem Prompt="套管" Name="套管" PromptU="Bushing" NameU="Bushing"/>
+    <Elem Prompt="车用蓄电池" Name="车用蓄电池" PromptU="Car battery" NameU="Car battery"/>
+    <Elem Prompt="断路器" Name="断路器" PromptU="Circuit breaker" NameU="Circuit breaker"/>
+    <Elem Prompt="燃气轮机" Name="燃气轮机" PromptU="Combustion turbine" NameU="Combustion turbine"/>
+    <Elem Prompt="直流电源" Name="直流电源" PromptU="DC power supply" NameU="DC power supply"/>
+    <Elem Prompt="柴油支持UPS系统" Name="柴油支持UPS系统" PromptU="Diesel backed UPS system" NameU="Diesel backed UPS system"/>
+    <Elem Prompt="柴油发电机" Name="柴油发电机" PromptU="Diesel generator" NameU="Diesel generator"/>
+    <Elem Prompt="发电机" Name="发电机" PromptU="Generator" NameU="Generator"/>
+    <Elem Prompt="绝缘体" Name="绝缘体" PromptU="Insulator" NameU="Insulator"/>
+    <Elem Prompt="仪表" Name="仪表" PromptU="Meter gauge" NameU="Meter gauge"/>
+    <Elem Prompt="电子仪表" Name="电子仪表" PromptU="Meter" NameU="Meter"/>
+    <Elem Prompt="核电站" Name="核电站" PromptU="Nuclear power plant" NameU="Nuclear power plant"/>
+    <Elem Prompt="插座" Name="插座" PromptU="Socket" NameU="Socket"/>
+    <Elem Prompt="护具装置" Name="护具装置" PromptU="Pad-mounted gear" NameU="Pad-mounted gear"/>
+    <Elem Prompt="基座" Name="基座" PromptU="Pedestal" NameU="Pedestal"/>
+    <Elem Prompt="瓷绝缘体" Name="瓷绝缘体" PromptU="Porcelain insulator" NameU="Porcelain insulator"/>
+    <Elem Prompt="功率监控器" Name="功率监控器" PromptU="Power monitor" NameU="Power monitor"/>
+    <Elem Prompt="核反应堆" Name="核反应堆" PromptU="Nuclear reactors" NameU="Nuclear reactors"/>
+    <Elem Prompt="发电厂" Name="发电厂" PromptU="Power plant" NameU="Power plant"/>
+    <Elem Prompt="工业风力发电机 1" Name="工业风力发电机 1" PromptU="Industrial wind generators 1" NameU="Industrial wind generators 1"/>
+    <Elem Prompt="工业风力发电机 2" Name="工业风力发电机 2" PromptU="Industrial wind generators 2" NameU="Industrial wind generators 2"/>
+    <Elem Prompt="工业风力发电机 3" Name="工业风力发电机 3" PromptU="Industrial wind generators 3" NameU="Industrial wind generators 3"/>
+    <Elem Prompt="集中太阳能发电厂 1" Name="集中太阳能发电厂 1" PromptU="Concentrated Solar plants 1" NameU="Concentrated Solar plants 1"/>
+    <Elem Prompt="集中太阳能发电厂 2" Name="集中太阳能发电厂 2" PromptU="Concentrated Solar plants 2" NameU="Concentrated Solar plants 2"/>
+    <Elem Prompt="重合器" Name="重合器" PromptU="Recloser" NameU="Recloser"/>
+    <Elem Prompt="整流器 1" Name="整流器 1" PromptU="Rectifier 1" NameU="Rectifier 1"/>
+    <Elem Prompt="整流器 2" Name="整流器 2" PromptU="Rectifier 2" NameU="Rectifier 2"/>
+    <Elem Prompt="半导体控制整流器组装" Name="半导体控制整流器组装" PromptU="SCR assembly" NameU="SCR assembly"/>
+    <Elem Prompt="马达驱动" Name="马达驱动" PromptU="Simple motor drive" NameU="Simple motor drive"/>
+    <Elem Prompt="重合器 2" Name="重合器 2" PromptU="Simple recloser" NameU="Simple recloser"/>
+    <Elem Prompt="简易变电站" Name="简易变电站" PromptU="Simple substation" NameU="Simple substation"/>
+    <Elem Prompt="电源板" Name="电源板" PromptU="Simple power panel" NameU="Simple power panel"/>
+    <Elem Prompt="电缆分线箱" Name="电缆分线箱" PromptU="Splice box" NameU="Splice box"/>
+    <Elem Prompt="起动机" Name="起动机" PromptU="Starter" NameU="Starter"/>
+    <Elem Prompt="电涌放电器" Name="电涌放电器" PromptU="Surge arrestor" NameU="Surge arrestor"/>
+    <Elem Prompt="变压器" Name="变压器" PromptU="Transformer" NameU="Transformer"/>
+    <Elem Prompt="变压器组件t" Name="变压器组件" PromptU="Transformer component" NameU="Transformer component"/>
+    <Elem Prompt="变压器监控器" Name="变压器监控器" PromptU="Transformer monitor" NameU="Transformer monitor"/>
+    <Elem Prompt="输电塔" Name="输电塔" PromptU="Transmission tower" NameU="Transmission tower"/>
+    <Elem Prompt="不间断电源" Name="不间断电源" PromptU="Uninterruptable power supply" NameU="Uninterruptable power supply"/>
+    <Elem Prompt="电线杆 1" Name="电线杆 1" PromptU="Utility pole 1" NameU="Utility pole 1"/>
+    <Elem Prompt="电线杆 2" Name="电线杆 2" PromptU="Utility pole 2" NameU="Utility pole 2"/>
+    <Elem Prompt="电线杆 3" Name="电线杆 3" PromptU="Utility pole 3" NameU="Utility pole 3"/>
+    <Elem Prompt="电线杆 4" Name="电线杆 4" PromptU="Utility pole 4" NameU="Utility pole 4"/>
+    <Elem Prompt="电线杆 5" Name="电线杆 5" PromptU="Utility pole 5" NameU="Utility pole 5"/>
+    <Elem Prompt="带电线的电线杆" Name="带电线的电线杆" PromptU="Utility pole with cables" NameU="Utility pole with cables"/>
+    <Elem Prompt="双线电线杆" Name="双线电线杆" PromptU="Utility pole with two sets of cables" NameU="Utility pole with two sets of cables"/>
+    <Elem Prompt="真空开关" Name="真空开关" PromptU="Vacuum switch" NameU="Vacuum switch"/>
+    <Elem Prompt="Variable-speed drive" Name="变速传动" PromptU="Variable-speed drive" NameU="Variable-speed drive"/>
+    <Elem Prompt="沼气发电" Name="沼气发电" PromptU="Biogas power generation" NameU="Biogas power generation"/>
+    <Elem Prompt="供热机组" Name="供热机组" PromptU="Cogeneration Unit" NameU="Cogeneration Unit"/>
+    <Elem Prompt="发电机" Name="发电机" PromptU="Dynamo" NameU="Dynamo"/>
+    <Elem Prompt="测温变阻器" Name="测温变阻器" PromptU="Temperature Measurement Resistor" NameU="Temperature Measurement Resistor"/>
+    <Elem Prompt="电解器" Name="电解器" PromptU="Electrolyzer" NameU="Electrolyzer"/>
+    <Elem Prompt="控制系统" Name="控制系统" PromptU="Control system" NameU="Control system"/>
+</Lib>

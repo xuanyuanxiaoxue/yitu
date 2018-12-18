@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Money">
+    <Elem NameU="Cash 1" Name="现金1" PromptU="Cash 1" Prompt="现金1"/>
+    <Elem NameU="Cash 2" Name="现金 2" PromptU="Cash 2" Prompt="现金 2"/>
+    <Elem NameU="Money Box" Name="储钱罐" PromptU="Money Box" Prompt="储钱罐"/>
+    <Elem NameU="Wallet" Name="钱包" PromptU="Wallet" Prompt="钱包"/>
+    <Elem NameU="Money in the Safe" Name="钱在保险箱里" PromptU="Money in the Safe" Prompt="钱在保险箱里"/>
+    <Elem NameU="Money Bag 1" Name="钱袋1" PromptU="Money Bag 1" Prompt="钱袋1"/>
+    <Elem NameU="Money Bag 2" Name="钱袋 2" PromptU="Money Bag 2" Prompt="钱袋 2"/>
+    <Elem NameU="Gold Coin" Name="金币" PromptU="Gold Coin" Prompt="金币"/>
+    <Elem NameU="Dollar 1" Name="美金 1" PromptU="Dollar 1" Prompt="美金 1"/>
+    <Elem NameU="Dollar 2" Name="美金 2" PromptU="Dollar 2" Prompt="美金 2"/>
+    <Elem NameU="Pound Coin" Name="英镑硬币" PromptU="Pound Coin" Prompt="英镑硬币"/>
+    <Elem NameU="Euro Coin" Name="欧元硬币" PromptU="Euro Coin" Prompt="欧元硬币"/>
+    <Elem NameU="Dollar" Name="美金" PromptU="Dollar Flag" Prompt="美金符号"/>
+    <Elem NameU="Pound" Name="英镑" PromptU="Pound Flag" Prompt="英镑符号"/>
+    <Elem NameU="Euro" Name="欧元" PromptU="Euro Flag" Prompt="欧元符号"/>
+    <Elem NameU="Yuan" Name="人民币" PromptU="Yuan Flag" Prompt="人民币符号"/>
+    <Elem NameU="Yen" Name="日元" PromptU="Yen Flag" Prompt="日元符号"/>
+    <Elem NameU="Dollar Bag" Name="装美元的钱袋" PromptU="Dollar Bag" Prompt="装美元的钱袋"/>
+    <Elem NameU="Pound Bag" Name="装英镑的钱袋" PromptU="Pound Bag" Prompt="装英镑的钱袋"/>
+    <Elem NameU="Euro Bag" Name="装欧元的钱袋" PromptU="Euro Bag" Prompt="装欧元的钱袋"/>
+    <Elem NameU="Yuan Bag" Name="装人民币的钱袋" PromptU="Yuan Bag" Prompt="装人民币的钱袋"/>
+    <Elem NameU="Yen Bag" Name="装日元的钱袋" PromptU="Yen Bag" Prompt="装日元的钱袋"/>
+</Lib>

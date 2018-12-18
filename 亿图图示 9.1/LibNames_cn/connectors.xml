@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Connectors">
+    <Elem Prompt="点到点连接线" Name="点到点连接线" PromptU="Point connector" NameU="Point connector"/>
+    <Elem Prompt="侧边到侧边 1" Name="侧边到侧边 1" PromptU="Side to side 1" NameU="Side to side 1"/>
+    <Elem Prompt="侧边到侧边 2" Name="侧边到侧边 2" PromptU="Side to side 2" NameU="Side to side 2"/>
+    <Elem Prompt="侧面" Name="侧面" PromptU="Sides" NameU="Sides"/>
+    <Elem Prompt="底部到顶部 1" Name="底部到顶部 1" PromptU="Bottom to top 1" NameU="Bottom to top 1"/>
+    <Elem Prompt="底部到顶部 2" Name="底部到顶部 2" PromptU="Bottom to top 2" NameU="Bottom to top 2"/>
+    <Elem Prompt="顶部或底部" Name="顶部或底部" PromptU="Tops or bottoms" NameU="Tops or bottoms"/>
+    <Elem Prompt="顶部/底部到侧边" Name="顶部/底部到侧边" PromptU="Top/bottom to side" NameU="Top/bottom to side"/>
+    <Elem Prompt="侧边到顶部/底部" Name="侧边到顶部/底部" PromptU="Side to top/bottom" NameU="Side to top/bottom"/>
+    <Elem Prompt="底部到侧边 1" Name="底部到侧边 1" PromptU="Bottom to side 1" NameU="Bottom to side 1"/>
+    <Elem Prompt="底部到侧边 2" Name="底部到侧边 2" PromptU="Bottom to side 2" NameU="Bottom to side 2"/>
+    <Elem Prompt="底部到侧边 3" Name="底部到侧边 3" PromptU="Bottom to side 3" NameU="Bottom to side 3"/>
+    <Elem Prompt="侧边倒顶部" Name="侧边倒顶部" PromptU="Side to top" NameU="Side to top"/>
+    <Elem Prompt="直角循环" Name="直角循环" PromptU="Square loop" NameU="Square loop"/>
+    <Elem Prompt="通用连接线" Name="通用连接线" PromptU="Universal connector" NameU="Universal connector"/>
+    <Elem Prompt="动态连接线" Name="动态连接线" PromptU="Dynamic connector" NameU="Dynamic connector"/>
+    <Elem Prompt="直线连接线" Name="直线连接线" PromptU="Line connector" NameU="Line connector"/>
+    <Elem Prompt="直线弧线连接线" Name="直线弧线连接线" PromptU="Line-arc connector" NameU="Line-arc connector"/>
+    <Elem Prompt="直线曲线连接线" Name="直线曲线连接线" PromptU="Line curve connector" NameU="Line curve connector"/>
+    <Elem Prompt="曲线连接线" Name="曲线连接线" PromptU="Curved connector" NameU="Curved connector"/>
+    <Elem Prompt="曲线连接线 2" Name="曲线连接线 2" PromptU="Curved connector 2" NameU="Curved connector 2"/>
+    <Elem Prompt="斜线连接线" Name="斜线连接线" PromptU="Oblique connector" NameU="Oblique connector"/>
+    <Elem Prompt="斜线连接线 2" Name="斜线连接线 2" PromptU="Oblique connector 2" NameU="Oblique connector 2"/>
+    <Elem Prompt="弧线连接线" Name="弧线连接线" PromptU="Arced arrow" NameU="Arced arrow"/>
+    <Elem Prompt="多树枝直角" Name="多树枝直角" PromptU="Multi-tree square" NameU="Multi-tree square"/>
+    <Elem Prompt="多树枝斜角" Name="多树枝斜角" PromptU="Multi-tree sloped" NameU="Multi-tree sloped"/>
+    <Elem Prompt="一对多" Name="一对多" PromptU="One to many" NameU="One to many"/>
+    <Elem Prompt="弯折连接线" Name="弯折连接线" PromptU="Angled connector" NameU="Angled connector"/>
+    <Elem Prompt="有向连接线 1" Name="有向连接线 1" PromptU="Directed line 1" NameU="Directed line 1"/>
+    <Elem Prompt="有向连接线 2" Name="有向连接线 2" PromptU="Directed line 2" NameU="Directed line 2"/>
+    <Elem Prompt="中间带箭头连接线" Name="中间带箭头连接线" PromptU="Mid-arrow" NameU="Mid-arrow"/>
+    <Elem Prompt="带弧的连接线" Name="带弧的连接线" PromptU="Jumper" NameU="Jumper"/>
+    <Elem Prompt="双线" Name="双线" PromptU="Double lines" NameU="Double lines"/>
+    <Elem Prompt="多线" Name="多线" PromptU="Multi-lines" NameU="Multi-lines"/>
+    <Elem Prompt="肘形多线" Name="肘形多线" PromptU="Multi-lines elbow" NameU="Multi-lines elbow"/>
+    <Elem Prompt="顶部-底部" Name="顶部-底部" PromptU="Top-bottom" NameU="Top-bottom"/>
+    <Elem Prompt="侧边-侧边" Name="侧边-侧边" PromptU="Side-side" NameU="Side-side"/>
+    <Elem Prompt="控制传递" Name="控制传递" PromptU="Control transfer" NameU="Control transfer"/>
+    <Elem Prompt="通信链路 1" Name="通信链路 1" PromptU="Comm-link 1" NameU="Comm-link 1"/>
+    <Elem Prompt="通信链路 2" Name="通信链路 2" PromptU="Comm-link 2" NameU="Comm-link 2"/>
+    <Elem Prompt="点箭头线" Name="点箭头线" PromptU="Dot Arrow" NameU="Dot Arrow"/>
+    <Elem Prompt="点式线" Name="点式线" PromptU="Dotted line" NameU="Dotted line"/>
+    <Elem Prompt="流导向符 1" Name="流导向符 1" PromptU="Flow director 1" NameU="Flow director 1"/>
+    <Elem Prompt="流导向符 2" Name="流导向符 2" PromptU="Flow director 2" NameU="Flow director 2"/>
+    <Elem Prompt="可变箭头" Name="可变箭头" PromptU="Flexi-arrow" NameU="Flexi-arrow"/>
+    <Elem Prompt="一维单向箭头" Name="一维单向箭头" PromptU="1-D single arrow" NameU="1-D single arrow"/>
+    <Elem Prompt="一维双向箭头" Name="一维双向箭头" PromptU="1-D double arrow" NameU="1-D double arrow"/>
+    <Elem Prompt="空心连接" Name="空心连接" PromptU="Open end arrow" NameU="Open end arrow"/>
+    <Elem Prompt="肘形 1" Name="肘形 1" PromptU="Elbow 1" NameU="Elbow 1"/>
+    <Elem Prompt="肘形 2" Name="肘形 2" PromptU="Elbow 2" NameU="Elbow 2"/>
+</Lib>

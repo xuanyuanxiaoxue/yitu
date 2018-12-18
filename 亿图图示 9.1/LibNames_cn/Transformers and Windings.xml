@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Transformers and Windings">
+    <Elem Prompt="磁芯" Name="磁芯" PromptU="Magnetic core" NameU="Magnetic core"/>
+    <Elem Prompt="电感器" Name="电感器" PromptU="Inductor" NameU="Inductor"/>
+    <Elem Prompt="电感器 空心)" Name="电感器（空心） " PromptU="Inductor (Air core)" NameU="Inductor (Air core)"/>
+    <Elem Prompt="电感器 （空心） 2" Name="电感器（空心） 2" PromptU="Inductor (Air core) 2" NameU="Inductor (Air core) 2"/>
+    <Elem Prompt="电感器 （空心） 3" Name="电感器（空心） 3" PromptU="Inductor (Air core) 3" NameU="Inductor (Air core) 3"/>
+    <Elem Prompt="可变电感线圈" Name="可变电感线圈" PromptU="Variable inductor" NameU="Variable inductor"/>
+    <Elem Prompt="扼流圈" Name="扼流圈" PromptU="Choke" NameU="Choke"/>
+    <Elem Prompt="磁芯电感器" Name="磁芯电感器" PromptU="Magnetic-core inductor" NameU="Magnetic-core inductor"/>
+    <Elem Prompt="磁芯电感器 2" Name="磁芯电感器 2" PromptU="Magnetic core inductor" NameU="Magnetic core inductor"/>
+    <Elem Prompt="电磁感应器" Name="电磁感应器" PromptU="Magnetic inductor" NameU="Magnetic inductor"/>
+    <Elem Prompt="磁隙" Name="磁隙" PromptU="Magnetic with gap" NameU="Magnetic with gap"/>
+    <Elem Prompt="可变电感器" Name="可变电感器" PromptU="Variometer" NameU="Variometer"/>
+    <Elem Prompt="同轴扼流圈" Name="同轴扼流圈" PromptU="Coaxial choke" NameU="Coaxial choke"/>
+    <Elem Prompt="饱和电抗器" Name="饱和电抗器" PromptU="Transductor" NameU="Transductor"/>
+    <Elem Prompt="变压器" Name="变压器" PromptU="Transformer" NameU="Transformer"/>
+    <Elem Prompt="变压器 2" Name="变压器 2" PromptU="Transformer 2" NameU="Transformer 2"/>
+    <Elem Prompt="饱和变压器" Name="饱和变压器" PromptU="Saturation transformer" NameU="Saturation transformer"/>
+    <Elem Prompt="可调变压器" Name="可调变压器" PromptU="Adjustable transformer" NameU="Adjustable transformer"/>
+    <Elem Prompt="变压器 3" Name="变压器 3" PromptU="Transformer 3" NameU="Transformer 3"/>
+    <Elem Prompt="互感器" Name="互感器" PromptU="Mutual inductor" NameU="Mutual inductor"/>
+    <Elem Prompt="一相感应电压调整器" Name="一相感应电压调整器" PromptU="1-phase induction volt.reg." NameU="1-phase induction volt.reg."/>
+    <Elem Prompt="三芯感应电压调整器" Name="三芯感应电压调整器" PromptU="Triplex induction volt.reg." NameU="Triplex induction volt.reg."/>
+    <Elem Prompt="感应电压调整器" Name="感应电压调整器" PromptU="Induction voltage regulator" NameU="Induction voltage regulator"/>
+    <Elem Prompt="电流变压器" Name="电流变压器" PromptU="Current transformer" NameU="Current transformer"/>
+    <Elem Prompt="电流变压器 2" Name="电流变压器 2" PromptU="Current transformer 2" NameU="Current transformer 2"/>
+    <Elem Prompt="电流变压器 3" Name="电流变压器 3" PromptU="Current transformer 3" NameU="Current transformer 3"/>
+    <Elem Prompt="多相变压器" Name="多相变压器" PromptU="Polyphase transformer" NameU="Polyphase transformer"/>
+    <Elem Prompt="多相变压器 2" Name="多相变压器 2" PromptU="Polyphase transformer 2" NameU="Polyphase transformer 2"/>
+    <Elem Prompt="三绕组变压器" Name="三绕组变压器" PromptU="3-winding transformer" NameU="3-winding transformer"/>
+    <Elem Prompt="仪表用变压器" Name="仪表用变压器" PromptU="Potential transformer" NameU="Potential transformer"/>
+    <Elem Prompt="仪表用变压器 2" Name="仪表用变压器 2" PromptU="Potential transformer 2" NameU="Potential transformer 2"/>
+    <Elem Prompt="变压器（铁心）" Name="变压器（铁心）" PromptU="Transformer (Iron Core)" NameU="Transformer (Iron Core)"/>
+    <Elem Prompt="变压器（铁心）2" Name="变压器（铁心）2" PromptU="Transformer (Iron Core) 2" NameU="Transformer (Iron Core) 2"/>
+    <Elem Prompt="三绕组变压器" Name="三绕组变压器" PromptU="Pot. trans. 3 windings" NameU="Pot. trans. 3 windings"/>
+    <Elem Prompt="户外测量设备" Name="户外测量设备" PromptU="Outdoor metering device" NameU="Outdoor metering device"/>
+    <Elem Prompt="线性耦合器" Name="线性耦合器" PromptU="Linear coupler" NameU="Linear coupler"/>
+    <Elem Prompt="铁氧体磁心" Name="铁氧体磁心" PromptU="Ferrite core" NameU="Ferrite core"/>
+    <Elem Prompt="铁芯" Name="铁芯" PromptU="Iron Core" NameU="Iron Core"/>
+</Lib>

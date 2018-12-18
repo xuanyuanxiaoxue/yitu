@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Optical Symbols">
+    <Elem Prompt="7字段显示" Name="7字段显示" PromptU="7 segment display" NameU="7 segment display"/>
+    <Elem Prompt="7字段显示带数位" Name="7字段显示带数位" PromptU="7 segment display with DP" NameU="7 segment display with DP"/>
+    <Elem Prompt="9字段显示" Name="9字段显示" PromptU="9 segment display" NameU="9 segment display"/>
+    <Elem Prompt="9字段显示带数位" Name="9字段显示带数位" PromptU="9 segment display with DP" NameU="9 segment display with DP"/>
+    <Elem Prompt="LED" Name="LED" PromptU="LED" NameU="LED"/>
+    <Elem Prompt="LED 2" Name="LED 2" PromptU="LED 2" NameU="LED 2"/>
+    <Elem Prompt="光激可控硅整流器" Name="光激可控硅整流器" PromptU="Light activated SCR" NameU="Light activated SCR"/>
+    <Elem Prompt="光耦合器" Name="光耦合器" PromptU="Opto-coupler" NameU="Opto-coupler"/>
+    <Elem Prompt="光电晶体管" Name="光电晶体管" PromptU="Opto-transistor" NameU="Opto-transistor"/>
+    <Elem Prompt="光敏电阻器" Name="光敏电阻器" PromptU="Photo resistor" NameU="Photo resistor"/>
+    <Elem Prompt="光敏电阻器 2" Name="光敏电阻器 2" PromptU="Photo resistor 2" NameU="Photo resistor 2"/>
+    <Elem Prompt="光敏电阻器" Name="光敏电阻器" PromptU="Photo resistor" NameU="Photo resistor"/>
+    <Elem Prompt="太阳能电池" Name="太阳能电池" PromptU="Solar cell" NameU="Solar cell"/>
+</Lib>

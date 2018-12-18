@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Process Heating">
+    <Elem Prompt="分批式炉" Name="分批式炉" PromptU="Batch oven" NameU="Batch oven"/>
+    <Elem Prompt="砑光机" Name="砑光机" PromptU="Calender" NameU="Calender"/>
+    <Elem Prompt="循环式加热器" Name="循环式加热器" PromptU="Circulation heater" NameU="Circulation heater"/>
+    <Elem Prompt="补偿器 1" Name="补偿器 1" PromptU="Compensator" NameU="Compensator"/>
+    <Elem Prompt="补偿器 2" Name="补偿器 2" PromptU="Condenser 1" NameU="Condenser 1"/>
+    <Elem Prompt="补偿器 3" Name="补偿器 3" PromptU="Condenser 2" NameU="Condenser 2"/>
+    <Elem Prompt="传送带式炉" Name="传送带式炉" PromptU="Conveyorized oven" NameU="Conveyorized oven"/>
+    <Elem Prompt="蒸发器" Name="蒸发器" PromptU="Evaporator" NameU="Evaporator"/>
+    <Elem Prompt="膨胀弯管" Name="膨胀弯管" PromptU="Expansion loop" NameU="Expansion loop"/>
+    <Elem Prompt="无焰热氧化器" Name="无焰热氧化器" PromptU="Flameless thermal oxidizer" NameU="Flameless thermal oxidizer"/>
+    <Elem Prompt="热交换器 1" Name="热交换器 1" PromptU="Heat exchanger 1" NameU="Heat exchanger 1"/>
+    <Elem Prompt="热交换器 2" Name="热交换器 2" PromptU="Heat exchanger 2" NameU="Heat exchanger 2"/>
+    <Elem Prompt="热交换器 3" Name="热交换器 3" PromptU="Heat exchanger 3" NameU="Heat exchanger 3"/>
+    <Elem Prompt="热交换器 4" Name="热交换器 4" PromptU="Heat exchanger 4" NameU="Heat exchanger 4"/>
+    <Elem Prompt="热交换器 5" Name="热交换器 5" PromptU="Heat exchanger 5" NameU="Heat exchanger 5"/>
+    <Elem Prompt="热交换器 6" Name="热交换器 6" PromptU="Heat exchanger 6" NameU="Heat exchanger 6"/>
+    <Elem Prompt="热交换器 7" Name="热交换器 7" PromptU="Heat exchanger 7" NameU="Heat exchanger 7"/>
+    <Elem Prompt="热交换器 8" Name="热交换器 8" PromptU="Heat exchanger 8" NameU="Heat exchanger 8"/>
+    <Elem Prompt="热交换器 9" Name="热交换器 9" PromptU="Heat exchanger 9" NameU="Heat exchanger 9"/>
+    <Elem Prompt="热回收系统 1" Name="热回收系统 1" PromptU="Heat recovery system 1" NameU="Heat recovery system 1"/>
+    <Elem Prompt="热回收系统 2" Name="热回收系统 2" PromptU="Heat recovery system 2" NameU="Heat recovery system 2"/>
+    <Elem Prompt="热回收系统 3" Name="热回收系统 3" PromptU="Heat recovery system" NameU="Heat recovery system"/>
+    <Elem Prompt="换热系统" Name="换热系统" PromptU="Heat transfer system" NameU="Heat transfer system"/>
+    <Elem Prompt="导热油加热器" Name="导热油加热器" PromptU="Hot oil heater" NameU="Hot oil heater"/>
+    <Elem Prompt="导热油加热系统" Name="导热油加热系统" PromptU="Hot oil system" NameU="Hot oil system"/>
+    <Elem Prompt="浸没式加热器" Name="浸没式加热器" PromptU="Immersion heater" NameU="Immersion heater"/>
+    <Elem Prompt="间接大水量加热器" Name="间接大水量加热器" PromptU="Indirect large volume water heater" NameU="Indirect large volume water heater"/>
+    <Elem Prompt="低排放燃烧器" Name="低排放燃烧器" PromptU="Low-emission burner" NameU="Low-emission burner"/>
+    <Elem Prompt="大功率燃烧器" Name="大功率燃烧器" PromptU="Power burner" NameU="Power burner"/>
+    <Elem Prompt="过程加热器" Name="过程加热器" PromptU="Process heater" NameU="Process heater"/>
+    <Elem Prompt="列管式冷凝器" Name="列管式冷凝器" PromptU="Shell and tube condenser" NameU="Shell and tube condenser"/>
+    <Elem Prompt="简易冷凝器" Name="简易冷凝器" PromptU="Simple condenser" NameU="Simple condenser"/>
+    <Elem Prompt="简易热交换器" Name="简易热交换器" PromptU="Simple heat exchanger" NameU="Simple heat exchanger"/>
+    <Elem Prompt="蒸汽发生器 1" Name="蒸汽发生器 1" PromptU="Simple steam generator 1" NameU="Simple steam generator 1"/>
+    <Elem Prompt="蒸汽发生器 2" Name="蒸汽发生器 2" PromptU="Simple steam generator 2" NameU="Simple steam generator 2"/>
+    <Elem Prompt="蒸汽发生器 3" Name="蒸汽发生器 3" PromptU="Steam generator 1" NameU="Steam generator 1"/>
+    <Elem Prompt="蒸汽发生器 4" Name="蒸汽发生器 4" PromptU="Steam generator 2" NameU="Steam generator 2"/>
+    <Elem Prompt="蒸汽混合器" Name="蒸汽混合器" PromptU="Steam mixer" NameU="Steam mixer"/>
+    <Elem Prompt="蒸汽疏水阀" Name="蒸汽疏水阀" PromptU="Steam trap" NameU="Steam trap"/>
+    <Elem Prompt="热流体加热器" Name="热流体加热器" PromptU="Thermal fluid heater" NameU="Thermal fluid heater"/>
+    <Elem Prompt="导热油加热器 2" Name="导热油加热器 2" PromptU="Turbocoil hot oil heater" NameU="Turbocoil hot oil heater"/>
+    <Elem Prompt="食物保温箱" Name="食物保温箱" PromptU="Warming oven" NameU="Warming oven"/>
+    <Elem Prompt="水加热装置" Name="水加热装置" PromptU="Water heater system" NameU="Water heater system"/>
+    <Elem Prompt="预热器" Name="预热器" PromptU="Preheater" NameU="Preheater"/>
+    <Elem Prompt="空气预热器" Name="空气预热器" PromptU="Air preheater" NameU="Air preheater"/>
+    <Elem Prompt="空气预热器" Name="空气预热器" PromptU="Air preheater" NameU="Air preheater"/>
+    <Elem Prompt="Electric Heater电加热器" Name="电加热器" PromptU="Electric Heater" NameU="Electric Heater"/>
+    <Elem Prompt="回转式空气预热器" Name="回转式空气预热器" PromptU="Rotary air-preheater" NameU="Rotary air-preheater"/>
+    <Elem Prompt="竖式预热器" Name="竖式预热器" PromptU="Vertical preheater" NameU="Vertical preheater"/>
+    <Elem Prompt=" 烘干设备" Name="烘干设备" PromptU="Drying equipment" NameU="Drying equipment"/>
+    <Elem Prompt="蒸馏设备" Name="蒸馏设备" PromptU="Distillation" NameU="Distillation"/>
+    <Elem Prompt="干燥设备" Name="干燥设备" PromptU="Drying" NameU="Drying"/>
+    <Elem Prompt="干燥设备" Name="干燥设备" PromptU="Drying" NameU="Drying"/>
+    <Elem Prompt="过热器" Name="过热器" PromptU="Superheater" NameU="Superheater"/>
+    <Elem Prompt="酵母干燥塔" Name="酵母干燥塔" PromptU="Yeast drying tower" NameU="Yeast drying tower"/>
+    <Elem Prompt="旋转干燥器" Name="旋转干燥器" PromptU="Rotary dryer" NameU="Rotary dryer"/>
+    <Elem Prompt="烘干塔" Name="烘干塔" PromptU="Drying columns" NameU="Drying columns"/>
+    <Elem Prompt="烘干机" Name="烘干机" PromptU="Dryer" NameU="Dryer"/>
+    <Elem Prompt="热交换系统" Name="热交换系统" PromptU="Heat Exchange System" NameU="Heat Exchange System"/>
+    <Elem Prompt="太阳能集热器" Name="太阳能集热器" PromptU="Solar collector" NameU="Solar collector"/>
+    <Elem Prompt="太阳能集热器" Name="太阳能集热器" PromptU="Solar collector" NameU="Solar collector"/>
+</Lib>

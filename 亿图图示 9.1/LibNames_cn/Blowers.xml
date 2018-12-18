@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Blowers">
+    <Elem Prompt="3-D工业标准结构鼓风机" Name="3-D工业标准结构鼓风机" PromptU="3-D ISA Blower" NameU="3-D ISA Blower"/>
+    <Elem Prompt="空气压缩机" Name="空气压缩机" PromptU="Air compressor" NameU="Air compressor"/>
+    <Elem Prompt="空气压缩机" Name="空气压缩机" PromptU="Air compressor" NameU="Air compressor"/>
+    <Elem Prompt="鼓风机" Name="鼓风机" PromptU="Blower" NameU="Blower"/>
+    <Elem Prompt="离心鼓风机" Name="离心鼓风机" PromptU="Centrifugal air blower" NameU="Centrifugal air blower"/>
+    <Elem Prompt="风机动力型终端设备" Name="风机动力型终端设备" PromptU="Fan-powered terminal unit" NameU="Fan-powered terminal unit"/>
+    <Elem Prompt="玻璃纤维风扇" Name="玻璃纤维风扇" PromptU="Fiberglass fan air" NameU="Fiberglass fan air"/>
+    <Elem Prompt="抽烟机" Name="抽烟机" PromptU="Fume exhauster" NameU="Fume exhauster"/>
+    <Elem Prompt="气泵" Name="气泵" PromptU="Gas pump" NameU="Gas pump"/>
+    <Elem Prompt="灰色阴影风扇" Name="灰色阴影风扇" PromptU="Gray shaded fan" NameU="Gray shaded fan"/>
+    <Elem Prompt="HVAC压缩" Name="HVAC压缩机" PromptU="HVAC compressor" NameU="HVAC compressor"/>
+    <Elem Prompt="内联空气过滤器" Name="内联空气过滤器" PromptU="Inline air filter" NameU="Inline air filter"/>
+    <Elem Prompt="混流内联风扇" Name="混流内联风扇" PromptU="Mixed flow inline fan" NameU="Mixed flow inline fan"/>
+    <Elem Prompt="塑料风机" Name="塑料风机" PromptU="Plastic blower" NameU="Plastic blower"/>
+    <Elem Prompt="高压鼓风机" Name="高压鼓风机" PromptU="Pressure blower" NameU="Pressure blower"/>
+    <Elem Prompt="径向通风抽风机" Name="径向通风抽风机" PromptU="radial fume exhauster" NameU="radial fume exhauster"/>
+    <Elem Prompt="往复式压缩机" Name="往复式压缩机" PromptU="Reciprocating compressor" NameU="Reciprocating compressor"/>
+    <Elem Prompt="回热鼓风机" Name="回热鼓风机" PromptU="Regenerative blower" NameU="Regenerative blower"/>
+    <Elem Prompt="简易式鼓风机" Name="简易式鼓风机" PromptU="Simple blower" NameU="Simple blower"/>
+    <Elem Prompt="涡轮鼓风机" Name="涡轮鼓风机" PromptU="Turbo blower" NameU="Turbo blower"/>
+    <Elem Prompt="叶片轴流式扇风机" Name="叶片轴流式扇风机" PromptU="Vaneaxial fan" NameU="Vaneaxial fan"/>
+    <Elem Prompt="旋涡风机" Name="旋涡风机" PromptU="Vortex blower" NameU="Vortex blower"/>
+    <Elem Prompt="通风风扇" Name="通风风扇" PromptU="Draught Fan" NameU="Draught Fan"/>
+    <Elem Prompt="通风风扇" Name="通风风扇" PromptU="Draught fan" NameU="Draught fan"/>
+    <Elem Prompt="通风风扇" Name="通风风扇" PromptU="Draught fan" NameU="Draught fan"/>
+    <Elem Prompt="稀释风机" Name="稀释风机" PromptU="Dilution air blower" NameU="Dilution air blower"/>
+    <Elem Prompt="气闸" Name="气闸" PromptU="Airlock" NameU="Airlock"/>
+    <Elem Prompt="压风机" Name="压风机" PromptU="Pressure fan" NameU="Pressure fan"/>
+    <Elem Prompt="鼓风机室" Name="鼓风机室" PromptU="Blower room" NameU="Blower room"/>
+    <Elem Prompt="烟气抽风机" Name="烟气抽风机" PromptU="Flue Gas Induced Fan " NameU="Flue Gas Induced Fan "/>
+    <Elem Prompt="压缩机" Name="压缩机" PromptU="Compressor" NameU="Compressor"/>
+    <Elem Prompt="压缩机组" Name="压缩机组" PromptU="Compressor Unit" NameU="Compressor Unit"/>
+    <Elem Prompt="压滤机" Name="压滤机" PromptU="Filter press" NameU="Filter press"/>
+</Lib>

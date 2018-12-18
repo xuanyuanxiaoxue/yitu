@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Brainstorming">
+    <Elem Prompt="头脑风暴" Name="头脑风暴" PromptU="Brainstorming" NameU="Brainstorming"/>
+    <Elem Prompt="头脑风暴" Name="头脑风暴" PromptU="Brainstorming" NameU="Brainstorming"/>
+    <Elem Prompt="头脑风暴" Name="头脑风暴" PromptU=" Brainstorming" NameU=" Brainstorming"/>
+    <Elem Prompt="头脑风暴" Name="头脑风暴" PromptU=" Brainstorming" NameU=" Brainstorming"/>
+    <Elem Prompt="主意" Name="主意" PromptU="Idea" NameU="Idea"/>
+    <Elem Prompt="主意" Name="主意" PromptU="Idea" NameU="Idea"/>
+    <Elem Prompt="主意" Name="主意" PromptU="Idea" NameU="Idea"/>
+    <Elem Prompt="主意" Name="主意" PromptU="Idea" NameU="Idea"/>
+    <Elem Prompt="主意" Name="主意" PromptU="Idea" NameU="Idea"/>
+    <Elem Prompt="椭圆标注形状" Name="椭圆标注形状" PromptU="Ellipse Callout" NameU="Ellipse Callout"/>
+    <Elem Prompt="椭圆标注形状" Name="椭圆标注形状" PromptU="Ellipse Callout" NameU="Ellipse Callout"/>
+    <Elem Prompt="椭圆标注形状" Name="椭圆标注形状" PromptU="Ellipse Callout" NameU="Ellipse Callout"/>
+    <Elem Prompt="矩形标注形状" Name="矩形标注形状" PromptU="Rectangle Callout" NameU="Rectangle Callout"/>
+    <Elem Prompt="漂浮形状" Name="漂浮形状" PromptU="Floating Shape" NameU="Floating Shape"/>
+    <Elem Prompt="漂浮形状 2" Name="漂浮形状 2" PromptU="Floating Shape 2" NameU="Floating Shape 2"/>
+    <Elem Prompt="漂浮形状" Name="漂浮形状" PromptU="Floating Shape" NameU="Floating Shape"/>
+    <Elem Prompt="漂浮形状" Name="漂浮形状" PromptU="Floating Shape" NameU="Floating Shape"/>
+</Lib>

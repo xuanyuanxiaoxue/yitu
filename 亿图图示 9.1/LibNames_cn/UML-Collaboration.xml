@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="UML Collaboration Diagram">
+    <Elem Prompt="对象" Name="对象" PromptU="Object" NameU="Object"/>
+    <Elem Prompt="多对象" Name="多对象" PromptU="Multi-Object" NameU="Multi-Object"/>
+    <Elem Prompt="角色" Name="角色" PromptU="Actor" NameU="Actor"/>
+    <Elem Prompt="关联角色" Name="关联角色" PromptU="Association Role" NameU="Association Role"/>
+    <Elem Prompt="关联角色 2" Name="关联角色 2" PromptU="Association Role 2" NameU="Association Role 2"/>
+    <Elem Prompt="代理" Name="代理" PromptU="Delegation" NameU="Delegation"/>
+    <Elem Prompt="连接到自己" Name="连接到自己" PromptU="Link to Self" NameU="Link to Self"/>
+    <Elem Prompt="连接到自己 2" Name="连接到自己 2" PromptU="Link to Self 2" NameU="Link to Self 2"/>
+    <Elem Prompt="约束" Name="约束" PromptU="Constraint" NameU="Constraint"/>
+    <Elem Prompt="注释" Name="注释" PromptU="Note" NameU="Note"/>
+</Lib>

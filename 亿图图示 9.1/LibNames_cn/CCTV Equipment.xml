@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="CCTV Equipment">
+    <Elem Prompt="黑色摄像头" Name="黑色摄像头" PromptU="Black monitor" NameU="Black monitor"/>
+    <Elem Prompt="白色摄像头" Name="白色摄像头" PromptU="White monitor" NameU="White monitor"/>
+    <Elem Prompt="摄像机" Name="摄像机" PromptU="Security camera" NameU="Security camera"/>
+    <Elem Prompt="半球形摄像机" Name="半球形摄像机" PromptU="Dome Camera" NameU="Dome Camera"/>
+    <Elem Prompt="球形摄像头" Name="球形摄像头" PromptU="Ball Machine" NameU="Ball Machine"/>
+    <Elem Prompt="红外灯 1" Name="红外灯 1" PromptU="Infrared light 1" NameU="Infrared light 1"/>
+    <Elem Prompt="红外灯 2" Name="红外灯 2" PromptU="Infrared light 2" NameU="Infrared light 2"/>
+    <Elem Prompt="工控机" Name="工控机" PromptU="IPC" NameU="IPC"/>
+    <Elem Prompt="警报器" Name="警报器" PromptU="Alarm" NameU="Alarm"/>
+    <Elem Prompt="警报器" Name="警报器 2" PromptU="Alarm" NameU="Alarm 2"/>
+    <Elem Prompt="烟雾警报器" Name="烟雾警报器" PromptU="Smoke alarm" NameU="Smoke alarm"/>
+    <Elem Prompt="警报器" Name="警报器" PromptU="Monitor" NameU="Monitor"/>
+    <Elem Prompt="数字视频录像机" Name="数字视频录像机" PromptU="Digital video recorder" NameU="DVR"/>
+    <Elem Prompt="硬盘录像机" Name="硬盘录像机 2" PromptU="Digital videl recorder" NameU="DVR 2"/>
+    <Elem Prompt="安全外设 1" Name="安全外设 1" PromptU="Security Peripherals 1" NameU="Security Peripherals 1"/>
+    <Elem Prompt="安全外设 2" Name="安全外设 2" PromptU="Security Peripherals 2" NameU="Security Peripherals 2"/>
+    <Elem Prompt="ATM" Name="ATM" PromptU="ATM" NameU="ATM"/>
+    <Elem Prompt="监视器" Name="监视器" PromptU="Monitors" NameU="Monitors"/>
+    <Elem Prompt="TV 墙" Name="TV 墙" PromptU="TV wall" NameU="TV wall"/>
+</Lib>

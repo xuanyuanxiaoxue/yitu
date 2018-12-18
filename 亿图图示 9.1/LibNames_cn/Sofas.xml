@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Sofas">
+    <Elem Prompt="沙发 1" Name="沙发 1" PromptU="Sofa 1" NameU="Sofa 1"/>
+    <Elem Prompt="沙发 2" Name="沙发 2" PromptU="Sofa 2" NameU="Sofa 2"/>
+    <Elem Prompt="沙发 3" Name="沙发 3" PromptU="Sofa 3" NameU="Sofa 3"/>
+    <Elem Prompt="沙发 4" Name="沙发 4" PromptU="Sofa 4" NameU="Sofa 4"/>
+    <Elem Prompt="沙发 5" Name="沙发 5" PromptU="Sofa 5" NameU="Sofa 5"/>
+    <Elem Prompt="沙发 6" Name="沙发 6" PromptU="Sofa 6" NameU="Sofa 6"/>
+    <Elem Prompt="沙发 7" Name="沙发 7" PromptU="Sofa 7" NameU="Sofa 7"/>
+    <Elem Prompt="沙发 8" Name="沙发 8" PromptU="Sofa 8" NameU="Sofa 8"/>
+    <Elem Prompt="沙发 9" Name="沙发 9" PromptU="Sofa 9" NameU="Sofa 9"/>
+    <Elem Prompt="沙发 10" Name="沙发 10" PromptU="Sofa 10" NameU="Sofa 10"/>
+    <Elem Prompt="沙发 11" Name="沙发 11" PromptU="Sofa 11" NameU="Sofa 11"/>
+    <Elem Prompt="沙发 12" Name="沙发 12" PromptU="Sofa 12" NameU="Sofa 12"/>
+    <Elem Prompt="沙发 13" Name="沙发 13" PromptU="Sofa 13" NameU="Sofa 13"/>
+    <Elem Prompt="沙发 14" Name="沙发 14" PromptU="Sofa 14" NameU="Sofa 14"/>
+    <Elem Prompt="沙发 15" Name="沙发 15" PromptU="Sofa 15" NameU="Sofa 15"/>
+    <Elem Prompt="沙发 16" Name="沙发 16" PromptU="Sofa 16" NameU="Sofa 16"/>
+    <Elem Prompt="沙发 17" Name="沙发 17" PromptU="Sofa 17" NameU="Sofa 17"/>
+    <Elem Prompt="沙发 18" Name="沙发 18" PromptU="Sofa 18" NameU="Sofa 18"/>
+    <Elem Prompt="沙发 19" Name="沙发 19" PromptU="Sofa 19" NameU="Sofa 19"/>
+    <Elem Prompt="沙发 20" Name="沙发 20" PromptU="Sofa 20" NameU="Sofa 20"/>
+    <Elem Prompt="沙发 21" Name="沙发 21" PromptU="Sofa 21" NameU="Sofa 21"/>
+    <Elem Prompt="沙发 22" Name="沙发 22" PromptU="Sofa 22" NameU="Sofa 22"/>
+    <Elem Prompt="沙发 23" Name="沙发 23" PromptU="Sofa 23" NameU="Sofa 23"/>
+    <Elem Prompt="沙发 24" Name="沙发 24" PromptU="Sofa 24" NameU="Sofa 24"/>
+    <Elem Prompt="沙发 25" Name="沙发 25" PromptU="Sofa 25" NameU="Sofa 25"/>
+    <Elem Prompt="沙发 26" Name="沙发 26" PromptU="Sofa 26" NameU="Sofa 26"/>
+    <Elem Prompt="沙发 27" Name="沙发 27" PromptU="Sofa 27" NameU="Sofa 27"/>
+    <Elem Prompt="曲面沙发 1" Name="曲面沙发 1" PromptU="Curved back sofa 1" NameU="Curved back sofa 1"/>
+    <Elem Prompt="曲面沙发 2" Name="曲面沙发 2" PromptU="Curved back sofa 2" NameU="Curved back sofa 2"/>
+    <Elem Prompt="曲面沙发" Name="曲面沙发" PromptU="Curved sofa" NameU="Curved sofa"/>
+    <Elem Prompt="分块扶手沙发" Name="分块扶手沙发" PromptU="Sectional sofa with arms" NameU="Sectional sofa with arms"/>
+    <Elem Prompt="分块沙发" Name="分块沙发" PromptU="Armless sectional sofa" NameU="Armless sectional sofa"/>
+    <Elem Prompt="曲面分块沙发" Name="曲面分块沙发" PromptU="Curved sectional sofa" NameU="Curved sectional sofa"/>
+    <Elem Prompt="1 沙发椅" Name="1 沙发椅" PromptU="1 seat sofa" NameU="1 seat sofa"/>
+    <Elem Prompt="2 沙发椅" Name="2 沙发椅" PromptU="2 seat sofa" NameU="2 seat sofa"/>
+    <Elem Prompt="3 沙发椅" Name="3 沙发椅" PromptU="3 seat sofa" NameU="3 seat sofa"/>
+    <Elem Prompt="4 沙发椅" Name="4 沙发椅" PromptU="4 seat sofa" NameU="4 seat sofa"/>
+    <Elem Prompt="长沙发 1" Name="长沙发 1" PromptU="Couch 1" NameU="Couch 1"/>
+    <Elem Prompt="长沙发 2" Name="长沙发 2" PromptU="Couch 2" NameU="Couch 2"/>
+    <Elem Prompt="茶几" Name="茶几" PromptU="Tea Table" NameU="Tea Table"/>
+    <Elem Prompt="茶几 2" Name="茶几 2" PromptU="Tea Table 2" NameU="Tea Table 2"/>
+    <Elem Prompt="茶几 3" Name="茶几 3" PromptU="Tea Table 3" NameU="Tea Table 3"/>
+    <Elem Prompt="茶几 4" Name="茶几 4" PromptU="Tea Table 4" NameU="Tea Table 4"/>
+    <Elem Prompt="茶几 5" Name="茶几 5" PromptU="Tea Table 5" NameU="Tea Table 5"/>
+    <Elem Prompt="茶几 6" Name="茶几 6" PromptU="Tea Table 6" NameU="Tea Table 6"/>
+    <Elem Prompt="茶几 7" Name="茶几 7" PromptU="Tea Table 7" NameU="Tea Table 7"/>
+    <Elem Prompt="茶几 8" Name="茶几 8" PromptU="Tea table 8" NameU="Tea table 8"/>
+    <Elem Prompt="茶几 9" Name="茶几 9" PromptU="Tea table 9" NameU="Tea table 9"/>
+    <Elem Prompt="茶几 10" Name="茶几 10" PromptU="Tea table 10" NameU="Tea table 10"/>
+    <Elem Prompt="茶几 11" Name="茶几 11" PromptU="Tea table 11" NameU="Tea table 11"/>
+    <Elem Prompt="茶几 12" Name="茶几 12" PromptU="Tea table 12" NameU="Tea table 12"/>
+    <Elem Prompt="沙发桌 1" Name="沙发桌 1" PromptU="Sofa Table 1" NameU="Sofa Table 1"/>
+    <Elem Prompt="沙发桌 2" Name="沙发桌 2" PromptU="Sofa Table 2" NameU="Sofa Table 2"/>
+    <Elem Prompt="沙发桌 3" Name="沙发桌 3" PromptU="Sofa Table 3" NameU="Sofa Table 3"/>
+    <Elem Prompt="沙发桌 4" Name="沙发桌 4" PromptU="Sofa Table 4" NameU="Sofa Table 4"/>
+    <Elem Prompt="沙发桌 5" Name="沙发桌 5" PromptU="Sofa Table 5" NameU="Sofa Table 5"/>
+</Lib>

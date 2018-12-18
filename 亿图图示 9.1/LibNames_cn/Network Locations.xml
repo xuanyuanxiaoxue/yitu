@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Network Locations">
+    <Elem Prompt="通用建筑 1" Name="通用建筑 1" PromptU="Common Buildings 1" NameU="Common Buildings 1"/>
+    <Elem Prompt="通用建筑 3" Name="通用建筑 3" PromptU="Common Buildings 3" NameU="Common Buildings 3"/>
+    <Elem Prompt="通用建筑 2" Name="通用建筑 2" PromptU="Common Buildings 2" NameU="Common Buildings 2"/>
+    <Elem Prompt="通用建筑 4" Name="通用建筑 4" PromptU="Common Buildings 4" NameU="Common Buildings 4"/>
+    <Elem Prompt="通用建筑 5" Name="通用建筑 5" PromptU="Common Buildings 5" NameU="Common Buildings 5"/>
+    <Elem Prompt="社区" Name="社区" PromptU="Community" NameU="Community"/>
+    <Elem Prompt="企业" Name="企业" PromptU="Enterprise" NameU="Enterprise"/>
+    <Elem Prompt="住宅" Name="住宅" PromptU="Residential" NameU="Residential"/>
+    <Elem Prompt="商务中心" Name="商务中心" PromptU="Business center" NameU="Business center"/>
+    <Elem Prompt="办公楼" Name="办公楼" PromptU="Office Building" NameU="Office Building"/>
+    <Elem Prompt="饭店" Name="饭店" PromptU="Hotel" NameU="Hotel"/>
+    <Elem Prompt="城市" Name="城市" PromptU="City" NameU="City"/>
+    <Elem Prompt="城市街区" Name="城市街区" PromptU="City Block" NameU="City Block"/>
+    <Elem Prompt="中心建筑" Name="中心建筑" PromptU="Central Building" NameU="Central Building"/>
+    <Elem Prompt="城镇" Name="城镇" PromptU="Town" NameU="Town"/>
+    <Elem Prompt="建筑" Name="建筑" PromptU="Building" NameU="Building"/>
+    <Elem Prompt="居民房" Name="居民房" PromptU="Residence" NameU="Residence"/>
+    <Elem Prompt="工厂" Name="工厂" PromptU="Factory" NameU="Factory"/>
+    <Elem Prompt="金融" Name="金融" PromptU="Financial" NameU="Financial"/>
+    <Elem Prompt="司法" Name="司法" PromptU="Law" NameU="Law"/>
+    <Elem Prompt="制造业" Name="制造业" PromptU="Manufacturing" NameU="Manufacturing"/>
+    <Elem Prompt="零售" Name="零售" PromptU="Retail" NameU="Retail"/>
+    <Elem Prompt="贸易" Name="贸易" PromptU="Trade" NameU="Trade"/>
+    <Elem Prompt="教育" Name="教育" PromptU="Education" NameU="Education"/>
+    <Elem Prompt="交通" Name="交通" PromptU="Traffic" NameU="Traffic"/>
+    <Elem Prompt="电线杆" Name="电线杆" PromptU="Telephone Poles" NameU="Telephone Poles"/>
+    <Elem Prompt="政府" Name="政府" PromptU="Government" NameU="Government"/>
+    <Elem Prompt="大学" Name="大学" PromptU="University" NameU="University"/>
+    <Elem Prompt="主楼" Name="主楼" PromptU="Generic Building" NameU="Generic Building"/>
+    <Elem Prompt="分公司" Name="分公司" PromptU="Branch Office" NameU="Branch Office"/>
+    <Elem Prompt="小型商业楼" Name="小型商业楼" PromptU="Small Business" NameU="Small Business"/>
+    <Elem Prompt="一般居民房" Name="一般居民房" PromptU="Home Regular" NameU="Home Regular"/>
+    <Elem Prompt="带通信居民房" Name="带通信居民房" PromptU="Telecommute Home" NameU="Telecommute Home"/>
+    <Elem Prompt="家庭办公室" Name="家庭办公室" PromptU="Home Office" NameU="Home Office"/>
+    <Elem Prompt="IP酒店" Name="IP酒店" PromptU="IP Hotel" NameU="IP Hotel"/>
+    <Elem Prompt="内部网" Name="内部网" PromptU="Intranet" NameU="Intranet"/>
+    <Elem Prompt="卫星" Name="卫星" PromptU="Satellite" NameU="Satellite"/>
+    <Elem Prompt="卫星接收器" Name="卫星接收器" PromptU="Satellite Dish" NameU="Satellite Dish"/>
+    <Elem Prompt="无线电塔 1" Name="无线电塔 1" PromptU="Radio Tower 1" NameU="Radio Tower 1"/>
+    <Elem Prompt="无线电塔 2" Name="无线电塔 2" PromptU="Radio Tower 2" NameU="Radio Tower 2"/>
+    <Elem Prompt="铁路" Name="铁路" PromptU="Railroad" NameU="Railroad"/>
+    <Elem Prompt="网络管理平台" Name="网络管理平台" PromptU="Network management platform" NameU="Network management platform"/>
+    <Elem Prompt="服务器" Name="服务器" PromptU="Service-Server" NameU="Service-Server"/>
+    <Elem Prompt="TELLIN" Name="TELLIN" PromptU="TELLIN" NameU="TELLIN"/>
+    <Elem Prompt="ISP/IC " Name="ISP/IC " PromptU="ISP/IC " NameU="ISP/IC "/>
+    <Elem Prompt="ASP " Name="ASP " PromptU="ASP " NameU="ASP "/>
+    <Elem Prompt="CSP " Name="CSP " PromptU="CSP " NameU="CSP "/>
+    <Elem Prompt="门户" Name="门户" PromptU="Portal" NameU="Portal"/>
+    <Elem Prompt="拨号用户" Name="拨号用户" PromptU="Dial-up users" NameU="Dial-up users"/>
+    <Elem Prompt="因特尔网云图" Name="因特尔网云图" PromptU="Internet Cloud" NameU="Internet Cloud"/>
+    <Elem Prompt="因特尔网云图" Name="因特尔网云图 2" PromptU="Internet Cloud" NameU="Internet Cloud 2"/>
+    <Elem Prompt="因特尔网云图" Name="因特尔网云图 3" PromptU="Internet Cloud" NameU="Internet Cloud 3"/>
+    <Elem Prompt="工作群" Name="工作群" PromptU="Workgroup" NameU="Workgroup"/>
+</Lib>

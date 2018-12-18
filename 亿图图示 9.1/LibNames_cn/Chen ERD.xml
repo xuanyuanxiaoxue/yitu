@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Chen ERD">
+    <Elem Prompt="带项目的实体" Name="带项目的实体" PromptU="Entity with items" NameU="Entity with items"/>
+    <Elem Prompt="带项目的实体" Name="带项目的实体 2" PromptU="Entity with items" NameU="Entity with items 2"/>
+    <Elem Prompt="用户" Name="用户" PromptU="User" NameU="User"/>
+    <Elem Prompt="关系" Name="关系" PromptU="Relationship" NameU="Relationship"/>
+    <Elem Prompt="实体" Name="实体" PromptU="Entity" NameU="Entity"/>
+    <Elem Prompt="属性" Name="属性" PromptU="Attribute" NameU="Attribute"/>
+    <Elem Prompt="集合" Name="集合" PromptU="Aggregation" NameU="Aggregation"/>
+    <Elem Prompt="连接线" Name="连接线" PromptU="Line connector" NameU="Line connector"/>
+    <Elem Prompt="双线条连接线" Name="双线条连接线" PromptU="Double line connector" NameU="Double line connector"/>
+    <Elem Prompt="一对多(标题)" Name="一对多(标题)" PromptU="One to many caption" NameU="One to many caption"/>
+    <Elem Prompt="多对多(标题)" Name="多对多(标题)" PromptU="Many to many caption" NameU="Many to many caption"/>
+    <Elem Prompt="一对一(标题)" Name="一对一(标题)" PromptU="One to one caption" NameU="One to one caption"/>
+    <Elem Prompt="多对多" Name="多对多" PromptU="Variable to variable" NameU="Variable to variable"/>
+</Lib>

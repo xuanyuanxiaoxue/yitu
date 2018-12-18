@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Pyramid Shapes">
+    <Elem Prompt="基本金字塔" Name="基本金字塔" PromptU="Basic Pyramid" NameU="Basic Pyramid"/>
+    <Elem Prompt="倒置的基本金字塔" Name="倒基本金字塔" PromptU="Inverted Basic Pyramid" NameU="Inverted Basic Pyramid"/>
+    <Elem Prompt="有间距的金字塔" Name="金字塔" PromptU="Pyramid with interval" NameU="Pyramid"/>
+    <Elem Prompt="有间距的金字塔" Name="金字塔 2" PromptU="Pyramid with interval" NameU="Pyramid 2"/>
+    <Elem Prompt="有间距的金字塔" Name="倒金字塔" PromptU="Pyramid with interval" NameU="Inverted Pyramid"/>
+    <Elem Prompt="有间距的倒金字塔" Name="倒金字塔 2" PromptU="Inverted Pyramid with interval" NameU="Inverted Pyramid 2"/>
+    <Elem Prompt="渐变金字塔" Name="渐变金字塔" PromptU="Gradient Pyramid" NameU="Gradient Pyramid"/>
+    <Elem Prompt="金字塔" Name="金字塔 3" PromptU="Pyramid" NameU="Pyramid 3"/>
+    <Elem Prompt="3D金字塔" Name="3D金字塔" PromptU="3D Pyramid" NameU="3D Pyramid"/>
+    <Elem Prompt="倒3D金字塔" Name="倒3D金字塔" PromptU="Inverted 3D Pyramid" NameU="Inverted 3D Pyramid"/>
+    <Elem Prompt="3D金字塔" Name="3D 金字塔 2" PromptU="3D Pyramid" NameU="3D Pyramid 2"/>
+    <Elem Prompt="3D金字塔 3" Name="3D金字塔 3" PromptU="3D Pyramid 3" NameU="3D Pyramid 3"/>
+    <Elem Prompt="带有文本块的金字塔" Name="金字塔 4" PromptU="Pyramid width Side Text" NameU="Pyramid 4"/>
+    <Elem Prompt="带有文本块的金字塔" Name="倒3D金字塔 3" PromptU="Pyramid width Side Text" NameU="Inverted Pyramid 3"/>
+    <Elem Prompt="三角形金字塔" Name="三角形金字塔" PromptU="Triangle Pyramid" NameU="Triangle Pyramid"/>
+    <Elem Prompt="三角形金字塔" Name="三角形金字塔 2" PromptU="Triangle Pyramid" NameU="Triangle Pyramid 2"/>
+    <Elem Prompt="圆柱金字塔" Name="圆柱金字塔" PromptU="Circle Pyramid" NameU="Circle Pyramid"/>
+    <Elem Prompt="倒圆柱金字塔" Name="倒圆柱金字塔" PromptU="Inverted Circle Pyramid" NameU="Inverted Circle Pyramid"/>
+    <Elem Prompt="自定义金字塔" Name="自定义金字塔" PromptU="Custom Pyramid" NameU="Custom Pyramid"/>
+</Lib>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Electrical Instruments">
+    <Elem Prompt="电流表" Name="电流表" PromptU="Ampermeter" NameU="Ampermeter"/>
+    <Elem Prompt="电流计" Name="电流计" PromptU="Galvanometer" NameU="Galvanometer"/>
+    <Elem Prompt="示波器" Name="示波器" PromptU="Oscilloscope" NameU="Oscilloscope"/>
+    <Elem Prompt="信号发生器" Name="信号发生器" PromptU="Signal generator" NameU="Signal generator"/>
+    <Elem Prompt="发动机" Name="发动机" PromptU="Motor" NameU="Motor"/>
+    <Elem Prompt="安培计" Name="安培计" PromptU="Ammeter" NameU="Ammeter"/>
+    <Elem Prompt="电压计" Name="电压计" PromptU="Voltmeter" NameU="Voltmeter"/>
+    <Elem Prompt="发电机" Name="发电机" PromptU="Generator" NameU="Generator"/>
+    <Elem Prompt="无功计" Name="无功计" PromptU="Varmeter" NameU="Varmeter"/>
+    <Elem Prompt="HZ" Name="HZ" PromptU="HZ" NameU="HZ"/>
+    <Elem Prompt="温度计" Name="温度计" PromptU="Thermometer" NameU="Thermometer"/>
+    <Elem Prompt="小时计" Name="小时计" PromptU="Hourmeter" NameU="Hourmeter"/>
+    <Elem Prompt="量化器" Name="量化器" PromptU="Quantizer" NameU="Quantizer"/>
+    <Elem Prompt="冲击函数" Name="冲击函数" PromptU="Delta" NameU="Delta"/>
+    <Elem Prompt="函数" Name="函数" PromptU="Function" NameU="Function"/>
+    <Elem Prompt="积分器" Name="积分器" PromptU="Integrator" NameU="Integrator"/>
+    <Elem Prompt="增效器" Name="增效器" PromptU="Multipier" NameU="Multipier"/>
+    <Elem Prompt="总数" Name="总数" PromptU="Sum" NameU="Sum"/>
+    <Elem Prompt="求和点" Name="求和点" PromptU="Summation point" NameU="Summation point"/>
+</Lib>

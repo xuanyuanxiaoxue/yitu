@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="WBS Shapes">
+    <Elem Prompt="任务框" Name="任务框" PromptU="Task Card" NameU="Task Card"/>
+    <Elem Prompt="任务框" Name="任务框 2" PromptU="Task Card" NameU="Task Card 2"/>
+    <Elem Prompt="任务框" Name="任务框 3" PromptU="Task Card" NameU="Task Card 3"/>
+    <Elem Prompt="任务框" Name="任务框 4" PromptU="Task Card" NameU="Task Card 4"/>
+    <Elem Prompt="任务框" Name="任务框 5" PromptU="Task Card" NameU="Task Card 5"/>
+    <Elem Prompt="任务条" Name="任务条" PromptU="Task bar" NameU="Task Bar"/>
+    <Elem Prompt="主任务" Name="主任务" PromptU="Main task" NameU="Main task"/>
+    <Elem Prompt="主任务" Name="主任务 2" PromptU="Main task 2" NameU="Main task 2"/>
+    <Elem Prompt="主任务" Name="主任务 3" PromptU="Main task 3" NameU="Main task 3"/>
+    <Elem Prompt="主任务" Name="主任务 4" PromptU="Main task 4" NameU="Main task 4"/>
+    <Elem Prompt="主任务" Name="主任务 5" PromptU="Main task 5" NameU="Main task 5"/>
+    <Elem Prompt="直角连接线" Name="直角连接线" PromptU="Right Angle Connector" NameU="Right Angle Connector"/>
+    <Elem Prompt="直线接线" Name="直线接线" PromptU="Line Connector" NameU="Line Connector"/>
+    <Elem Prompt="动态连接线" Name="动态连接线" PromptU="Dynamical Connector" NameU="Dynamical Connector"/>
+</Lib>

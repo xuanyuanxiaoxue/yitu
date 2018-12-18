@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Molecular Model">
+    <Elem Prompt="原子结构 1" Name="原子结构 1" PromptU="Atomic Structure 1" NameU="Atomic Structure 1"/>
+    <Elem Prompt="原子结构 2" Name="原子结构 2" PromptU="Atomic Structure 2" NameU="Atomic Structure 2"/>
+    <Elem Prompt="原子结构 3" Name="原子结构 3" PromptU="Atomic Structure 3" NameU="Atomic Structure 3"/>
+    <Elem Prompt="原子结构 4" Name="原子结构 4" PromptU="Atomic Structure 4" NameU="Atomic Structure 4"/>
+    <Elem Prompt="高光黑色分子" Name="黑色分子" PromptU="Black molecule with highlight" NameU="Black Molecule"/>
+    <Elem Prompt="高光红色分子" Name="红色分子" PromptU="Red molecule with highlight" NameU="Red Molecule"/>
+    <Elem Prompt="高光蓝色分子" Name="蓝色分子" PromptU="Blue molecule with highlight" NameU="Blue Molecule"/>
+    <Elem Prompt="棍" Name="棍" PromptU="Bridge" NameU="Bridge"/>
+    <Elem Prompt="棍 B" Name="棍 B" PromptU="Bridge B" NameU="Bridge B"/>
+    <Elem Prompt="黑色分子" Name="黑色分子 B" PromptU="Black molecule width bridge forward" NameU="Black Molecule B"/>
+    <Elem Prompt="黑色分子" Name="黑色分子 C" PromptU="Black molecule width bridge backward" NameU="Black Molecule C"/>
+    <Elem Prompt="桥在前的红色分子" Name="红色分子 B" PromptU="Red molecule with bridge forward" NameU="Red Molecule B"/>
+    <Elem Prompt="桥在后的红色分子" Name="红色分子 C" PromptU="Red molecule with bridge backward" NameU="Red Molecule C"/>
+    <Elem Prompt="桥在前的蓝色分子" Name="蓝色分子 B" PromptU="Bule molecule with bridge forward" NameU="Blue Molecule B"/>
+    <Elem Prompt="蓝色分子" Name="蓝色分子 C" PromptU="Blue molecule width bridge backward" NameU="Blue Red Molecule C"/>
+    <Elem Prompt="扁平黑色分子" Name="黑色分子 D" PromptU="Black molecule without highlight" NameU="Black Molecule D"/>
+    <Elem Prompt="扁平红色分子" Name="红色分子 D" PromptU="Red molecule without highlight" NameU="Red Molecule D"/>
+    <Elem Prompt="蓝色分子 D" Name="蓝色分子 D" PromptU="Blue Molecule D" NameU="Blue Molecule D"/>
+    <Elem Prompt="扁平带桥黑色分子" Name="黑色分子 E" PromptU="Black molecule with birdge(no highlight)" NameU="Black Molecule E"/>
+    <Elem Prompt="扁平带桥红色分子" Name="红色分子 E" PromptU="Red molecule with birdge(no highlight)" NameU="Red Molecule E"/>
+    <Elem Prompt="扁平带桥蓝色分子" Name="蓝色分子 E" PromptU="Blue molecular with birdge(no highlight)" NameU="Blue Molecular E"/>
+    <Elem Prompt="线" Name="线" PromptU="Line bridge" NameU="Line bridge"/>
+    <Elem Prompt="线 B" Name="线 B" PromptU="Line bridge B" NameU="Line bridge B"/>
+    <Elem Prompt="半球" Name="半球" PromptU="Half ball" NameU="Half ball"/>
+    <Elem Prompt="半球 2" Name="半球 2" PromptU="Half ball 2" NameU="Half ball 2"/>
+</Lib>

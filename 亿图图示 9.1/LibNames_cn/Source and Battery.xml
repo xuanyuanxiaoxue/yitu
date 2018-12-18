@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Source and Battery">
+    <Elem Prompt="电源" Name="电源" PromptU="Source" NameU="Source"/>
+    <Elem Prompt="理想电源" Name="理想电源" PromptU="Ideal source" NameU="Ideal source"/>
+    <Elem Prompt="交流电源" Name="交流电源" PromptU="AC source" NameU="AC source"/>
+    <Elem Prompt="直流电源" Name="直流电源" PromptU="DC source" NameU="DC source"/>
+    <Elem Prompt="恒流源" Name="恒流源" PromptU="Constant source" NameU="Constant source"/>
+    <Elem Prompt="电池" Name="电池" PromptU="Cell" NameU="Cell"/>
+    <Elem Prompt="电池" Name="电池" PromptU="Battery" NameU="Battery"/>
+    <Elem Prompt="直流电源" Name="直流电源" PromptU="AC" NameU="AC"/>
+    <Elem Prompt="电流" Name="电流" PromptU="Current" NameU="Current"/>
+    <Elem Prompt="直流电" Name="直流电" PromptU="DC" NameU="DC"/>
+    <Elem Prompt="直流电 2" Name="直流电 2" PromptU="DC 2" NameU="DC 2"/>
+    <Elem Prompt="受控源" Name="受控源" PromptU="Dependent" NameU="Dependent"/>
+    <Elem Prompt="受控源 2" Name="受控源 2" PromptU="Dependent 2" NameU="Dependent 2"/>
+    <Elem Prompt="受控源 3" Name="受控源 3" PromptU="Dependent 3" NameU="Dependent 3"/>
+    <Elem Prompt="噪音" Name="噪音" PromptU="Noise" NameU="Noise"/>
+    <Elem Prompt="振荡器" Name="振荡器" PromptU="Oscillator" NameU="Oscillator"/>
+</Lib>

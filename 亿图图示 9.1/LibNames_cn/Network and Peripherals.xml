@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Network and Peripherals">
+    <Elem Prompt="以太网" Name="以太网" PromptU="Ethernet" NameU="Ethernet"/>
+    <Elem Prompt="环形网络" Name="环形网络" PromptU="Ring network" NameU="Ring network"/>
+    <Elem Prompt="总线网" Name="总线网" PromptU="Straight bus" NameU="Straight bus"/>
+    <Elem Prompt="FDDI环形网络" Name="FDDI环形网络" PromptU="FDDI ring" NameU="FDDI ring"/>
+    <Elem Prompt="令牌环网" Name="令牌环网" PromptU="Token ring" NameU="Token ring"/>
+    <Elem Prompt="星形网络" Name="星形网络" PromptU="Star network" NameU="Star network"/>
+    <Elem Prompt="通信链路" Name="通信链路" PromptU="Communication link" NameU="Communication link"/>
+    <Elem Prompt="闪型连接" Name="闪型连接" PromptU="Flash link" NameU="Flash link"/>
+    <Elem Prompt="弹性网络" Name="弹性网络" PromptU="Flexi Node Link" NameU="Flexi Node Link"/>
+    <Elem Prompt="因特尔网云图" Name="因特尔网云图" PromptU="Internet Cloud" NameU="Internet Cloud"/>
+    <Elem Prompt="因特尔网云图" Name="因特尔网云图 2" PromptU="Internet Cloud" NameU="Internet Cloud 2"/>
+    <Elem Prompt="因特尔网云图" Name="因特尔网云图 3" PromptU="Internet Cloud" NameU="Internet Cloud 3"/>
+    <Elem Prompt="地球" Name="地球" PromptU="Earth" NameU="Earth"/>
+    <Elem Prompt="电缆" Name="电缆" PromptU="Cable" NameU="Cable"/>
+    <Elem Prompt="电缆" Name="电缆 2" PromptU="Cable" NameU="Cable 2"/>
+    <Elem Prompt="箭头 1" Name="箭头 1" PromptU="Arrow 1" NameU="Arrow 1"/>
+    <Elem Prompt="箭头符号 2" Name="箭头符号 2" PromptU="Arrow symbol 2" NameU="Arrow symbol 2"/>
+    <Elem Prompt="箭头符号 3" Name="箭头符号 3" PromptU="Arrow symbol 3" NameU="Arrow symbol 3"/>
+    <Elem Prompt="箭头符号 4" Name="箭头符号 4" PromptU="Arrow symbol 4" NameU="Arrow symbol 4"/>
+    <Elem Prompt="箭头符号 5" Name="箭头符号 5" PromptU="Arrow symbol 5" NameU="Arrow symbol 5"/>
+    <Elem Prompt="光纤" Name="光纤" PromptU="Optical fiber" NameU="Optical fiber"/>
+    <Elem Prompt="云符号 1" Name="云符号 1" PromptU="Cloud symbol 1" NameU="Cloud symbol 1"/>
+    <Elem Prompt="云符号 2" Name="云符号 2" PromptU="Cloud symbol 2" NameU="Cloud symbol 2"/>
+    <Elem Prompt="Wifi 符号" Name="Wifi 符号" PromptU="Wifi Symbol" NameU="Wifi Symbol"/>
+    <Elem Prompt="信号灯" Name="信号灯" PromptU="Lights" NameU="Lights"/>
+    <Elem Prompt="集线器" Name="集线器" PromptU="Bridge" NameU="Bridge"/>
+    <Elem Prompt="服务器" Name="服务器" PromptU="Server" NameU="Server"/>
+    <Elem Prompt="路由器" Name="路由器" PromptU="Router" NameU="Router"/>
+    <Elem Prompt="网桥" Name="网桥" PromptU="Wireless Router" NameU="Wireless Router"/>
+    <Elem Prompt="集线器" Name="集线器" PromptU="Bridge" NameU="Bridge"/>
+    <Elem Prompt="集线器 2" Name="集线器 2" PromptU="Hub" NameU="Hub"/>
+    <Elem Prompt="交换机" Name="交换机" PromptU="Switch" NameU="Switch"/>
+    <Elem Prompt="DVS 1" Name="DVS 1" PromptU="DVS 1" NameU="DVS 1"/>
+    <Elem Prompt="DVS 2" Name="DVS 2" PromptU="DVS 2" NameU="DVS 2"/>
+    <Elem Prompt="DVS 3" Name="DVS 3" PromptU="DVS 3" NameU="DVS 3"/>
+    <Elem Prompt="视频分配器" Name="视频分配器" PromptU="Video Splitter" NameU="Video Splitter"/>
+    <Elem Prompt="磁盘阵列" Name="磁盘阵列" PromptU="Disk Arrays" NameU="Disk Arrays"/>
+    <Elem Prompt="Wifi 设备" Name="Wifi 设备" PromptU="Wifi Device" NameU="Wifi Device"/>
+    <Elem Prompt="防火墙 1" Name="防火墙 1" PromptU="Firewall 1" NameU="Firewall 1"/>
+    <Elem Prompt="防火墙 2" Name="防火墙 2" PromptU="Firewall 2" NameU="Firewall 2"/>
+    <Elem Prompt="调制解调器" Name="调制解调器" PromptU="Modem" NameU="Modem"/>
+    <Elem Prompt="ADSL调制解调器" Name="ADSL调制解调器" PromptU="ADSL Modem" NameU="ADSL Modem"/>
+    <Elem Prompt="TP-Link" Name="TP-Link" PromptU="TP Link" NameU="TP Link"/>
+    <Elem Prompt="AP" Name="AP" PromptU="AP" NameU="AP"/>
+    <Elem Prompt="AP 2" Name="AP 2" PromptU="AP 2" NameU="AP 2"/>
+    <Elem Prompt="用户" Name="用户" PromptU="User" NameU="User"/>
+</Lib>

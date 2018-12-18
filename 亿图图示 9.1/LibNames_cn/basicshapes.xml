@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Basic Drawing Shapes">
+    <Elem Prompt="长方形" Name="长方形" PromptU="Rectangle" NameU="Rectangle"/>
+    <Elem Prompt="正方形" Name="正方形" PromptU="Square" NameU="Square"/>
+    <Elem Prompt="可改变圆角大小" Name="圆角矩形" PromptU="Can change the round size" NameU="Rounded Rectangle"/>
+    <Elem Prompt="可改变圆角大小" Name="圆角正方形" PromptU="Can change the round size" NameU="Rounded Square"/>
+    <Elem Prompt="斜切矩形" Name="斜切矩形" PromptU="Chamfered rectangle" NameU="Chamfered Rectangle"/>
+    <Elem Prompt="圆头矩形" Name="圆头矩形" PromptU="Round-head rectangle" NameU="Round-head Rectangle"/>
+    <Elem Prompt="中空矩形" Name="中空矩形" PromptU="Rectangle frame" NameU="Rectangle Frame"/>
+    <Elem Prompt="菱形" Name="菱形" PromptU="Diamond" NameU="Diamond"/>
+    <Elem Prompt="梯形" Name="梯形" PromptU="Trapezoid" NameU="Trapezoid"/>
+    <Elem Prompt="梯形" Name="梯形" PromptU="Trapezoid" NameU="Trapezoid"/>
+    <Elem Prompt="平行四边形" Name="平行四边形" PromptU="Parallelogram" NameU="Parallelogram"/>
+    <Elem Prompt="平角矩形" Name="平角矩形" PromptU="Bevel rectangle" NameU="Bevel Rectangle"/>
+    <Elem Prompt="等腰三角形" Name="等腰三角形" PromptU="Sosceles Triangle" NameU="Sosceles Triangle"/>
+    <Elem Prompt="等边三角形" Name="等边三角形" PromptU="Regular triangle" NameU="Regular Triangle"/>
+    <Elem Prompt="可改变角度" Name="三角形" PromptU="Can move the three vertexes" NameU="Triangle"/>
+    <Elem Prompt="带角度三角形" Name="带角度三角形" PromptU="Triangle show with angle" NameU="Triangle with angle"/>
+    <Elem Prompt="五边形" Name="五边形" PromptU="Pentagon" NameU="Pentagon"/>
+    <Elem Prompt="六边形" Name="六边形" PromptU="Hexagon" NameU="Hexagon"/>
+    <Elem Prompt="七边形" Name="七边形" PromptU="Heptagon" NameU="Heptagon"/>
+    <Elem Prompt="八边形" Name="八边形" PromptU="Octagon" NameU="Octagon"/>
+    <Elem Prompt="三角星" Name="三角星" PromptU="Star 3" NameU="Star 3"/>
+    <Elem Prompt="四角星" Name="四角星" PromptU="Star 4" NameU="Star 4"/>
+    <Elem Prompt="五角星" Name="五角星" PromptU="Star 5" NameU="Star 5"/>
+    <Elem Prompt="六角星" Name="六角星" PromptU="Star 6" NameU="Star 6"/>
+    <Elem Prompt="七角星" Name="七角星" PromptU="Star 7" NameU="Star 7"/>
+    <Elem Prompt="可改变顶点数量" Name="20顶点动态星形" PromptU="Can change the vertex number" NameU="Dynamic Star 20"/>
+    <Elem Prompt="可改变顶点数量" Name="动态内部星形" PromptU="Can change the vertex number" NameU="Dynamic Inner Star"/>
+    <Elem Prompt="可改变顶点数量" Name="动态多边形" PromptU="Vertex number can be changed." NameU="Dynamic Polygon"/>
+    <Elem Prompt="带有中空圆形" Name="动态多边形 2" PromptU="Dynamic polygon with hollow circle" NameU="Dynamic Polygon 2"/>
+    <Elem Prompt="可改变顶点数量" Name="动态星形" PromptU="Vertex number can be changed" NameU="Dynamic Star"/>
+    <Elem Prompt="可改变顶点数量" Name="动态星形 2" PromptU="Vertex number can be changed" NameU="Dynamic Star 2"/>
+    <Elem Prompt="可改变齿轮数量和齿轮大小" Name="动态齿轮" PromptU="Can change the number of the tooth" NameU="Dynamic Gear"/>
+    <Elem Prompt="可改变齿轮数量和齿轮大小" Name="动态齿轮 2" PromptU="Can change the number of the tooth" NameU="Dynamic Gear 2"/>
+    <Elem Prompt="心形" Name="心形" PromptU="Heart Shape" NameU="Heart Shape"/>
+    <Elem Prompt="十字架" Name="十字架" PromptU="Cross" NameU="Cross"/>
+    <Elem Prompt="可改变箭头方向和尺寸" Name="V型箭头" PromptU="Can change the arrow direction and size." NameU="V-type Arrow"/>
+    <Elem Prompt="旗帜" Name="旗帜" PromptU="Flag" NameU="Flag"/>
+    <Elem Prompt="竖旗" Name="竖旗" PromptU="Vertical Flag" NameU="Vertical Flag"/>
+    <Elem Prompt="椭圆" Name="椭圆" PromptU="Ellipse" NameU="Ellipse"/>
+    <Elem Prompt="可改变半径" Name="圆" PromptU="Can change the radius" NameU="Circle - Radius"/>
+    <Elem Prompt="可改变水平和垂直半轴长度" Name="圆" PromptU="Can change the horizontal and vertical radius" NameU="Circle - Diameter"/>
+    <Elem Prompt="可操作中心点" Name="圆" PromptU="Center drag circle" NameU="Center drag circle"/>
+    <Elem Prompt="圆环" Name="圆环" PromptU="Ring" NameU="Ring"/>
+    <Elem Prompt="多圆" Name="多圆" PromptU="Circles" NameU="Circles"/>
+    <Elem Prompt="半圆" Name="半圆" PromptU="Semicircle" NameU="Semicircle"/>
+    <Elem Prompt="扇形" Name="扇形" PromptU="Sector" NameU="Sector"/>
+    <Elem Prompt="Chamfered Rectangle" Name="斜切矩形" PromptU="Chamfered Rectangle" NameU="Chamfered Rectangle"/>
+    <Elem Prompt="半边圆角矩形" Name="半边圆角矩形" PromptU="Half-round Square" NameU="Half-round Square"/>
+    <Elem Prompt="菱形" Name="菱形" PromptU="Rhombus" NameU="Rhombus"/>
+    <Elem Prompt="半边圆角菱形" Name="半边圆角菱形" PromptU="Half-round Rhombus" NameU="Half-round Rhombus"/>
+    <Elem Prompt="半圆" Name="半圆" PromptU="Half Circle" NameU="Half Circle"/>
+    <Elem Prompt="星形" Name="星形" PromptU="Star" NameU="Star"/>
+    <Elem Prompt="心形" Name="心形" PromptU="Heart" NameU="Heart"/>
+    <Elem Prompt="盾牌形" Name="盾牌形" PromptU="Shield" NameU="Shield"/>
+    <Elem Prompt="盾牌形" Name="盾牌形" PromptU="Shield" NameU="Shield"/>
+    <Elem Prompt="盾牌形" Name="盾牌形" PromptU="Shield" NameU="Shield"/>
+    <Elem Prompt="花瓣形" Name="花瓣形" PromptU="Petal" NameU="Petal"/>
+    <Elem Prompt="水滴形" Name="水滴形" PromptU="Water Drop" NameU="Water Drop"/>
+    <Elem Prompt="郁金香形" Name="郁金香形" PromptU="Tulip Shape" NameU="Tulip Shape"/>
+    <Elem Prompt="蛋形" Name="蛋形" PromptU="Egg Shape" NameU="Egg Shape"/>
+    <Elem Prompt="晶体形" Name="晶体形" PromptU="Crystal Shape" NameU="Crystal Shape"/>
+    <Elem Prompt="特殊形状" Name="特殊形状" PromptU="Design Element" NameU="Design Element"/>
+    <Elem Prompt="特殊形状" Name="特殊形状" PromptU="Design Element" NameU="Design Element"/>
+    <Elem Prompt="特殊形状" Name="特殊形状" PromptU="Design Element" NameU="Design Element"/>
+    <Elem Prompt="特殊形状" Name="特殊形状" PromptU="Design Element" NameU="Design Element"/>
+    <Elem Prompt="特殊形状" Name="特殊形状" PromptU="Design Element" NameU="Design Element"/>
+    <Elem Prompt="特殊形状" Name="特殊形状" PromptU="Design Element" NameU="Design Element"/>
+    <Elem Prompt="特殊形状" Name="特殊形状" PromptU="Design Element" NameU="Design Element"/>
+    <Elem Prompt="Design Elment" Name="特殊形状" PromptU="Design Elment" NameU="Design Elment"/>
+    <Elem Prompt="特殊形状" Name="特殊形状" PromptU="Design Element" NameU="Design Element"/>
+    <Elem Prompt="特殊形状" Name="特殊形状" PromptU="Design Element" NameU="Design Element"/>
+    <Elem Prompt="Design Elment" Name="特殊形状" PromptU="Design Elment" NameU="Design Elment"/>
+    <Elem Prompt="Design Elment" Name="特殊形状" PromptU="Design Elment" NameU="Design Elment"/>
+    <Elem Prompt="特殊形状" Name="特殊形状" PromptU="Design Element" NameU="Design Element"/>
+    <Elem Prompt="特殊形状" Name="特殊形状" PromptU="Design Element" NameU="Design Element"/>
+    <Elem Prompt="特殊形状" Name="特殊形状" PromptU="Design Element" NameU="Design Element"/>
+    <Elem Prompt="特殊形状" Name="特殊形状" PromptU="Design Element" NameU="Design Element"/>
+    <Elem Prompt="特殊形状" Name="特殊形状" PromptU="Design Element" NameU="Design Element"/>
+    <Elem Prompt="特殊形状" Name="特殊形状" PromptU="Design Element" NameU="Design Element"/>
+    <Elem Prompt="特殊形状" Name="特殊形状" PromptU="Design Element" NameU="Design Element"/>
+    <Elem Prompt="特殊形状" Name="特殊形状" PromptU="Design Element" NameU="Design Element"/>
+    <Elem Prompt="特殊形状" Name="特殊形状" PromptU="Design Element" NameU="Design Element"/>
+    <Elem Prompt="特殊形状" Name="特殊形状" PromptU="Design Element" NameU="Design Element"/>
+    <Elem Prompt="空心矩形" Name="空心矩形" PromptU="Hollow Rectangle" NameU="Hollow Rectangle"/>
+    <Elem Prompt="长方形" Name="长方形" PromptU="Rectangle" NameU="Rectangle"/>
+    <Elem Prompt="长方形" Name="长方形" PromptU="Rectangle" NameU="Rectangle"/>
+    <Elem Prompt="Rounded Rectangle" Name="圆角矩形" PromptU="Rounded Rectangle" NameU="Rounded Rectangle"/>
+    <Elem Prompt="空心正方形" Name="空心正方形" PromptU="Hollow Square" NameU="Hollow Square"/>
+    <Elem Prompt="正方形" Name="正方形" PromptU="Square" NameU="Square"/>
+    <Elem Prompt="正方形" Name="正方形" PromptU="Square" NameU="Square"/>
+    <Elem Prompt="正方形" Name="正方形" PromptU="Square" NameU="Square"/>
+    <Elem Prompt="Half-rounded Square" Name="半边圆角矩形" PromptU="Half-rounded Square" NameU="Half-rounded Square"/>
+    <Elem Prompt="空心矩形" Name="空心矩形" PromptU="Hollow Rectangle" NameU="Hollow Rectangle"/>
+    <Elem Prompt="空心正方形" Name="削角方形" PromptU="Chamfered Square" NameU="Chamfered Square"/>
+    <Elem Prompt="空心圆形" Name="空心圆形" PromptU="Hollow Circle" NameU="Hollow Circle"/>
+    <Elem Prompt="空心圆形" Name="空心圆形" PromptU="Hollow Circle" NameU="Hollow Circle"/>
+    <Elem Prompt="空心圆形" Name="空心圆形" PromptU="Hollow Circle" NameU="Hollow Circle"/>
+    <Elem Prompt="空心圆形" Name="空心圆形" PromptU="Hollow Circle" NameU="Hollow Circle"/>
+    <Elem Prompt="空心圆形" Name="空心圆形" PromptU="Hollow Circle" NameU="Hollow Circle"/>
+    <Elem Prompt="空心圆形" Name="空心圆形" PromptU="Hollow Circle" NameU="Hollow Circle"/>
+    <Elem Prompt="空心圆形" Name="空心圆形" PromptU="Hollow Circle" NameU="Hollow Circle"/>
+    <Elem Prompt="空心圆形" Name="空心圆形" PromptU="Hollow Circle" NameU="Hollow Circle"/>
+    <Elem Prompt="空心圆形" Name="空心圆形" PromptU="Hollow Circle" NameU="Hollow Circle"/>
+    <Elem Prompt="空心圆形" Name="空心圆形" PromptU="Hollow Circle" NameU="Hollow Circle"/>
+    <Elem Prompt="特殊形状" Name="特殊形状" PromptU="Design Element" NameU="Design Element"/>
+    <Elem Prompt="特殊形状" Name="特殊形状" PromptU="Design Element" NameU="Design Element"/>
+    <Elem Prompt="圆形" Name="圆形" PromptU="Circle" NameU="Circle"/>
+    <Elem Prompt="圆形" Name="圆形" PromptU="Circle" NameU="Circle"/>
+    <Elem Prompt="圆形" Name="圆形" PromptU="Circle" NameU="Circle"/>
+    <Elem Prompt="特殊形状" Name="特殊形状" PromptU="Design Element" NameU="Design Element"/>
+    <Elem Prompt="特殊形状" Name="特殊形状" PromptU="Design Element" NameU="Design Element"/>
+    <Elem Prompt="特殊形状" Name="特殊形状" PromptU="Design Element" NameU="Design Element"/>
+    <Elem Prompt="特殊形状" Name="特殊形状" PromptU="Design Element" NameU="Design Element"/>
+    <Elem Prompt="特殊形状" Name="特殊形状" PromptU="Design Element" NameU="Design Element"/>
+    <Elem Prompt="特殊形状" Name="特殊形状" PromptU="Design Element" NameU="Design Element"/>
+    <Elem Prompt="椭圆" Name="椭圆" PromptU="Oval" NameU="Oval"/>
+    <Elem Prompt="空心椭圆" Name="空心椭圆" PromptU="Hollow Oval" NameU="Hollow Oval"/>
+    <Elem Prompt="特殊形状" Name="特殊形状" PromptU="Design Element" NameU="Design Element"/>
+    <Elem Prompt="特殊形状" Name="特殊形状" PromptU="Design Element" NameU="Design Element"/>
+    <Elem Prompt="特殊形状" Name="特殊形状" PromptU="Design Element" NameU="Design Element"/>
+    <Elem Prompt="特殊形状" Name="特殊形状" PromptU="Design Element" NameU="Design Element"/>
+    <Elem Prompt="水滴形" Name="水滴形" PromptU="Water Drop" NameU="Water Drop"/>
+    <Elem Prompt="特殊形状" Name="特殊形状" PromptU="Design Element" NameU="Design Element"/>
+    <Elem Prompt="特殊形状" Name="特殊形状" PromptU="Design Element" NameU="Design Element"/>
+    <Elem Prompt="空心盾牌形" Name="空心盾牌形" PromptU="Hollow Shield" NameU="Hollow Shield"/>
+    <Elem Prompt="盾牌形" Name="盾牌形" PromptU="Shield" NameU="Shield"/>
+    <Elem Prompt="盾牌形" Name="盾牌形" PromptU="Shield" NameU="Shield"/>
+    <Elem Prompt="郁金香形" Name="郁金香形" PromptU="Tulip" NameU="Tulip"/>
+    <Elem Prompt="半边圆角矩形" Name="半边圆角矩形" PromptU="Half-round Square" NameU="Half-round Square"/>
+    <Elem Prompt="半边圆角矩形" Name="半边圆角矩形" PromptU="Half-round Square" NameU="Half-round Square"/>
+    <Elem Prompt="半边圆角菱形" Name="半边圆角菱形" PromptU="Half-round Rhombus" NameU="Half-round Rhombus"/>
+    <Elem Prompt="特殊形状" Name="特殊形状" PromptU="Design Element" NameU="Design Element"/>
+    <Elem Prompt="特殊形状" Name="特殊形状" PromptU="Design Element" NameU="Design Element"/>
+    <Elem Prompt="特殊形状" Name="特殊形状" PromptU="Design Element" NameU="Design Element"/>
+    <Elem Prompt="特殊形状" Name="特殊形状" PromptU="Design Element" NameU="Design Element"/>
+    <Elem Prompt="特殊形状" Name="特殊形状" PromptU="Design Element" NameU="Design Element"/>
+    <Elem Prompt="特殊形状" Name="特殊形状" PromptU="Design Element" NameU="Design Element"/>
+    <Elem Prompt="特殊形状" Name="特殊形状" PromptU="Design Element" NameU="Design Element"/>
+    <Elem Prompt="特殊形状" Name="特殊形状" PromptU="Design Element" NameU="Design Element"/>
+    <Elem Prompt="特殊形状" Name="特殊形状" PromptU="Design Element" NameU="Design Element"/>
+    <Elem Prompt="特殊形状" Name="特殊形状" PromptU="Design Element" NameU="Design Element"/>
+    <Elem Prompt="菱形" Name="菱形" PromptU="Rhombus" NameU="Rhombus"/>
+    <Elem Prompt="特殊形状" Name="特殊形状" PromptU="Design Element" NameU="Design Element"/>
+    <Elem Prompt="特殊形状" Name="特殊形状" PromptU="Design Element" NameU="Design Element"/>
+    <Elem Prompt="特殊形状" Name="特殊形状" PromptU="Design Element" NameU="Design Element"/>
+    <Elem Prompt="晶体形" Name="晶体形" PromptU="Crystal Shape" NameU="Crystal Shape"/>
+    <Elem Prompt="晶体形" Name="晶体形" PromptU="Crystal Shape" NameU="Crystal Shape"/>
+    <Elem Prompt="特殊形状" Name="特殊形状" PromptU="Design Element" NameU="Design Element"/>
+    <Elem Prompt="特殊形状" Name="特殊形状" PromptU="Design Element" NameU="Design Element"/>
+    <Elem Prompt="扇形" Name="扇形" PromptU="Numeric sector" NameU="Sector"/>
+    <Elem Prompt="弧" Name="弧" PromptU="Arc" NameU="Arc"/>
+    <Elem Prompt="有三个控制点" Name="弧" PromptU="Arc with three control points" NameU="Arc"/>
+    <Elem Prompt="弧" Name="弧" PromptU="Numeric Arc" NameU="Arc"/>
+    <Elem Prompt="等距线" Name="等距线" PromptU="Equally spaced lines" NameU="Equally Spaced Lines"/>
+    <Elem Prompt="刻度" Name="刻度" PromptU="Scale" NameU="Scale"/>
+</Lib>

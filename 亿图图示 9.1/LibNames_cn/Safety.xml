@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Safety">
+    <Elem Prompt="路障 1" Name="路障 1" PromptU="Barricade 1" NameU="Barricade 1"/>
+    <Elem Prompt="路障 2" Name="路障 2" PromptU="Barricade 2" NameU="Barricade 2"/>
+    <Elem Prompt="禁止进入" Name="禁止进入" PromptU="Do not enter sign" NameU="Do not enter sign"/>
+    <Elem Prompt="封锁标志背景" Name="封锁标志背景" PromptU="Lockout tag background" NameU="Lockout tag background"/>
+    <Elem Prompt="封锁标志" Name="封锁标志" PromptU="Lockout tag" NameU="Lockout tag"/>
+    <Elem Prompt="红色标志" Name="红色标志" PromptU="Long-haired freaky people need not apply" NameU="Long-haired freaky people need not apply"/>
+    <Elem Prompt="橙色菱形警示标志" Name="橙色菱形警示标志" PromptU="Orange diamond caution sign" NameU="Orange diamond caution sign"/>
+    <Elem Prompt="路锥" Name="路锥" PromptU="Orange pylon" NameU="Orange pylon"/>
+    <Elem Prompt="橙色警示标志" Name="橙色警示标志" PromptU="Orange warning sign" NameU="Orange warning sign"/>
+    <Elem Prompt="OSHA安全警示带（黑白格）" Name="OSHA安全警示带（黑白格）" PromptU="OSHA tape (black-white checked)" NameU="OSHA tape (black-white checked)"/>
+    <Elem Prompt="OSHA安全警示带（黑白条）" Name="OSHA安全警示带（黑白条）" PromptU="OSHA tape (black-white striped)" NameU="OSHA tape (black-white striped)"/>
+    <Elem Prompt="OSHA安全警示带（红白格）" Name="OSHA安全警示带（红白格）" PromptU="OSHA tape (red-white checked)" NameU="OSHA tape (red-white checked)"/>
+    <Elem Prompt="OSHA安全警示带（红白条）" Name="OSHA安全警示带（红白条）" PromptU="OSHA tape (red-white striped)" NameU="OSHA tape (red-white striped)"/>
+    <Elem Prompt="OSHA安全警示带（黑黄格）" Name="OSHA安全警示带（黑黄格）" PromptU="OSHA tape (yellow-black checked)" NameU="OSHA tape (yellow-black checked)"/>
+    <Elem Prompt="OSHA安全警示带（黑黄条）" Name="OSHA安全警示带（黑黄条）" PromptU="OSHA tape (yellow-black striped)" NameU="OSHA tape (yellow-black striped)"/>
+    <Elem Prompt="小警示牌" Name="小警示牌" PromptU="Small caution sign" NameU="Small caution sign"/>
+    <Elem Prompt="小危险标志" Name="小危险标志" PromptU="Small danger sign" NameU="Small danger sign"/>
+    <Elem Prompt="小警示标志" Name="小警示标志" PromptU="Small warning sign" NameU="Small warning sign"/>
+    <Elem Prompt="停车让行" Name="停车让行" PromptU="Stop sign" NameU="Stop sign"/>
+    <Elem Prompt="白色危险标志" Name="白色危险标志" PromptU="White danger sign" NameU="White danger sign"/>
+    <Elem Prompt="白色A字警示牌" Name="白色A字警示牌" PromptU="White floor stand sign" NameU="White floor stand sign"/>
+    <Elem Prompt="黄色警示牌" Name="黄色警示牌" PromptU="Yellow caution sign" NameU="Yellow caution sign"/>
+    <Elem Prompt="黄色菱形警示标志" Name="黄色菱形警示标志" PromptU="Yellow diamond caution sign" NameU="Yellow diamond caution sign"/>
+    <Elem Prompt="黄色A字警示牌" Name="黄色A字警示牌" PromptU="Yellow floor stand sign" NameU="Yellow floor stand sign"/>
+    <Elem Prompt="黄色路锥" Name="黄色路锥" PromptU="Yellow pylon" NameU="Yellow pylon"/>
+    <Elem Prompt="黄色警示带" Name="黄色警示带" PromptU="Yellow warning stripe" NameU="Yellow warning stripe"/>
+    <Elem Prompt="让路标志" Name="让路标志" PromptU="Yield sign" NameU="Yield sign"/>
+</Lib>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Gift Voucher">
+    <Elem Prompt="礼物丝带" Name="礼物丝带" PromptU="Gift Ribbon" NameU="Gift Ribbon"/>
+    <Elem Prompt="礼物丝带 2" Name="礼物丝带 2" PromptU="Gift Ribbon 2" NameU="Gift Ribbon 2"/>
+    <Elem Prompt="礼物丝带 3" Name="礼物丝带 3" PromptU="Gift Ribbon 3" NameU="Gift Ribbon 3"/>
+    <Elem Prompt="礼物丝带 4" Name="礼物丝带 4" PromptU="Gift Ribbon 4" NameU="Gift Ribbon 4"/>
+    <Elem Prompt="礼物丝带 5" Name="礼物丝带 5" PromptU="Gift Ribbon 5" NameU="Gift Ribbon 5"/>
+    <Elem Prompt="礼物丝带 6" Name="礼物丝带 6" PromptU="Gift Ribbon 6" NameU="Gift Ribbon 6"/>
+    <Elem Prompt="蝴蝶结" Name="蝴蝶结" PromptU="Bow" NameU="Bow"/>
+    <Elem Prompt="蝴蝶结 2" Name="蝴蝶结 2" PromptU="Bow 2" NameU="Bow 2"/>
+    <Elem Prompt="标价签" Name="标价签" PromptU="Price Tag" NameU="Price Tag"/>
+    <Elem Prompt="标价签 2" Name="标价签 2" PromptU="Price Tag 2" NameU="Price Tag 2"/>
+    <Elem Prompt="标价签 3" Name="标价签 3" PromptU="Price Tag 3" NameU="Price Tag 3"/>
+    <Elem Prompt="价格标签" Name="价格标签" PromptU="Price Sticker" NameU="Price Sticker"/>
+    <Elem Prompt="价格标签 2" Name="价格标签 2" PromptU="Price Sticker 2" NameU="Price Sticker 2"/>
+    <Elem Prompt="价格标签 3" Name="价格标签 3" PromptU="Price Sticker 3" NameU="Price Sticker 3"/>
+    <Elem Prompt="价格标签 4" Name="价格标签 4" PromptU="Price Sticker 4" NameU="Price Sticker 4"/>
+    <Elem Prompt="价格标签 5" Name="价格标签 5" PromptU="Price Sticker 5" NameU="Price Sticker 5"/>
+    <Elem Prompt="礼物" Name="礼物" PromptU="Gift" NameU="Gift"/>
+    <Elem Prompt="礼物 2" Name="礼物 2" PromptU="Gift 2" NameU="Gift 2"/>
+    <Elem Prompt="致谢标签" Name="致谢标签" PromptU="Thank You Tag" NameU="Thank You Tag"/>
+    <Elem Prompt="涨价" Name="涨价" PromptU="Price Up" NameU="Price Up"/>
+    <Elem Prompt="降价" Name="降价" PromptU="Price Down" NameU="Price Down"/>
+    <Elem Prompt="出售标签" Name="出售标签" PromptU="Sale Tag" NameU="Sale Tag"/>
+    <Elem Prompt="出售标签 2" Name="出售标签 2" PromptU="Sale Tag 2" NameU="Sale Tag 2"/>
+    <Elem Prompt="打折横幅" Name="打折横幅" PromptU="Sale Banner" NameU="Sale Banner"/>
+    <Elem Prompt="缎带" Name="缎带" PromptU="Ribbons" NameU="Ribbons"/>
+    <Elem Prompt="缎带 2" Name="缎带 2" PromptU="Ribbons 2" NameU="Ribbons 2"/>
+    <Elem Prompt="缎带 3" Name="缎带 3" PromptU="Ribbons 3" NameU="Ribbons 3"/>
+</Lib>

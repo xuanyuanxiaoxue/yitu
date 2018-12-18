@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="AWS Database">
+    <Elem NameU="ElastiCache Memcache" Name="ElastiCache云缓存" PromptU="ElastiCache Memcache" Prompt="ElastiCache云缓存"/>
+    <Elem NameU="ElastiCache Redis" Name="ElastiCache Redis" PromptU="ElastiCache Redis" Prompt="ElastiCache Redis"/>
+    <Elem NameU="ElasticCache Node" Name="ElasticCache 节点" PromptU="ElasticCache Node" Prompt="ElasticCache 节点"/>
+    <Elem NameU="ElasticCache" Name="ElasticCache" PromptU="ElasticCache" Prompt="ElasticCache"/>
+    <Elem NameU="RDS DB Instance" Name="RDS 数据库实例" PromptU="RDS DB Instance" Prompt="RDS 数据库实例"/>
+    <Elem NameU="Instance Read Replica" Name="实例只读副本" PromptU="Instance Read Replica" Prompt="实例只读副本"/>
+    <Elem NameU="Instance Standby" Name="备用实例" PromptU="Instance Standby" Prompt="备用实例"/>
+    <Elem NameU="MS SQL Instance" Name="MS SQL 实例" PromptU="MS SQL Instance" Prompt="MS SQL 实例"/>
+    <Elem NameU="MySQL DB Instance" Name="MySQL数据库实例" PromptU="MySQL DB Instance" Prompt="MySQL数据库实例"/>
+    <Elem NameU="RDS" Name="RDS" PromptU="RDS" Prompt="RDS"/>
+    <Elem NameU="Redshift DW1 Cluster" Name="Redshift DW1集群" PromptU="Redshift DW1 Cluster" Prompt="Redshift DW1集群"/>
+    <Elem NameU="DW2 Cluster" Name="DW2集群" PromptU="DW2 Cluster" Prompt="DW2 集群"/>
+    <Elem NameU="SSD Family Cluster" Name="SSD家当集群" PromptU="SSD Family Cluster" Prompt="SSD家当集群"/>
+    <Elem NameU="RedShift" Name="红移" PromptU="RedShift" Prompt="红移"/>
+    <Elem NameU="SimpleDB Domain" Name="简单数据库域名" PromptU="SimpleDB Domain" Prompt="简单数据库域名"/>
+    <Elem NameU="SimpleDB" Name="简单数据库" PromptU="SimpleDB" Prompt="简单数据库"/>
+    <Elem NameU="DB" Name="数据库" PromptU="DB" Prompt="数据库"/>
+    <Elem NameU="Global Secondary Indexes" Name="全球二级索引" PromptU="Global Secondary Indexes" Prompt="全球二级索引"/>
+    <Elem NameU="Attribute" Name="属性" PromptU="Attribute" Prompt="属性"/>
+    <Elem NameU="Attributes" Name="属性" PromptU="Attributes" Prompt="属性"/>
+    <Elem NameU="Item" Name="项目" PromptU="Item" Prompt="项目"/>
+    <Elem NameU="Items" Name="项目" PromptU="Items" Prompt="项目"/>
+    <Elem NameU="Table" Name="桌面" PromptU="Table" Prompt="桌面"/>
+    <Elem NameU="RDS MasterSQL" Name="远程数据服务 MasterSQL" PromptU="RDS MasterSQL" Prompt="远程数据服务 MasterSQL"/>
+    <Elem NameU="RDS Replica sets with PIOP" Name="有采集处理系统的RDS副本集" PromptU="RDS Replica sets with PIOP" Prompt="有采集处理系统的RDS副本集"/>
+    <Elem NameU="RDS SlaveSQL" Name="远程数据服务 SlaveSQL" PromptU="RDS SlaveSQL" Prompt="远程数据服务 SlaveSQL"/>
+</Lib>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Presentation Symbols">
+    <Elem NameU="Growing" PromptU="Growing" Name="增长" Prompt="增长"/>
+    <Elem NameU="Moving Up" PromptU="Moving Up" Name="上升" Prompt="上升"/>
+    <Elem NameU="Moving Down" PromptU="Moving Down" Name="下降" Prompt="下降"/>
+    <Elem NameU="Up" PromptU="Up Arrow" Name="向上" Prompt="向上箭头"/>
+    <Elem NameU="Circular Arrows" PromptU="Circular Arrows" Name="环形箭头" Prompt="环形箭头"/>
+    <Elem NameU="Interactive Arrows" PromptU="Interactive Arrows" Name="交互箭头" Prompt="交互箭头"/>
+    <Elem NameU="Recycling" PromptU="Recycling Arrows" Name="循环" Prompt="循环箭头"/>
+    <Elem NameU="Opposite Arrows" PromptU="Opposite Arrows" Name="反方向箭头" Prompt="反方向箭头"/>
+    <Elem NameU="Forward" PromptU="Forward Arrow" Name="向前" Prompt="向前箭头"/>
+    <Elem NameU="Backward" PromptU="Backward Arrow" Name="向后" Prompt="向后箭头"/>
+    <Elem NameU="Right Forward" PromptU="Right Forward" Name="右前方" Prompt="右前方"/>
+    <Elem NameU="Chart" PromptU="Chart" Name="图表" Prompt="图表"/>
+    <Elem NameU="Gantt Chart" PromptU="Gantt Chart" Name="甘特图" Prompt="甘特图"/>
+    <Elem NameU="World Map" PromptU="World Map" Name="世界地图" Prompt="世界地图"/>
+    <Elem NameU="Link" PromptU="Link" Name="链接" Prompt="链接"/>
+    <Elem NameU="Broken Link" PromptU="Broken Link" Name="断链" Prompt="断链"/>
+    <Elem NameU="Goods" PromptU="Goods" Name="货物" Prompt="货物"/>
+    <Elem NameU="Cloud" PromptU="Cloud" Name="云" Prompt="云"/>
+    <Elem NameU="Team" PromptU="Team" Name="团队" Prompt="团队"/>
+    <Elem NameU="Question Mark" PromptU="Question Mark" Name="问号" Prompt="问号"/>
+</Lib>

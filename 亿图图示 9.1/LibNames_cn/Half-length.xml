@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Half-length">
+    <Elem NameU="Doctor" PromptU="Doctor" Name="医生" Prompt="医生"/>
+    <Elem NameU="Chef" PromptU="Chef" Name="厨师" Prompt="厨师"/>
+    <Elem NameU="Priest" PromptU="Priest" Name="牧师" Prompt="牧师"/>
+    <Elem NameU="Policeman" PromptU="Policeman" Name="警察" Prompt="警察"/>
+    <Elem NameU="Law-officer" PromptU="Law-officer" Name="法官" Prompt="法官"/>
+    <Elem NameU="Lawyer" PromptU="Lawyer" Name="律师" Prompt="律师"/>
+    <Elem NameU="Teacher" PromptU="Teacher" Name="教师" Prompt="教师"/>
+    <Elem NameU="Professor" PromptU="Professor" Name="教授" Prompt="教授"/>
+    <Elem NameU="Docter" PromptU="Docter" Name="博士" Prompt="博士"/>
+    <Elem NameU="Pupil" PromptU="Pupil" Name="学生" Prompt="学生"/>
+    <Elem NameU="Businessman" PromptU="Businessman" Name="商人" Prompt="商人"/>
+    <Elem NameU="Businessman 2" PromptU="Businessman 2" Name="商人 2" Prompt="商人 2"/>
+    <Elem NameU="Manager" PromptU="Manager" Name="经理" Prompt="经理"/>
+    <Elem NameU="Secretary" PromptU="Secretary" Name="秘书" Prompt="秘书"/>
+    <Elem NameU="Office woman" PromptU="Office woman" Name="职业女性" Prompt="职业女性"/>
+    <Elem NameU="Support" PromptU="Support" Name="客服" Prompt="客服"/>
+    <Elem NameU="Assistant" PromptU="Assistant" Name="助理" Prompt="助理"/>
+    <Elem NameU="Female Staff/User" PromptU="Female Staff/User" Name="女员工/用户" Prompt="女员工/用户"/>
+    <Elem NameU="Female Staff/User 2" PromptU="Female Staff/User 2" Name="女员工/用户 2" Prompt="女员工/用户 2"/>
+    <Elem NameU="Female Staff/User 3" PromptU="Female Staff/User 3" Name="女员工/用户 3" Prompt="女员工/用户 3"/>
+    <Elem NameU="Staff/User" PromptU="Staff/User" Name="员工/用户" Prompt="员工/用户"/>
+    <Elem NameU="Staff/User 2" PromptU="Staff/User 2" Name="员工/用户 2" Prompt="员工/用户 2"/>
+    <Elem NameU="Staff/User 3" PromptU="Staff/User 3" Name="员工/用户 3" Prompt="员工/用户 3"/>
+    <Elem NameU="Office man" PromptU="Office man" Name="职业男性" Prompt="职业男性"/>
+    <Elem NameU="Manager" PromptU="Manager" Name="经理" Prompt="经理"/>
+    <Elem NameU="CEO" PromptU="CEO" Name="CEO" Prompt="CEO"/>
+    <Elem NameU="CEO 2" PromptU="CEO 2" Name="CEO 2" Prompt="CEO 2"/>
+    <Elem NameU="Programmer" PromptU="Programmer" Name="程序员" Prompt="程序员"/>
+    <Elem NameU="Artist" PromptU="Artist" Name="艺术家" Prompt="艺术家"/>
+    <Elem NameU="Musician" PromptU="Musician" Name="音乐家" Prompt="音乐家"/>
+    <Elem NameU="Writer" PromptU="Writer" Name="作家" Prompt="作家"/>
+    <Elem NameU="Consultant" PromptU="Consultant" Name="顾问" Prompt="顾问"/>
+    <Elem NameU="Speechman" PromptU="Speechman" Name="演说家" Prompt="演说家"/>
+    <Elem NameU="Driver" PromptU="Driver" Name="司机" Prompt="司机"/>
+    <Elem NameU="Shroff" PromptU="Shroff" Name="钱币鉴定人" Prompt="钱币鉴定人"/>
+    <Elem NameU="Engineer" PromptU="Engineer" Name="工程师" Prompt="工程师"/>
+    <Elem NameU="Engineer 2" PromptU="Engineer 2" Name="工程师 2" Prompt="工程师 2"/>
+    <Elem NameU="Engineer" PromptU="Engineer" Name="工程师" Prompt="工程师"/>
+    <Elem NameU="Worker" PromptU="Worker" Name="工人" Prompt="工人"/>
+    <Elem NameU="Express" PromptU="Express" Name="快递员" Prompt="快递员"/>
+    <Elem NameU="Barber" PromptU="Barber" Name="理发师" Prompt="理发师"/>
+    <Elem NameU="Builder" PromptU="Builder" Name="建筑师" Prompt="建筑师"/>
+    <Elem NameU="Waiter" PromptU="Waiter" Name="服务员" Prompt="服务员"/>
+    <Elem NameU="Waitress" PromptU="Waitress" Name="服务员" Prompt="服务员"/>
+    <Elem NameU="Armyman" PromptU="Armyman" Name="军人" Prompt="军人"/>
+    <Elem NameU="Stewardess" PromptU="Stewardess" Name="空姐" Prompt="空姐"/>
+    <Elem NameU="Nurse" PromptU="Nurse" Name="护士" Prompt="护士"/>
+    <Elem NameU="Repairman" PromptU="Repairman" Name="修理工" Prompt="修理工"/>
+    <Elem NameU="Electric welding" PromptU="Electric welding" Name="电焊工" Prompt="电焊工"/>
+    <Elem NameU="Hoopman" PromptU="Hoopman" Name="篮球运动员" Prompt="篮球运动员"/>
+    <Elem NameU="Footballman" PromptU="Footballman" Name="橄榄球运动员" Prompt="橄榄球运动员"/>
+    <Elem NameU="Footballer" PromptU="Footballer" Name="足球运动员" Prompt="足球运动员"/>
+    <Elem NameU="Judgment" PromptU="Judgment" Name="裁判" Prompt="裁判"/>
+    <Elem NameU="Bodyguards" PromptU="Bodyguards" Name="保镖" Prompt="保镖"/>
+    <Elem NameU="Woman" PromptU="Woman" Name="女人" Prompt="女人"/>
+    <Elem NameU="Man" PromptU="Man" Name="男人" Prompt="男人"/>
+</Lib>

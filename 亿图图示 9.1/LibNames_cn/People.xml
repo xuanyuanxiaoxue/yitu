@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="People">
+    <Elem NameU="Man" PromptU="Man" Name="男士" Prompt="男士"/>
+    <Elem NameU="Man 2" PromptU="Man" Name="男士 2" Prompt="男士"/>
+    <Elem NameU="Man 3" PromptU="Man" Name="男士 3" Prompt="男士"/>
+    <Elem NameU="Man 4" PromptU="Man" Name="男士 4" Prompt="男士"/>
+    <Elem NameU="Man 5" PromptU="Man" Name="男士 5" Prompt="男士"/>
+    <Elem NameU="Man 6" PromptU="Man" Name="男士 6" Prompt="男士"/>
+    <Elem NameU="Woman" PromptU="Woman" Name="女士" Prompt="女士"/>
+    <Elem NameU="Woman 2" PromptU="Woman" Name="女士 2" Prompt="女士"/>
+    <Elem NameU="Woman 3" PromptU="Woman" Name="女士 3" Prompt="女士"/>
+    <Elem NameU="Woman 4" PromptU="Woman" Name="女士 4" Prompt="女士"/>
+    <Elem NameU="Woman 5" PromptU="Woman" Name="女士 5" Prompt="女士"/>
+    <Elem NameU="Woman 6" PromptU="Woman" Name="女士 6" Prompt="女士"/>
+    <Elem NameU="Woman 7" PromptU="Woman" Name="女士 7" Prompt="女士"/>
+    <Elem NameU="Running" PromptU="Running man" Name="奔跑" Prompt="奔跑中的人"/>
+    <Elem NameU="Rest" PromptU="Rest man" Name="休息" Prompt="休息"/>
+    <Elem NameU="Working" PromptU="Working man" Name="工作中" Prompt="工作中的人"/>
+    <Elem NameU="Shake Hands" PromptU="Shake Hands" Name="握手" Prompt="握手"/>
+    <Elem NameU="Man Dolly" PromptU="3D Dolly" Name="男孩洋娃娃" Prompt="3D洋娃娃"/>
+    <Elem NameU="Woman Dolly" PromptU="3D Dolly" Name="女孩洋娃娃" Prompt="3D洋娃娃"/>
+    <Elem NameU="Man Dolly 2" PromptU="3D Dolly" Name="男孩洋娃娃 2" Prompt="3D洋娃娃"/>
+    <Elem NameU="Woman Dolly 2" PromptU="3D Dolly" Name="女孩洋娃娃2" Prompt="3D洋娃娃"/>
+    <Elem NameU="Dolly with Speaker" PromptU="3D Dolly" Name="带喇叭的洋娃娃" Prompt="3D洋娃娃"/>
+    <Elem NameU="Boy Dolly" PromptU="3D Dolly" Name="男生洋娃娃" Prompt="3D洋娃娃"/>
+    <Elem NameU="Girl Dolly" PromptU="3D Dolly" Name="女生洋娃娃" Prompt="3D洋娃娃"/>
+    <Elem NameU="Man Dolly 3" PromptU="Dolly" Name="男孩洋娃娃 3" Prompt="洋娃娃"/>
+    <Elem NameU="Woman Dolly 3" PromptU="Dolly" Name="女孩洋娃娃 3" Prompt="洋娃娃"/>
+    <Elem NameU="Figure" PromptU="Figure" Name="人像" Prompt="人像"/>
+    <Elem NameU="Turned Figure" PromptU="Turned left figure" Name="侧身人像" Prompt="侧身人像"/>
+    <Elem NameU="Communication" PromptU="Communication" Name="交流" Prompt="交流"/>
+    <Elem NameU="Team" PromptU="Team" Name="团队" Prompt="团队"/>
+</Lib>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Flow Meters">
+    <Elem Prompt="模拟输出流量传感器" Name="模拟输出流量传感器" PromptU="Analog output flow sensor" NameU="Analog output flow sensor"/>
+    <Elem Prompt="气旋流量计" Name="气旋流量计" PromptU="Cyclonic flow meter" NameU="Cyclonic flow meter"/>
+    <Elem Prompt="流元件" Name="流元件" PromptU="Flow element" NameU="Flow element"/>
+    <Elem Prompt="锥式流量计" Name="锥式流量计" PromptU="Flow meter with cone" NameU="Flow meter with cone"/>
+    <Elem Prompt="流量积算器" Name="流量积算器" PromptU="Flow totalizer" NameU="Flow totalizer"/>
+    <Elem Prompt="流管" Name="流管" PromptU="Flow tube" NameU="Flow tube"/>
+    <Elem Prompt="流量计" Name="流量计" PromptU="Flowmeter" NameU="Flowmeter"/>
+    <Elem Prompt="电磁流量计 1" Name="电磁流量计 1" PromptU="Magnetic flow meter 1" NameU="Magnetic flow meter 1"/>
+    <Elem Prompt="电磁流量计 2" Name="电磁流量计 2" PromptU="Magnetic flow meter 2" NameU="Magnetic flow meter 2"/>
+    <Elem Prompt="电磁流量计" Name="电磁流量计" PromptU="Magnetic flowmeter" NameU="Magnetic flowmeter"/>
+    <Elem Prompt="简单流量控制器" Name="简单流量控制器" PromptU="Simple flow rate controller" NameU="Simple flow rate controller"/>
+    <Elem Prompt="简单流量计" Name="简单流量计" PromptU="Simple flowmeter" NameU="Simple flowmeter"/>
+    <Elem Prompt="智能科氏流量计 1" Name="智能科氏流量计 1" PromptU="Smart coriolis mass flowmeter 1" NameU="Smart coriolis mass flowmeter 1"/>
+    <Elem Prompt="智能科氏流量计 2" Name="智能科氏流量计 2" PromptU="Smart coriolis mass flowmeter 2" NameU="Smart coriolis mass flowmeter 2"/>
+    <Elem Prompt="智能电磁流量计" Name="智能电磁流量计" PromptU="Smart magnetic flowmeter" NameU="Smart magnetic flowmeter"/>
+    <Elem Prompt="热式质量流量计" Name="热式质量流量计" PromptU="Thermal mass flowmeter" NameU="Thermal mass flowmeter"/>
+    <Elem Prompt="涡轮流量计" Name="涡轮流量计" PromptU="Turbine meter" NameU="Turbine meter"/>
+    <Elem Prompt="温度" Name="温度" PromptU="Temperature" NameU="Temperature"/>
+    <Elem Prompt="排气压力" Name="排气压力" PromptU="Exhaust pressure" NameU="Exhaust pressure"/>
+    <Elem Prompt="压力" Name="压力" PromptU="Pressure" NameU="Pressure"/>
+    <Elem Prompt="微电脑控制器" Name="微电脑控制器" PromptU="Micro-computerized Controller" NameU="Micro-computerized Controller"/>
+</Lib>

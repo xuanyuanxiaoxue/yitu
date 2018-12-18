@@ -1,0 +1,200 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DataFormats>
+	<DTUnits>
+			<Unit NameU="Year" Local="Год"></Unit>
+			<Unit NameU="Quarter" Local="Сезон"></Unit>
+			<Unit NameU="Month" Local="Месяц"></Unit>
+			<Unit NameU="Week" Local="Неделя"></Unit>
+			<Unit NameU="Day" Local="День"></Unit>
+			<Unit NameU="Hour" Local="Час"></Unit>
+			<Unit NameU="Minute"	Local="Минута"></Unit>
+			<Unit NameU="Second"	Local="Секунда"></Unit>			
+	</DTUnits>		
+	<Strings>
+		<String Show="TRUE" NameU="Normal"	Local="Средняя"></String>
+		<String Show="TRUE" NameU="Uppercase"	Local="Прописная"></String>
+		<String Show="TRUE" NameU="Lowercase"	Local="Строчная"></String>
+	</Strings>
+	<Durations>
+		<Unit Show="TRUE" NameU="Week"	Local="Неделя"></Unit>
+		<Unit Show="TRUE" NameU="Day"	Local="День"></Unit>		
+		<Unit Show="TRUE" NameU="Hour"	Local="Час"></Unit>
+		<Unit Show="TRUE" NameU="Minute"	Local="Минута"></Unit>
+		<Unit Show="TRUE" NameU="Second"	Local="Секунда"></Unit>
+		<Unit Show="TRUE" NameU="Hour&amp;Minute"	Local="Час:Минута"></Unit>
+		<Unit Show="TRUE" NameU="Minute&amp;Second"	Local="Минута:Секунда"></Unit>	
+	</Durations>
+	<Dates Default="0">
+		<Date Show="TRUE" Format="yyyy-MM-dd"></Date>
+		<Date Show="TRUE" Format="yyyy/M/d"></Date>
+		<Date Show="TRUE" Format="M/d/yyyy"></Date>
+		<Date Show="TRUE" Format="M/d/yy"></Date>
+		<Date Show="TRUE" Format="d/M/yyyy"></Date>
+		<Date Show="TRUE" Format="d/M/yy"></Date>
+		<Date Show="TRUE" Format="M.d.yyyy"></Date>
+		<Date Show="TRUE" Format="d.M.yyyy"></Date>
+		<Date Show="TRUE" Format="yy-M-d"></Date>	
+		<Date Show="TRUE" Format="MM-dd-yy"></Date>		
+		<Date Show="TRUE" Format="MMMM d,yyyy"></Date>
+		<Date Show="TRUE" Format="dddd,MMMM dd,yyyy"></Date>
+		<Date Show="TRUE" Format="d MMMM yyyy"></Date>	
+		<Date Show="TRUE" Format="d-MMM-yy"></Date>	
+		<Date Show="TRUE" Format="MMM.d,yy"></Date>
+		<Date Show="TRUE" Format="MMMM yy"></Date>
+		<Date Show="TRUE" Format="MMM-yy"></Date>
+		<Date Show="TRUE" Format="yyyy"></Date>		
+		<Date Show="TRUE" Format="MMM"></Date>
+		<Date Show="TRUE" Format="M/d/yyyy h:mm:ss ap"></Date>
+		<Date Show="TRUE" Format="M/d/yyyy h:mm ap"></Date>
+		<Date Show="TRUE" Format="d/M/yyyy h:mm:ss ap"></Date>
+		<Date Show="TRUE" Format="d/M/yyyy h:mm ap"></Date>	
+		<Date Show="TRUE" Format="h:mm ap"></Date>
+		<Date Show="TRUE" Format="h:mm:ss ap"></Date>
+		<Date Show="TRUE" Format="hh:mm"></Date>	
+		<Date Show="TRUE" Format="hh:mm:ss"></Date>
+	  <Date Show="TRUE" Format="hh"></Date>
+	  <Date Show="TRUE" Format="mm"></Date>
+	  <Date Show="TRUE" Format="ss"></Date>
+	</Dates>
+	<Units Default="0">
+		<Unit Show="TRUE" NameU="None" Flag="None" Local="Нет"></Unit>
+		<Unit Show="TRUE" NameU="kilometre" Flag="km" Local="км"></Unit>
+		<Unit Show="TRUE" NameU="hectometre" Flag="hm" Local="гм"></Unit>
+		<Unit Show="TRUE" NameU="decametre" Flag="dam" Local="дам"></Unit>
+		<Unit Show="TRUE" NameU="metre" Flag="m" Local="м"></Unit>		
+		<Unit Show="TRUE" NameU="decimetre" Flag="dm" Local="дм"></Unit>
+		<Unit Show="TRUE" NameU="centimetre" Flag="cm" Local="см"></Unit>
+		<Unit Show="TRUE" NameU="millimetre" Flag="mm" Local="мм"></Unit>
+		<Unit Show="TRUE" NameU="decimillimetre" Flag="dmm" Local="дмм"></Unit>
+		<Unit Show="TRUE" NameU="centimillimetre" Flag="cmm" Local="смм"></Unit>
+		<Unit Show="TRUE" NameU="micrometre" Flag="um" Local="мкм"></Unit>
+		<Unit Show="TRUE" NameU="nautical mile" Flag="n.m" Local="м.мили"></Unit>
+		<Unit Show="TRUE" NameU="mile" Flag="mi" Local="мили"></Unit>
+		<Unit Show="TRUE" NameU="yard" Flag="yd" Local="ярды"></Unit>
+		<Unit Show="TRUE" NameU="foot" Flag="ft" Local="футы"></Unit>
+		<Unit Show="TRUE" NameU="inch" Flag="in" Local="дюймы"></Unit>
+		<Unit Show="TRUE" NameU="square kilometre" Flag="sq.km" Local="кв.км"></Unit>
+		<Unit Show="TRUE" NameU="hectare" Flag="ha" Local="га"></Unit>
+		<Unit Show="TRUE" NameU="are" Flag="a" Local="а"></Unit>		
+		<Unit Show="TRUE" NameU="square metre" Flag="sq.m" Local="кв.м"></Unit>
+		<Unit Show="TRUE" NameU="square centimetre" Flag="sq.cm" Local="кв.см"></Unit>
+		<Unit Show="TRUE" NameU="square mile" Flag="sq.mi" Local="кв.мили"></Unit>
+		<Unit Show="TRUE" NameU="acre" Flag="ac" Local="акр"></Unit>
+		<Unit Show="TRUE" NameU="square yard" Flag="sq.yd" Local="кв.ярды"></Unit>
+		<Unit Show="TRUE" NameU="square foot" Flag="sq.ft" Local="кв.футы"></Unit>
+		<Unit Show="TRUE" NameU="square inch" Flag="sq.in" Local="кв.дюймы"></Unit>
+		<Unit Show="TRUE" NameU="tonne" Flag="t" Local="т"></Unit>
+		<Unit Show="TRUE" NameU="quintal" Flag="q" Local="ц."></Unit>
+		<Unit Show="TRUE" NameU="kilogram" Flag="kg" Local="кг"></Unit>
+		<Unit Show="TRUE" NameU="hectogramme" Flag="hg" Local="гг"></Unit>
+		<Unit Show="TRUE" NameU="decagramme" Flag="dag" Local="даг"></Unit>
+		<Unit Show="TRUE" NameU="gramme" Flag="g" Local="г"></Unit>
+		<Unit Show="TRUE" NameU="decigramme" Flag="dg" Local="дг"></Unit>
+		<Unit Show="TRUE" NameU="centigramme" Flag="cg" Local="сг"></Unit>
+		<Unit Show="TRUE" NameU="milligramme" Flag="mg" Local="мг"></Unit>
+		<Unit Show="TRUE" NameU="microgramme" Flag="ug" Local="мкг"></Unit>
+		<Unit Show="TRUE" NameU="long ton" Flag="l.t" Local="дл.т"></Unit>
+		<Unit Show="TRUE" NameU="short ton" Flag="s.t" Local="кр.т"></Unit>
+		<Unit Show="TRUE" NameU="hundredweight" Flag="cwt" Local="хандредвейт"></Unit>
+		<Unit Show="TRUE" NameU="stone" Flag="stone" Local="стоун "></Unit>
+		<Unit Show="TRUE" NameU="pound" Flag="lb" Local="фунт"></Unit>
+		<Unit Show="TRUE" NameU="ounce" Flag="oz" Local="унция"></Unit>
+		<Unit Show="TRUE" NameU="dram" Flag="dr" Local="драхма "></Unit>
+		<Unit Show="TRUE" NameU="grain" Flag="gr" Local="гран"></Unit>	
+		<Unit Show="TRUE" NameU="kilolitre" Flag="kl" Local="кл"></Unit>
+		<Unit Show="TRUE" NameU="hectolitre" Flag="hl" Local="гл"></Unit>
+		<Unit Show="TRUE" NameU="decalitre" Flag="dal" Local="дал "></Unit>
+		<Unit Show="TRUE" NameU="litre" Flag="l" Local="л"></Unit>
+		<Unit Show="TRUE" NameU="decilitre" Flag="dl" Local="дл"></Unit>
+		<Unit Show="TRUE" NameU="centilitre" Flag="cl" Local="сл"></Unit>
+		<Unit Show="TRUE" NameU="millilitre" Flag="ml" Local="мл"></Unit>	
+		<Unit Show="TRUE" NameU="microlitre" Flag="ul" Local="мкл"></Unit>
+		<Unit Show="TRUE" NameU="bushel" Flag="bsh" Local="бушель"></Unit>
+		<Unit Show="TRUE" NameU="peck" Flag="pk" Local="пек"></Unit>
+		<Unit Show="TRUE" NameU="gallon" Flag="gal" Local="галл"></Unit>
+		<Unit Show="TRUE" NameU="quart" Flag="qt" Local="кварта"></Unit>
+		<Unit Show="TRUE" NameU="pint" Flag="p" Local="пинта"></Unit>
+		<Unit Show="TRUE" NameU="ampere" Flag="A" Local="ампер"></Unit>
+		<Unit Show="TRUE" NameU="kelvin" Flag="K" Local="кельвин"></Unit>
+		<Unit Show="TRUE" NameU="mole" Flag="mol" Local="моль"></Unit>
+		<Unit Show="TRUE" NameU="candela" Flag="cd" Local="кд"></Unit>
+		<Unit Show="TRUE" NameU="second" Flag="s" Local="с"></Unit>
+		<Unit Show="TRUE" NameU="hertz" Flag="Hz" Local="Гц"></Unit>
+		<Unit Show="TRUE" NameU="pascal" Flag="Pa" Local="Па"></Unit>
+		<Unit Show="TRUE" NameU="newton" Flag="N" Local="Н"></Unit>
+		<Unit Show="TRUE" NameU="joule" Flag="J" Local="Дж"></Unit>
+		<Unit Show="TRUE" NameU="watt" Flag="W" Local="Вт"></Unit>
+		<Unit Show="TRUE" NameU="coulomb" Flag="C" Local="кл"></Unit>
+		<Unit Show="TRUE" NameU="volt" Flag="V" Local="В"></Unit>
+		<Unit Show="TRUE" NameU="ohm" Flag="Ω" Local="ом"></Unit>
+		<Unit Show="TRUE" NameU="farad" Flag="F" Local="Ф"></Unit>
+		<Unit Show="TRUE" NameU="henry" Flag="H" Local="Н"></Unit>	
+		<Unit Show="TRUE" NameU="centigrade" Flag="°C" Local="°C"></Unit>
+		<Unit Show="TRUE" NameU="radian" Flag="rad" Local="радиан"></Unit>
+		<Unit Show="TRUE" NameU="steradian" Flag="sr" Local="стерадиан"></Unit>
+		<Unit Show="TRUE" NameU="Custom" Flag="Custom" Local="кастом"></Unit>
+	</Units>	
+	<Currency Default="8">
+		<Cur Show="TRUE" Country="нет" CountryU="None" Flag="None" NewFlag="None" Local="нет"></Cur>		
+		<Cur Show="TRUE" Country="Аргентина" CountryU="Argentina" Flag="Arg.p." NewFlag="ARP" Local="песо"></Cur>	
+		<Cur Show="TRUE" Country="Австралия" CountryU="Australia" Flag="$A." NewFlag="AUD" Local="австралийский доллар"></Cur>
+		<Cur Show="TRUE" Country="Австрия" CountryU="Austria" Flag="Sch." NewFlag="ATS" Local="австрийский шиллинг"></Cur>		
+		<Cur Show="TRUE" Country="Бельгия" CountryU="Belgium" Flag="B.Fr." NewFlag="BEF" Local="франк"></Cur>		
+		<Cur Show="TRUE" Country="Бразилия" CountryU="Brazil" Flag="Gr.$" NewFlag="BRC" Local="бразильский реал"></Cur>		
+		<Cur Show="TRUE" Country="Канада" CountryU="Canada" Flag="$" NewFlag="CAD" Local="канадский доллар"></Cur>		
+		<Cur Show="TRUE" Country="Чили" CountryU="Chile" Flag="P." NewFlag="CLP" Local="Чилийское песо"></Cur>
+		<Cur Show="TRUE" Country="Китай" CountryU="China" Flag="￥" NewFlag="CNY" Local="Юань"></Cur>
+		<Cur Show="TRUE" Country="Гонконг" CountryU="China Hongkong" Flag="HK$" NewFlag="HKD" Local="гонконгский доллар"></Cur>		
+		<Cur Show="TRUE" Country="Тайвань" CountryU="China Taiwan" Flag="NT$" NewFlag="TWD" Local="тайваньский доллар"></Cur>	
+		<Cur Show="TRUE" Country="Макао" CountryU="China Macao" Flag="P." NewFlag="MOP" Local="Патака"></Cur>		
+		<Cur Show="TRUE" Country="Чехия" CountryU="Czech Republic" Flag="Kcs." NewFlag="CSK" Local="крона"></Cur>
+		<Cur Show="TRUE" Country="Дания" CountryU="Denmark" Flag="D.Kr." NewFlag="DKK" Local="датская крона"></Cur>		
+		<Cur Show="TRUE" Country="Египет" CountryU="Egypt" Flag="£E." NewFlag="EGP" Local="Египетский фунт"></Cur>		
+		<Cur Show="TRUE" Country="Европейский союз" CountryU="European Union" Flag="€" NewFlag="EUR" Local="евро"></Cur>			
+		<Cur Show="TRUE" Country="Фиджи" CountryU="Fiji" Flag="F.$" NewFlag="FJD" Local="Доллар Фиджи"></Cur>
+		<Cur Show="TRUE" Country="Финляндия" CountryU="Finland" Flag="FMK." NewFlag="FIM" Local="финская марка"></Cur>
+		<Cur Show="TRUE" Country="Франция" CountryU="France" Flag="F.F." NewFlag="FRF" Local="франк"></Cur>		
+		<Cur Show="TRUE" Country="Габон" CountryU="Gabon" Flag="CFAF" NewFlag="XAF" Local=" Франк КФА ВЕАС"></Cur>		
+		<Cur Show="TRUE" Country="Германия" CountryU="Germany" Flag="DM." NewFlag="DEM" Local="Немецкая марка"></Cur>		
+		<Cur Show="TRUE" Country="Греция" CountryU="Greece" Flag="Dr." NewFlag="GRD" Local="Драхма"></Cur>		
+		<Cur Show="TRUE" Country="Венгрия" CountryU="Hungary" Flag="FT." NewFlag="HUF" Local="венгерский форинт"></Cur>
+		<Cur Show="TRUE" Country="Исландия" CountryU="Iceland" Flag="I.Kr." NewFlag="ISK" Local="исландская крона"></Cur>
+		<Cur Show="TRUE" Country="Индия" CountryU="India" Flag="Re." NewFlag="INR" Local="Индийская рупия"></Cur>
+		<Cur Show="TRUE" Country="Индонезия" CountryU="Indonesia" Flag="Rps." NewFlag="IDR" Local="рупия"></Cur>
+		<Cur Show="TRUE" Country="Иран" CountryU="Iran" Flag="RI." NewFlag="IRR" Local="иранский риал"></Cur>		
+		<Cur Show="TRUE" Country="Ирландия" CountryU="Ireland" Flag="£" NewFlag="IEP" Local="Ирландский фунт"></Cur>
+		<Cur Show="TRUE" Country="Италия" CountryU="Italy" Flag="Lit." NewFlag="ITL" Local="лира "></Cur>
+		<Cur Show="TRUE" Country="Япония" CountryU="Japan" Flag="¥" NewFlag="JPY" Local="Японская иена"></Cur>			
+		<Cur Show="TRUE" Country="Южная Корея" CountryU="Korea" Flag="" NewFlag="KRW" Local="Южнокорейская вона"></Cur>
+		<Cur Show="TRUE" Country="Люксембург" CountryU="Luxembourg" Flag="Lux.F." NewFlag="LUF" Local="люксембургский франк"></Cur>
+		<Cur Show="TRUE" Country="Малайзия" CountryU="Malaysia" Flag="M.$" NewFlag="MYR" Local="ринггит"></Cur>
+		<Cur Show="TRUE" Country="Мальта" CountryU="Malta" Flag="£.M." NewFlag="MTP" Local="мальтийская лира"></Cur>
+		<Cur Show="TRUE" Country="Маврикий" CountryU="Mauritius" Flag="Maur. Rp." NewFlag="MUR" Local="Маврикийская рупия"></Cur>
+		<Cur Show="TRUE" Country="Мексика " CountryU="Mexico" Flag="$" NewFlag="MXP" Local="Мексиканское песо"></Cur>
+		<Cur Show="TRUE" Country="Марокко" CountryU="Morocco" Flag="DH." NewFlag="MAD" Local="Марокканский дирхам "></Cur>
+		<Cur Show="TRUE" Country="Голландия" CountryU="Netheriands" Flag="Gs." NewFlag="NLG" Local="гульден"></Cur>
+		<Cur Show="TRUE" Country="Новая Зеландия" CountryU="New Zealand" Flag="$NZ." NewFlag="NZD" Local="Новозеландский доллар"></Cur>
+		<Cur Show="TRUE" Country="Норвегия" CountryU="Norway" Flag="N.Kr." NewFlag="NOK" Local="Норвежская крона"></Cur>
+		<Cur Show="TRUE" Country="Филиппины" CountryU="Philippines" Flag="Ph.Pes." NewFlag="PHP" Local="Филиппинское песо"></Cur>
+		<Cur Show="TRUE" Country="Польша" CountryU="Poland" Flag="ZL." NewFlag="PLZ" Local="Злотый"></Cur>
+		<Cur Show="TRUE" Country="Португалия" CountryU="Portugal" Flag="ESC." NewFlag="PTE" Local="эскудо"></Cur>
+		<Cur Show="TRUE" Country="Румыния" CountryU="Romania" Flag="L." NewFlag="ROL" Local="Румынский лей"></Cur>
+		<Cur Show="TRUE" Country="Россия" CountryU="Russia" Flag="Rbs. Rbl." NewFlag="SUR" Local="рубля"></Cur>
+		<Cur Show="TRUE" Country="Саудовская Аравия" CountryU="Saudi Arabia" Flag="S.R." NewFlag="SAR" Local="Саудовский риал "></Cur>
+		<Cur Show="TRUE" Country="Сейшельские Острова" CountryU="Seychelles" Flag="S.RP" NewFlag="SCR" Local="Сейшельская рупия"></Cur>
+		<Cur Show="TRUE" Country="Сингапур" CountryU="Singapore" Flag="S.$" NewFlag="SGD" Local="Сингапурский доллар"></Cur>		
+		<Cur Show="TRUE" Country="Соломоновы острова" CountryU="Solomon Islands" Flag="SL.$" NewFlag="SBD" Local="доллар Соломоновых островов"></Cur>
+		<Cur Show="TRUE" Country="Южная Африка" CountryU="South Africa" Flag="R." NewFlag="ZAR" Local="южноафриканский ранд"></Cur>
+		<Cur Show="TRUE" Country="Испания" CountryU="Spain" Flag="Pts." NewFlag="ESP" Local="пезета "></Cur>	
+		<Cur Show="TRUE" Country="Швеция" CountryU="Sweden" Flag="S.Kr." NewFlag="SEK" Local="Шведская крона"></Cur>
+		<Cur Show="TRUE" Country="Швейцария" CountryU="Switzerland" Flag="SFr." NewFlag="CHF" Local="Швейцария"></Cur>	
+		<Cur Show="TRUE" Country="Таиланд" CountryU="Thailand" Flag="BT." NewFlag="THP" Local="Бат "></Cur>
+		<Cur Show="TRUE" Country="Турция" CountryU="Turkey" Flag="£T." NewFlag="TRL" Local="Турецкая лира"></Cur>
+		<Cur Show="TRUE" Country="Великобритания" CountryU="United Kiongdom" Flag="£" NewFlag="GBP" Local="Фунт стерлингов "></Cur>
+		<Cur Show="TRUE" Country="США" CountryU="United States" Flag="$" NewFlag="USD" Local="Доллар"></Cur>	
+		<Cur Show="TRUE" Country="Венесуэла" CountryU="Venezuela" Flag="B" NewFlag="VEB" Local="Венесуэльский боливар "></Cur>
+		<Cur Show="TRUE" Country="Вьетнам" CountryU="Vietnam" Flag="D." NewFlag="VND" Local="Донг "></Cur>
+		<Cur Show="TRUE" Country="Югославия" CountryU="Yugoslavia" Flag="Din.Dr." NewFlag="YUD" Local="Югославский динар "></Cur>
+		<Cur Show="TRUE" Country="пользовательский" CountryU="Custom" Flag="Custom" NewFlag="Custom" Local="пользовательский"></Cur>	
+	</Currency>
+</DataFormats>

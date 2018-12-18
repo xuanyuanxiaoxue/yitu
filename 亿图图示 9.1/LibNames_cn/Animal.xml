@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Animals">
+    <Elem NameU="Bear" PromptU="Bear" Name="熊" Prompt="熊"/>
+    <Elem NameU="Camel" PromptU="Camel" Name="骆驼" Prompt="骆驼"/>
+    <Elem NameU="Cat" PromptU="Cat" Name="猫" Prompt="猫"/>
+    <Elem NameU="Chelonian" PromptU="Chelonian" Name="乌龟" Prompt="乌龟"/>
+    <Elem NameU="Cow" PromptU="Cow" Name="牛" Prompt="牛"/>
+    <Elem NameU="Deer" PromptU="Deer" Name="鹿" Prompt="鹿"/>
+    <Elem NameU="Dragon" PromptU="Dragon" Name="龙" Prompt="龙"/>
+    <Elem NameU="Dog" PromptU="Dog" Name="狗" Prompt="狗"/>
+    <Elem NameU="Dog 2" PromptU="Dog" Name="狗 2" Prompt="狗"/>
+    <Elem NameU="Dolphin" PromptU="Dolphin" Name="海豚" Prompt="海豚"/>
+    <Elem NameU="Elephant" PromptU="Elephant" Name="大象" Prompt="大象"/>
+    <Elem NameU="Giraffe" PromptU="Giraffe" Name="长颈鹿" Prompt="长颈鹿"/>
+    <Elem NameU="Horse" PromptU="Horse" Name="马" Prompt="马"/>
+    <Elem NameU="Hippocampal" PromptU="Hippocampal" Name="海马" Prompt="海马"/>
+    <Elem NameU="Kangaroo" PromptU="Kangaroo" Name="袋鼠" Prompt="袋鼠"/>
+    <Elem NameU="Lion" PromptU="Lion" Name="狮子" Prompt="狮子"/>
+    <Elem NameU="Mouse" PromptU="Mouse" Name="鼠" Prompt="鼠"/>
+    <Elem NameU="Orangutang" PromptU="Orangutang" Name="猩猩" Prompt="猩猩"/>
+    <Elem NameU="Owl" PromptU="Owl" Name="鹰" Prompt="鹰"/>
+    <Elem NameU="Pig" PromptU="Pig" Name="猪" Prompt="猪"/>
+    <Elem NameU="Rabbit" PromptU="Rabbit" Name="兔" Prompt="兔"/>
+    <Elem NameU="Rhinoceros" PromptU="Rhinoceros" Name="犀牛" Prompt="犀牛"/>
+    <Elem NameU="Sea Lion" PromptU="Sea Lion" Name="海狮" Prompt="海狮"/>
+    <Elem NameU="Sheep" PromptU="Sheep" Name="绵羊" Prompt="绵羊"/>
+    <Elem NameU="Snake" PromptU="Snake" Name="蛇" Prompt="蛇"/>
+    <Elem NameU="Squirrel" PromptU="Squirrel" Name="松树" Prompt="松树"/>
+    <Elem NameU="Tiger" PromptU="Tiger" Name="老虎" Prompt="老虎"/>
+    <Elem NameU="Wolf" PromptU="Wolf" Name="狼" Prompt="狼"/>
+    <Elem NameU="Butterfly" PromptU="Butterfly" Name="蝴蝶" Prompt="蝴蝶"/>
+</Lib>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Building Core">
+    <Elem Prompt="指南针" Name="指南针" PromptU="North" NameU="North"/>
+    <Elem Prompt="方向" Name="方向" PromptU="Direction" NameU="Direction"/>
+    <Elem Prompt="箭头" Name="箭头" PromptU="Arrow" NameU="Arrow"/>
+    <Elem Prompt="空调机位" Name="空调机位" PromptU="Air-conditioned location" NameU="Air-conditioned location"/>
+    <Elem Prompt="实心墙" Name="实心墙" PromptU="Solid walls" NameU="Solid walls"/>
+    <Elem Prompt="台阶" Name="台阶" PromptU="Step" NameU="Step"/>
+    <Elem Prompt="装饰性楼梯" Name="装饰性楼梯" PromptU="Ornamental stair" NameU="Ornamental stair"/>
+    <Elem Prompt="剪式楼梯" Name="剪式楼梯" PromptU="Scissor staircase" NameU="Scissor staircase"/>
+    <Elem Prompt="直楼梯" Name="直楼梯" PromptU="Straight staircase" NameU="Straight staircase"/>
+    <Elem Prompt="弯曲楼梯" Name="弯曲楼梯" PromptU="Curved staircase" NameU="Curved staircase"/>
+    <Elem Prompt="弯曲楼梯 2" Name="弯曲楼梯 2" PromptU="Curved staircase 2" NameU="Curved staircase 2"/>
+    <Elem Prompt="螺旋式楼梯" Name="螺旋式楼梯" PromptU="Winding staircase" NameU="Winding staircase"/>
+    <Elem Prompt="Z字形楼梯" Name="Z字形楼梯" PromptU="Z-shaped stairs" NameU="Z-shaped stairs"/>
+    <Elem Prompt="分开的楼梯" Name="分开的楼梯" PromptU="Divided return stairs" NameU="Divided return stairs"/>
+    <Elem Prompt="分开的楼梯" Name="分开的楼梯" PromptU="Divided return stairs" NameU="Divided return stairs"/>
+    <Elem Prompt="移动门" Name="移动门" PromptU="Pocket door" NameU="Pocket door"/>
+    <Elem Prompt="双向门" Name="双向门" PromptU="Double pocket door" NameU="Double pocket door"/>
+    <Elem Prompt="左螺旋楼梯" Name="左螺旋楼梯" PromptU="Left spiral staircase" NameU="Left spiral staircase"/>
+    <Elem Prompt="右螺旋楼梯" Name="右螺旋楼梯" PromptU="Right spiral staircase" NameU="Right spiral staircase"/>
+    <Elem Prompt="拐角平台" Name="拐角平台" PromptU="Corner landing" NameU="Corner landing"/>
+    <Elem Prompt="楼梯平台" Name="楼梯平台" PromptU="Stair landing" NameU="Stair landing"/>
+    <Elem Prompt="自动扶梯" Name="自动扶梯" PromptU="Escalator" NameU="Escalator"/>
+    <Elem Prompt="斜坡" Name="斜坡" PromptU="Ramp" NameU="Ramp"/>
+    <Elem Prompt="扶手" Name="扶手" PromptU="Handrail" NameU="Handrail"/>
+    <Elem Prompt="拐角扶手" Name="拐角扶手" PromptU="Corner handrail" NameU="Corner handrail"/>
+    <Elem Prompt="抽水马桶" Name="抽水马桶" PromptU="Toilet" NameU="Toilet"/>
+    <Elem Prompt="多个水池" Name="多个水池" PromptU="Multi sink" NameU="Multi sink"/>
+    <Elem Prompt="多个小便池" Name="多个小便池" PromptU="Multi urinal" NameU="Multi urinal"/>
+    <Elem Prompt="多个隔栏" Name="多个隔栏" PromptU="Multi stall" NameU="Multi stall"/>
+    <Elem Prompt="台面水池" Name="台面水池" PromptU="Countertop sink" NameU="Countertop sink"/>
+    <Elem Prompt="抽水马桶隔栏" Name="抽水马桶隔栏" PromptU="Toilet stall" NameU="Toilet stall"/>
+    <Elem Prompt="电梯" Name="电梯" PromptU="Elevator" NameU="Elevator"/>
+    <Elem Prompt="货梯" Name="货梯" PromptU="Freight elevator" NameU="Freight elevator"/>
+    <Elem Prompt="斜槽" Name="斜槽" PromptU="Chute" NameU="Chute"/>
+</Lib>

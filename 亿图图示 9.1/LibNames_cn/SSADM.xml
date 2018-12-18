@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="SSADM">
+    <Elem Prompt="实体类型" Name="实体类型" PromptU="Entity Type" NameU="Entity Type"/>
+    <Elem Prompt="扩展实体" Name="扩展实体" PromptU="External Entity" NameU="External Entity"/>
+    <Elem Prompt="关系" Name="关系" PromptU="Relationships" NameU="Relationships"/>
+    <Elem Prompt="处理盒" Name="处理盒" PromptU="Process Box" NameU="Process Box"/>
+    <Elem Prompt="DFD 处理" Name="DFD 处理" PromptU="DFD Process" NameU="DFD Process"/>
+    <Elem Prompt="DFD 数据存储" Name="DFD 数据存储" PromptU="DFD Datastore" NameU="DFD Datastore"/>
+    <Elem Prompt="DFD 流" Name="DFD 流" PromptU="DFD Flow" NameU="DFD Flow"/>
+    <Elem Prompt="实体生命历程" Name="实体生命历程" PromptU="Entity Life History" NameU="Entity Life History"/>
+    <Elem Prompt="实体描述" Name="实体描述" PromptU="Entity Description" NameU="Entity Description"/>
+    <Elem Prompt="纵缆" Name="纵缆" PromptU="Overview" NameU="Overview"/>
+    <Elem Prompt="资源流" Name="资源流" PromptU="Resource Flow" NameU="Resource Flow"/>
+    <Elem Prompt="转换" Name="转换" PromptU="Transition" NameU="Transition"/>
+</Lib>

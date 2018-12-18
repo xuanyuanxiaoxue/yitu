@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<LocalStrings Version="8.0">
+	<!-- NameU is the enumerate defiened in LocalizeUtil. Should be kept in same order! -->
+	<String NameU="Unknow" Name="未知" />
+	<String NameU="ID" Name="ID" />
+	<String NameU="Task Name" Name="任务名称" />
+	<String NameU="Start" Name="开始" />
+	<String NameU="Finish" Name="结束" />
+	<String NameU="Duration" Name="持续时间" />
+	<String NameU="Complete" Name="完成" />
+	<String NameU="Resource" Name="资源" />
+	<String NameU="Cost" Name="费用" />
+	<String NameU="Real Start" Name="实际开始时间" />
+	<String NameU="Real Finish" Name="实际结束时间" />
+	<String NameU="Real Duration" Name="实际持续时间" />
+	<String NameU="Priority" Name="优先" />
+	<String NameU="Hyperlink" Name="超链接" />
+	<String NameU="Symbols" Name="符号" />
+	<String NameU="Custom Date" Name="自定义日期" />
+	<String NameU="Custom Duration" Name="自定义持续时间" />
+	<String NameU="Custom Text" Name="自定义文本" />
+	<String NameU="Custom Number" Name="自定义数字" />
+	<String NameU="Custom Percent" Name="自定义百分比" />
+	<String NameU="Custom Currency" Name="自定义货币" />
+	<String NameU="Right Label" Name="右标签" />
+	<String NameU="Left Label" Name="左标签" />
+	<String NameU="Task Level" Name="任务层次" />	
+	<String NameU="Dependency" Name="从属关系" />
+	<String NameU="Task Comment" Name="任务评论" />
+	<String NameU="Text" Name="文本" />
+	<String NameU="String" Name="字符串" />
+	<String NameU="Number" Name="数字" />
+	<String NameU="DateTime" Name="日期" />
+	<String NameU="Duration" Name="持续时间" />
+	<String NameU="Currency" Name="货币" />
+	<String NameU="Boolean" Name="布尔值" />
+	<String NameU="FixedList" Name="固定列表" />
+	<String NameU="VariableList" Name="可变列表" />
+	<String NameU="Color" Name="颜色" />
+	<String NameU="Percentage" Name="百分比" />
+	<String NameU="Scientific" Name="科学的" />
+	<String NameU="Image" Name="图片" />
+	<String NameU="General" Name="常规" />
+	<String NameU="Fraction" Name="分数" />
+	<String NameU="Custom" Name="自定义" />
+	<String NameU="Search results for" Name="搜索结果" />
+	<String NameU="Page" Name="页" />
+	<String NameU="Layer" Name="层" />
+	<String NameU="Background" Name="背景" />
+	<String NameU="SelfDefine" Name="自定义" />
+	<String NameU="Personal Cloud" Name="私有云" />
+  <String NameU="Public Cloud" Name="公共云" />
+  <String NameU="Team Cloud" Name="团队云" />
+  <String NameU="A few Seconds ago" Name="几秒钟前" />
+  <String NameU="minute ago" Name="分前" />
+  <String NameU="minutes ago" Name="分前" />  
+  <String NameU="hour ago" Name="小时前" />
+  <String NameU="hours ago" Name="小时前" />  
+  <String NameU="day ago" Name="天前" />
+  <String NameU="days ago" Name="天前" />  
+  <String NameU="month ago" Name="月前" />
+  <String NameU="months ago" Name="月前" />  
+  <String NameU="year ago" Name="年前" />
+  <String NameU="years ago" Name="年前" />
+  <String NameU="Name" Name="姓名" />
+  <String NameU="First Name" Name="名字" />
+  <String NameU="Last Name" Name="姓" />
+  <String NameU="Phone" Name="电话" />  
+  <String NameU="ReportsTo" Name="报告给" />
+  <String NameU="Report" Name="报告" />
+  <String NameU="IsAssistant" Name="助理" />
+  <String NameU="Assist" Name="协助" />
+  <String NameU="Gantt" Name="甘特图" />
+  <String NameU="Time Bar" Name="时间轴" />
+  <String NameU="Diamond Milestone" Name="菱形里程碑" />
+  <String NameU="Main Idea" Name="主题" />
+  <String NameU="Main Topic" Name="主标题" />
+  <String NameU="Sub Topic" Name="副标题" />
+  <String NameU="Position" Name="职位" />
+  <String NameU="Assistant" Name="助理" />  
+</LocalStrings>
+

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="GCP Storage &amp; Databases">
+    <Elem NameU="Cloud Bigtable" Name="云储存系统" PromptU="Cloud Bigtable" Prompt="云储存系统"/>
+    <Elem NameU="Cloud Datastore" Name="运数据中心" PromptU="Cloud Datastore" Prompt="运数据中心"/>
+    <Elem NameU="Cloud Spanner" Name="云资料库" PromptU="Cloud Spanner" Prompt="云资料库"/>
+    <Elem NameU="Cloud SQL" Name="云 SQL" PromptU="Cloud SQL" Prompt="云 SQL"/>
+    <Elem NameU="Cloud Storage" Name="云储存" PromptU="Cloud Storage" Prompt="云储存"/>
+    <Elem NameU="Data Transfer Appliance" Name="数据传输应用" PromptU="Data Transfer Appliance" Prompt="数据传输应用"/>
+    <Elem NameU="Persistent Disk" Name="永久磁盘" PromptU="Persistent Disk" Prompt="永久磁盘"/>
+</Lib>

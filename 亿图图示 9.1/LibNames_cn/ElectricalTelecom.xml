@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Electrical and Telecom">
+    <Elem Prompt="电气开关盒" Name="电气开关盒" PromptU="Electrical switchbox" NameU="Electrical switchbox"/>
+    <Elem Prompt="单极开关" Name="单极开关" PromptU="Single pole switch" NameU="Single pole switch"/>
+    <Elem Prompt="三路开关" Name="三路开关" PromptU="Three-way switch" NameU="Three-way switch"/>
+    <Elem Prompt="1P 开关" Name="1P 开关" PromptU="1P switch" NameU="1P switch"/>
+    <Elem Prompt="2P 开关" Name="2P 开关" PromptU="2P switch" NameU="2P switch"/>
+    <Elem Prompt="4P 开关" Name="4P 开关" PromptU="4P switch" NameU="4P switch"/>
+    <Elem Prompt="1DP 开关" Name="1DP 开关" PromptU="1DP switch" NameU="1DP switch"/>
+    <Elem Prompt="2DP 开关" Name="2DP 开关" PromptU="2DP switch" NameU="2DP switch"/>
+    <Elem Prompt="水龙头" Name="水龙头" PromptU="Water tap" NameU="Water tap"/>
+    <Elem Prompt="顶灯底座" Name="顶灯底座" PromptU="Lum. ceiling mount" NameU="Lum. ceiling mount"/>
+    <Elem Prompt="隐形式顶灯" Name="隐形式顶灯" PromptU="Encl ceiling lum" NameU="Encl ceiling lum"/>
+    <Elem Prompt="壁灯" Name="壁灯" PromptU="Wall light" NameU="Wall light"/>
+    <Elem Prompt="断路器" Name="断路器" PromptU="Circuit breaker" NameU="Circuit breaker"/>
+    <Elem Prompt="多灯灯柱" Name="多灯灯柱" PromptU="Multi-light bar" NameU="Multi-light bar"/>
+    <Elem Prompt="灯柱" Name="灯柱" PromptU="Light bar" NameU="Light bar"/>
+    <Elem Prompt="下照灯" Name="下照灯" PromptU="Downlight" NameU="Downlight"/>
+    <Elem Prompt="户外照明" Name="户外照明" PromptU="Outdoor lighting" NameU="Outdoor lighting"/>
+    <Elem Prompt="单孔插座" Name="单孔插座" PromptU="Singleplex receptacle" NameU="Singleplex receptacle"/>
+    <Elem Prompt="双孔插座" Name="双孔插座" PromptU="Duplex receptacle" NameU="Duplex receptacle"/>
+    <Elem Prompt="两排双孔插座（四）" Name="两排双孔插座（四）" PromptU="Double Duplex Receptacle Outlet(Quad)" NameU="Double Duplex Receptacle Outlet(Quad)"/>
+    <Elem Prompt="三孔插座" Name="三孔插座" PromptU="Triplex Receptacle Outlet" NameU="Triplex Receptacle Outlet"/>
+    <Elem Prompt="四孔插座" Name="四孔插座" PromptU="Fourplex receptacle" NameU="Fourplex receptacle"/>
+    <Elem Prompt="炉灶插座" Name="炉灶插座" PromptU="Range Outlet" NameU="Range Outlet"/>
+    <Elem Prompt="烘干机插座" Name="烘干机插座" PromptU="Dryer Outlet" NameU="Dryer Outlet"/>
+    <Elem Prompt="防水插座" Name="防水插座" PromptU="Waterproof Receptacle Outlet" NameU="Waterproof Receptacle Outlet"/>
+    <Elem Prompt="带开关的便利插座" Name="带开关的便利插座" PromptU="Switch and Convenience Outlet" NameU="Switch and Convenience Outlet"/>
+    <Elem Prompt="分割线双插座" Name="分割线双插座" PromptU="Split Wired Duplex Outlet" NameU="Split Wired Duplex Outlet"/>
+    <Elem Prompt="分割线三孔插座" Name="分割线三孔插座" PromptU="Split Wired Triplex Outlet" NameU="Split Wired Triplex Outlet"/>
+    <Elem Prompt="双孔专用插座" Name="双孔专用插座" PromptU="Duplex Special Purpose Outlet" NameU="Duplex Special Purpose Outlet"/>
+    <Elem Prompt="洗碗机插座" Name="洗碗机插座" PromptU="Dishwasher Outlet" NameU="Dishwasher Outlet"/>
+    <Elem Prompt="悬垂照明电线" Name="悬垂照明电线" PromptU="Drop Cord" NameU="Drop Cord"/>
+    <Elem Prompt="风扇插座" Name="风扇插座" PromptU="Fan Outlet" NameU="Fan Outlet"/>
+    <Elem Prompt="接线盒" Name="接线盒" PromptU="Junction Box" NameU="Junction Box"/>
+    <Elem Prompt="灯座" Name="灯座" PromptU="Lamp Holder" NameU="Lamp Holder"/>
+    <Elem Prompt="配拉线开关的灯座" Name="配拉线开关的灯座" PromptU="Lamp Holder with Pull Switch" NameU="Lamp Holder with Pull Switch"/>
+    <Elem Prompt="拉线开关" Name="拉线开关" PromptU="Pull Switch" NameU="Pull Switch"/>
+    <Elem Prompt="蒸气放电灯开关" Name="蒸气放电灯开关" PromptU="Vapor Discharge Lamp Switch" NameU="Vapor Discharge Lamp Switch"/>
+    <Elem Prompt="安全出口灯出线口" Name="安全出口灯出线口" PromptU="Exit Light Outlet" NameU="Exit Light Outlet"/>
+    <Elem Prompt="时钟出线口" Name="时钟出线口" PromptU="Clock Outlet" NameU="Clock Outlet"/>
+    <Elem Prompt="弃用的插座" Name="弃用的插座" PromptU="Blanked Outlet" NameU="Blanked Outlet"/>
+    <Elem Prompt="电视接收插座" Name="电视接收插座" PromptU="Television Outlet" NameU="Television Outlet"/>
+    <Elem Prompt="排气扇" Name="排气扇" PromptU="Exhaust Fan" NameU="Exhaust Fan"/>
+    <Elem Prompt="热水器" Name="热水器" PromptU="Water Heater" NameU="Water Heater"/>
+    <Elem Prompt="电话插孔" Name="电话插孔" PromptU="Telephone Jack" NameU="Telephone Jack"/>
+    <Elem Prompt="配电板" Name="配电板" PromptU="Electrical Panel" NameU="Electrical Panel"/>
+    <Elem Prompt="电池" Name="电池" PromptU="Battery" NameU="Battery"/>
+    <Elem Prompt="条式荧光光灯" Name="条式荧光光灯" PromptU="Batten fluores" NameU="Batten fluores"/>
+    <Elem Prompt="配电箱" Name="配电箱" PromptU="Distribution box" NameU="Distribution box"/>
+    <Elem Prompt="模块式荧光灯" Name="模块式荧光灯" PromptU="Modular fluores" NameU="Modular fluores"/>
+    <Elem Prompt="办公室荧光灯" Name="办公室荧光灯" PromptU="Office fluores" NameU="Office fluores"/>
+    <Elem Prompt="拉绳开关" Name="拉绳开关" PromptU="Pull-cord switch" NameU="Pull-cord switch"/>
+    <Elem Prompt="紧急灯" Name="紧急灯" PromptU="Emerg. light" NameU="Emerg. light"/>
+    <Elem Prompt="紧急标志" Name="紧急标志" PromptU="Emerg. sign" NameU="Emerg. sign"/>
+    <Elem Prompt="开关" Name="开关" PromptU="Switches" NameU="Switches"/>
+    <Elem Prompt="调光器切换" Name="调光器切换" PromptU="Dimmer switch" NameU="Dimmer switch"/>
+    <Elem Prompt="插座" Name="插座" PromptU="Socket outlet" NameU="Socket outlet"/>
+    <Elem Prompt="插座" Name="插座 2" PromptU="Socket outlet" NameU="Socket outlet 2"/>
+    <Elem Prompt="电话线输出口" Name="电话线输出口" PromptU="Telephone outlet" NameU="Telephone outlet"/>
+    <Elem Prompt="立体声输出口" Name="立体声输出口" PromptU="Stereo outlet" NameU="Stereo outlet"/>
+    <Elem Prompt="吊扇" Name="吊扇" PromptU="Ceiling fan" NameU="Ceiling fan"/>
+    <Elem Prompt="吊扇" Name="吊扇 2" PromptU="Ceiling fan" NameU="Ceiling fan 2"/>
+    <Elem Prompt="组合风扇" Name="组合风扇" PromptU="Combination fan" NameU="Combination fan"/>
+    <Elem Prompt="服务面板" Name="服务面板" PromptU="Service panels" NameU="Service panels"/>
+    <Elem Prompt="调温器" Name="调温器" PromptU="Thermostat" NameU="Thermostat"/>
+    <Elem Prompt="空调" Name="空调" PromptU="Air conditioning" NameU="Air conditioning"/>
+    <Elem Prompt="常开部分" Name="常开部分" PromptU="Hold open unit" NameU="Hold open unit"/>
+    <Elem Prompt="探测器" Name="探测器" PromptU="Detector" NameU="Detector"/>
+    <Elem Prompt="火警" Name="火警" PromptU="Fire alarm" NameU="Fire alarm"/>
+    <Elem Prompt="监视器" Name="监视器" PromptU="Monitor" NameU="Monitor"/>
+    <Elem Prompt="警铃" Name="警铃" PromptU="Alarm" NameU="Alarm"/>
+    <Elem Prompt="门铃" Name="门铃" PromptU="Doorbell" NameU="Doorbell"/>
+    <Elem Prompt="烟雾报警器" Name="烟雾报警器" PromptU="Smoke detector" NameU="Smoke detector"/>
+    <Elem Prompt="电话" Name="电话" PromptU="Call" NameU="Call"/>
+    <Elem Prompt="电话" Name="电话" PromptU="Tel" NameU="Tel"/>
+    <Elem Prompt="主控设备" Name="主控设备" PromptU="Main control" NameU="Main control"/>
+    <Elem Prompt="地线" Name="地线" PromptU="Ground" NameU="Ground"/>
+    <Elem Prompt="电线" Name="电线" PromptU="Line" NameU="Line"/>
+    <Elem Prompt="电线" Name="电线" PromptU="Wire" NameU="Wire"/>
+    <Elem Prompt="剖切线" Name="剖切线" PromptU="Cut line" NameU="Cut line"/>
+    <Elem Prompt="剖切线 2" Name="剖切线 2" PromptU="Cut line 2" NameU="Cut line 2"/>
+</Lib>

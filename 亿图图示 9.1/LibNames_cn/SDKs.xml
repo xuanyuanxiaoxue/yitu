@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="AWS SDKs">
+    <Elem NameU="Android" Name="安卓" PromptU="Android" Prompt="安卓"/>
+    <Elem NameU="Toolkit for Eclipse" Name="Eclipse工具包" PromptU="Toolkit for Eclipse" Prompt="Eclipse 工具包"/>
+    <Elem NameU="Toolkit for Visual Studio" Name="可视化工作室工作包" PromptU="Toolkit for Visual Studio" Prompt="可视化工作室工作包"/>
+    <Elem NameU="CLI" Name="CLI命令行界面" PromptU="CLI" Prompt="CLI命令行界面"/>
+    <Elem NameU="iOS" Name="iOS系统" PromptU="iOS" Prompt="iOS系统"/>
+    <Elem NameU="Java" Name="Java语言" PromptU="Java" Prompt="Java语言"/>
+    <Elem NameU="Net" Name="网络" PromptU="Net" Prompt="网络"/>
+    <Elem NameU="nodeJS" Name="nodeJS模型" PromptU="nodeJS" Prompt="nodeJS模型"/>
+    <Elem NameU="PHP" Name="PHP语言" PromptU="PHP" Prompt="PHP语言"/>
+    <Elem NameU="Python" Name="Python语言" PromptU="Python" Prompt="Python语言"/>
+    <Elem NameU="Ruby" Name="Ruby语言" PromptU="Ruby" Prompt="Ruby语言"/>
+    <Elem NameU="Tools for Windows PowerShell" Name="Windows PowerShell工具" PromptU="Tools for Windows PowerShell" Prompt="Windows PowerShell 工具"/>
+    <Elem NameU="Javascript" Name="Javascript语言" PromptU="Javascript" Prompt="Javascript语言"/>
+</Lib>

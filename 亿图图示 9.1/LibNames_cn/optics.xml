@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Optics">
+    <Elem Prompt="反射面" Name="反射面" PromptU="Reflecting Surface" NameU="Reflecting Surface"/>
+    <Elem Prompt="凸透镜符号" Name="凸透镜符号" PromptU="Convex Lens Symbol" NameU="Convex Lens Symbol"/>
+    <Elem Prompt="凹透镜符号" Name="凹透镜符号" PromptU="Concave Lens Symbol" NameU="Concave Lens Symbol"/>
+    <Elem Prompt="凸透镜" Name="凸透镜" PromptU="Convex Lens" NameU="Convex Lens"/>
+    <Elem Prompt="凹透镜" Name="凹透镜" PromptU="Concave Lens" NameU="Concave Lens"/>
+    <Elem Prompt="球面" Name="球面" PromptU="Spherical Surface" NameU="Spherical Surface"/>
+    <Elem Prompt="球面 2" Name="球面 2" PromptU="Spherical Surface 2" NameU="Spherical Surface 2"/>
+    <Elem Prompt="镜子" Name="镜子" PromptU="Mirror" NameU="Mirror"/>
+    <Elem Prompt="主体" Name="主体" PromptU="Body" NameU="Body"/>
+    <Elem Prompt="光线 1" Name="光线 1" PromptU="Ray 1" NameU="Ray 1"/>
+    <Elem Prompt="光线 2" Name="光线 2" PromptU="Ray 2" NameU="Ray 2"/>
+    <Elem Prompt="光线 3" Name="光线 3" PromptU="Ray 3" NameU="Ray 3"/>
+    <Elem Prompt="棱镜" Name="棱镜" PromptU="Prism" NameU="Prism"/>
+    <Elem Prompt="半圆玻璃" Name="半圆玻璃" PromptU="Semicircle Glass" NameU="Semicircle Glass"/>
+    <Elem Prompt="全反镜" Name="全反镜" PromptU="Holophote" NameU="Holophote"/>
+    <Elem Prompt="光束" Name="光束" PromptU="Beam of Light" NameU="Beam of Light"/>
+    <Elem Prompt="平行光束" Name="平行光束" PromptU="Parallel Beam of Light" NameU="Parallel Beam of Light"/>
+    <Elem Prompt="灯泡" Name="灯泡" PromptU="Bulb" NameU="Bulb"/>
+    <Elem Prompt="点光源" Name="点光源" PromptU="Point Light Source" NameU="Point Light Source"/>
+    <Elem Prompt="网格 1" Name="网格 1" PromptU="Grid 1" NameU="Grid 1"/>
+    <Elem Prompt="网格 2" Name="网格 2" PromptU="Grid 2" NameU="Grid 2"/>
+    <Elem Prompt="正弦波" Name="正弦波" PromptU="Sine Wave" NameU="Sine Wave"/>
+    <Elem Prompt="主光轴" Name="主光轴" PromptU="Principal Optics Axis" NameU="Principal Optics Axis"/>
+    <Elem Prompt="角度" Name="角度" PromptU="Angle" NameU="Angle"/>
+    <Elem Prompt="描述" Name="描述" PromptU="Description" NameU="Description"/>
+    <Elem Prompt="标注" Name="标注" PromptU="Label" NameU="Label"/>
+    <Elem Prompt="直线" Name="直线" PromptU="Line" NameU="Line"/>
+    <Elem Prompt="虚线" Name="虚线" PromptU="Dash Line" NameU="Dash Line"/>
+    <Elem Prompt="反射面" Name="反射面" PromptU="Level" NameU="Level"/>
+    <Elem Prompt="眼" Name="眼" PromptU="Eye" NameU="Eye"/>
+    <Elem Prompt="眼球" Name="眼球" PromptU="Eyeball" NameU="Eyeball"/>
+    <Elem Prompt="箭头" Name="箭头" PromptU="Arrow" NameU="Arrow"/>
+    <Elem Prompt="蜡烛" Name="蜡烛" PromptU="Candle" NameU="Candle"/>
+    <Elem Prompt="图例" Name="图例" PromptU="Legend" NameU="Legend"/>
+    <Elem Prompt="图例1" Name="图例1" PromptU="Legend1" NameU="Legend1"/>
+    <Elem Prompt="图例2" Name="图例2" PromptU="Legend2" NameU="Legend2"/>
+    <Elem Prompt="图例3" Name="图例3" PromptU="Legend3" NameU="Legend3"/>
+    <Elem Prompt="图例4" Name="图例4" PromptU="Legend4" NameU="Legend4"/>
+    <Elem Prompt="图例5" Name="图例5" PromptU="Legend5" NameU="Legend5"/>
+    <Elem Prompt="图例6" Name="图例6" PromptU="Legend6" NameU="Legend6"/>
+    <Elem Prompt="图例7" Name="图例7" PromptU="Legend7" NameU="Legend7"/>
+    <Elem Prompt="图例8" Name="图例8" PromptU="Legend8" NameU="Legend8"/>
+    <Elem Prompt="图例9" Name="图例9" PromptU="Legend9" NameU="Legend9"/>
+    <Elem Prompt="图例10" Name="图例10" PromptU="Legend10" NameU="Legend10"/>
+</Lib>

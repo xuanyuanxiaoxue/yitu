@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LibNames Version="8.0">
+    <Library NameU="2D Block" Name="2D框图"/>
+    <Library NameU="2D Directional Maps" Name="2D 方向图"/>
+    <Library NameU="2D Landmarks" Name="2D 路标"/>
+    <Library NameU="3D Block" Name="3D框图"/>
+    <Library NameU="3D Directional Maps" Name="3D 方向图"/>
+    <Library NameU="3D Landmarks" Name="3D 路标"/>
+    <Library NameU="3D Network Diagram Shapes" Name="3D 网络图"/>
+    <Library NameU="AWS App Services" Name="AWS 应用服务"/>
+    <Library NameU="AWS Compute and Networking" Name="AWS 计算与网络"/>
+    <Library NameU="AWS Database" Name="AWS 数据库"/>
+    <Library NameU="AWS Deployment and Management" Name="AWS 配置管理"/>
+    <Library NameU="AWS Non-Service Specific" Name="AWS 非服务特定"/>
+    <Library NameU="AWS On-Demand Workforce" Name="AWS 按需劳动力"/>
+    <Library NameU="AWS SDKs" Name="AWS SDKs"/>
+    <Library NameU="AWS Storage Content and Delivery" Name="AWS 存储内容及传输"/>
+    <Library NameU="Active Directory" Name="活动目录"/>
+    <Library NameU="Active Directory Objects" Name="活动目录对象"/>
+    <Library NameU="Africa" Name="非洲"/>
+    <Library NameU="Alarm and Access Control" Name="报警和门禁控制"/>
+    <Library NameU="Analog and Digital Logic" Name="模拟和数字逻辑"/>
+    <Library NameU="Android UI" Name="Android UI"/>
+    <Library NameU="Animal Cells" Name="动物细胞"/>
+    <Library NameU="Animals" Name="动物"/>
+    <Library NameU="Appliances" Name="家电"/>
+    <Library NameU="Architecture" Name="建筑"/>
+    <Library NameU="Arrow Connectors" Name="可连接箭头"/>
+    <Library NameU="Arrow Shapes" Name="箭头形状"/>
+    <Library NameU="Asia" Name="亚洲"/>
+	<Library NameU="Basic Shapes" Name="基本绘图形状"/>
+    <Library NameU="Astronomy" Name="天文学"/>
+    <Library NameU="Athletic Ground" Name="运动场"/>
+    <Library NameU="Audit Diagram Shapes" Name="审计流程图形状"/>
+    <Library NameU="Australia" Name="澳洲"/>
+    <Library NameU="BPMN Shapes" Name="商业处理模型符号"/>
+    <Library NameU="Backgrounds" Name="背景"/>
+    <Library NameU="Ball and Stick Model" Name="球棍模型"/>
+    <Library NameU="Bar" Name="条形图"/>
+    <Library NameU="Basic Drawing Shapes" Name="基本绘图形状"/>
+    <Library NameU="Basic Electrical Symbols" Name="基本电路符号"/>
+    <Library NameU="Basic Flowchart Shapes" Name="基本流程图形状"/>
+    <Library NameU="Bathroom" Name="浴室"/>
+    <Library NameU="Bedroom" Name="卧室"/>
+    <Library NameU="Birthday" Name="生日"/>
+    <Library NameU="Booch OOD" Name="Booch OOD"/>
+    <Library NameU="Borders" Name="边框和标题"/>
+    <Library NameU="Brainstorming" Name="头脑风暴"/>
+    <Library NameU="Bubble Shapes" Name="气泡图"/>
+    <Library NameU="Building Core" Name="建筑物核心"/>
+    <Library NameU="Business" Name="商业"/>
+    <Library NameU="Business-Flat" Name="商业-扁平"/>
+    <Library NameU="Business Card Templates" Name="名片模板"/>
+    <Library NameU="Business Card Text" Name="商业卡片文本"/>
+    <Library NameU="Business Scene" Name="商业场景"/>
+    <Library NameU="CCTV Equipment" Name="安控设备"/>
+    <Library NameU="COM and OLE" Name="COM 和 OLE"/>
+    <Library NameU="Cabinets and Bookcases" Name="橱柜和书柜"/>
+    <Library NameU="Calendar" Name="日历"/>
+    <Library NameU="Callouts" Name="标注"/>
+    <Library NameU="Canada" Name="加拿大"/>
+    <Library NameU="Carnival" Name="狂欢节"/>
+    <Library NameU="Carpet" Name="地毯"/>
+    <Library NameU="Cause and Effect Diagram" Name="因果图形状"/>
+    <Library NameU="Certificate" Name="证书"/>
+    <Library NameU="Chemical Equation" Name="化学方程式"/>
+    <Library NameU="Chen ERD" Name="Chen ERD"/>
+    <Library NameU="Child Dress" Name="儿童服装"/>
+    <Library NameU="Children's Day" Name="儿童节"/>
+    <Library NameU="Christmas" Name="圣诞节"/>
+    <Library NameU="Circular Charting Shapes" Name="圆形图表形状"/>
+    <Library NameU="Cisco Basic" Name="Cisco 基本设备"/>
+    <Library NameU="Cisco Buildings" Name="Cisco 建筑符号"/>
+    <Library NameU="Cisco IBM Products" Name="Cisco IBM 产品"/>
+    <Library NameU="Cisco LAN" Name="Cisco 局域网符号"/>
+    <Library NameU="Cisco Miscellaneous" Name="Cisco 其它"/>
+    <Library NameU="Cisco People" Name="Cisco 人物符号"/>
+    <Library NameU="Cisco Products 1" Name="Cisco 产品 1"/>
+    <Library NameU="Cisco Products 2" Name="Cisco 产品 2"/>
+    <Library NameU="Cisco Routers" Name="Cisco 路由器"/>
+    <Library NameU="Cisco Switches" Name="Cisco 交换机"/>
+    <Library NameU="Cisco WAN" Name="Cisco 广域网符号"/>
+    <Library NameU="Cisio Media" Name="Cisco 媒体符号"/>
+    <Library NameU="Column" Name="柱形图"/>
+    <Library NameU="Common Shapes" Name="常用形状"/>
+    <Library NameU="Comparison Chart" Name="比较图"/>
+    <Library NameU="Comparison Indicators" Name="比较指示图"/>
+    <Library NameU="Composite Assemblies" Name="复合组件"/>
+    <Library NameU="Computers and Monitors" Name="计算机和显示器"/>
+    <Library NameU="Concept Map" Name="概念图符号"/>
+    <Library NameU="Conceptual Website Shapes" Name="网站总体设计形状"/>
+    <Library NameU="Connectors" Name="连接符"/>
+    <Library NameU="Cross Functional Horizontal" Name="水平跨职能图形状"/>
+    <Library NameU="Cross Functional Vertical" Name="垂直跨职能图形状"/>
+    <Library NameU="Custom Organization Chart" Name="自定义组织结构图"/>
+    <Library NameU="Custom Timeline" Name="自定义时间线"/>
+    <Library NameU="Data Flow Diagram Shapes" Name="数据流程图形状"/>
+    <Library NameU="Data Flow Model Diagram" Name="数据流模型图"/>
+    <Library NameU="Decision Tree" Name="决策树"/>
+    <Library NameU="Detailed Network Diagram" Name="详细网络图"/>
+    <Library NameU="Digital Products" Name="数码产品"/>
+    <Library NameU="Dimensioning" Name="尺寸标注"/>
+    <Library NameU="Dining Room (Elevation)" Name="餐厅（立面）"/>
+    <Library NameU="EPC Diagram Shapes" Name="EPC 图表形状"/>
+    <Library NameU="Easter" Name="复活节"/>
+    <Library NameU="Education" Name="教育"/>
+    <Library NameU="Electrical Audio" Name="电子音频"/>
+    <Library NameU="Electrical Instruments" Name="电子仪器"/>
+    <Library NameU="Electrical and Telecom" Name="电气和电信"/>
+    <Library NameU="Elevations" Name="立面图"/>
+    <Library NameU="Enterprise Application" Name="企业应用"/>
+    <Library NameU="Entity Relationship" Name="实体关系图"/>
+    <Library NameU="Environment" Name="环境"/>
+    <Library NameU="Equipment-Centrifuges" Name="设备-离心机"/>
+    <Library NameU="Equipment-Compressors" Name="设备-压缩机"/>
+    <Library NameU="Equipment-Crushers" Name="设备-破碎仪"/>
+    <Library NameU="Equipment-Dryers" Name="设备-烘干机"/>
+    <Library NameU="Equipment-Filters" Name="设备-过滤器"/>
+    <Library NameU="Equipment-General" Name="常用设备"/>
+    <Library NameU="Equipment-Heat Exchanges" Name="设备-热交换"/>
+    <Library NameU="Equipment-Instruments" Name="设备-仪器"/>
+    <Library NameU="Equipment-Mixers" Name="设备-搅拌器"/>
+    <Library NameU="Equipment-Motors" Name="设备-电动机"/>
+    <Library NameU="Equipment-Peripheral" Name="设备-外围设备"/>
+    <Library NameU="Equipment-Pumps" Name="设备-泵"/>
+    <Library NameU="Equipment-Stream Flag" Name="设备-流标志"/>
+    <Library NameU="Equipment-Valves" Name="设备-阀门"/>
+    <Library NameU="Equipment-Vessels" Name="设备-容器"/>
+    <Library NameU="Europe" Name="欧洲"/>
+    <Library NameU="Event Flow Diagram" Name="事件流程图"/>
+    <Library NameU="Exchange Objects" Name="交换对象"/>
+    <Library NameU="Express-G" Name="Express-G"/>
+    <Library NameU="Family Tree" Name="家庭树"/>
+    <Library NameU="Fault Tree Analysis Shapes" Name="故障树分析形状"/>
+    <Library NameU="Finance" Name="金融"/>
+    <Library NameU="Fire and Emergency" Name="消防疏散图"/>
+    <Library NameU="Five Forces Shapes" Name="五力图形状"/>
+    <Library NameU="Flags" Name="国旗"/>
+    <Library NameU="Food" Name="食品"/>
+    <Library NameU="Forms" Name="表格"/>
+    <Library NameU="Fruit" Name="水果"/>
+    <Library NameU="Gantt" Name="甘特图"/>
+    <Library NameU="Garden" Name="花园"/>
+    <Library NameU="Gauges" Name="仪表图"/>
+    <Library NameU="Gift Voucher" Name="礼券"/>
+    <Library NameU="Girl Dress 1" Name="女士服装 1"/>
+    <Library NameU="Girl Dress 2" Name="女士服装 2"/>
+    <Library NameU="Girl Dress 3" Name="女士服装 3"/>
+    <Library NameU="Girl Dress 4" Name="女士服装 4"/>
+    <Library NameU="Girl Dress 5" Name="女士服装 5"/>
+    <Library NameU="Girl Dress 6" Name="女士服装 6"/>
+    <Library NameU="Girl Dress 7" Name="女士服装 7"/>
+    <Library NameU="Girl Dress 8" Name="女士服装 8"/>
+    <Library NameU="Greek Letter" Name="希腊字母"/>
+    <Library NameU="Guestures" Name="手势"/>
+    <Library NameU="HOQ and QFD" Name="质量屋"/>
+    <Library NameU="HVAC Controls" Name="暖通控制"/>
+    <Library NameU="HVAC Controls Equipment" Name="暖通空调控制设备"/>
+    <Library NameU="HVAC Ductwork" Name="暖通空调管道系统"/>
+    <Library NameU="HVAC Equipment" Name="暖通空调设备"/>
+    <Library NameU="Half-length" Name="人-半身"/>
+    <Library NameU="Halloween" Name="万圣节"/>
+    <Library NameU="Highlight Flowchart Shapes" Name="高光流程图"/>
+    <Library NameU="Highlight Shapes" Name="高光图形"/>
+    <Library NameU="Human Organs" Name="人体器官"/>
+    <Library NameU="IDEF0 Diagram Shapes" Name="IDEF0 图表形状"/>
+    <Library NameU="IDEF2 Diagram Shapes" Name="IDEF2 形状"/>
+    <Library NameU="IOS 6 UI" Name="IOS 6 UI"/>
+    <Library NameU="IOS 7 UI" Name="IOS 7 UI"/>
+    <Library NameU="IOS 8 UI" Name="IOS 8 UI"/>
+    <Library NameU="Icons" Name="图标"/>
+    <Library NameU="Infographic Charts" Name="信息图表"/>
+    <Library NameU="Initiation and Annunciation" Name="启动和通知"/>
+    <Library NameU="Integrated Circuit Components" Name="集成电路组件"/>
+    <Library NameU="Jackson" Name="Jackson"/>
+    <Library NameU="Jacobson Use Case" Name="Jacobson 使用实例"/>
+    <Library NameU="Kitchen (Elevation)" Name="厨房（正面图）"/>
+    <Library NameU="Kitchen and Dining Room" Name="厨房和餐厅"/>
+    <Library NameU="LDAP Objects" Name="LDAP 对象"/>
+    <Library NameU="Laboratory Equipment" Name="实验器皿"/>
+    <Library NameU="Language Level Shapes" Name="语言级别形状"/>
+    <Library NameU="Lighting" Name="照明设备"/>
+    <Library NameU="Lighting and Handbag (Elevation)" Name="灯和手提包（立面）"/>
+    <Library NameU="Line and Area" Name="线形图和面积图"/>
+    <Library NameU="List Shapes" Name="列表形状"/>
+    <Library NameU="Maintenance Symbol" Name="维护符号"/>
+    <Library NameU="Man Suit" Name="男士套装"/>
+    <Library NameU="Map Vehicles" Name="交通工具"/>
+    <Library NameU="Maps and Charts" Name="图和表"/>
+    <Library NameU="Marketing Diagrams" Name="营销图表"/>
+    <Library NameU="Marketing Shapes" Name="营销形状"/>
+    <Library NameU="Martin ERD" Name="Martin ERD"/>
+    <Library NameU="Mathematical Symbol" Name="数学符号"/>
+    <Library NameU="Matrix" Name="矩阵"/>
+    <Library NameU="Mechanics" Name="力学"/>
+    <Library NameU="Medical" Name="医学"/>
+    <Library NameU="Memory Objects" Name="内存对象"/>
+    <Library NameU="Mind Map Shapes" Name="思维导图"/>
+    <Library NameU="Miscellaneous Flowchart Shapes" Name="混合流程图形状"/>
+    <Library NameU="Models" Name="模特"/>
+    <Library NameU="Molecular Model" Name="分子模型"/>
+    <Library NameU="Money" Name="货币"/>
+    <Library NameU="Music" Name="音乐"/>
+    <Library NameU="Nassi-Shneiderman" Name="纳西-施奈德曼"/>
+    <Library NameU="Network Locations" Name="网络位置"/>
+    <Library NameU="Network Symbols" Name="网络符号"/>
+    <Library NameU="Network and Peripherals" Name="网络和外设"/>
+    <Library NameU="New Year" Name="新年"/>
+    <Library NameU="News" Name="新闻"/>
+    <Library NameU="ORM Diagram" Name="ORM 图"/>
+    <Library NameU="Object Relationship" Name="对象关系图"/>
+    <Library NameU="Office" Name="办公用品"/>
+    <Library NameU="Office Equipment" Name="办公室设备"/>
+    <Library NameU="Office Furniture" Name="办公室家具"/>
+    <Library NameU="Optical Symbols" Name="光学符号"/>
+    <Library NameU="Optics" Name="光学"/>
+    <Library NameU="Organization Chart Shapes" Name="组织结构图形状"/>
+    <Library NameU="PERT Chart Shapes" Name="PERT 图形状"/>
+    <Library NameU="PEST" Name="PEST"/>
+    <Library NameU="PID Blowers" Name="PID 鼓风机"/>
+    <Library NameU="PID Boilers" Name="PID 锅炉"/>
+    <Library NameU="PID Buildings" Name="PID 建筑"/>
+    <Library NameU="PID Chemistry" Name="PID 化学"/>
+    <Library NameU="PID Computer Keys" Name="PID 电脑键盘"/>
+    <Library NameU="PID Containers" Name="PID 容器"/>
+    <Library NameU="PID Ductwork" Name="PID 管道"/>
+    <Library NameU="PID Flow Meters" Name="PID 流量计"/>
+    <Library NameU="PID Food Processing" Name="PID 食品加工"/>
+    <Library NameU="PID HVAC" Name="PID HVAC"/>
+    <Library NameU="PID Heaters" Name="PID 加热器"/>
+    <Library NameU="PID Industry" Name="PID 工业"/>
+    <Library NameU="PID Lights" Name="PID 灯"/>
+    <Library NameU="PID Logistics" Name="PID 物流"/>
+    <Library NameU="PID Machines" Name="PID 机器"/>
+    <Library NameU="PID Material Handling" Name="PID 物料运输"/>
+    <Library NameU="PID Meters" Name="PID 仪表"/>
+    <Library NameU="PID Mixers" Name="PID 搅拌器"/>
+    <Library NameU="PID Motors" Name="PID 发动机"/>
+    <Library NameU="PID Plant Facilities" Name="PID 工厂设施"/>
+    <Library NameU="PID Power" Name="PID 电源"/>
+    <Library NameU="PID Process Cooling" Name="PID 制程冷却"/>
+    <Library NameU="PID Process Heating" Name="PID 制程加热"/>
+    <Library NameU="PID Pumps" Name="PID 泵"/>
+    <Library NameU="PID Push Buttons" Name="PID 按钮"/>
+    <Library NameU="PID Safety" Name="PID 安全"/>
+    <Library NameU="PID Tanks" Name="PID 水槽"/>
+    <Library NameU="PID Valves" Name="PID 阀门"/>
+    <Library NameU="PID Valves Symbols" Name="PID 阀门符号"/>
+    <Library NameU="PID Wastewater Treatment" Name="PID 废水处理"/>
+    <Library NameU="PID Wires and Cables" Name="PID 电线电缆"/>
+    <Library NameU="People" Name="人物"/>
+    <Library NameU="People-Flat" Name="人物-扁平"/>
+    <Library NameU="People Outline" Name="人物轮廓"/>
+    <Library NameU="Peripheral Equipment" Name="周边设备"/>
+    <Library NameU="Pie and Doughnut" Name="饼图和环型图"/>
+    <Library NameU="Piping and Connection Shapes" Name="管道和连接线"/>
+    <Library NameU="Plant Cell" Name="植物细胞"/>
+    <Library NameU="Plants" Name="植物"/>
+    <Library NameU="Plumbing" Name="水管设施"/>
+    <Library NameU="Presentation Symbols" Name="演示符号"/>
+    <Library NameU="Process Shapes" Name="流程形状"/>
+    <Library NameU="Professions" Name="职业"/>
+    <Library NameU="Program Flowchart" Name="程序流程图"/>
+    <Library NameU="Pyramid Shapes" Name="金字塔图"/>
+    <Library NameU="Qualifying Symbols" Name="限定符号"/>
+    <Library NameU="ROOM" Name="ROOM"/>
+    <Library NameU="Rack Equipment" Name="机架图"/>
+    <Library NameU="Registers Grills and Diffusers" Name="寄存器和扩散器"/>
+    <Library NameU="Relationship" Name="关系"/>
+    <Library NameU="Relationship Matrix" Name="关系矩阵"/>
+    <Library NameU="Religion" Name="宗教"/>
+    <Library NameU="Resistors and Capacitors" Name="电阻和电容"/>
+    <Library NameU="Road Signs" Name="路标"/>
+    <Library NameU="Rotating Equip and Mech Functions" Name="旋转设备和机械功能"/>
+    <Library NameU="SDL Diagram Shapes" Name="SDL 图表形状"/>
+    <Library NameU="SSADM" Name="SSADM"/>
+    <Library NameU="Scatter and Bubble" Name="散点图和气泡图"/>
+    <Library NameU="School" Name="学校"/>
+    <Library NameU="Semiconductor Devices" Name="半导体器件"/>
+    <Library NameU="Servers" Name="服务器"/>
+    <Library NameU="Shlaer-Mellor OOA" Name="Shlaer-Mellor OOA"/>
+    <Library NameU="Six Sigma Matrix" Name="六西格玛"/>
+    <Library NameU="Sofas" Name="沙发"/>
+    <Library NameU="Source and Battery" Name="电源和电池"/>
+    <Library NameU="South America" Name="南美洲"/>
+    <Library NameU="Spider" Name="雷达图"/>
+    <Library NameU="Status Table" Name="状态表"/>
+    <Library NameU="Subway" Name="地铁"/>
+    <Library NameU="Switches and Relays" Name="开关和继电器"/>
+    <Library NameU="Symbols" Name="符号"/>
+    <Library NameU="TQM Diagram Shapes" Name="TQM 图形状"/>
+    <Library NameU="Tables and Chairs" Name="桌子和椅子"/>
+    <Library NameU="Technology" Name="技术"/>
+    <Library NameU="Technology-Flat" Name="技术-扁平"/>
+    <Library NameU="Telecom Switch and Peripheral Equip" Name="电信交换机和外围设备"/>
+    <Library NameU="Terminals and Connectors" Name="端子和连接器"/>
+    <Library NameU="Text Box" Name="文本框"/>
+    <Library NameU="Timeline" Name="时间线"/>
+    <Library NameU="Titles" Name="标题"/>
+    <Library NameU="Touch Gesture" Name="触摸手势"/>
+    <Library NameU="Tourism" Name="旅游"/>
+    <Library NameU="Transformers and Windings" Name="变压器和绕组"/>
+    <Library NameU="Transmission Path" Name="传输路径"/>
+    <Library NameU="Transportation" Name="交通"/>
+    <Library NameU="UML Activity Diagram" Name="UML 活动"/>
+    <Library NameU="UML Class Diagram" Name="UML 类图"/>
+    <Library NameU="UML Collaboration Diagram" Name="UML 协作"/>
+    <Library NameU="UML Component Diagram" Name="UML 组件"/>
+    <Library NameU="UML Deployment Diagram" Name="UML 部署"/>
+    <Library NameU="UML Sequence Diagram" Name="UML 序列"/>
+    <Library NameU="UML Statechart Diagram" Name="UML 状态"/>
+    <Library NameU="UML Use Case Diagram" Name="UML 用例"/>
+    <Library NameU="USA" Name="美国"/>
+    <Library NameU="VHF-UHF-SHF" Name="VHF-UHF-SHF"/>
+    <Library NameU="Valentine's Day" Name="情人节"/>
+    <Library NameU="Value Chain" Name="价值链"/>
+    <Library NameU="Value Stream Map Shapes" Name="价值流形状"/>
+    <Library NameU="Vector Icons" Name="矢量图标"/>
+    <Library NameU="Vehicles" Name="交通工具"/>
+    <Library NameU="Venn Shapes" Name="维恩图形状"/>
+    <Library NameU="Video Surveillance" Name="视频监控"/>
+    <Library NameU="Video and Audio Ports" Name="视频音频端口"/>
+    <Library NameU="WBS Shapes" Name="WBS 形状"/>
+    <Library NameU="Wall, Shell and Structure" Name="墙，门，窗户和结构"/>
+    <Library NameU="Wall, Door, Window and Structure" Name="墙，门，窗户和结构"/>
+    <Library NameU="Wardrobe" Name="衣柜（立面图）"/>
+    <Library NameU="Weather" Name="天气"/>
+    <Library NameU="Web Site Map Shapes" Name="网站图形状"/>
+    <Library NameU="Windows and Doors (Elevation)" Name="窗户和门（正面图）"/>
+    <Library NameU="Windows7  UI" Name="Windows7  UI"/>
+    <Library NameU="Wireframe" Name="线框"/>
+    <Library NameU="Work Flow Department" Name="工作流部门"/>
+    <Library NameU="Work Flow Objects" Name="工作流对象"/>
+    <Library NameU="Work Flow Steps" Name="工作流步骤"/>
+    <Library NameU="Yourdon and Coad" Name="Yourdon 和 Coad"/>
+    <Library NameU="iPad UI" Name="iPad UI"/>
+	<Library NameU="Map Pointers" Name="地图标记点"/>
+	<Library NameU="World Map" Name="世界地图"/>
+	<Library NameU="Lines" Name="线条"/>
+	<Library NameU="Fashion" Name="时装"/>
+	<Library NameU="Basic Charts" Name="基本图表"/>
+	<Library NameU="Insect" Name="昆虫"/>
+	<Library NameU="Animal" Name="动物"/>
+	<Library NameU="Terricole" Name="陆地动物"/>
+	<Library NameU="Sea Life" Name="海洋动物"/>
+	<Library NameU="Business Flat" Name="商业-扁平"/>
+	<Library NameU="Business Scene 1" Name="商业场景1"/>
+	<Library NameU="Business Scene 2" Name="商业场景2"/>
+	<Library NameU="Office Flat" Name="办公用品-扁平"/>
+	<Library NameU="Marketing" Name="营销"/>
+	<Library NameU="Shopping" Name="购物"/>
+	<Library NameU="Discount Labels" Name="折扣标签"/>
+	<Library NameU="Business Scene 1" Name="商业场景1"/>
+	<Library NameU="Design Elements" Name="设计元素"/>
+	<Library NameU="Bow" Name="蝴蝶结"/>
+	<Library NameU="Heart" Name="心形"/>
+	<Library NameU="Ornament" Name="装饰物"/>
+	<Library NameU="Social Media Icons" Name="社交媒体图标"/>
+	<Library NameU="Gestures" Name="手势"/>
+	<Library NameU="Education Flat" Name="教学用品-扁平"/>
+	<Library NameU="Fashion Models" Name="时装模特"/>
+	<Library NameU="Fashion Clothes" Name="时装"/>
+	<Library NameU="Fashion Items" Name="时尚单品"/>
+	<Library NameU="Festival" Name="节日"/>
+	<Library NameU="Bread" Name="面包"/>
+	<Library NameU="Beverage" Name="饮料"/>
+	<Library NameU="Tableware" Name="餐具"/>
+	<Library NameU="Nature" Name="自然"/>
+	<Library NameU="Flowers" Name="花"/>
+	<Library NameU="Leaves" Name="叶"/>
+	<Library NameU="Trees" Name="树"/>
+	<Library NameU="Landscape" Name="风景"/>
+	<Library NameU="Silhouette" Name="剪影"/>
+	<Library NameU="Business People" Name="商务人士"/>
+	<Library NameU="Profession" Name="职业"/>
+	<Library NameU="Profession Half-length" Name="职业-半身图"/>
+	<Library NameU="People Activity Pictogram" Name="人物-象形图"/>
+	<Library NameU="3D People Pictogram" Name="3D人物象形图"/>
+	<Library NameU="Aerospace and Military" Name="航空军事"/>
+	<Library NameU="Aerospace Technology" Name="航空军事"/>
+	<Library NameU="Social Life" Name="社会生活"/>
+	<Library NameU="News Media" Name="新闻媒体"/>
+	<Library NameU="Buildings" Name="建筑物"/>
+	<Library NameU="Sports" Name="体育运动"/>
+	<Library NameU="Sport Silhouette" Name="体育运动剪影"/>
+	<Library NameU="Sport Elements" Name="体育器材"/>
+	<Library NameU="Fitness" Name="健身"/>
+	<Library NameU="Electronics" Name="电子设备"/>
+	<Library NameU="Artificial Intelligence" Name="人工智能"/>
+	<Library NameU="Biotechnology" Name="生物科技"/>
+	<Library NameU="Aerospace Technology" Name="航空航天科技"/>
+	<Library NameU="Silhouette" Name="剪影"/>
+	<Library NameU="Amazon Web Services" Name="亚马逊网络服务"/>
+	<Library NameU="AWS SDKs" Name="AWS 软件开发工具包"/>
+	<Library NameU="Microsoft Azure Cloud" Name="微软Azure云计算"/>
+	<Library NameU="Azure Cloud" Name="Azure 云计算"/>	
+	<Library NameU="Google Cloud Platform" Name="谷歌云平台"/>
+	<Library NameU="Cisco Network Topology" Name="思科网络拓扑"/>
+	<Library NameU="Cisco Product Icons" Name="思科产品图标"/>
+	<Library NameU="Cisco Teleprsence Icons" Name="思科网真图标"/>
+	<Library NameU="Cisco Wireless Icons" Name="思科无线图标"/>
+	<Library NameU="Cisco Safe Icons" Name="思科安全图标"/>
+	<Library NameU="Finance Flat" Name="财务-扁平"/>
+	<Library NameU="Marketing" Name="市场"/>
+	<Library NameU="Graphic Organizer" Name="图形组织"/>
+	<Library NameU="List Shapes (Dynamic)" Name="列表形状（动态）"/>
+	<Library NameU="Enterprise Architecture" Name="企业架构图"/>
+	<Library NameU="China" Name="中国"/>
+	<Library NameU="Cisco Telepresence Icons" Name="思科网真图标"/>
+	<Library NameU="Drink" Name="饮料"/>
+	<Library NameU="User" Name="用户"/>	
+	<Library NameU="GCP Big Data" Name="谷歌云平台大数据"/>  
+  <Library NameU="GCP Compute" Name="谷歌云平台计算"/>  
+  <Library NameU="GCP Developer Tools" Name="谷歌云平台开发工具"/>  
+  <Library NameU="GCP Extras" Name="谷歌云平台其它符号"/>  
+  <Library NameU="GCP Identity and Security" Name="谷歌云平台身份与安全"/>  
+  <Library NameU="GCP Internet of Things" Name="谷歌云端平台物联网"/>  
+  <Library NameU="GCP Management Tools" Name="谷歌云平台管理工具"/>  
+  <Library NameU="GCP Networking" Name="谷歌云平台网络"/>  
+  <Library NameU="GCP Storage and Databases" Name="谷歌云平台存储与数据库"/>  
+  <Library NameU="Azure Cloud" Name="Azure 云符号"/> 
+  <Library NameU="Azure Intune" Name="Azure 云符号"/>   
+  <Library NameU="Azure Deprecated" Name="Azure 启用"/>  
+  <Library NameU="Azure Enterprise" Name="Azure 企业"/>  
+  <Library NameU="Azure General Symbols" Name="Azure 常用符号"/>  
+  <Library NameU="Azure Microsoft Products" Name="Azure 微软产品"/>  
+  <Library NameU="Azure VMs by Function" Name="Azure 按功能划分的虚拟机"/>    
+  <Library NameU="Azure System Center" Name="Azure 系统中心"/>  	
+	<Library NameU="Cisco Security Stealthwatc" Name="思科全方位安全保护"/>	
+	<Library NameU="Cisco Safe Threat Icons" Name="思科安全威胁符号"/>	
+	<Library NameU="Cisco Safe Architectural Icons" Name="思科安全架构符号"/>	
+	<Library NameU="Cisco Safe Capability Icons" Name="思科安全能力符号"/>	
+	<Library NameU="Cisco Safe Design Icons" Name="思科安全设计符号"/>	
+</LibNames>

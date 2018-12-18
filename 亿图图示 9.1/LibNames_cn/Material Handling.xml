@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Material Handling">
+    <Elem Prompt="高级分类系统" Name="高级分类系统" PromptU="Advanced classification system" NameU="Advanced classification system"/>
+    <Elem Prompt="输送机 conveyor 1" Name="输送机 1" PromptU="Hero-mechanical conveyor 1" NameU="Hero-mechanical conveyor 1"/>
+    <Elem Prompt="输送机 2" Name="输送机 2" PromptU="Hero-mechanical conveyor 2" NameU="Hero-mechanical conveyor 2"/>
+    <Elem Prompt="输送机 3" Name="输送机 3" PromptU="Hero-mechanical conveyor 3" NameU="Hero-mechanical conveyor 3"/>
+    <Elem Prompt="输送机 4" Name="输送机 4" PromptU="Hero-mechanical conveyor 4" NameU="Hero-mechanical conveyor 4"/>
+    <Elem Prompt="输送机 5" Name="输送机 5" PromptU="Hero-mechanical conveyor 5" NameU="Hero-mechanical conveyor 5"/>
+    <Elem Prompt="输送机 6" Name="输送机 6" PromptU="Hero-mechanical conveyor 6" NameU="Hero-mechanical conveyor 6"/>
+    <Elem Prompt="输送机 7" Name="输送机 7" PromptU="Hero-mechanical conveyor 7" NameU="Hero-mechanical conveyor 7"/>
+    <Elem Prompt="输送机 8" Name="输送机 8" PromptU="Hero-mechanical conveyor 8" NameU="Hero-mechanical conveyor 8"/>
+    <Elem Prompt="AGI 混合器" Name="AGI 混合器" PromptU="AGI mixer" NameU="AGI mixer"/>
+    <Elem Prompt="风扫煤磨机" Name="风扫煤磨机" PromptU="Air swept pulverizer" NameU="Air swept pulverizer"/>
+    <Elem Prompt="鼓风管状干燥机" Name="鼓风管状干燥机" PromptU="Airswept tubular dryer" NameU="Airswept tubular dryer"/>
+    <Elem Prompt="垃圾袋丢弃" Name="垃圾袋丢弃" PromptU="Bag dump station" NameU="Bag dump station"/>
+    <Elem Prompt="袋式除尘器" Name="袋式除尘器" PromptU="Baghouse dust collector" NameU="Baghouse dust collector"/>
+    <Elem Prompt="球磨机" Name="球磨机" PromptU="Ball mill" NameU="Ball mill"/>
+    <Elem Prompt="散装袋卸货机" Name="散装袋卸货机" PromptU="Bulk bag discharger" NameU="Bulk bag discharger"/>
+    <Elem Prompt="装袋机" Name="装袋机" PromptU="Bulk bag feeder" NameU="Bulk bag feeder"/>
+    <Elem Prompt="装袋机 2" Name="装袋机 2" PromptU="Bulk bag filler" NameU="Bulk bag filler"/>
+    <Elem Prompt="装袋机 3" Name="装袋机 3" PromptU="Bulk bag filling station" NameU="Bulk bag filling station"/>
+    <Elem Prompt="散装袋装货机" Name="散装袋装货机" PromptU="Bulk bag loader" NameU="Bulk bag loader"/>
+    <Elem Prompt="轨道车" Name="轨道车" PromptU="Bulk railcar" NameU="Bulk railcar"/>
+    <Elem Prompt="套筒式除尘器" Name="套筒式除尘器" PromptU="Cartridge dust collector" NameU="Cartridge dust collector"/>
+    <Elem Prompt="离心筛" Name="离心筛" PromptU="Centrifugal type sifter" NameU="Centrifugal type sifter"/>
+    <Elem Prompt="离心机" Name="离心机" PromptU="Centrifuge" NameU="Centrifuge"/>
+    <Elem Prompt="澄清器" Name="澄清器" PromptU="Clarifier" NameU="Clarifier"/>
+    <Elem Prompt="胶体搅拌机" Name="胶体搅拌机" PromptU="Colloid mixer" NameU="Colloid mixer"/>
+    <Elem Prompt="小型喷雾干燥器" Name="小型喷雾干燥器" PromptU="Compact spray dryer" NameU="Compact spray dryer"/>
+    <Elem Prompt="圆锥破碎机" Name="圆锥破碎机" PromptU="Cone crusher" NameU="Cone crusher"/>
+    <Elem Prompt="锥形螺杆挤出机" Name="锥形螺杆挤出机" PromptU="Conical screw processor" NameU="Conical screw processor"/>
+    <Elem Prompt="旋风器 1" Name="旋风器 1" PromptU="Cyclone1" NameU="Cyclone1"/>
+    <Elem Prompt="旋风器 2" Name="旋风器 2" PromptU="Cyclone2" NameU="Cyclone2"/>
+    <Elem Prompt="盘式粉磨机 1" Name="盘式粉磨机 1" PromptU="Disc pulverizer1" NameU="Disc pulverizer1"/>
+    <Elem Prompt="盘式粉磨机 2" Name="盘式粉磨机 2" PromptU="Disc pulverizer2" NameU="Disc pulverizer2"/>
+    <Elem Prompt="双轮破碎机" Name="双轮破碎机" PromptU="Double roll crusher" NameU="Double roll crusher"/>
+    <Elem Prompt="冷却干燥机" Name="冷却干燥机" PromptU="Dryer cooler" NameU="Dryer cooler"/>
+    <Elem Prompt="收尘器 1" Name="收尘器 1" PromptU="Dust collector1" NameU="Dust collector1"/>
+    <Elem Prompt="收尘器 2" Name="收尘器 2" PromptU="Dust collector2" NameU="Dust collector2"/>
+    <Elem Prompt="收尘器 3" Name="收尘器 3" PromptU="Dust collector3" NameU="Dust collector3"/>
+    <Elem Prompt="收尘器 4" Name="收尘器 4" PromptU="Dust collector4" NameU="Dust collector4"/>
+    <Elem Prompt="收尘器 5" Name="收尘器 5" PromptU="Dust collector5" NameU="Dust collector5"/>
+    <Elem Prompt="收尘器 6" Name="收尘器 6" PromptU="Dust collector6" NameU="Dust collector6"/>
+    <Elem Prompt="粉尘回收机" Name="粉尘回收机" PromptU="Dust reclaim" NameU="Dust reclaim"/>
+    <Elem Prompt="粉尘颗粒传送机" Name="粉尘颗粒传送机" PromptU="Elevator for powders and pellets" NameU="Elevator for powders and pellets"/>
+    <Elem Prompt="送料器" Name="送料器" PromptU="Feeder" NameU="Feeder"/>
+    <Elem Prompt="流量表" Name="流量表" PromptU="Flow meter" NameU="Flow meter"/>
+    <Elem Prompt="空气输送机" Name="空气输送机" PromptU="Fluidizing conveyor" NameU="Fluidizing conveyor"/>
+    <Elem Prompt="重力送料器 1" Name="重力送料器 1" PromptU="Gravimetric feeder1" NameU="Gravimetric feeder1"/>
+    <Elem Prompt="重力送料器 2" Name="重力送料器 2" PromptU="Gravimetric feeder2" NameU="Gravimetric feeder2"/>
+    <Elem Prompt="研磨机" Name="研磨机" PromptU="Grinder" NameU="Grinder"/>
+    <Elem Prompt="磨碎机" Name="磨碎机" PromptU="Grinding mill" NameU="Grinding mill"/>
+    <Elem Prompt="锤式粉碎机 1" Name="锤式粉碎机 1" PromptU="Hammer mill 1" NameU="Hammer mill 1"/>
+    <Elem Prompt="锤式粉碎机 2" Name="锤式粉碎机 2" PromptU="Hammer mill 2" NameU="Hammer mill 2"/>
+    <Elem Prompt="真空输送机" Name="真空输送机" PromptU="High vacuum conveyer" NameU="High vacuum conveyer"/>
+    <Elem Prompt="真空输送机" Name="真空输送机" PromptU="High vacuum conveyer" NameU="High vacuum conveyer"/>
+    <Elem Prompt="高速搅拌机" Name="高速搅拌机" PromptU="Homomixer" NameU="Homomixer"/>
+    <Elem Prompt="进料漏斗 1" Name="进料漏斗 1" PromptU="Hopper1" NameU="Hopper1"/>
+    <Elem Prompt="进料漏斗 2" Name="进料漏斗 2" PromptU="Hopper2" NameU="Hopper2"/>
+    <Elem Prompt="进料漏斗 3" Name="进料漏斗 3" PromptU="Hopper3" NameU="Hopper3"/>
+    <Elem Prompt="给料器" Name="给料器" PromptU="Loss in weight feeder" NameU="Loss in weight feeder"/>
+    <Elem Prompt="研磨分类系统" Name="研磨分类系统" PromptU="Mill classification system" NameU="Mill classification system"/>
+    <Elem Prompt="组合给料机" Name="组合给料机" PromptU="Modular feeder" NameU="Modular feeder"/>
+    <Elem Prompt="碎料" Name="碎料" PromptU="Particles" NameU="Particles"/>
+    <Elem Prompt="管道混合器" Name="管道混合器" PromptU="Pipeline mixer" NameU="Pipeline mixer"/>
+    <Elem Prompt="设备真空系统" Name="设备真空系统" PromptU="Plant vacuum system" NameU="Plant vacuum system"/>
+    <Elem Prompt="粉末搅拌器" Name="粉末搅拌器" PromptU="Powder mixer" NameU="Powder mixer"/>
+    <Elem Prompt="精磨机" Name="精磨机" PromptU="Refiner" NameU="Refiner"/>
+    <Elem Prompt="旋转气封进料器 1" Name="旋转气封进料器 1" PromptU="Rotary airlock feeder1" NameU="Rotary airlock feeder1"/>
+    <Elem Prompt="橡胶造粒机" Name="橡胶造粒机" PromptU="Rubber granulator" NameU="Rubber granulator"/>
+    <Elem Prompt="自动卸料漏斗" Name="自动卸料漏斗" PromptU="Self-dumping hopper" NameU="Self-dumping hopper"/>
+    <Elem Prompt="粉碎机" Name="粉碎机" PromptU="Shredder" NameU="Shredder"/>
+    <Elem Prompt="料仓" Name="料仓" PromptU="Silo" NameU="Silo"/>
+    <Elem Prompt="凝结器" Name="凝结器" PromptU="Simple agglomeration" NameU="Simple agglomeration"/>
+    <Elem Prompt="空气分级机" Name="空气分级机" PromptU="Simple air classifier" NameU="Simple air classifier"/>
+    <Elem Prompt="离心筛" Name="离心筛" PromptU="Simple centrifugal scalper" NameU="Simple centrifugal scalper"/>
+    <Elem Prompt="分级磨" Name="分级磨" PromptU="Simple classifier mill" NameU="Simple classifier mill"/>
+    <Elem Prompt="滑动给料器" Name="滑动给料器" PromptU="Simple dyna-slide feeder" NameU="Simple dyna-slide feeder"/>
+    <Elem Prompt="给料机" Name="给料机" PromptU="Simple feeder" NameU="Simple feeder"/>
+    <Elem Prompt="过滤器" Name="过滤器" PromptU="Simple filter" NameU="Simple filter"/>
+    <Elem Prompt=" 细磨机" Name=" 细磨机" PromptU="Simple fine grinding mill" NameU="Simple fine grinding mill"/>
+    <Elem Prompt="锤磨机" Name="锤磨机" PromptU="Simple hammermill" NameU="Simple hammermill"/>
+    <Elem Prompt="料斗" Name="料斗" PromptU="Simple hopper with material" NameU="Simple hopper with material"/>
+    <Elem Prompt="滚压机" Name="滚压机" PromptU="Simple roller mill" NameU="Simple roller mill"/>
+    <Elem Prompt="旋转气封进料器" Name="旋转气封进料器" PromptU="Simple rotary airlock feeder" NameU="Simple rotary airlock feeder"/>
+    <Elem Prompt="筛分机" Name="筛分机" PromptU="Simple screener" NameU="Simple screener"/>
+    <Elem Prompt="粉碎机" Name="粉碎机" PromptU="Simple shredder" NameU="Simple shredder"/>
+    <Elem Prompt="料仓" Name="料仓" PromptU="Simple silo" NameU="Simple silo"/>
+    <Elem Prompt="固体处理" Name="固体处理" PromptU="Simple solids processing" NameU="Simple solids processing"/>
+    <Elem Prompt="传送装置" Name="传送装置" PromptU="Simple transporter" NameU="Simple transporter"/>
+    <Elem Prompt="振动筛" Name="振动筛" PromptU="Simple vibrating screen" NameU="Simple vibrating screen"/>
+    <Elem Prompt="称量斗" Name="称量斗" PromptU="Simple weigh hopper" NameU="Simple weigh hopper"/>
+    <Elem Prompt="带漏斗螺旋输送机" Name="带漏斗螺旋输送机" PromptU="Spiral conveyor with hopper" NameU="Spiral conveyor with hopper"/>
+    <Elem Prompt="不锈钢重型搅拌器" Name="不锈钢重型搅拌器" PromptU="Stainless steel heavy-duty mixer" NameU="Stainless steel heavy-duty mixer"/>
+    <Elem Prompt="湿式除尘器" Name="湿式除尘器" PromptU="Three stage wet collector" NameU="Three stage wet collector"/>
+    <Elem Prompt="自动装卸机" Name="自动装卸机" PromptU="Truck loader" NameU="Truck loader"/>
+    <Elem Prompt="卡车" Name="卡车" PromptU="Truck" NameU="Truck"/>
+    <Elem Prompt="真空助力器" Name="真空助力器" PromptU="Vacuum boost" NameU="Vacuum boost"/>
+    <Elem Prompt="真空压力卸料机" Name="真空压力卸料机" PromptU="Vacuum pressure unloader" NameU="Vacuum pressure unloader"/>
+    <Elem Prompt="垂直轴撞击器" Name="垂直轴撞击器" PromptU="Vertical shaft impactor" NameU="Vertical shaft impactor"/>
+    <Elem Prompt="双渠道震动容器放电器" Name="双渠道震动容器放电器" PromptU="Vibrating bin discharger with dual outlets" NameU="Vibrating bin discharger with dual outlets"/>
+    <Elem Prompt="容积式给料机" Name="容积式给料机" PromptU="Volumetric feeder machine" NameU="Volumetric feeder machine"/>
+    <Elem Prompt="容积式给料器" Name="容积式给料器" PromptU="Volumetric feeder" NameU="Volumetric feeder"/>
+    <Elem Prompt="金属网仓储笼" Name="金属网仓储笼" PromptU="Wire mesh container" NameU="Wire mesh container"/>
+</Lib>

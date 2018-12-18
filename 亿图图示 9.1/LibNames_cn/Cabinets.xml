@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Cabinets and Bookcases">
+    <Elem Prompt="工作台" Name="工作台" PromptU="Work surface" NameU="Work surface"/>
+    <Elem Prompt="转角台" Name="转角台" PromptU="Corner surface" NameU="Corner surface"/>
+    <Elem Prompt="转角台 2" Name="转角台 2" PromptU="Corner surface 2" NameU="Corner surface 2"/>
+    <Elem Prompt="转角台 3" Name="转角台 3" PromptU="Corner surface 3" NameU="Corner surface 3"/>
+    <Elem Prompt="转角台 4" Name="转角台 4" PromptU="Corner surface 4" NameU="Corner surface 4"/>
+    <Elem Prompt="中岛台" Name="中岛台" PromptU="Island" NameU="Island"/>
+    <Elem Prompt="圆角柜台" Name="圆角柜台" PromptU="Corner counter" NameU="Corner counter"/>
+    <Elem Prompt="拼盘柜台" Name="拼盘柜台" PromptU="Platter counter" NameU="Platter counter"/>
+    <Elem Prompt="斜角柜台" Name="斜角柜台" PromptU="Bevel counter" NameU="Bevel counter"/>
+    <Elem Prompt="弯管柜台" Name="弯管柜台" PromptU="Bent counter" NameU="Bent counter"/>
+    <Elem Prompt="岛工作台" Name="岛工作台" PromptU="Work peninsula" NameU="Work peninsula"/>
+    <Elem Prompt="落地橱1" Name="落地橱1" PromptU="Base 1" NameU="Base 1"/>
+    <Elem Prompt="落地橱2" Name="落地橱2" PromptU="Base 2" NameU="Base 2"/>
+    <Elem Prompt="落地橱端架" Name="落地橱端架" PromptU="Base end-shelf" NameU="Base end-shelf"/>
+    <Elem Prompt="落地橱角柜" Name="落地橱角柜" PromptU="Base corner" NameU="Base corner"/>
+    <Elem Prompt="转角落地橱" Name="转角落地橱" PromptU="Base blind corner" NameU="Base blind corner"/>
+    <Elem Prompt="落地橱转角" Name="落地橱转角" PromptU="Base end angle" NameU="Base end angle"/>
+    <Elem Prompt="抽屉 1" Name="抽屉 1" PromptU="Drawer 1" NameU="Drawer 1"/>
+    <Elem Prompt="抽屉 2" Name="抽屉 2" PromptU="Drawer 2" NameU="Drawer 2"/>
+    <Elem Prompt="书柜" Name="书柜" PromptU="Bookcase" NameU="Bookcase"/>
+    <Elem Prompt="书柜 2" Name="书柜 2" PromptU="Bookcase 2" NameU="Bookcase 2"/>
+    <Elem Prompt="半岛式端架" Name="半岛式端架" PromptU="Peninsula end-shelf" NameU="Peninsula end-shelf"/>
+    <Elem Prompt="半岛式落地橱1" Name="半岛式落地橱1" PromptU="Base peninsula 1" NameU="Base peninsula 1"/>
+    <Elem Prompt="半岛式落地橱2" Name="半岛式落地橱2" PromptU="Base peninsula 2" NameU="Base peninsula 2"/>
+    <Elem Prompt="壁橱端架" Name="壁橱端架" PromptU="Wall end-shelf" NameU="Wall end-shelf"/>
+    <Elem Prompt="斜角壁柜" Name="斜角壁柜" PromptU="Wall corner" NameU="Wall corner"/>
+    <Elem Prompt="三角壁柜1" Name="三角壁柜1" PromptU="Wall angle cabinet" NameU="Wall angle cabinet"/>
+    <Elem Prompt="转角架" Name="转角架" PromptU="Track end-bevel" NameU="Track end-bevel"/>
+    <Elem Prompt="45度角拖架" Name="45度角拖架" PromptU="Track 45 deg." NameU="Track 45 deg."/>
+    <Elem Prompt="衣橱" Name="衣橱" PromptU="Locker" NameU="Locker"/>
+    <Elem Prompt="把手" Name="把手" PromptU="Handle" NameU="Handle"/>
+    <Elem Prompt="把手 2" Name="把手 2" PromptU="Handle 2" NameU="Handle 2"/>
+    <Elem Prompt="把手 3" Name="把手 3" PromptU="Handle 3" NameU="Handle 3"/>
+    <Elem Prompt="把手 4" Name="把手 4" PromptU="Handle 4" NameU="Handle 4"/>
+    <Elem Prompt="把手 5" Name="把手 5" PromptU="Handle 5" NameU="Handle 5"/>
+</Lib>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Highlight Flowchart Shapes">
+    <Elem Prompt="流程" Name="流程" PromptU="Process" NameU="Process"/>
+    <Elem Prompt="流程 2" Name="流程 2" PromptU="Process 2" NameU="Process 2"/>
+    <Elem Prompt="流程 3" Name="流程 3" PromptU="Process 3" NameU="Process 3"/>
+    <Elem Prompt="决定" Name="决定" PromptU="Decision" NameU="Decision"/>
+    <Elem Prompt="文档" Name="文档" PromptU="Document" NameU="Document"/>
+    <Elem Prompt="数据" Name="数据" PromptU="Data" NameU="Data"/>
+    <Elem Prompt="开始或者终结" Name="开始或者终结" PromptU="Start/terminator" NameU="Start/terminator"/>
+    <Elem Prompt="出发点 2" Name="出发点 2" PromptU="Start 2" NameU="Start 2"/>
+    <Elem Prompt="存储数据" Name="存储数据" PromptU="Stored data" NameU="Stored data"/>
+    <Elem Prompt="数据" Name="数据" PromptU="Direct Data" NameU="Direct Data"/>
+    <Elem Prompt="终结" Name="终结" PromptU="Terminator" NameU="Terminator"/>
+    <Elem Prompt="准备" Name="准备" PromptU="Preparation" NameU="Preparation"/>
+    <Elem Prompt="手动操作" Name="手动操作" PromptU="Manual operation" NameU="Manual operation"/>
+    <Elem Prompt="演示" Name="演示" PromptU="Display" NameU="Display"/>
+    <Elem Prompt="手动输入" Name="手动输入" PromptU="Manual input" NameU="Manual input"/>
+    <Elem Prompt="卡" Name="卡" PromptU="Card" NameU="Card"/>
+    <Elem Prompt="循环次数" Name="循环次数" PromptU="Loop limit" NameU="Loop limit"/>
+    <Elem Prompt="纸带" Name="纸带" PromptU="Paper tape" NameU="Paper tape"/>
+    <Elem Prompt="延迟" Name="延迟" PromptU="Delay" NameU="Delay"/>
+    <Elem Prompt="箭头" Name="箭头" PromptU="Arrow" NameU="Arrow"/>
+    <Elem Prompt="箭头 2" Name="箭头 2" PromptU="Arrow 2" NameU="Arrow 2"/>
+</Lib>

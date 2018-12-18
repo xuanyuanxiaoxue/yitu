@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Equipment - Instruments">
+    <Elem Prompt="指示器" Name="指示器" PromptU="Indicator" NameU="Indicator"/>
+    <Elem Prompt="控制面板后" Name="控制面板后" PromptU="Behind Control Panel" NameU="Behind Control Panel"/>
+    <Elem Prompt="中央控制面板上" Name="中央控制面板上" PromptU="On Central Control Panel" NameU="On Central Control Panel"/>
+    <Elem Prompt="本地控制面板上" Name="本地控制面板上" PromptU="On Local Control Pane" NameU="On Local Control Pane"/>
+    <Elem Prompt="本地控制面板后" Name="本地控制面板后" PromptU="Behind a Local Control Panel" NameU="Behind a Local Control Panel"/>
+    <Elem Prompt="指示器 2" Name="指示器 2" PromptU="Indicator 2" NameU="Indicator 2"/>
+    <Elem Prompt="指示器 3" Name="指示器 3" PromptU="Indicator 3" NameU="Indicator 3"/>
+    <Elem Prompt="指示器 4" Name="指示器 4" PromptU="Indicator 4" NameU="Indicator 4"/>
+    <Elem Prompt="指示器 5" Name="指示器 5" PromptU="Indicator 5" NameU="Indicator 5"/>
+    <Elem Prompt="里程计" Name="里程计" PromptU="Odometer" NameU="Odometer"/>
+    <Elem Prompt="压力计" Name="压力计" PromptU="Pressure gauge" NameU="Pressure gauge"/>
+    <Elem Prompt="流量计" Name="流量计" PromptU="Flowmeter" NameU="Flowmeter"/>
+    <Elem Prompt="温度计" Name="温度计" PromptU="Thermometer" NameU="Thermometer"/>
+    <Elem Prompt="共享指示器" Name="共享指示器" PromptU="Shared Indicator" NameU="Shared Indicator"/>
+    <Elem Prompt="可配置显示设备" Name="可配置显示设备" PromptU="Displayed configurable device" NameU="Displayed configurable device"/>
+    <Elem Prompt="共享指示器 2" Name="共享指示器 2" PromptU="Shared Indicator 2" NameU="Shared Indicator 2"/>
+    <Elem Prompt="计算机指示器" Name="计算机指示器" PromptU="Computer Indicator" NameU="Computer Indicator"/>
+    <Elem Prompt="可编程指示器" Name="可编程指示器" PromptU="Programmable Indicator" NameU="Programmable Indicator"/>
+    <Elem Prompt="可编程显示设备" Name="可编程显示设备" PromptU="Displayed programmable device" NameU="Displayed programmable device"/>
+    <Elem Prompt="计算机" Name="计算机" PromptU="Computer" NameU="Computer"/>
+    <Elem Prompt="单元控制面板" Name="单元控制面板" PromptU="Unit control panel" NameU="Unit control panel"/>
+    <Elem Prompt="温度计" Name="温度计" PromptU="Temp Indicator" NameU="Temp Indicator"/>
+    <Elem Prompt="温度变送器" Name="温度变送器" PromptU="Temp Transmitter" NameU="Temp Transmitter"/>
+    <Elem Prompt="温度自动记录器" Name="温度自动记录器" PromptU="Temp Recorder" NameU="Temp Recorder"/>
+    <Elem Prompt="温度控制器" Name="温度控制器" PromptU="Temp Controller" NameU="Temp Controller"/>
+    <Elem Prompt="流量指示器" Name="流量指示器" PromptU="Flow Indicator" NameU="Flow Indicator"/>
+    <Elem Prompt="流量变送器" Name="流量变送器" PromptU="Flow Transmitter" NameU="Flow Transmitter"/>
+    <Elem Prompt="流量记录仪" Name="流量记录仪" PromptU="Flow Recorder" NameU="Flow Recorder"/>
+    <Elem Prompt="流量控制器" Name="流量控制器" PromptU="Flow Controller" NameU="Flow Controller"/>
+    <Elem Prompt="液面指示器" Name="液面指示器" PromptU="Level Indicator" NameU="Level Indicator"/>
+    <Elem Prompt="压力指示器" Name="压力指示器" PromptU="Pressure Indicator" NameU="Pressure Indicator"/>
+    <Elem Prompt="能级传送器" Name="能级传送器" PromptU="Level Transmitter" NameU="Level Transmitter"/>
+    <Elem Prompt="电平记录器" Name="电平记录器" PromptU="Level Recorder" NameU="Level Recorder"/>
+    <Elem Prompt="液面控制器" Name="液面控制器" PromptU="Level Controller" NameU="Level Controller"/>
+    <Elem Prompt="压力变送器" Name="压力变送器" PromptU="Pressure Transmitter" NameU="Pressure Transmitter"/>
+    <Elem Prompt="压力记录器" Name="压力记录器" PromptU="Pressure Recorder" NameU="Pressure Recorder"/>
+    <Elem Prompt="电压调整器" Name="电压调整器" PromptU="Pressure Controller" NameU="Pressure Controller"/>
+    <Elem Prompt="压力指示" Name="压力指示" PromptU="Pressure Indicating" NameU="Pressure Indicating"/>
+    <Elem Prompt="压力记录" Name="压力记录" PromptU="Pressure Recording" NameU="Pressure Recording"/>
+    <Elem Prompt="液面警报器" Name="液面警报器" PromptU="Level Alarm" NameU="Level Alarm"/>
+    <Elem Prompt="流元件" Name="流元件" PromptU="Flow Element" NameU="Flow Element"/>
+    <Elem Prompt="温度元件" Name="温度元件" PromptU="Temperature Element" NameU="Temperature Element"/>
+    <Elem Prompt="水准仪" Name="水准仪" PromptU="Level Gauge" NameU="Level Gauge"/>
+    <Elem Prompt="分析仪发射机" Name="分析仪发射机" PromptU="Analyzer Transmitter" NameU="Analyzer Transmitter"/>
+    <Elem Prompt="传感器" Name="传感器" PromptU="Transducer" NameU="Transducer"/>
+    <Elem Prompt="特殊项" Name="特殊项" PromptU="Specialty item" NameU="Specialty item"/>
+    <Elem Prompt="采样器" Name="采样器" PromptU="Sampler" NameU="Sampler"/>
+    <Elem Prompt="整流叶片" Name="整流叶片" PromptU="Straightening vanes" NameU="Straightening vanes"/>
+    <Elem Prompt="膜片式计量器" Name="膜片式计量器" PromptU="Diaphragm meter" NameU="Diaphragm meter"/>
+    <Elem Prompt="转子流速计" Name="转子流速计" PromptU="Rotary meter" NameU="Rotary meter"/>
+    <Elem Prompt="磁性的" Name="磁性的" PromptU="Magnetic" NameU="Magnetic"/>
+    <Elem Prompt="皮托管类型流元素" Name="皮托管类型流元素" PromptU="Pitot tube type flow element" NameU="Pitot tube type flow element"/>
+    <Elem Prompt="皮托管" Name="皮托管" PromptU="Pitot tube" NameU="Pitot tube"/>
+    <Elem Prompt="楔形计" Name="楔形计" PromptU="Wedge meter" NameU="Wedge meter"/>
+    <Elem Prompt="靶型流量计" Name="靶型流量计" PromptU="Target meter" NameU="Target meter"/>
+    <Elem Prompt="溢流计" Name="溢流计" PromptU="Weir meter" NameU="Weir meter"/>
+    <Elem Prompt="超声波测量仪" Name="超声波测量仪" PromptU="Ultrasonic meter" NameU="Ultrasonic meter"/>
+    <Elem Prompt="V锥差压流量计" Name="V锥差压流量计" PromptU="V-cone meter" NameU="V-cone meter"/>
+    <Elem Prompt="文氏管流量计" Name="文氏管流量计" PromptU="Venturi meter" NameU="Venturi meter"/>
+    <Elem Prompt="快换孔板装置" Name="快换孔板装置" PromptU="Quick change orifice fitting" NameU="Quick change orifice fitting"/>
+    <Elem Prompt="涡轮流量计" Name="涡轮流量计" PromptU="Turbine meter" NameU="Turbine meter"/>
+    <Elem Prompt="涡轮流量计" Name="涡轮流量计" PromptU="Rotometer" NameU="Rotometer"/>
+    <Elem Prompt="双" Name="双" PromptU="Double" NameU="Double"/>
+    <Elem Prompt="蒸汽追踪" Name="蒸汽追踪" PromptU="Steam traced" NameU="Steam traced"/>
+    <Elem Prompt="文丘里管" Name="文丘里管" PromptU="Venturi" NameU="Venturi"/>
+    <Elem Prompt="流量计" Name="流量计" PromptU="Flowmeter" NameU="Flowmeter"/>
+    <Elem Prompt="涡流检测器" Name="涡流检测器" PromptU="Vortex sensor" NameU="Vortex sensor"/>
+    <Elem Prompt="与门" Name="与门" PromptU="And gate" NameU="And gate"/>
+    <Elem Prompt="或门" Name="或门" PromptU="Or gate" NameU="Or gate"/>
+    <Elem Prompt="非门" Name="非门" PromptU="Not gate" NameU="Not gate"/>
+    <Elem Prompt="校正元件" Name="校正元件" PromptU="Correcting element" NameU="Correcting element"/>
+    <Elem Prompt="菱形" Name="菱形" PromptU="Diamond" NameU="Diamond"/>
+    <Elem Prompt="压力计" Name="压力计" PromptU="Pressure gauges" NameU="Pressure gauges"/>
+    <Elem Prompt="温度计" Name="温度计" PromptU="Thermometers" NameU="Thermometers"/>
+    <Elem Prompt="均速管流量计" Name="均速管流量计" PromptU="Averaging pitot tube" NameU="Averaging pitot tube"/>
+    <Elem Prompt="电平表" Name="电平表" PromptU="Level meter" NameU="Level meter"/>
+    <Elem Prompt="科氏流量传感器" Name="科氏流量传感器" PromptU="Coriolis flow sensor" NameU="Coriolis flow sensor"/>
+    <Elem Prompt="流喷嘴计" Name="流喷嘴计" PromptU="Flow nozzle meter" NameU="Flow nozzle meter"/>
+    <Elem Prompt="水槽计" Name="水槽计" PromptU="Flume meter" NameU="Flume meter"/>
+    <Elem Prompt="检修孔" Name="检修孔" PromptU="Manhole" NameU="Manhole"/>
+    <Elem Prompt="插座, 喷嘴连接器" Name="插座, 喷嘴连接器" PromptU="Socket, Connection Nozzle" NameU="Socket, Connection Nozzle"/>
+    <Elem Prompt="支架" Name="支架" PromptU="Support bracket" NameU="Support bracket"/>
+    <Elem Prompt="支撑脚" Name="支撑脚" PromptU="Support leg" NameU="Support leg"/>
+    <Elem Prompt="支撑环" Name="支撑环" PromptU="Support ring" NameU="Support ring"/>
+    <Elem Prompt="支撑裙座" Name="支撑裙座" PromptU="Support skirt" NameU="Support skirt"/>
+</Lib>

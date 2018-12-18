@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="People - Flat">
+    <Elem NameU="People" PromptU="People" Name="人" Prompt="人"/>
+    <Elem NameU="Meeting" PromptU="Meeting" Name="会议" Prompt="会议"/>
+    <Elem NameU="International Cooperation" PromptU="International Cooperation" Name="国际合作" Prompt="国际合作"/>
+    <Elem NameU="High level talks" PromptU="High level talks" Name="高级别会议" Prompt="高级别会议"/>
+    <Elem NameU="Manager's daily work" PromptU="Manager's daily work" Name="经理的日常工作" Prompt="经理的日常工作"/>
+    <Elem NameU="Late for work" PromptU="Late for work" Name="上班迟到" Prompt="上班迟到"/>
+    <Elem NameU="International call" PromptU="International call" Name="国际电话" Prompt="国际电话"/>
+    <Elem NameU="A business travel" PromptU="A business travel" Name="出差" Prompt="出差"/>
+    <Elem NameU="Creative work" PromptU="Creative work" Name="创造性工作" Prompt="创造性工作"/>
+    <Elem NameU="Wifi" PromptU="Wifi" Name="Wifi" Prompt="Wifi"/>
+    <Elem NameU="Speech" PromptU="Speech" Name="演讲" Prompt="演讲"/>
+    <Elem NameU="Fax" PromptU="Fax" Name="传真" Prompt="传真"/>
+    <Elem NameU="Answer the phone" PromptU="Answer the phone" Name="接电话" Prompt="接电话"/>
+    <Elem NameU="Rainy days off work" PromptU="Rainy days off work" Name="雨天下班" Prompt="雨天下班"/>
+    <Elem NameU="Take a taxi home" PromptU="Take a taxi home" Name="打的回家" Prompt="打的回家"/>
+    <Elem NameU="Cross the road" PromptU="Cross the road" Name="过马路" Prompt="过马路"/>
+    <Elem NameU="Rest time" PromptU="Rest time" Name="休息时间" Prompt="休息时间"/>
+    <Elem NameU="To solve the economic crisis" PromptU="To solve the economic crisis" Name="解决经济危机" Prompt="解决经济危机"/>
+    <Elem NameU="Global partners" PromptU="Global partners" Name="全球合作伙伴" Prompt="全球合作伙伴"/>
+    <Elem NameU="Pleasant cooperation" PromptU="Pleasant cooperation" Name="合作愉快" Prompt="合作愉快"/>
+    <Elem NameU="Work exchange" PromptU="Work exchange" Name="工作交流" Prompt="工作交流"/>
+    <Elem NameU="Collation of data" PromptU="Collation of data" Name="整理资料" Prompt="整理资料"/>
+    <Elem NameU="The transportation of products" PromptU="The transportation of products" Name="产品运输" Prompt="产品运输"/>
+    <Elem NameU="Resignation" PromptU="Resignation" Name="登记" Prompt="登记"/>
+    <Elem NameU="How to get promoted" PromptU="How to get promoted" Name="如何能升职" Prompt="如何能升职"/>
+    <Elem NameU="Confused" PromptU="Confused" Name="困惑" Prompt="困惑"/>
+    <Elem NameU="Receive mail" PromptU="Receive mail" Name="接收邮件" Prompt="接收邮件"/>
+    <Elem NameU="Data analysis" PromptU="Data analysis" Name="数据分析" Prompt="数据分析"/>
+    <Elem NameU="Data processing" PromptU="Data processing" Name="数据处理" Prompt="数据处理"/>
+    <Elem NameU="Quality certification" PromptU="Quality certification" Name="质量认证" Prompt="质量认证"/>
+    <Elem NameU="To promote economy" PromptU="To promote economy" Name="促进经济发展" Prompt="促进经济发展"/>
+    <Elem NameU="The concept of time" PromptU="The concept of time" Name="时间观" Prompt="时间观"/>
+    <Elem NameU="Announcer" PromptU="Announcer" Name="广播员" Prompt="广播员"/>
+    <Elem NameU="Analysis of the pie chart" PromptU="Analysis of the pie chart" Name="饼图分析" Prompt="饼图分析"/>
+    <Elem NameU="Idea" PromptU="Idea" Name="主意" Prompt="主意"/>
+    <Elem NameU="Economic mind" PromptU="Economic mind" Name="经济头脑" Prompt="经济头脑"/>
+    <Elem NameU="Search" PromptU="Search" Name="搜索" Prompt="搜索"/>
+    <Elem NameU="Dialogue" PromptU="Dialogue" Name="对话" Prompt="对话"/>
+    <Elem NameU="Bulletin board" PromptU="Bulletin board" Name="布告牌" Prompt="布告牌"/>
+    <Elem NameU="The economic crisis" PromptU="The economic crisis" Name="经济危机" Prompt="经济危机"/>
+    <Elem NameU="Praise" PromptU="Praise" Name="赞扬" Prompt="赞扬"/>
+    <Elem NameU="Flag" PromptU="Flag" Name="旗帜" Prompt="旗帜"/>
+    <Elem NameU="Propaganda" PromptU="Propaganda" Name="宣传" Prompt="宣传"/>
+    <Elem NameU="The announcement" PromptU="The announcement" Name="公告" Prompt="公告"/>
+    <Elem NameU="Throw the rubbish" PromptU="Throw the rubbish" Name="扔垃圾" Prompt="扔垃圾"/>
+    <Elem NameU="Photograph" PromptU="Photograph" Name="照相" Prompt="照相"/>
+    <Elem NameU="Location" PromptU="Location" Name="位置" Prompt="位置"/>
+    <Elem NameU="Mobile phone calls" PromptU="Mobile phone calls" Name="手机来电" Prompt="手机来电"/>
+    <Elem NameU="Elite team" PromptU="Elite team" Name="精英团队" Prompt="精英团队"/>
+</Lib>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="COM and OLE">
+    <Elem Prompt="COM 对象" Name="COM 对象" PromptU="COM Object" NameU="COM Object"/>
+    <Elem Prompt="虚拟函数表" Name="虚拟函数表" PromptU="Vtable" NameU="Vtable"/>
+    <Elem Prompt="OLE 服务器/应用程序" Name="OLE 服务器/应用程序" PromptU="OLE Server App" NameU="OLE Server App"/>
+    <Elem Prompt="对象模型" Name="对象模型" PromptU="Object Model" NameU="Object Model"/>
+    <Elem Prompt="引用" Name="引用" PromptU="Reference" NameU="Reference"/>
+    <Elem Prompt="弱引用" Name="弱引用" PromptU="Weak Reference" NameU="Weak Reference"/>
+    <Elem Prompt="接口" Name="接口" PromptU="Interface" NameU="Interface"/>
+    <Elem Prompt="处理边界" Name="处理边界" PromptU="Process Boundary" NameU="Process Boundary"/>
+    <Elem Prompt="文档或文件" Name="文档或文件" PromptU="Document or File" NameU="Document or File"/>
+    <Elem Prompt="嵌入文档" Name="嵌入文档" PromptU="Embedded Document" NameU="Embedded Document"/>
+    <Elem Prompt="数据存储" Name="数据存储" PromptU="Data Store" NameU="Data Store"/>
+    <Elem Prompt="连接线" Name="连接线" PromptU="Connector" NameU="Connector"/>
+    <Elem Prompt="边界" Name="边界" PromptU="Boundary" NameU="Boundary"/>
+</Lib>

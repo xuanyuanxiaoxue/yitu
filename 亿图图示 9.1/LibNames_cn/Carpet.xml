@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Carpet">
+    <Elem Prompt="地毯" Name="地毯" PromptU="Carpet" NameU="Carpet"/>
+    <Elem Prompt="地毯 1" Name="地毯 1" PromptU="Carpet 1" NameU="Carpet 1"/>
+    <Elem Prompt="地毯 2" Name="地毯 2" PromptU="Carpet 2" NameU="Carpet 2"/>
+    <Elem Prompt="地毯 3" Name="地毯 3" PromptU="Carpet 3" NameU="Carpet 3"/>
+    <Elem Prompt="地毯 4" Name="地毯 4" PromptU="Carpet 4" NameU="Carpet 4"/>
+    <Elem Prompt="地毯 5" Name="地毯 5" PromptU="Carpet 5" NameU="Carpet 5"/>
+    <Elem Prompt="地毯 6" Name="地毯 6" PromptU="Carpet 6" NameU="Carpet 6"/>
+    <Elem Prompt="地毯 7" Name="地毯 7" PromptU="Carpet 7" NameU="Carpet 7"/>
+    <Elem Prompt="地毯 8" Name="地毯 8" PromptU="Carpet 8" NameU="Carpet 8"/>
+    <Elem Prompt="地毯 9" Name="地毯 9" PromptU="Carpet 9" NameU="Carpet 9"/>
+    <Elem Prompt="地毯 10" Name="地毯 10" PromptU="Carpet 10" NameU="Carpet 10"/>
+    <Elem Prompt="地毯 11" Name="地毯 11" PromptU="Carpet 11" NameU="Carpet 11"/>
+    <Elem Prompt="地毯 12" Name="地毯 12" PromptU="Carpet 12" NameU="Carpet 12"/>
+    <Elem Prompt="地毯 13" Name="地毯 13" PromptU="Carpet 13" NameU="Carpet 13"/>
+</Lib>

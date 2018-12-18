@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Greek Letter">
+    <Elem Prompt="Pi" Name="Pi" PromptU="Pi" NameU="Pi"/>
+    <Elem Prompt="Alpha" Name="Alpha" PromptU="Alpha" NameU="Alpha"/>
+    <Elem Prompt="Beta" Name="Beta" PromptU="Beta" NameU="Beta"/>
+    <Elem Prompt="Gamma" Name="Gamma" PromptU="Gamma" NameU="Gamma"/>
+    <Elem Prompt="Delta" Name="Delta" PromptU="Delta" NameU="Delta"/>
+    <Elem Prompt="Epsilon" Name="Epsilon" PromptU="Epsilon" NameU="Epsilon"/>
+    <Elem Prompt="Zeta" Name="Zeta" PromptU="Zeta" NameU="Zeta"/>
+    <Elem Prompt="Eta" Name="Eta" PromptU="Eta" NameU="Eta"/>
+    <Elem Prompt="Theta" Name="Theta" PromptU="Theta" NameU="Theta"/>
+    <Elem Prompt="Iota" Name="Iota" PromptU="Iota" NameU="Iota"/>
+    <Elem Prompt="Kappa" Name="Kappa" PromptU="Kappa" NameU="Kappa"/>
+    <Elem Prompt="Lambda" Name="Lambda" PromptU="Lambda" NameU="Lambda"/>
+    <Elem Prompt="Mu" Name="Mu" PromptU="Mu" NameU="Mu"/>
+    <Elem Prompt="Nu" Name="Nu" PromptU="Nu" NameU="Nu"/>
+    <Elem Prompt="Xi" Name="Xi" PromptU="Xi" NameU="Xi"/>
+    <Elem Prompt="Omicron" Name="Omicron" PromptU="Omicron" NameU="Omicron"/>
+    <Elem Prompt="Rho" Name="Rho" PromptU="Rho" NameU="Rho"/>
+    <Elem Prompt="Sigma" Name="Sigma" PromptU="Sigma" NameU="Sigma"/>
+    <Elem Prompt="Tau" Name="Tau" PromptU="Tau" NameU="Tau"/>
+    <Elem Prompt="Upsilon" Name="Upsilon" PromptU="Upsilon" NameU="Upsilon"/>
+    <Elem Prompt="Phi" Name="Phi" PromptU="Phi" NameU="Phi"/>
+    <Elem Prompt="Phi" Name="Phi" PromptU="Phi" NameU="Phi"/>
+    <Elem Prompt="Chi" Name="Chi" PromptU="Chi" NameU="Chi"/>
+    <Elem Prompt="Psi" Name="Psi" PromptU="Psi" NameU="Psi"/>
+    <Elem Prompt="Omega" Name="Omega" PromptU="Omega" NameU="Omega"/>
+    <Elem Prompt="Alpha Capital" Name="Alpha Capital" PromptU="Alpha Capital" NameU="Alpha Capital"/>
+    <Elem Prompt="Beta Capital" Name="Beta Capital" PromptU="Beta Capital" NameU="Beta Capital"/>
+    <Elem Prompt="Gamma Capital" Name="Gamma Capital" PromptU="Gamma Capital" NameU="Gamma Capital"/>
+    <Elem Prompt="Delta Capital" Name="Delta Capital" PromptU="Delta Capital" NameU="Delta Capital"/>
+    <Elem Prompt="Epsilon Capital" Name="Epsilon Capital" PromptU="Epsilon Capital" NameU="Epsilon Capital"/>
+    <Elem Prompt="Zeta Capital" Name="Zeta Capital" PromptU="Zeta Capital" NameU="Zeta Capital"/>
+    <Elem Prompt="Eta Capital" Name="Eta Capital" PromptU="Eta Capital" NameU="Eta Capital"/>
+    <Elem Prompt="Theta Capital" Name="Theta Capital" PromptU="Theta Capital" NameU="Theta Capital"/>
+    <Elem Prompt="Iota Capital" Name="Iota Capital" PromptU="Iota Capital" NameU="Iota Capital"/>
+    <Elem Prompt="Kappa Capital" Name="Kappa Capital" PromptU="Kappa Capital" NameU="Kappa Capital"/>
+    <Elem Prompt="Lambda Capital" Name="Lambda Capital" PromptU="Lambda Capital" NameU="Lambda Capital"/>
+    <Elem Prompt="Mu Capital" Name="Mu Capital" PromptU="Mu Capital" NameU="Mu Capital"/>
+    <Elem Prompt="Nu Capital" Name="Nu Capital" PromptU="Nu Capital" NameU="Nu Capital"/>
+    <Elem Prompt="Xi Capital" Name="Xi Capital" PromptU="Xi Capital" NameU="Xi Capital"/>
+    <Elem Prompt="Omicron Capital" Name="Omicron Capital" PromptU="Omicron Capital" NameU="Omicron Capital"/>
+    <Elem Prompt="Pi Capital" Name="Pi Capital" PromptU="Pi Capital" NameU="Pi Capital"/>
+    <Elem Prompt="Rho Capital" Name="Rho Capital" PromptU="Rho Capital" NameU="Rho Capital"/>
+    <Elem Prompt="Sigma Capital" Name="Sigma Capital" PromptU="Sigma Capital" NameU="Sigma Capital"/>
+    <Elem Prompt="Tau Capital" Name="Tau Capital" PromptU="Tau Capital" NameU="Tau Capital"/>
+    <Elem Prompt="Upsilon Capital" Name="Upsilon Capital" PromptU="Upsilon Capital" NameU="Upsilon Capital"/>
+    <Elem Prompt="Phi Capital" Name="Phi Capital" PromptU="Phi Capital" NameU="Phi Capital"/>
+    <Elem Prompt="Phi Capital" Name="Phi Capital" PromptU="Phi Capital" NameU="Phi Capital"/>
+    <Elem Prompt="Chi Capital" Name="Chi Capital" PromptU="Chi Capital" NameU="Chi Capital"/>
+    <Elem Prompt="Psi Capital" Name="Psi Capital" PromptU="Psi Capital" NameU="Psi Capital"/>
+    <Elem Prompt="Omega Capital" Name="Omega Capital" PromptU="Omega Capital" NameU="Omega Capital"/>
+</Lib>

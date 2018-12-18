@@ -1,0 +1,1523 @@
+﻿<?xml version="1.0" encoding="UTF-8"?> 
+<Galleries Default = "Basic Diagram">
+
+<Gallery NameU = "Basic Diagram" Name = "基本図" Version = "1.0" Help = "createbasicdiagram.php" Description= "2-Dの幾何学的図形, 3-Dの幾何学的図形、、矢印が収録されています。及びハイライトスタイルの機能分解図、 階層図、データ構造図、データフローブロック図、データブロック図に使用します。">
+<Templates NameU = "Blank Drawing" Name = "空白の図面" Icon = "./basicdraw/blank.bmp" Description= "空白の図面を作成します。">
+</Templates>
+
+<Templates NameU = "Arrows" Name = "矢印" Theme= "一般的" Icon = "./basicdraw/arrowdiagrams.bmp" Description= "プロジェクトやプロセスのタスクの必要な順序、プロジェクト全体のための最良のスケジュール、および潜在的なスケジューリングとリソースの問題とその解決策を示しています.">
+	<Template Path = "./Basic Shape/Arrow Connectors.edt" Name = "矢印コネクター"></Template>
+	<Template Path = "./Basic Shape/arrow.edt" Name = "矢印"></Template>
+	<Template Path = "./Business Process/Circular Charting Shapes.edt" Name = "循環図"></Template>
+</Templates>
+
+<Templates NameU = "Block Diagram" Name = "2Dの幾何学的図形" Theme= "一般的" Icon = "./basicdraw/2d.bmp" Help = "createbasicdiagram.php" Description= "2Dの幾何学的図形、矢印が収録されています。帰還ループの方向線および機能分解図、 階層図、データ構造図、データフローブロック図、データブロック図に使用します。">
+<Template Path = "./Basic Shape/backgrounds.edt" Name = "背景"></Template>
+<Template Path = "./Basic Shape/arrow.edt" Name = "矢印"></Template>
+<Template Path = "./Basic Shape/Text Box.edt" Name = "テキストボックス"></Template>		
+<Template Path = "./Basic Shape/basicshapes.edt" Name = "基本図形"></Template>
+<Template Path = "./Basic Shape/Common Shapes.edt" Name = "一般図形"></Template>
+<Template Path = "./Basic Shape/Icons.edt" Name = "アイコン"></Template>	
+<Template Path = "./Basic Shape/2DBlock.edt" Name = "2Dの幾何学的図形"></Template>
+</Templates>
+
+<Templates NameU = "Block Diagram (3D)" Name = "3Dの幾何学的図形" Icon = "./basicdraw/3d.bmp" Description= "3Dの幾何学的図形、矢印が収録されています。および吹き出し付きの機能分解図、 階層図、データ構造図、信号の流れ図、データフローブロック図、データブロック図に使用します">
+<Template Path = "./Basic Shape/backgrounds.edt" Name = "背景"></Template>
+<Template Path = "./Basic Shape/arrow.edt" Name = "矢印"></Template>
+<Template Path = "./Basic Shape/Text Box.edt" Name = "テキストボックス"></Template>
+<Template Path = "./Basic Shape/3Dblock.edt" Name = "3Dの幾何学的図形"></Template>
+</Templates>
+
+<Templates NameU = "Circle-Spoke Diagram" Name = "放射図" Theme= "一般的" Icon = "./basicdraw/Circle-Spoke.bmp" Description= "同じレベル、またはグループ分けされた情報プロックを示すために使用します.">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>
+	<Template Path = "./Basic Shape/Circular Charting Shapes.edt" Name = "循環図"></Template>
+</Templates>
+
+<Templates NameU = "Circular Diagram" Name = "循環図" Theme= "一般的" Icon = "./basicdraw/Circular Digram.bmp" Description= "財務、販売報告書、損益計算書、予算、統計分析、会計業務、市場予測、および年次報告書のためのチャートやグラフの形が含まれています。.">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>
+	<Template Path = "./Basic Shape/Circular Charting Shapes.edt" Name = "循環図"></Template>
+</Templates>
+
+<Templates NameU = "Highlight Shapes" Name = "ハイライト図形" Theme= "一般的" Icon = "./basicdraw/highlightshapes.bmp" Description= "フローチャート、組織図、ブロック図のためのハイライトスタイルの形状が含まれています.">
+<Template Path = "./Basic Shape/arrow.edt" Name = "矢印"></Template>
+<Template Path = "./Basic Shape/Text Box.edt" Name = "テキストボックス"></Template>	
+<Template Path = "./Basic Shape/highlightshapes.edt" Name = "ハイライト図形"></Template>	
+</Templates>
+
+<Templates NameU = "Lists" Name = "リスト" Theme= "一般的" Icon = "./basicdraw/List.bmp" Description= "連続性のない情報ブロック、またはグループ分けされた情報プロックを示すのに使用します。 図形の水平方向と垂直方向の表示スペースの両方を最大化します。">
+	<Template Path = "./Basic Shape/List Shapes.edt" Name = "リスト"></Template>
+	<Template Path = "./Basic Shape/List Shapes Dynamic.edt" Name = "リスト(動的)"></Template>
+	<Template Path = "./Basic Shape/Titles.edt" Name = "表題欄"></Template>
+	<Template Path = "./Basic Shape/Text Box.edt" Name = "テキストボックス"></Template>
+</Templates>
+
+<Templates NameU = "Presentation" Name = "プレゼンテーション" Theme= "一般的" Icon = "./basicdraw/presentation.bmp" Description= "プロジェクトまたはプロセスで必要なタスクの順序、プロジェクト全体の最適なスケジュール、潜在的な計画と問題及びその解決方法を示します。">
+<Template Path = "./Basic Shape/arrow.edt" Name = "矢印"></Template>
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "基本図形"></Template>
+	<Template Path = "./Basic Shape/Text Box.edt" Name = "テキストボックス"></Template>
+	<Template Path = "./Basic Shape/List Shapes.edt" Name = "リスト"></Template>
+	<Template Path = "./Basic Shape/List Shapes Dynamic.edt" Name = "リスト(動的)"></Template>
+	<Template Path = "./Basic Shape/Circular Charting Shapes.edt" Name = "循環図"></Template>
+
+</Templates>
+
+<Templates NameU = "Pyramid Chart" Name = "ピラミッド図" Theme= "一般的" Icon = "./basicdraw/pyramid.bmp" Description= "最下部が最も大きく、上方に行くほど小さくなる比例関係、相互関係、階層関係を示すのに使用します。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>
+	<Template Path = "./Basic Shape/Pyramid Shapes.edt" Name = "ピラミッド"></Template>
+</Templates>
+
+<Templates NameU = "Timeline" Name = "タイムライン" Theme= "一般的" Icon = "./basicdraw/timeline-basic.bmp" Description= "プロジェクトまたはプロセスで必要なタスクの順序、プロジェクト全体の最適なスケジュール、潜在的な計画と問題及びその解決方法を示します。">
+	<Template Path = "./Basic Shape/arrow.edt" Name = "矢印"></Template>
+	<Template Path = "./Basic Shape/Titles.edt" Name = "表題欄"></Template>
+	<Template Path = "./Basic Shape/Text Box.edt" Name = "テキストボックス"></Template>
+	<Template Path = "./Project/Custom Timeline.edt" Name = "カスタムタイムライン"></Template>
+</Templates>
+
+<Templates NameU = "Venn Diagram" Name = "ベン図" Theme= "一般的" Icon = "./basicdraw/venn.bmp" Description= "複数の集合の関係や、集合の範囲を視覚的に図式化に使用します.">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>
+	<Template Path = "./Basic Shape/Titles.edt" Name = "表題欄"></Template>
+	<Template Path = "./Basic Shape/Venn Shapes.edt" Name = "ベン図"></Template>
+</Templates>
+
+</Gallery>
+
+<Gallery NameU = "Business Diagram" Name = "ビジネス" Version = "1.0" Help = "create-business-diagram.php" Description= "監査図、ワークフロー、マインドマップ、原因と結果の図、データフロー図、EPC、プロセス、リスト、チャートおよびフォールトツリー図の作成に使用します">
+
+<Templates NameU = "Audit Diagram" Name = "監査図" Theme= "一般的" Icon = "./flowchart/auditflow.bmp" Description= "会計、財務管理、財政情報の追跡、お金の管理、意思決定のフローチャート、および金融棚卸の監査図を作成するに使用します。文献6シグマとISO9000のプロセスにも適用できます。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>
+	<Template Path = "./Basic Shape/arrow.edt" Name = "矢印"></Template>
+	<Template Path = "./Business process/auditflow.edt" Name = "監査図"></Template>
+</Templates>
+
+<Templates NameU = "Business Matrix" Name = "マトリックス" Theme= "一般的" Icon = "./business/business-matrix.bmp" Description= "SWOTマトリクス、位置行列、多角化と成長マトリックスのためのチャートやグラフの形が含まれています.">
+	<Template Path = "./Business Process/marketing diagrams.edt" Name = "マーケティング図表"></Template>
+	<Template Path = "./Business Process/Matrix.edt" Name = "マトリックス"></Template>
+</Templates>
+
+<Templates NameU = "Cause and Effect (Fishbone)" Name = "特性要因図" Icon = "./flowchart/causeeffect.bmp" Description= "特性要因図（フィッシュボーンチャートまたは石川ダイアグラムとも呼ばれいている）を作成して、所定の状態に影響を与えたり一因となる要因を体系的に検討します。6シグマ文書とISO9000のプロセスにも適用できます。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>
+	<Template Path = "./Basic Shape/arrow.edt" Name = "矢印"></Template>
+	<Template Path = "./Business process/causeeffect.edt" Name = "特性要因図"></Template>
+</Templates>
+
+<Templates NameU = "EPC" Name = "EPC図" Icon = "./business/epc.bmp" Theme= "一般的" Description= "ビジネスプロセスを示すEPC図を作成し、SAP規格のプロセスを文書化します。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>
+	<Template Path = "./Basic Shape/arrow.edt" Name = "矢印"></Template>
+	<Template Path = "./Business process/EPC.edt" Name = "EPC図"></Template>
+</Templates>
+
+<Templates NameU = "Enterprise Architecture" Name = "企業アーキテクチャー" Icon = "./business/businessarchitecture.bmp" Theme= "一般的" Description= "企業アーキテクチャー図を作成して、企業が現在と将来の戦略目標を効果的に達成する方法を決定します。">	
+	<Template Path = "./Basic Shape/connectors.edt" Name = "コネクター"></Template>	
+	<Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>
+	<Template Path = "./Basic Shape/arrow.edt" Name = "矢印"></Template>
+	<Template Path = "./Business Process/Enterprise Architecture.edt" Name = "企業アーキテクチャー"></Template>
+</Templates>
+
+<Templates NameU = "Fault Tree Analysis" Name = "フォールト ツリー解析図" Icon = "./business/faulttree.bmp" Description= "ビジネスプロセスを文書化するためのフォールトツリー図を作成します。6シグマ文書とISO9000のプロセスにも適用できます。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>
+	<Template Path = "./Basic Shape/arrow.edt" Name = "矢印"></Template>
+	<Template Path = "./Business process/faulttree.edt" Name = "フォールト ツリー解析図"></Template>
+</Templates>
+
+<Templates NameU = "Five Forces Chart" Name = "ファイブフォース分析図" Theme= "一般的" Icon = "./business/fiveforces.bmp" Help = "make-five-forces.php" Description= "業界の収益性を決める5つの競争要因から、業界の構造分析を図表で示します。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>
+	<Template Path = "./Business Process/Five Forces Shapes.edt" Name = "ファイブフォース分析図"></Template>
+</Templates>
+
+<Templates NameU = "Marketing Charts and Diagrams" Theme= "一般的" Name = "マーケティング図表" Icon = "./business/market.bmp" Description= "プロセス・ダイアグラム、ベンチマーク、シミュレーション、パスルーティング、リソースまたは「何-場合」分析、展開チャート、ターゲット、販売ピラミッド、活動基準原価計算、およびタスク管理のために使用します。">
+	<Template Path = "./Symbols/Presentation Symbols.edt" Name = "プレゼンテーション図形"></Template>	
+	<Template Path = "./Business Process/marketing diagrams.edt" Name = "マーケティング図表"></Template>
+	<Template Path = "./Business Process/marketing shapes.edt" Name = "マーケティング図形"></Template>
+</Templates>
+
+<Templates NameU = "PEST Chart" Name = "PEST図" Theme= "一般的" Icon = "./business/pest.bmp" Help = "make-pest-chart.php" Description= "PEST分析は、政治、経済、社会、および技術的分析で、マクロ環境要因のフレームワークについて説明します.">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>
+	<Template Path = "./Basic Shape/arrow.edt" Name = "矢印"></Template>
+	<Template Path = "./Business Process/PEST.edt" Name = "PEST図形"></Template>
+</Templates>
+
+<Templates NameU = "Process Steps" Name = "手順" Theme= "一般的" Icon = "./business/processsteps.bmp" Description= "タスク、プロセスやワークフローの振興または一連のステップを示すのに使用します。図形の水平方向と垂直方向の表示スペースの両方を最大化.">
+	<Template Path = "./Business Process/Process Shapes.edt" Name = "プロセクス図形"></Template>
+</Templates>
+
+<Templates NameU = "Six Sigma Matrix" Name = "Six Sigma ストリックス" Theme= "一般的" Icon = "./business/sixsigma.bmp" Description= "品質・チャート、優先順位付けマトリックス、関与行列との機能比較チャートのSix Sigma ストリックスを作成します。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>
+	<Template Path = "./Business Process/Six Sigma.edt" Name = "Six Sigma ストリックス"></Template>
+</Templates>
+
+<Templates NameU = "TQM" Name = "総合品質管理図" Theme= "一般的" Icon = "./business/tqm.bmp" Description= "ビジネス・プロセス・リエンジニアリング、総合的品質管理（TQM）、および継続的な改善のための原因と結果、トップダウンおよびクロスファンクショナルプロセスのフロー図を作成します。 6シグマ文書とISO9000のプロセスにも適用できます。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>
+	<Template Path = "./Basic Shape/arrow.edt" Name = "矢印"></Template>
+	<Template Path = "./Business process/TQM.edt" Name = "総合品質管理図"></Template>		
+</Templates>
+
+<Templates NameU = "Value Chain" Name = "バリューチェーン" Theme= "一般的" Icon = "./business/valuechain.bmp" Help = "ultimate-valuechain-tutorial.php" Description= "生産サービスに関している開始原料から納入品までの様々なプロセスを表現します。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>
+	<Template Path = "./Business Process/Value Chain.edt" Name = "バリューチェーン"></Template>
+</Templates>
+
+<Templates NameU = "Value Stream Mapping" Name = "バリューストリームマップ" Theme= "一般的" Icon = "./business/valuestream.bmp" Help = "make-value-stream.php" Description= "リーン製造工程で材料と情報の流れを説明するために価値のストリームマップを作成します。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>
+	<Template Path = "./Basic Shape/arrow.edt" Name = "矢印"></Template>
+	<Template Path = "./Business process/Value stream mapping.edt" Name = "バリューストリームマップ"></Template>
+</Templates>
+
+</Gallery>
+
+<Gallery NameU = "Card" Name = "カード" Version = "1.0" Description= "カード作成ための特別な形状が含まれています。">
+<Templates NameU = "Business Cards" Name = "名刺" Theme= "一般的" Icon = "./businesscard/card.bmp" help = "make-business-card.php" Description= "名刺作成ための特別な形状が含まれています。">
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "一般図形"></Template>		
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "基本図形"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2Dの幾何学的図形"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "アイコン"></Template>
+	<Template Path = "./Business Card/BusinessCardTemplates.edt" Name = "名刺のテンプレート"></Template>		
+  <Template Path = "./Business Card/BusinessCardText.edt" Name = "名刺のテキスト"></Template>	
+</Templates>
+
+<Templates NameU = "Greeting Card" Name = "感謝状" Theme= "一般的" Icon = "./businesscard/greetingcard.bmp" Description= "感謝状を作成するための特別な形状が含まれています。">
+  <Template Path = "./Basic Shape/Common Shapes.edt" Name = "一般図形"></Template>		
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "基本図形"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2Dの幾何学的図形"></Template>
+	<Template Path = "./Symbols/Flowers.edt" Name = "花"></Template>
+	<Template Path = "./Symbols/Ornament.edt" Name = "かなり"></Template>
+	<Template Path = "./Symbols/Bow.edt" Name = "蝶結び"></Template>
+	<Template Path = "./Symbols/Heart.edt" Name = "ハート"></Template>
+</Templates>
+
+<Templates NameU = "Invitation Card" Name = "招待状" Icon = "./businesscard/invitationcard.bmp" Description= "招待状を作成するための特別な形状が含まれています。">
+  <Template Path = "./Basic Shape/Common Shapes.edt" Name = "一般図形"></Template>		
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "基本図形"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2Dの幾何学的図形"></Template>
+	<Template Path = "./Symbols/Flowers.edt" Name = "花"></Template>
+	<Template Path = "./Symbols/Ornament.edt" Name = "かなり"></Template>
+	<Template Path = "./Symbols/Bow.edt" Name = "蝶結び"></Template>
+	<Template Path = "./Symbols/Heart.edt" Name = "ハート"></Template>
+</Templates>
+
+<Templates NameU = "Postcard" Name = "はがき" Icon = "./businesscard/postcard.bmp" Description= "はがきを作成するための特別な形状が含まれています。">
+  <Template Path = "./Basic Shape/Common Shapes.edt" Name = "一般図形"></Template>		
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "基本図形"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2Dの幾何学的図形"></Template>
+	<Template Path = "./Symbols/Flowers.edt" Name = "花"></Template>
+	<Template Path = "./Symbols/Ornament.edt" Name = "かなり"></Template>
+	<Template Path = "./Symbols/Bow.edt" Name = "蝶結び"></Template>
+	<Template Path = "./Symbols/Heart.edt" Name = "ハート"></Template>
+</Templates>
+
+<Templates NameU = "Birthday Card" Name = "バースデーカード" Icon = "./businesscard/birthday.bmp" Description= "バースデーカードの作成ための特別な形状が含まれています。">
+  <Template Path = "./Basic Shape/Common Shapes.edt" Name = "一般図形"></Template>		
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "基本図形"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2Dの幾何学的図形"></Template>
+	<Template Path = "./Symbols/Flowers.edt" Name = "花"></Template>
+	<Template Path = "./Symbols/Ornament.edt" Name = "かなり"></Template>
+	<Template Path = "./Symbols/Bow.edt" Name = "蝶結び"></Template>
+	<Template Path = "./Symbols/Heart.edt" Name = "ハート"></Template>
+  <Template Path = "./Business Card/Birthday.edt" Name = "バースデーカード"></Template>
+</Templates>
+
+<Templates NameU = "Christmas" Name = "クリスマス" Icon = "./businesscard/christmas.bmp" Description= "クリスマス・カードの作成ための特別な形状が含まれています。">
+  <Template Path = "./Basic Shape/Common Shapes.edt" Name = "一般図形"></Template>		
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "基本図形"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2Dの幾何学的図形"></Template>
+	<Template Path = "./Symbols/Flowers.edt" Name = "花"></Template>
+	<Template Path = "./Symbols/Ornament.edt" Name = "かなり"></Template>
+	<Template Path = "./Symbols/Bow.edt" Name = "蝶結び"></Template>
+	<Template Path = "./Symbols/Heart.edt" Name = "ハート"></Template>
+  <Template Path = "./Business Card/Christmas.edt" Name = "クリスマス"></Template>
+</Templates>
+
+<Templates NameU = "Halloween" Name = "ハロウィン" Icon = "./businesscard/calloween.bmp" Description= "ハロウィン・カードの作成ための特別な形状が含まれています。">
+  <Template Path = "./Basic Shape/Common Shapes.edt" Name = "一般図形"></Template>		
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "基本図形"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2Dの幾何学的図形"></Template>
+  <Template Path = "./Business Card/Halloween.edt" Name = "ハロウィン"></Template>
+</Templates>
+
+<Templates NameU = "Carnival" Name = "カーニバル" Icon = "./businesscard/carnival.bmp" Description= "カーニバル・カードの作成ための特別な形状が含まれています。">
+  <Template Path = "./Basic Shape/Common Shapes.edt" Name = "一般図形"></Template>		
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "基本図形"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2Dの幾何学的図形"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "アイコン"></Template>
+  <Template Path = "./Business Card/Carnival.edt" Name = "カーニバル"></Template>
+</Templates>
+
+<Templates NameU = "Childrens Day" Name = "こどもの日" Icon = "./businesscard/childrensday.bmp" Description= "こどもの日に関している特別な形状が含まれています。">
+  <Template Path = "./Basic Shape/Common Shapes.edt" Name = "一般図形"></Template>		
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "基本図形"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2Dの幾何学的図形"></Template>
+	<Template Path = "./Symbols/Flowers.edt" Name = "花"></Template>
+	<Template Path = "./Symbols/Ornament.edt" Name = "かなり"></Template>
+	<Template Path = "./Symbols/Bow.edt" Name = "蝶結び"></Template>
+	<Template Path = "./Symbols/Heart.edt" Name = "ハート"></Template>
+  <Template Path = "./Business Card/Childrens Day.edt" Name = "こどもの日"></Template>
+</Templates>
+
+<Templates NameU = "Easter" Name = "復活祭" Icon = "./businesscard/easter.bmp" Description= "復活祭に関している特別な形状が含まれています。">
+  <Template Path = "./Basic Shape/Common Shapes.edt" Name = "一般図形"></Template>		
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "基本図形"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2Dの幾何学的図形"></Template>
+	<Template Path = "./Symbols/Flowers.edt" Name = "花"></Template>
+	<Template Path = "./Symbols/Ornament.edt" Name = "かなり"></Template>
+	<Template Path = "./Symbols/Bow.edt" Name = "蝶結び"></Template>
+	<Template Path = "./Symbols/Heart.edt" Name = "ハート"></Template>
+  <Template Path = "./Business Card/Easter.edt" Name = "復活祭"></Template>
+</Templates>
+
+<Templates NameU = "New Year" Name = "年賀状" Icon = "./businesscard/newyear.bmp" Description= "年賀状の作成ための特別な形状が含まれています。">
+  <Template Path = "./Basic Shape/Common Shapes.edt" Name = "一般図形"></Template>		
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "基本図形"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2Dの幾何学的図形"></Template>
+	<Template Path = "./Symbols/Flowers.edt" Name = "花"></Template>
+	<Template Path = "./Symbols/Ornament.edt" Name = "かなり"></Template>
+	<Template Path = "./Symbols/Bow.edt" Name = "蝶結び"></Template>
+	<Template Path = "./Symbols/Heart.edt" Name = "ハート"></Template>
+  <Template Path = "./Business Card/New Year.edt" Name = "年賀状"></Template>
+</Templates>
+
+<Templates NameU = "Valentines Day" Name = "バレンタイン・デー" Icon = "./businesscard/valentinesday.bmp" Description= "バレンタイン・デー・カードの作成ための特別な形状が含まれています。">
+  <Template Path = "./Basic Shape/Common Shapes.edt" Name = "一般図形"></Template>		
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "基本図形"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2Dの幾何学的図形"></Template>
+	<Template Path = "./Symbols/Flowers.edt" Name = "花"></Template>
+	<Template Path = "./Symbols/Ornament.edt" Name = "かなり"></Template>
+	<Template Path = "./Symbols/Bow.edt" Name = "蝶結び"></Template>
+	<Template Path = "./Symbols/Heart.edt" Name = "ハート"></Template>
+  <Template Path = "./Business Card/Valentines Day.edt" Name = "バレンタイン・デー"></Template>
+</Templates>
+</Gallery>
+
+<Gallery NameU = "Chart" Name = "チャート" Version = "1.0" Help = "make-chart.php" Description= "縦棒グラフ、横棒グラフ、折れ線グラフ、円グラフ、面グラフ、レーダーグラフ、散布図などの作成ための特別な形状が含まれています。">
+<Templates NameU = "Column" Name = "縦棒グラフ" Icon = "./charts/column.bmp" Solution = "Chart" Help = "createcolumnchart.php" Description= "クラスタ化された縦棒、積み上げ縦棒、100％積み上げ縦棒グラフを作成するための特殊な形状が含まれています。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>
+	<Template Path = "./Chart/Column.edt" Name = "縦棒グラフ"></Template>
+</Templates>
+
+<Templates NameU = "Bar" Name = "横棒グラフ" Icon = "./charts/bar.bmp" Solution = "Chart" Help = "createbarchart.php" Description= "シンプルな横棒グラフ、積み重ね横棒グラフ、100％積み上げ横棒グラフを作成するための特殊な形状が含まれています。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>
+	<Template Path = "./Chart/Bar.edt" Name = "横棒グラフ"></Template>
+</Templates>
+
+<Templates NameU = "Pie" Name = "円グラフ" Icon = "./charts/pie.bmp" Solution = "Chart" Help = "createpiechart.php" Description= "円グラフの基本記号が含まれています。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>
+	<Template Path = "./Chart/Pie and Doughnut.edt" Name = "円グラフとドーナツグラフ"></Template>
+</Templates>
+
+<Templates NameU = "Doughnut" Name = "ドーナツグラフ" Icon = "./charts/doughnut.bmp" Solution = "Chart" Help = "createdoughnut.php" Description= "ドーナツグラフの基本記号が含まれています。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>
+	<Template Path = "./Chart/Pie and Doughnut.edt" Name = "円グラフとドーナツグラフ"></Template>
+</Templates>
+
+<Templates NameU = "Line" Name = "折れ線グラフ" Icon = "./charts/line.bmp" Solution = "Chart" Description= "折れ線グラフの基本記号が含まれています。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>
+	<Template Path = "./Chart/Line and Area.edt" Name = "折れ線グラフ、面グラフ"></Template>
+</Templates>
+
+<Templates NameU = "Area" Name = "面グラフ" Icon = "./charts/area.bmp" Solution = "Chart" Description= "面のグラフ基本記号が含まれています。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>
+	<Template Path = "./Chart/Line and Area.edt" Name = "折れ線グラフ、面グラフ"></Template>
+</Templates>
+
+<Templates NameU = "Scatter" Name = "散布図" Icon = "./charts/scatter.bmp" Solution = "Chart" Help = "createscatterchart.php" Description= "散布図の基本記号が含まれています。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>
+	<Template Path = "./Chart/Scatter and Bubble.edt" Name = "散布図、バブルチャート"></Template>
+</Templates>
+
+<Templates NameU = "Spider and Radar" Name = "レーダーチャート" Icon = "./charts/spider.bmp" Solution = "Chart" Help = "create-spider-chart.php" Description= "スパイダーチャートとレーダーチャートを作成するための特殊な形状が含まれています。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>
+	<Template Path = "./Chart/Spider.edt" Name = "散布図、レーダーグラフ"></Template>
+</Templates>
+
+<Templates NameU = "Bubble Chart" Name = "バブルチャート" Icon = "./charts/bubblechart.bmp" Help = "create-bubble-plot.php" Solution = "Chart" Description= "バブルチャートの基本記号が含まれています。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>
+	<Template Path = "./Chart/Scatter and Bubble.edt" Name = "散布図、バブルチャート"></Template>
+</Templates>
+
+<Templates NameU = "Gauges" Name = "ゲージ" Icon = "./charts/gauges.bmp" Solution = "Chart" Help = "how-to-create-gauges.php" Description= "ゲージの基本記号が含まれています。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>
+	<Template Path = "./Chart/Gauges.edt" Name = "ゲージ"></Template>
+</Templates>
+
+<Templates NameU = "Comparison Chart" Name = "比較図" Icon = "./charts/comparison.bmp" Help = "create-comparison-chart.php" Description= "商品、技術、ビジネス、より多くの比較表を作成します。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>
+	<Template Path = "./Chart/Comparison Indicators.edt" Name = "比較指標"></Template>
+	<Template Path = "./Chart/Comparison Chart.edt" Name = "比較図"></Template>
+</Templates>
+</Gallery>
+
+<Gallery NameU = "Clip Art" Name = "クリップ・アート" Version = "1.0" help = "create-clipart.php" Description= "いくつかのクリップアート（動物、ビジネス、金融、果物、フラグ、ギフト、オフィス、人物、学校、職業、天気など）の記号が含まれています。">
+<Templates NameU = "Animals" Name = "動物" Icon = "./symbols/animals.bmp" Description= "常用の動物クリップアートが含まれています。">
+  <Template Path = "./Symbols/Terricole.edt" Name = "陸上動物"></Template>
+	<Template Path = "./Symbols/Sea Life.edt" Name = "水上動物"></Template>
+    <Template Path = "./Symbols/Insect.edt" Name = "昆虫"></Template>
+</Templates>
+
+<Templates NameU = "Business" Name = "ビジネス" Icon = "./symbols/business.bmp" Description= "常用のビジネスクリップアートが含まれています。">
+  <Template Path = "./Symbols/Business.edt" Name = "ビジネス"></Template>
+	<Template Path = "./Symbols/Business Flat.edt" Name = "ビジネス-フラット"></Template>	
+	<Template Path = "./Symbols/Business Scene.edt" Name = "ビジネスシーン 1"></Template>
+	<Template Path = "./Symbols/Business Scene2.edt" Name = "ビジネスシーン 2"></Template>
+</Templates>
+
+<Templates NameU = "Business scene" Name = "ビジネスシーン" Icon = "./symbols/businessscren.bmp" Description= "常用のビジネスシーンクリップアートが含まれています。">
+  <Template Path = "./Symbols/Business Scene.edt" Name = "ビジネスシーン 1"></Template>
+	<Template Path = "./Symbols/Business Scene2.edt" Name = "ビジネスシーン 2"></Template>
+</Templates>
+
+
+<Templates NameU = "Finance" Name = "金融" Icon = "./symbols/Finance.bmp" Description= "常用の金融クリップアートが含まれています。">
+  <Template Path = "./Symbols/Finance.edt" Name = "金融"></Template>
+	<Template Path = "./Symbols/Finance Flat.edt" Name = "金融-フラット"></Template>
+	<Template Path = "./Symbols/Money.edt" Name = "金銭"></Template>	
+</Templates>
+
+<Templates NameU = "Food" Name = "食べ物" Icon = "./symbols/fruit.bmp" Description= "常用の食べ物クリップアートが含まれています。">
+  <Template Path = "./Symbols/Food.edt" Name = "食べ物"></Template>
+	<Template Path = "./Symbols/Bread.edt" Name = "パン"></Template>
+	<Template Path = "./Symbols/Fruit.edt" Name = "果物"></Template>
+	<Template Path = "./Symbols/Drink.edt" Name = "飲み物"></Template>
+	<Template Path = "./Symbols/Tableware.edt" Name = "食器"></Template>
+</Templates>
+
+<Templates NameU = "Flags" Name = "フラグ" Icon = "./symbols/flags.bmp" Description= "各国のフラグが含まれています。">
+  <Template Path = "./Symbols/Flags.edt" Name = "フラグ"></Template>		
+</Templates>
+
+<Templates NameU = "Office" Name = "オフィス" Icon = "./symbols/office.bmp" Description= "常用のオフィスクリップアートが含まれています。">
+  	<Template Path = "./Symbols/Office.edt" Name = "オフィス"></Template>		
+	<Template Path = "./Symbols/Office Flat.edt" Name = "オフィス-フラット"></Template>		
+</Templates>
+
+<Templates NameU = "People" Name = "人物" Icon = "./symbols/people.bmp" Description= "常用の人物のクリップアートが含まれています。">
+  <Template Path = "./Symbols/Silhouette.edt" Name = "人物ピクトグラム"></Template>
+	<Template Path = "./Symbols/Business People.edt" Name = "ビジネス人物"></Template>	
+	<Template Path = "./Symbols/user.edt" Name = "ユーザー"></Template>
+	<Template Path = "./Symbols/People Activity Pictogram.edt" Name = "シルエット"></Template>	
+	<Template Path = "./Symbols/3D People Pictogram.edt" Name = "3D人物"></Template>	
+</Templates>
+
+<Templates NameU = "Professions" Name = "職業" Icon = "./symbols/profession.bmp" Description= "常用の職業クリップアートが含まれています。">
+  <Template Path = "./Symbols/Profession.edt" Name = "職業"></Template>
+	<Template Path = "./Symbols/Profession Half-length.edt" Name = "職業-半身"></Template>
+</Templates>
+
+<Templates NameU = "Religion" Name = "宗教" Icon = "./symbols/religion.bmp" Description= "宗教に関する特定記号が含まれています。">
+  <Template Path = "./Symbols/Religion.edt" Name = "宗教"></Template>
+</Templates>
+
+<Templates NameU = "School" Name = "学校" Icon = "./symbols/school.bmp" Description= "常用の学校クリップアートが含まれています。">
+  <Template Path = "./Symbols/School.edt" Name = "学校"></Template>
+  <Template Path = "./Symbols/Education.edt" Name = "教育"></Template>	
+	<Template Path = "./Symbols/Music.edt" Name = "音楽"></Template>	
+</Templates>
+
+<Templates NameU = "Technology" Name = "科技" Icon = "./symbols/technology.bmp" Description= "常用の科技クリップアートが含まれています。">
+ 	<Template Path = "./Symbols/Electronics.edt" Name = "電子"></Template>
+	<Template Path = "./Symbols/Artificial Intelligence.edt" Name = "AI"></Template>
+    <Template Path = "./Symbols/Biotechnology.edt" Name = "生物技術"></Template>	
+	<Template Path = "./Symbols/Aerospace Technology.edt" Name = "航空"></Template>
+</Templates>
+
+<Templates NameU = "Vehicles" Name = "交通機関" Icon = "./symbols/vehicles.bmp" Description= "交通機関の特定記号が含まれています。">
+  <Template Path = "./Symbols/Vehicles.edt" Name = "交通機関"></Template>
+</Templates>
+
+<Templates NameU = "Weather" Name = "天気" Icon = "./symbols/weather.bmp" Description= "天気に関する特定な記号が含まれています。">
+  <Template Path = "./Symbols/Weather.edt" Name = "天気"></Template>
+</Templates>
+</Gallery>
+
+<Gallery NameU = "Database" Name = "データベース" Version = "1.0" Theme="General" help = "create-database-diagram.php" Description= "実体関係図、データベースモデル図、Chen ERD、 Martin ERD、ORM図とExpress-Gを作成するための図形と設定が含まれています。">
+<Templates NameU = "Chen ERD" Name = "Chen ERD" Theme= "一般的" Icon = "./database/chenerd.bmp" Description= "Chen ERDデータに基づいて、実体関係図を作成するための特殊な形状と設定が含まれています。">
+	<Template Path = "./ERD and Database/Chen ERD.edt" Name = "Chen ERD"></Template>	
+	<Template Path = "./Software/Relationship.edt" Name = "関係図"></Template>
+</Templates>
+
+<Templates NameU = "Database Model Diagram" Name = "データベースモデル図" Theme= "一般的" Icon = "./database/databasemodel.bmp" help="how-to-draw-database-model-diagram.php" Description= "データベースモデル図を作成するための特殊な形状と設定が含まれています。 IDEF1Xおよびリレーショナル表記法をサポートします。 ">
+	<Template Path = "./ERD and Database/Entity Relationship.edt" Name = "エンティティ関係図"></Template>	
+	<Template Path = "./ERD and Database/Object Relationship.edt" Name = "対象関係図"></Template>
+	<Template Path = "./Software/Relationship.edt" Name = "関係図"></Template>
+</Templates>
+
+<Templates NameU = "Express-G" Name = "Express-G" Theme= "一般的" Icon = "./database/express-g.bmp" Description= "Express-G表記でエンティティレベルとスキーマ・レベル図、および製品データモデルを作成するための形状と設定が含まれています。">
+	<Template Path = "./ERD and Database/Express-G.edt" Name = "Express-G"></Template>
+	<Template Path = "./Software/Relationship.edt" Name = "関係図"></Template>
+</Templates>
+
+<Templates NameU = "Martin ERD" Name = "Martin ERD" Theme= "一般的" Icon = "./database/martinerd.bmp" Description= "マーティンERD表記に基づいて、エンティティ関係図を作成するための特殊な形状と設定が含まれています。">
+	<Template Path = "./ERD and Database/Martin ERD.edt" Name = "Martin ERD"></Template>	
+	<Template Path = "./Software/Relationship.edt" Name = "関係図"></Template>
+</Templates>
+
+<Templates NameU = "ORM Diagram" Name = "ORM図" Theme= "一般的" Icon = "./database/ormdiagram.bmp" Description= "オブジェクト指向分析設計のオブジェクト関係モデルと静的な図を作成するための特殊な形状（オブジェクト、制約、コネクター、説明、および関係）と設定が含まれています。">
+	<Template Path = "./ERD and Database/ORM Diagram.edt" Name = "ORM図"></Template>
+	<Template Path = "./Software/Relationship.edt" Name = "関係図"></Template>
+</Templates>
+</Gallery>
+
+<Gallery NameU = "Engineering" Name = "エンジニアリング" Version = "1.0" Help = "create-engineering-diagram.php" Description= "基本的な電気回路図、回路およびロジック、産業用制御システムを作成します。">
+<Templates NameU = "Basic Electrical" Name = "基本電気回路図" Theme= "エンジニアリング" Icon = "./electrical/basic electrical.bmp" Help = "create-basic-electrical-diagram.php" Description= "概略図、配線図、線分、青写真を作成します。転送路、回路、半導体、リレー、およびチューブの図形が含まれています。">
+	<Template Path = "./Electrical Engineering/Basic Electrical Symbols.edt" Name = "基本項目"></Template>
+	<Template Path = "./Electrical Engineering/Qualifying Symbols.edt" Name = "補助記号"></Template>
+	<Template Path = "./Electrical Engineering/Semiconductor Devices.edt" Name = "半導体と電子管"></Template>	
+	<Template Path = "./Electrical Engineering/Switches and Relays.edt" Name = "スイッチとリレー"></Template>
+	<Template Path = "./Electrical Engineering/Transmission Path.edt" Name = "転送経路"></Template>
+</Templates>
+
+<Templates NameU = "Circuits and Logic" Name = "回路と論理" Theme= "エンジニアリング" Icon = "./electrical/Circuits.bmp" Help = "create-circuit-diagram.php" Description= "吹き出し付き回路図、プリント回路板図、集積回路図、デジタル及びおよびアナログ論理設計を作成します。端子、コネクター、および伝送路の形状が含まれています。">
+	<Template Path = "./Electrical Engineering/Basic Electrical Symbols.edt" Name = "基本項目"></Template>
+	<Template Path = "./Electrical Engineering/Analog and Digital Logic.edt" Name = "アナログ論理とデジタル論理"></Template>
+	<Template Path = "./Electrical Engineering/Integrated Circuit Component.edt" Name = "IC コンポーネント"></Template>	
+	<Template Path = "./Electrical Engineering/Terminals and Connectors.edt" Name = "端子とコネクター"></Template>
+	<Template Path = "./Electrical Engineering/Transmission Path.edt" Name = "転送経路"></Template>
+</Templates>
+
+<Templates NameU = "Industrial Control Systems" Name = "産業用制御システム" Theme= "エンジニアリング" Icon = "./electrical/Industrial.bmp" Description= "工業用電力システムの吹き出し付きの図を作成します。回転機械、半導体、ソリッドステートデバイス、スイッチ、リレー、および変圧器の形状が含まれています。">
+	<Template Path = "./Electrical Engineering/Basic Electrical Symbols.edt" Name = "基本項目"></Template>
+	<Template Path = "./Electrical Engineering/Rotating Equip and Mech Functions.edt" Name = "回転機と機械機能"></Template>
+	<Template Path = "./Electrical Engineering/Switches and Relays.edt" Name = "スイッチとリレー"></Template>	
+	<Template Path = "./Electrical Engineering/Terminals and Connectors.edt" Name = "端子とコネクター"></Template>	
+	<Template Path = "./Electrical Engineering/Transformers and Windings.edt" Name = "変圧器と巻線"></Template>
+	<Template Path = "./Electrical Engineering/Transmission Path.edt" Name = "転送経路"></Template>
+</Templates>
+
+<Templates NameU = "Systems" Name = "システム" Theme= "エンジニアリング" Icon = "./electrical/systems.bmp" Description= "吹き出し付きの電気回路図、保守および修理図、設備施設のインフラストクチャ設計を作成します。">
+	<Template Path = "./Electrical Engineering/Composite Assemblies.edt" Name = "複合アセンブリ"></Template>
+	<Template Path = "./Electrical Engineering/Maintenance Symbol.edt" Name = "メンテナンス記号"></Template>
+	<Template Path = "./Electrical Engineering/Maps and Charts.edt" Name = "マップとチャート"></Template>
+	<Template Path = "./Electrical Engineering/Switches and Relays.edt" Name = "スイッチとリレー"></Template>	
+	<Template Path = "./Electrical Engineering/Telecom Switch and Peripheral Equip.edt" Name = "通信スイッチと周辺装置"></Template>
+	<Template Path = "./Electrical Engineering/Terminals and Connectors.edt" Name = "端子とコネクター"></Template>	
+	<Template Path = "./Electrical Engineering/Transformers and Windings.edt" Name = "変圧器と巻線"></Template>
+	<Template Path = "./Electrical Engineering/Transmission Path.edt" Name = "転送経路"></Template>
+	<Template Path = "./Electrical Engineering/VHF-UHF-SHF.edt" Name = "VHF-UHF-SHF"></Template>
+</Templates>
+
+<Templates NameU = "Process Flow Diagram" Name = "プロセス　フロー図" Theme= "エンジニアリング" Icon = "./electrical/pfd.bmp" Help = "create-process-flow-diagram.php" Description= "配管システム、配管支柱と液体移送システムのプロセスフロー図を作成します。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>	
+	<Template Path = "./Process Engineering/Stream Flag.edt" Name = "ストリーム記号"></Template>
+	<Template Path = "./Process Engineering/Piping and Connection Shapes.edt" Name = "管路とコネクター"></Template>
+	<Template Path = "./Process Engineering/Equipment-General.edt" Name = "一般的な装置"></Template>
+	<Template Path = "./Process Engineering/Equipment-Pumps.edt" Name = "装置　―　ポンプ"></Template>	
+	<Template Path = "./Process Engineering/Equipment-Heat Exchanges.edt" Name = "装置　―　熱交換器"></Template>	
+	<Template Path = "./Process Engineering/Equipment-Vessels.edt" Name = "装置　―　容器"></Template>	
+	<Template Path = "./Process Engineering/Equipment-Valves.edt" Name = "装置　―　バルブ"></Template>
+	<Template Path = "./Process Engineering/Equipment-Instruments.edt" Name = "装置　―　計器"></Template>
+</Templates>
+
+<Templates NameU = "Piping and Instrumentation Diagram" Name = "配管計装図" Theme= "エンジニアリング" Icon = "./electrical/pid.bmp" Help = "create-piping-instrumentation-diagram.php" Description= "配管システム、配管支柱および液体転送システム用の配管・計装図を作成します。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>	
+	<Template Path = "./Process Engineering/Piping and Connection Shapes.edt" Name = "管路とコネクター"></Template>
+	<Template Path = "./Process Engineering/Equipment-General.edt" Name = "一般的な装置"></Template>
+	<Template path = "./Process Engineering/Equipment-Centrifuges.edt" Name = "装置　―　遠心分離機"></Template>
+	<Template path = "./Process Engineering/Equipment-Compressors.edt" Name = "装置　―　コンプレッサー"></Template>	
+	<Template path = "./Process Engineering/Equipment-Crushers.edt" Name = "装置　―　圧砕機"></Template>	
+	<Template path = "./Process Engineering/Equipment-Dryers.edt" Name = "装置　―　乾燥器"></Template>
+	<Template path = "./Process Engineering/Equipment-Filters.edt" Name = "装置　―　濾過器"></Template>	
+	<Template path = "./Process Engineering/Equipment-Heat Exchanges.edt" Name = "装置　―　熱交換器"></Template>
+	<Template path = "./Process Engineering/Equipment-Mixers.edt" Name = "装置　―　混合機"></Template>
+	<Template path = "./Process Engineering/Equipment-Motors.edt" Name = "装置　―　原動機"></Template>
+	<Template path = "./Process Engineering/Equipment-Peripheral.edt" Name = "装置　―　周辺機器"></Template>
+	<Template path = "./Process Engineering/Equipment-Pumps.edt" Name = "装置　―　ポンプ"></Template>
+	<Template path = "./Process Engineering/Equipment-Vessels.edt" Name = "装置　―　容器"></Template>
+	<Template path = "./Process Engineering/Equipment-Valves.edt" Name = "装置　―　バルブ"></Template>
+	<Template Path = "./Process Engineering/Equipment-Instruments.edt" Name = "装置　―　計器"></Template>
+</Templates>
+</Gallery>
+
+<Gallery NameU = "Fashion Design" Name = "服装設計" Version = "1.0" help = "design-fashion.php" Description= "１０つの肌のトーンや髪の色のユニークなモデル、および多種多様なかわいい服が提供されます。">
+<Templates NameU = "Girl Dress" Name = "女性服" Theme= "一般的" Icon = "./fashion/Girl.bmp" Description= "１０つの肌のトーンや髪の色のユニークなモデル、および多種多様なかわいい服が提供されます。">
+	<Template Path = "./Dress Design/Model.edt" Name = "Models"></Template>	
+	<Template Path = "./Dress Design/Girl dress 1.edt" Name = "女性服1" download = "Girl dress 1.zip"></Template>
+	<Template Path = "./Dress Design/Girl dress 2.edt" Name = "女性服2" download = "Girl dress 2.zip"></Template>	
+	<Template Path = "./Dress Design/Girl dress 3.edt" Name = "女性服3" download = "Girl dress 3.zip"></Template>
+	<Template Path = "./Dress Design/Girl dress 4.edt" Name = "女性服4" download = "Girl dress 4.zip"></Template>	
+	<Template Path = "./Dress Design/Girl dress 5.edt" Name = "女性服5" download = "Girl dress 5.zip"></Template>
+	<Template Path = "./Dress Design/Girl dress 6.edt" Name = "女性服6" download = "Girl dress 6.zip"></Template>	
+	<Template Path = "./Dress Design/Girl dress 7.edt" Name = "女性服7" download = "Girl dress 7.zip"></Template>
+	<Template Path = "./Dress Design/Girl dress 8.edt" Name = "女性服8" download = "Girl dress 8.zip"></Template>	    
+</Templates>
+
+<Templates NameU = "Man Suit" Name = "男性服" Theme= "一般的" Icon = "./fashion/Man.bmp" Description= "多種多様な男性服の様式が含まれています。">
+	<Template Path = "./Dress Design/Man suit.edt" Name = "男性服" download = "Man suit.zip"></Template>
+</Templates>
+
+<Templates NameU = "Child Dress" Name = "子供服" Theme= "一般的" Icon = "./fashion/Child.bmp" Description= "多種多様な子供服の様式が含まれています。">
+	<Template Path = "./Dress Design/Child dress.edt" Name = "子供服" download = "Child dress.zip"></Template>	
+</Templates>
+</Gallery>
+
+<Gallery NameU = "Floor Plan" Name = "間取り" Version = "1.0" Help = "floor-plan-tutorial.php" Description= "商業ビルの設計、住宅設計、オフィスの空間設計、電気および電気通信計画、空間計画、建築レイアウト、設計図書、構造図、および設備計画のために使用します。">
+<Templates NameU = "Floor Plan" Name = "間取り" Solution = "Plan" Theme= "エンジニアリング" Icon = "./building/floorplan.bmp" Help = "floor-plan-tutorial.php" Description= "商業ビルの設計、空間計画、建築レイアウト、設計図書、構造図、および設備計画のために使用します。">
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "基本図形"></Template>
+	<Template Path = "./Basic Shape/Dimensioning.edt" Name = "寸法と工学系"></Template>	
+	<Template Path = "./Building Plans/Building Core.edt" Name = "ビル用設備"></Template>
+	<Template Path = "./Building Plans/Furniture.edt" Name = "家具"></Template>
+	<Template Path = "./Building Plans/ElectricalTelecom.edt" Name = "電気と通信"></Template>
+	<Template Path = "./Building Plans/WallShellStructure.edt" Name = "壁、骨組、構造"></Template>
+</Templates>
+
+<Templates NameU = "Home Plan" Name = "住宅設計" Solution = "Plan" Theme= "エンジニアリング" Icon = "./building/homeplan.bmp" Description= "台所とバスルームの設計、建築、建設文書、空間計画、改造、および計画の追加のために使用します。">
+	<Template Path = "./Basic Shape/Dimensioning.edt" Name = "寸法と工学系"></Template>	
+	<Template Path = "./Building Plans/Building Core.edt" Name = "ビル用設備"></Template>
+	<Template Path = "./Building Plans/Appliances.edt" Name = "家電"></Template>	
+	<Template Path = "./Building Plans/Kitchen.edt" Name = "台所とレストラン"></Template>
+	<Template Path = "./Building Plans/Bedroom.edt" Name = "ベッドルーム"></Template>
+	<Template Path = "./Building Plans/Bathroom.edt" Name = "浴室"></Template>	
+	<Template Path = "./Building Plans/Cabinets.edt" Name = "戸棚と本棚"></Template>		
+	<Template Path = "./Building Plans/WallShellStructure.edt" Name = "壁、骨組、構造"></Template>	
+</Templates>
+
+<Templates NameU = "Office Layout" Name = "オフィスレイアウト" Solution = "Plan" Theme= "エンジニアリング" Icon = "./building/officelayout.bmp" Description= "移動管理、資産管理、設備管理、事務用品在庫管理、オフィスのレイアウト、ブース設計に使用するフロアチャート、間取り図青写真などを作成します。">
+	<Template Path = "./Basic Shape/Dimensioning.edt" Name = "寸法と工学系"></Template>	
+	<Template Path = "./Building Plans/OfficeEquipment.edt" Name = "オフィス用機器"></Template>
+	<Template Path = "./Building Plans/OfficeFurniture.edt" Name = "オフィス用家具"></Template>
+	<Template Path = "./Building Plans/Plants.edt" Name = "植物"></Template>
+	<Template Path = "./Building Plans/WallShellStructure.edt" Name = "壁、骨組、構造"></Template>
+</Templates>
+
+<Templates NameU = "Electrical and Telecom Plan" Name = "電気通信設計" Solution = "Plan" Theme= "エンジニアリング" Icon = "./building/electrical.bmp" Description= "施工や設計に使用されるコンセント、スイッチなどの電気/通信関連の間取りを作成します。">
+	<Template Path = "./Basic Shape/Dimensioning.edt" Name = "寸法と工学系"></Template>	
+	<Template Path = "./Building Plans/Lighting.edt" Name = "照明器具"></Template>		
+	<Template Path = "./Building Plans/ElectricalTelecom.edt" Name = "電気と通信"></Template>
+</Templates>
+
+<Templates NameU = "Seating Plan" Name = "座席設計" Solution = "Plan" Theme= "エンジニアリング" Icon = "./building/seatingplan.bmp" Help = "make-seating-plan.php" Description= "観覧席、グランドスタンドや座席のプラン図を作成します。">
+	<Template Path = "./Basic Shape/Dimensioning.edt" Name = "寸法と工学系"></Template>		
+	<Template Path = "./Building Plans/Sofas.edt" Name = "ソファー"></Template>	
+	<Template Path = "./Building Plans/Tables and Chairs.edt" Name = "テーブルと椅子"></Template>
+	<Template Path = "./Building Plans/WallShellStructure.edt" Name = "壁、骨組、構造"></Template>
+</Templates>
+
+<Templates NameU = "Security and Access Plan" Name = "セキュリティと入退室設備" Theme= "エンジニアリング" Solution = "Plan" Icon = "./building/security.bmp" Description= "安全管理システム、安全システムの設計、内部安全システム、外部安全システム、安全制御、監視、および安全システムの計画に使われる図表を作成します。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>	
+	<Template Path = "./Basic Shape/Dimensioning.edt" Name = "寸法と工学系"></Template>	
+	<Template Path = "./Building Plans/Alarm and Access Control.edt" Name = "アラームとアクセ制御"></Template>
+	<Template Path = "./Building Plans/Video Surveillance.edt" Name = "ビデオ監視"></Template>	
+	<Template Path = "./Building Plans/Initiation and Annunciation.edt" Name = "起動と報知装置"></Template>		
+	<Template Path = "./Building Plans/WallShellStructure.edt" Name = "壁、骨組、構造"></Template>
+</Templates>
+
+<Templates NameU = "Garden Design" Name = "庭園設計" Solution = "Plan" Theme= "エンジニアリング" Icon = "./building/garden.bmp" Description= "ガーデン、公園のグラフィックデザイン図を作成します。">
+	<Template Path = "./Basic Shape/Dimensioning.edt" Name = "寸法と工学系"></Template>
+	<Template Path = "./Building Plans/WallShellStructure.edt" Name = "壁、骨組、構造"></Template>
+	<Template Path = "./Building Plans/Plants.edt" Name = "植物"></Template>
+	<Template Path = "./Building Plans/Garden.edt" Name = "ガーデン"></Template>
+</Templates>
+
+<Templates NameU = "Fire and Emergency Plan" Name = "避難脱出経路図" Solution = "Plan" Theme= "エンジニアリング" Icon = "./building/fire and emergency plan.bmp" Help = "make-fireemergency-plan.php" Description= "避難脱出経路図を作成します。">
+	<Template Path = "./Basic Shape/Dimensioning.edt" Name = "寸法と工学系"></Template>
+	<Template Path = "./Building Plans/WallShellStructure.edt" Name = "壁、骨組、構造"></Template>		
+	<Template Path = "./Building Plans/Fire and Emergency.edt" Name = "火事と事故図形"></Template>
+</Templates>
+
+<Templates NameU = "Reflected Ceiling Plan" Name = "天井伏図" Solution = "Plan" Theme= "エンジニアリング" Icon = "./building/ceiling.bmp" Description= "商業ビルの天井タイルや照明パネルレイアウトの設計図を作成します。">
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "基本図形"></Template>
+	<Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>	
+	<Template Path = "./Basic Shape/Dimensioning.edt" Name = "寸法と工学系"></Template>	
+	<Template Path = "./Building Plans/Building Core.edt" Name = "ビル用設備"></Template>
+	<Template Path = "./Building Plans/Lighting.edt" Name = "照明器具"></Template>		
+	<Template Path = "./Building Plans/ElectricalTelecom.edt" Name = "電気と通信"></Template>	
+	<Template Path = "./Building Plans/Registers Grills and Diffusers.edt" Name = "レジスタグリルと拡散器"></Template>
+	<Template Path = "./Building Plans/WallShellStructure.edt" Name = "壁、骨組、構造"></Template>
+</Templates>
+
+<Templates NameU = "HVAC Plan" Name = "HVAC 平面図" Solution = "Plan" Theme= "エンジニアリング" Icon = "./building/hvac.bmp" Description= "暖房、換気、および空調用の図を作成します。">
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "基本図形"></Template>
+	<Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>	
+	<Template Path = "./Basic Shape/Dimensioning.edt" Name = "寸法と工学系"></Template>	
+	<Template Path = "./Building Plans/Building Core.edt" Name = "ビル用設備"></Template>
+	<Template Path = "./Building Plans/Registers Grills and Diffusers.edt" Name = "レジスタグリルと拡散器"></Template>	
+	<Template Path = "./Building Plans/HVAC Equipment.edt" Name = "HVAC 設備"></Template>	
+	<Template Path = "./Building Plans/HVAC Ductwork.edt" Name = "HVAC 配管"></Template>	
+	<Template Path = "./Building Plans/HVAC Controls.edt" Name = "HVAC コントロール"></Template>	
+	<Template Path = "./Building Plans/HVAC Controls Equipment.edt" Name = "HVAC コントロール設備"></Template>	
+	<Template Path = "./Building Plans/WallShellStructure.edt" Name = "壁、骨組、構造"></Template>
+</Templates>
+
+<Templates NameU = "Plumbing and Piping Plan" Name = "給排水設備と配管設計" Solution = "Plan" Theme= "エンジニアリング" Icon = "./building/plumbing.bmp" Description= "廃水処理システム、お湯と水供給システム、ワーターライン、水道配管の設計図などを作成します。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>	
+	<Template Path = "./Basic Shape/Dimensioning.edt" Name = "寸法と工学系"></Template>		
+	<Template Path = "./Process Engineering/Piping and Connection Shapes.edt" Name = "配管とコネクター"></Template>
+	<Template Path = "./Process Engineering/Equipment-Valves.edt" Name = "装置-バルブ"></Template>
+	<Template Path = "./Building Plans/Plumbing.edt" Name = "水道"></Template>
+	<Template Path = "./Building Plans/WallShellStructure.edt" Name = "壁、骨組、構造"></Template>
+</Templates>
+
+<Templates NameU = "Elevations" Name = "正面図" Solution = "Plan" Theme= "エンジニアリング" Icon = "./building/elevation.bmp" Help = "make-kitchen-elevations.php" Description= "キャビネット、家の設計、キッチンの設計図を作成します。">
+	<Template Path = "./Basic Shape/Dimensioning.edt" Name = "寸法と工学系"></Template>	
+	<Template Path = "./Building Plans/WallShellStructure.edt" Name = "壁、骨組、構造"></Template>	
+	<Template Path = "./Building Plans/Kitchen(Elevation).edt" Name = "台所 (正面図)"></Template>	
+	<Template Path = "./Building Plans/Lighting and Handbag(Elevation).edt" Name = "照明とハンドバッグ（正面図）"></Template>	
+	<Template Path = "./Building Plans/Windows and Doors(Elevation).edt" Name = "窓とドア（正面図）"></Template>	
+	<Template Path = "./Building Plans/Dining Room(Elevation).edt" Name = "ダイニングルーム（正面図）"></Template>
+	<Template Path = "./Building Plans/Elevations.edt" Name = "正面図"></Template>		
+</Templates>
+
+<Templates NameU = "Wardrobe" Name = "ワードローブ" Solution = "Plan" drawingscale = "16" Theme= "エンジニアリング" Icon = "./building/wardrobe.bmp" Help = "make-wardrobe-plan.php" Description= "ワードローブ計画の正面図を作成します。">
+	<Template Path = "./Basic Shape/Dimensioning.edt" Name = "寸法と工学系"></Template>	
+	<Template Path = "./Building Plans/Wardrobe.edt" Name = "ワードローブ"></Template>
+</Templates>
+</Gallery>
+
+<Gallery NameU = "Flowchart" Name = "フローチャート" Version = "1.0" Help = "How-to-draw-flowchart.php" Description= "フロー・チャート、BPMN、クロス機能フローチャート、データフロー図、IDEF0、SDL図とハイライトのフローチャートを作成します。">
+<Templates NameU = "Basic Flowchart" Name = "基本フローチャート" Icon = "./flowchart/basicflow.bmp" Help = "How-to-draw-flowchart.php" Description= "フロー・チャート、組織図、情報追跡図、工程計画図と構造予測図を作成します。">
+	<Template Path = "./Basic Shape/backgrounds.edt" Name = "背景"></Template>
+	<Template Path = "./Basic Shape/borders.edt" Name = "枠線"></Template>
+	<Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>
+	<Template Path = "./Basic Shape/arrow.edt" Name = "矢印"></Template>
+	<Template Path = "./Flowchart/basicflow.edt" Name = "基本フローチャート状"></Template>			
+</Templates>
+
+<Templates NameU = "Business Process Modeling Notation" Name = "BPMN" Theme= "Waves" Icon = "./flowchart/bpmn.bmp" Help = "how-to-create-bpmn.php" Description= "ビジネス・プロセス・モデリング表記法1.1標準に従ったフローチャートを作成します。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>
+	<Template Path = "./Basic Shape/arrow.edt" Name = "矢印"></Template>
+	<Template Path = "./Flowchart/bpmn.edt" Name = "BPMN図形"></Template>
+</Templates>
+
+<Templates NameU = "Cross Functional Horizontal" Name = "部門連係フローチャート-横" Theme= "フラット" Icon = "./flowchart/cross-h.bmp" Description= "業務に関係する各部署または各部門が、どのように協力して作業をすすめていくかを横方向で表します。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>
+	<Template Path = "./Basic Shape/arrow.edt" Name = "矢印"></Template>
+	<Template Path = "./Flowchart/basicflow.edt" Name = "基本フローチャート図形"></Template>	
+	<Template Path = "./Flowchart/cross functional horizontal.edt" Name = "部門連係フローチャート-横"></Template>
+</Templates>
+
+<Templates NameU = "Cross Functional Vertical" Name = "部門連係フローチャート-縦" Theme= "フラット" Icon = "./flowchart/cross-v.bmp" Description= "業務に関係する各部署または各部門が、どのように協力して作業をすすめていくかを縦方向で表します。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>
+	<Template Path = "./Basic Shape/arrow.edt" Name = "矢印"></Template>
+	<Template Path = "./Flowchart/basicflow.edt" Name = "基本フローチャート図形"></Template>	
+	<Template Path = "./Flowchart/cross functional vertical.edt" Name = "部門連係フローチャート-縦"></Template>	
+</Templates>
+
+<Templates NameU = "Data Flow Diagram" Name = "データ　フロー図" Icon = "./flowchart/dataflow.bmp" Description= "構造化解析、情報の流れ、プロセス指向、データ指向、およびデータ プロセス図などのデータ フロー図を作成します。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>
+	<Template Path = "./Basic Shape/arrow.edt" Name = "矢印"></Template>
+	<Template Path = "./Flowchart/dataflow.edt" Name = "データ フロー図"></Template>	
+</Templates>
+
+<Templates NameU = "Event Flow Diagram" Name = "イベント・フローチャート" Icon = "./flowchart/eventflow.bmp" Description= "イベントとプロセクスとの関係を説明します。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>
+	<Template Path = "./Basic Shape/arrow.edt" Name = "矢印"></Template>
+	<Template Path = "./Flowchart/eventflowdiagram.edt" Name = "イベント・フローチャート"></Template>	
+</Templates>
+
+<Templates NameU = "IDEF Diagram" Name = "IDEF0図" Icon = "./business/idef0.bmp" Description= "IDEF0とIDEF2　のプロセスチャートを使用して、モデル設定管理、需要と利益分析、条件の定義、継続改善モデルの階段のダイアグラムを作成します。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>
+	<Template Path = "./Basic Shape/arrow.edt" Name = "矢印"></Template>
+	<Template Path = "./Flowchart/IDEF0.edt" Name = "IDEF0図"></Template>
+	<Template Path = "./Flowchart/IDEF2.edt" Name = "IDEF2図"></Template>		
+</Templates>
+
+<Templates NameU = "Highlight Flowchart" Name = "3Dフローチャート" Theme= "一般的" Icon = "./flowchart/highlightflow.bmp" Description= "ハイライトのスタイルのフローチャート、組織図、情報追跡図、工程計画図と構造予測図を作成します。">
+	<Template Path = "./Basic Shape/backgrounds.edt" Name = "背景"></Template>
+	<Template Path = "./Basic Shape/borders.edt" Name = "枠"></Template>
+	<Template Path = "./Flowchart/highlight flowchart.edt" Name = "3Dフローチャート"></Template>
+</Templates>
+
+<Templates NameU = "Work Flow Diagram" Name = "ワークフロー図" Icon = "./flowchart/workflow.bmp" Help = "create-workflow-diagram.php" Description= "情報の流れ、ビジネスプロセスの自動化、ビジネス・プロセス・リエンジニアリング、会計、管理、および人的資源のタスクを表す図を作成します。6シグマ文書とISO9000のプロセスにも適用できます。">
+	<Template Path = "./Basic Shape/backgrounds.edt" Name = "背景"></Template>
+	<Template Path = "./Flowchart/Work Flow Department.edt" Name = "部署"></Template>
+	<Template Path = "./Flowchart/work flow objects.edt" Name = "ワークフロー オブジェクト"></Template>
+	<Template Path = "./Flowchart/work flow steps.edt" Name = "ワークフロー ステップ"></Template>
+</Templates>
+
+<Templates NameU = "SDL Diagram" Name = "SDL図" Icon = "./flowchart/sdl.bmp" Description= "仕様と記述言語（SDL）を使用して通信および通信システムとネットワーク用のオブジェクト指向の図を作成します。 CCITTの仕様に基づきます。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>
+	<Template Path = "./Basic Shape/arrow.edt" Name = "矢印"></Template>
+	<Template Path = "./Flowchart/sdlflow.edt" Name = "SDL図形"></Template>	
+</Templates>
+</Gallery>
+
+<Gallery NameU = "Form" Name = "フォーム" Version = "1.0" help = "create-business-form.php" Description= "名刺、FAX送付、請求書、領収書、および販売フォームを作成するための特殊な形状が含まれています。">
+<Templates NameU = "Report Form" Name = "レポート フォーム" Theme= "エンジニアリング" Icon = "./forms/reportform.bmp" Description= "レポートフォームを作成するための特別形状が含まれています。">
+	<Template Path = "./Chart/Column.edt" Name = "従棒グラフ"></Template>
+	<Template Path = "./Chart/Bar.edt" Name = "横棒グラフ"></Template>
+	<Template Path = "./Chart/Pie and Doughnut.edt" Name = "円グラフとドーナツグラフ"></Template>	
+	<Template Path = "./Chart/Line and Area.edt" Name = "折れ線グラフ、面グラフ"></Template>
+	<Template Path = "./Chart/Comparison Chart.edt" Name = "比較図"></Template>
+	<Template Path = "./Chart/Comparison Indicators.edt" Name = "比較指標"></Template>
+	<Template Path = "./Forms/Forms.edt" Name = "フォーム"></Template>
+</Templates>
+<Templates NameU = "Fax Cover" Name = "ファクス表紙" Theme= "エンジニアリング" Icon = "./forms/fax.bmp" Description= "ファクス表紙の基本記号を登録します、表紙設計に使用します。">
+	<Template Path = "./Forms/Forms.edt" Name = "フォーム"></Template>	
+</Templates>
+<Templates NameU = "Invoice" Name = "インボイス" Theme= "エンジニアリング" Icon = "./forms/invoice.bmp" help = "create-invoice.php" Description= "インボイスの基本記号が含まれています。インボイスに使用します。">
+	<Template Path = "./Forms/Forms.edt" Name = "フォーム"></Template>	
+</Templates>
+<Templates NameU = "Sales" Name = "営業リスト" Theme= "エンジニアリング" Icon = "./forms/sales.bmp" Description= "営業リストの基本記号が含まれています。営業リストに使用します。">
+	<Template Path = "./Forms/Forms.edt" Name = "フォーム"></Template>	
+</Templates>
+<Templates NameU = "Expense Report" Name = "経費明細書" Theme= "エンジニアリング" Icon = "./forms/expense.bmp" Description= "経費明細書を作成するための基本形状が含まれています。">
+	<Template Path = "./Forms/Forms.edt" Name = "フォーム"></Template>	
+</Templates>
+<Templates NameU = "Inventory List" Name = "在庫表" Theme= "エンジニアリング" Icon = "./forms/inventory.bmp" Description= "在庫表を作成するための基本形状が含まれています。">
+	<Template Path = "./Forms/Forms.edt" Name = "フォーム"></Template>	
+</Templates>
+<Templates NameU = "Quote Form" Name = "見積書" Theme= "エンジニアリング" Icon = "./forms/quote.bmp" Description= "見積書を作成するための基本形状が含まれています。">
+	<Template Path = "./Forms/Forms.edt" Name = "フォーム"></Template>	
+</Templates>
+</Gallery>
+
+<Gallery NameU = "Graphic Design" Name = "グラフィックデザイン" Version = "1.0" Description= "グラフィックデザインのための特殊な図形が含まれています。">
+<Templates NameU = "Annual Reports" Name = "年間報告書" Theme= "一般的" Icon = "./graphicdesign/annualreport.bmp" Description= "年間報告書や事業計画書を作成するための特殊な図形が含まれています。">
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "基本図形"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "一般図形"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "アイコン"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2Dの幾何学的図形"></Template>
+</Templates>
+
+<Templates NameU = "Banner" Name = "バナー" Theme= "一般的" Icon = "./graphicdesign/banner.bmp" Description= "バナーを作成するための特殊な図形が含まれています。">
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "基本図形"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "一般図形"></Template>
+	<Template Path = "./Forms/Forms.edt" Name = "フォーム"></Template>	
+	<Template Path = "./Basic Shape/Icons.edt" Name = "アイコン"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2Dの幾何学的図形"></Template>	
+</Templates>
+
+<Templates NameU = "Brochure" Name = "パンフレット" Theme= "一般的" Icon = "./graphicdesign/brochure.bmp" Description= "パンフレットを作成するための特殊な図形が含まれています。">
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "基本図形"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "一般図形"></Template>
+	<Template Path = "./Forms/Forms.edt" Name = "フォーム"></Template>	
+	<Template Path = "./Basic Shape/Icons.edt" Name = "アイコン"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2Dの幾何学的図形"></Template>	
+</Templates>
+
+<Templates NameU = "Certificate" Name = "賞状" Theme= "一般的" Icon = "./graphicdesign/certificate.bmp" Description= "賞状を作成するための特殊な図形が含まれています。">
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "一般図形"></Template>		
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "基本図形"></Template>
+	<Template Path = "./Symbols/Ornament.edt" Name = "飾り"></Template>	
+</Templates>
+
+<Templates NameU = "Cover" Name = "カバー" Theme= "一般的" Icon = "./graphicdesign/bookcover.bmp" Description= "本のカバーを作成するための特殊な図形が含まれています。">
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "基本図形"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "一般図形"></Template>
+	<Template Path = "./Forms/Forms.edt" Name = "フォーム"></Template>	
+	<Template Path = "./Basic Shape/Icons.edt" Name = "アイコン"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2Dの幾何学的図形"></Template>	
+</Templates>
+
+<Templates NameU = "Flyer" Name = "チラシ" Theme= "一般的" Icon = "./graphicdesign/flyer.bmp" Description= "チラシを作成するための特殊な図形が含まれています。">
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "基本図形"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "一般図形"></Template>
+	<Template Path = "./Forms/Forms.edt" Name = "フォーム"></Template>	
+	<Template Path = "./Basic Shape/Icons.edt" Name = "アイコン"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2Dの幾何学的図形"></Template>	
+</Templates>
+
+
+<Templates NameU = "Label" Name = "レベル" Theme= "一般的" Icon = "./graphicdesign/label.bmp" Description= "レベルを作成するための特殊な図形が含まれています。">
+<Template Path = "./Basic Shape/basicshapes.edt" Name = "基本図形"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "一般図形"></Template>
+	<Template Path = "./Forms/Forms.edt" Name = "フォーム"></Template>	
+	<Template Path = "./Basic Shape/Icons.edt" Name = "アイコン"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2Dの幾何学的図形"></Template>	
+</Templates>
+
+
+<Templates NameU = "Magazines" Name = "雑誌" Theme= "一般的" Icon = "./graphicdesign/Magazines.bmp" Description= "雑誌、書籍、カタログなどを作成するための特殊な図形が含まれています。">
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "基本図形"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "一般図形"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "アイコン"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2Dの幾何学的図形"></Template>	
+</Templates>
+
+<Templates NameU = "Newsletter" Name = "ニュースレター" Theme= "一般的" Icon = "./graphicdesign/newsletter.bmp" Description= "ニュースレターを作成するための特殊な図形が含まれています。">
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "基本図形"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "一般図形"></Template>
+	<Template Path = "./Forms/Forms.edt" Name = "フォーム"></Template>	
+	<Template Path = "./Basic Shape/Icons.edt" Name = "アイコン"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2Dの幾何学的図形"></Template>	
+</Templates>
+
+<Templates NameU = "Picture Collage" Name = "コラージュ" Theme= "一般的" Icon = "./graphicdesign/picturecollage.bmp" Description= "豊富な素材とテンプレートでおしゃれな写真のコラージュを作成します。">
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "基本図形"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2Dの幾何学的図形"></Template>
+	<Template Path = "./Symbols/Flowers.edt" Name = "花"></Template>
+	<Template Path = "./Symbols/Ornament.edt" Name = "飾り"></Template>
+	<Template Path = "./Symbols/Bow.edt" Name = "蝶結び"></Template>
+	<Template Path = "./Symbols/Heart.edt" Name = "ハート"></Template>	
+</Templates>
+
+<Templates NameU = "Poster" Name = "ポスター" Theme= "一般的" Icon = "./graphicdesign/poster.bmp" Description= "ポスターを作成するための特殊な図形が含まれています。">
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "基本図形"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "一般図形"></Template>	
+	<Template Path = "./Basic Shape/Icons.edt" Name = "アイコン"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2Dの幾何学的図形"></Template>	
+</Templates>
+</Gallery>
+
+<Gallery NameU = "Graphic Organizer" Name = "思考ツール" Version = "1.0" Description= "様々な思考ツールを作成するための特殊な図形が含まれています。">
+<Templates NameU = "Compare and Contract" Name = "比較図" Theme= "一般的" Icon = "./graphicorganizer/comparecontract.bmp" Description= "比較図は、2つのオブジェクトの共通点と相違点を伝えるために使用されます。 ">
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "基本図形"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "一般図形"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "アイコン"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2Dの幾何学的図形"></Template>
+	<Template Path = "./Basic Shape/Venn Shapes.edt" Name = "ベン図"></Template>
+	<Template Path = "./Symbols/Graphic Organizer.edt" Name = "グラフィックオーガナイザー"></Template>
+</Templates>
+
+<Templates NameU = "Grid and Matrix" Name = "グリッドとマトリックス" Theme= "一般的" Icon = "./graphicorganizer/gridmatrix.bmp" Description= "グリッドとマトリックスは、2つの軸でアイテムを比較するものです。">
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "基本図形"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "一般図形"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "アイコン"></Template>
+	<Template Path = "./Business Process/Matrix.edt" Name = "マトリックス"></Template>	
+	<Template Path = "./Business Process/Five Forces Shapes.edt" Name = "ファイブフォース分析"></Template>
+	<Template Path = "./Business Process/PEST.edt" Name = "PEST"></Template>	
+	<Template Path = "./Symbols/Graphic Organizer.edt" Name = "グラフィックオーガナイザー"></Template>
+</Templates>
+
+<Templates NameU = "Main Idea and Detail" Name = "メインアイデアと詳細" Theme= "一般的" Icon = "./graphicorganizer/mainidea.bmp" Description= "メインアイデアと詳細チャートは、主要な概念とその下位要素の階層関係を示しています。">
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "基本図形"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "一般図形"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "アイコン"></Template>
+	<Template Path = "./Basic Shape/Circular Charting Shapes.edt" Name = "循環図"></Template>		
+	<Template Path = "./Symbols/Graphic Organizer.edt" Name = "グラフィックオーガナイザー"></Template>
+</Templates>
+
+<Templates NameU = "Sequence Chart" Name = "シーケンスチャート" Theme= "一般的" Icon = "./graphicorganizer/sequencechart.bmp" Description= "シーケンスチャートには、発生した順にイベントの流れや一連のステップを表示します。
+">
+<Template Path = "./Basic Shape/basicshapes.edt" Name = "基本図形"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "一般図形"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "アイコン"></Template>
+	<Template Path = "./Basic Shape/List Shapes 2.edt" Name = "リスト"></Template>
+	<Template Path = "./Basic Shape/List Shapes.edt" Name = "動的なリスト"></Template>
+	<Template Path = "./Business Process/Process Shapes.edt" Name = "プロセス"></Template>	
+	<Template Path = "./Symbols/Graphic Organizer.edt" Name = "グラフィックオーガナイザー"></Template>
+</Templates>
+
+<Templates NameU = "Spider Chart" Name = "レーダーチャート" Theme= "一般的" Icon = "./graphicorganizer/spiderchart.bmp" Description= "レーダーチャートは、アイデアやトピックをラジアルで非線形にグラフィカルに表現したものです。">
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "基本図形"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "一般図形"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "アイコン"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2Dの幾何学的図形"></Template>
+	<Template Path = "./Symbols/Graphic Organizer.edt" Name = "グラフィックオーガナイザー"></Template>
+</Templates>
+
+<Templates NameU = "Storyboard" Name = "ストーリーボード" Theme= "一般的" Icon = "./graphicorganizer/storyboard.bmp" Description= "ストーリーボードは、キャラクター、プロット、設定、問題点、及び解決策の概要を示し、事前書き込みと読解などのアクティビティを促す学習ツールです。">
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "基本図形"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "一般図形"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "アイコン"></Template>
+	<Template Path = "./Basic Shape/List Shapes 2.edt" Name = "リスト"></Template>
+	<Template Path = "./Basic Shape/List Shapes.edt" Name = "動的なリスト"></Template>
+	<Template Path = "./Symbols/Graphic Organizer.edt" Name = "グラフィックオーガナイザー"></Template>
+</Templates>
+
+<Templates NameU = "T-Chart" Name = "T チャート" Theme= "一般的" Icon = "./graphicorganizer/tchart.bmp" Description= "T チャートは、本、科学的現象、社会調査、イベントなどのコンテンツの比較に使用されます。">
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "基本図形"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "一般図形"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "アイコン"></Template>
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2Dの幾何学的図形"></Template>
+	<Template Path = "./Symbols/Graphic Organizer.edt" Name = "グラフィックオーガナイザー"></Template>
+</Templates>
+</Gallery>
+
+<Gallery NameU = "Industrial Automation" Name = "工業自動化" Version = "1.0" Description= "プロセス産業におけるプロセスと機器の一般的または詳細なフローを示します。">
+<Templates NameU = "Process P&amp;ID" Name = "プロセクス P&amp;ID" Theme= "エンジニアリング" Icon = "./pid/processpid.bmp" Description= "実際の製造プロセス、反応、材料処理、分離、精製プロセスのフロー図と他のプロセクス操作を示します。">
+	<Template Path = "./PID/Ductwork.edt" Name = "配管"></Template>
+	<Template Path = "./PID/PID Valves.edt" Name = "バルブ"></Template>	
+	<Template Path = "./PID/Valves Symbols.edt" Name = "バルブ記号"></Template>
+	<Template Path = "./PID/Flow Meters.edt" Name = "流量計"></Template>
+	<Template Path = "./PID/Industry.edt" Name = "工業"></Template>	
+	<Template Path = "./PID/Material Handling.edt" Name = "材料処理"></Template>	
+	<Template Path = "./PID/Plant Facilities.edt" Name = "工場設備"></Template>
+	<Template Path = "./PID/Computer Keys.edt" Name = "コンピューターキー"></Template>
+	<Template Path = "./PID/Process Cooling.edt" Name = "プロセクス冷却"></Template>
+	<Template Path = "./PID/Process Heating.edt" Name = "プロセス加熱"></Template>
+	<Template Path = "./PID/Lights.edt" Name = "照明"></Template>
+	<Template Path = "./PID/Push Buttons.edt" Name = "プッシュボタン"></Template>	
+</Templates>
+<Templates NameU = "Utility-Generation P&amp;ID" Name = "事業用発電P&amp;ID" Theme= "エンジニアリング" Icon = "./pid/utilitypid.bmp" Description= "ボイラ、冷却塔、液体加熱器と空気圧縮機などの供給処理システムを展示します。">
+	<Template Path = "./PID/Ductwork.edt" Name = "配管"></Template>	
+	<Template Path = "./PID/Blowers.edt" Name = "送風機"></Template>
+	<Template Path = "./PID/Boilers.edt" Name = "ボイラー"></Template>	
+	<Template Path = "./PID/Chemistry.edt" Name = "化学反応"></Template>	
+	<Template Path = "./PID/Containers.edt" Name = "コンテナー"></Template>		
+	<Template Path = "./PID/Heaters.edt" Name = "加熱器"></Template>
+	<Template Path = "./PID/HVAC.edt" Name = "HVAC"></Template>
+	<Template Path = "./PID/Logistics.edt" Name = "物流"></Template>
+	<Template Path = "./PID/Machines.edt" Name = "機械"></Template>		
+	<Template Path = "./PID/Mixers.edt" Name = "混合機"></Template>	
+	<Template Path = "./PID/Motors.edt" Name = "モーター"></Template>	
+	<Template Path = "./PID/Power.edt" Name = "電力"></Template>
+	<Template Path = "./PID/Pumps.edt" Name = "ポンプ"></Template>	
+	<Template Path = "./PID/Tanks.edt" Name = "タンク"></Template>
+</Templates>
+<Templates NameU = "Environmental P&amp;ID" Name = "環境P&amp;ID" Theme= "エンジニアリング" Icon = "./pid/environmentpid.bmp" Description= "洗浄や汚水処理などの汚染防止プロセクスに応用されます。">
+	<Template Path = "./PID/Ductwork.edt" Name = "配管"></Template>
+	<Template Path = "./PID/Boilers.edt" Name = "ボイラー"></Template>	
+	<Template Path = "./PID/Chemistry.edt" Name = "化学"></Template>	
+	<Template Path = "./PID/Containers.edt" Name = "コンテナー"></Template>
+	<Template Path = "./PID/Industry.edt" Name = "工業"></Template>		
+	<Template Path = "./PID/Mixers.edt" Name = "混合機"></Template>	
+	<Template Path = "./PID/Motors.edt" Name = "モーター"></Template>
+	<Template Path = "./PID/Plant Facilities.edt" Name = "工場設備"></Template>
+	<Template Path = "./PID/Power.edt" Name = "電力"></Template>
+	<Template Path = "./PID/Pumps.edt" Name = "ポンプ"></Template>	
+	<Template Path = "./PID/Tanks.edt" Name = "タンク"></Template>	
+	<Template Path = "./PID/Wastewater Treatment.edt" Name = "汚水処理"></Template>
+</Templates>
+<Templates NameU = "Auxillary System P&amp;ID" Name = "補助システムP&amp;ID" Theme= "エンジニアリング" Icon = "./pid/auxillarypid.bmp" Description= "圧縮機、 潤滑および冷却システム、油圧システム、ポンプスケールおよび主要機器に関連する付属機器を表示します。">
+	<Template Path = "./PID/Ductwork.edt" Name = "配管"></Template>	
+	<Template Path = "./PID/Motors.edt" Name = "モーター"></Template>
+	<Template Path = "./PID/Plant Facilities.edt" Name = "工場設備"></Template>
+	<Template Path = "./PID/Power.edt" Name = "電力"></Template>	
+	<Template Path = "./PID/Pumps.edt" Name = "ポンプ"></Template>	
+	<Template Path = "./PID/Meters.edt" Name = "流量計"></Template>
+	<Template Path = "./PID/Process Cooling.edt" Name = "プロセクス冷却"></Template>
+	<Template Path = "./PID/Process Heating.edt" Name = "プロセス加熱"></Template>	
+</Templates>
+<Templates NameU = "Distribution P&amp;ID" Name = "配送P&amp;ID" Theme= "エンジニアリング" Icon = "./pid/distributionpid.bmp" Description= "公共事業、化学物質やその他の非プロセクス流の配給を展示します。">
+	<Template Path = "./PID/Ductwork.edt" Name = "配管"></Template>
+	<Template Path = "./PID/Industry.edt" Name = "工業"></Template>	
+	<Template Path = "./PID/Logistics.edt" Name = "物流"></Template>
+	<Template Path = "./PID/Plant Facilities.edt" Name = "工場設備"></Template>
+	<Template Path = "./PID/Buildings.edt" Name = "ビル"></Template>	
+	<Template Path = "./PID/Lights.edt" Name = "照明"></Template>
+	<Template Path = "./PID/Meters.edt" Name = "メーター"></Template>
+	<Template Path = "./PID/Push Buttons.edt" Name = "プッシュボタン"></Template>
+	<Template Path = "./PID/Safety.edt" Name = "安全"></Template>
+</Templates>
+</Gallery>
+
+<Gallery NameU = "Infographic" Name = "インフォグラフィック" Version = "1.0" Description= "ビジネス、マーケティング、教育、環境、医療、交通などのインフォグラフィックを作成します。">
+<Templates NameU = "Architecture" Name = "建築" Theme= "一般的" Icon = "./infographic/architecture.bmp" Description= "建築に関してのインフォグラフィックを作成します。">
+	<Template Path = "./Basic Shape/Arrow.edt" Name = "矢印"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "一般図形"></Template>		
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2Dの幾何学的図形"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "アイコン"></Template>
+	<Template Path = "./Chart/Basic Charts.edt" Name = "基本チャート"></Template>
+	<Template Path = "./Symbols/Architecture.edt" Name = "建築"></Template>		
+</Templates>
+
+<Templates NameU = "Business" Name = "ビジネス" Theme= "一般的" Icon = "./infographic/business.bmp" Description= "ビジネスに関してのインフォグラフィックを作成します。">
+	<Template Path = "./Basic Shape/Arrow.edt" Name = "矢印"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "一般図形"></Template>		
+	<Template Path = "./Basic Shape/Icons.edt" Name = "アイコン"></Template>
+	<Template Path = "./Chart/Basic Charts.edt" Name = "基本チャート"></Template>
+　　　　<Template Path = "./Symbols/Silhouette.edt" Name = "人物ピクトグラム"></Template>
+	<Template Path = "./Symbols/Business People.edt" Name = "ビジネス人物"></Template>	
+	<Template Path = "./Symbols/Business Flat.edt" Name = "ビジネスフラット"></Template>	
+</Templates>
+
+<Templates NameU = "Education" Name = "教育" Theme= "一般的" Icon = "./infographic/education.bmp" Description= "教育に関してのインフォグラフィックを作成します。">
+	<Template Path = "./Basic Shape/Arrow.edt" Name = "矢印"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "一般図形"></Template>		
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2Dの幾何学的図形"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "アイコン"></Template>
+	<Template Path = "./Chart/Basic Charts.edt" Name = "基本チャート"></Template>
+	<Template Path = "./Symbols/Education.edt" Name = "教育-フラット"></Template>	
+</Templates>
+
+<Templates NameU = "Environment" Name = "環境" Theme= "一般的" Icon = "./infographic/environment.bmp" Description= "環境に関してのインフォグラフィックを作成します。">
+	<Template Path = "./Basic Shape/Arrow.edt" Name = "矢印"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "一般図形"></Template>		
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2Dの幾何学的図形"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "アイコン"></Template>
+	<Template Path = "./Chart/Basic Charts.edt" Name = "基本チャート"></Template>
+	<Template Path = "./Symbols/Environment.edt" Name = "環境"></Template>
+</Templates>
+
+<Templates NameU = "Food" Name = "食べ物" Theme= "一般的" Icon = "./infographic/food.bmp" Description= "食べ物に関してのインフォグラフィックを作成します。">
+	<Template Path = "./Basic Shape/Arrow.edt" Name = "矢印"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "一般図形"></Template>		
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2Dの幾何学的図形"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "アイコン"></Template>
+	<Template Path = "./Chart/Basic Charts.edt" Name = "基本チャート"></Template>	
+	<Template Path = "./Symbols/Food.edt" Name = "食べ物"></Template>
+	<Template Path = "./Symbols/Bread.edt" Name = "パン"></Template>
+	<Template Path = "./Symbols/Fruit.edt" Name = "果物"></Template>
+	<Template Path = "./Symbols/Drink.edt" Name = "飲み物"></Template>
+	<Template Path = "./Symbols/Tableware.edt" Name = "食器"></Template>
+</Templates>
+
+<Templates NameU = "Medical" Name = "医療" Theme= "一般的" Icon = "./infographic/medical.bmp" Description= "医療に関してのインフォグラフィックを作成します。">
+	<Template Path = "./Basic Shape/Arrow.edt" Name = "矢印"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "一般図形"></Template>		
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2Dの幾何学的図形"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "アイコン"></Template>
+	<Template Path = "./Chart/Basic Charts.edt" Name = "基本チャート"></Template>	
+	<Template Path = "./Symbols/Medical.edt" Name = "医療"></Template>	
+</Templates>
+
+<Templates NameU = "Music" Name = "音楽" Theme= "一般的" Icon = "./infographic/music.bmp" Description= "音楽に関してのインフォグラフィックを作成します。">
+	<Template Path = "./Basic Shape/Arrow.edt" Name = "矢印"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "一般図形"></Template>		
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2Dの幾何学的図形"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "アイコン"></Template>
+	<Template Path = "./Chart/Basic Charts.edt" Name = "基本チャート"></Template>		
+	<Template Path = "./Symbols/Music.edt" Name = "音楽"></Template>	
+</Templates>
+
+<Templates NameU = "News" Name = "ニュース" Theme= "一般的" Icon = "./infographic/news.bmp" Description= "ニュースに関してのインフォグラフィックを作成します。">
+	<Template Path = "./Basic Shape/Arrow.edt" Name = "矢印"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "一般図形"></Template>		
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2Dの幾何学的図形"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "アイコン"></Template>
+	<Template Path = "./Chart/Basic Charts.edt" Name = "基本チャート"></Template>	
+	<Template Path = "./Symbols/News.edt" Name = "ニュース"></Template>	
+</Templates>
+
+<Templates NameU = "Technology" Name = "科学" Theme= "一般的" Icon = "./infographic/technology.bmp" Description= "科学に関してのインフォグラフィックを作成します。">
+	<Template Path = "./Basic Shape/Arrow.edt" Name = "矢印"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "一般図形"></Template>		
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2Dの幾何学的図形"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "アイコン"></Template>
+	<Template Path = "./Chart/Basic Charts.edt" Name = "基本チャート"></Template>	
+	<Template Path = "./Symbols/Electronics.edt" Name = "電子"></Template>
+	<Template Path = "./Symbols/Artificial Intelligence.edt" Name = "AI"></Template>
+    <Template Path = "./Symbols/Biotechnology.edt" Name = "生物技術"></Template>	
+	<Template Path = "./Symbols/Aerospace Technology.edt" Name = "航空"></Template>
+</Templates>
+
+<Templates NameU = "Tourism" Name = "観光" Theme= "一般的" Icon = "./infographic/tourism.bmp" Description= "観光産業に関してのインフォグラフィックを作成します。">
+	<Template Path = "./Basic Shape/Arrow.edt" Name = "矢印"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "一般図形"></Template>		
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2Dの幾何学的図形"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "アイコン"></Template>
+	<Template Path = "./Chart/Basic Charts.edt" Name = "基本チャート"></Template>		
+	<Template Path = "./Symbols/Tourism.edt" Name = "観光"></Template>	
+</Templates>
+
+<Templates NameU = "Transportation" Name = "交通機関" Theme= "一般的" Icon = "./infographic/transportation.bmp" Description= "交通機関に関してのインフォグラフィックを作成します。">
+	<Template Path = "./Basic Shape/Arrow.edt" Name = "矢印"></Template>
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "一般図形"></Template>		
+	<Template Path = "./Basic Shape/2DBlock.edt" Name = "2Dの幾何学的図形"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "アイコン"></Template>
+	<Template Path = "./Chart/Basic Charts.edt" Name = "基本チャート"></Template>
+	<Template Path = "./Symbols/Transportation.edt" Name = "交通機関"></Template>	
+</Templates>
+</Gallery>
+
+<Gallery NameU = "Map" Name = "地図" Version = "1.0" help = "create-street-map.php" Description= "地理的な地図と方向地図を作成するための特殊な形状と設定が含まれています。">
+<Templates NameU = "Directional Map" Name = "道路地図" Theme= "一般的" Icon = "./maps/directional-map.bmp" help = "create-street-map.php" Description= "高速道路、グリーンウェー、交差点、交通標識、ルート、鉄道トラック、輸送ターミナル、川、建物などの交通機関や大量輸送方式の図形が含まれています。">
+	<Template Path = "./Maps/Metro and train.edt" Name = "地下鉄と鉄道"></Template>
+	<Template Path = "./Maps/Road signs.edt" Name = "道路図形"></Template>
+	<Template Path = "./Maps/Map Vehicles.edt" Name = "交通機関"></Template>
+	<Template Path = "./Maps/2D Landmarks.edt" Name = "2Dのランドマーク"></Template>
+	<Template Path = "./Maps/2D Directional Map.edt" Name = "2Dの道路地図"></Template>
+</Templates>
+
+<Templates NameU = "Directional Map - 3D" Name = "道路地図（3D）" Theme= "一般的" Icon = "./maps/3dmap.bmp" Description= "高速道路、グリーンウェー、交差点、交通標識、ルート、鉄道トラック、川、建物、交通機関などの図形が含まれています。">
+	<Template Path = "./Maps/Map Vehicles.edt" Name = "交通機関"></Template>
+	<Template Path = "./Maps/3D Landmarks.edt" Name = "3Dのランドマーク"></Template>
+	<Template Path = "./Maps/3D Directional Map.edt" Name = "道路地図（3D）"></Template>
+</Templates>
+
+<Templates NameU = "Subway Map" Name = "地下鉄" Theme= "一般的" Icon = "./maps/subway.bmp" Description= "地下鉄図を作成するための図形と設定が含まれています。">
+	<Template Path = "./Maps/Subway.edt" Name = "地下鉄"></Template>
+</Templates>
+
+<Templates NameU = "Geo Map - Africa" Name = "地理的なマップ- アフリカ" Theme= "一般的" Icon = "./maps/continent/geo-africa.bmp" Description= "アフリカの地理的なマップを作成するための特殊な形状や設定が含まれています。">
+	<Template Path = "./Maps/Africa.edt" Name = "アフリカ"></Template>
+</Templates>
+
+<Templates NameU = "Geo Map - Asia" Name = "地理的なマップ- アジア" Theme= "一般的" Icon = "./maps/continent/geo-asia.bmp" Description= "アジアの地理的なマップを作成するための特殊な形状や設定が含まれています。">
+	<Template Path = "./Maps/Asia.edt" Name = "Asia"></Template>
+</Templates>
+
+<Templates NameU = "Geo Map - Australia" Name = "地理的なマップ- オーストラリア" Theme= "一般的" Icon = "./maps/continent/geo-australia.bmp" Description= "オーストラリアの地理的なマップを作成するための特殊な形状や設定が含まれています。">
+	<Template Path = "./Maps/Australia.edt" Name = "オーストラリア"></Template>
+</Templates>
+
+<Templates NameU = "Geo Map - Europe" Name = "地理的なマップ- ヨーロッパ" Theme= "一般的" Icon = "./maps/continent/geo-europe.bmp" Description= "ヨーロッパの地理的なマップを作成するための特殊な形状や設定が含まれています。">
+	<Template Path = "./Maps/Europe.edt" Name = "ヨーロッパ"></Template>
+</Templates>
+
+<Templates NameU = "Geo Map - N. America" Name = "地理的なマップ- 北米" Theme= "一般的" Icon = "./maps/continent/geo-n-america.bmp" Description= "北米の地理的なマップを作成するための特殊な形状や設定が含まれています。">
+	<Template Path = "./Maps/USA.edt" Name = "USA"></Template>
+	<Template Path = "./Maps/Canada.edt" Name = "カナダ"></Template>
+</Templates>
+
+<Templates NameU = "Geo Map - S. America" Name = "地理的なマップ- 南米" Theme= "一般的" Icon = "./maps/continent/geo-s-america.bmp" Description= "南米の地理的なマップを作成するための特殊な形状や設定が含まれています。">
+	<Template Path = "./Maps/South America.edt" Name = "南米"></Template>
+</Templates>
+</Gallery>
+
+<Gallery NameU = "Mind Map" Name = "マインドマップ" Version = "1.0" Help = "create-mind-map.php" Description= "ブレーンストーミング、問題解決、合理的な分析、および意思決定のマーキングのためのマインドマップ（思考プロセスの図形表現）を作成します。">
+<Templates NameU = "Mind Map" Name = "マインドマップ" Solution = "Mind" Theme= "一般的" Icon = "./mindmap/mind.bmp" Help = "create-mind-map.php" Description= "ブレーンストーミング、問題解決、合理的な分析、および意思決定のマーキングのためのマインドマップ（思考プロセスの図形表現）を作成します。">
+  <Template Path = "./Mind Map/Brainstorming.edt" Name = "ブレーンストーミング"></Template>	
+  <Template Path = "./Mind Map/symbols.edt" Name = "マインドマップ記号"></Template>
+	<Template Path = "./Mind Map/mind shapes.edt" Name = "マインドマップ図形"></Template>	
+</Templates>
+
+<Templates NameU = "Concept Map" Name = "コンセプトマップ" Theme= "一般的" Icon = "./mindmap/concept.bmp" Help = "how-to-draw-concept-map.php" Description= "コンセプト関係を表す図を作成します。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>
+	<Template Path = "./Mind Map/conceptmap.edt" Name = "コンセプトマップ"></Template>	
+</Templates>
+
+<Templates NameU = "Bubble Diagram" Name = "バブル図" Theme= "一般的" Icon = "./mindmap/bubble.bmp" Description= "マインドマッピングのためのバブル図を作成します。">
+	<Template Path = "./Basic Shape/arrow.edt" Name = "矢印"></Template>
+	<Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>
+	<Template Path = "./Basic Shape/bubbleshapes.edt" Name = "バブル図"></Template>	
+</Templates>
+</Gallery>
+
+<Gallery NameU = "Network" Name = "ネットワーク図" Version = "1.0" Help = "createnetworkdiagram.php" Description= "3D ネットワーク図、基本的なネットワーク図、詳細なネットワーク図、論理ネットワーク図、Ciscoネットワーク図、LDAPとアクティブディレクトリを作成します。">
+<Templates NameU = "3D Network Diagram" Name = "3D ネットワーク図" Theme= "一般的" Icon = "./Network/3dnetwork.bmp" Description= "3-Dネットワーク機器およびコンピューター機器の図形を使用して、ネットワークの設計また構造を示す3D図を作成します。">
+	<Template Path = "./Network/3D Network Diagram Shapes.edt" Name = "3D ネットワーク図"></Template>	
+</Templates>
+
+<Templates NameU = "AWS" Name = "AWS" Theme= "一般的" Icon = "./Network/aws.bmp" Description= "アマゾンのアーキテクチャ図を作成します。">
+  <Template Path = "./AWS/App Services.edt" Name = "AWS アプリサービス"></Template>
+  <Template Path = "./AWS/Compute.edt" Name = "AWS 計算とネットワーキング"></Template>
+  <Template Path = "./AWS/Database.edt" Name = "AWS データベース"></Template>
+  <Template Path = "./AWS/Deployment Management.edt" Name = "AWS 配置と管理"></Template>
+  <Template Path = "./AWS/Non-Service Specific.edt" Name = "AWS 非固有サービス"></Template>
+  <Template Path = "./AWS/On-Demand Workforce.edt" Name = "AWS オンデマンド労働力"></Template>
+  <Template Path = "./AWS/SDKs.edt" Name = "AWS SDKs"></Template>
+  <Template Path = "./AWS/Storage Content Delivery.edt" Name = "AWS 記憶内容と配信"></Template>
+</Templates>
+
+<Templates NameU = "Azure" Name = "Azure" Theme= "一般的" Icon = "./network/azure.bmp" Description= "Microsoft Azure、クラウド、及び企業アーキテクチャ図を作成します。">
+  	<Template Path = "./Azure/Azure Cloud.edt" Name = "Azure Cloud"></Template>
+  	<Template Path = "./Azure/Azure Deprecated.edt" Name = "Azure Deprecated"></Template>
+	<Template Path = "./Azure/Azure Enterprise.edt" Name = "Azure Enterprise"></Template>
+	<Template Path = "./Azure/Azure General Symbols.edt" Name = "Azure 常用記号"></Template>
+	<Template Path = "./Azure/Azure Intune.edt" Name = "Azure Intune"></Template>
+	<Template Path = "./Azure/Azure Microsoft Productd.edt" Name = "Azure Microsoft製品"></Template>
+	<Template Path = "./Azure/Azure System Center.edt" Name = "Azure システムセンター"></Template>
+	<Template Path = "./Azure/Azure VMs by Function.edt" Name = "Azure VMs by Function"></Template>
+</Templates>
+
+<Templates NameU = "GCP" Name = "GCP" Theme= "一般的" Icon = "./network/GCP.bmp" Description= "Googleクラウドプラットフォームの図を作成します。">
+  	<Template Path = "./GCP/GCP Big Data.edt" Name = "GCP ビッグデータ"></Template>
+	  <Template Path = "./GCP/GCP Compute.edt" Name = "GCP コンピューティング"></Template>
+	  <Template Path = "./GCP/GCP Developer Tools.edt" Name = "GCP 開発ツール"></Template>
+	  <Template Path = "./GCP/GCP Extras.edt" Name = "GCP その他"></Template>
+	  <Template Path = "./GCP/GCP Identity and Security.edt" Name = "GCP IDとセキュリティ"></Template>
+	  <Template Path = "./GCP/GCP Internet of Things.edt" Name = "GCP モノのインターネット"></Template>
+	  <Template Path = "./GCP/GCP Management Tools.edt" Name = "GCP 管理ツール"></Template>
+	  <Template Path = "./GCP/GCP Networking.edt" Name = "GCP ネットワーキング"></Template>
+	  <Template Path = "./GCP/GCP Storage and Databases.edt" Name = "GCP ストレージとデータベース"></Template>
+</Templates>
+
+<Templates NameU = "Basic Network Diagram" Name = "基本ネットワーク図" Theme= "一般的" Icon = "./Network/netbase.bmp" Help = "createnetworkdiagram.php" Description= "基本的なネットワークおよびコンピュータ機器の形状を使用した簡単なネットワーク設計とネットワーク構造図を作成します。">
+  <Template Path = "./Basic Shape/backgrounds.edt" Name = "背景"></Template>
+  <Template Path = "./Network/Computers and Monitors.edt" Name = "コンピューターとモニター"></Template>
+  <Template Path = "./Network/Servers.edt" Name = "サーバー"></Template>		
+	<Template Path = "./Network/Network and Peripherals.edt" Name = "ネットワークと周辺機器"></Template>		
+</Templates>
+
+<Templates NameU = "Cisco Network Topology" Name = "Ciscoネットワークトポロジ" Theme= "一般的" Icon = "./network/netcisco.bmp" Description= "Ciscoネットワークとコンピュータのアイコンを使用して、基本的なCiscoネットワーク設計図とネットワークアーキテクチャ構成図を作成します。">
+  <Template Path = "./Cisco/Cisco Network Topology.edt" Name = "Ciscoネットワークトポロジ"></Template>
+</Templates>
+
+<Templates NameU = "Cisco Product Icons" Name = "Cisco製品" Theme= "一般的" Icon = "./network/ciscoproducts.bmp" Description= "ネットワーク構成図を作成するためのCisco製品アイコンが含まれています。">
+  <Template Path = "./Cisco/Cisco Product Icons.edt" Name = "Cisco製品アイコン"></Template>
+</Templates>
+
+<Templates NameU = "Cisco Safe Icons" Name = "Cisco安全" Theme= "一般的" Icon = "./network/ciscosafe.bmp" Description= "安全脅威構成図、安全アーキテクチャ制御、安全設計図を作成するためのCiscoの安全アイコンが含まれています。">
+  <Template Path = "./Cisco/Security Stealthwatch.edt" Name = "Security Stealthwatch"></Template>
+  <Template Path = "./Cisco/Safe Threat Icons.edt" Name = "Safe Threat"></Template>
+  <Template Path = "./Cisco/Safe Architectural Icons.edt" Name = "Safe Architectural"></Template>
+  <Template Path = "./Cisco/Safe Capability Icons.edt" Name = "Safe Capability"></Template>
+  <Template Path = "./Cisco/Safe Design Icons.edt" Name = "Safe Design"></Template>
+</Templates>
+
+<Templates NameU = "Detail Network Diagram" Name = "詳細なネットワーク図" Theme= "一般的" Icon = "./Network/netdetail.bmp" Description= "広範なネットワーク機器及びコンピューター機器の図形のセットを使用して、詳細な物理、論理、及びネットワーク構成図を作成します。">
+  <Template Path = "./Network/Computers and Monitors.edt" Name = "コンピューターとモニター"></Template>	
+  <Template Path = "./Network/Servers.edt" Name = "サーバー"></Template>	
+	<Template Path = "./Network/Network and Peripherals.edt" Name = "ネットワークと周辺機器"></Template>	
+	<Template Path = "./Network/Detailed Network Diagram.edt" Name = "詳細なネットワーク図"></Template>
+	<Template Path = "./Network/Peripheral Equipment.edt" Name = "周辺機器"></Template>	
+</Templates>
+
+<Templates NameU = "Logical Network Diagram" Name = "論理ネットワーク図" Theme= "一般的" Icon = "./Network/netsymbol.bmp" Description= "論理ネットワーク図を作成するためのネットワークおよびコンピュータ機器の図形が含まれています。">
+  <Template Path = "./Network/Computers and Monitors.edt" Name = "コンピューターとモニター"></Template>
+  <Template Path = "./Network/Servers.edt" Name = "サーバー"></Template>	
+	<Template Path = "./Network/Network Symbols.edt" Name = "ネットワーク記号"></Template>		
+</Templates>
+
+<Templates NameU = "Rack Diagram" Name = "ラック図" Theme= "一般的" Icon = "./Network/rack.bmp" Help = "create-rack-diagram.php" Description= "ラックシステムを設計するためのラックとネットワーク機器の図形が含まれています。">
+  <Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>
+	<Template Path = "./Network/Rack Equipment.edt" Name = "ラック装置"></Template>
+</Templates>
+
+<Templates NameU = "Video and Audio Ports" Name = "ビデオとオーディオポート" Theme= "一般的" Icon = "./Network/video-audio-ports.bmp" Description= "ビデオとオーディオポート図の形状が含まれています。">
+  <Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>
+	<Template Path = "./Network/Video and Audio Ports.edt" Name = "ビデオとオーディオポート"></Template>
+</Templates>
+
+
+<Templates NameU = "LDAP" Name = "LDAPディレクトリ" Theme= "一般的" Icon = "./Network/ldap.bmp" Description= "一般的なLDAP（ライトウェイト ディレクトリ アクセス プロトコル）オブジェクトを示す図形を使用して、ディレクトリサービスの記述を作成します。">
+  <Template Path = "./Network/LDAP Objects.edt" Name = "LDAP オブジェクト"></Template>
+</Templates>
+
+<Templates NameU = "Active Directory" Name = "Active Directory" Theme= "一般的" Icon = "./Network/activedirectory.bmp" Description= "一般的なActive　Directoryオブジェクト、サービス、サイトを示す図形を使用して、Active　Directoryサービスの図を作成します。">
+  <Template Path = "./Network/Active Directory.edt" Name = "Active Directory サイトとサービス"></Template>	
+	<Template Path = "./Network/Active Directory Objects.edt" Name = "Active Directory オブジェクト"></Template>	
+	<Template Path = "./Network/Exchange Objects.edt" Name = "Exchange オブジェクト"></Template>
+</Templates>
+
+<Templates NameU = "Network Location Diagram" Name = "ネット位置" Theme= "一般的" Icon = "./Network/netarea.bmp" Description= "ネットワークの位置の図を作成するためのいくつかのネットワークの位置の形状が含まれています。">
+	<Template Path = "./Network/Computers and Monitors.edt" Name = "コンピューターとモニター"></Template>
+	<Template Path = "./Network/Network Locations.edt" Name = "ネット位置"></Template>	
+</Templates>
+
+</Gallery>
+
+<Gallery NameU = "Organizational Chart" Name = "組織図" Version = "1.0" Theme= "一般的" Help = "create-org-chart.php" Description= "人事管理、スタッフ組織、事務管理、および管理構造の組織図を作成します。">
+<Templates NameU = "Organization Chart" Name = "写真付き組織図" Theme= "一般的" Solution = "Org" Icon = "./orgchart/orgbase.bmp" Help = "create-org-chart.php" Description= "人事管理、スタッフ組織、事務管理、および管理構造の図を作成します。">
+	<Template Path = "./Orgchart/Organization Chart Shapes.edt" Name = "一般的な組織図図形"></Template>
+</Templates>
+
+<Templates NameU = "Custom Organization Chart" Name = "ユーザー設定組織図" Theme= "一般的" Solution = "Org" Icon = "./orgchart/orgcustom.bmp" Help = "create-org-chart.php" Description= "人員構成、人事管理、オフィス管理、管理構造のユーザー設定の図表を作成します。">
+	<Template Path = "./Orgchart/Custom Organization Chart.edt" Name = "ユーザー設定組織図"></Template>
+</Templates>
+
+<Templates NameU = "Family Tree" Name = "家系図" Theme= "一般的" Icon = "./orgchart/familytree.bmp" Help = "create-family-tree.php" Description= "家系図、家族歴や系図ツリーを作成します。">
+	<Template Path = "./Orgchart/Organization Chart Shapes.edt" Name = "一般的な組織図図形"></Template>
+	<Template Path = "./Orgchart/Family Tree.edt" Name = "家系図"></Template>
+</Templates>
+</Gallery>
+
+<Gallery NameU = "Project Management" Name = "プロジェクト管理" Version = "1.0" Help = "create-project-chart.php" Description= "プロジェクトやタスク管理、時間割、作業分解構造、クリティカルパス法、プロジェクトのライフサイクル、目標設定、スケジュールや議題のためのPERT図やタイムラインを作成します。">
+<Templates NameU = "Calendar" Name = "カレンダー" Theme= "一般的" Icon = "./project/calendar.bmp" Help = "makeowncalendar.php" Description= "作業カレンダースケジュール、毎週のタスクスケジュールを作成するために使用します。">
+  <Template Path = "./Basic Shape/backgrounds.edt" Name = "背景"></Template>	
+	<Template Path = "./Mind Map/symbols.edt" Name = "記号"></Template>
+	<Template Path = "./Project/Calendar.edt" Name = "カレンダー"></Template>
+</Templates>
+
+<Templates NameU = "Gantt" Name = "ガントチャート" Theme= "一般的" Solution = "Gantt" Icon = "./project/gantt.bmp" Help = "how-to-draw-gantt-chart.php" Description= "ロジェクトスケジュールのガントチャートを作成します。">
+  <Template Path = "./Basic Shape/backgrounds.edt" Name = "背景"></Template>  
+	<Template Path = "./Mind Map/symbols.edt" Name = "記号"></Template>
+  <Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>
+	<Template Path = "./Project/Gantt.edt" Name = "ガントチャート"></Template>  
+</Templates>
+
+<Templates NameU = "House of Quality" Name = "品質屋(HOQ)" Theme= "一般的" Icon = "./project/HOQ.bmp" Help = "create-house-quality-diagram.php" Description= "生産段階全体で使用するために、消費者の需要を設計目標と主要な品質保証図表で表示し、消費者の要求を満足ための品質図の家を作成します。">
+	<Template Path = "./Basic Shape/BasicShapes.edt" Name = "基本図形"></Template>
+  <Template Path = "./Project/HOQ and QFD.edt" Name = "HOQ と QFD"></Template>
+</Templates>
+
+<Templates NameU = "Quality Function Deployment" Name = "品質機能展開(QFD)" Theme= "一般的" Help = "create-qfd-diagram.php" Icon = "./project/QFD.bmp" Description= "近代的な製造業やビジネスに、この個人的なインタフェースを応用して、品質機能展開図を作成します。">
+	<Template Path = "./Basic Shape/BasicShapes.edt" Name = "基本図形"></Template>
+  <Template Path = "./Project/HOQ and QFD.edt" Name = "HOQとQFD"></Template>
+</Templates>
+
+<Templates NameU = "Relationship Matrix" Name = "関係行列" Theme= "一般的" Icon = "./business/Matrix.bmp" Help = "create-relationship-matrix.php" Description= "プロジェクトタスク、人員、アクションと科学技術の関係を視覚化します。">
+	<Template Path = "./Basic Shape/BasicShapes.edt" Name = "基本図形"></Template>	
+	<Template Path = "./Project/Relationship Matrix.edt" Name = "関係行列"></Template>
+</Templates>
+
+<Templates NameU = "Relations Diagram" Name = "関係図" Theme= "一般的" Icon = "./project/relation.bmp" Description= "グループ内の複雑な状況で各方面との関係を分析するに使用します。">
+  <Template Path = "./Basic Shape/arrow.edt" Name = "矢印"></Template>
+  <Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>	
+  <Template Path = "./ERD and Database/Entity Relationship.edt" Name = "関係図"></Template>
+</Templates>
+
+<Templates NameU = "PERT Chart" Name = "PERT図" Theme= "一般的" Icon = "./project/pert.bmp" help= "create-pert-chart.php" Description= "プロジェクトやタスク管理、時間割、作業分解構造、クリティカルパス法、プロジェクトのライフサイクル、目標設定、スケジュールや議題のためのPERT図を作成します。">
+  <Template Path = "./Basic Shape/arrow.edt" Name = "矢印"></Template>
+  <Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>	
+  <Template Path = "./Project/PERT Chart.edt" Name = "PERT図 オブジェクト"></Template>
+</Templates>
+
+<Templates NameU = "Timeline" Name = "タイムライン" Theme= "一般的" Icon = "./project/timeline.bmp" Help = "how-to-draw-timeline.php" Description= "マイルストーンや間隔マーカー付きの線型タイムラインを作成します。">
+  <Template Path = "./Basic Shape/arrow.edt" Name = "矢印"></Template>
+  <Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>
+  <Template Path = "./Basic Shape/Custom Timeline.edt" Name = "カスタムタイムライン"></Template>  	
+  <Template Path = "./Project/timeline.edt" Name = "タイムライン"></Template>
+</Templates>
+
+<Templates NameU = "Status Table" Name = "進捗管理" Theme= "一般的" Icon = "./project/statustable.bmp" help="create-status-table.php" Description= "ビジネス、チーム、プロジェクト、プロセスまたは技術の進捗管理図を作成します。">
+	<Template Path = "./Project/Status Table.edt" Name = "進捗管理"></Template>
+</Templates>
+
+<Templates NameU = "Decision Tree" Name = "二分決定グラフ" Theme= "一般的" Icon = "./project/decisiontree.bmp" Help = "create-decision-tree.php" Description= "リスクを避ける選択と決断を求め、コストの分析図を作成します。">
+  <Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>
+  <Template Path = "./Project/descisiontree.edt" Name = "二分決定グラフ"></Template>
+</Templates>
+
+<Templates NameU = "Work Breakdown Structure (WBS)" Name = "作業分解図(WBS)" Theme= "一般的" Icon = "./project/wbs.bmp" Help = "create-wbs-diagram.php" Description= "目的を達成し、整理し、プロジェクトの総作業範囲を定義するために必要な作業の細分化を表示します。">
+  <Template Path = "./Project/WBS.edt" Name = "WBS 図形"></Template>
+</Templates>
+</Gallery>
+
+<Gallery NameU = "Science" Name = "科学" Version = "1.0" help = "create-science-diagram.php" Description= "数学、化学、物理ベクトル記号で教育資料やプレゼンテーションを手軽に作成します。">
+<Templates NameU = "Mechanics" Name = "力学" Theme= "一般的" Icon = "./science/mechanics.bmp" Description= "物理の力学を表す図の作成に使用します。">
+  <Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>
+  <Template Path = "./Science/mechanics.edt" Name = "力学"></Template>	
+</Templates>
+
+<Templates NameU = "Optics" Name = "光学" Theme= "一般的" Icon = "./science/Optics.bmp" Description= "テンプレートを使用して物理光学系のイラストを作成します。">
+  <Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>
+  <Template Path = "./Science/optics.edt" Name = "光学"></Template>
+</Templates>
+
+<Templates NameU = "Chemistry Equation" Name = "化学公式" Theme= "一般的" Icon = "./science/chemicalequation.bmp" Description= "テンプレートを使用して化学に関する図の作成します。">
+  <Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>
+  <Template Path = "./Science/chemical equation.edt" Name = "化学公式"></Template>
+</Templates>
+
+<Templates NameU = "Laboratory Equipment" Name = "実験器具" Theme= "一般的" Icon = "./science/laboratory.bmp" Description= "テンプレートを使用して化学実験装置図を作成します。">
+  <Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>
+  <Template Path = "./Science/laboratory equipment.edt" Name = "実験器具"></Template>
+</Templates>
+
+<Templates NameU = "Molecular Model" Name = "分子のモデル" Theme= "一般的" Icon = "./science/atommodels.bmp" Description= "テンプレートを使用して化学分子モデル図を作成します。">
+  <Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>
+  <Template Path = "./Science/molecular model.edt" Name = "分子のモデル"></Template>	
+	<Template Path = "./Science/ball and stick model.edt" Name = "ボールコネクターのモデル"></Template>	
+</Templates>
+
+<Templates NameU = "Mathematics" Name = "数学" Theme= "一般的" Icon = "./science/mathematics.bmp" Description= "テンプレートで平面幾何と3-D幾何図形、三角関数、ギリシャ文字のある数学教育のイラストを作成します。">
+  <Template Path = "./Science/greek letter.edt" Name = "希腊字母"></Template>
+	<Template Path = "./Science/mathematical symbol.edt" Name = "数学記号"></Template>	
+	<Template Path = "./Basic Shape/Dimensioning.edt" Name = "寸法と工学系"></Template>	
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "平面幾何"></Template>
+	<Template Path = "./Basic Shape/3Dblock.edt" Name = "3-D幾何図形"></Template>	
+</Templates>
+
+<Templates NameU = "Human Organs" Name = "人間の臓器" Theme= "一般的" Icon = "./science/humanorgans.bmp" Description= "テンプレートで教育ための人間の臓器図を作成します。">
+  <Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>
+  <Template Path = "./Science/human organs.edt" Name = "人間の臓器"></Template>		
+</Templates>
+
+<Templates NameU = "Cells" Name = "細胞" Theme= "一般的" Icon = "./science/cells.bmp" Description= "テンプレートで細胞図を作成します。">
+  <Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>
+  <Template Path = "./Science/animal cells and virus cells.edt" Name = "動物の細胞"></Template>
+	<Template Path = "./Science/plant Cell.edt" Name = "植物の細胞"></Template>	
+</Templates>
+
+<Templates NameU = "Astronomy" Name = "天文学" Theme= "一般的" Icon = "./science/astronomy.bmp" Description= "テンプレートで天文学に関しての図形を作成します。">
+  <Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>
+  <Template Path = "./Science/Astronomy.edt" Name = "天文学"></Template>
+</Templates>
+	
+</Gallery>
+
+<Gallery NameU = "Software" Name = "ソフトウェア" Version = "1.0" help = "design-software-diagram.php" Description= "UML表記法、 Booch OOD、COMおよびOLE、データフローモデル図、企業アプリケーション、ヤコブソンユースケース図、ルーム、シュレイアー・メラーOOA図、プログラム構造図、Nassi-Shneiderman図とSSADM図を作成します。">
+<Templates NameU = "UML Model Diagram" Name = "UML モデル図" Theme="ENG" Icon = "./software/uml.bmp" Description= "UML表記法を使用して、UMLモデルと静的構造図、コラボレーション図、シーケンス図、ユースケース図、コンポーネント図、アクティビティ図、配置図、ステートチャート図を作成します。">
+  <Template Path = "./Software/UML-Activity.edt" Name = "UML アクティビティ"></Template>
+  <Template Path = "./Software/UML-Class.edt" Name = "UMLクラス図"></Template>
+	<Template Path = "./Software/UML-Collaboration.edt" Name = "UML コラボレーション"></Template>
+	<Template Path = "./Software/UML-Component.edt" Name = "UML コンポーネント"></Template>
+	<Template Path = "./Software/UML-Deployment.edt" Name = "UML 配置"></Template>
+	<Template Path = "./Software/UML-Sequence.edt" Name = "UML シーケンス"></Template>
+	<Template Path = "./Software/UML-Statechart.edt" Name = "UML ステートチャート"></Template>	
+	<Template Path = "./Software/UML-UseCase.edt" Name = "UML ユーズケース"></Template>
+	<Template Path = "./Software/Relationship.edt" Name = "関係図"></Template>
+</Templates>
+
+<Templates NameU = "Booch OOD" Name = "Booch OOD" Theme="ENG" Icon = "./software/Booch.bmp" Description= "Booch OOD（オブジェクト指向設計）表記を使用してクラスとオブジェクト図を作成するための特殊な形状と設定が含まれています。">
+	<Template Path = "./Basic Shape/arrow.edt" Name = "矢印"></Template>
+  <Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>	
+	<Template Path = "./Software/Booch OOD.edt" Name = "Booch OOD"></Template>
+</Templates>
+
+<Templates NameU = "COM and OLE" Name = "COMおよびOLE" Theme="ENG" Icon = "./software/comole.bmp" Description= "COM図、OLE図、システム図、公開インターフェイス、COMインターフェイス、およびオプジェクト指向プログラミングのOLEインターフェイスを作成します。">
+	<Template Path = "./Basic Shape/arrow.edt" Name = "矢印"></Template>
+  <Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>	
+	<Template Path = "./Software/COM and OLE.edt" Name = "COMおよびOLE"></Template>
+</Templates>
+
+<Templates NameU = "Data Flow Model Diagram" Theme="ENG" Name = "データ フロー モデル図" Icon = "./software/datamodel.bmp" Description= "GANE-Sarson（DFD）の表記を使用して、データフロー図を作成します。">
+	<Template Path = "./Basic Shape/arrow.edt" Name = "矢印"></Template>
+  <Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>	
+	<Template Path = "./Software/Data Flow Model.edt" Name = "データ フロー モデル図"></Template>
+</Templates>
+
+<Templates NameU = "Enterprise Application" Name = "企業アプリケーション" Theme="ENG" Icon = "./software/enterprise-app.bmp" Description= "メインフレーム、PC、アーキテクチャレイヤーを表す図形を使用して、エンタープライズアーキテクチャ図を作成します。">
+	<Template Path = "./Basic Shape/arrow.edt" Name = "矢印"></Template>
+  <Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>	
+	<Template Path = "./Software/EnterpriseApplication.edt" Name = "企業アプリケーション"></Template>	
+</Templates>
+
+<Templates NameU = "Jacobson Use Case" Name = "Jacobson ユースケース" Theme="ENG" Icon = "./software/jackbson.bmp" Description= "Jacksonユーズケースの記号が収録されています。">
+	<Template Path = "./Basic Shape/arrow.edt" Name = "矢印"></Template>
+  <Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>	
+	<Template Path = "./Software/Jacobson Use Case.edt" Name = "Jacobson ユースケース"></Template>
+</Templates>
+
+<Templates NameU = "Jackson" Name = "Jackson" Theme="ENG" Icon = "./software/jackson.bmp" Description= "Jackson方法論を使用してプログラムの設計のためのデータ構造図を作成します。">
+	<Template Path = "./Basic Shape/arrow.edt" Name = "矢印"></Template>
+  <Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>	
+	<Template Path = "./Software/Jackson.edt" Name = "Jackson"></Template>
+</Templates>
+
+<Templates NameU = "Program Flowchart" Name = "プログラムフローチャート" Theme="ENG" Icon = "./software/program.bmp" help = "create-process-flowchart.php" Description= "基本的なプログラムのフローチャートを作成します。">
+	<Template Path = "./Basic Shape/arrow.edt" Name = "矢印"></Template>
+  <Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>	
+	<Template Path = "./Software/Program Flowchart.edt" Name = "プログラムフローチャート"></Template>
+</Templates>
+
+<Templates NameU = "Program Structure" Name = "プログラム構造" Theme="ENG" Icon = "./software/ProgramStructure.bmp" Description= "構造図、フローチャート、およびメモリ・ダイアグラムを作成します。">
+	<Template Path = "./Basic Shape/arrow.edt" Name = "矢印"></Template>
+  <Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>	
+	<Template Path = "./Software/Language Level Shapes.edt" Name = "言語レベル図形"></Template>
+	<Template Path = "./Software/Memory Objects.edt" Name = "メモリオブジェクト"></Template>
+</Templates>
+
+<Templates NameU = "Nassi-Shneiderman" Name = "Nassi-Shneiderman" Theme="ENG" Icon = "./software/Nassi.bmp" Description= "Nassi Shneiderman図の特定な記号が収録されています。">
+	<Template Path = "./Basic Shape/arrow.edt" Name = "矢印"></Template>
+  <Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>	
+	<Template Path = "./Software/Nassi-Shneiderman.edt" Name = "Nassi-Shneiderman"></Template>
+</Templates>
+
+<Templates NameU = "ROOM" Name = "ROOM" Theme="ENG" Icon = "./software/ROOM.BMP" Description= "適時、動的な内部構造、反応性、レイアウト、ヤイムリーに基づいて作成します。">
+	<Template Path = "./Basic Shape/arrow.edt" Name = "矢印"></Template>
+  <Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>	
+	<Template Path = "./Software/ROOM.edt" Name = "ROOM"></Template>
+</Templates>
+
+<Templates NameU = "Shlaer-Mellor OOA" Name = "Shlaer-Mellor OOA" Theme="ENG" Icon = "./software/shlaer.bmp" Description= "Shlaer-Mellor OOA図の特定な記号が収録されています。">
+	<Template Path = "./Basic Shape/arrow.edt" Name = "矢印"></Template>
+  <Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>	
+	<Template Path = "./Software/Shlaer-Mellor OOA.edt" Name = "Shlaer-Mellor OOA"></Template>
+</Templates>
+
+<Templates NameU = "SSADM" Name = "SSADM" Theme="ENG" Icon = "./software/SSADM.BMP" Description= "SSADM（構造化システム分析と設計法の略）図を作成するための特殊な形状と設定が含まれています。">
+	<Template Path = "./Basic Shape/arrow.edt" Name = "矢印"></Template>
+  <Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>	
+	<Template Path = "./Software/SSADM.edt" Name = "SSADM"></Template>
+</Templates>
+
+<Templates NameU = "Yourdon and Coad" Name = "Yourdon と Coad" Theme="ENG" Icon = "./software/yourdon.bmp" Description= "Yourdon と Coad図の特定な記号が含まれています。">
+	<Template Path = "./Basic Shape/arrow.edt" Name = "矢印"></Template>
+  <Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>	
+	<Template Path = "./Software/Yourdon and Coad.edt" Name = "Yourdon と Coad"></Template>
+</Templates>
+</Gallery>
+
+<Gallery NameU = "Wireframe" Name = "ワイヤーフレーム" Version = "1.0" help = "create-wireframes.php" Description= "ワイヤーフレームを作成するための特別な図形が含まれています。">
+<Templates NameU = "iPhone UI" Name = "iPhone UI 設計" Theme= "一般的" Icon = "./wireframe/iPhone.bmp" Description= "iPhone UIのワイヤーフレームを作成するために使用します。">
+  <Template Path = "./Wireframe/IOS 6 UI.edt" Name = "IOS 6 UI"></Template> 
+  <Template Path = "./Wireframe/IOS 7 UI.edt" Name = "IOS 7 UI"></Template> 
+  <Template Path = "./Wireframe/IOS 8 UI.edt" Name = "IOS 8 UI"></Template> 
+  <Template Path = "./Wireframe/Vector Icons.edt" Name = "ベクトル図形"></Template>
+  <Template Path = "./Wireframe/Touch Gesture.edt" Name = "タッチジェスチャー"></Template>    
+</Templates>
+
+<Templates NameU = "iPad UI" Name = "iPad UI 設計" Theme= "一般的" Icon = "./wireframe/iPad.bmp" Description= "iPad UI のワイヤーフレームを作成するために使用します。">
+  <Template Path = "./Wireframe/iPhone UI.edt" Name = "iPhone UI　設計"></Template> 
+  <Template Path = "./Wireframe/Vector Icons.edt" Name = "ベクトル図形"></Template>
+  <Template Path = "./Wireframe/Touch Gesture.edt" Name = "タッチジェスチャー"></Template>    
+</Templates>
+
+<Templates NameU = "Android UI" Name = "Android UI" Theme= "一般的" Icon = "./wireframe/Android.bmp" Description= "AndroidUIのワイヤーフレームを作成するために使用します。">
+  <Template Path = "./Wireframe/Android UI.edt" Name = "Android UI"></Template> 
+  <Template Path = "./Wireframe/Vector Icons.edt" Name = "ベクトル図形"></Template>
+  <Template Path = "./Wireframe/Touch Gesture.edt" Name = "タッチジェスチャー"></Template>    
+</Templates>
+
+<Templates NameU = "Windows 7 UI" Name = "Windows 7 UI" Theme= "一般的" Icon = "./wireframe/winui.bmp" Description= "Windows 7 ワイヤーフレーム図を作成するための特別な形状が含まれています。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>	
+	<Template Path = "./Wireframe/Windows7UI.edt" Name = "Windows 7 UI"></Template>
+</Templates>
+
+<Templates NameU = "Web Site Wireframe" Name = "ウェブサイトのワイヤーフレーム" Theme= "一般的" Icon = "./wireframe/wireframe.bmp" help = "create-wireframes.php" Description= "ウェブサイトのワイヤーフレームを作成します。">
+	<Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>	
+  <Template Path = "./Wireframe/Wireframe.edt" Name = "ワイヤーフレーム図"></Template>
+</Templates>
+
+<Templates NameU = "Conceptual Web Site" Name = "ウェブサイトの観念図" Theme= "一般的" Icon = "./wireframe/conceptual.bmp" help = "create-conceptual-website-diagram.php" Description= "Webサイト、ホームページ、ハイパーリンク図面の概念図と高度なアーキテクチャを設計します。">
+ 	<Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>	
+  <Template Path = "./Wireframe/Conceptual Web Site.edt" Name = "ウェブサイトの観念図"></Template>
+</Templates>
+
+<Templates NameU = "Web Site Map" Name = "サイトマップ" Theme= "一般的" Icon = "./wireframe/sitemap.bmp" Description= "ネットワークサーバ、HTTPサーバー、およびローカルハードディスク上のWebサイトに対して、サイトマップを生成します。">
+  <Template Path = "./Basic Shape/callouts.edt" Name = "吹き出し"></Template>	
+  <Template Path = "./Wireframe/Web Site Map.edt" Name = "サイトマップ"></Template>
+</Templates>
+</Gallery>
+
+</Galleries>

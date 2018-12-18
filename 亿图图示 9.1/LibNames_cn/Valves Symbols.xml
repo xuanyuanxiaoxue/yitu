@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Valves Symbols">
+    <Elem Prompt="3-D三通电磁复位阀" Name="3-D三通电磁复位阀" PromptU="3-D 3-way solenoid valve with reset" NameU="3-D 3-way solenoid valve with reset"/>
+    <Elem Prompt="3-D三通阀" Name="3-D三通阀" PromptU="3-D 3-way valve" NameU="3-D 3-way valve"/>
+    <Elem Prompt="3-D三通电磁阀" Name="3-D三通电磁阀" PromptU="3-D 3-way solenoid valve" NameU="3-D 3-way solenoid valve"/>
+    <Elem Prompt="3-D四通阀" Name="3-D四通阀" PromptU="3-D 4-way valve" NameU="3-D 4-way valve"/>
+    <Elem Prompt="三维角泄压阀" Name="三维角泄压阀" PromptU="3-D Angle blowdown valve" NameU="3-D Angle blowdown valve"/>
+    <Elem Prompt="三维球阀" Name="三维球阀" PromptU="3-D Ball valve" NameU="3-D Ball valve"/>
+    <Elem Prompt="三维泄压阀" Name="三维泄压阀" PromptU="3-D Blowdown valve" NameU="3-D Blowdown valve"/>
+    <Elem Prompt="3-D蝶阀或减震器" Name="3-D蝶阀或减震器" PromptU="3-D Butterfly valve or damper" NameU="3-D Butterfly valve or damper"/>
+    <Elem Prompt="3-D止回阀" Name="3-D止回阀" PromptU="3-D Check valve" NameU="3-D Check valve"/>
+    <Elem Prompt="带促动器的三维控制阀" Name="带促动器的三维控制阀" PromptU="3-D Control valve with actuator" NameU="3-D Control valve with actuator"/>
+    <Elem Prompt="三维圆柱控制阀 (双作用)" Name="3三维圆柱控制阀 (双作用)" PromptU="3-D Cylinder actuated valve (double-acting)" NameU="3-D Cylinder actuated valve (double-acting)"/>
+    <Elem Prompt="3-D流量调节器,自给式" Name="3-D流量调节器,自给式" PromptU="3-D Flow regulator ,self-contained" NameU="3-D Flow regulator ,self-contained"/>
+    <Elem Prompt="3-D闸阀" Name="3-D闸阀" PromptU="3-D Gate valve" NameU="3-D Gate valve"/>
+    <Elem Prompt="3-D手控阀" Name="3-D手控阀" PromptU="3-D Hand control valve" NameU="3-D Hand control valve"/>
+    <Elem Prompt="3-D旋塞阀" Name="3-D旋塞阀" PromptU="3-D Plug valve" NameU="3-D Plug valve"/>
+    <Elem Prompt="3-D压力平衡型隔膜控制阀" Name="3-D压力平衡型隔膜控制阀" PromptU="3-D Pressure-balanced diaphragm actuated" NameU="3-D Pressure-balanced diaphragm actuated"/>
+    <Elem Prompt="带外测压孔的3-D校准器" Name="带外测压孔的3-D校准器" PromptU="3-D Regulator with external pressure tap" NameU="3-D Regulator with external pressure tap"/>
+    <Elem Prompt="3-D校准器，自给式" Name="3-D校准器，自给式" PromptU="3-D Regulator, self-contained" NameU="3-D Regulator, self-contained"/>
+    <Elem Prompt="3D带截流孔板阀门" Name="3D带截流孔板阀门" PromptU="3-D Restriction orifice drilled in valve" NameU="3-D Restriction orifice drilled in valve"/>
+    <Elem Prompt="3-D旋转控制阀" Name="3-D旋转控制阀" PromptU="3-D Rotary actuated" NameU="3-D Rotary actuated"/>
+    <Elem Prompt="3-D旋塞阀" Name="3-D旋塞阀" PromptU="3-D Rotary plug valve" NameU="3-D Rotary plug valve"/>
+    <Elem Prompt="3-D切断式止回阀" Name="3-D切断式止回阀" PromptU="3-D Stop check valve" NameU="3-D Stop check valve"/>
+    <Elem Prompt="3-D真空安全阀" Name="3-D真空安全阀" PromptU="3-D Vacuum safety valve" NameU="3-D Vacuum safety valve"/>
+    <Elem Prompt="带促动器的3-D阀" Name="带促动器的3-D阀" PromptU="3-D Valve with actuator" NameU="3-D Valve with actuator"/>
+    <Elem Prompt="3-D排泄阀或冲洗连接阀" Name="3-D排泄阀或冲洗连接阀" PromptU="3-D Valve with bleed or purge connection under disc" NameU="3-D Valve with bleed or purge connection under disc"/>
+    <Elem Prompt="长轴3-D阀" Name="长轴3-D阀" PromptU="3-D Valve with long shaft" NameU="3-D Valve with long shaft"/>
+    <Elem Prompt="3-D阀, 故障时任意位置" Name="3-D阀, 故障时任意位置" PromptU="3-D Valve,fail indeterminate" NameU="3-D Valve,fail indeterminate"/>
+    <Elem Prompt="保位3-D阀" Name="保位3-D阀" PromptU="3-D Valve,fail locked" NameU="3-D Valve,fail locked"/>
+    <Elem Prompt="3-D阀" Name="3-阀" PromptU="3-D Valve" NameU="3-D Valve"/>
+    <Elem Prompt="阀杆 1" Name="阀杆 1" PromptU="Valve handle 1" NameU="Valve handle 1"/>
+    <Elem Prompt="阀杆 2" Name="阀杆 2" PromptU="Valve handle 2" NameU="Valve handle 2"/>
+    <Elem Prompt="手轮阀" Name="手轮阀" PromptU="Valve wheel" NameU="Valve wheel"/>
+</Lib>

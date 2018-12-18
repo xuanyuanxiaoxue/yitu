@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Wardrobe">
+    <Elem Prompt="衣柜尺寸" Name="衣柜尺寸" PromptU="Cabinet Dimension" NameU="Cabinet Dimension"/>
+    <Elem Prompt="双击编辑尺寸改变其大小" Name="衣柜" PromptU="Double click and edit the dimension to change its size." NameU="Chest"/>
+    <Elem Prompt="双击编辑尺寸改变其大小" Name="水平板" PromptU="Double click and edit the dimension to change its size." NameU="Horizontal Board"/>
+    <Elem Prompt="双击编辑尺寸改变其大小" Name="垂直板" PromptU="Double click and edit the dimension to change its size." NameU="Vertical Board"/>
+    <Elem Prompt="你可以改变其厚度和衣柜的大小." Name="带有尺寸的隔板" PromptU="You can change its thickness and the size of the cabinet." NameU="Clapboard with Size"/>
+    <Elem Prompt="双击编辑尺寸改变其大小" Name="水平隔板" PromptU="Double click and edit the dimension to change its size." NameU="Horizontal Clapboard"/>
+    <Elem Prompt="双击编辑尺寸改变其大小" Name="垂直隔板" PromptU="Double click and edit the dimension to change its size." NameU="Vertical Clapboard"/>
+    <Elem Prompt="双击编辑尺寸改变其大小" Name="顶柜" PromptU="Double click and edit the dimension to change its size." NameU="Top Box"/>
+    <Elem Prompt="双击编辑尺寸改变其大小" Name="右顶柜" PromptU="Double click and edit the dimension to change its size." NameU="Top Box(Right)"/>
+    <Elem Prompt="双击编辑尺寸改变其大小" Name="抽屉" PromptU="Double click and edit the dimension to change its size." NameU="Drawer"/>
+    <Elem Prompt="双击编辑尺寸改变其大小" Name="抽屉 2" PromptU="Double click and edit the dimension to change its size." NameU="Drawer 2"/>
+    <Elem Prompt="双击编辑尺寸改变其大小" Name="抽屉 3" PromptU="Double click and edit the dimension to change its size." NameU="Drawer 3"/>
+    <Elem Prompt="Drawer 4" Name="抽屉 4" PromptU="Drawer 4" NameU="Drawer 4"/>
+    <Elem Prompt="双击编辑尺寸改变其大小" Name="抽屉 5" PromptU="Double click and edit the dimension to change its size." NameU="Drawer 5"/>
+    <Elem Prompt="双击编辑尺寸改变其大小" Name="抽屉 6" PromptU="Double click and edit the dimension to change its size." NameU="Drawer 6"/>
+    <Elem Prompt="双击编辑尺寸改变其大小" Name="抽屉 7" PromptU="Double click and edit the dimension to change its size." NameU="Drawer 7"/>
+    <Elem Prompt="双击编辑尺寸改变其大小" Name="篮" PromptU="Double click and edit the dimension to change its size." NameU="Baskets"/>
+    <Elem Prompt="双击编辑尺寸改变其大小" Name="衣箱" PromptU="Double click and edit the dimension to change its size." NameU="Suitcase"/>
+    <Elem Prompt="双击编辑尺寸改变其大小" Name="衣箱 2" PromptU="Double click and edit the dimension to change its size." NameU="Suitcase 2"/>
+    <Elem Prompt="双击编辑尺寸改变其大小" Name="格" PromptU="Double click and edit the dimension to change its size." NameU="Lattice"/>
+    <Elem Prompt="双击编辑尺寸改变其大小" Name="衣架" PromptU="Double click and edit the dimension to change its size." NameU="Clothes Hanger"/>
+    <Elem Prompt="双击编辑尺寸改变其大小" Name="裤架" PromptU="Double click and edit the dimension to change its size." NameU="Trouser Hanger"/>
+    <Elem Prompt="双击编辑尺寸改变其大小" Name="衣箱" PromptU="Double click and edit the dimension to change its size." NameU="Suitcase"/>
+    <Elem Prompt="双击编辑尺寸改变其大小" Name="箱子" PromptU="Double click and edit the dimension to change its size." NameU="Box"/>
+    <Elem Prompt="毛巾" Name="毛巾" PromptU="Towel" NameU="Towel"/>
+    <Elem Prompt="毛巾" Name="毛巾 2" PromptU="Towel" NameU="Towel 2"/>
+    <Elem Prompt="枕头" Name="枕头" PromptU="Pillow" NameU="Pillow"/>
+    <Elem Prompt="被子" Name="被子" PromptU="Quilt" NameU="Quilt"/>
+    <Elem Prompt="被子 2" Name="被子 2" PromptU="Quilt 2" NameU="Quilt 2"/>
+    <Elem Prompt="被子 3" Name="被子 3" PromptU="Quilt 3" NameU="Quilt 3"/>
+    <Elem Prompt="帽子" Name="帽子" PromptU="Hat" NameU="Hat"/>
+    <Elem Prompt="木衣架" Name="木衣架" PromptU="Hanger" NameU="Hanger"/>
+    <Elem Prompt="相框" Name="相框" PromptU="Photo Frame" NameU="Photo Frame"/>
+    <Elem Prompt="衣服" Name="衣服" PromptU="Clothes" NameU="Clothes"/>
+    <Elem Prompt="衣服 2" Name="衣服 2" PromptU="Clothes 2" NameU="Clothes 2"/>
+    <Elem Prompt="夹克" Name="夹克" PromptU="Jackets" NameU="Jackets"/>
+    <Elem Prompt="西服" Name="西服" PromptU="Suits" NameU="Suits"/>
+    <Elem Prompt="大衣" Name="大衣" PromptU="Overcoat" NameU="Overcoat"/>
+    <Elem Prompt="裤子" Name="裤子" PromptU="Pants" NameU="Pants"/>
+    <Elem Prompt="挂钩" Name="挂钩" PromptU="Hooks" NameU="Hooks"/>
+    <Elem Prompt="衣橱框架" Name="衣橱框架" PromptU="Closet Framework" NameU="Closet Framework"/>
+    <Elem Prompt="水平隔板" Name="水平隔板 2" PromptU="Horizontal Clapboard" NameU="Horizontal Clapboard 2"/>
+    <Elem Prompt="垂直隔板" Name="垂直隔板 2" PromptU="Vertical Clapboard" NameU="Vertical Clapboard 2"/>
+    <Elem Prompt="衣架" Name="衣架 2" PromptU="Clothes Hanger" NameU="Clothes Hanger 2"/>
+    <Elem Prompt="抽屉" Name="抽屉 4" PromptU="Drawer" NameU="Drawer 4"/>
+    <Elem Prompt="抽屉" Name="抽屉 5" PromptU="Drawer" NameU="Drawer 5"/>
+    <Elem Prompt="衣箱" Name="衣箱 2" PromptU="Suitcase" NameU="Suitcase 2"/>
+    <Elem Prompt="木衣架" Name="木衣架 2" PromptU="Hanger" NameU="Hanger 2"/>
+    <Elem Prompt="毛巾" Name="毛巾 3" PromptU="Towel" NameU="Towel 3"/>
+    <Elem Prompt="毛巾" Name="毛巾 4" PromptU="Towel" NameU="Towel 4"/>
+    <Elem Prompt="毛巾" Name="毛巾 5" PromptU="Towel" NameU="Towel 5"/>
+    <Elem Prompt="被子" Name="被子 2" PromptU="Quilt" NameU="Quilt 2"/>
+    <Elem Prompt="枕头" Name="枕头 2" PromptU="Pillow" NameU="Pillow 2"/>
+    <Elem Prompt="帽子" Name="帽子 2" PromptU="Hat" NameU="Hat 2"/>
+    <Elem Prompt="蓝色裙子, 你可以改变它的颜色." Name="蓝色裙子" PromptU="Blue Dress, you can change its color." NameU="Blue Dress"/>
+    <Elem Prompt="红色裙子, 你可以改变它的颜色." Name="红色裙子" PromptU="Red dress, you can change its color." NameU="Red Dress"/>
+    <Elem Prompt="T恤" Name="T恤" PromptU="T-Shirt" NameU="T-Shirt"/>
+    <Elem Prompt="衬衫" Name="衬衫" PromptU="Shirt" NameU="Shirt"/>
+    <Elem Prompt="玩具" Name="玩具" PromptU="Toy" NameU="Toy"/>
+    <Elem Prompt="相框" Name="相框 2" PromptU="Photo Frame" NameU="Photo Frame 2"/>
+    <Elem Prompt="橱柜灯" Name="橱柜灯" PromptU="Cabinet light" NameU="Cabinet light"/>
+    <Elem Prompt="吊灯" Name="吊灯" PromptU="Droplight" NameU="Droplight"/>
+    <Elem Prompt="天花灯" Name="天花灯" PromptU="Ceiling light" NameU="Ceiling light"/>
+    <Elem Prompt="台灯" Name="台灯" PromptU="Desk lamp" NameU="Desk lamp"/>
+</Lib>

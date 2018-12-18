@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="AWS App Services">
+    <Elem NameU="Cognito" Name="Cognito 云同步存储服务" PromptU="Cognito" Prompt="Cognito 云同步存储服务"/>
+    <Elem NameU="Mobile Analytics" Name="移动数据分析" PromptU="Mobile Analytics" Prompt="移动数据分析"/>
+    <Elem NameU="WorkDocs" Name="WorkDocs 完全托管的企业存储和共享服务" PromptU="WorkDocs" Prompt="WorkDocs 完全托管的企业存储和共享服务"/>
+    <Elem NameU="Kinesis" Name="Kinesis 流式处理数据平台" PromptU="Kinesis" Prompt="Kinesis 流式处理数据平台"/>
+    <Elem NameU="Config" Name="配置" PromptU="Config" Prompt="配置"/>
+    <Elem NameU="Directory Service" Name="目录服务" PromptU="Directory Service" Prompt="目录服务"/>
+    <Elem NameU="Trusted Advisor" Name="信托顾问" PromptU="Trusted Advisor" Prompt="信托顾问"/>
+    <Elem NameU="CloudSearch SDF metadata" Name="云搜索SDF元数据" PromptU="CloudSearch SDF metadata" Prompt="云搜索SDF元数据"/>
+    <Elem NameU="CloudSearch" Name="云搜索" PromptU="CloudSearch" Prompt="云搜索"/>
+    <Elem NameU="Elastic Transcoder" Name="Elastic Transcoder 云视频格式转换服务" PromptU="Elastic Transcoder" Prompt="Elastic Transcoder 云视频格式转换服务"/>
+    <Elem NameU="Email" Name="邮件" PromptU="Email" Prompt="邮件"/>
+    <Elem NameU="SES" Name="SES" PromptU="SES" Prompt="SES"/>
+    <Elem NameU="SNS Email Notification" Name="SNS Email 通知" PromptU="SNS Email" Prompt="SNS Email 通知"/>
+    <Elem NameU="HTTP Notification" Name="HTTP 通知" PromptU="HTTP" Prompt="HTTP 通知"/>
+    <Elem NameU="SNS Topic" Name="SNS 主题" PromptU="SNS" Prompt="SNS 主题"/>
+    <Elem NameU="SNS" Name="SNS" PromptU="SNS" Prompt="SNS"/>
+    <Elem NameU="SQS Message" Name="SQS 消息" PromptU="SQS" Prompt="SQS 消息"/>
+    <Elem NameU="SQS Queue" Name="SQS 队列" PromptU="SQS" Prompt="SQS 队列"/>
+    <Elem NameU="SQS" Name="SQS" PromptU="SQS" Prompt="SQS"/>
+    <Elem NameU="SWF Decider" Name="SWF 决策者" PromptU="SWF" Prompt="SWF 决策者"/>
+    <Elem NameU="SWF Worker" Name="SWF 工作人员" PromptU="SWF Decider" Prompt="SWF 工作人员"/>
+    <Elem NameU="SWF" Name="SWF" PromptU="SWF" Prompt="SWF"/>
+    <Elem NameU="Stream" Name="流" PromptU="Stream" Prompt="流"/>
+</Lib>

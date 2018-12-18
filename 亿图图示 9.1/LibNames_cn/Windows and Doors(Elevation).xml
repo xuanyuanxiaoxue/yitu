@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Windows and Doors (Elevation)">
+    <Elem Prompt="窗户 1" Name="窗户 1" PromptU="Window 1" NameU="Window 1"/>
+    <Elem Prompt="窗户 2" Name="窗户 2" PromptU="Window 2" NameU="Window 2"/>
+    <Elem Prompt="窗户 3" Name="窗户 3" PromptU="Window 3" NameU="Window 3"/>
+    <Elem Prompt="窗户 4" Name="窗户 4" PromptU="Window 4" NameU="Window 4"/>
+    <Elem Prompt="窗户 5" Name="窗户 5" PromptU="Window 5" NameU="Window 5"/>
+    <Elem Prompt="窗户 6" Name="窗户 6" PromptU="Window 6" NameU="Window 6"/>
+    <Elem Prompt="窗户 7" Name="窗户 7" PromptU="Window 7" NameU="Window 7"/>
+    <Elem Prompt="窗户 8" Name="窗户 8" PromptU="Window 8" NameU="Window 8"/>
+    <Elem Prompt="窗户 9" Name="窗户 9" PromptU="Window 9" NameU="Window 9"/>
+    <Elem Prompt="窗户 10" Name="窗户 10" PromptU="Window 10" NameU="Window 10"/>
+    <Elem Prompt="窗户 11" Name="窗户 11" PromptU="Window 11" NameU="Window 11"/>
+    <Elem Prompt="窗户 12" Name="窗户 12" PromptU="Window 12" NameU="Window 12"/>
+    <Elem Prompt="窗户 13" Name="窗户 13" PromptU="Window 13" NameU="Window 13"/>
+    <Elem Prompt="窗户 14" Name="窗户 14" PromptU="Window 14" NameU="Window 14"/>
+    <Elem Prompt="窗户 15" Name="窗户 15" PromptU="Window 15" NameU="Window 15"/>
+    <Elem Prompt="窗户 16" Name="窗户 16" PromptU="Window 16" NameU="Window 16"/>
+    <Elem Prompt="窗户 17" Name="窗户 17" PromptU="Window 17" NameU="Window 17"/>
+    <Elem Prompt="门 1" Name="门 1" PromptU="Door 1" NameU="Door 1"/>
+    <Elem Prompt="门 2" Name="门 2" PromptU="Door 2" NameU="Door 2"/>
+    <Elem Prompt="门 3" Name="门 3" PromptU="Door 3" NameU="Door 3"/>
+    <Elem Prompt="门 4" Name="门 4" PromptU="Door 4" NameU="Door 4"/>
+    <Elem Prompt="门 5" Name="门 5" PromptU="Door 5" NameU="Door 5"/>
+    <Elem Prompt="门" Name="门" PromptU="Door" NameU="Door"/>
+    <Elem Prompt="门" Name="门" PromptU="Door" NameU="Door"/>
+    <Elem Prompt="拱形门" Name="拱形门" PromptU="Arched doorway" NameU="Arched doorway"/>
+    <Elem Prompt="橱柜" Name="橱柜" PromptU="Cabinet" NameU="Cabinet"/>
+    <Elem Prompt="橱柜" Name="橱柜" PromptU="Cabinet" NameU="Cabinet"/>
+    <Elem Prompt="橱柜" Name="橱柜" PromptU="Cabinet" NameU="Cabinet"/>
+    <Elem Prompt="橱柜" Name="橱柜" PromptU="Cabinet" NameU="Cabinet"/>
+    <Elem Prompt="橱柜" Name="橱柜" PromptU="Cabinet" NameU="Cabinet"/>
+    <Elem Prompt="橱柜" Name="橱柜" PromptU="Cabinet" NameU="Cabinet"/>
+    <Elem Prompt="屋顶的屋檐" Name="屋顶的屋檐" PromptU="Roof Eaves" NameU="Roof Eaves"/>
+    <Elem Prompt="门把手" Name="门把手" PromptU="Door handle" NameU="Door handle"/>
+</Lib>

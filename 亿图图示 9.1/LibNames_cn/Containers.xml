@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Containers">
+    <Elem Prompt="升瓶子" Name="升瓶子" PromptU="Liter bottle" NameU="Liter bottle"/>
+    <Elem Prompt="升瓶子" Name="升瓶子" PromptU="Liter bottle" NameU="Liter bottle"/>
+    <Elem Prompt="蓝桶" Name="蓝桶" PromptU="Blue barrel" NameU="Blue barrel"/>
+    <Elem Prompt="瓶子" Name="瓶子" PromptU="Bottle" NameU="Bottle"/>
+    <Elem Prompt="桶" Name="桶" PromptU="Bucket" NameU="Bucket"/>
+    <Elem Prompt="散装货集装箱" Name="散装货集装箱" PromptU="Bulk container" NameU="Bulk container"/>
+    <Elem Prompt="罐头" Name="罐头" PromptU="Can" NameU="Can"/>
+    <Elem Prompt="罐头 2" Name="罐头 2" PromptU="Can 2" NameU="Can 2"/>
+    <Elem Prompt="罐头 3" Name="罐头 3" PromptU="Can 3" NameU="Can 3"/>
+    <Elem Prompt="纸箱 1" Name="纸箱 1" PromptU="Cardboard box 1" NameU="Cardboard box 1"/>
+    <Elem Prompt="纸箱 2" Name="纸箱 2" PromptU="Cardboard box 2" NameU="Cardboard box 2"/>
+    <Elem Prompt="有向上箭头的封口纸箱" Name="有向上箭头的封口纸箱" PromptU="Cardboard box with up arrows, closed" NameU="Cardboard box with up arrows, closed"/>
+    <Elem Prompt="有向上箭头的密封贴标纸箱" Name="有向上箭头的密封贴标纸箱" PromptU="Cardboard box with up arrows, sealed" NameU="Cardboard box with up arrows, sealed"/>
+    <Elem Prompt="封口纸箱" Name="封口纸箱" PromptU="Cardboard box,closed" NameU="Cardboard box,closed"/>
+    <Elem Prompt="无盖纸箱" Name="无盖纸箱" PromptU="Cardboard box, no flaps" NameU="Cardboard box, no flaps"/>
+    <Elem Prompt="打开的纸箱" Name="打开的纸箱" PromptU="Cardboard box, open" NameU="Cardboard box, open"/>
+    <Elem Prompt="封口纸箱俯视图" Name="封口纸箱俯视图" PromptU="Cardboard box,top view,closed" NameU="Cardboard box,top view,closed"/>
+    <Elem Prompt="开口纸箱俯视图" Name="开口纸箱俯视图" PromptU="Cardboard box,top view,open" NameU="Cardboard box,top view,open"/>
+    <Elem Prompt="封口贴标纸箱俯视图" Name="封口贴标纸箱俯视图" PromptU="Cardboard box,top view,sealed" NameU="Cardboard box,top view,sealed"/>
+    <Elem Prompt="容器 1" Name="容器 1" PromptU="Container 1" NameU="Container 1"/>
+    <Elem Prompt="板条箱" Name="板条箱" PromptU="Crate" NameU="Crate"/>
+    <Elem Prompt="玻璃纤维方形网格光栅(透视图)" Name="玻璃纤维方形网格光栅(透视图)" PromptU="Fiberglass square mesh grating(perspective view)" NameU="Fiberglass square mesh grating(perspective view)"/>
+    <Elem Prompt="玻璃纤维方形网格光栅(俯视图)" Name="玻璃纤维方形网格光栅(俯视图)" PromptU="Fiberglass square mesh grating(top view)" NameU="Fiberglass square mesh grating(top view)"/>
+    <Elem Prompt="灰色桶" Name="灰色桶" PromptU="Gray barrel" NameU="Gray barrel"/>
+    <Elem Prompt="绿色桶" Name="绿色桶" PromptU="Green barrel" NameU="Green barrel"/>
+    <Elem Prompt="带盖船运集装箱" Name="带盖船运集装箱" PromptU="Open-head shipping container" NameU="Open-head shipping container"/>
+    <Elem Prompt="实木托盘" Name="实木托盘" PromptU="Pallet" NameU="Pallet"/>
+    <Elem Prompt="药瓶" Name="药瓶" PromptU="Pill bottle" NameU="Pill bottle"/>
+    <Elem Prompt="塑料容器" Name="塑料容器" PromptU="Plastic container" NameU="Plastic container"/>
+    <Elem Prompt="塑料容器 2" Name="塑料容器 2" PromptU="Plastic container 2" NameU="Plastic container 2"/>
+    <Elem Prompt="塑料容器 3" Name="塑料容器 3" PromptU="Plastic container 3" NameU="Plastic container 3"/>
+    <Elem Prompt="杯子" Name="杯子" PromptU="Cup" NameU="Cup"/>
+    <Elem Prompt="塑料托盘" Name="塑料托盘" PromptU="Plastic pallet" NameU="Plastic pallet"/>
+    <Elem Prompt="投药瓶" Name="投药瓶" PromptU="Prescription bottle" NameU="Prescription bottle"/>
+    <Elem Prompt="贴有条形码的密封纸箱" Name="贴有条形码的密封纸箱" PromptU="Sealed box with bar code" NameU="Sealed box with bar code"/>
+    <Elem Prompt="用OSHA胶带封口的纸箱" Name="用OSHA胶带封口的纸箱" PromptU="Simple box sealed with OSHA tape" NameU="Simple box sealed with OSHA tape"/>
+    <Elem Prompt="简易封口纸箱，俯视图" Name="简易封口纸箱，俯视图" PromptU="Simple box top view,closed" NameU="Simple box top view,closed"/>
+    <Elem Prompt="黄桶" Name="黄桶" PromptU="Yellow  barrel" NameU="Yellow  barrel"/>
+    <Elem Prompt="浴缸" Name="浴缸" PromptU="Bathtub" NameU="Bathtub"/>
+</Lib>

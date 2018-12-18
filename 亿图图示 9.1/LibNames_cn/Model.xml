@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Models">
+    <Elem Prompt="模特 1" Name="模特 1" PromptU="Model 1" NameU="Model 1"/>
+    <Elem Prompt="模特 2" Name="模特 2" PromptU="Model 2" NameU="Model 2"/>
+    <Elem Prompt="模特 3" Name="模特 3" PromptU="Model 3" NameU="Model 3"/>
+    <Elem Prompt="模特 4" Name="模特 4" PromptU="Model 4" NameU="Model 4"/>
+    <Elem Prompt="模特 5" Name="模特 5" PromptU="Model 5" NameU="Model 5"/>
+    <Elem Prompt="模特 6" Name="模特 6" PromptU="Model 6" NameU="Model 6"/>
+    <Elem Prompt="模特 7" Name="模特 7" PromptU="Model 7" NameU="Model 7"/>
+    <Elem Prompt="模特 8" Name="模特 8" PromptU="Model 8" NameU="Model 8"/>
+    <Elem Prompt="模特 9" Name="模特 9" PromptU="Model 9" NameU="Model 9"/>
+    <Elem Prompt="模特 10" Name="模特 10" PromptU="Model 10" NameU="Model 10"/>
+    <Elem Prompt="模特 11" Name="模特 11" PromptU="Model 11" NameU="Model 11"/>
+    <Elem Prompt="模特 12" Name="模特 12" PromptU="Model 12" NameU="Model 12"/>
+    <Elem Prompt="模特 13" Name="模特 13" PromptU="Model 13" NameU="Model 13"/>
+    <Elem Prompt="模特 14" Name="模特 14" PromptU="Model 14" NameU="Model 14"/>
+    <Elem Prompt="模特 15" Name="模特 15" PromptU="Model 15" NameU="Model 15"/>
+</Lib>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Profession">
+    <Elem NameU="Priest" Name="牧师" PromptU="Priest" Prompt="牧师"/>
+    <Elem NameU="Law officer" Name="检察官" PromptU="Law officer" Prompt="检察官"/>
+    <Elem NameU="Lawyer" Name="律师" PromptU="Lawyer" Prompt="律师"/>
+    <Elem NameU="Policeman" Name="警察" PromptU="Policeman" Prompt="警察"/>
+    <Elem NameU="Teacher" Name="教师" PromptU="Teacher" Prompt="教师"/>
+    <Elem NameU="Professor" Name="教授" PromptU="Professor" Prompt="教授"/>
+    <Elem NameU="Junior Student" Name="初中生" PromptU="Junior Student" Prompt="初中生"/>
+    <Elem NameU="Doctor" Name="博士" PromptU="Doctor" Prompt="博士"/>
+    <Elem NameU="Business man" Name="商人" PromptU="Business man" Prompt="商人"/>
+    <Elem NameU="Manager" Name="经理" PromptU="Manager" Prompt="经理"/>
+    <Elem NameU="Secretary" Name="秘书" PromptU="Secretary" Prompt="秘书"/>
+    <Elem NameU="Businesswoman" Name="女企业家" PromptU="Businesswoman" Prompt="女企业家"/>
+    <Elem NameU="Businessman" Name="商人" PromptU="Businessman" Prompt="商人"/>
+    <Elem NameU="Programmer" Name="程序员" PromptU="Programmer" Prompt="程序员"/>
+    <Elem NameU="Artist" Name="画家" PromptU="Artist" Prompt="画家"/>
+    <Elem NameU="Musician" Name="音乐家" PromptU="Musician" Prompt="音乐家"/>
+    <Elem NameU="Writer" Name="作家" PromptU="Writer" Prompt="作家"/>
+    <Elem NameU="Nurse" Name="护士" PromptU="Nurse" Prompt="护士"/>
+    <Elem NameU="Dentist" Name="牙医" PromptU="Dentist" Prompt="牙医"/>
+    <Elem NameU="Chef" Name="厨师" PromptU="Chef" Prompt="厨师"/>
+    <Elem NameU="Waiter" Name="侍者" PromptU="Waiter" Prompt="侍者"/>
+    <Elem NameU="Elocutionist" Name="演说家" PromptU="Elocutionist" Prompt="演说家"/>
+    <Elem NameU="Male Engineer" Name="男工程师" PromptU="Male Engineer" Prompt="男工程师"/>
+    <Elem NameU="Female Engineer" Name="女工程师" PromptU="Female Engineer" Prompt="女工程师"/>
+    <Elem NameU="Consultant" Name="顾问" PromptU="Consultant" Prompt="顾问"/>
+    <Elem NameU="Accountant" Name="会计师" PromptU="Accountant" Prompt="会计师"/>
+    <Elem NameU="Barber" Name="理发师" PromptU="Barber" Prompt="理发师"/>
+    <Elem NameU="Worker" Name="工人" PromptU="Worker" Prompt="工人"/>
+    <Elem NameU="Armyman" Name="军人" PromptU="Armyman" Prompt="军人"/>
+    <Elem NameU="Postmen" Name="邮差" PromptU="Postmen" Prompt="邮差"/>
+    <Elem NameU="Driver" Name="驾驶员" PromptU="Driver" Prompt="驾驶员"/>
+    <Elem NameU="Electric welding man" Name="电焊工" PromptU="Electric welding man" Prompt="电焊工"/>
+    <Elem NameU="Builder" Name="建筑工人" PromptU="Builder" Prompt="建筑工人"/>
+    <Elem NameU="Repairman" Name="修理工" PromptU="Repairman" Prompt="修理工"/>
+    <Elem NameU="Judgement" Name="裁判" PromptU="Judgement" Prompt="裁判"/>
+    <Elem NameU="Sportsman" Name="运动员" PromptU="Sportsman" Prompt="运动员"/>
+    <Elem NameU="Football man" Name="橄榄球运动员" PromptU="Football man" Prompt="橄榄球运动员"/>
+    <Elem NameU="Footballer" Name="足球运动员" PromptU="Footballer" Prompt="足球运动员"/>
+</Lib>

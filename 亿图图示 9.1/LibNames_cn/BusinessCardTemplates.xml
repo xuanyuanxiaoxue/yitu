@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Business Card Templates">
+    <Elem Prompt="名片 1 正面" Name="名片 1 正面" PromptU="card 1 front" NameU="card 1 front"/>
+    <Elem Prompt="名片 1 背面" Name="名片 1 背面" PromptU="card 1 background" NameU="card 1 background"/>
+    <Elem Prompt="名片 2 正面" Name="名片 2 正面" PromptU="card 2 front" NameU="card 2 front"/>
+    <Elem Prompt="card 2 background" Name="名片 2 背面" PromptU="card 2 background" NameU="card 2 background"/>
+    <Elem Prompt="名片 3 正面" Name="名片 3 正面" PromptU="card 3 front" NameU="card 3 front"/>
+    <Elem Prompt="名片 3 背面" Name="名片 3 背面" PromptU="card 3 background" NameU="card 3 background"/>
+    <Elem Prompt="名片 4 正面" Name="名片 4 正面" PromptU="card 4 front" NameU="card 4 front"/>
+    <Elem Prompt="名片 4 背面" Name="名片 4 背面" PromptU="card 4 backgruond" NameU="card 4 backgruond"/>
+    <Elem Prompt="名片 5 正面" Name="名片 5 正面" PromptU="card 5 front" NameU="card 5 front"/>
+    <Elem Prompt="名片 5 背面" Name="名片 5 背面" PromptU="card 5 background" NameU="card 5 background"/>
+    <Elem Prompt="名片 6 正面" Name="名片 6 正面" PromptU="card 6 front" NameU="card 6 front"/>
+    <Elem Prompt="名片 6 背面" Name="名片 6 背面" PromptU="card 6 background" NameU="card 6 background"/>
+    <Elem Prompt="card 7" Name="名片 7" PromptU="card 7" NameU="card 7"/>
+    <Elem Prompt="card 8" Name="名片 8" PromptU="card 8" NameU="card 8"/>
+    <Elem Prompt="名片 9 正面" Name="名片 9 正面" PromptU="card 9 front" NameU="card 9 front"/>
+    <Elem Prompt="名片 9 背面" Name="名片 9 背面" PromptU="card 9 background" NameU="card 9 background"/>
+    <Elem Prompt="名片 10 正面" Name="名片 10 正面" PromptU="card 10 front" NameU="card 10 front"/>
+    <Elem Prompt="名片 10 背面" Name="名片 10 背面" PromptU="card 10 background" NameU="card 10 background"/>
+    <Elem Prompt="名片 11 正面" Name="名片 11 正面" PromptU="card 11 front" NameU="card 11 front"/>
+    <Elem Prompt="名片 11 背面" Name="名片 11 背面" PromptU="card 11 background" NameU="card 11 background"/>
+    <Elem Prompt="名片 12" Name="名片 12" PromptU="card 12" NameU="card 12"/>
+    <Elem Prompt="名片 13" Name="名片 13" PromptU="card 13" NameU="card 13"/>
+    <Elem Prompt="名片 14" Name="名片 14" PromptU="card 14" NameU="card 14"/>
+    <Elem Prompt="名片 15" Name="名片 15" PromptU="card 15" NameU="card 15"/>
+    <Elem Prompt="名片 16" Name="名片 16" PromptU="card 16" NameU="card 16"/>
+    <Elem Prompt="名片 正面 17" Name="名片 正面 17" PromptU="card front 17" NameU="card front 17"/>
+    <Elem Prompt="名片 17 背面" Name="名片 17 背面" PromptU="card 17 background" NameU="card 17 background"/>
+    <Elem Prompt="名片 18 正面" Name="名片 18 正面" PromptU="card 18 front" NameU="card 18 front"/>
+    <Elem Prompt="名片 18 背面" Name="名片 18 背面" PromptU="card 18 background" NameU="card 18 background"/>
+    <Elem Prompt="名片 19 正面" Name="名片 19 正面" PromptU="card 19 front" NameU="card 19 front"/>
+    <Elem Prompt="名片 19 背面" Name="名片 19 背面" PromptU="card 19 background" NameU="card 19 background"/>
+    <Elem Prompt="名片 20" Name="名片 20" PromptU="card 20" NameU="card 20"/>
+    <Elem Prompt="名片 20 背面" Name="名片 20 背面" PromptU="card 20 background" NameU="card 20 background"/>
+    <Elem Prompt="名片 21" Name="名片 21" PromptU="card 21" NameU="card 21"/>
+    <Elem Prompt="名片 21 背面" Name="名片 21 背面" PromptU="card 21 background" NameU="card 21 background"/>
+    <Elem Prompt="名片 22 正面" Name="名片 22 正面" PromptU="card 22 front" NameU="card 22 front"/>
+    <Elem Prompt="名片 22 背面" Name="名片 22 背面" PromptU="card 22 background" NameU="card 22 background"/>
+    <Elem Prompt="名片 23" Name="名片 23" PromptU="card 23" NameU="card 23"/>
+    <Elem Prompt="名片 24 正面" Name="名片 24 正面" PromptU="card 24 front" NameU="card 24 front"/>
+    <Elem Prompt="名片 25" Name="名片 25" PromptU="card 25" NameU="card 25"/>
+    <Elem Prompt="名片 24 背面" Name="名片 24 背面" PromptU="card 24 background" NameU="card 24 background"/>
+    <Elem Prompt="名片 26 正面" Name="名片 26 正面" PromptU="card 26 front" NameU="card 26 front"/>
+    <Elem Prompt="名片 26 背面" Name="名片 26 背面" PromptU="card 26 background" NameU="card 26 background"/>
+    <Elem Prompt="名片 27 正面" Name="名片 27 正面" PromptU="card 27 front" NameU="card 27 front"/>
+    <Elem Prompt="名片 27 背面" Name="名片 27 背面" PromptU="card 27 background" NameU="card 27 background"/>
+    <Elem Prompt="名片 28 背面" Name="名片 28 背面" PromptU="card 28 background" NameU="card 28 background"/>
+    <Elem Prompt="名片 28 正面" Name="名片 28 正面" PromptU="card 28 front" NameU="card 28 front"/>
+    <Elem Prompt="名片 29" Name="名片 29" PromptU="card 29" NameU="card 29"/>
+    <Elem Prompt="名片 30" Name="名片 30" PromptU="card 30" NameU="card 30"/>
+    <Elem Prompt="名片 31 正面" Name="名片 31 正面" PromptU="card 31 front" NameU="card 31 front"/>
+    <Elem Prompt="名片 31 背面" Name="名片 31 背面" PromptU="card 31 background" NameU="card 31 background"/>
+    <Elem Prompt="名片 32" Name="名片 32" PromptU="card 32" NameU="card 32"/>
+    <Elem Prompt="名片 32 正面" Name="名片 32 正面" PromptU="card 32 front" NameU="card 32 front"/>
+    <Elem Prompt="名片 33 正面" Name="名片 33 正面" PromptU="card 33 front" NameU="card 33 front"/>
+    <Elem Prompt="名片 33 背面" Name="名片 33 背面" PromptU="card 33 background" NameU="card 33 background"/>
+    <Elem Prompt="名片 34" Name="名片 34" PromptU="card 34" NameU="card 34"/>
+    <Elem Prompt="名片 35" Name="名片 35" PromptU="card 35" NameU="card 35"/>
+    <Elem Prompt="名片 36" Name="名片 36" PromptU="card 36" NameU="card 36"/>
+    <Elem Prompt="名片 37" Name="名片 37" PromptU="card 37" NameU="card 37"/>
+    <Elem Prompt="名片 38" Name="名片 38" PromptU="card 38" NameU="card 38"/>
+    <Elem Prompt="名片 39" Name="名片 39" PromptU="card 39" NameU="card 39"/>
+    <Elem Prompt="名片 40" Name="名片 40" PromptU="card 40" NameU="card 40"/>
+    <Elem Prompt="名片 41" Name="名片 41" PromptU="card 41" NameU="card 41"/>
+    <Elem Prompt="名片 42" Name="名片 42" PromptU="card 42" NameU="card 42"/>
+    <Elem Prompt="名片 43" Name="名片 43" PromptU="card 43" NameU="card 43"/>
+    <Elem Prompt="名片 44" Name="名片 44" PromptU="card 44" NameU="card 44"/>
+    <Elem Prompt="名片 45" Name="名片 45" PromptU="card 45" NameU="card 45"/>
+    <Elem Prompt="名片 45 正面" Name="名片 45 正面" PromptU="card 45 front" NameU="card 45 front"/>
+    <Elem Prompt="名片 46" Name="名片 46" PromptU="card 46" NameU="card 46"/>
+    <Elem Prompt="名片 47" Name="名片 47" PromptU="card 47" NameU="card 47"/>
+    <Elem Prompt="名片 48" Name="名片 48" PromptU="card 48" NameU="card 48"/>
+    <Elem Prompt="名片 50" Name="名片 50" PromptU="card 50" NameU="card 50"/>
+    <Elem Prompt="名片 49" Name="名片 49" PromptU="card 49" NameU="card 49"/>
+    <Elem Prompt="名片 51 正面" Name="名片 51 正面" PromptU="card 51 front" NameU="card 51 front"/>
+    <Elem Prompt="名片 51 背面" Name="名片 51 背面" PromptU="card 51 background" NameU="card 51 background"/>
+    <Elem Prompt="名片 52 正面" Name="名片 52 正面" PromptU="card 52 front" NameU="card 52 front"/>
+    <Elem Prompt="名片 52 背面" Name="名片 52 背面" PromptU="card 52 background" NameU="card 52 background"/>
+    <Elem Prompt="名片 53" Name="名片 53" PromptU="card 53" NameU="card 53"/>
+    <Elem Prompt="名片 54" Name="名片 54" PromptU="card 54" NameU="card 54"/>
+    <Elem Prompt="名片 55" Name="名片 55" PromptU="card 55" NameU="card 55"/>
+    <Elem Prompt="名片 56" Name="名片 56" PromptU="card 56" NameU="card 56"/>
+    <Elem Prompt="名片 57" Name="名片 57" PromptU="card 57" NameU="card 57"/>
+    <Elem Prompt="名片 58" Name="名片 58" PromptU="card 58" NameU="card 58"/>
+    <Elem Prompt="名片 59" Name="名片 59" PromptU="card 59" NameU="card 59"/>
+    <Elem Prompt="名片 60" Name="名片 60" PromptU="card 60" NameU="card 60"/>
+    <Elem Prompt="名片 61" Name="名片 61" PromptU="card 61" NameU="card 61"/>
+    <Elem Prompt="名片 62" Name="名片 62" PromptU="card 62" NameU="card 62"/>
+    <Elem Prompt="名片 62 背面" Name="名片 62 背面" PromptU="card 62 background" NameU="card 62 background"/>
+    <Elem Prompt="card 63 " Name="card 63 " PromptU="card 63 " NameU="card 63 "/>
+    <Elem Prompt="名片 64" Name="名片 64" PromptU="card 64" NameU="card 64"/>
+    <Elem Prompt="名片 65" Name="名片 65" PromptU="card 65" NameU="card 65"/>
+    <Elem Prompt="名片 67" Name="名片 67" PromptU="card 67" NameU="card 67"/>
+    <Elem Prompt="名片 68" Name="名片 68" PromptU="card 68" NameU="card 68"/>
+    <Elem Prompt="名片 69 正面" Name="名片 69 正面" PromptU="card 69 front" NameU="card 69 front"/>
+    <Elem Prompt="名片 66" Name="名片 66" PromptU="card 66" NameU="card 66"/>
+    <Elem Prompt="名片 69 背面" Name="名片 69 背面" PromptU="card 69 background" NameU="card 69 background"/>
+    <Elem Prompt="名片 70" Name="名片 70" PromptU="card 70" NameU="card 70"/>
+    <Elem Prompt="名片 71" Name="名片 71" PromptU="card 71" NameU="card 71"/>
+    <Elem Prompt="名片 72 正面" Name="名片 72 正面" PromptU="card 72 front" NameU="card 72 front"/>
+    <Elem Prompt="名片 72 背面" Name="名片 72 背面" PromptU="card 72 background" NameU="card 72 background"/>
+    <Elem Prompt="名片 73" Name="名片 73" PromptU="card 73" NameU="card 73"/>
+    <Elem Prompt="名片 74" Name="名片 74" PromptU="card 74" NameU="card 74"/>
+    <Elem Prompt="名片 75" Name="名片 75" PromptU="card 75" NameU="card 75"/>
+    <Elem Prompt="名片 76" Name="名片 76" PromptU="card 76" NameU="card 76"/>
+    <Elem Prompt="名片 77" Name="名片 77" PromptU="card 77" NameU="card 77"/>
+    <Elem Prompt="名片 78" Name="名片 78" PromptU="card 78" NameU="card 78"/>
+    <Elem Prompt="名片 79" Name="名片 79" PromptU="card 79" NameU="card 79"/>
+    <Elem Prompt="名片 80" Name="名片 80" PromptU="card 80" NameU="card 80"/>
+    <Elem Prompt="名片 81" Name="名片 81" PromptU="card 81" NameU="card 81"/>
+    <Elem Prompt="名片 82" Name="名片 82" PromptU="card 82" NameU="card 82"/>
+    <Elem Prompt="名片 83" Name="名片 83" PromptU="card 83" NameU="card 83"/>
+</Lib>

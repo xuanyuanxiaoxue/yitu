@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Highlight Shapes">
+    <Elem Prompt="矩形" Name="矩形" PromptU="Rectangle" NameU="Rectangle"/>
+    <Elem Prompt="矩形" Name="矩形 2" PromptU="Rectangle" NameU="Rectangle 2"/>
+    <Elem Prompt="矩形" Name="矩形 3" PromptU="Rectangle" NameU="Rectangle 3"/>
+    <Elem Prompt="矩形" Name="矩形 4" PromptU="Rectangle" NameU="Rectangle 4"/>
+    <Elem Prompt="圆角矩形" Name="圆角矩形" PromptU="Round-head Rectangle" NameU="Round-head Rectangle"/>
+    <Elem Prompt="平行四边形" Name="平行四边形" PromptU="Parallelogram" NameU="Parallelogram"/>
+    <Elem Prompt="菱形" Name="菱形" PromptU="Diamond" NameU="Diamond"/>
+    <Elem Prompt="V形" Name="V形" PromptU="Chevron" NameU="Chevron"/>
+    <Elem Prompt="椭圆" Name="椭圆" PromptU="Ellipse" NameU="Ellipse"/>
+    <Elem Prompt="圆形" Name="圆形" PromptU="Circle" NameU="Circle"/>
+    <Elem Prompt="圆形" Name="圆形 2" PromptU="Circle" NameU="Circle 2"/>
+    <Elem Prompt="星形" Name="星形" PromptU="Star" NameU="Star"/>
+    <Elem Prompt="六角形" Name="六角形" PromptU="Hexagon" NameU="Hexagon"/>
+    <Elem Prompt="五瓣花" Name="五瓣花" PromptU="Pentagon Flower" NameU="Pentagon Flower"/>
+    <Elem Prompt="雪花" Name="雪花" PromptU="Snowflake" NameU="Snowflake"/>
+    <Elem Prompt="心" Name="心" PromptU="Heart" NameU="Heart"/>
+    <Elem Prompt="黑桃（蓝色）" Name="黑桃（蓝色）" PromptU="Spade" NameU="Spade"/>
+    <Elem Prompt="梅花" Name="梅花" PromptU="Clubs" NameU="Clubs"/>
+    <Elem Prompt="气球" Name="气球" PromptU="Balloon" NameU="Balloon"/>
+    <Elem Prompt="三个气球" Name="三个气球" PromptU="Balloons" NameU="Balloons"/>
+    <Elem Prompt="爆炸星形" Name="爆炸星形" PromptU="Star burst" NameU="Star Burst"/>
+    <Elem Prompt="炸弹" Name="炸弹" PromptU="Bomb" NameU="Bomb"/>
+    <Elem Prompt="云朵" Name="云朵" PromptU="Cloud" NameU="Cloud"/>
+    <Elem Prompt="云朵" Name="云朵 2" PromptU="Cloud" NameU="Cloud 2"/>
+    <Elem Prompt="圆形" Name="云朵 3" PromptU="Circle" NameU="Circle 3"/>
+    <Elem Prompt="圆形" Name="云朵 4" PromptU="Circle" NameU="Circle 4"/>
+    <Elem Prompt="箭头" Name="箭头" PromptU="Arrow" NameU="Arrow"/>
+    <Elem Prompt="箭头" Name="箭头 2" PromptU="Arrow" NameU="Arrow 2"/>
+    <Elem Prompt="四向椭圆标注" Name="椭圆标注" PromptU="Four directions balloon" NameU="Ellipse balloon"/>
+    <Elem Prompt="动态方向矩形标注" Name="矩形标注" PromptU="Rectangle balloon with all directions" NameU="Rectangle balloon"/>
+    <Elem Prompt="脚印" Name="脚印" PromptU="Feet" NameU="Feet"/>
+    <Elem Prompt="动物脚印" Name="动物脚印" PromptU="Animal Feet" NameU="Animal Feet"/>
+    <Elem Prompt="男人" Name="男人" PromptU="Male" NameU="Male"/>
+    <Elem Prompt="女人" Name="女人" PromptU="Female" NameU="Female"/>
+    <Elem Prompt="勾" Name="勾" PromptU="Tick" NameU="Tick"/>
+    <Elem Prompt="叉" Name="叉" PromptU="Cross" NameU="Cross"/>
+    <Elem Prompt="曲线连接线" Name="曲线连接线" PromptU="Curve Connector 1" NameU="Curve Connector 1"/>
+    <Elem Prompt="曲线连接线" Name="曲线连接线 2" PromptU="Curve Connector 2" NameU="Curve Connector 2"/>
+</Lib>

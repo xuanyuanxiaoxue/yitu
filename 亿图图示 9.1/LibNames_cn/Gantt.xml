@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Gantt">
+    <Elem Prompt="数据源例子" Name="数据源例子" PromptU="Data Source Example" NameU="Data Source Example"/>
+    <Elem Prompt="甘特图" Name="甘特图" PromptU="Gantt" NameU="Gantt"/>
+    <Elem Prompt="白背景甘特图" Name="白背景甘特图" PromptU="Gantt-White" NameU="Gantt-White"/>
+    <Elem Prompt="灰色背景甘特图" Name="灰色背景甘特图" PromptU="Gantt-Gray" NameU="Gantt-Gray"/>
+</Lib>

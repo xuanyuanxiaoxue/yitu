@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="LDAP Objects">
+    <Elem Prompt="国家" Name="国家" PromptU="Country" NameU="Country"/>
+    <Elem Prompt="组织" Name="组织" PromptU="Organization" NameU="Organization"/>
+    <Elem Prompt="组织单元" Name="组织单元" PromptU="Organizational unit" NameU="Organizational unit"/>
+    <Elem Prompt="地点" Name="地点" PromptU="Locality" NameU="Locality"/>
+    <Elem Prompt="别名" Name="别名" PromptU="Alias" NameU="Alias"/>
+    <Elem Prompt="人" Name="人" PromptU="Person" NameU="Person"/>
+    <Elem Prompt="inetOrg 人" Name="inetOrg 人" PromptU="inetOrg Person" NameU="inetOrg Person"/>
+    <Elem Prompt="组织人" Name="组织人" PromptU="Organizational person" NameU="Organizational person"/>
+    <Elem Prompt="居民" Name="居民" PromptU="Residential person" NameU="Residential person"/>
+    <Elem Prompt="组织角色" Name="组织角色" PromptU="Organizational role" NameU="Organizational role"/>
+    <Elem Prompt="名称组" Name="名称组" PromptU="Group of names" NameU="Group of names"/>
+    <Elem Prompt="唯一名称组" Name="唯一名称组" PromptU="Group of unique names" NameU="Group of unique names"/>
+    <Elem Prompt="设备" Name="设备" PromptU="Device" NameU="Device"/>
+    <Elem Prompt="cRL 分布点" Name="cRL 分布点" PromptU="cRL distribution point" NameU="cRL distribution point"/>
+    <Elem Prompt="dSA" Name="dSA" PromptU="dSA" NameU="dSA"/>
+    <Elem Prompt="dmd" Name="dmd" PromptU="dmd" NameU="dmd"/>
+    <Elem Prompt="应用程序实体" Name="应用程序实体" PromptU="Application entity" NameU="Application entity"/>
+    <Elem Prompt="应用程序流程" Name="应用程序流程" PromptU="Application process" NameU="Application process"/>
+    <Elem Prompt="未知" Name="未知" PromptU="Unknow" NameU="Unknow"/>
+    <Elem Prompt="一般对象" Name="一般对象" PromptU="Generic object" NameU="Generic object"/>
+    <Elem Prompt="目录连接线" Name="目录连接线" PromptU="Directory Connector" NameU="Directory Connector"/>
+</Lib>

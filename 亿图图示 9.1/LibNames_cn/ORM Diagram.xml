@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="ORM Diagram">
+    <Elem Prompt="实体" Name="实体" PromptU="Entity" NameU="Entity"/>
+    <Elem Prompt="值" Name="值" PromptU="Value" NameU="Value"/>
+    <Elem Prompt="一元" Name="一元" PromptU="Unary" NameU="Unary"/>
+    <Elem Prompt="两元" Name="两元" PromptU="Binary" NameU="Binary"/>
+    <Elem Prompt="垂直两元" Name="垂直两元" PromptU="Vertical binary" NameU="Vertical binary"/>
+    <Elem Prompt="三元" Name="三元" PromptU="Ternary" NameU="Ternay"/>
+    <Elem Prompt="四元" Name="四元" PromptU="Quaternary" NameU="Quaternary"/>
+    <Elem Prompt="排斥约束" Name="排斥约束" PromptU="Exclusion constraint" NameU="Exclusion constraint"/>
+    <Elem Prompt="外部频率约束" Name="外部频率约束" PromptU="Ext.Freq.constraint" NameU="Ext.Freq.constraint"/>
+    <Elem Prompt="频率约束" Name="频率约束" PromptU="Frequency constraint" NameU="Frequency constraint"/>
+    <Elem Prompt="索引批注" Name="索引批注" PromptU="Index annotation" NameU="Index annotation"/>
+    <Elem Prompt="外部主要约束" Name="外部主要约束" PromptU="Ext.P constraint" NameU="Ext.P constraint"/>
+    <Elem Prompt="强制约束" Name="强制约束" PromptU="Mandatory constraint" NameU="Mandatory constraint"/>
+    <Elem Prompt="外部强制约束" Name="外部强制约束" PromptU="Ext.Mand constraint" NameU="Ext.Mand constraint"/>
+    <Elem Prompt="外部唯一约束" Name="外部唯一约束" PromptU="Ext.Uniq constraint" NameU="Ext.Uniq constraint"/>
+    <Elem Prompt="约束连接线" Name="约束连接线" PromptU="constraint connector" NameU="constraint connector"/>
+    <Elem Prompt="等式约束" Name="等式约束" PromptU="Equality constraint" NameU="Equality constraint"/>
+    <Elem Prompt="主要约束" Name="主要约束" PromptU="P constraint" NameU="P constraint"/>
+    <Elem Prompt="循环约束" Name="循环约束" PromptU="Ring constraint" NameU="Ring constraint"/>
+    <Elem Prompt="子集约束" Name="子集约束" PromptU="Subset constraint" NameU="Subset constraint"/>
+    <Elem Prompt="强制角色连接线" Name="强制角色连接线" PromptU="Mand.Role connector" NameU="Mand.Role connector"/>
+    <Elem Prompt="角色连接线" Name="角色连接线" PromptU="Role connector" NameU="Role connector"/>
+    <Elem Prompt="子类型连接线" Name="子类型连接线" PromptU="Subtype connector" NameU="Subtype connector"/>
+    <Elem Prompt="左唯一性连接线" Name="左唯一性连接线" PromptU="Left uniqueness constranit" NameU="Left uniqueness constranit"/>
+    <Elem Prompt="唯一性约束" Name="唯一性约束" PromptU="Uniqueness constraint" NameU="Uniqueness constraint"/>
+    <Elem Prompt="中间唯一性约束" Name="中间唯一性约束" PromptU="Middle uniqueness constraint" NameU="Middle uniqueness constraint"/>
+    <Elem Prompt="右唯一性约束" Name="右唯一性约束" PromptU="Right uniqueness constraint" NameU="Right uniqueness constraint"/>
+</Lib>

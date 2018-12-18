@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="3D People Pictogram">
+    <Elem NameU="Man Dolly 1" Name="男娃娃1" PromptU="Man Dolly 1" Prompt="男娃娃1"/>
+    <Elem NameU="Woman Dolly 1" Name="女娃娃1" PromptU="Woman Dolly 1" Prompt="女娃娃1"/>
+    <Elem NameU="Man Dolly 2" Name="男娃娃2" PromptU="Man Dolly 2" Prompt="男娃娃2"/>
+    <Elem NameU="Woman Dolly 2" Name="女娃娃2" PromptU="Woman Dolly 2" Prompt="女娃娃2"/>
+    <Elem NameU="Dolly with Speaker" Name="有喇叭的娃娃" PromptU="Dolly with Speaker" Prompt="有喇叭的娃娃"/>
+    <Elem NameU="Boy Dolly" Name="男童娃娃" PromptU="Boy Dolly" Prompt="男童娃娃"/>
+    <Elem NameU="Girl Dolly" Name="女童娃娃" PromptU="Girl Dolly" Prompt="女童娃娃"/>
+    <Elem NameU="Man Dolly 3" Name="男娃娃3" PromptU="Man Dolly 3" Prompt="男娃娃3"/>
+    <Elem NameU="Woman Dolly 3" Name="女娃娃3" PromptU="Woman Dolly 3" Prompt="女娃娃3"/>
+    <Elem NameU="Team 1" Name="团队1" PromptU="Team 1" Prompt="团队1"/>
+    <Elem NameU="Figure" Name="人像" PromptU="Figure" Prompt="人像"/>
+    <Elem NameU="Turned Figure" Name="侧身人像" PromptU="Turned Figure" Prompt="侧身人像"/>
+    <Elem NameU="Communication" Name="交谈" PromptU="Communication" Prompt="交谈"/>
+    <Elem NameU="Team 2" Name="团队2" PromptU="Team 2" Prompt="团队2"/>
+</Lib>

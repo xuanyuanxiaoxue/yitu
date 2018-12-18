@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Azure Deprecated">
+    <Elem NameU="Azure App Service - Logic App" Name="Azure逻辑应用" PromptU="Azure App Service - Logic App" Prompt="Azure逻辑应用"/>
+    <Elem NameU="Azure Application Gateway v1 OLD" Name="Azure应用程序网关旧版" PromptU="Azure Application Gateway v1 OLD" Prompt="Azure应用程序网关旧版"/>
+    <Elem NameU="Azure Batch" Name="Azure Batch云计算服务" PromptU="Azure Batch" Prompt="Azure Batch云计算服务"/>
+    <Elem NameU="Azure Bot" Name="Azure聊天机器人" PromptU="Azure Bot" Prompt="Azure聊天机器人"/>
+    <Elem NameU="Azure Content Delivery Network (CDN) v1_OLD" Name="Azure CDN内容传输网络旧版" PromptU="Azure Content Delivery Network (CDN) v1_OLD" Prompt="Azure CDN内容传输网络旧版"/>
+    <Elem NameU="Azure Machine Learning" Name="Azure机器学习" PromptU="Azure Machine Learning" Prompt="Azure机器学习"/>
+    <Elem NameU="Azure Notification Hubs- Notification Topic" Name="Azure通知中心" PromptU="Azure Notification Hubs- Notification Topic" Prompt="Azure通知中心"/>
+    <Elem NameU="Compute" Name="计算" PromptU="Compute" Prompt="计算"/>
+    <Elem NameU="Data Lake BEN" Name="数据湖柱" PromptU="Data Lake BEN" Prompt="数据湖柱"/>
+    <Elem NameU="Datalake Analytics BEN" Name="数据湖分析柱" PromptU="Datalake Analytics BEN" Prompt="数据湖分析柱"/>
+    <Elem NameU="Datalake Store BEN" Name="数据湖存储柱" PromptU="Datalake Store BEN" Prompt="数据湖存储柱"/>
+    <Elem NameU="Data Services" Name="数据服务" PromptU="Data Services" Prompt="数据服务"/>
+    <Elem NameU="DataWarehouse" Name="数据仓" PromptU="DataWarehouse" Prompt="数据仓"/>
+    <Elem NameU="Service Bus Old" Name="消息服务旧版" PromptU="Service Bus Old" Prompt="消息服务旧版"/>
+    <Elem NameU="Service Bus Queue Old" Name="消息服务队列" PromptU="Service Bus Queue Old" Prompt="消息服务队列"/>
+    <Elem NameU="Service Bus Relay Old" Name="消息服务中继" PromptU="Service Bus Relay Old" Prompt="消息服务中继"/>
+    <Elem NameU="Service Bus Topic Old" Name="消息服务主题" PromptU="Service Bus Topic Old" Prompt="消息服务主题"/>
+    <Elem NameU="Service Package" Name="服务程序包" PromptU="Service Package" Prompt="服务程序包"/>
+    <Elem NameU="SQL Data Warehouse" Name="SQL数据仓" PromptU="SQL Data Warehouse" Prompt="SQL数据仓"/>
+    <Elem NameU="SQL Reporting" Name="SQL报告" PromptU="SQL Reporting" Prompt="SQL报告"/>
+    <Elem NameU="SQL Stretch Database (DB)" Name="SQL拉伸数据库" PromptU="SQL Stretch Database (DB)" Prompt="SQL拉伸数据库"/>
+</Lib>

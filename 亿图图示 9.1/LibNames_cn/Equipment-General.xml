@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Equipment - General">
+    <Elem Prompt="交叉流动" Name="交叉流动" PromptU="Crossflow inducted draft" NameU="Crossflow inducted draft"/>
+    <Elem Prompt="强制逆流" Name="强制逆流" PromptU="Counterflow forced draft" NameU="Counterflow forced draft"/>
+    <Elem Prompt="双曲线型烟囱" Name="双曲线型烟囱" PromptU="Chimney tower hyperbolic" NameU="Chimney tower hyperbolic"/>
+    <Elem Prompt="火炉" Name="火炉" PromptU="Furnace" NameU="Furnace"/>
+    <Elem Prompt="板式塔" Name="板式塔" PromptU="Plate tower" NameU="Plate tower"/>
+    <Elem Prompt="填料塔" Name="填料塔" PromptU="Packed tower" NameU="Packed tower"/>
+    <Elem Prompt="加氢裂化" Name="加氢裂化" PromptU="Hydrocracking" NameU="Hydrocracking"/>
+    <Elem Prompt="加氢裂化" Name="加氢裂化" PromptU="Hydrodesulfurization" NameU="Hydrodesulfurization"/>
+    <Elem Prompt="裂化炉" Name="裂化炉" PromptU="Reformer" NameU="Reformer"/>
+    <Elem Prompt="流化床催化裂解" Name="流化床催化裂解" PromptU="Fluid catalytic cracking" NameU="Fluid catalytic cracking"/>
+    <Elem Prompt="流态化炼焦" Name="流态化炼焦" PromptU="Fluid coking" NameU="Fluid coking"/>
+    <Elem Prompt="管状的" Name="管状的" PromptU="Tubular" NameU="Tubular"/>
+    <Elem Prompt="流化反应器" Name="流化反应器" PromptU="Fluidized reactor" NameU="Fluidized reactor"/>
+    <Elem Prompt="烃化" Name="烃化" PromptU="Alkylation" NameU="Alkylation"/>
+    <Elem Prompt="断路器" Name="断路器" PromptU="Breaker" NameU="Breaker"/>
+    <Elem Prompt="压碎机" Name="压碎机" PromptU="Crusher" NameU="Crusher"/>
+    <Elem Prompt="强制通风冷却塔" Name="强制通风冷却塔" PromptU="Forced-draft cooling tower" NameU="Forced-draft cooling tower"/>
+    <Elem Prompt="压块机" Name="压块机" PromptU="Briquetting machine" NameU="Briquetting machine"/>
+    <Elem Prompt="冷凝器" Name="冷凝器" PromptU="Condenser" NameU="Condenser"/>
+    <Elem Prompt="蒸发冷凝器" Name="蒸发冷凝器" PromptU="Evaporative condenser" NameU="Evaporative condenser"/>
+    <Elem Prompt="火炉" Name="火炉" PromptU="Furnace" NameU="Furnace"/>
+    <Elem Prompt="旋风分离器" Name="旋风分离器" PromptU="Cyclone" NameU="Cyclone"/>
+    <Elem Prompt="烘干机" Name="烘干机" PromptU="Dryer" NameU="Dryer"/>
+    <Elem Prompt="烘干机 2" Name="烘干机 2" PromptU="Dryer 2" NameU="Dryer 2"/>
+    <Elem Prompt="搅拌机" Name="搅拌机" PromptU="Mixer" NameU="Mixer"/>
+    <Elem Prompt="多种搅拌机" Name="多种搅拌机" PromptU="Various mixers" NameU="Various mixers"/>
+    <Elem Prompt="多种搅拌机" Name="多种搅拌机" PromptU="Various mixers" NameU="Various mixers"/>
+    <Elem Prompt="多种搅拌机 2" Name="多种搅拌机 2" PromptU="Various mixers 2" NameU="Various mixers 2"/>
+    <Elem Prompt="搅拌机或混合器" Name="搅拌机或混合器" PromptU="Agitator or mixer" NameU="Agitator or mixer"/>
+    <Elem Prompt="粉碎机" Name="粉碎机" PromptU="Crushers" NameU="Crushers"/>
+    <Elem Prompt="磨粉机" Name="磨粉机" PromptU="Mill" NameU="Mill"/>
+    <Elem Prompt="多种磨粉机" Name="多种磨粉机" PromptU="Various mills" NameU="Various mills"/>
+    <Elem Prompt="面团捏和机" Name="面团捏和机" PromptU="Kneader" NameU="Kneader"/>
+    <Elem Prompt="搅拌机" Name="搅拌机" PromptU="Blender" NameU="Blender"/>
+    <Elem Prompt="液体分离器" Name="液体分离器" PromptU="Fluid separators" NameU="Fluid separators"/>
+    <Elem Prompt="过滤器" Name="过滤器" PromptU="Filter" NameU="Filter"/>
+    <Elem Prompt="过滤器 2" Name="过滤器 2" PromptU="Filter 2" NameU="Filter 2"/>
+    <Elem Prompt="旋转过滤器" Name="旋转过滤器" PromptU="Rotary filter" NameU="Rotary filter"/>
+    <Elem Prompt="污水处理" Name="污水处理" PromptU="Wastewater treatment" NameU="Wastewater treatment"/>
+    <Elem Prompt="空气分离器" Name="空气分离器" PromptU="Air separator" NameU="Air separator"/>
+    <Elem Prompt="电磁体" Name="电磁体" PromptU="Electromagnet" NameU="Electromagnet"/>
+    <Elem Prompt="离心机" Name="离心机" PromptU="Centrifuge" NameU="Centrifuge"/>
+    <Elem Prompt="锤式破碎机" Name="锤式破碎机" PromptU="Hammer crusher" NameU="Hammer crusher"/>
+    <Elem Prompt="多种捏合机" Name="多种捏合机" PromptU="Various kneaders" NameU="Various kneaders"/>
+    <Elem Prompt="筛" Name="筛" PromptU="Screen" NameU="Screen"/>
+    <Elem Prompt="转臂式装载机" Name="转臂式装载机" PromptU="Boom loader" NameU="Boom loader"/>
+    <Elem Prompt="自动加煤机" Name="自动加煤机" PromptU="Automatic stoker" NameU="Automatic stoker"/>
+    <Elem Prompt="电动机" Name="电动机" PromptU="Electric motor" NameU="Electric motor"/>
+    <Elem Prompt="运输" Name="运输" PromptU="Transport" NameU="Transport"/>
+</Lib>

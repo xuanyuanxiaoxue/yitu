@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Bar">
+    <Elem Prompt="如何使用条形图" Name="如何使用条形图" PromptU="How to use Bar" NameU="How to use Bar"/>
+    <Elem Prompt="简单条形图" Name="简单条形图" PromptU="Simple Bar" NameU="Simple Bar"/>
+    <Elem Prompt="渐变色条形图" Name="渐变色条形图" PromptU="Gradient Bar" NameU="Gradient Bar"/>
+    <Elem Prompt="单系列条形图" Name="单系列条形图" PromptU="Single Series Bar" NameU="Single Series Bar"/>
+    <Elem Prompt="条形图" Name="条形图" PromptU="Bar" NameU="Bar"/>
+    <Elem Prompt="条形图 - 斜面样式" Name="条形图2" PromptU="Bar - bevel style" NameU="Bar 2"/>
+    <Elem Prompt="3D条形图" Name="3D条形图" PromptU="3D Bar" NameU="3D Bar"/>
+    <Elem Prompt="圆柱条形图" Name="圆柱条形图" PromptU="Cylinder Bar" NameU="Cylinder Bar"/>
+    <Elem Prompt="堆积条形图" Name="堆积条形图" PromptU="Stacked Bar" NameU="Stacked Bar"/>
+    <Elem Prompt="堆积条形图 - 斜面样式" Name="堆积条形图2" PromptU="Stacked Bar - bevel style" NameU="Stacked Bar 2"/>
+    <Elem Prompt="3D堆积条形图" Name="3D堆积条形图" PromptU="3D Stacked Bar" NameU="3D Stacked Bar"/>
+    <Elem Prompt="堆积圆柱条形图" Name="堆积圆柱条形图" PromptU="Stacked Cylinder Bar" NameU="Stacked Cylinder Bar"/>
+    <Elem Prompt="百分比堆积条形图" Name="百分比堆积条形图" PromptU="100% Stacked Bar" NameU="100% Stacked Bar"/>
+    <Elem Prompt="百分比堆积条形图 - 斜面样式" Name="百分比堆积条形图2" PromptU="100% Stacked Bar - bevel style" NameU="100% Stacked Bar 2"/>
+    <Elem Prompt="3D百分比堆积条形图" Name="3D百分比堆积条形图" PromptU="3D 100% Stacked Bar" NameU="3D 100% Stacked Bar"/>
+    <Elem Prompt="百分比堆积圆柱条形图" Name="百分比堆积圆柱条形图" PromptU="100% Stacked Cylinder Bar" NameU="100% Stacked Cylinder Bar"/>
+    <Elem Prompt="单条条形图" Name="单条条形图" PromptU="Single Bar" NameU="Single Bar"/>
+</Lib>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Conceptual Website Shapes">
+    <Elem Prompt="主页" Name="主页" PromptU="Main page" NameU="Main page"/>
+    <Elem Prompt="网页" Name="网页" PromptU="Page" NameU="Page"/>
+    <Elem Prompt="网页（多页）" Name="网页（多页）" PromptU="Pages" NameU="Pages"/>
+    <Elem Prompt="外部网页" Name="外部网页" PromptU="External page" NameU="External page"/>
+    <Elem Prompt="页面元素" Name="页面元素" PromptU="Page element" NameU="Page element"/>
+    <Elem Prompt="页面元素" Name="页面元素" PromptU="Page elements" NameU="Page elements"/>
+    <Elem Prompt="外部页面元素" Name="外部页面元素" PromptU="External page element" NameU="External page element"/>
+    <Elem Prompt="服务" Name="服务" PromptU="Service" NameU="Service"/>
+    <Elem Prompt="数据库" Name="数据库" PromptU="Database" NameU="Database"/>
+    <Elem Prompt="弹出窗口" Name="弹出窗口" PromptU="Popup" NameU="Popup"/>
+    <Elem Prompt="表格" Name="表格" PromptU="Form" NameU="Form"/>
+    <Elem Prompt="云" Name="云" PromptU="Cloud" NameU="Cloud"/>
+    <Elem Prompt="相关网页" Name="相关网页" PromptU="Related pages" NameU="Related pages"/>
+    <Elem Prompt="动态连接点" Name="动态连接点" PromptU="Dynamic connector" NameU="Dynamic connector"/>
+    <Elem Prompt="主页" Name="主页" PromptU="Home page" NameU="Home page"/>
+    <Elem Prompt="页面跳转" Name="页面跳转" PromptU="Page jump" NameU="Page jump"/>
+    <Elem Prompt="网关" Name="网关" PromptU="Gateway" NameU="Gateway"/>
+    <Elem Prompt="关键路径" Name="关键路径" PromptU="Keypath" NameU="Keypath"/>
+</Lib>

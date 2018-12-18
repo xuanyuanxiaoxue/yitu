@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Europe">
+    <Elem Prompt="阿尔巴利亚" Name="阿尔巴利亚" PromptU="Albania" NameU="Albania"/>
+    <Elem Prompt="奥地利" Name="奥地利" PromptU="Austria" NameU="Austria"/>
+    <Elem Prompt="白俄罗斯" Name="白俄罗斯" PromptU="Belarus" NameU="Belarus"/>
+    <Elem Prompt="比利时" Name="比利时" PromptU="Belgium" NameU="Belgium"/>
+    <Elem Prompt="波黑" Name="波黑" PromptU="Bosnia and Herzegovina" NameU="Bosnia and Herzegovina"/>
+    <Elem Prompt="保加利亚" Name="保加利亚" PromptU="Bulgaria" NameU="Bulgaria"/>
+    <Elem Prompt="克罗地亚" Name="克罗地亚" PromptU="Croatia" NameU="Croatia"/>
+    <Elem Prompt="捷克共和国" Name="捷克共和国" PromptU="Czech Republic" NameU="Czech Republic"/>
+    <Elem Prompt="丹麦" Name="丹麦" PromptU="Denmark" NameU="Denmark"/>
+    <Elem Prompt="爱沙尼亚" Name="爱沙尼亚" PromptU="Estonia" NameU="Estonia"/>
+    <Elem Prompt="芬兰" Name="芬兰" PromptU="Finland" NameU="Finland"/>
+    <Elem Prompt="法国" Name="法国" PromptU="France" NameU="France"/>
+    <Elem Prompt="德国" Name="德国" PromptU="Germany" NameU="Germany"/>
+    <Elem Prompt="希腊" Name="希腊" PromptU="Greece" NameU="Greece"/>
+    <Elem Prompt="匈牙利" Name="匈牙利" PromptU="Hungary" NameU="Hungary"/>
+    <Elem Prompt="爱尔兰" Name="爱尔兰" PromptU="Ireland" NameU="Ireland"/>
+    <Elem Prompt="冰岛" Name="冰岛" PromptU="Iceland" NameU="Iceland"/>
+    <Elem Prompt="意大利" Name="意大利" PromptU="Italy" NameU="Italy"/>
+    <Elem Prompt="拉托维亚" Name="拉托维亚" PromptU="Latvia" NameU="Latvia"/>
+    <Elem Prompt="立陶宛" Name="立陶宛" PromptU="Lithuania" NameU="Lithuania"/>
+    <Elem Prompt="卢森堡" Name="卢森堡" PromptU="Luxembourg" NameU="Luxembourg"/>
+    <Elem Prompt="马其顿" Name="马其顿" PromptU="Macedonia" NameU="Macedonia"/>
+    <Elem Prompt="摩尔多瓦" Name="摩尔多瓦" PromptU="Moldova" NameU="Moldova"/>
+    <Elem Prompt="荷兰" Name="荷兰" PromptU="Netherlands" NameU="Netherlands"/>
+    <Elem Prompt="挪威" Name="挪威" PromptU="Norway" NameU="Norway"/>
+    <Elem Prompt="波兰" Name="波兰" PromptU="Poland" NameU="Poland"/>
+    <Elem Prompt="葡萄牙" Name="葡萄牙" PromptU="Portugal" NameU="Portugal"/>
+    <Elem Prompt="罗马里亚" Name="罗马里亚" PromptU="Romania" NameU="Romania"/>
+    <Elem Prompt="俄罗斯" Name="俄罗斯" PromptU="Russia" NameU="Russia"/>
+    <Elem Prompt="斯洛伐克" Name="斯洛伐克" PromptU="Slovakia" NameU="Slovakia"/>
+    <Elem Prompt="斯洛维里亚" Name="斯洛维里亚" PromptU="Slovenia" NameU="Slovenia"/>
+    <Elem Prompt="西班牙" Name="西班牙" PromptU="Spain" NameU="Spain"/>
+    <Elem Prompt="瑞典" Name="瑞典" PromptU="Sweden" NameU="Sweden"/>
+    <Elem Prompt="瑞士" Name="瑞士" PromptU="Switzerland" NameU="Switzerland"/>
+    <Elem Prompt="乌克兰" Name="乌克兰" PromptU="Ukraine" NameU="Ukraine"/>
+    <Elem Prompt="英国" Name="英国" PromptU="United Kingdom" NameU="United Kingdom"/>
+    <Elem Prompt="南斯拉夫" Name="南斯拉夫" PromptU="Yugoslavia" NameU="Yugoslavia"/>
+    <Elem Prompt="欧洲" Name="欧洲" PromptU="Europe" NameU="Europe"/>
+</Lib>

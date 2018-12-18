@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="People Outline">
+    <Elem NameU="Woman" PromptU="Woman outline" Name="女士" Prompt="女士轮廓"/>
+    <Elem NameU="Woman 2" PromptU="Woman outline" Name="女士 2" Prompt="女士轮廓"/>
+    <Elem NameU="Woman 3" PromptU="Woman outline" Name="女士 3" Prompt="女士轮廓"/>
+    <Elem NameU="Woman 4" PromptU="Woman outline" Name="女士 4" Prompt="女士轮廓"/>
+    <Elem NameU="Woman 5" PromptU="Woman outline" Name="女士 5" Prompt="女士轮廓"/>
+    <Elem NameU="Woman 6" PromptU="Woman outline" Name="女士 6" Prompt="女士轮廓"/>
+    <Elem NameU="Woman 7" PromptU="Woman outline" Name="女士 7" Prompt="女士轮廓"/>
+    <Elem NameU="Woman 8" PromptU="Woman outline" Name="女士 8" Prompt="女士轮廓"/>
+    <Elem NameU="Woman 9" PromptU="Woman outline" Name="女士 9" Prompt="女士轮廓"/>
+    <Elem NameU="Man" PromptU="Man outline" Name="男士" Prompt="男士轮廓"/>
+    <Elem NameU="Man 2" PromptU="Man outline" Name="男士 2" Prompt="男士轮廓"/>
+    <Elem NameU="Man 3" PromptU="Man outline" Name="男士 3" Prompt="男士轮廓"/>
+    <Elem NameU="Man 4" PromptU="Man outline" Name="男士 4" Prompt="男士轮廓"/>
+    <Elem NameU="Man 5" PromptU="Man outline" Name="男士 5" Prompt="男士轮廓"/>
+    <Elem NameU="Man 6" PromptU="Man outline" Name="男士 6" Prompt="男士轮廓"/>
+    <Elem NameU="Man 8" PromptU="Man outline" Name="男士 8" Prompt="男士轮廓"/>
+    <Elem NameU="Man 7" PromptU="Man outline" Name="男士 7" Prompt="男士轮廓"/>
+    <Elem NameU="Shake Hands" PromptU="Shake hands" Name="握手" Prompt="握手"/>
+    <Elem NameU="Shake Hands 2" PromptU="Shake Hands 2" Name="握手 2" Prompt="握手 2"/>
+    <Elem NameU="Cross the Road" PromptU="Cross the Road" Name="过马路" Prompt="过马路"/>
+    <Elem NameU="Mom with Son" PromptU="Mom with Son" Name="带小孩的母亲" Prompt="带小孩的母亲"/>
+    <Elem NameU="Ride on a Horse" PromptU="Ride on a Horse" Name="骑马" Prompt="骑马"/>
+    <Elem NameU="Father with Kid" PromptU="Father with Kid" Name="带女儿的父亲" Prompt="带女儿的父亲"/>
+    <Elem NameU="Mom with Daughter" PromptU="Mom with Daughter" Name="带女儿的母亲" Prompt="带女儿的母亲"/>
+    <Elem NameU="People Walking" PromptU="People Walking" Name="步行中的人" Prompt="步行中的人"/>
+    <Elem NameU="Carriage" PromptU="Carriage" Name="四轮马车" Prompt="四轮马车"/>
+    <Elem NameU="Woman" PromptU="Woman" Name="女士" Prompt="女士"/>
+    <Elem NameU="Man" PromptU="Man" Name="男士" Prompt="男士"/>
+    <Elem NameU="Child" PromptU="Child" Name="儿童" Prompt="儿童"/>
+    <Elem NameU="A Couple" PromptU="A Couple" Name="夫妻" Prompt="夫妻"/>
+    <Elem NameU="Worker Digging Sand" PromptU="Worker Digging Sand" Name="铲沙子的工人" Prompt="铲沙子的工人"/>
+    <Elem NameU="Shopping" PromptU="Shopping" Name="购物" Prompt="购物"/>
+    <Elem NameU="Old Man" PromptU="Old Man" Name="老人" Prompt="老人"/>
+    <Elem NameU="Go up the Stairs" PromptU="Go up the Stairs" Name="上楼梯" Prompt="上楼梯"/>
+    <Elem NameU="Littering" PromptU="Littering" Name="丢垃圾" Prompt="丢垃圾"/>
+    <Elem NameU="Riding on Bycicle" PromptU="Riding on Bycicle" Name="骑自行车" Prompt="骑自行车"/>
+    <Elem NameU="Running" PromptU="Running" Name="跑步" Prompt="跑步"/>
+    <Elem NameU="Champion" PromptU="Champion" Name="冠军" Prompt="冠军"/>
+    <Elem NameU="Photographer" PromptU="Photographer" Name="摄影师" Prompt="摄影师"/>
+    <Elem NameU="Mail Man" PromptU="Mail Man" Name="邮递员" Prompt="邮递员"/>
+    <Elem NameU="Man with Umbrella" PromptU="Man with Umbrella" Name="撑伞的人" Prompt="撑伞的人"/>
+    <Elem NameU="Making a Phone Call" PromptU="Making a Phone Call" Name="打电话" Prompt="打电话"/>
+    <Elem NameU="Answering the Phone" PromptU="Answering the Phone" Name="接电话" Prompt="接电话"/>
+    <Elem NameU="Listening Music" PromptU="Listening Music" Name="听音乐" Prompt="听音乐"/>
+    <Elem NameU="Watering Flowers" PromptU="Watering Flowers" Name="浇花" Prompt="浇花"/>
+    <Elem NameU="Reading" PromptU="Reading" Name="阅读" Prompt="阅读"/>
+    <Elem NameU="Teaching" PromptU="Teaching" Name="教学" Prompt="教学"/>
+    <Elem NameU="Playing Basketball" PromptU="Playing Basketball" Name="打篮球" Prompt="打篮球"/>
+    <Elem NameU="People with a Loudspeaker" PromptU="People with a Loudspeaker" Name="拿喇叭的人" Prompt="拿喇叭的人"/>
+    <Elem NameU="Woman with a Hat" PromptU="Woman with a Hat" Name="戴帽子的女人" Prompt="戴帽子的女人"/>
+    <Elem NameU="Walking the Dog" PromptU="Walking the Dog" Name="遛狗" Prompt="遛狗"/>
+    <Elem NameU="Having a Date" PromptU="Having a Date" Name="约会" Prompt="约会"/>
+    <Elem NameU="Making a Proposal" PromptU="Making a Proposal" Name="求婚" Prompt="求婚"/>
+    <Elem NameU="Thinking" PromptU="Thinking" Name="思考" Prompt="思考"/>
+    <Elem NameU="Working" PromptU="Working" Name="工作" Prompt="工作"/>
+    <Elem NameU="Writing" PromptU="Writing" Name="写作" Prompt="写作"/>
+    <Elem NameU="Wheelchair" PromptU="Wheelchair" Name="轮椅" Prompt="轮椅"/>
+    <Elem NameU="Being Sick" PromptU="Being Sick" Name="生病" Prompt="生病"/>
+</Lib>

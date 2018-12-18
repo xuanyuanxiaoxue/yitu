@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Valves">
+    <Elem Prompt="球形阀 1" Name="球形阀 1" PromptU="Ball valve" NameU="Ball valve"/>
+    <Elem Prompt="球形阀 1" Name="球形阀 1" PromptU="Ball valve" NameU="Ball valve"/>
+    <Elem Prompt="水平单向阀" Name="水平单向阀" PromptU="Check valve horiz" NameU="Check valve horiz"/>
+    <Elem Prompt="垂直单向阀" Name="垂直单向阀" PromptU="Check valve vert" NameU="Check valve vert"/>
+    <Elem Prompt="控制阀" Name="控制阀" PromptU="Ctrl valve" NameU="Ctrl valve"/>
+    <Elem Prompt="法兰控制阀" Name="法兰控制阀" PromptU="Ctrl valve flange" NameU="Ctrl valve flange"/>
+    <Elem Prompt="控制阀 2" Name="控制阀 2" PromptU="Ctrl valve gray fit" NameU="Ctrl valve gray fit"/>
+    <Elem Prompt="水平控制阀" Name="水平控制阀" PromptU="Ctrl valve horiz" NameU="Ctrl valve horiz"/>
+    <Elem Prompt="垂直控制阀" Name="垂直控制阀" PromptU="Ctrl valve vert" NameU="Ctrl valve vert"/>
+    <Elem Prompt="卸灰阀" Name="卸灰阀" PromptU="Cindervalve" NameU="Cindervalve"/>
+    <Elem Prompt="手动阀 1" Name="手动阀 1" PromptU="Hand valve 1" NameU="Hand valve 1"/>
+    <Elem Prompt="手动阀 2" Name="手动阀 2" PromptU="Hand valve 2" NameU="Hand valve 2"/>
+    <Elem Prompt="电动阀" Name="电动阀" PromptU="Motor valve" NameU="Motor valve"/>
+    <Elem Prompt="夹管阀" Name="夹管阀" PromptU="Pinch valve" NameU="Pinch valve"/>
+    <Elem Prompt="塑料旋启式止回阀" Name="塑料旋启式止回阀" PromptU="Plastic swing check valve" NameU="Plastic swing check valve"/>
+    <Elem Prompt="双通阀" Name="双通阀" PromptU="PVC two-way valve" NameU="PVC two-way valve"/>
+    <Elem Prompt="安全阀" Name="安全阀" PromptU="Safety valve" NameU="Safety valve"/>
+    <Elem Prompt="水平控制阀" Name="水平控制阀" PromptU="Ctrl valve horiz" NameU="Ctrl valve horiz"/>
+    <Elem Prompt="水平控制阀" Name="水平控制阀" PromptU="Ctrl valve horiz" NameU="Ctrl valve horiz"/>
+    <Elem Prompt="阀门" Name="阀门" PromptU="Valve" NameU="Valve"/>
+    <Elem Prompt="阀门" Name="阀门" PromptU="Valve" NameU="Valve"/>
+    <Elem Prompt="球形阀 1" Name="球形阀 1" PromptU="Ball valve" NameU="Ball valve"/>
+    <Elem Prompt="旋转阀" Name="旋转阀" PromptU="Rotary valve" NameU="Rotary valve"/>
+</Lib>

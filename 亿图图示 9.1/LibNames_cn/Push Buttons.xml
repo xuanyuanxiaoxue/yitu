@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Push Buttons">
+    <Elem Prompt="3-D 黑色按钮n" Name="3-D 黑色按钮" PromptU="3-D black button" NameU="3-D black button"/>
+    <Elem Prompt="3-D 蓝色按钮" Name="3-D 蓝色按钮" PromptU="3-D blue button" NameU="3-D blue button"/>
+    <Elem Prompt="3-D 绿色按钮" Name="3-D 绿色按钮" PromptU="3-D green button" NameU="3-D green button"/>
+    <Elem Prompt="3-D 红色按钮" Name="3-D 红色按钮" PromptU="3-D red button" NameU="3-D red button"/>
+    <Elem Prompt="3-D 黄色按钮" Name="3-D 黄色按钮" PromptU="3-D yellow button" NameU="3-D yellow button"/>
+    <Elem Prompt="黑色按钮" Name="黑色按钮" PromptU="Black pushbutton" NameU="Black pushbutton"/>
+    <Elem Prompt="蓝色指示灯" Name="蓝色指示灯" PromptU="Blue pilot light" NameU="Blue pilot light"/>
+    <Elem Prompt="深绿色指示灯" Name="深绿色指示灯" PromptU="Dark green pilot light" NameU="Dark green pilot light"/>
+    <Elem Prompt="按钮 1" Name="按钮 1" PromptU="Button 1" NameU="Button 1"/>
+    <Elem Prompt="按钮 2" Name="按钮 2" PromptU="Button 2" NameU="Button 2"/>
+    <Elem Prompt="按钮 3" Name="按钮 3" PromptU="Button 3" NameU="Button 3"/>
+    <Elem Prompt="按钮 4" Name="按钮 4" PromptU="Button 4" NameU="Button 4"/>
+    <Elem Prompt="按钮 5" Name="按钮 5" PromptU="Button 5" NameU="Button 5"/>
+    <Elem Prompt="按钮 6" Name="按钮 6" PromptU="Button 6" NameU="Button 6"/>
+    <Elem Prompt="表盘 1" Name="表盘 1" PromptU="Dial 1" NameU="Dial 1"/>
+    <Elem Prompt="表盘 2" Name="表盘 2" PromptU="Dial 2" NameU="Dial 2"/>
+    <Elem Prompt="表盘 3" Name="表盘 3" PromptU="Dial 3" NameU="Dial 3"/>
+    <Elem Prompt="表盘 4" Name="表盘 4" PromptU="Dial 4" NameU="Dial 4"/>
+    <Elem Prompt="红色指示灯" Name="红色指示灯" PromptU="Red pilot light" NameU="Red pilot light"/>
+    <Elem Prompt="长拉动开关(向下)" Name="长拉动开关(向下)" PromptU="Long flip switch (down)" NameU="Long flip switch (down)"/>
+    <Elem Prompt="长拉动开关(向上)" Name="长拉动开关(向上)" PromptU="Long flip switch (up)" NameU="Long flip switch (up)"/>
+    <Elem Prompt="长拉动开关(向左)" Name="长拉动开关(向左)" PromptU="Long flip switch (left)" NameU="Long flip switch (left)"/>
+    <Elem Prompt="长拉动开关(向右)" Name="长拉动开关(向右)" PromptU="Long flip switch (right)" NameU="Long flip switch (right)"/>
+    <Elem Prompt="海蓝色指示灯" Name="海蓝色指示灯" PromptU="Navy pilot light" NameU="Navy pilot light"/>
+    <Elem Prompt="指示灯（关闭状态）" Name="指示灯（关闭状态）" PromptU="Pilot light (off)" NameU="Pilot light (off)"/>
+    <Elem Prompt="长方形按钮" Name="长方形按钮" PromptU="Rectangular pushbutton" NameU="Rectangular pushbutton"/>
+    <Elem Prompt="红色指示灯" Name="红色指示灯" PromptU="Red pilot light" NameU="Red pilot light"/>
+    <Elem Prompt="红色按钮" Name="红色按钮" PromptU="Red pushbutton" NameU="Red pushbutton"/>
+    <Elem Prompt="跷板开关" Name="跷板开关" PromptU="Rocker switch" NameU="Rocker switch"/>
+    <Elem Prompt="跷板开关（向下）" Name="跷板开关（向下）" PromptU="Rocker switch (down)" NameU="Rocker switch (down)"/>
+    <Elem Prompt="跷板开关（向上）" Name="跷板开关（向上）" PromptU="Rocker switch (up)" NameU="Rocker switch (up)"/>
+    <Elem Prompt="跷板开关（向左）" Name="跷板开关（向左）" PromptU="Rocker switch (left)" NameU="Rocker switch (left)"/>
+    <Elem Prompt="跷板开关（向右）" Name="跷板开关（向右）" PromptU="Rocker switch (right)" NameU="Rocker switch (right)"/>
+    <Elem Prompt="选择开关 （向下） 1" Name="选择开关（向下） 1" PromptU="Selector switch (down) 1" NameU="Selector switch (down) 1"/>
+    <Elem Prompt="选择开关 （向上） 1" Name="选择开关（向上） 1" PromptU="Selector switch (up) 1" NameU="Selector switch (up) 1"/>
+    <Elem Prompt="选择开关 （向左） 1" Name="选择开关（向左） 1" PromptU="Selector switch (left) 1" NameU="Selector switch (left) 1"/>
+    <Elem Prompt="选择开关 （向右） 1" Name="选择开关（向右） 1" PromptU="Selector switch (right) 1" NameU="Selector switch (right) 1"/>
+    <Elem Prompt="选择开关 （向下） 2" Name="选择开关（向下） 2" PromptU="Selector switch (down) 2" NameU="Selector switch (down) 2"/>
+    <Elem Prompt="选择开关（向上） 2" Name="选择开关（向上） 2" PromptU="Selector switch (up) 2" NameU="Selector switch (up) 2"/>
+    <Elem Prompt="选择开关（向左） 2" Name="选择开关（向左） 2" PromptU="Selector switch (left) 2" NameU="Selector switch (left) 2"/>
+    <Elem Prompt="选择开关（向右） 2" Name="选择开关（向右） 2" PromptU="Selector switch (right) 2" NameU="Selector switch (right) 2"/>
+    <Elem Prompt="滑动开关（向下）" Name="滑动开关（向下）" PromptU="Slide switch (down)" NameU="Slide switch (down)"/>
+    <Elem Prompt="滑动开关（向上）" Name="滑动开关（向上）" PromptU="Slide switch (up)" NameU="Slide switch (up)"/>
+    <Elem Prompt="滑动开关（向左）" Name="滑动开关（向左）" PromptU="Slide switch (left)" NameU="Slide switch (left)"/>
+    <Elem Prompt="滑动开关（向右）" Name="滑动开关（向右）" PromptU="Slide switch (right)" NameU="Slide switch (right)"/>
+    <Elem Prompt="滑动器 1" Name="滑动器 1" PromptU="Slider 1" NameU="Slider 1"/>
+    <Elem Prompt="滑动器 2" Name="滑动器 2" PromptU="Slider 2" NameU="Slider 2"/>
+    <Elem Prompt="滑动器 3" Name="滑动器 3" PromptU="Slider 3" NameU="Slider 3"/>
+    <Elem Prompt="开始按钮" Name="开始按钮" PromptU="Start button 2" NameU="Start button 2"/>
+    <Elem Prompt="开始按钮 2" Name="开始按钮 2" PromptU="Start button" NameU="Start button"/>
+    <Elem Prompt="单刀双掷开关（向下）" Name="单刀双掷开关（向下）" PromptU="Throw switch (down)" NameU="Throw switch (down)"/>
+    <Elem Prompt="单刀双掷开关（向上）" Name="单刀双掷开关（向上）" PromptU="Throw switch (up)" NameU="Throw switch (up)"/>
+    <Elem Prompt="单刀双掷开关（向左）" Name="单刀双掷开关（向左）" PromptU="Throw switch (left)" NameU="Throw switch (left)"/>
+    <Elem Prompt="单刀双掷开关（向右）" Name="单刀双掷开关（向右）" PromptU="Throw switch (right)" NameU="Throw switch (right)"/>
+    <Elem Prompt="白色指示灯" Name="白色指示灯" PromptU="White pilot light" NameU="White pilot light"/>
+    <Elem Prompt="黄色指示灯" Name="黄色指示灯" PromptU="Yellow pilot light" NameU="Yellow pilot light"/>
+    <Elem Prompt="黄色按钮 2" Name="黄色按钮 2" PromptU="Yellow pushbutton" NameU="Yellow pushbutton"/>
+</Lib>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Value Chain">
+    <Elem Prompt="基本价值链" Name="基本价值链" PromptU="Basic Value Chain" NameU="Basic Value Chain"/>
+    <Elem Prompt="基本价值链" Name="基本价值链 2" PromptU="Basic Value Chain" NameU="Basic Value Chain 2"/>
+    <Elem Prompt="基本价值链" Name="基本价值链 3" PromptU="Basic Value Chain" NameU="Basic Value Chain 3"/>
+    <Elem Prompt="价值链" Name="价值链" PromptU="Value List" NameU="Value List"/>
+    <Elem Prompt="价值链" Name="价值链 2" PromptU="Value List" NameU="Value List 2"/>
+    <Elem Prompt="价值链" Name="价值链 3" PromptU="Value List" NameU="Value List 3"/>
+    <Elem Prompt="价值链" Name="价值链 4" PromptU="Value List" NameU="Value List 4"/>
+    <Elem Prompt="价值链" Name="价值链 5" PromptU="Value List" NameU="Value List 5"/>
+    <Elem Prompt="箭头" Name="箭头" PromptU="Arrow" NameU="Arrow"/>
+    <Elem Prompt="箭头" Name="箭头 2" PromptU="Arrow" NameU="Arrow 2"/>
+    <Elem Prompt="箭头轴" Name="箭头轴" PromptU="Arrow Axis" NameU="Arrow Axis"/>
+    <Elem Prompt="V型箭头" Name="V型箭头" PromptU="Chevron" NameU="Chevron"/>
+</Lib>

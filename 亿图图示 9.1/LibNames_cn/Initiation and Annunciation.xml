@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Initiation and Annunciation">
+    <Elem Prompt="复合面板" Name="复合面板" PromptU="Multiplex panel" NameU="Multiplex panel"/>
+    <Elem Prompt="控制面板" Name="控制面板" PromptU="Control panel" NameU="Control panel"/>
+    <Elem Prompt="CPU" Name="CPU" PromptU="CPU" NameU="CPU"/>
+    <Elem Prompt="键盘" Name="键盘" PromptU="Keyboard" NameU="Keyboard"/>
+    <Elem Prompt="打印机" Name="打印机" PromptU="Printer" NameU="Printer"/>
+    <Elem Prompt="对讲机" Name="对讲机" PromptU="Intercom" NameU="Intercom"/>
+    <Elem Prompt="双向无线电对讲机" Name="双向无线电对讲机" PromptU="Two way radio" NameU="Two way radio"/>
+    <Elem Prompt="文件粉碎机" Name="文件粉碎机" PromptU="Document destroyer" NameU="Document destroyer"/>
+</Lib>

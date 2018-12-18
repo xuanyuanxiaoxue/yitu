@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Bedroom">
+    <Elem Prompt="单人床" Name="单人床" PromptU="Single bed" NameU="Single bed"/>
+    <Elem Prompt="单人床 2" Name="单人床 2" PromptU="Single bed 2" NameU="Single bed 2"/>
+    <Elem Prompt="单人床 3" Name="单人床 3" PromptU="Single bed 3" NameU="Single bed 3"/>
+    <Elem Prompt="单人床 4" Name="单人床 4" PromptU="Single bed 4" NameU="Single bed 4"/>
+    <Elem Prompt="单人床 5" Name="单人床 5" PromptU="Single bed 5" NameU="Single bed 5"/>
+    <Elem Prompt="调节床" Name="调节床" PromptU="Adjustable bed" NameU="Adjustable bed"/>
+    <Elem Prompt="调节床 2" Name="调节床 2" PromptU="Adjustable bed 2" NameU="Adjustable bed 2"/>
+    <Elem Prompt="双人床" Name="双人床" PromptU="Double bed" NameU="Double bed"/>
+    <Elem Prompt="双人床 2" Name="双人床 2" PromptU="Double bed 2" NameU="Double bed 2"/>
+    <Elem Prompt="双人床 3" Name="双人床 3" PromptU="Double bed 3" NameU="Double bed 3"/>
+    <Elem Prompt="双人床 4" Name="双人床 4" PromptU="Double bed 4" NameU="Double bed 4"/>
+    <Elem Prompt="双人床 5" Name="双人床 5" PromptU="Double bed 5" NameU="Double bed 5"/>
+    <Elem Prompt="双人床 6" Name="双人床 6" PromptU="Double bed 6" NameU="Double bed 6"/>
+    <Elem Prompt="子床" Name="子床" PromptU="Single trundle bed" NameU="Single trundle bed"/>
+    <Elem Prompt="双层床" Name="双层床" PromptU="Bunk bed" NameU="Bunk bed"/>
+    <Elem Prompt="婴儿床" Name="婴儿床" PromptU="Crib" NameU="Crib"/>
+    <Elem Prompt="婴儿摇篮" Name="婴儿摇篮" PromptU="Bassinet" NameU="Bassinet"/>
+    <Elem Prompt="梳妆台" Name="梳妆台" PromptU="Vanity table" NameU="Vanity table"/>
+    <Elem Prompt="床头柜" Name="床头柜" PromptU="Night stand" NameU="Night stand"/>
+    <Elem Prompt="圆床" Name="圆床" PromptU="Circular bed" NameU="Circular bed"/>
+    <Elem Prompt="圆床 2" Name="圆床 2" PromptU="Circular bed 2" NameU="Circular bed 2"/>
+    <Elem Prompt="圆床 3" Name="圆床 3" PromptU="Circular bed 3" NameU="Circular bed 3"/>
+    <Elem Prompt="圆床 4" Name="圆床 4" PromptU="Circular bed 4" NameU="Circular bed 4"/>
+    <Elem Prompt="圆地毯" Name="圆地毯" PromptU="Circular carpet" NameU="Circular carpet"/>
+    <Elem Prompt="地毯" Name="地毯" PromptU="Carpet" NameU="Carpet"/>
+    <Elem Prompt="床头柜" Name="床头柜" PromptU="Bedside cabinet" NameU="Bedside cabinet"/>
+    <Elem Prompt="长方桌" Name="长方桌" PromptU="Rectangle table" NameU="Rectangle table"/>
+    <Elem Prompt="大植物" Name="大植物" PromptU="Large plant" NameU="Large plant"/>
+    <Elem Prompt="小植物" Name="小植物" PromptU="Small plant" NameU="Small plant"/>
+    <Elem Prompt="室内盆栽" Name="室内盆栽" PromptU="House plant" NameU="House plant"/>
+    <Elem Prompt="平板电视" Name="平板电视" PromptU="Flat-panel TV" NameU="Flat-panel TV"/>
+    <Elem Prompt="小型立式钢琴" Name="小型立式钢琴" PromptU="Spinet piano" NameU="Spinet piano"/>
+    <Elem Prompt="书柜" Name="书柜" PromptU="Bookcase" NameU="Bookcase"/>
+    <Elem Prompt="枕头" Name="枕头" PromptU="Pillow" NameU="Pillow"/>
+    <Elem Prompt="衣柜" Name="衣柜" PromptU="Chest" NameU="Chest"/>
+    <Elem Prompt="双人梳妆台" Name="双人梳妆台" PromptU="Double dresser" NameU="Double dresser"/>
+    <Elem Prompt="梳妆台" Name="梳妆台" PromptU="Tripper dresser" NameU="Tripper dresser"/>
+    <Elem Prompt="橱柜" Name="橱柜" PromptU="Cabinet" NameU="Cabinet"/>
+    <Elem Prompt="橱柜 2" Name="橱柜 2" PromptU="Cabinet 2" NameU="Cabinet 2"/>
+    <Elem Prompt="衣柜" Name="衣柜" PromptU="Wardrobe" NameU="Wardrobe"/>
+    <Elem Prompt="衣柜 2" Name="衣柜 2" PromptU="Wardrobe 2" NameU="Wardrobe 2"/>
+    <Elem Prompt="鞋柜" Name="鞋柜" PromptU="Shoe cabinet" NameU="Shoe cabinet"/>
+    <Elem Prompt="鞋柜" Name="鞋柜 2" PromptU="Shoe cabinet" NameU="Shoe cabinet 2"/>
+</Lib>

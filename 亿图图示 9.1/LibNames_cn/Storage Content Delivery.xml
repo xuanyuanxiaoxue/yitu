@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="AWS Storage Content and Delivery">
+    <Elem NameU="Download Distribution" Name="下载分布" PromptU="Download Distribution" Prompt="下载分布"/>
+    <Elem NameU="Edge Location" Name="边缘位置" PromptU="Edge Location" Prompt="边缘位置"/>
+    <Elem NameU="Streaming Distribution" Name="分流配送" PromptU="Streaming Distribution" Prompt="分流配送"/>
+    <Elem NameU="CloudFront" Name="云端" PromptU="CloudFront" Prompt="云端"/>
+    <Elem NameU="EBS Snapshot" Name="EBS快照" PromptU="EBS Snapshot" Prompt="EBS快照"/>
+    <Elem NameU="EBS Volume" Name="EBS容量" PromptU="EBS Volume" Prompt="EBS容量"/>
+    <Elem NameU="Glacier Archive" Name="Glacier存档" PromptU="Glacier Archive" Prompt="Glacier存档"/>
+    <Elem NameU="Glacier Vault" Name="Glacier Vault储藏库" PromptU="Glacier Vault" Prompt="Glacier Vault储藏库"/>
+    <Elem NameU="Glacier" Name="Glacier存储" PromptU="Glacier" Prompt="Glacier存储"/>
+    <Elem NameU="S3 Bucket with Objects" Name="有对象的S3 Bucket" PromptU="S3 Bucket with Objects" Prompt="有对象的S3 Bucket"/>
+    <Elem NameU="S3 Bucket" Name="S3 Bucket" PromptU="S3 Bucket" Prompt="S3 Bucket"/>
+    <Elem NameU="S3 Objects" Name="S3 对象" PromptU="S3 Objects" Prompt="S3 对象"/>
+    <Elem NameU="S3" Name="S3" PromptU="S3" Prompt="S3"/>
+    <Elem NameU="AWS Import Export" Name="AWS输入输出" PromptU="AWS Import Export" Prompt="AWS输入输出"/>
+    <Elem NameU="AWS Storage Gateway" Name="AWS存储网关" PromptU="AWS Storage Gateway" Prompt="AWS存储网关"/>
+    <Elem NameU="Cached Volumn" Name="缓存容量" PromptU="Cached Volumn" Prompt="缓存容量"/>
+    <Elem NameU="Non-Cached Volumn" Name="非缓存容量" PromptU="Non-Cached Volumn" Prompt="非缓存容量"/>
+    <Elem NameU="Virtual Tape Library" Name="虚拟磁带库" PromptU="Virtual Tape Library" Prompt="虚拟磁带库"/>
+</Lib>

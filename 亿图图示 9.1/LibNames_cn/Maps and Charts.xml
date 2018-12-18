@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Maps and Charts">
+    <Elem Prompt="发电站" Name="发电站" PromptU="Generating station" NameU="Generating station"/>
+    <Elem Prompt="发电/供热站" Name="发电/供热站" PromptU="Elec/heat station" NameU="Elec/heat station"/>
+    <Elem Prompt="水力发电站" Name="水力发电站" PromptU="Hydroelectric station" NameU="Hydroelectric station"/>
+    <Elem Prompt="水流" Name="水流" PromptU="Run of river" NameU="Run of river"/>
+    <Elem Prompt="电站" Name="电站" PromptU="With storage" NameU="With storage"/>
+    <Elem Prompt="抽水蓄能电站" Name="抽水蓄能电站" PromptU="With pumped storage" NameU="With pumped storage"/>
+    <Elem Prompt="热电站" Name="热电站" PromptU="Thermoelectric station" NameU="Thermoelectric station"/>
+    <Elem Prompt="燃煤发电厂" Name="燃煤发电厂" PromptU="Coal fueled station" NameU="Coal fueled station"/>
+    <Elem Prompt="石油或天然气燃料" Name="石油或天然气燃料" PromptU="Oil or gas fueled" NameU="Oil or gas fueled"/>
+    <Elem Prompt="核燃料" Name="核燃料" PromptU="Nuclear-energy fueled" NameU="Nuclear-energy fueled"/>
+    <Elem Prompt="地热" Name="地热" PromptU="Geothermic" NameU="Geothermic"/>
+    <Elem Prompt="太阳能发电站" Name="太阳能发电站" PromptU="Solar generating station" NameU="Solar generating station"/>
+    <Elem Prompt="天然气为燃料的涡轮" Name="天然气为燃料的涡轮" PromptU="Gas-fueled turbine" NameU="Gas-fueled turbine"/>
+    <Elem Prompt="往复式发动机" Name="往复式发动机" PromptU="Reciprocating Engine" NameU="Reciprocating Engine"/>
+    <Elem Prompt="无线电站 1" Name="无线电站 1" PromptU="Radio station 1" NameU="Radio station 1"/>
+    <Elem Prompt="无线电站 2" Name="无线电站 2" PromptU="Radio station 2" NameU="Radio station 2"/>
+    <Elem Prompt="便携式无线电站" Name="便携式无线电站" PromptU="Portable station" NameU="Portable station"/>
+    <Elem Prompt="移动台" Name="移动台" PromptU="Mobile station" NameU="Mobile station"/>
+    <Elem Prompt="定向" Name="定向" PromptU="Direction finding" NameU="Direction finding"/>
+    <Elem Prompt="控制台" Name="控制台" PromptU="Controlling station" NameU="Controlling station"/>
+    <Elem Prompt="无线电中继站" Name="无线电中继站" PromptU="Radio relay station" NameU="Radio relay station"/>
+    <Elem Prompt="无源中继" Name="无源中继" PromptU="Passive relay" NameU="Passive relay"/>
+    <Elem Prompt="空间站" Name="空间站" PromptU="Space station" NameU="Space station"/>
+    <Elem Prompt="地球跟踪站" Name="地球跟踪站" PromptU="Earth tracking station" NameU="Earth tracking station"/>
+    <Elem Prompt="电报中继器" Name="电报中继器" PromptU="Telegraph repeater" NameU="Telegraph repeater"/>
+    <Elem Prompt="电报中继器限定符" Name="电报中继器限定符" PromptU="Telegraph repeater qualifiers" NameU="Telegraph repeater qualifiers"/>
+    <Elem Prompt="电报设备" Name="电报设备" PromptU="Telegraph equipment" NameU="Telegraph equipment"/>
+    <Elem Prompt="电报设备限定符" Name="电报设备限定符" PromptU="Telegraph equipment qualifiers" NameU="Telegraph equipment qualifiers"/>
+    <Elem Prompt="变电所" Name="变电所" PromptU="Substation" NameU="Substation"/>
+    <Elem Prompt="整流变电所" Name="整流变电所" PromptU="Rectifier substation" NameU="Rectifier substation"/>
+    <Elem Prompt="变电所" Name="变电所" PromptU="Substation" NameU="Substation"/>
+    <Elem Prompt="风力发电站" Name="风力发电站" PromptU="Wind station" NameU="Wind station"/>
+    <Elem Prompt="原动机" Name="原动机" PromptU="Prime mover" NameU="Prime mover"/>
+    <Elem Prompt="换流变电所" Name="换流变电所" PromptU="Converting station" NameU="Converting station"/>
+    <Elem Prompt="配电站" Name="配电站" PromptU="Switching station" NameU="Switching station"/>
+    <Elem Prompt="等离子电站" Name="等离子电站" PromptU="Plasma Generating Station" NameU="Plasma Generating Station"/>
+</Lib>

@@ -1,0 +1,420 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ThemeConnectors Version="8.0">
+    <ThemeConnector ID="1" Name="General">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="0"/>
+                <BeginArrow Size="3" ID="0"/>
+                <EndArrow Size="3" ID="5"/>
+                <LineFill Type="Solid">
+                    <Color ThemeColor="5" Shade="50" Ref="#98b4d8" V="#ff6e839e"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="2" Name="Flat">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="0"/>
+                <BeginArrow Size="3" ID="0"/>
+                <EndArrow Size="3" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color ThemeColor="5" Shade="50" Ref="#98b4d8" V="#ff6e839e"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="3" Name="Narrow">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="0"/>
+                <BeginArrow Size="3" ID="0"/>
+                <EndArrow Size="3" ID="16"/>
+                <LineFill Type="Solid">
+                    <Color ThemeColor="5" Shade="50" Ref="#98b4d8" V="#ff6e839e"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="4" Name="Arc">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="0"/>
+                <BeginArrow Size="3" ID="0"/>
+                <EndArrow Size="3" ID="5"/>
+                <LineFill Type="Solid">
+                    <Color ThemeColor="5" Shade="50" Ref="#98b4d8" V="#ff6e839e"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="5" Name="General Round">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <Rounding V="7.55906"/>
+                <LinePattern ID="0"/>
+                <BeginArrow Size="3" ID="0"/>
+                <EndArrow Size="3" ID="4"/>
+                <LineFill Type="Solid">
+                    <Color ThemeColor="5" Shade="50" Ref="#98b4d8" V="#ff6e839e"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="6" Name="Flat Round">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <Rounding V="7.55906"/>
+                <LinePattern ID="0"/>
+                <BeginArrow Size="3" ID="0"/>
+                <EndArrow Size="3" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color ThemeColor="5" Shade="50" Ref="#98b4d8" V="#ff6e839e"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="7" Name="Narrow Round">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <Rounding V="7.55906"/>
+                <LinePattern ID="0"/>
+                <BeginArrow Size="3" ID="0"/>
+                <EndArrow Size="3" ID="16"/>
+                <LineFill Type="Solid">
+                    <Color ThemeColor="5" Shade="50" Ref="#98b4d8" V="#ff6e839e"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="8" Name="Arc Round">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <Rounding V="7.55906"/>
+                <LinePattern ID="0"/>
+                <BeginArrow Size="3" ID="0"/>
+                <EndArrow Size="3" ID="5"/>
+                <LineFill Type="Solid">
+                    <Color ThemeColor="5" Shade="50" Ref="#98b4d8" V="#ff6e839e"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="9" Name="General Dash">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="8"/>
+                <BeginArrow Size="3" ID="0"/>
+                <EndArrow Size="3" ID="4"/>
+                <LineFill Type="Solid">
+                    <Color ThemeColor="5" Shade="50" Ref="#98b4d8" V="#ff6e839e"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="10" Name="Flat Dash">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <Rounding V="7.55906"/>
+                <LinePattern ID="8"/>
+                <BeginArrow Size="3" ID="0"/>
+                <EndArrow Size="3" ID="0"/>
+                <LineFill Type="Solid">
+                    <Color ThemeColor="5" Shade="50" Ref="#98b4d8" V="#ff6e839e"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="11" Name="Narrow Dash">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <Rounding V="7.55906"/>
+                <LinePattern ID="9"/>
+                <BeginArrow Size="3" ID="0"/>
+                <EndArrow Size="3" ID="16"/>
+                <LineFill Type="Solid">
+                    <Color ThemeColor="5" Shade="50" Ref="#98b4d8" V="#ff6e839e"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="12" Name="Arc Dash">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <Rounding V="7.55906"/>
+                <LinePattern ID="9"/>
+                <BeginArrow Size="3" ID="0"/>
+                <EndArrow Size="3" ID="5"/>
+                <LineFill Type="Solid">
+                    <Color ThemeColor="5" Shade="50" Ref="#98b4d8" V="#ff6e839e"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="13" Name="General Open">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="0"/>
+                <BeginArrow Size="3" ID="0"/>
+                <EndArrow Size="3" ID="3"/>
+                <LineFill Type="Solid">
+                    <Color ThemeColor="5" Shade="50" Ref="#98b4d8" V="#ff6e839e"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="14" Name="Triangle">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="0"/>
+                <BeginArrow Size="3" ID="0"/>
+                <EndArrow Size="3" ID="9"/>
+                <LineFill Type="Solid">
+                    <Color ThemeColor="5" Shade="50" Ref="#98b4d8" V="#ff6e839e"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="15" Name="Circle General">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="0"/>
+                <BeginArrow Size="3" ID="19"/>
+                <EndArrow Size="3" ID="4"/>
+                <LineFill Type="Solid">
+                    <Color ThemeColor="5" Shade="50" Ref="#98b4d8" V="#ff6e839e"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="16" Name="Rect Diamond">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="0"/>
+                <BeginArrow Size="3" ID="21"/>
+                <EndArrow Size="3" ID="30"/>
+                <LineFill Type="Solid">
+                    <Color ThemeColor="5" Shade="50" Ref="#98b4d8" V="#ff6e839e"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="17" Name="Round Open">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <Rounding V="7.55906"/>
+                <LinePattern ID="0"/>
+                <BeginArrow Size="3" ID="0"/>
+                <EndArrow Size="3" ID="3"/>
+                <LineFill Type="Solid">
+                    <Color ThemeColor="5" Shade="50" Ref="#98b4d8" V="#ff6e839e"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="18" Name="Round Triangle">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <Rounding V="7.55906"/>
+                <LinePattern ID="0"/>
+                <BeginArrow Size="3" ID="0"/>
+                <EndArrow Size="3" ID="9"/>
+                <LineFill Type="Solid">
+                    <Color ThemeColor="5" Shade="50" Ref="#98b4d8" V="#ff6e839e"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="19" Name="Hollow Circle General">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="0"/>
+                <BeginArrow Size="3" ID="18"/>
+                <EndArrow Size="3" ID="9"/>
+                <LineFill Type="Solid">
+                    <Color ThemeColor="5" Shade="50" Ref="#98b4d8" V="#ff6e839e"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="20" Name="Hollow Rect Diamond">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="0"/>
+                <BeginArrow Size="3" ID="20"/>
+                <EndArrow Size="3" ID="22"/>
+                <LineFill Type="Solid">
+                    <Color ThemeColor="5" Shade="50" Ref="#98b4d8" V="#ff6e839e"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="21" Name="Double Flat Arrow">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="0"/>
+                <BeginArrow Size="3" ID="1"/>
+                <EndArrow Size="3" ID="1"/>
+                <LineFill Type="Solid">
+                    <Color ThemeColor="5" Shade="50" Ref="#98b4d8" V="#ff6e839e"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="22" Name="Double Long Arrow">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="0"/>
+                <BeginArrow Size="3" ID="3"/>
+                <EndArrow Size="3" ID="3"/>
+                <LineFill Type="Solid">
+                    <Color ThemeColor="5" Shade="50" Ref="#98b4d8" V="#ff6e839e"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="23" Name="Double Solid Flat Arrow">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="0"/>
+                <BeginArrow Size="3" ID="4"/>
+                <EndArrow Size="3" ID="4"/>
+                <LineFill Type="Solid">
+                    <Color ThemeColor="5" Shade="50" Ref="#98b4d8" V="#ff6e839e"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+    <ThemeConnector ID="24" Name="Double Solid Long Arrow">
+        <ConnectorScheme>
+            <LineFormat>
+                <LineWeight V="1"/>
+                <LineCap V="0"/>
+                <LinePattern ID="0"/>
+                <BeginArrow Size="3" ID="16"/>
+                <EndArrow Size="3" ID="16"/>
+                <LineFill Type="Solid">
+                    <Color ThemeColor="5" Shade="50" Ref="#98b4d8" V="#ff6e839e"/>
+                </LineFill>
+            </LineFormat>
+            <EffectFormat>
+                <Shadow Mode="0"/>
+            </EffectFormat>
+        </ConnectorScheme>
+    </ThemeConnector>
+</ThemeConnectors>

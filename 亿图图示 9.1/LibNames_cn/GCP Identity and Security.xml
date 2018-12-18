@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="GCP Identity &amp; Security">
+    <Elem NameU="BeyondCorp" Name="谷歌软件BeyondCorp" PromptU="BeyondCorp" Prompt="谷歌软件BeyondCorp"/>
+    <Elem NameU="Cloud IAM" Name="云 IAM" PromptU="Cloud IAM" Prompt="云 IAM"/>
+    <Elem NameU="Cloud Security Scanner" Name="云安全扫描" PromptU="Cloud Security Scanner" Prompt="云安全扫描"/>
+    <Elem NameU="Data Loss Prevention API" Name="数据损失保护 API" PromptU="Data Loss Prevention API" Prompt="数据损失保护 API"/>
+    <Elem NameU="Identity-Aware Proxy" Name="身份感知代理" PromptU="Identity-Aware Proxy" Prompt="身份感知代理"/>
+    <Elem NameU="Key Management Service" Name="主要管理服务" PromptU="Key Management Service" Prompt="主要管理服务"/>
+    <Elem NameU="Security Key Enforcement" Name="安全密匙执行" PromptU="Security Key Enforcement" Prompt="安全密匙执行"/>
+</Lib>

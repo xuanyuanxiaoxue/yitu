@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Language Level Shapes">
+    <Elem Prompt="流程图形状" Name="流程图形状" PromptU="Flowchart Shapes" NameU="Flowchart Shapes"/>
+    <Elem Prompt="函数或子程序" Name="函数或子程序" PromptU="Function or Subrouting" NameU="Function or Subrouting"/>
+    <Elem Prompt="开关" Name="开关" PromptU="Switch" NameU="Switch"/>
+    <Elem Prompt="云朵" Name="云朵" PromptU="Cloud" NameU="Cloud"/>
+    <Elem Prompt="有条件的调用" Name="有条件的调用" PromptU="Conditional invocation" NameU="Conditional invocation"/>
+    <Elem Prompt="词汇包含" Name="词汇包含" PromptU="Lexical inclusion" NameU="Lexical inclusion"/>
+    <Elem Prompt="调用" Name="调用" PromptU="Invocation" NameU="Invocation"/>
+    <Elem Prompt="带有跨线的调用" Name="带有跨线的调用" PromptU="Invocation w-Jump" NameU="Invocation w-Jump"/>
+    <Elem Prompt="数据流" Name="数据流" PromptU="Data flow" NameU="Data flow"/>
+    <Elem Prompt="标志流" Name="标志流" PromptU="Flag flow" NameU="Flag flow"/>
+    <Elem Prompt="括号" Name="括号" PromptU="Bracket" NameU="Bracket"/>
+</Lib>

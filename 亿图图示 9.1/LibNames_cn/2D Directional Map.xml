@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="2D Directional Maps">
+    <Elem Prompt="道路" Name="道路" PromptU="Road" NameU="Road"/>
+    <Elem Prompt="道路（圆角）" Name="道路（圆角）" PromptU="Road round" NameU="Road round"/>
+    <Elem Prompt="角" Name="角" PromptU="Corner" NameU="Corner"/>
+    <Elem Prompt="拐角" Name="拐角" PromptU="Corner round" NameU="Corner round"/>
+    <Elem Prompt="三岔路" Name="三岔路" PromptU="3 Ways" NameU="3 Ways"/>
+    <Elem Prompt="三岔路（圆角结尾）" Name="三岔路（圆角结尾）" PromptU="3 Ways round" NameU="3 Ways round"/>
+    <Elem Prompt="十字路" Name="十字路" PromptU="4 Ways" NameU="4 Ways"/>
+    <Elem Prompt="十字路（圆角结尾）" Name="十字路（圆角结尾）" PromptU="4 Ways round" NameU="4 Ways round"/>
+    <Elem Prompt="弯道 1" Name="弯道 1" PromptU="Curve 1" NameU="Curve 1"/>
+    <Elem Prompt="圆角弯道 1" Name="圆角弯道 1" PromptU="Curve round 1" NameU="Curve round 1"/>
+    <Elem Prompt="弯道 2" Name="弯道 2" PromptU="Curve 2" NameU="Curve 2"/>
+    <Elem Prompt="圆角弯道 2" Name="圆角弯道 2" PromptU="Curve round 2" NameU="Curve round 2"/>
+    <Elem Prompt="环状交叉路口" Name="环状交叉路口" PromptU="Roundabout" NameU="Roundabout"/>
+    <Elem Prompt="蝶式交汇处" Name="蝶式交汇处" PromptU="Cloverleaf interchange" NameU="Cloverleaf interchange"/>
+    <Elem Prompt="菱形道路交汇处" Name="菱形道路交汇处" PromptU="Diamond interchange" NameU="Diamond interchange"/>
+    <Elem Prompt="桥" Name="桥" PromptU="Bridge" NameU="Bridge"/>
+    <Elem Prompt="蜿蜒的路" Name="蜿蜒的路" PromptU="Flexible road" NameU="Flexible road"/>
+    <Elem Prompt="地区" Name="地区" PromptU="Region" NameU="Region"/>
+    <Elem Prompt="大门" Name="大门" PromptU="Gate" NameU="Gate"/>
+    <Elem Prompt="道路破损" Name="道路破损" PromptU="Roadway break" NameU="Roadway break"/>
+    <Elem Prompt="狭窄的路" Name="狭窄的路" PromptU="Thin road" NameU="Thin road"/>
+    <Elem Prompt="城市/城镇点" Name="城市/城镇点" PromptU="City/town dot" NameU="City/town dot"/>
+    <Elem Prompt="连接序号" Name="连接序号" PromptU="Junction number" NameU="Junction number"/>
+</Lib>

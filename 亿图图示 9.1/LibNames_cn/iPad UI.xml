@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="iPad UI">
+    <Elem Prompt="iPad" Name="iPad" PromptU="iPad" NameU="iPad"/>
+    <Elem Prompt="水平ipad" Name="水平ipad" PromptU="Horizontal iPad" NameU="Horizontal iPad"/>
+    <Elem Prompt="状态栏 1" Name="状态栏 1" PromptU="Status bar 1" NameU="Status bar 1"/>
+    <Elem Prompt="状态栏 2" Name="状态栏 2" PromptU="Status bar 2" NameU="Status bar 2"/>
+    <Elem Prompt="状态栏 3" Name="状态栏 3" PromptU="Status bar 3" NameU="Status bar 3"/>
+    <Elem Prompt="状态栏 4" Name="状态栏 4" PromptU="Status bar 4" NameU="Status bar 4"/>
+    <Elem Prompt="状态栏 5" Name="状态栏 5" PromptU="Status bar 5" NameU="Status bar 5"/>
+    <Elem Prompt="基本菜单栏 1" Name="基本菜单栏 1" PromptU="Basic Menu Bar 1" NameU="Basic Menu Bar 1"/>
+    <Elem Prompt="基本菜单栏 2" Name="基本菜单栏 2" PromptU="Basic Menu Bar 2" NameU="Basic Menu Bar 2"/>
+    <Elem Prompt="基本菜单栏 3" Name="基本菜单栏 3" PromptU="Basic Menu Bar 3" NameU="Basic Menu Bar 3"/>
+    <Elem Prompt="基本菜单栏 4" Name="基本菜单栏 4" PromptU="Basic Menu Bar 4" NameU="Basic Menu Bar 4"/>
+    <Elem Prompt="基本菜单栏 5" Name="基本菜单栏 5" PromptU="Basic Menu Bar 5" NameU="Basic Menu Bar 5"/>
+    <Elem Prompt="键盘控制" Name="键盘控制" PromptU="Keyboard Control" NameU="Keyboard Control"/>
+    <Elem Prompt="文本" Name="文本" PromptU="Text" NameU="Text"/>
+    <Elem Prompt="按键" Name="按键" PromptU="Button" NameU="Button"/>
+    <Elem Prompt="按键" Name="按键" PromptU="Button" NameU="Button"/>
+    <Elem Prompt="按键" Name="按键" PromptU="Button" NameU="Button"/>
+    <Elem Prompt="按键" Name="按键" PromptU="Button" NameU="Button"/>
+    <Elem Prompt="返回" Name="返回" PromptU="Back" NameU="Back"/>
+    <Elem Prompt="在此输入文字" Name="在此输入文字" PromptU="Type your text here" NameU="Type your text here"/>
+    <Elem Prompt="搜索框" Name="搜索框" PromptU="Search Box" NameU="Search Box"/>
+    <Elem Prompt="3按钮控制" Name="3按钮控制" PromptU="Three Buttons Control" NameU="Three Buttons Control"/>
+    <Elem Prompt="4按钮控制" Name="4按钮控制" PromptU="Four Buttons Control" NameU="Four Buttons Control"/>
+    <Elem Prompt="滑动条" Name="滑动条" PromptU="Slider" NameU="Slider"/>
+    <Elem Prompt="字段名" Name="字段名" PromptU="Field Name" NameU="Field Name"/>
+    <Elem Prompt="双键警报" Name="双键警报" PromptU="Two Buttons Alert" NameU="Two Buttons Alert"/>
+    <Elem Prompt="时间选择工具" Name="时间选择工具" PromptU="Time Picker" NameU="Time Picker"/>
+    <Elem Prompt="时间选择工具" Name="时间选择工具" PromptU="Time Picker" NameU="Time Picker"/>
+    <Elem Prompt="登录活动" Name="登录活动" PromptU="Login Activity" NameU="Login Activity"/>
+    <Elem Prompt="应用图标" Name="应用图标" PromptU="App Icon" NameU="App Icon"/>
+    <Elem Prompt="方块" Name="方块" PromptU="Block" NameU="Block"/>
+    <Elem Prompt="打开按钮" Name="打开按钮" PromptU="Open button" NameU="Open button"/>
+    <Elem Prompt="开关" Name="开关" PromptU="On/Off Switch" NameU="On/Off Switch"/>
+    <Elem Prompt="开关" Name="开关" PromptU="On/Off Switch" NameU="On/Off Switch"/>
+    <Elem Prompt="圆形进度条" Name="圆形进度条" PromptU="Circular Progress View" NameU="Circular Progress View"/>
+    <Elem Prompt="圆形进度条" Name="圆形进度条" PromptU="Circular Progress View" NameU="Circular Progress View"/>
+    <Elem Prompt="按键" Name="按键" PromptU="Button" NameU="Button"/>
+    <Elem Prompt="双按钮控制" Name="双按钮控制" PromptU="Two Buttons Control" NameU="Two Buttons Control"/>
+    <Elem Prompt="标签" Name="标签" PromptU="Label" NameU="Label"/>
+    <Elem Prompt="单选按钮" Name="单选按钮" PromptU="Radio button" NameU="Radio button"/>
+    <Elem Prompt="文本选择框" Name="文本选择框" PromptU="Text Selection Frame" NameU="Text Selection Frame"/>
+    <Elem Prompt="选择框" Name="选择框" PromptU="Selection Frame" NameU="Selection Frame"/>
+</Lib>

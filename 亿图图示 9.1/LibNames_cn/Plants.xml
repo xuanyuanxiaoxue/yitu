@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Plants">
+    <Elem Prompt="植物" Name="植物 1" PromptU="Plant" NameU="Plant 1"/>
+    <Elem Prompt="植物" Name="植物 2" PromptU="Plant" NameU="Plant 2"/>
+    <Elem Prompt="植物" Name="植物 3" PromptU="Plant" NameU="Plant 3"/>
+    <Elem Prompt="植物" Name="植物 4" PromptU="Plant" NameU="Plant 4"/>
+    <Elem Prompt="植物" Name="植物 5" PromptU="Plant" NameU="Plant 5"/>
+    <Elem Prompt="植物" Name="植物 6" PromptU="Plant" NameU="Plant 6"/>
+    <Elem Prompt="植物" Name="植物 7" PromptU="Plant" NameU="Plant 7"/>
+    <Elem Prompt="植物" Name="植物 8" PromptU="Plant" NameU="Plant 8"/>
+    <Elem Prompt="植物" Name="植物 9" PromptU="Plant" NameU="Plant 9"/>
+    <Elem Prompt="植物" Name="植物 10" PromptU="Plant" NameU="Plant 10"/>
+    <Elem Prompt="植物" Name="植物 11" PromptU="Plant" NameU="Plant 11"/>
+    <Elem Prompt="植物" Name="植物 12" PromptU="Plant" NameU="Plant 12"/>
+    <Elem Prompt="植物" Name="植物 13" PromptU="Plant" NameU="Plant 13"/>
+    <Elem Prompt="植物" Name="植物 14" PromptU="Plant" NameU="Plant 14"/>
+    <Elem Prompt="植物" Name="植物 15" PromptU="Plant" NameU="Plant 15"/>
+    <Elem Prompt="植物" Name="植物 16" PromptU="Plant" NameU="Plant 16"/>
+    <Elem Prompt="植物" Name="植物 17" PromptU="Plant" NameU="Plant 17"/>
+    <Elem Prompt="植物" Name="植物 18" PromptU="Plant" NameU="Plant 18"/>
+    <Elem Prompt="植物" Name="植物 19" PromptU="Plant" NameU="Plant 19"/>
+    <Elem Prompt="植物" Name="植物 20" PromptU="Plant" NameU="Plant 20"/>
+    <Elem Prompt="植物" Name="植物 21" PromptU="Plant" NameU="Plant 21"/>
+    <Elem Prompt="植物" Name="植物 22" PromptU="Plant" NameU="Plant 22"/>
+    <Elem Prompt="植物" Name="植物 23" PromptU="Plant" NameU="Plant 23"/>
+    <Elem Prompt="植物" Name="植物 24" PromptU="Plant" NameU="Plant 24"/>
+    <Elem Prompt="植物" Name="植物 25" PromptU="Plant" NameU="Plant 25"/>
+    <Elem Prompt="植物" Name="植物 26" PromptU="Plant" NameU="Plant 26"/>
+    <Elem Prompt="植物" Name="植物 27" PromptU="Plant" NameU="Plant 27"/>
+    <Elem Prompt="植物" Name="植物 28" PromptU="Plant" NameU="Plant 28"/>
+    <Elem Prompt="植物" Name="植物 29" PromptU="Plant" NameU="Plant 29"/>
+    <Elem Prompt="植物" Name="植物 30" PromptU="Plant" NameU="Plant 30"/>
+    <Elem Prompt="植物" Name="植物 31" PromptU="Plant" NameU="Plant 31"/>
+    <Elem Prompt="植物" Name="植物 32" PromptU="Plant" NameU="Plant 32"/>
+    <Elem Prompt="植物" Name="植物 33" PromptU="Plant" NameU="Plant 33"/>
+    <Elem Prompt="植物" Name="植物 34" PromptU="Plant" NameU="Plant 34"/>
+    <Elem Prompt="植物" Name="植物 35" PromptU="Plant" NameU="Plant 35"/>
+    <Elem Prompt="植物" Name="植物 36" PromptU="Plant" NameU="Plant 36"/>
+    <Elem Prompt="植物" Name="植物 37" PromptU="Plant" NameU="Plant 37"/>
+    <Elem Prompt="植物" Name="植物 38" PromptU="Plant" NameU="Plant 38"/>
+    <Elem Prompt="植物" Name="植物 39" PromptU="Plant" NameU="Plant 39"/>
+    <Elem Prompt="植物" Name="植物 40" PromptU="Plant" NameU="Plant 40"/>
+    <Elem Prompt="植物" Name="植物 41" PromptU="Plant" NameU="Plant 41"/>
+    <Elem Prompt="植物" Name="植物 42" PromptU="Plant" NameU="Plant 42"/>
+    <Elem Prompt="植物" Name="植物 43" PromptU="Plant" NameU="Plant 43"/>
+    <Elem Prompt="植物" Name="植物 44" PromptU="Plant" NameU="Plant 44"/>
+    <Elem Prompt="植物" Name="植物 45" PromptU="Plant" NameU="Plant 45"/>
+    <Elem Prompt="植物" Name="植物 46" PromptU="Plant" NameU="Plant 46"/>
+    <Elem Prompt="植物" Name="植物 47" PromptU="Plant" NameU="Plant 47"/>
+    <Elem Prompt="植物" Name="植物 48" PromptU="Plant" NameU="Plant 48"/>
+    <Elem Prompt="植物 49" Name="植物 49" PromptU="Plant 49" NameU="Plant 49"/>
+    <Elem Prompt="植物 50" Name="植物 50" PromptU="Plant 50" NameU="Plant 50"/>
+    <Elem Prompt="植物 51" Name="植物 51" PromptU="Plant 51" NameU="Plant 51"/>
+    <Elem Prompt="植物 52" Name="植物 52" PromptU="Plant 52" NameU="Plant 52"/>
+    <Elem Prompt="植物 53" Name="植物 53" PromptU="Plant 53" NameU="Plant 53"/>
+    <Elem Prompt="植物 54" Name="植物 54" PromptU="Plant 54" NameU="Plant 54"/>
+</Lib>

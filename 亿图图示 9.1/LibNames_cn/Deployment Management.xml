@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="AWS Deployment and Management">
+    <Elem NameU="CodeDeploy" Name="代码配置" PromptU="CodeDeploy" Prompt="代码配置"/>
+    <Elem NameU="AWS CloudFormation Stack" Name="AWS 云形成堆" PromptU="AWS CloudFormation Stack" Prompt="AWS 云形成堆"/>
+    <Elem NameU="AWS CloudFormation Template" Name="AWS 云形成模板" PromptU="AWS CloudFormation Template" Prompt="AWS 云形成模板"/>
+    <Elem NameU="AWS CloudFormation" Name="AWS 云形成" PromptU="AWS CloudFormation" Prompt="AWS 云形成"/>
+    <Elem NameU="AWS Data Pipeline" Name="AWS 数据管道" PromptU="AWS Data Pipeline" Prompt="AWS 数据管道"/>
+    <Elem NameU="CloudTrail" Name="云迹" PromptU="CloudTrail" Prompt="云迹"/>
+    <Elem NameU="CloudWatch Alarm" Name="云监控报警" PromptU="CloudWatch Alarm" Prompt="云监控报警"/>
+    <Elem NameU="CloudWatch" Name="云监控" PromptU="CloudWatch" Prompt="云监控"/>
+    <Elem NameU="Elastic Beanstalk Application" Name="Elastic Beanstalk 应用" PromptU="Elastic Beanstalk Application" Prompt="Elastic Beanstalk 应用"/>
+    <Elem NameU="Elastic Beanstalk Deployment" Name="Elastic Beanstalk 配置" PromptU="Elastic Beanstalk Deployment" Prompt="Elastic Beanstalk 配置"/>
+    <Elem NameU="Elastic Beanstalk" Name="Elastic Beanstalk" PromptU="Elastic Beanstalk" Prompt="Elastic Beanstalk"/>
+    <Elem NameU="Elastic Beanstalk Container" Name="Elastic Beanstalk 集合" PromptU="Elastic Beanstalk Container" Prompt="Elastic Beanstalk 集合"/>
+    <Elem NameU="IAM Add-on" Name="IAM Add-on指令" PromptU="IAM Add-on" Prompt="IAM Add-on指令"/>
+    <Elem NameU="IAM Credentials" Name="IAM 证书" PromptU="IAM Credentials" Prompt="IAM 证书"/>
+    <Elem NameU="IAM Data Encryption Key" Name="IAM 数据加密密匙" PromptU="IAM Data Encryption Key" Prompt="IAM 数据加密密匙"/>
+    <Elem NameU="IAM Encrypted Data" Name="IAM 加密数据" PromptU="IAM Encrypted Data" Prompt="IAM 加密数据"/>
+    <Elem NameU="IAM MFA Token" Name="IAM MFA 令牌" PromptU="IAM MFA Token" Prompt="IAM MFA 令牌"/>
+    <Elem NameU="IAM Permissions" Name="IAM 许可" PromptU="IAM Permissions" Prompt="IAM 许可"/>
+    <Elem NameU="IAM Roles" Name="IAM 角色" PromptU="IAM Roles" Prompt="IAM 角色"/>
+    <Elem NameU="IAM Security Token Service" Name="IAM 安全令牌服务" PromptU="IAM Security Token Service" Prompt="IAM 安全令牌服务"/>
+    <Elem NameU="IAM Short Term Credentials" Name="IAM 短期证书" PromptU="IAM Short Term Credentials" Prompt="IAM 短期证书"/>
+    <Elem NameU="IAM STS" Name="IAM STS令牌服务" PromptU="IAM STS" Prompt="IAM STS令牌服务"/>
+    <Elem NameU="IAM" Name="IAM" PromptU="IAM" Prompt="IAM"/>
+    <Elem NameU="OpsWorks Apps" Name="OpsWorks应用" PromptU="OpsWorks Apps" Prompt="OpsWorks应用"/>
+    <Elem NameU="OpsWorks Deployments" Name="OpsWorks 配置" PromptU="OpsWorks Deployments" Prompt="OpsWorks 配置"/>
+    <Elem NameU="OpsWorks Instances" Name="OpsWorks 实例" PromptU="OpsWorks Instances" Prompt="OpsWorks 实例"/>
+    <Elem NameU="OpsWorks Layers" Name="OpsWorks Layers" PromptU="OpsWorks Layers" Prompt="OpsWorks Layers"/>
+    <Elem NameU="OpsWorks Monitoring" Name="OpsWorks 监控" PromptU="OpsWorks Monitoring" Prompt="OpsWorks 监控"/>
+    <Elem NameU="OpsWorks Permissions" Name="OpsWorks 许可" PromptU="OpsWorks Permissions" Prompt="OpsWorks 许可"/>
+    <Elem NameU="OpsWorks Resources" Name="OpsWorks 资源" PromptU="OpsWorks Resources" Prompt="OpsWorks 资源"/>
+    <Elem NameU="OpsWorks Stack" Name="OpsWorks 堆" PromptU="OpsWorks Stack" Prompt="OpsWorks 堆"/>
+    <Elem NameU="OpsWorks" Name="OpsWorks" PromptU="OpsWorks" Prompt="OpsWorks"/>
+</Lib>

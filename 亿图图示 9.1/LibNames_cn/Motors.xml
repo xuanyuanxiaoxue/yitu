@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Motors">
+    <Elem Prompt="工业标准发动机" Name="工业标准发动机" PromptU="3-D ISA Motor" NameU="3-D ISA Motor"/>
+    <Elem Prompt="3-D 发动机" Name="3-D 发动机" PromptU="3-D Motor" NameU="3-D Motor"/>
+    <Elem Prompt="促动器" Name="促动器" PromptU="Actuator" NameU="Actuator"/>
+    <Elem Prompt="制动马达" Name="制动马达" PromptU="Brake motor" NameU="Brake motor"/>
+    <Elem Prompt="无刷电机" Name="无刷电机" PromptU="Brushless motor" NameU="Brushless motor"/>
+    <Elem Prompt="防爆电动机" Name="防爆电动机" PromptU="Explosion-proof motor" NameU="Explosion-proof motor"/>
+    <Elem Prompt="发动机 1" Name="发动机 1" PromptU="Motor 1" NameU="Motor 1"/>
+    <Elem Prompt="发动机 2" Name="发动机 2" PromptU="Motor 2" NameU="Motor 2"/>
+    <Elem Prompt="发动机 3" Name="发动机 3" PromptU="Motor 3" NameU="Motor 3"/>
+    <Elem Prompt="发动机 4" Name="发动机 4" PromptU="Motor 4" NameU="Motor 4"/>
+    <Elem Prompt="气压制动器" Name="气压制动器" PromptU="Pneumatic brake" NameU="Pneumatic brake"/>
+    <Elem Prompt="伺服电机" Name="伺服电机" PromptU="Servo motor" NameU="Servo motor"/>
+    <Elem Prompt="伺服电机" Name="伺服电机" PromptU="Servo motor" NameU="Servo motor"/>
+    <Elem Prompt="轴角编码器" Name="轴角编码器" PromptU="Shaft encoder" NameU="Shaft encoder"/>
+    <Elem Prompt="简单马达" Name="简单马达" PromptU="Simple motor" NameU="Simple motor"/>
+    <Elem Prompt="智能马达" Name="智能马达" PromptU="Smart motor" NameU="Smart motor"/>
+    <Elem Prompt="减速器" Name="减速器" PromptU="Speed reducer" NameU="Speed reducer"/>
+    <Elem Prompt="步进电机驱动器" Name="步进电机驱动器" PromptU="Stepping motor-driver unit" NameU="Stepping motor-driver unit"/>
+</Lib>

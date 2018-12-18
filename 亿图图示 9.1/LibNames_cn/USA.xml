@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="USA">
+    <Elem Prompt="阿拉巴马" Name="阿拉巴马" PromptU="Alabama" NameU="Alabama"/>
+    <Elem Prompt="阿拉斯加" Name="阿拉斯加" PromptU="Alaska" NameU="Alaska"/>
+    <Elem Prompt="亚里桑那" Name="亚里桑那" PromptU="Arizona" NameU="Arizona"/>
+    <Elem Prompt="阿肯色" Name="阿肯色" PromptU="Arkansas" NameU="Arkansas"/>
+    <Elem Prompt="加利福尼亚" Name="加利福尼亚" PromptU="California" NameU="California"/>
+    <Elem Prompt="科罗拉多" Name="科罗拉多" PromptU="Colorado" NameU="Colorado"/>
+    <Elem Prompt="康涅狄格" Name="康涅狄格" PromptU="Connecticut" NameU="Connecticut"/>
+    <Elem Prompt="特拉华" Name="特拉华" PromptU="Delaware" NameU="Delaware"/>
+    <Elem Prompt="佛罗里达" Name="佛罗里达" PromptU="Florida" NameU="Florida"/>
+    <Elem Prompt="乔治亚" Name="乔治亚" PromptU="Georgia" NameU="Georgia"/>
+    <Elem Prompt="夏威夷" Name="夏威夷" PromptU="Hawaii" NameU="Hawaii"/>
+    <Elem Prompt="爱达荷" Name="爱达荷" PromptU="Idaho" NameU="Idaho"/>
+    <Elem Prompt="伊利诺斯" Name="伊利诺斯" PromptU="Illinois" NameU="Illinois"/>
+    <Elem Prompt="印地安那" Name="印地安那" PromptU="Indiana" NameU="Indiana"/>
+    <Elem Prompt="爱荷华" Name="爱荷华" PromptU="Iowa" NameU="Iowa"/>
+    <Elem Prompt="堪萨斯" Name="堪萨斯" PromptU="Kansas" NameU="Kansas"/>
+    <Elem Prompt="肯塔基" Name="肯塔基" PromptU="Kentucky" NameU="Kentucky"/>
+    <Elem Prompt="路易斯安那" Name="路易斯安那" PromptU="Louisiana" NameU="Louisiana"/>
+    <Elem Prompt="缅因" Name="缅因" PromptU="Maine" NameU="Maine"/>
+    <Elem Prompt="马里兰" Name="马里兰" PromptU="Maryland" NameU="Maryland"/>
+    <Elem Prompt="马萨诸塞" Name="马萨诸塞" PromptU="Massachusetts" NameU="Massachusetts"/>
+    <Elem Prompt="密歇根" Name="密歇根" PromptU="Michigan" NameU="Michigan"/>
+    <Elem Prompt="明尼苏达" Name="明尼苏达" PromptU="Minnesota" NameU="Minnesota"/>
+    <Elem Prompt="密西西比州" Name="密西西比州" PromptU="Mississippi" NameU="Mississippi"/>
+    <Elem Prompt="密苏里" Name="密苏里" PromptU="Missouri" NameU="Missouri"/>
+    <Elem Prompt="蒙大纳" Name="蒙大纳" PromptU="Montana" NameU="Montana"/>
+    <Elem Prompt="内布拉斯加" Name="内布拉斯加" PromptU="Nebraska" NameU="Nebraska"/>
+    <Elem Prompt="内华达" Name="内华达" PromptU="Nevada" NameU="Nevada"/>
+    <Elem Prompt="新罕布什尔" Name="新罕布什尔" PromptU="New Hampshire" NameU="New Hampshire"/>
+    <Elem Prompt="新泽西" Name="新泽西" PromptU="New Jersey" NameU="New Jersey"/>
+    <Elem Prompt="新墨西哥" Name="新墨西哥" PromptU="New Mexico" NameU="New Mexico"/>
+    <Elem Prompt="纽约" Name="纽约" PromptU="New York" NameU="New York"/>
+    <Elem Prompt="北卡罗来纳" Name="北卡罗来纳" PromptU="North Carolina" NameU="North Carolina"/>
+    <Elem Prompt="北达科地" Name="北达科地" PromptU="North Dakota" NameU="North Dakota"/>
+    <Elem Prompt="俄亥俄" Name="俄亥俄" PromptU="Ohio" NameU="Ohio"/>
+    <Elem Prompt="俄克拉荷马" Name="俄克拉荷马" PromptU="Oklahoma" NameU="Oklahoma"/>
+    <Elem Prompt="俄勒冈" Name="俄勒冈" PromptU="Oregon" NameU="Oregon"/>
+    <Elem Prompt="宾夕法尼亚" Name="宾夕法尼亚" PromptU="Pennsylvania" NameU="Pennsylvania"/>
+    <Elem Prompt="罗得岛" Name="罗得岛" PromptU="Rhode Island" NameU="Rhode Island"/>
+    <Elem Prompt="南卡罗来纳" Name="南卡罗来纳" PromptU="South Carolina" NameU="South Carolina"/>
+    <Elem Prompt="南达科塔" Name="南达科塔" PromptU="South Dakota" NameU="South Dakota"/>
+    <Elem Prompt="田纳西" Name="田纳西" PromptU="Tennessee" NameU="Tennessee"/>
+    <Elem Prompt="德克萨斯洲" Name="德克萨斯洲" PromptU="Texas" NameU="Texas"/>
+    <Elem Prompt="犹他" Name="犹他" PromptU="Utah" NameU="Utah"/>
+    <Elem Prompt="佛蒙特" Name="佛蒙特" PromptU="Vermont" NameU="Vermont"/>
+    <Elem Prompt="维吉里亚" Name="维吉里亚" PromptU="Virginia" NameU="Virginia"/>
+    <Elem Prompt="华盛顿" Name="华盛顿" PromptU="Washington" NameU="Washington"/>
+    <Elem Prompt="西弗吉里亚" Name="西弗吉里亚" PromptU="West Virginia" NameU="West Virginia"/>
+    <Elem Prompt="威斯康星" Name="威斯康星" PromptU="Wisconsin" NameU="Wisconsin"/>
+    <Elem Prompt="怀俄明" Name="怀俄明" PromptU="Wyoming" NameU="Wyoming"/>
+    <Elem Prompt="北美五大湖" Name="北美五大湖" PromptU="Great Lakes" NameU="Great Lakes"/>
+    <Elem Prompt="美国" Name="美国" PromptU="USA" NameU="USA"/>
+</Lib>

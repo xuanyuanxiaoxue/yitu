@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Maintenance Symbol">
+    <Elem Prompt="流" Name="流" PromptU="Flow" NameU="Flow"/>
+    <Elem Prompt="信号发生器" Name="信号发生器" PromptU="Signal generator" NameU="Signal generator"/>
+    <Elem Prompt="线性元件" Name="线性元件" PromptU="Linear element" NameU="Linear element"/>
+    <Elem Prompt="线性元件 2" Name="线性元件 2" PromptU="Linear element 2" NameU="Linear element 2"/>
+    <Elem Prompt="继电器触点" Name="继电器触点" PromptU="Relay contacts" NameU="Relay contacts"/>
+    <Elem Prompt="继电器线圈" Name="继电器线圈" PromptU="Relay coil" NameU="Relay coil"/>
+    <Elem Prompt="开关" Name="开关" PromptU="Switch" NameU="Switch"/>
+    <Elem Prompt="复合电路" Name="复合电路" PromptU="Composite circuit" NameU="Composite circuit"/>
+    <Elem Prompt="放大器" Name="放大器" PromptU="Amplifier" NameU="Amplifier"/>
+    <Elem Prompt="信号码" Name="信号码" PromptU="Signal code" NameU="Signal code"/>
+    <Elem Prompt="参考信号" Name="参考信号" PromptU="Reference signal" NameU="Reference signal"/>
+    <Elem Prompt="激励继电器信号" Name="激励继电器信号" PromptU="Energize relay signal" NameU="Energize relay signal"/>
+    <Elem Prompt="发送器脉冲" Name="发送器脉冲" PromptU="Transmitter pulse" NameU="Transmitter pulse"/>
+    <Elem Prompt="测试信号" Name="测试信号" PromptU="Test signal" NameU="Test signal"/>
+    <Elem Prompt="反馈" Name="反馈" PromptU="Feedback" NameU="Feedback"/>
+</Lib>

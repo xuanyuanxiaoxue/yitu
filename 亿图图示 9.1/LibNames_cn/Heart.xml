@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Heart">
+    <Elem NameU="Red Curve 1" Name="红色曲线1" PromptU="Red Curve 1" Prompt="红色曲线1"/>
+    <Elem NameU="Yellow Curve 1" Name="黄色曲线1" PromptU="Yellow Curve 1" Prompt="黄色曲线1"/>
+    <Elem NameU="Red Line" Name="红色线条" PromptU="Red Line" Prompt="红色线条"/>
+    <Elem NameU="Blue Line" Name="蓝色线条" PromptU="Blue Line" Prompt="蓝色线条"/>
+    <Elem NameU="Green 1" Name="绿色1" PromptU="Green 1" Prompt="绿色1"/>
+    <Elem NameU="Red Curve 2" Name="红色曲线2" PromptU="Red Curve 2" Prompt="红色曲线2"/>
+    <Elem NameU="Yellow Flower" Name="黄色花朵" PromptU="Yellow Flower" Prompt="黄色花朵"/>
+    <Elem NameU="Red Flower" Name="红色花朵" PromptU="Red Flower" Prompt="红色花朵"/>
+    <Elem NameU="Cloud" Name="云" PromptU="Cloud" Prompt="云"/>
+    <Elem NameU="Red Curve 3" Name="红色曲线3" PromptU="Red Curve 3" Prompt="红色曲线3"/>
+    <Elem NameU="Green 2" Name="绿色2" PromptU="Green 2" Prompt="绿色2"/>
+    <Elem NameU="Yellow Curve 2" Name="黄色曲线2" PromptU="Yellow Curve 2" Prompt="黄色曲线2"/>
+    <Elem NameU="Red Dot" Name="红色斑点" PromptU="Red Dot" Prompt="红色斑点"/>
+    <Elem NameU="Green 3" Name="绿色3" PromptU="Green 3" Prompt="绿色3"/>
+    <Elem NameU="Red Curve 4" Name="红色曲线4" PromptU="Red Curve 4" Prompt="红色曲线4"/>
+    <Elem NameU="Yellow Star" Name="黄色星星" PromptU="Yellow Star" Prompt="黄色星星"/>
+    <Elem NameU="Green 4" Name="绿色4" PromptU="Green 4" Prompt="绿色4"/>
+    <Elem NameU="FingerPrint" Name="指纹图案" PromptU="FingerPrint" Prompt="指纹图案"/>
+    <Elem NameU="Green 5" Name="绿色5" PromptU="Green 5" Prompt="绿色5"/>
+    <Elem NameU="Heart group" Name="爱心组" PromptU="Heart group" Prompt="爱心组"/>
+    <Elem NameU="Green 6" Name="绿色6" PromptU="Green 6" Prompt="绿色6"/>
+    <Elem NameU="Red Curve 5" Name="红色曲线5" PromptU="Red Curve 5" Prompt="红色曲线5"/>
+    <Elem NameU="Blue 1" Name="蓝色1" PromptU="Blue 1" Prompt="蓝色1"/>
+    <Elem NameU="Pink 1" Name="粉色1" PromptU="Pink 1" Prompt="Pink 1"/>
+    <Elem NameU="Green 7" Name="绿色7" PromptU="Green 7" Prompt="绿色7"/>
+    <Elem NameU="Yellow 1" Name="黄色1" PromptU="Yellow 1" Prompt="黄色 1"/>
+    <Elem NameU="Green 8" Name="绿色8" PromptU="Green 8" Prompt="绿色8"/>
+    <Elem NameU="Red 1" Name="红色1" PromptU="Red 1" Prompt="红色 1"/>
+    <Elem NameU="Green 9" Name="绿色9" PromptU="Green 9" Prompt="绿色9"/>
+    <Elem NameU="Yellow 2" Name="黄色2" PromptU="Yellow 2" Prompt="黄色2"/>
+    <Elem NameU="Green 10" Name="绿色10" PromptU="Green 10" Prompt="绿色10"/>
+    <Elem NameU="Broken" Name="心碎" PromptU="Broken" Prompt="心碎"/>
+    <Elem NameU="Pink 2" Name="粉色2" PromptU="Pink 2" Prompt="粉色2"/>
+    <Elem NameU="Red 2" Name="红色2" PromptU="Red 2" Prompt="红色2"/>
+    <Elem NameU="Yellow Curve 3" Name="黄色曲线3" PromptU="Yellow Curve 3" Prompt="黄色曲线3"/>
+    <Elem NameU="Love 1" Name="英文爱心1" PromptU="Love 1" Prompt="英文爱心 1"/>
+    <Elem NameU="Love 2" Name="英文爱心2" PromptU="Love 2" Prompt="英文爱心2"/>
+    <Elem NameU="Green 11" Name="绿色11" PromptU="Green 11" Prompt="绿色11"/>
+    <Elem NameU="Green 12" Name="绿色12" PromptU="Green 12" Prompt="绿色12"/>
+    <Elem NameU="Yellow 3" Name="黄色3" PromptU="Yellow 3" Prompt="黄色3"/>
+    <Elem NameU="Love 3" Name="英文爱心3" PromptU="Love 3" Prompt="英文爱心3"/>
+    <Elem NameU="Green 12" Name="绿色12" PromptU="Green 12" Prompt="绿色12"/>
+    <Elem NameU="Blue 2" Name="蓝色2" PromptU="Blue 2" Prompt="蓝色2"/>
+    <Elem NameU="Green 13" Name="绿色13" PromptU="Green 13" Prompt="绿色13"/>
+    <Elem NameU="Green 14" Name="绿色14" PromptU="Green 14" Prompt="绿色14"/>
+    <Elem NameU="Red 3" Name="红色3" PromptU="Red 3" Prompt="红色3"/>
+    <Elem NameU="Pink 3" Name="粉色3" PromptU="Pink 3" Prompt="粉色3"/>
+    <Elem NameU="Red 4" Name="红色4" PromptU="Red 4" Prompt="红色4"/>
+    <Elem NameU="Yellow 4" Name="黄色4" PromptU="Yellow 4" Prompt="黄色4"/>
+    <Elem NameU="Blue 4" Name="蓝色4" PromptU="Blue 4" Prompt="蓝色4"/>
+    <Elem NameU="Green 14" Name="绿色14" PromptU="Green 14" Prompt="绿色14"/>
+    <Elem NameU="Pink 4" Name="粉色4" PromptU="Pink 4" Prompt="粉色4"/>
+    <Elem NameU="Green 15" Name="绿色15" PromptU="Green 15" Prompt="绿色15"/>
+    <Elem NameU="Wings" Name="翅膀" PromptU="Wings" Prompt="翅膀"/>
+</Lib>

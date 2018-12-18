@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="TQM Diagram Shapes">
+    <Elem Prompt="运输" Name="运输" PromptU="Transportation" NameU="Transportation"/>
+    <Elem Prompt="入站货物" Name="入站货物" PromptU="Inbound goods" NameU="Inbound goods"/>
+    <Elem Prompt="存储器" Name="存储器" PromptU="Storage" NameU="Storage"/>
+    <Elem Prompt="过程" Name="过程" PromptU="Procedure" NameU="Procedure"/>
+    <Elem Prompt="操作" Name="操作" PromptU="Operation" NameU="Operation"/>
+    <Elem Prompt="操作/检查" Name="操作/检查" PromptU="Operation or inspection" NameU="Operation or inspection"/>
+    <Elem Prompt="问题" Name="问题" PromptU="Issue" NameU="Issue"/>
+    <Elem Prompt="组织结构职能" Name="组织结构职能" PromptU="Organization function" NameU="Organization function"/>
+    <Elem Prompt="两部分职能" Name="两部分职能" PromptU="2-part function" NameU="2-part function"/>
+    <Elem Prompt="判定 1 (TQM)" Name="判定 1 (TQM)" PromptU="Decision 1 (TQM)" NameU="Decision 1 (TQM)"/>
+    <Elem Prompt="判定 2 (TQM)" Name="判定 2 (TQM)" PromptU="Decision 2 (TQM)" NameU="Decision 2 (TQM)"/>
+    <Elem Prompt="多个条件/措施判定" Name="多个条件/措施判定" PromptU="Mulit in/out decision 1" NameU="Mulit in/out decision 1"/>
+    <Elem Prompt="多个条件/措施判定 2" Name="多个条件/措施判定 2" PromptU="Mulit in/out decision 2" NameU="Mulit in/out decision 2"/>
+    <Elem Prompt="外部组织" Name="外部组织" PromptU="External organization" NameU="External organization"/>
+    <Elem Prompt="外部流程" Name="外部流程" PromptU="External process" NameU="External process"/>
+    <Elem Prompt="检查/衡量" Name="检查/衡量" PromptU="Inspection/ measurement" NameU="Inspection/ measurement"/>
+    <Elem Prompt="公制" Name="公制" PromptU="Metric" NameU="Metric"/>
+    <Elem Prompt="两部分公制" Name="两部分公制" PromptU="2-part metrix" NameU="2-part metrix"/>
+    <Elem Prompt="系统数据库" Name="系统数据库" PromptU="System database" NameU="System database"/>
+    <Elem Prompt="系统支持" Name="系统支持" PromptU="System support" NameU="System support"/>
+    <Elem Prompt="系统功能" Name="系统功能" PromptU="System function" NameU="System function"/>
+    <Elem Prompt="延迟" Name="延迟" PromptU="Delay" NameU="Delay"/>
+    <Elem Prompt="连接线 (TQM)" Name="连接线 (TQM)" PromptU="Connector(TQM)" NameU="Connector(TQM)"/>
+    <Elem Prompt="离页引用" Name="离页引用" PromptU="Off-page reference" NameU="Off-page reference"/>
+    <Elem Prompt="连接的问题" Name="连接的问题" PromptU="Connected issues" NameU="Connected issues"/>
+    <Elem Prompt="制造" Name="制造" PromptU="Fabrication" NameU="Fabrication"/>
+    <Elem Prompt="移动" Name="移动" PromptU="Move" NameU="Move"/>
+    <Elem Prompt="存储" Name="存储" PromptU="Store" NameU="Store"/>
+    <Elem Prompt="检查" Name="检查" PromptU="Inspection" NameU="Inspection"/>
+    <Elem Prompt="可选进程" Name="可选进程" PromptU="Selectable process" NameU="Selectable process"/>
+    <Elem Prompt="工作流程环 1" Name="工作流程环 1" PromptU="Work flow loop 1" NameU="Work flow loop 1"/>
+    <Elem Prompt="工作流程环 2" Name="工作流程环 2" PromptU="Work flow loop 2" NameU="Work flow loop 2"/>
+    <Elem Prompt="反馈箭头" Name="反馈箭头" PromptU="Feedback arrow" NameU="Feedback arrow"/>
+    <Elem Prompt="跨职能 - 垂直" Name="跨职能 - 垂直" PromptU="X-funtion-vert" NameU="X-funtion-vert"/>
+    <Elem Prompt="跨职能 - 水平" Name="跨职能 - 水平" PromptU="X-function-horiz" NameU="X-function-h..."/>
+    <Elem Prompt="对比因素分析" Name="对比因素分析" PromptU="Force-field analysis" NameU="Force-field analysis"/>
+    <Elem Prompt="原因 1" Name="原因 1" PromptU="Cause 1" NameU="Cause 1"/>
+    <Elem Prompt="原因 2" Name="原因 2" PromptU="Cause 2" NameU="Cause 2"/>
+    <Elem Prompt="原因 3" Name="原因 3" PromptU="Cause 3" NameU="Cause 3"/>
+    <Elem Prompt="类别" Name="类别" PromptU="Category" NameU="Category"/>
+    <Elem Prompt="类别 2" Name="类别 2" PromptU="Category 2" NameU="Category 2"/>
+    <Elem Prompt="效果" Name="效果" PromptU="Effect" NameU="Effect"/>
+    <Elem Prompt="鱼骨框架" Name="鱼骨框架" PromptU="Fish frame" NameU="Fish frame"/>
+    <Elem Prompt="动态连接线" Name="动态连接线" PromptU="Dynamic connector" NameU="Dynamic connector"/>
+    <Elem Prompt="直线-曲线连接线" Name="直线-曲线连接线" PromptU="Line-arc connector" NameU="Line-arc connector"/>
+    <Elem Prompt="直线-曲线连接线 2" Name="直线-曲线连接线 2" PromptU="Line-curve connector" NameU="Line-curve connector"/>
+    <Elem Prompt="结果" Name="结果" PromptU="Result" NameU="Result"/>
+    <Elem Prompt="无结果" Name="无结果" PromptU="No result" NameU="No result"/>
+    <Elem Prompt="分支: 返回" Name="分支: 返回" PromptU="Branch-return" NameU="Branch-return"/>
+    <Elem Prompt="分支: 无返回" Name="分支: 无返回" PromptU="Branch-no return" NameU="Branch-no return"/>
+    <Elem Prompt="中断" Name="中断" PromptU="Interrupt" NameU="Interrupt"/>
+    <Elem Prompt="外部控制" Name="外部控制" PromptU="External control" NameU="External control"/>
+    <Elem Prompt="优化" Name="优化" PromptU="Refinement" NameU="Refinement"/>
+</Lib>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Rotating Equip and Mech Functions">
+    <Elem Prompt="旋转机器 1" Name="旋转机器 1" PromptU="Motor" NameU="Motor"/>
+    <Elem Prompt="旋转机器 2" Name="旋转机器 2" PromptU="Step motor" NameU="Step motor"/>
+    <Elem Prompt="旋转机器 3" Name="旋转机器 3" PromptU="DC motor" NameU="DC motor"/>
+    <Elem Prompt="旋转机器 4" Name="旋转机器 4" PromptU="AC motor" NameU="AC motor"/>
+    <Elem Prompt="电动发电机" Name="电动发电机" PromptU="Motor generator" NameU="Motor generator"/>
+    <Elem Prompt="同步发电机" Name="同步发电机" PromptU="Synchronous generator" NameU="Synchronous generator"/>
+    <Elem Prompt="手摇发电机" Name="手摇发电机" PromptU="Hand generator" NameU="Hand generator"/>
+    <Elem Prompt="同步发电机" Name="同步发电机" PromptU="Synchronous generator" NameU="Synchronous generator"/>
+    <Elem Prompt="同步转换器" Name="同步转换器" PromptU="Synchronous converter" NameU="Synchronous converter"/>
+    <Elem Prompt="电枢" Name="电枢" PromptU="Armature" NameU="Armature"/>
+    <Elem Prompt="电刷" Name="电刷" PromptU="Brush" NameU="Brush"/>
+    <Elem Prompt="场" Name="场" PromptU="Field" NameU="Field"/>
+    <Elem Prompt="永磁体" Name="永磁体" PromptU="Permanent Magnet" NameU="Permanent Magnet"/>
+    <Elem Prompt="绕组连接" Name="绕组连接" PromptU="Winding connection" NameU="Winding connection"/>
+    <Elem Prompt="1-阶" Name="1-阶" PromptU="1-phase" NameU="1-phase"/>
+    <Elem Prompt="2-阶" Name="2-阶" PromptU="2-phase" NameU="2-phase"/>
+    <Elem Prompt="3相怀" Name="3相怀" PromptU="3-phase Wye" NameU="3-phase Wye"/>
+    <Elem Prompt="6相对径" Name="6相对径" PromptU="6-phase Diametrical" NameU="6-phase Diametrical"/>
+    <Elem Prompt="6相双三角" Name="6相双三角" PromptU="6-phase Double-delta" NameU="6-phase Double-delta"/>
+    <Elem Prompt="同步机" Name="同步机" PromptU="Synchro" NameU="Synchro"/>
+    <Elem Prompt="制动器" Name="制动器" PromptU="Brake" NameU="Brake"/>
+    <Elem Prompt="齿轮" Name="齿轮" PromptU="Gearing" NameU="Gearing"/>
+    <Elem Prompt="旋转" Name="旋转" PromptU="Rotation" NameU="Rotation"/>
+    <Elem Prompt="离合器" Name="离合器" PromptU="Clutch" NameU="Clutch"/>
+    <Elem Prompt="离合器 2" Name="离合器 2" PromptU="Clutch 2" NameU="Clutch 2"/>
+    <Elem Prompt="被延迟的动作" Name="被延迟的动作" PromptU="Delayed action" NameU="Delayed action"/>
+    <Elem Prompt="手动控制" Name="手动控制" PromptU="Manual control" NameU="Manual control"/>
+    <Elem Prompt="受限制的闭锁装置" Name="受限制的闭锁装置" PromptU="Restricted blocking device " NameU="Restricted blocking device "/>
+    <Elem Prompt="推动" Name="推动" PromptU="Pushing" NameU="Pushing"/>
+    <Elem Prompt="推" Name="推" PromptU="Push" NameU="Push"/>
+    <Elem Prompt="拉" Name="拉" PromptU="Pulling" NameU="Pulling"/>
+    <Elem Prompt="转弯" Name="转弯" PromptU="Turning" NameU="Turning"/>
+    <Elem Prompt="关键点" Name="关键点" PromptU="Key" NameU="Key"/>
+    <Elem Prompt="方向盘" Name="方向盘" PromptU="Handwheel" NameU="Handwheel"/>
+    <Elem Prompt="触摸" Name="触摸" PromptU="Touching" NameU="Touching"/>
+    <Elem Prompt="控手柄" Name="控手柄" PromptU="Remote Handle" NameU="Remote Handle"/>
+    <Elem Prompt="应急开关" Name="应急开关" PromptU="Emergency switch" NameU="Emergency switch"/>
+    <Elem Prompt="滚轴" Name="滚轴" PromptU="Roller" NameU="Roller"/>
+    <Elem Prompt="曲柄" Name="曲柄" PromptU="Crank" NameU="Crank"/>
+    <Elem Prompt="闭锁装置" Name="闭锁装置" PromptU="Blocking device" NameU="Blocking device"/>
+    <Elem Prompt="左方运动封锁" Name="左方运动封锁" PromptU="Movement left blocked" NameU="Movement left blocked"/>
+    <Elem Prompt="右方运动封锁" Name="右方运动封锁" PromptU="Movement right blocked" NameU="Movement right blocked"/>
+    <Elem Prompt="闭锁设备" Name="闭锁设备" PromptU="Latching device" NameU="Latching device"/>
+    <Elem Prompt="机械联锁装置" Name="机械联锁装置" PromptU="Mechanical interlock" NameU="Mechanical interlock"/>
+    <Elem Prompt="自动返回" Name="自动返回" PromptU="Automatic return" NameU="Automatic return"/>
+    <Elem Prompt="制动销" Name="制动销" PromptU="Detent" NameU="Detent"/>
+</Lib>

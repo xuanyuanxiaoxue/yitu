@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Gestures">
+    <Elem NameU="Shake hands" Name="握手" PromptU="Shake Hands" Prompt="握手"/>
+    <Elem NameU="Cooperation" Name="合作" PromptU="Cooperation" Prompt="合作"/>
+    <Elem NameU="Competition" Name="竞争" PromptU="Competition" Prompt="竞争"/>
+    <Elem NameU="Gesture" Name="手势" PromptU="Gesture" Prompt="手势"/>
+    <Elem NameU="Good" Name="点赞手势" PromptU="Good" Prompt="点赞手势"/>
+    <Elem NameU="Point 1" Name="手势方向1" PromptU="Point 1" Prompt="手势方向1"/>
+    <Elem NameU="Point 2" Name="手势方向2" PromptU="Point 2" Prompt="手势方向2"/>
+	<Elem NameU="Guesture 1" Name="手势1" PromptU="Gesture 1" Prompt="手势1"/>
+	<Elem NameU="Gesture 1" Name="手势1" PromptU="Gesture 1" Prompt="手势1"/>
+    <Elem NameU="Gesture 2" Name="手势2" PromptU="Gesture 2" Prompt="手势2"/>
+    <Elem NameU="Cheers" Name="胜利手势" PromptU="Cheers" Prompt="胜利手势"/>
+    <Elem NameU="Gesture 3" Name="手势3" PromptU="Gesture 3" Prompt="手势3"/>
+    <Elem NameU="Gesture 4" Name="手势4" PromptU="Gesture 4" Prompt="手势4"/>
+    <Elem NameU="Gesture 5" Name="手势5" PromptU="Gesture 5" Prompt="手势5"/>
+    <Elem NameU="Gesture 6" Name="手势6" PromptU="Gesture 6" Prompt="手势6"/>
+    <Elem NameU="Gesture 7" Name="手势7" PromptU="Gesture 7" Prompt="手势7"/>
+	<Elem NameU="Gesture 8" Name="手势8" PromptU="Gesture 8" Prompt="手势8"/>
+	<Elem NameU="Gesture 9" Name="手势9" PromptU="Gesture 9" Prompt="手势9"/>
+	<Elem NameU="Gesture 10" Name="手势10" PromptU="Gesture 10" Prompt="手势10"/>
+	<Elem NameU="Gesture 11" Name="手势11" PromptU="Gesture 11" Prompt="手势11"/>
+	<Elem NameU="Gesture 12" Name="手势12" PromptU="Gesture 12" Prompt="手势12"/>
+	<Elem NameU="Gesture 13" Name="手势13" PromptU="Gesture 13" Prompt="手势13"/>
+	<Elem NameU="Gesture 14" Name="手势14" PromptU="Gesture 14" Prompt="手势14"/>
+	<Elem NameU="Gesture 15" Name="手势15" PromptU="Gesture 15" Prompt="手势15"/>
+	<Elem NameU="Gesture 16" Name="手势16" PromptU="Gesture 16" Prompt="手势16"/>
+	<Elem NameU="Gesture 17" Name="手势17" PromptU="Gesture 17" Prompt="手势17"/>
+	<Elem NameU="Gesture 18" Name="手势18" PromptU="Gesture 18" Prompt="手势18"/>
+	<Elem NameU="Gesture 19" Name="手势19" PromptU="Gesture 19" Prompt="手势19"/>
+	<Elem NameU="Gesture 20" Name="手势20" PromptU="Gesture 20" Prompt="手势20"/>
+	<Elem NameU="Gesture 21" Name="手势21" PromptU="Gesture 21" Prompt="手势21"/>
+	<Elem NameU="Gesture 22" Name="手势22" PromptU="Gesture 22" Prompt="手势22"/>
+	<Elem NameU="Gesture 23" Name="手势23" PromptU="Gesture 23" Prompt="手势23"/>
+	<Elem NameU="Gesture 24" Name="手势24" PromptU="Gesture 24" Prompt="手势24"/>
+	<Elem NameU="Gesture 25" Name="手势25" PromptU="Gesture 25" Prompt="手势25"/>
+	<Elem NameU="Gesture 26" Name="手势26" PromptU="Gesture 26" Prompt="手势26"/>
+	<Elem NameU="Gesture 27" Name="手势27" PromptU="Gesture 27" Prompt="手势27"/>
+	<Elem NameU="Gesture 28" Name="手势28" PromptU="Gesture 28" Prompt="手势28"/>
+	<Elem NameU="Gesture 29" Name="手势29" PromptU="Gesture 29" Prompt="手势29"/>
+	<Elem NameU="Gesture 30" Name="手势30" PromptU="Gesture 30" Prompt="手势30"/>
+    <Elem NameU="Welcome" Name="欢迎手势" PromptU="Welcome" Prompt="欢迎手势"/>
+    <Elem NameU="Power" Name="握拳手势" PromptU="Power" Prompt="握拳手势"/>
+</Lib>

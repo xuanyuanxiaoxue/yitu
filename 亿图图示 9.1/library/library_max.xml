@@ -1,0 +1,570 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Library version = "1.0" >
+<Templates Name = "General" version = "1.0" > 
+	<Template Path = "./Basic Shape/backgrounds.edt" Name = "Backgrounds"></Template> 
+	<Template Path = "./Basic Shape/borders.edt" Name = "Borders"></Template>
+	<Template Path = "./Basic Shape/Titles.edt" Name = "Titles"></Template>	
+	<Template Path = "./Basic Shape/callouts.edt" Name = "Callouts"></Template>
+	<Template Path = "./Basic Shape/basicshapes.edt" Name = "Basic Drawing Shapes"></Template>	
+	<Template Path = "./Basic Shape/Text Box.edt" Name = "Text Box"></Template>
+	<Template path = "" Name = "SEPARATOR"></Template>
+	
+  <Template Path = "./Basic Shape/Arrow Connectors.edt" Name = "Arrow Connectors"></Template>	
+  <Template Path = "./Basic Shape/connectors.edt" Name = "Connectors"></Template>	
+  <Template Path = "./Basic Shape/Lines.edt" Name = "Lines"></Template>	
+  
+  <Template path = "" Name = "SEPARATOR"></Template> 
+  <Template Path = "./Basic Shape/2DBlock.edt" Name = "2D Block"></Template>
+  <Template Path = "./Basic Shape/3Dblock.edt" Name = "3D Block"></Template>
+  <Template Path = "./Basic Shape/arrow.edt" Name = "Arrow Shapes"></Template>	
+	<Template Path = "./Basic Shape/Common Shapes.edt" Name = "Common Shapes"></Template>
+	<Template Path = "./Basic Shape/Icons.edt" Name = "Icons"></Template>
+	<Template Path = "./Basic Shape/Circular Charting Shapes.edt" Name = "Circular Charting Shapes"></Template>		
+	<Template Path = "./Basic Shape/highlightshapes.edt" Name = "Highlight Shapes"></Template>
+	<Template Path = "./Basic Shape/List Shapes.edt" Name = "List Shapes"></Template>
+	<Template Path = "./Basic Shape/List Shapes Dynamic.edt" Name = "List Shapes (Dynamic)"></Template>
+	<Template Path = "./Basic Shape/Pyramid Shapes.edt" Name = "Pyramid Shapes"></Template>	
+	<Template Path = "./Basic Shape/Venn Shapes.edt" Name = "Venn Shapes"></Template>
+	
+	<Template path = "" Name = "SEPARATOR"></Template>
+	<Template Path = "./Basic Shape/Dimensioning.edt" Name = "Dimensioning"></Template>	
+	
+</Templates>
+
+<Templates Name = "Clip Art" version = "1.0" > 
+
+<Templates Name = "Animal" version = "1.0" >	
+	<Template Path = "./Symbols/Terricole.edt" Name = "Terricole"></Template>
+	<Template Path = "./Symbols/Sea Life.edt" Name = "Sea Life"></Template>
+    <Template Path = "./Symbols/Insect.edt" Name = "Insect"></Template>
+</Templates>
+	<Template Path = "./Symbols/Architecture.edt" Name = "Buildings"></Template>
+<Templates Name = "Business" version = "1.0" >	
+	<Template Path = "./Symbols/Business.edt" Name = "Business"></Template>
+	<Template Path = "./Symbols/Business Flat.edt" Name = "Business Flat"></Template>	
+	<Template Path = "./Symbols/Business Scene.edt" Name = "Business Scene 1"></Template>
+	<Template Path = "./Symbols/Business Scene2.edt" Name = "Business Scene 2"></Template>
+	<Template Path = "./Symbols/Finance.edt" Name = "Finance"></Template>
+	<Template Path = "./Symbols/Finance Flat.edt" Name = "Finance Flat"></Template>
+	<Template Path = "./Symbols/Money.edt" Name = "Money"></Template>	
+	<Template Path = "./Symbols/Office.edt" Name = "Office"></Template>		
+	<Template Path = "./Symbols/Office Flat.edt" Name = "Office Flat"></Template>	
+	<Template Path = "./Symbols/Marketing.edt" Name = "Marketing"></Template>
+	<Template Path = "./Symbols/Shopping.edt" Name = "Shopping"></Template>
+	<Template Path = "./Symbols/Discount Labels.edt" Name = "Discount Labels"></Template>			
+</Templates>
+
+<Templates Name = "Design Elements" version = "1.0" >	
+	<Template Path = "./Symbols/Bow.edt" Name = "Bow"></Template> 
+	<Template Path = "./Symbols/Heart.edt" Name = "Heart"></Template>	
+	<Template Path = "./Symbols/Ornament.edt" Name = "Ornament"></Template>
+	<Template Path = "./Symbols/Social Media Icons.edt" Name = "Social Media Icons"></Template>
+    <Template Path = "./Symbols/Gestures.edt" Name = "Gestures"></Template>
+	<Template Path = "./Symbols/Flags.edt" Name = "Flags"></Template>
+</Templates>
+
+
+<Templates Name = "Education" version = "1.0" >	
+	<Template Path = "./Symbols/School.edt" Name = "School"></Template>
+	<Template Path = "./Symbols/Education.edt" Name = "Education"></Template>	
+	<Template Path = "./Symbols/Music.edt" Name = "Music"></Template>	
+</Templates>
+	<Template Path = "./Symbols/Environment.edt" Name = "Environment"></Template>
+
+<Templates Name = "Fashion" version = "1.0" >	
+	<Template Path = "./Symbols/Fashion Clothes.edt" Name = "Fashion Clothes"></Template>
+	<Template Path = "./Symbols/Fashion Models.edt" Name = "Fashion Models"></Template>	
+	<Template Path = "./Symbols/Fashion Items.edt" Name = "Fashion Items"></Template>
+</Templates>
+
+<Templates Name = "Festival" version = "1.0" >	
+	<Template Path = "./Business Card/Birthday.edt" Name = "Birthday"></Template>
+	<Template Path = "./Business Card/Christmas.edt" Name = "Christmas"></Template>
+	<Template Path = "./Business Card/Carnival.edt" Name = "Carnival"></Template>	
+	<Template Path = "./Business Card/Childrens Day.edt" Name = "Children's Day"></Template>	
+	<Template Path = "./Business Card/Easter.edt" Name = "Easter"></Template>	
+	<Template Path = "./Business Card/Halloween.edt" Name = "Halloween"></Template>
+	<Template Path = "./Business Card/New Year.edt" Name = "New Year"></Template>		
+	<Template Path = "./Business Card/Valentines Day.edt" Name = "Valentine's Day"></Template>	
+</Templates>
+
+<Templates Name = "Food" version = "1.0" >	
+	<Template Path = "./Symbols/Food.edt" Name = "Food"></Template>
+	<Template Path = "./Symbols/Bread.edt" Name = "Bread"></Template>
+	<Template Path = "./Symbols/Fruit.edt" Name = "Fruit"></Template>
+	<Template Path = "./Symbols/Drink.edt" Name = "Drink"></Template>
+	<Template Path = "./Symbols/Tableware.edt" Name = "Tableware"></Template>
+</Templates>
+	<Template Path = "./Symbols/Medical.edt" Name = "Medical"></Template>
+	<Template Path = "./Symbols/News.edt" Name = "News Media"></Template>
+	
+<Template Path = "./Symbols/Graphic Organizer.edt" Name = "Graphic Organizer"></Template>
+
+<Templates Name = "Nature" version = "1.0" >	
+	<Template Path = "./Symbols/Flowers.edt" Name = "Flowers"></Template>
+	<Template Path = "./Symbols/Leaves.edt" Name = "Leaves"></Template>	
+	<Template Path = "./Symbols/Trees.edt" Name = "Trees"></Template>
+	<Template Path = "./Symbols/Landscape.edt" Name = "Landscape"></Template>	
+	<Template Path = "./Symbols/Weather.edt" Name = "Weather"></Template>	
+</Templates>
+
+
+<Templates Name = "People" version = "1.0" >	
+	<Template Path = "./Symbols/Silhouette.edt" Name = "Silhouette"></Template>
+	<Template Path = "./Symbols/Business People.edt" Name = "Business People"></Template>	
+	<Template Path = "./Symbols/Profession.edt" Name = "Profession"></Template>
+	<Template Path = "./Symbols/Profession Half-length.edt" Name = "Profession Half-length"></Template>
+	<Template Path = "./Symbols/user.edt" Name = "User"></Template>
+	<Template Path = "./Symbols/People Activity Pictogram.edt" Name = "People Activity Pictogram"></Template>	
+	<Template Path = "./Symbols/3D People Pictogram.edt" Name = "3D People Pictogram"></Template>	
+</Templates>
+	
+	<Template Path = "./Symbols/Religion.edt" Name = "Religion"></Template>		
+
+<Templates Name = "Sports" version = "1.0" >	
+	<Template Path = "./Symbols/Sports.edt" Name = "Sport Silhouette"></Template>
+	<Template Path = "./Symbols/Sport Elements.edt" Name = "Sport Elements"></Template>	
+	<Template Path = "./Symbols/Fitness.edt" Name = "Fitness"></Template>
+</Templates>
+
+<Templates Name = "Technology" version = "1.0" >	
+	<Template Path = "./Symbols/Electronics.edt" Name = "Electronics"></Template>
+	<Template Path = "./Symbols/Artificial Intelligence.edt" Name = "Artificial Intelligence"></Template>
+    <Template Path = "./Symbols/Biotechnology.edt" Name = "Biotechnology"></Template>	
+	<Template Path = "./Symbols/Aerospace Technology.edt" Name = "Aerospace Technology"></Template>
+</Templates>
+	<Template Path = "./Symbols/Tourism.edt" Name = "Tourism"></Template>
+
+<Templates Name = "Transportation" version = "1.0" >	
+	<Template Path = "./Symbols/Transportation.edt" Name = "Transportation"></Template>
+	<Template Path = "./Maps/Road signs.edt" Name = "Road Signs"></Template>	
+	<Template Path = "./Symbols/Vehicles.edt" Name = "Vehicles"></Template>
+</Templates>
+</Templates>
+
+<Templates Name = "Business Diagram" version = "1.0" >
+	<Template Path = "./Business Process/auditflow.edt" Name = "Audit Diagram Shapes"></Template>	
+	<Template Path = "./Business Process/causeeffect.edt" Name = "Cause and Effect Diagram"></Template>	
+	<Template Path = "./Business Process/Enterprise Architecture.edt" Name = "Enterprise Architecture"></Template>
+	<Template Path = "./Business Process/EPC.edt" Name = "EPC Diagram Shapes"></Template>
+	<Template Path = "./Business Process/faulttree.edt" Name = "Fault Tree Analysis Shapes"></Template>
+	<Template Path = "./Business Process/TQM.edt" Name = "TQM Diagram Shapes"></Template>
+	<Template Path = "./Business Process/Value stream mapping.edt" Name = "Value Stream Map Shapes"></Template>
+	
+	<Template path = "" Name = "SEPARATOR"></Template>	
+	<Template Path = "./Business Process/Process Shapes.edt" Name = "Process Shapes"></Template>	
+	<Template Path = "./Business Process/Matrix.edt" Name = "Matrix"></Template>	
+	<Template Path = "./Business Process/Five Forces Shapes.edt" Name = "Five Forces Shapes"></Template>
+	<Template Path = "./Business Process/PEST.edt" Name = "PEST"></Template>			
+	<Template Path = "./Business Process/Value Chain.edt" Name = "Value Chain"></Template>
+	<Template Path = "./Business Process/Six Sigma.edt" Name = "Six Sigma Matrix"></Template>	
+		
+	<Template path = "" Name = "SEPARATOR"></Template>			
+	<Template Path = "./Business Process/marketing diagrams.edt" Name = "Marketing Diagrams"></Template>	
+	<Template Path = "./Business Process/marketing shapes.edt" Name = "Marketing Shapes"></Template>
+</Templates>
+
+<Templates Name = "Card" version = "1.0" >  
+	<Template Path = "./Forms/Forms.edt" Name = "Forms"></Template>
+	<Template Path = "./Presentation/Certificate.edt" Name = "Ornament"></Template>
+	<Template Path = "./Presentation/Gift Voucher.edt" Name = "Discount Labels"></Template>
+	<Template path = "" Name = "SEPARATOR"></Template>				
+	<Template Path = "./Business Card/BusinessCardTemplates.edt" Name = "Business Card Templates"></Template>
+	<Template Path = "./Business Card/BusinessCardText.edt" Name = "Business Card Text"></Template>
+	<Template Path = "./Business Card/Birthday.edt" Name = "Birthday"></Template>
+	<Template Path = "./Business Card/Christmas.edt" Name = "Christmas"></Template>
+	<Template Path = "./Business Card/Carnival.edt" Name = "Carnival"></Template>
+	<Template Path = "./Business Card/Childrens Day.edt" Name = "Children's Day"></Template>
+	<Template Path = "./Business Card/Easter.edt" Name = "Easter"></Template>  
+	<Template Path = "./Business Card/Halloween.edt" Name = "Halloween"></Template>  
+	<Template Path = "./Business Card/New Year.edt" Name = "New Year"></Template>
+	<Template Path = "./Business Card/Valentines Day.edt" Name = "Valentine's Day"></Template>
+</Templates>
+
+<Templates Name = "Chart" version = "1.0" >	
+	<Template Path = "./Chart/Basic Charts.edt" Name = "Basic Charts"></Template>	
+	<Template path = "" Name = "SEPARATOR"></Template>	
+	<Template Path = "./Chart/Column.edt" Name = "Column"></Template>
+	<Template Path = "./Chart/Bar.edt" Name = "Bar"></Template>
+	<Template Path = "./Chart/Pie and Doughnut.edt" Name = "Pie and Doughnut"></Template>	
+	<Template Path = "./Chart/Line and Area.edt" Name = "Line and Area"></Template>
+	<Template Path = "./Chart/Scatter and Bubble.edt" Name = "Scatter and Bubble"></Template>		
+	<Template Path = "./Chart/Spider.edt" Name = "Spider"></Template>	
+	<Template Path = "./Chart/Gauges.edt" Name = "Gauges"></Template>
+	<Template Path = "./Chart/Comparison Chart.edt" Name = "Comparison Chart"></Template>
+	<Template Path = "./Chart/Comparison Indicators.edt" Name = "Comparison Indicators"></Template>				
+</Templates>
+
+<Templates Name = "Electrical Engineering" version = "1.0" >
+	<Template Path = "./Electrical Engineering/Basic Electrical Symbols.edt" Name = "Basic Electrical Symbols"></Template>
+	<Template Path = "./Electrical Engineering/Qualifying Symbols.edt" Name = "Qualifying Symbols"></Template>
+	<Template Path = "./Electrical Engineering/Semiconductor Devices.edt" Name = "Semiconductor Devices"></Template>	
+	<Template Path = "./Electrical Engineering/Switches and Relays.edt" Name = "Switches and Relays"></Template>
+	<Template Path = "./Electrical Engineering/Resistors and Capacitors.edt" Name = "Resistors and Capacitors"></Template>
+	<Template Path = "./Electrical Engineering/Electrical Instruments.edt" Name = "Electrical Instruments"></Template>
+	<Template Path = "./Electrical Engineering/Electrical Audio.edt" Name = "Electrical Audio"></Template>
+	<Template Path = "./Electrical Engineering/Source and Battery.edt" Name = "Source and Battery"></Template>
+	<Template Path = "./Electrical Engineering/Optical Symbols.edt" Name = "Optical Symbols"></Template>
+	<Template Path = "./Electrical Engineering/Transmission Path.edt" Name = "Transmission Path"></Template>
+	<Template path = "" Name = "SEPARATOR"></Template>
+	<Template Path = "./Electrical Engineering/Analog and Digital Logic.edt" Name = "Analog and Digital Logic"></Template>
+	<Template Path = "./Electrical Engineering/Integrated Circuit Component.edt" Name = "Integrated Circuit Components"></Template>	
+	<Template Path = "./Electrical Engineering/Terminals and Connectors.edt" Name = "Terminals and Connectors"></Template>
+	<Template path = "" Name = "SEPARATOR"></Template>
+	<Template Path = "./Electrical Engineering/Rotating Equip and Mech Functions.edt" Name = "Rotating Equip and Mech Functions"></Template>
+	<Template Path = "./Electrical Engineering/Transformers and Windings.edt" Name = "Transformers and Windings"></Template>	
+	<Template path = "" Name = "SEPARATOR"></Template>
+	<Template Path = "./Electrical Engineering/Composite Assemblies.edt" Name = "Composite Assemblies"></Template>
+	<Template Path = "./Electrical Engineering/Maintenance Symbol.edt" Name = "Maintenance Symbol"></Template>
+	<Template Path = "./Electrical Engineering/Maps and Charts.edt" Name = "Maps and Charts"></Template>
+	<Template Path = "./Electrical Engineering/Telecom Switch and Peripheral Equip.edt" Name = "Telecom Switch and Peripheral Equip"></Template>
+	<Template Path = "./Electrical Engineering/VHF-UHF-SHF.edt" Name = "VHF-UHF-SHF"></Template>
+</Templates>
+
+<Templates Name = "ERD and Database" version = "1.0" >
+	<Template Path = "./ERD and Database/Chen ERD.edt" Name = "Chen ERD"></Template>	
+	<Template Path = "./ERD and Database/Entity Relationship.edt" Name = "Entity Relationship"></Template>	
+	<Template Path = "./ERD and Database/Express-G.edt" Name = "Express-G"></Template>	
+	<Template Path = "./ERD and Database/Martin ERD.edt" Name = "Martin ERD"></Template>	
+	<Template Path = "./ERD and Database/Object Relationship.edt" Name = "Object Relationship"></Template>	
+	<Template Path = "./ERD and Database/ORM Diagram.edt" Name = "ORM Diagram"></Template>	
+</Templates>
+
+<Templates Name = "Fashion Design" version = "1.0">
+	<Template Path = "./Dress Design/Model.edt" Name = "Models"></Template>	
+  <Template Path = "./Dress Design/Fashion.edt" Name = "Fashion"></Template>	
+  <Template path = "" Name = "SEPARATOR"></Template>			
+	<Template Path = "./Dress Design/Child dress.edt" Name = "Child Dress" download = "Child dress.zip"></Template>	
+  <Template path = "" Name = "SEPARATOR"></Template>
+	<Template Path = "./Dress Design/Man suit.edt" Name = "Man Suit" download = "Man suit.zip"></Template>		
+	<Template path = "" Name = "SEPARATOR"></Template>
+	<Template Path = "./Dress Design/Girl dress 1.edt" Name = "Girl Dress 1" download = "Girl dress 1.zip"></Template>
+	<Template Path = "./Dress Design/Girl dress 2.edt" Name = "Girl Dress 2" download = "Girl dress 2.zip"></Template>	
+	<Template Path = "./Dress Design/Girl dress 3.edt" Name = "Girl Dress 3" download = "Girl dress 3.zip"></Template>
+	<Template Path = "./Dress Design/Girl dress 4.edt" Name = "Girl Dress 4" download = "Girl dress 4.zip"></Template>	
+	<Template Path = "./Dress Design/Girl dress 5.edt" Name = "Girl Dress 5" download = "Girl dress 5.zip"></Template>
+	<Template Path = "./Dress Design/Girl dress 6.edt" Name = "Girl Dress 6" download = "Girl dress 6.zip"></Template>	
+	<Template Path = "./Dress Design/Girl dress 7.edt" Name = "Girl Dress 7" download = "Girl dress 7.zip"></Template>
+	<Template Path = "./Dress Design/Girl dress 8.edt" Name = "Girl Dress 8" download = "Girl dress 8.zip"></Template>	
+</Templates>
+
+<Templates Name = "Flowchart" version = "1.0">
+	<Template Path = "./Flowchart/basicflow.edt" Name = "Basic Flowchart Shapes"></Template>
+	<Template Path = "./Flowchart/bpmn.edt" Name = "BPMN Shapes"></Template>
+	<Template Path = "./Flowchart/cross functional horizontal.edt" Name = "Cross Functional Horizontal"></Template>
+	<Template Path = "./Flowchart/cross functional vertical.edt" Name = "Cross Functional Vertical"></Template>				
+	<Template Path = "./Flowchart/dataflow.edt" Name = "Data Flow Diagram Shapes"></Template>	
+	<Template Path = "./Flowchart/IDEF0.edt" Name = "IDEF0 Diagram Shapes"></Template>
+	<Template Path = "./Flowchart/IDEF2.edt" Name = "IDEF2 Diagram Shapes"></Template>	
+	<Template Path = "./Flowchart/highlight flowchart.edt" Name = "Highlight Flowchart Shapes"></Template>
+	<Template Path = "./Flowchart/miscellaneous flowchart shapes.edt" Name = "Miscellaneous Flowchart Shapes"></Template>			
+	<Template Path = "./Flowchart/sdlflow.edt" Name = "SDL Diagram Shapes"></Template>	
+	<Template Path = "./Flowchart/eventflowdiagram.edt" Name = "Event Flow Diagram"></Template>	
+	<Template path = "" Name = "SEPARATOR"></Template>	
+	<Template Path = "./Flowchart/Work Flow Department.edt" Name = "Work Flow Department"></Template>	
+	<Template Path = "./Flowchart/work flow objects.edt" Name = "Work Flow Objects"></Template>
+	<Template Path = "./Flowchart/Work Flow Steps.edt" Name = "Work Flow Steps"></Template>					
+</Templates>
+
+<Templates Name = "Floor Plan" version = "1.0" >	
+	<Template Path = "./Basic Shape/Dimensioning.edt" Name = "Dimensioning"></Template>
+	<Template Path = "./Building Plans/WallShellStructure.edt" Name = "Wall, Shell and Structure"></Template>
+	<Template path = "" Name = "SEPARATOR"></Template>
+	
+	<Template Path = "./Building Plans/Building Core.edt" Name = "Building Core"></Template>
+	<Template Path = "./Building Plans/Bedroom.edt" Name = "Bedroom"></Template>
+	<Template Path = "./Building Plans/Bathroom.edt" Name = "Bathroom"></Template>	
+	<Template Path = "./Building Plans/Kitchen.edt" Name = "Kitchen and Dining Room"></Template>	
+	<Template Path = "./Building Plans/Sofas.edt" Name = "Sofas"></Template>	
+	<Template Path = "./Building Plans/Tables and Chairs.edt" Name = "Tables and Chairs"></Template>
+	<Template Path = "./Building Plans/Cabinets.edt" Name = "Cabinets and Bookcases"></Template>		
+	<Template Path = "./Building Plans/Appliances.edt" Name = "Appliances"></Template>	
+	<Template Path = "./Building Plans/Athletic ground.edt" Name = "Athletic Ground"></Template>	
+	<Template Path = "./Building Plans/Carpet.edt" Name = "Carpet"></Template>
+	<Template path = "" Name = "SEPARATOR"></Template>
+	<Template Path = "./Building Plans/ElectricalTelecom.edt" Name = "Electrical and Telecom"></Template>
+	<Template Path = "./Building Plans/Lighting.edt" Name = "Lighting"></Template>		
+	<Template path = "" Name = "SEPARATOR"></Template>	
+	<Template Path = "./Building Plans/OfficeEquipment.edt" Name = "Office Equipment"></Template>
+	<Template Path = "./Building Plans/OfficeFurniture.edt" Name = "Office Furniture"></Template>
+	<Template path = "" Name = "SEPARATOR"></Template>
+	<Template Path = "./Building Plans/Elevations.edt" Name = "Elevations"></Template>	
+	<Template Path = "./Building Plans/Kitchen(Elevation).edt" Name = "Kitchen (Elevation)"></Template>	
+	<Template Path = "./Building Plans/Lighting and Handbag(Elevation).edt" Name = "Lighting and Handbag (Elevation)"></Template>	
+	<Template Path = "./Building Plans/Windows and Doors(Elevation).edt" Name = "Windows and Doors (Elevation)"></Template>	
+	<Template Path = "./Building Plans/Dining Room(Elevation).edt" Name = "Dining Room (Elevation)"></Template>	
+	<Template Path = "./Building Plans/Wardrobe.edt" Name = "Wardrobe"></Template>	
+	<Template path = "" Name = "SEPARATOR"></Template>
+	<Template Path = "./Building Plans/Garden.edt" Name = "Garden"></Template>
+	<Template Path = "./Building Plans/Plants.edt" Name = "Plants"></Template>
+	<Template path = "" Name = "SEPARATOR"></Template>
+	<Template Path = "./Building Plans/Fire and Emergency.edt" Name = "Fire and Emergency"></Template>	
+	<Template path = "" Name = "SEPARATOR"></Template>
+	<Template Path = "./Building Plans/Alarm and Access Control.edt" Name = "Alarm and Access Control"></Template>
+	<Template Path = "./Building Plans/Video Surveillance.edt" Name = "Video Surveillance"></Template>	
+	<Template Path = "./Building Plans/Initiation and Annunciation.edt" Name = "Initiation and Annunciation"></Template>
+	<Template path = "" Name = "SEPARATOR"></Template>
+	<Template Path = "./Building Plans/Plumbing.edt" Name = "Plumbing"></Template>
+	<Template Path = "./Building Plans/HVAC Equipment.edt" Name = "HVAC Equipment"></Template>
+	<Template Path = "./Building Plans/HVAC Ductwork.edt" Name = "HVAC Ductwork"></Template>	
+	<Template Path = "./Building Plans/HVAC Controls.edt" Name = "HVAC Controls"></Template>	
+	<Template Path = "./Building Plans/HVAC Controls Equipment.edt" Name = "HVAC Controls Equipment"></Template>	
+	<Template Path = "./Building Plans/Registers Grills and Diffusers.edt" Name = "Registers Grills and Diffusers"></Template>		
+</Templates>
+
+<Templates Name = "Industrial Automation" version = "1.0" >
+	<Template Path = "./PID/Ductwork.edt" Name = "PID Ductwork"></Template>
+	<Template Path = "./PID/PID Valves.edt" Name = "PID Valves"></Template>	
+	<Template Path = "./PID/Valves Symbols.edt" Name = "PID Valves Symbols"></Template>
+	<Template path = "" Name = "SEPARATOR"></Template>	
+	<Template Path = "./PID/Blowers.edt" Name = "PID Blowers"></Template>
+	<Template Path = "./PID/Boilers.edt" Name = "PID Boilers"></Template>	
+	<Template Path = "./PID/Chemistry.edt" Name = "PID Chemistry"></Template>	
+	<Template Path = "./PID/Containers.edt" Name = "PID Containers"></Template>		
+	<Template Path = "./PID/Flow Meters.edt" Name = "PID Flow Meters"></Template>
+	<Template Path = "./PID/Food Processing.edt" Name = "PID Food Processing"></Template>	
+	<Template Path = "./PID/Heaters.edt" Name = "PID Heaters"></Template>
+	<Template Path = "./PID/HVAC.edt" Name = "PID HVAC"></Template>
+	<Template Path = "./PID/Industry.edt" Name = "PID Industry"></Template>	
+	<Template Path = "./PID/Logistics.edt" Name = "PID Logistics"></Template>
+	<Template Path = "./PID/Machines.edt" Name = "PID Machines"></Template>	
+	<Template Path = "./PID/Material Handling.edt" Name = "PID Material Handling"></Template>	
+	<Template Path = "./PID/Mixers.edt" Name = "PID Mixers"></Template>	
+	<Template Path = "./PID/Motors.edt" Name = "PID Motors"></Template>
+	<Template Path = "./PID/Plant Facilities.edt" Name = "PID Plant Facilities"></Template>
+	<Template Path = "./PID/Power.edt" Name = "PID Power"></Template>	
+	<Template Path = "./PID/Process Cooling.edt" Name = "PID Process Cooling"></Template>
+	<Template Path = "./PID/Process Heating.edt" Name = "PID Process Heating"></Template>
+	<Template Path = "./PID/Pumps.edt" Name = "PID Pumps"></Template>	
+	<Template Path = "./PID/Tanks.edt" Name = "PID Tanks"></Template>	
+	<Template Path = "./PID/Wastewater Treatment.edt" Name = "PID Wastewater Treatment"></Template>
+	<Template Path = "./PID/Wires and Cables.edt" Name = "PID Wires and Cables"></Template>
+	<Template path = "" Name = "SEPARATOR"></Template>	
+	<Template Path = "./PID/Computer Keys.edt" Name = "PID Computer Keys"></Template>
+	<Template Path = "./PID/Buildings.edt" Name = "PID Buildings"></Template>	
+	<Template Path = "./PID/Lights.edt" Name = "PID Lights"></Template>
+	<Template Path = "./PID/Meters.edt" Name = "PID Meters"></Template>
+	<Template Path = "./PID/Push Buttons.edt" Name = "PID Push Buttons"></Template>
+	<Template Path = "./PID/Safety.edt" Name = "PID Safety"></Template>
+</Templates>
+
+<Templates Name = "Map" version = "1.0" >
+	<Template Path = "./Maps/2D Directional Map.edt" Name = "2D Directional Maps"></Template>
+	<Template Path = "./Maps/3D Directional Map.edt" Name = "3D Directional Maps"></Template>
+	<Template Path = "./Maps/2D Landmarks.edt" Name = "2D Landmarks"></Template>
+	<Template Path = "./Maps/3D Landmarks.edt" Name = "3D Landmarks"></Template>		
+	<Template Path = "./Maps/Road signs.edt" Name = "Road Signs"></Template>
+	<Template Path = "./Maps/Map Vehicles.edt" Name = "Map Vehicles"></Template>
+	<Template Path = "./Maps/Subway.edt" Name = "Subway"></Template>	
+	<Template path = "" Name = "SEPARATOR"></Template>	
+	<Template Path = "./Maps/Map Pointers.edt" Name = "Map Pointers"></Template>
+	<Template Path = "./Maps/World Map.edt" Name = "World Map"></Template>	
+	<Template Path = "./Maps/Africa.edt" Name = "Africa"></Template>
+	<Template Path = "./Maps/Asia.edt" Name = "Asia"></Template>	
+	<Template Path = "./Maps/Australia.edt" Name = "Australia"></Template>
+	<Template Path = "./Maps/Europe.edt" Name = "Europe"></Template>
+	<Template Path = "./Maps/South America.edt" Name = "South America"></Template>	
+	<Template Path = "./Maps/China.edt" Name = "China"></Template>	
+	<Template Path = "./Maps/Canada.edt" Name = "Canada"></Template>
+	<Template Path = "./Maps/USA.edt" Name = "USA"></Template>	
+</Templates>
+
+<Templates Name = "Mind Map" version = "1.0" >
+	<Template Path = "./Mind Map/mind shapes.edt" Name = "Mind Map Shapes"></Template>
+	<Template Path = "./Mind Map/symbols.edt" Name = "Symbols"></Template>
+	<Template Path = "./Mind Map/Brainstorming.edt" Name = "Brainstorming"></Template>
+	<Template path = "" Name = "SEPARATOR"></Template>	
+	<Template Path = "./Mind Map/conceptmap.edt" Name = "Concept Map"></Template>
+	<Template path = "" Name = "SEPARATOR"></Template>
+	<Template Path = "./Mind Map/bubbleshapes.edt" Name = "Bubble Shapes"></Template>			
+</Templates>
+
+<Templates Name = "Network" version = "1.0" >		
+	<Templates Name = "Amazon Web Services" version = "1.0" >  
+	  <Template Path = "./AWS/App Services.edt" Name = "AWS App Services"></Template>
+	  <Template Path = "./AWS/Compute.edt" Name = "AWS Compute and Networking"></Template>
+	  <Template Path = "./AWS/Database.edt" Name = "AWS Database"></Template>
+	  <Template Path = "./AWS/Deployment Management.edt" Name = "AWS Deployment and Management"></Template>
+	  <Template Path = "./AWS/Non-Service Specific.edt" Name = "AWS Non-Service Specific"></Template>
+	  <Template Path = "./AWS/On-Demand Workforce.edt" Name = "AWS On-Demand Workforce"></Template>
+	  <Template Path = "./AWS/SDKs.edt" Name = "AWS SDKs"></Template>
+	  <Template Path = "./AWS/Storage Content Delivery.edt" Name = "AWS Storage Content and Delivery"></Template>
+	</Templates>
+	
+	<Templates Name = "Microsoft Azure Cloud" version = "1.0" >  
+	  <Template Path = "./Azure/Azure Cloud.edt" Name = "Azure Cloud"></Template>
+	  <Template Path = "./Azure/Azure Deprecated.edt" Name = "Azure Deprecated"></Template>
+	  <Template Path = "./Azure/Azure Enterprise.edt" Name = "Azure Enterprise"></Template>
+	  <Template Path = "./Azure/Azure General Symbols.edt" Name = "Azure General Symbols"></Template>
+	  <Template Path = "./Azure/Azure Intune.edt" Name = "Azure Intune"></Template>
+	  <Template Path = "./Azure/Azure Microsoft Products.edt" Name = "Azure Microsoft Products"></Template>
+	  <Template Path = "./Azure/Azure System Center.edt" Name = "Azure System Center"></Template>
+	  <Template Path = "./Azure/Azure VMs by Function.edt" Name = "Azure VMs by Function"></Template>
+	</Templates>
+	
+	<Templates Name = "Google Cloud Platform" version = "1.0" >  
+	  <Template Path = "./GCP/GCP Big Data.edt" Name = "GCP Big Data"></Template>
+	  <Template Path = "./GCP/GCP Compute.edt" Name = "GCP Compute"></Template>
+	  <Template Path = "./GCP/GCP Developer Tools.edt" Name = "GCP Developer Tools"></Template>
+	  <Template Path = "./GCP/GCP Extras.edt" Name = "GCP Extras"></Template>
+	  <Template Path = "./GCP/GCP Identity and Security.edt" Name = "GCP Identity and Security"></Template>
+	  <Template Path = "./GCP/GCP Internet of Things.edt" Name = "GCP Internet of Things"></Template>
+	  <Template Path = "./GCP/GCP Management Tools.edt" Name = "GCP Management Tools"></Template>
+	  <Template Path = "./GCP/GCP Networking.edt" Name = "GCP Networking"></Template>
+	  <Template Path = "./GCP/GCP Storage and Databases.edt" Name = "GCP Storage and Databases"></Template>
+	</Templates>
+	
+	<Template path = "" Name = "SEPARATOR"></Template>		
+	
+	<Template Path = "./Cisco/Cisco Network Topology.edt" Name = "Cisco Network Topology"></Template>
+	<Template Path = "./Cisco/Cisco Product Icons.edt" Name = "Cisco Product Icons"></Template>
+	<Template Path = "./Cisco/Cisco Telepresence Icons.edt" Name = "Cisco Telepresence Icons"></Template>
+	<Template Path = "./Cisco/Cisco Wireless Icons.edt" Name = "Cisco Wireless Icons"></Template>
+	<Templates Name = "Cisco Safe Icons" version = "1.0" >  
+		<Template Path = "./Cisco/Security Stealthwatch.edt" Name = "Cisco Security Stealthwatch"></Template>
+		<Template Path = "./Cisco/Safe Threat Icons.edt" Name = "Cisco Safe Threat Icons"></Template>
+		<Template Path = "./Cisco/Safe Architectural Icons.edt" Name = "Cisco Safe Architectural Icons"></Template>
+		<Template Path = "./Cisco/Safe Capability Icons.edt" Name = "Cisco Safe Capability Icons"></Template>
+		<Template Path = "./Cisco/Safe Design Icons.edt" Name = "Cisco Safe Design Icons"></Template>
+	</Templates>	
+	
+	<Template path = "" Name = "SEPARATOR"></Template>		
+	
+	<Template Path = "./Network/CCTV Equipment.edt" Name = "CCTV Equipment"></Template>
+	<Template path = "" Name = "SEPARATOR"></Template>
+			
+	<Template Path = "./Network/3D Network Diagram Shapes.edt" Name = "3D Network Diagram Shapes"></Template>	
+	<Template Path = "./Network/Computers and Monitors.edt" Name = "Computers and Monitors"></Template>
+	<Template Path = "./Network/Detailed Network Diagram.edt" Name = "Detailed Network Diagram"></Template>
+	<Template Path = "./Network/Digital Products.edt" Name = "Digital Products"></Template>
+	<Template Path = "./Network/Network and Peripherals.edt" Name = "Network and Peripherals"></Template>		
+	<Template Path = "./Network/Network Locations.edt" Name = "Network Locations"></Template>	
+	<Template Path = "./Network/Network Symbols.edt" Name = "Network Symbols"></Template>
+	<Template Path = "./Network/Peripheral Equipment.edt" Name = "Peripheral Equipment"></Template>
+	<Template Path = "./Network/Servers.edt" Name = "Servers"></Template>
+	
+	<Template path = "" Name = "SEPARATOR"></Template>
+	<Template Path = "./Network/Rack Equipment.edt" Name = "Rack Equipment"></Template>	
+		
+	<Template path = "" Name = "SEPARATOR"></Template>		
+	<Template Path = "./Network/Active Directory.edt" Name = "Active Directory"></Template>	
+	<Template Path = "./Network/Active Directory Objects.edt" Name = "Active Directory Objects"></Template>	
+	<Template Path = "./Network/Exchange Objects.edt" Name = "Exchange Objects"></Template>
+	
+	<Template path = "" Name = "SEPARATOR"></Template>	
+	<Template Path = "./Network/LDAP Objects.edt" Name = "LDAP Objects"></Template>		
+	
+	<Template path = "" Name = "SEPARATOR"></Template>	
+	<Template Path = "./Network/Video and Audio Ports.edt" Name = "Video and Audio Ports"></Template>
+	
+</Templates>
+
+<Templates Name = "Organizational Chart" version = "1.0">	
+	<Template Path = "./Orgchart/Organization Chart Shapes.edt" Name = "Organization Chart Shapes"></Template>
+	<Template Path = "./Orgchart/Custom Organization Chart.edt" Name = "Custom Organization Chart"></Template>
+	<Template Path = "./Orgchart/Family Tree.edt" Name = "Family Tree"></Template>
+</Templates>
+
+<Templates Name = "PID Symbols" version = "1.0" >	
+	<Template Path = "./Process Engineering/Piping and Connection Shapes.edt" Name = "Piping and Connection Shapes"></Template>
+	<Template path = "" Name = "SEPARATOR"></Template>
+	<Template Path = "./Process Engineering/Equipment-General.edt" Name = "Equipment - General"></Template>
+	<Template Path = "./Process Engineering/Equipment-Centrifuges.edt" Name = "Equipment - Centrifuges"></Template>
+	<Template Path = "./Process Engineering/Equipment-Compressors.edt" Name = "Equipment - Compressors"></Template>	
+	<Template Path = "./Process Engineering/Equipment-Crushers.edt" Name = "Equipment - Crushers"></Template>	
+	<Template Path = "./Process Engineering/Equipment-Dryers.edt" Name = "Equipment - Dryers"></Template>
+	<Template Path = "./Process Engineering/Equipment-Filters.edt" Name = "Equipment - Filters"></Template>	
+	<Template Path = "./Process Engineering/Equipment-Heat Exchanges.edt" Name = "Equipment - Heat Exchanges"></Template>
+	<Template Path = "./Process Engineering/Equipment-Mixers.edt" Name = "Equipment - Mixers"></Template>
+	<Template Path = "./Process Engineering/Equipment-Motors.edt" Name = "Equipment - Motors"></Template>
+	<Template Path = "./Process Engineering/Equipment-Peripheral.edt" Name = "Equipment - Peripheral"></Template>
+	<Template Path = "./Process Engineering/Equipment-Pumps.edt" Name = "Equipment - Pumps"></Template>
+	<Template Path = "./Process Engineering/Equipment-Vessels.edt" Name = "Equipment - Vessels"></Template>		
+	<Template path = "" Name = "SEPARATOR"></Template>
+	<Template Path = "./Process Engineering/Equipment-Instruments.edt" Name = "Equipment - Instruments"></Template>
+	<Template Path = "./Process Engineering/Equipment-Stream Flag.edt" Name = "Equipment - Stream Flag"></Template>
+	<Template Path = "./Process Engineering/Equipment-Valves.edt" Name = "Equipment - Valves"></Template>		
+</Templates>
+
+<Templates Name = "Project Management" version = "1.0">	
+	<Template Path = "./Project/Calendar.edt" Name = "Calendar"></Template>	
+	<Template Path = "./Project/Gantt.edt" Name = "Gantt"></Template>		
+	<Template Path = "./Project/PERT Chart.edt" Name = "PERT Chart Shapes"></Template>
+	<Template Path = "./Project/timeline.edt" Name = "Timeline"></Template>
+	<Template Path = "./Project/Custom Timeline.edt" Name = "Custom Timeline"></Template>	
+	<Template Path = "./Project/WBS.edt" Name = "WBS Shapes"></Template>	
+	<Template Path = "./Project/descisiontree.edt" Name = "Decision Tree"></Template>
+	<Template Path = "./Project/Status Table.edt" Name = "Status Table"></Template>
+	<Template Path = "./Project/Relationship Matrix.edt" Name = "Relationship Matrix"></Template>
+	<Template Path = "./Project/HOQ and QFD.edt" Name = "HOQ and QFD"></Template>				
+</Templates>
+
+<Templates Name = "Science" version = "1.0" >	
+	<Template Path = "./Science/laboratory equipment.edt" Name = "Laboratory Equipment"></Template>	
+	<Template Path = "./Science/chemical equation.edt" Name = "Chemical Equation"></Template>	
+	<Template Path = "./Science/molecular model.edt" Name = "Molecular Model"></Template>	
+	<Template Path = "./Science/ball and stick model.edt" Name = "Ball and Stick Model"></Template>	
+	<Template path = "" Name = "SEPARATOR"></Template>		
+	<Template Path = "./Science/greek letter.edt" Name = "Greek Letter"></Template>
+	<Template Path = "./Science/mathematical symbol.edt" Name = "Mathematical Symbol"></Template>	
+	<Template path = "" Name = "SEPARATOR"></Template>	
+	<Template Path = "./Science/mechanics.edt" Name = "Mechanics"></Template>	
+	<Template Path = "./Science/optics.edt" Name = "Optics"></Template>
+	<Template path = "" Name = "SEPARATOR"></Template>	
+	<Template Path = "./Science/Astronomy.edt" Name = "Astronomy"></Template>		
+	<Template path = "" Name = "SEPARATOR"></Template>
+	<Template Path = "./Science/human organs.edt" Name = "Human Organs"></Template>	
+	<Template Path = "./Science/animal cells and virus cells.edt" Name = "Animal Cells"></Template>
+	<Template Path = "./Science/plant Cell.edt" Name = "Plant Cell"></Template>	
+</Templates>
+
+<Templates Name = "Software" version = "1.0" >   	
+	<Template Path = "./Software/Booch OOD.edt" Name = "Booch OOD"></Template>
+	<Template Path = "./Software/COM and OLE.edt" Name = "COM and OLE"></Template>
+	<Template Path = "./Software/Data Flow Model.edt" Name = "Data Flow Model Diagram"></Template>
+	<Template Path = "./Software/EnterpriseApplication.edt" Name = "Enterprise Application"></Template>	
+	<Template path = "" Name = "SEPARATOR"></Template>	
+	<Template Path = "./Software/Jackson.edt" Name = "Jackson"></Template>	
+	<Template Path = "./Software/Jacobson Use Case.edt" Name = "Jacobson Use Case"></Template>	
+	<Template path = "" Name = "SEPARATOR"></Template>	
+	<Template Path = "./Software/Language Level Shapes.edt" Name = "Language Level Shapes"></Template>	
+	<Template Path = "./Software/Memory Objects.edt" Name = "Memory Objects"></Template>	
+	<Template path = "" Name = "SEPARATOR"></Template>	
+	<Template Path = "./Software/Nassi-Shneiderman.edt" Name = "Nassi-Shneiderman"></Template>
+	<Template Path = "./Software/Program Flowchart.edt" Name = "Program Flowchart"></Template>		
+	<Template Path = "./Software/ROOM.edt" Name = "ROOM"></Template>
+	<Template Path = "./Software/Shlaer-Mellor OOA.edt" Name = "Shlaer-Mellor OOA"></Template>
+	<Template Path = "./Software/SSADM.edt" Name = "SSADM"></Template>
+	<Template Path = "./Software/Yourdon and Coad.edt" Name = "Yourdon and Coad"></Template>
+	
+	<Template path = "" Name = "SEPARATOR"></Template>
+	<Template Path = "./Software/Relationship.edt" Name = "Relationship"></Template>	
+	<Template Path = "./Software/UML-Activity.edt" Name = "UML Activity Diagram"></Template>
+	<Template Path = "./Software/UML-Class.edt" Name = "UML Class Diagram"></Template>
+	<Template Path = "./Software/UML-Collaboration.edt" Name = "UML Collaboration Diagram"></Template>
+	<Template Path = "./Software/UML-Component.edt" Name = "UML Component Diagram"></Template>
+	<Template Path = "./Software/UML-Deployment.edt" Name = "UML Deployment Diagram"></Template>
+	<Template Path = "./Software/UML-Sequence.edt" Name = "UML Sequence Diagram"></Template>
+	<Template Path = "./Software/UML-Statechart.edt" Name = "UML Statechart Diagram"></Template>	
+	<Template Path = "./Software/UML-UseCase.edt" Name = "UML Use Case Diagram"></Template>	
+</Templates>
+
+<Templates Name = "Wireframe" version = "1.0" >	
+	<Template Path = "./Wireframe/IOS 6 UI.edt" Name = "IOS 6 UI"></Template>
+	<Template Path = "./Wireframe/IOS 7 UI.edt" Name = "IOS 7 UI"></Template>
+	<Template Path = "./Wireframe/IOS 8 UI.edt" Name = "IOS 8 UI"></Template>	
+	<Template Path = "./Wireframe/iPad UI.edt" Name = "iPad UI"></Template>
+	<Template Path = "./Wireframe/Android UI.edt" Name = "Android UI"></Template>	
+	<Template path = "" Name = "SEPARATOR"></Template>	
+	<Template Path = "./Wireframe/Windows7UI.edt" Name = "Windows 7 UI"></Template>
+	<Template path = "" Name = "SEPARATOR"></Template>	
+	<Template Path = "./Wireframe/Wireframe.edt" Name = "Wireframe"></Template>
+	<Template path = "" Name = "SEPARATOR"></Template>		
+	<Template Path = "./Wireframe/Touch Gesture.edt" Name = "Touch Gesture"></Template>		
+	<Template Path = "./Wireframe/Vector Icons.edt" Name = "Vector Icons"></Template>		
+	<Template path = "" Name = "SEPARATOR"></Template>	
+	<Template Path = "./Wireframe/Conceptual Web Site.edt" Name = "Conceptual Website Shapes"></Template>
+	<Template Path = "./Wireframe/Web Site Map.edt" Name = "Web Site Map Shapes"></Template>			
+</Templates>
+
+</Library>

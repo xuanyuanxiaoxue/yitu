@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Enterprise Architecture">
+    <Elem Prompt="企业" Name="企业" PromptU="Enterprise" NameU="Enterprise"/>
+    <Elem Prompt="企业" Name="企业" PromptU="Enterprise" NameU="Enterprise"/>
+    <Elem Prompt="企业" Name="企业" PromptU="Enterprise" NameU="Enterprise"/>
+    <Elem Prompt="商务模型" Name="商务模型" PromptU="Business Model" NameU="Business Model"/>
+    <Elem Prompt="商务模型" Name="商务模型" PromptU="Business Model" NameU="Business Model"/>
+    <Elem Prompt="商务模型" Name="商务模型" PromptU="Business Model" NameU="Business Model"/>
+    <Elem Prompt="商务模型" Name="商务模型" PromptU="Business Model" NameU="Business Model"/>
+    <Elem Prompt="监管" Name="监管" PromptU="Governance" NameU="Governance"/>
+    <Elem Prompt="区域" Name="区域" PromptU="Sector" NameU="Sector"/>
+    <Elem Prompt="圆角区域" Name="圆角区域" PromptU="Rounded Sector" NameU="Rounded Sector"/>
+    <Elem Prompt="盒子" Name="盒子" PromptU="Box" NameU="Box"/>
+    <Elem Prompt="圆角盒子" Name="圆角盒子" PromptU="Rounded Box" NameU="Rounded Box"/>
+    <Elem Prompt="应用" Name="应用" PromptU="Application" NameU="Application"/>
+    <Elem Prompt="组件" Name="组件" PromptU="Component" NameU="Component"/>
+    <Elem Prompt="文件" Name="文件" PromptU="Document" NameU="Document"/>
+    <Elem Prompt="文件 2" Name="文件 2" PromptU="Document 2" NameU="Document 2"/>
+    <Elem Prompt="App服务" Name="App服务" PromptU="App Service" NameU="App Service"/>
+    <Elem Prompt="表格" Name="表格" PromptU="Form" NameU="Form"/>
+    <Elem Prompt="系统" Name="系统" PromptU="System" NameU="System"/>
+    <Elem Prompt="报告" Name="报告" PromptU="Report" NameU="Report"/>
+    <Elem Prompt="数据库" Name="数据库" PromptU="Datebase" NameU="Datebase"/>
+    <Elem Prompt="HW服务器" Name="HW服务器" PromptU="HW Server" NameU="HW Server"/>
+    <Elem Prompt="邮件" Name="邮件" PromptU="Email" NameU="Email"/>
+    <Elem Prompt="ETL任务" Name="ETL任务" PromptU="ETL Job" NameU="ETL Job"/>
+    <Elem Prompt="人" Name="人" PromptU="Person" NameU="Person"/>
+    <Elem Prompt="单位" Name="单位" PromptU="Org Unit" NameU="Org Unit"/>
+    <Elem Prompt="角色" Name="角色" PromptU="Role" NameU="Role"/>
+    <Elem Prompt="合同" Name="合同" PromptU="Contract" NameU="Contract"/>
+    <Elem Prompt="网络" Name="网络" PromptU="Network" NameU="Network"/>
+    <Elem Prompt="地址" Name="地址" PromptU="Site" NameU="Site"/>
+    <Elem Prompt="工作站" Name="工作站" PromptU="Workstation" NameU="Workstation"/>
+    <Elem Prompt="移动设备" Name="移动设备" PromptU="Mobile Device" NameU="Mobile Device"/>
+    <Elem Prompt="展开" Name="展开" PromptU="Deployment Instace" NameU="Deployment Instace"/>
+    <Elem Prompt="网络节点" Name="网络节点" PromptU="Network Node" NameU="Network Node"/>
+    <Elem Prompt="项目" Name="项目" PromptU="Project" NameU="Project"/>
+    <Elem Prompt="业务流程" Name="业务流程" PromptU="Business Flow" NameU="Business Flow"/>
+    <Elem Prompt="业务流程" Name="业务流程" PromptU="Business Flow" NameU="Business Flow"/>
+    <Elem Prompt="程序" Name="程序" PromptU="Program" NameU="Program"/>
+    <Elem Prompt="目标" Name="目标" PromptU="Goal" NameU="Goal"/>
+    <Elem Prompt="影响" Name="影响" PromptU="Impact" NameU="Impact"/>
+    <Elem Prompt="角色关联" Name="角色关联" PromptU="Role Association" NameU="Role Association"/>
+    <Elem Prompt="实践" Name="实践" PromptU="Fulfillment" NameU="Fulfillment"/>
+</Lib>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Registers Grills and Diffusers">
+    <Elem Prompt="供风分布口" Name="供风分布口" PromptU="Supply diffuser" NameU="Supply diffuser"/>
+    <Elem Prompt="回流分布器" Name="回流分布器" PromptU="Return diffuser" NameU="Return diffuser"/>
+    <Elem Prompt="格栅扩散器" Name="格栅扩散器" PromptU="Grille diffuser" NameU="Grille diffuser"/>
+    <Elem Prompt="线型出风口" Name="线型出风口" PromptU="Linear diffuser" NameU="Linear diffuser"/>
+    <Elem Prompt="暗灯槽扩散器" Name="暗灯槽扩散器" PromptU="Troffer diffuser" NameU="Troffer diffuser"/>
+    <Elem Prompt="格栅 (侧面)" Name="格栅 (侧面)" PromptU="Grille (side)" NameU="Grille (side)"/>
+</Lib>

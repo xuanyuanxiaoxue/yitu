@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<OrgSettings Version="8.0">
+    <OrgFields>
+        <OrgField Name="姓名" ID="1" Format="@" Type="0" NameU="Name"/>
+        <OrgField Name="头衔" ID="2" Format="@" Type="0" NameU="Title"/>
+        <OrgField Name="员工 ID" ID="3" Format="@" Type="0" NameU="ID"/>
+        <OrgField Name="类别" ID="4" Format="@" Type="0" NameU="Category"/>
+        <OrgField Name="工作地点" ID="5" Format="@" Type="0" NameU="Location"/>
+        <OrgField Name="部门" ID="6" Format="@" Type="0" NameU="Department"/>
+        <OrgField Name="Email" ID="7" Format="@" Type="0" NameU="Email"/>
+        <OrgField Name="工作电话" ID="8" Format="@" Type="0" NameU="WPhone"/>
+        <OrgField Name="手机" ID="9" Format="@" Type="0" NameU="MPhone"/>
+        <OrgField Name="员工状态" ID="10" Format="@" Type="0" NameU="EStatus"/>
+        <OrgField Name="岗位职级" ID="11" Format="@" Type="0" NameU="JGrade"/>
+        <OrgField Name="汇报给" ID="12" Format="@" Type="0" NameU="Report"/>
+        <OrgField Name="助理" ID="13" Format="" Type="5" NameU="Assist"/>
+        <OrgField Name="工资" ID="14" Format="&quot;$&quot; #,###0.00" Type="4" NameU="Salary"/>
+        <OrgField Name="性别" ID="15" Format="@" Type="0" NameU="Gendar"/>
+        <OrgField Name="年龄" ID="16" Format="0" Type="1" NameU="Age"/>
+        <OrgField Name="国籍" ID="17" Format="@" Type="0" NameU="Nation"/>
+        <OrgField Name="聘用日期" ID="18" Format="yyyy-MM-dd" Type="2" NameU="Hire"/>
+        <OrgField Name="合同开始日期" ID="19" Format="yyyy-MM-dd" Type="2" NameU="CStart"/>
+        <OrgField Name="合同终止日期" ID="20" Format="yyyy-MM-dd" Type="2" NameU="CEnd"/>
+    </OrgFields>
+    <OrgFieldGroups>
+        <OrgFieldGroup Name="通用" PreDefine="TRUE" NameU="General">
+            <Field ids="1;2;6;7;8"/>
+            <DispField ids="1;2;6"/>
+        </OrgFieldGroup>
+        <OrgFieldGroup Name="职位" PreDefine="TRUE" NameU="Position">
+            <Field ids="1;2;6;7;8"/>
+            <DispField ids="1;2"/>
+        </OrgFieldGroup>
+        <OrgFieldGroup Name="工资" PreDefine="TRUE" NameU="Salary">
+            <Field ids="1;2;3;5;6;7;8;9;10;11;14"/>
+            <DispField ids="1;2;14;11"/>
+        </OrgFieldGroup>
+        <OrgFieldGroup Name="HR 细节" PreDefine="TRUE" NameU="HR Detail">
+            <Field ids="1;2;3;4;5;6;7;8;9;10;11;12;14;15;16;17;18;19;20"/>
+            <DispField ids="1;2;3;5;6;15"/>
+        </OrgFieldGroup>
+        <OrgFieldGroup Name="部门" PreDefine="TRUE" NameU="Department">
+            <Field ids="1;2;6"/>
+            <DispField ids="6"/>
+        </OrgFieldGroup>
+        <OrgFieldGroup Name="合同" PreDefine="TRUE" NameU="Contract">
+            <Field ids="1;2;3;6;7;8;18;19;20"/>
+            <DispField ids="1;3;19;20"/>
+        </OrgFieldGroup>
+        <OrgFieldGroup Name="员工状态" PreDefine="TRUE" NameU="Employee Status">
+            <Field ids="1;2;3;4;5;6;7;8;9;10"/>
+            <DispField ids="1;2;10"/>
+        </OrgFieldGroup>
+        <OrgFieldGroup Name="合同信息" PreDefine="TRUE" NameU="Contact Info">
+            <Field ids="1;2;3;5;6;7;8;9;17"/>
+            <DispField ids="1;2;6;5;7;9"/>
+        </OrgFieldGroup>
+    </OrgFieldGroups>
+</OrgSettings>

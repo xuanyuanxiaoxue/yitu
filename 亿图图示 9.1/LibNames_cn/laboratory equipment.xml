@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Laboratory Equipment">
+    <Elem Prompt="胶头滴管" Name="胶头滴管" PromptU="Dropper" NameU="Dropper"/>
+    <Elem Prompt="胶头滴管" Name="胶头滴管" PromptU="Dropper" NameU="Dropper"/>
+    <Elem Prompt="滴液瓶" Name="滴液瓶" PromptU="Dropping Liquid" NameU="Dropping Liquid"/>
+    <Elem Prompt="集气瓶" Name="集气瓶" PromptU="Gas Jar" NameU="Gas Jar"/>
+    <Elem Prompt="集气瓶" Name="集气瓶" PromptU="Gas Jar" NameU="Gas Jar"/>
+    <Elem Prompt="烧杯" Name="烧杯" PromptU="Beaker" NameU="Beaker"/>
+    <Elem Prompt="水槽" Name="水槽" PromptU="Trough" NameU="Trough"/>
+    <Elem Prompt="烧瓶" Name="烧瓶" PromptU="Flask" NameU="Flask"/>
+    <Elem Prompt="平底烧瓶" Name="平底烧瓶" PromptU="Flat Bottomed Flask" NameU="Flat Bottomed Flask"/>
+    <Elem Prompt="宽口烧瓶" Name="烧瓶" PromptU="Heavy calibre flask" NameU="Flask"/>
+    <Elem Prompt="锥形烧瓶" Name="锥形烧瓶" PromptU="Conical Flask" NameU="Conical Flask"/>
+    <Elem Prompt="锥形烧瓶 2" Name="锥形烧瓶 2" PromptU="Conical Flask 2" NameU="Conical Flask 2"/>
+    <Elem Prompt="Y型试管" Name="Y型试管" PromptU="Y Tube" NameU="Y Tube"/>
+    <Elem Prompt="小试管" Name="小试管" PromptU="Small Test Tube" NameU="Small Test Tube"/>
+    <Elem Prompt="试管" Name="试管" PromptU="Test Tube" NameU="Test Tube"/>
+    <Elem Prompt="U型试管" Name="U型试管" PromptU="U Tube" NameU="U Tube"/>
+    <Elem Prompt="U型试管" Name="U型试管" PromptU="U tube with solid metrial" NameU="U Tube"/>
+    <Elem Prompt="梨形烧瓶" Name="梨形烧瓶" PromptU="Pear-Shaped Flask" NameU="Pear-Shaped Flask"/>
+    <Elem Prompt="梨形烧瓶" Name="梨形烧瓶" PromptU="Pear-Shaped Flask" NameU="Pear-Shaped Flask"/>
+    <Elem Prompt="吸滤瓶" Name="吸滤瓶" PromptU="Suction Flask" NameU="Suction Flask"/>
+    <Elem Prompt="插管" Name="插管" PromptU="Canula" NameU="Canula"/>
+    <Elem Prompt="李比希冷凝器" Name="李比希冷凝器" PromptU="Liebig Condenser" NameU="Liebig Condenser"/>
+    <Elem Prompt="量杯" Name="量杯" PromptU="Measuring Cylinder" NameU="Measuring Cylinder"/>
+    <Elem Prompt="酸性滴定管" Name="酸性滴定管" PromptU="Acid Burette" NameU="Acid Burette"/>
+    <Elem Prompt="碱性滴定管" Name="碱性滴定管" PromptU="Alkaline Burette" NameU="Alkaline Burette"/>
+    <Elem Prompt="冷凝器" Name="冷凝器" PromptU="Condenser" NameU="Condenser"/>
+    <Elem Prompt="冷凝器" Name="冷凝器" PromptU="Condenser" NameU="Condenser"/>
+    <Elem Prompt="启普发生器2" Name="启普发生器2" PromptU="Kipp's Apparatus" NameU="Kipp's Apparatus"/>
+    <Elem Prompt="启普发生器2" Name="启普发生器2" PromptU="Kipp's Apparatus 2" NameU="Kipp's Apparatus 2"/>
+    <Elem Prompt="分离器漏斗" Name="分离器漏斗" PromptU="Separator Funnel" NameU="Separator Funnel"/>
+    <Elem Prompt="漏斗" Name="漏斗" PromptU="Funnel" NameU="Funnel"/>
+    <Elem Prompt="漏斗" Name="漏斗" PromptU="Funnel" NameU="Funnel"/>
+    <Elem Prompt="漏斗" Name="漏斗" PromptU="Funnel" NameU="Funnel"/>
+    <Elem Prompt="布式漏斗" Name="布式漏斗" PromptU="Büchner Funnel" NameU="Büchner Funnel"/>
+    <Elem Prompt="干燥器" Name="干燥器" PromptU="Desiccator" NameU="Desiccator"/>
+    <Elem Prompt="双向管" Name="双向管" PromptU="Bidirectional Tube" NameU="Bidirectional Tube"/>
+    <Elem Prompt="温度计" Name="温度计" PromptU="Thermometer" NameU="Thermometer"/>
+    <Elem Prompt="铁架台" Name="铁架台" PromptU="Iron Stage" NameU="Iron Stage"/>
+    <Elem Prompt="试管夹" Name="试管夹" PromptU="Iron Stage Clamp" NameU="Iron Stage Clamp"/>
+    <Elem Prompt="玻璃棒" Name="玻璃棒" PromptU="Glass Rod" NameU="Glass Rod"/>
+    <Elem Prompt="长柄勺" Name="长柄勺" PromptU="Ladle" NameU="Ladle"/>
+    <Elem Prompt="坩埚" Name="坩埚" PromptU="Crucible" NameU="Crucible"/>
+    <Elem Prompt="蒸发皿" Name="蒸发皿" PromptU="Evaporation Dish" NameU="Evaporation Dish"/>
+    <Elem Prompt="表面皿" Name="表面皿" PromptU="Watch Glass" NameU="Watch Glass"/>
+    <Elem Prompt="左侧吸附" Name="橡皮管" PromptU="Left snap tube" NameU="Rubber Tube"/>
+    <Elem Prompt="右侧吸附" Name="橡皮管" PromptU="Right snap tube" NameU="Right Rubber Tube"/>
+    <Elem Prompt="完曲的橡皮管" Name="完曲的橡皮管" PromptU="Bend Rubber Tube" NameU="Bend Rubber Tube"/>
+    <Elem Prompt="可调节的橡皮管" Name="可调节的橡皮管" PromptU="Flexible Rubber Tube" NameU="Flexible Rubber Tube"/>
+    <Elem Prompt="橡皮塞" Name="橡皮塞" PromptU="Rubber Plug" NameU="Rubber Plug"/>
+    <Elem Prompt="小橡皮塞" Name="小橡皮塞" PromptU="Small Rubber Plug" NameU="Small Rubber Plug"/>
+    <Elem Prompt="玻璃塞" Name="玻璃塞" PromptU="Glass Plug" NameU="Glass Plug"/>
+    <Elem Prompt="大玻璃塞" Name="玻璃塞" PromptU="Big glass plug" NameU="Glass Plug"/>
+    <Elem Prompt="管口" Name="管口" PromptU="Pipe Orifice" NameU="Pipe Orifice"/>
+    <Elem Prompt="开关" Name="开关" PromptU="Switch" NameU="Switch"/>
+    <Elem Prompt="水平导管" Name="导管" PromptU="Horizontal glass tube" NameU="Glass Tube"/>
+    <Elem Prompt="垂直导管" Name="导管" PromptU="Vertical glass tube" NameU="Glass Tube"/>
+    <Elem Prompt="右侧弯曲导管" Name="弯曲导管" PromptU="Right glass delivery tube" NameU="Glass Delivery Tube"/>
+    <Elem Prompt="左侧弯曲导管" Name="弯曲导管" PromptU="Left glass delivery tube" NameU="Glass Delivery Tube"/>
+    <Elem Prompt="右侧可调节导管" Name="可调节导管" PromptU="Flexible left glass delivery tube" NameU="Flexible Glass Tube"/>
+    <Elem Prompt="左侧可调节导管" Name="可调节导管" PromptU="Flexible right glass delivery tube" NameU="Flexible Glass Tube"/>
+    <Elem Prompt="U型试管" Name="U型试管" PromptU="U Tube" NameU="U Tube"/>
+    <Elem Prompt="玻璃导管" Name="弯曲导管" PromptU="Glass Delivery Tube" NameU="Glass Delivery Tube"/>
+    <Elem Prompt="三通管" Name="三通管" PromptU="T-shaped Tube" NameU="T-shaped Tube"/>
+    <Elem Prompt="三通管" Name="三通管" PromptU="T-shaped Tube" NameU="T-shaped Tube"/>
+    <Elem Prompt="三通管" Name="三通管" PromptU="T-shaped Tube" NameU="T-shaped Tube"/>
+    <Elem Prompt="酒精灯" Name="酒精灯" PromptU="Alcohol Burner" NameU="Alcohol Burner"/>
+    <Elem Prompt="火焰" Name="火焰" PromptU="Flame" NameU="Flame"/>
+    <Elem Prompt="火焰 1" Name="火焰 1" PromptU="Flame 1" NameU="Flame 1"/>
+    <Elem Prompt="火焰 2" Name="火焰 2" PromptU="Flame 2" NameU="Flame 2"/>
+    <Elem Prompt="气囊" Name="气囊" PromptU="Balloon" NameU="Balloon"/>
+    <Elem Prompt="气囊" Name="气囊" PromptU="Balloon" NameU="Balloon"/>
+    <Elem Prompt="水滴" Name="水滴" PromptU="Dripping" NameU="Dripping"/>
+    <Elem Prompt="气泡" Name="气泡" PromptU="Bubble" NameU="Bubble"/>
+    <Elem Prompt="发光" Name="发光" PromptU="Shine" NameU="Shine"/>
+    <Elem Prompt="发光" Name="发光" PromptU="Shine" NameU="Shine"/>
+    <Elem Prompt="喷水" Name="喷水" PromptU="Spray" NameU="Spray"/>
+    <Elem Prompt="烟" Name="烟" PromptU="Smoke" NameU="Smoke"/>
+    <Elem Prompt="烟" Name="烟" PromptU="Smoke" NameU="Smoke"/>
+    <Elem Prompt="烟" Name="烟" PromptU="Smoke" NameU="Smoke"/>
+    <Elem Prompt="雾" Name="雾" PromptU="Fog" NameU="Fog"/>
+    <Elem Prompt="固体" Name="固体" PromptU="Solid" NameU="Solid"/>
+    <Elem Prompt="颗粒" Name="颗粒" PromptU="Particle" NameU="Particle"/>
+    <Elem Prompt="固体" Name="固体" PromptU="Solid" NameU="Solid"/>
+    <Elem Prompt="金刚石" Name="金刚石" PromptU="Diamond" NameU="Diamond"/>
+    <Elem Prompt="干冰" Name="干冰" PromptU="Dry Ice" NameU="Dry Ice"/>
+    <Elem Prompt="硫酸铁" Name="硫酸铁" PromptU="Ferric Sulfate" NameU="Ferric Sulfate"/>
+    <Elem Prompt="石墨" Name="石墨" PromptU="Graphite" NameU="Graphite"/>
+    <Elem Prompt="氢氧化钠" Name="氢氧化钠" PromptU="Sodium Hydroxide" NameU="Sodium Hydroxide"/>
+    <Elem Prompt="铜片" Name="铜片" PromptU="Copper Sheet" NameU="Copper Sheet"/>
+    <Elem Prompt="棉花" Name="棉花" PromptU="Cotton" NameU="Cotton"/>
+    <Elem Prompt="活塞" Name="活塞" PromptU="Stopcock" NameU="Stopcock"/>
+    <Elem Prompt="活塞" Name="活塞" PromptU="Stopcock" NameU="Stopcock"/>
+    <Elem Prompt="木块" Name="木块" PromptU="Wood Block" NameU="Wood Block"/>
+    <Elem Prompt="天平" Name="天平" PromptU="Balance" NameU="Balance"/>
+    <Elem Prompt="砝码" Name="砝码" PromptU="Weight" NameU="Weight"/>
+    <Elem Prompt="木块" Name="木块" PromptU="Wood Block" NameU="Wood Block"/>
+    <Elem Prompt="三颈瓶" Name="三颈瓶" PromptU="Three-necked Bottle" NameU="Three-necked Bottle"/>
+    <Elem Prompt="双口梨形烧瓶" Name="双口梨形烧瓶" PromptU="Two Mouth Pear-shaped Flask " NameU="Two Mouth Pear-shaped Flask "/>
+    <Elem Prompt="梨形烧瓶" Name="梨形烧瓶" PromptU="Pear-shaped Flask" NameU="Pear-shaped Flask"/>
+    <Elem Prompt="梨形烧瓶" Name="梨形烧瓶" PromptU="Pear-shaped Flask" NameU="Pear-shaped Flask"/>
+    <Elem Prompt="圆底烧瓶" Name="圆底烧瓶" PromptU="Round-bottom Flask" NameU="Round-bottom Flask"/>
+    <Elem Prompt="梨形分馏瓶" Name="梨形分馏瓶" PromptU="Pear-shaped Fractional Distillation Flask" NameU="Pear-shaped Fractional Distillation Flask"/>
+    <Elem Prompt="M量瓶" Name="量瓶" PromptU="Measuring Bottle" NameU="Measuring Bottle"/>
+    <Elem Prompt="定碘烧瓶" Name="定碘烧瓶" PromptU="Iodin flask" NameU="Iodin flask"/>
+    <Elem Prompt="定碘烧瓶" Name="定碘烧瓶" PromptU="Iodin flask" NameU="Iodin flask"/>
+    <Elem Prompt="干燥管" Name="干燥管" PromptU="Drying Tube" NameU="Drying Tube"/>
+    <Elem Prompt="U型试管" Name="U型试管" PromptU="U Tube" NameU="U Tube"/>
+    <Elem Prompt="U型试管" Name="U型试管" PromptU="U Tube" NameU="U Tube"/>
+    <Elem Prompt="克氏蒸馏头" Name="克氏蒸馏头" PromptU="Kjeldahl Distilling Head" NameU="Kjeldahl Distilling Head"/>
+    <Elem Prompt="蒸馏头" Name="蒸馏头" PromptU="Distilling Head" NameU="Distilling Head"/>
+    <Elem Prompt="三角蒂埃尔均热管" Name="三角蒂埃尔均热管" PromptU="Triangle Thiele Tube" NameU="Triangle Thiele Tube"/>
+    <Elem Prompt="干燥剂" Name="干燥剂" PromptU="Dryer" NameU="Dryer"/>
+    <Elem Prompt="培养皿" Name="培养皿" PromptU="Culture Dish" NameU="Culture Dish"/>
+    <Elem Prompt="平底蒸发皿" Name="平底蒸发皿" PromptU="Flat-bottom Evaporating Dish" NameU="Flat-bottom Evaporating Dish"/>
+    <Elem Prompt="坩埚" Name="坩埚" PromptU="Crucible " NameU="Crucible "/>
+    <Elem Prompt="坩埚钳" Name="坩埚钳" PromptU="Crucible Tongs" NameU="Crucible Tongs"/>
+    <Elem Prompt="药匙" Name="药匙" PromptU="Medicine Spoon" NameU="Medicine Spoon"/>
+    <Elem Prompt="镊子" Name="镊子" PromptU="Tweezer" NameU="Tweezer"/>
+    <Elem Prompt="石棉网" Name="石棉网" PromptU="Asbestosed Wire Gauze" NameU="Asbestosed Wire Gauze"/>
+    <Elem Prompt="玻璃板" Name="玻璃板" PromptU="Glass Sheet" NameU="Glass Sheet"/>
+    <Elem Prompt="罐" Name="罐" PromptU="Jar" NameU="Jar"/>
+    <Elem Prompt="罐" Name="罐" PromptU="Jar" NameU="Jar"/>
+    <Elem Prompt="称量瓶" Name="称量瓶" PromptU="Weighing Bottle" NameU="Weighing Bottle"/>
+    <Elem Prompt="称量瓶" Name="称量瓶" PromptU="Weighing Bottle" NameU="Weighing Bottle"/>
+    <Elem Prompt="药瓶" Name="药瓶" PromptU="medicine bottle" NameU="medicine bottle"/>
+    <Elem Prompt="圆锥形刻度杯" Name="圆锥形刻度杯" PromptU="Conical Graduated" NameU="Conical Graduated"/>
+    <Elem Prompt="注射器" Name="注射器" PromptU="Injector" NameU="Injector"/>
+    <Elem Prompt="铁丝" Name="铁丝" PromptU="Iron Wire" NameU="Iron Wire"/>
+    <Elem Prompt="镁条" Name="镁条" PromptU="Magnesium Ribbon" NameU="Magnesium Ribbon"/>
+    <Elem Prompt="火柴" Name="火柴" PromptU="Match" NameU="Match"/>
+    <Elem Prompt="火柴" Name="火柴" PromptU="Match" NameU="Match"/>
+    <Elem Prompt="蜡烛" Name="蜡烛" PromptU="Candle" NameU="Candle"/>
+    <Elem Prompt="三脚架" Name="三脚架" PromptU="Tripod" NameU="Tripod"/>
+    <Elem Prompt="试管夹" Name="试管夹" PromptU="Test Tube Clamp" NameU="Test Tube Clamp"/>
+    <Elem Prompt="U形管压力计" Name="U形管压力计" PromptU="U-Tube piezometer" NameU="U-Tube piezometer"/>
+    <Elem Prompt="显微镜" Name="显微镜" PromptU="Microscope" NameU="Microscope"/>
+</Lib>

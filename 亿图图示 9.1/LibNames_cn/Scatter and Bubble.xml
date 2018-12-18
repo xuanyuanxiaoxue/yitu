@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Scatter and Bubble">
+    <Elem Prompt="如何使用散点图和气泡图" Name="如何使用散点图和气泡图" PromptU="How to use Scatter and Bubble" NameU="How to use Scatter and Bubble"/>
+    <Elem Prompt="散点图" Name="散点图" PromptU="Scatter Plot" NameU="Scatter Plot"/>
+    <Elem Prompt="散点图 2" Name="散点图 2" PromptU="Scatter Plot 2" NameU="Scatter Plot 2"/>
+    <Elem Prompt="气泡图" Name="气泡图" PromptU="Bubble" NameU="Bubble"/>
+    <Elem Prompt="气泡图 2" Name="气泡图 2" PromptU="Bubble 2" NameU="Bubble 2"/>
+</Lib>

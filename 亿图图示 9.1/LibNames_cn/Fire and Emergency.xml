@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Fire and Emergency">
+    <Elem Prompt="左推门" Name="左推门" PromptU="Slide Door Left" NameU="Slide Door Left"/>
+    <Elem Prompt="右推门" Name="右推门" PromptU="Slide Door Right" NameU="Slide Door Right"/>
+    <Elem Prompt="消防玻璃" Name="消防玻璃" PromptU="Fire Break Glass" NameU="Fire Break Glass"/>
+    <Elem Prompt="救护车" Name="救护车" PromptU="Emergency Ambulance" NameU="Emergency Ambulance"/>
+    <Elem Prompt="紧急通道" Name="紧急通道" PromptU="Emergency Access" NameU="Emergency Access"/>
+    <Elem Prompt="紧急通道 2" Name="紧急通道 2" PromptU="Emergency Access 2" NameU="Emergency Access 2"/>
+    <Elem Prompt="紧急出口" Name="紧急出口" PromptU="Emergency Exit" NameU="Emergency Exit"/>
+    <Elem Prompt="紧急出口" Name="紧急出口 2" PromptU="Emergency Exit" NameU="Emergency Exit 2"/>
+    <Elem Prompt="火灾中请使用楼梯" Name="火灾中请使用楼梯" PromptU="Use Stairs in Fire" NameU="Use Stairs in Fire"/>
+    <Elem Prompt="使用电梯" Name="使用电梯" PromptU="Use Stairs" NameU="Use Stairs"/>
+    <Elem Prompt="消防云梯" Name="消防云梯" PromptU="Fire Ladder" NameU="Fire Ladder"/>
+    <Elem Prompt="残障人士" Name="残障人士" PromptU="Handicap Accessible" NameU="Handicap Accessible"/>
+    <Elem Prompt="箭头" Name="箭头" PromptU="Arrow" NameU="Arrow"/>
+    <Elem Prompt="指示箭头" Name="指示箭头" PromptU="Indicating Arrow" NameU="Indicating Arrow"/>
+    <Elem Prompt="指示箭头" Name="指示箭头 2" PromptU="Indicating Arrow" NameU="Indicating Arrow 2"/>
+    <Elem Prompt="指示箭头" Name="指示箭头" PromptU="Indicating Arrow" NameU="Indicating Arrow"/>
+    <Elem Prompt="集结点" Name="集结点" PromptU="Assembly Point" NameU="Assembly Point"/>
+    <Elem Prompt="避难场所" Name="避难场所" PromptU="Refuge Area" NameU="Refuge Area"/>
+    <Elem Prompt="您在此" Name="您在此" PromptU="You are Here" NameU="You are Here"/>
+    <Elem Prompt="紧急出口" Name="紧急出口 3" PromptU="Emergency Exit" NameU="Emergency Exit 3"/>
+    <Elem Prompt="紧急出口" Name="紧急出口 4" PromptU="Emergency Exit" NameU="Emergency Exit 4"/>
+    <Elem Prompt="灭火器" Name="灭火器" PromptU="Fire Extinguisher" NameU="Fire Extinguisher"/>
+    <Elem Prompt="消防栓" Name="消防栓" PromptU="Fire Hydrant" NameU="Fire Hydrant"/>
+    <Elem Prompt="消防栓 2" Name="消防栓 2" PromptU="Fire Hydrant 2" NameU="Fire Hydrant 2"/>
+    <Elem Prompt="紧急电话" Name="紧急电话" PromptU="Emergency Phone" NameU="Emergency Phone"/>
+    <Elem Prompt="紧急电话 2" Name="紧急电话 2" PromptU="Emergency Phone 2" NameU="Emergency Phone 2"/>
+    <Elem Prompt="拨打 911" Name="拨打 911" PromptU="Call 911" NameU="Call 911"/>
+    <Elem Prompt="灭火器" Name="灭火器 2" PromptU="Fire Extinguisher" NameU="Fire Extinguisher 2"/>
+    <Elem Prompt="消防警铃按钮" Name="消防警铃按钮" PromptU="Fire Alarm Call Point" NameU="Fire Alarm Call Point"/>
+    <Elem Prompt="消防水带" Name="消防水带" PromptU="Fire Hose" NameU="Fire Hose"/>
+    <Elem Prompt="有害物品" Name="有害物品" PromptU="Fire Hose 2" NameU="Fire Hose 2"/>
+    <Elem Prompt="气体截流阀" Name="气体截流阀" PromptU="Gas Shutoff Valve" NameU="Gas Shutoff Valve"/>
+    <Elem Prompt="自动喷水灭火控制阀" Name="自动喷水灭火控制阀" PromptU="Automatic Sprinkler Control Valve" NameU="Automatic Sprinkler Control Valve"/>
+    <Elem Prompt="自动喷水灭火连接" Name="自动喷水灭火连接" PromptU="Automatic Sprinkler Connection" NameU="Automatic Sprinkler Connection"/>
+    <Elem Prompt="单自动喷水灭火连接" Name="单自动喷水灭火连接" PromptU="Single Automatic Sprinkler Connection" NameU="Single Automatic Sprinkler Connection"/>
+    <Elem Prompt="结合自动喷水灭火/立管连接" Name="结合自动喷水灭火/立管连接" PromptU="Combined Automatic Sprinkler/Standpipe Connection" NameU="Combined Automatic Sprinkler/Standpipe Connection"/>
+    <Elem Prompt="立管连接" Name="立管连接" PromptU="Standpipe Connection" NameU="Standpipe Connection"/>
+    <Elem Prompt="消防斧" Name="消防斧" PromptU="Fire Axe" NameU="Fire Axe"/>
+    <Elem Prompt="消防器材" Name="消防器材" PromptU="Fire Fighting Equipment" NameU="Fire Fighting Equipment"/>
+    <Elem Prompt="警铃" Name="警铃" PromptU="Alarm" NameU="Alarm"/>
+    <Elem Prompt="消防警铃" Name="消防警铃" PromptU="Fire Alarm" NameU="Fire Alarm"/>
+    <Elem Prompt="手动激活设备" Name="手动激活设备" PromptU="Manual activating Device" NameU="Manual activating Device"/>
+    <Elem Prompt="电路切断面板" Name="电路切断面板" PromptU="Electric Panel Shutoff" NameU="Electric Panel Shutoff"/>
+    <Elem Prompt="呵护儿童" Name="呵护儿童" PromptU="Child Care Center" NameU="Child Care Center"/>
+    <Elem Prompt="烟雾探测器" Name="烟雾探测器" PromptU="Smoke Detector" NameU="Smoke Detector"/>
+    <Elem Prompt="消防洒水车" Name="消防洒水车" PromptU="Fire Sprinkler" NameU="Fire Sprinkler"/>
+    <Elem Prompt="消防洒水车 2" Name="消防洒水车 2" PromptU="Fire Sprinkler 2" NameU="Fire Sprinkler 2"/>
+    <Elem Prompt="空调出风口" Name="空调出风口" PromptU="Air Conditioning Vents" NameU="Air Conditioning Vents"/>
+    <Elem Prompt="通风孔" Name="通风孔" PromptU="Vents" NameU="Vents"/>
+    <Elem Prompt="禁止通行" Name="禁止通行" PromptU="Not an Exit" NameU="Not an Exit"/>
+    <Elem Prompt="禁止逆行" Name="禁止逆行" PromptU="Don't Go Back" NameU="Don't Go Back"/>
+    <Elem Prompt="不要使用电梯" Name="不要使用电梯" PromptU="Don't use the Elevator" NameU="Don't use the Elevator"/>
+    <Elem Prompt="禁止烟火" Name="禁止烟火" PromptU="No Fire" NameU="No Fire"/>
+    <Elem Prompt="禁止吸烟" Name="禁止吸烟" PromptU="No Smoking" NameU="No Smoking"/>
+    <Elem Prompt="禁止烹饪" Name="禁止烹饪" PromptU="No Cooking" NameU="No Cooking"/>
+    <Elem Prompt="辐射危险" Name="辐射危险" PromptU="Radiation Hazard" NameU="Radiation Hazard"/>
+    <Elem Prompt="非电离辐射" Name="非电离辐射" PromptU="Non-ionising Radiation" NameU="Non-ionising Radiation"/>
+    <Elem Prompt="爆炸物" Name="爆炸物" PromptU="Explosives" NameU="Explosives"/>
+    <Elem Prompt="有毒气体" Name="有毒气体" PromptU="Toxic Gas" NameU="Toxic Gas"/>
+    <Elem Prompt="医疗垃圾" Name="医疗垃圾" PromptU="Medical Waste" NameU="Medical Waste"/>
+    <Elem Prompt="易燃物质" Name="易燃物质" PromptU="Flammable Material" NameU="Flammable Material"/>
+    <Elem Prompt="助燃" Name="助燃" PromptU="Comburent" NameU="Comburent"/>
+    <Elem Prompt="危险化学品" Name="危险化学品" PromptU="Dangerous Chemical" NameU="Dangerous Chemical"/>
+    <Elem Prompt="腐蚀性物质" Name="腐蚀性物质" PromptU="Corrosive Material" NameU="Corrosive Material"/>
+    <Elem Prompt="噪音" Name="噪音" PromptU="Noise" NameU="Noise"/>
+    <Elem Prompt="当心窒息" Name="当心窒息" PromptU="Be Careful Suffocation" NameU="Be Careful Suffocation"/>
+    <Elem Prompt="有害物品" Name="有害物品" PromptU="Harmful Goods" NameU="Harmful Goods"/>
+    <Elem Prompt="禁止化学武器" Name="禁止化学武器" PromptU="Chemical Weapon" NameU="Chemical Weapon"/>
+    <Elem Prompt="警告牌" Name="警告牌" PromptU="Warning Sign" NameU="Warning Sign"/>
+    <Elem Prompt="小心高压电" Name="小心高压电" PromptU="High Voltage Sign" NameU="High Voltage Sign"/>
+    <Elem Prompt="激光危险标志" Name="激光危险标志" PromptU="Laser Hazzard Sign" NameU="Laser Hazzard Sign"/>
+    <Elem Prompt="辐射危险" Name="辐射危险" PromptU="Radiation Danger" NameU="Radiation Danger"/>
+</Lib>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Martin ERD">
+    <Elem Prompt="数据实体" Name="数据实体" PromptU="Data entity" NameU="Data entity"/>
+    <Elem Prompt="活动实体" Name="活动实体" PromptU="Activity entity" NameU="Activity entity"/>
+    <Elem Prompt="数据项" Name="数据项" PromptU="Data item" NameU="Data item"/>
+    <Elem Prompt="连接" Name="连接" PromptU="Connection" NameU="Connection"/>
+    <Elem Prompt="事件" Name="事件" PromptU="Event" NameU="Event"/>
+    <Elem Prompt="循环" Name="循环" PromptU="Square loop" NameU="Square loop"/>
+    <Elem Prompt="而且/或者分支" Name="而且/或者分支" PromptU="And/or branch" NameU="And/or branch"/>
+    <Elem Prompt="顶部到底部" Name="顶部到底部" PromptU="Top to bottom" NameU="Top to bottom"/>
+    <Elem Prompt="侧边到顶部" Name="侧边到顶部" PromptU="Side to top" NameU="Side to top"/>
+    <Elem Prompt="侧边到侧边" Name="侧边到侧边" PromptU="Side to side" NameU="Side to side"/>
+    <Elem Prompt="唯一" Name="唯一" PromptU="One" NameU="One"/>
+    <Elem Prompt="许多" Name="许多" PromptU="Many" NameU="Many"/>
+    <Elem Prompt="一或无穷" Name="一或无穷" PromptU="One or more" NameU="One or more"/>
+    <Elem Prompt="零或一" Name="零或一" PromptU="Zero or one" NameU="Zero or one"/>
+    <Elem Prompt="一或者大于二" Name="一或者大于二" PromptU="One or more 2" NameU="One or more 2"/>
+    <Elem Prompt="零或者更多" Name="零或者更多" PromptU="Zero or more" NameU="Zero or more"/>
+    <Elem Prompt="一对一" Name="一对一" PromptU="One and only one" NameU="One and only one"/>
+    <Elem Prompt="零或一二" Name="零或一二" PromptU="Zero or one 2" NameU="Zero or one 2"/>
+</Lib>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Composite Assemblies">
+    <Elem Prompt="回转仪" Name="回转仪" PromptU="Gyro" NameU="Gyro"/>
+    <Elem Prompt="回转仪 2" Name="回转仪 2" PromptU="Gyro 2" NameU="Gyro 2"/>
+    <Elem Prompt="放大器" Name="放大器" PromptU="Amplifier" NameU="Amplifier"/>
+    <Elem Prompt="磁放大器" Name="磁放大器" PromptU="Magnetic amplifier" NameU="Magnetic amplifier"/>
+    <Elem Prompt="负阻抗双向放大器" Name="负阻抗双向放大器" PromptU="Negative impedance both-way amp" NameU="Negative impedance both-way amp"/>
+    <Elem Prompt="带旁路的放大器" Name="带旁路的放大器" PromptU="Amplifier with bypass" NameU="Amplifier with bypass"/>
+    <Elem Prompt="放大器外部直流控制" Name="放大器外部直流控制" PromptU="Amplifier external DC control" NameU="Amplifier external DC control"/>
+    <Elem Prompt="整流器" Name="整流器" PromptU="Rectifier" NameU="Rectifier"/>
+    <Elem Prompt="受控整流器" Name="受控整流器" PromptU="Controlled rectifier" NameU="Controlled rectifier"/>
+    <Elem Prompt="桥式整流器" Name="桥式整流器" PromptU="Bridge rectifier" NameU="Bridge rectifier"/>
+    <Elem Prompt="近程传感器" Name="近程传感器" PromptU="Proximity sensor" NameU="Proximity sensor"/>
+    <Elem Prompt="接触式传感器" Name="接触式传感器" PromptU="Touch sensor" NameU="Touch sensor"/>
+    <Elem Prompt="单向中继器" Name="单向中继器" PromptU="1-way repeater" NameU="1-way repeater"/>
+    <Elem Prompt="双向中继器" Name="双向中继器" PromptU="2-way repeater" NameU="2-way repeater"/>
+    <Elem Prompt="双向中继器旁路" Name="双向中继器旁路" PromptU="2-way repeater bypass" NameU="2-way repeater bypass"/>
+    <Elem Prompt="四线双向中继器" Name="四线双向中继器" PromptU="2-way repeater 4-wire" NameU="2-way repeater 4-wire"/>
+    <Elem Prompt="网络低电压" Name="网络低电压" PromptU="Network low voltage" NameU="Network low voltage"/>
+    <Elem Prompt="移相器" Name="移相器" PromptU="Phase shifter" NameU="Phase shifter"/>
+    <Elem Prompt="断路器" Name="断路器" PromptU="Chopper" NameU="Chopper"/>
+    <Elem Prompt="解调器" Name="解调器" PromptU="Demodulator" NameU="Demodulator"/>
+    <Elem Prompt="发生器" Name="发生器" PromptU="Generator" NameU="Generator"/>
+    <Elem Prompt="位置指示器同步" Name="位置指示器同步" PromptU="Position indicator synchro" NameU="Position indicator synchro"/>
+    <Elem Prompt="位置指示器电感器" Name="位置指示器电感器" PromptU="Position indicator inductor" NameU="Position indicator inductor"/>
+    <Elem Prompt="位置发送器电感器" Name="位置发送器电感器" PromptU="Position transmitter inductor" NameU="Position transmitter inductor"/>
+    <Elem Prompt="位置发送器异步" Name="位置发送器异步" PromptU="Position transmitter Desynn" NameU="Position transmitter Desynn"/>
+    <Elem Prompt="灭火器激励器" Name="灭火器激励器" PromptU="Fire ext. actuator" NameU="Fire ext. actuator"/>
+    <Elem Prompt="双头灭火器" Name="双头灭火器" PromptU="Fire ext. double" NameU="Fire ext. double"/>
+    <Elem Prompt="转换器" Name="转换器" PromptU="Converter" NameU="Converter"/>
+    <Elem Prompt="换流器" Name="换流器" PromptU="Inverter" NameU="Inverter"/>
+    <Elem Prompt="整流换流器" Name="整流换流器" PromptU="Rectifier inverter" NameU="Rectifier inverter"/>
+    <Elem Prompt="整流器桥路" Name="整流器桥路" PromptU="Rectifier bridge" NameU="Rectifier bridge"/>
+    <Elem Prompt="电分离器" Name="电分离器" PromptU="Galvanic separator" NameU="Galvanic separator"/>
+    <Elem Prompt="自然式热源" Name="自然式热源" PromptU="Combustion heat source" NameU="Combustion heat source"/>
+    <Elem Prompt="热源" Name="热源" PromptU="Heat source" NameU="Heat source"/>
+    <Elem Prompt="放射性同位素热源" Name="放射性同位素热源" PromptU="Radioisotope heat source" NameU="Radioisotope heat source"/>
+    <Elem Prompt="热电发生器" Name="热电发生器" PromptU="Thermoelectric generator" NameU="Thermoelectric generator"/>
+</Lib>

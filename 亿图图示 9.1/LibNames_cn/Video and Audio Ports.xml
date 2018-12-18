@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Video and Audio Ports">
+    <Elem Prompt="RCA 接口" Name="RCA 接口" PromptU="RCA Plug" NameU="RCA Plug"/>
+    <Elem Prompt="RCA 接口" Name="RCA 接口 2" PromptU="RCA Plug" NameU="RCA Plug 2"/>
+    <Elem Prompt="RCA 接口 3" Name="RCA 接口 3" PromptU="RCA Plug 3" NameU="RCA Plug 3"/>
+    <Elem Prompt="RCA 接口 3" Name="RCA 接口 3" PromptU="RCA Plug 3" NameU="RCA Plug 3"/>
+    <Elem Prompt="RCA 接口 4" Name="RCA 接口 4" PromptU="RCA Plug 4" NameU="RCA Plug 4"/>
+    <Elem Prompt="可以改变颜色" Name="RCA 接口" PromptU="You can change its color." NameU="RCA Jack"/>
+    <Elem Prompt="电缆盘接口" Name="电缆盘接口" PromptU="Cable Jack" NameU="Cable Jack"/>
+    <Elem Prompt="电缆接口" Name="电缆接口" PromptU="Cable Plug" NameU="Cable Plug"/>
+    <Elem Prompt="RCA插口 2" Name="RCA插口 2" PromptU="RCA Jack 2" NameU="RCA Jack 2"/>
+    <Elem Prompt="数字输入" Name="数字输入" PromptU="Digital input" NameU="Digital input"/>
+    <Elem Prompt="数字输入 2" Name="数字输入 2" PromptU="Digital input 2" NameU="Digital input 2"/>
+    <Elem Prompt="VGA 接口" Name="VGA 接口" PromptU="VGA Plug" NameU="VGA Plug"/>
+    <Elem Prompt="VGA 接口" Name="VGA 接口" PromptU="VGA Jack" NameU="VGA Jack"/>
+    <Elem Prompt="接口 2" Name="接口 2" PromptU="Jack 2" NameU="Jack 2"/>
+    <Elem Prompt="视频输入" Name="视频输入" PromptU="Video input" NameU="Video input"/>
+    <Elem Prompt="HDMI 接口" Name="HDMI 接口" PromptU="HDMI Plug" NameU="HDMI Plug"/>
+    <Elem Prompt="HDMI 接口" Name="HDMI 接口" PromptU="HDMI Jack" NameU="HDMI Jack"/>
+    <Elem Prompt="USB 接口" Name="USB 接口" PromptU="USB Plug" NameU="USB Plug"/>
+    <Elem Prompt="S 端子" Name="S 端子" PromptU="S terminal Jack" NameU="S terminal Jack"/>
+    <Elem Prompt="S 端子接口" Name="S 端子接口" PromptU="S terminal Plug" NameU="S terminal Plug"/>
+    <Elem Prompt="DVI-I(单段链路)" Name="DVI-I(单段链路)" PromptU="DVI-I(Single Link)" NameU="DVI-I(Single Link)"/>
+    <Elem Prompt="DVI-I(双链路)" Name="DVI-I(双链路)" PromptU="DVI-I(Dual Link)" NameU="DVI-I(Dual Link)"/>
+    <Elem Prompt="DVI-D(单段链路)" Name="DVI-D(单段链路)" PromptU="DVI-D(Single Link)" NameU="DVI-D(Single Link)"/>
+    <Elem Prompt="DVI-D(双链路)" Name="DVI-D(双链路)" PromptU="DVI-D(Dual Link)" NameU="DVI-D(Dual Link)"/>
+    <Elem Prompt="DVI-A" Name="DVI-A" PromptU="DVI-A" NameU="DVI-A"/>
+    <Elem Prompt="同轴 TV" Name="同轴 TV" PromptU="Coaxial TV" NameU="Coaxial TV"/>
+    <Elem Prompt="同轴 TV" Name="同轴 TV" PromptU="Coaxial TV" NameU="Coaxial TV"/>
+    <Elem Prompt="同轴 TV" Name="同轴 TV" PromptU="Coaxial TV" NameU="Coaxial TV"/>
+    <Elem Prompt="同轴 TV" Name="同轴 TV" PromptU="Coaxial TV" NameU="Coaxial TV"/>
+    <Elem Prompt="XLR Neutrik" Name="XLR Neutrik" PromptU="XLR Neutrik" NameU="XLR Neutrik"/>
+    <Elem Prompt="显示器接头" Name="显示器接头" PromptU="Display" NameU="Display"/>
+    <Elem Prompt="迷你显示器接头" Name="迷你显示器接头" PromptU="Mini Display" NameU="Mini Display"/>
+    <Elem Prompt="F 接头" Name="F 接头" PromptU="F Connector" NameU="F Connector"/>
+    <Elem Prompt="DFP" Name="DFP" PromptU="DFP" NameU="DFP"/>
+    <Elem Prompt="DFP 接口" Name="DFP 接口" PromptU="DFP Jack" NameU="DFP Jack"/>
+    <Elem Prompt="超级视频图形适配器" Name="超级视频图形适配器" PromptU="SUPER VGA" NameU="SUPER VGA"/>
+    <Elem Prompt="迷你显示器接头" Name="迷你显示器接头" PromptU="Mini Display Jack" NameU="Mini Display Jack"/>
+    <Elem Prompt="USB 接口" Name="USB 接口" PromptU="USB Jack" NameU="USB Jack"/>
+    <Elem Prompt="USB 接口" Name="USB 接口" PromptU="USB Jack" NameU="USB Jack"/>
+    <Elem Prompt="显示器接口" Name="显示器接口" PromptU="Display Jack" NameU="Display Jack"/>
+    <Elem Prompt="接口" Name="接口" PromptU="Jack" NameU="Jack"/>
+    <Elem Prompt="同轴 TV 接口" Name="同轴 TV 接口" PromptU="Coaxial TV Jack" NameU="Coaxial TV Jack"/>
+    <Elem Prompt="接口" Name="接口" PromptU="Jack" NameU="Jack"/>
+    <Elem Prompt="接口" Name="接口" PromptU="Jack" NameU="Jack"/>
+    <Elem Prompt="接口" Name="接口" PromptU="Jack" NameU="Jack"/>
+    <Elem Prompt="TV" Name="TV" PromptU="TV" NameU="TV"/>
+    <Elem Prompt="电脑" Name="电脑" PromptU="Computer" NameU="Computer"/>
+    <Elem Prompt="设备" Name="设备" PromptU="Devices" NameU="Devices"/>
+    <Elem Prompt="设备" Name="设备" PromptU="Devices" NameU="Devices"/>
+    <Elem Prompt="设备" Name="设备" PromptU="Devices" NameU="Devices"/>
+    <Elem Prompt="设备" Name="设备" PromptU="Devices" NameU="Devices"/>
+    <Elem Prompt="设备" Name="设备" PromptU="Devices" NameU="Devices"/>
+    <Elem Prompt="设备" Name="设备" PromptU="Devices" NameU="Devices"/>
+</Lib>

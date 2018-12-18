@@ -1,0 +1,293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ThemeColors Version="8.0">
+    <ThemeColor Shadow="#33000000" Name="Edraw Flat" ID="1">
+        <ColorScheme Accent6="#ffffaf00" Accent1="#ff96a6a6" Accent7="#ffdd7195" Accent3="#ff3498db" Accent5="#ffee7c31" Accent2="#ff1bbc9d" Accent4="#ff2da2bf" Accent8="#ff527294"/>
+        <ColorScheme Accent3="#ffeb6d71" Accent4="#ffb296b8" Accent6="#ff44b154" Accent7="#ff7a98d8" Accent2="#ffe0b805" Accent8="#ffb6c716" Accent5="#ffc57e43" Accent1="#fffca798"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#33000000" Name="Atique" ID="2">
+        <ColorScheme Accent6="#ffd9b612" Accent1="#ff96a6a6" Accent7="#ff9d2932" Accent3="#ff789263" Accent5="#ffa88462" Accent2="#ffe88d70" Accent4="#ff494166" Accent8="#ffff8000"/>
+        <ColorScheme Accent3="#ff4a7090" Accent4="#ffb296b8" Accent6="#ff419d9d" Accent7="#ff359fc5" Accent2="#ffd36265" Accent8="#ffeb7b8b" Accent5="#ff647eb1" Accent1="#ffd98d4a"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#33000000" Name="General" ID="3">
+        <ColorScheme Accent6="#ff8064a2" Accent1="#ff1f497d" Accent7="#ff4bacc6" Accent3="#ff969696" Accent5="#ffc0504d" Accent2="#ff9bbb59" Accent4="#ff4f81bd" Accent8="#fff79646"/>
+        <ColorScheme Accent3="#ff10488d" Accent4="#ff987474" Accent6="#ff1da39a" Accent7="#ffca577f" Accent2="#ffeb7b8b" Accent8="#ff6e7191" Accent5="#ffbc85aa" Accent1="#ffd8a47a"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#33000000" Name="Waves" ID="4">
+        <ColorScheme Accent6="#fff7ab60" Accent1="#ff9d8c7f" Accent7="#ff556074" Accent3="#ff6aa4ab" Accent5="#ffe98885" Accent2="#ff8ba987" Accent4="#ff5b8fc9" Accent8="#ffa8ad5c"/>
+        <ColorScheme Accent3="#ff517ea3" Accent4="#ffe37da9" Accent6="#ffdab089" Accent7="#ffc6ae26" Accent2="#ffc7c7c7" Accent8="#ff54b9c9" Accent5="#ffbc85aa" Accent1="#ff7b6148"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#33000000" Name="Flower" ID="5">
+        <ColorScheme Accent6="#ff6bb76d" Accent1="#ff3c5d9a" Accent7="#ffe88651" Accent3="#fff0ad00" Accent5="#ffe66c7d" Accent2="#ff5a6378" Accent4="#ff60b5cc" Accent8="#ffc64847"/>
+        <ColorScheme Accent3="#ff0194c7" Accent4="#ff0168a5" Accent6="#ff248973" Accent7="#ff975b97" Accent2="#ff1d99ac" Accent8="#ff263948" Accent5="#ff28bd93" Accent1="#ffe37da9"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#33000000" Name="Town" ID="6">
+        <ColorScheme Accent6="#ff8c7b70" Accent1="#ff938ba0" Accent7="#ff8fb08c" Accent3="#ff646b86" Accent5="#ff8cadae" Accent2="#ffd16349" Accent4="#ffccb400" Accent8="#ffd19049"/>
+        <ColorScheme Accent3="#ff4fa0c8" Accent4="#ff5c80a5" Accent6="#ffadba87" Accent7="#ffb0b0b0" Accent2="#ff87bcc2" Accent8="#ffe2ca99" Accent5="#ff79be9f" Accent1="#ffbf91bf"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#33000000" Name="Garden" ID="7">
+        <ColorScheme Accent6="#ff97d56a" Accent1="#ff6c6f20" Accent7="#ff00aeee" Accent3="#ff73d3f1" Accent5="#ff68a9d7" Accent2="#ffa77f7f" Accent4="#fffeb02e" Accent8="#ffff6666"/>
+        <ColorScheme Accent3="#ffeb7b8b" Accent4="#ff3894bf" Accent6="#ffeac75d" Accent7="#ff48cfae" Accent2="#ffd889d0" Accent8="#ff3c80b0" Accent5="#ffb8ba19" Accent1="#ffff9950"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#33000000" Name="Brilliant" ID="8">
+        <ColorScheme Accent6="#ff50b7c1" Accent1="#ff887f7a" Accent7="#ff907aab" Accent3="#ff68a9d7" Accent5="#ff46ba7d" Accent2="#ff08488f" Accent4="#ffa77f7f" Accent8="#ffe85464"/>
+        <ColorScheme Accent3="#ff6a8dbd" Accent4="#ffcf9e75" Accent6="#ff98b854" Accent7="#ffeb7b8b" Accent2="#ff4a7090" Accent8="#ff224c6c" Accent5="#ff19cbb1" Accent1="#ffaab2bd"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#33000000" Name="Beach" ID="9">
+        <ColorScheme Accent6="#ff9fbd62" Accent1="#ffe7dec9" Accent7="#ffd07837" Accent3="#ff6fbbce" Accent5="#ffdd6868" Accent2="#ff4f271c" Accent4="#fffdc022" Accent8="#ff768ab8"/>
+        <ColorScheme Accent3="#ffe37da9" Accent4="#ffb6c716" Accent6="#ffa78ecc" Accent7="#ff2c97be" Accent2="#ffff9446" Accent8="#ff3c678f" Accent5="#ff17c1a8" Accent1="#ffdfaa7e"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#33000000" Name="City" ID="10">
+        <ColorScheme Accent6="#ffd28759" Accent1="#ffe1d5c3" Accent7="#ffb57c57" Accent3="#ff9c9dc7" Accent5="#ffbe78c0" Accent2="#ffbba16c" Accent4="#ff97c7cc" Accent8="#ff7ea9c5"/>
+        <ColorScheme Accent3="#ffe38e8d" Accent4="#ffd1bd8a" Accent6="#ff6ca687" Accent7="#ff2c97be" Accent2="#ff96a6a6" Accent8="#ff3c8787" Accent5="#ff59b5b2" Accent1="#ff7daba3"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#33000000" Name="Technic" ID="11">
+        <ColorScheme Accent6="#ff9dac8a" Accent1="#ffdbbfa3" Accent7="#ffaba085" Accent3="#ff8fb6c2" Accent5="#ff9f9cb1" Accent2="#ffb67d5b" Accent4="#ffedcb0c" Accent8="#ff979ca4"/>
+        <ColorScheme Accent3="#ff79be9f" Accent4="#ffe2c6a2" Accent6="#ff59b5b2" Accent7="#ff5c80a5" Accent2="#ffbebebe" Accent8="#ff4e8787" Accent5="#ffbc85aa" Accent1="#ff53a4c6"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#33000000" Name="Nature" ID="12">
+        <ColorScheme Accent6="#ffd8b25c" Accent1="#ffebddc3" Accent7="#ff7ba79d" Accent3="#ff94b6d2" Accent5="#ffa5ab81" Accent2="#ff775f55" Accent4="#ffdd8047" Accent8="#ff968c8c"/>
+        <ColorScheme Accent3="#fff18f82" Accent4="#ffcf9e75" Accent6="#ff59b5b2" Accent7="#ff7c86bd" Accent2="#ffe2c6a2" Accent8="#ff4a7090" Accent5="#ff78b378" Accent1="#ffbebebe"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#33000000" Name="Engine" ID="13">
+        <ColorScheme Accent6="#ff8acf57" Accent1="#ffdddddd" Accent7="#ff00aeee" Accent3="#ff000000" Accent5="#ffffbf28" Accent2="#ffffffff" Accent4="#ff808080" Accent8="#ffff1418"/>
+        <ColorScheme Accent3="#ff18d691" Accent4="#ff53cbcb" Accent6="#ff3d8dee" Accent7="#ff30c9f7" Accent2="#ffbe9de7" Accent8="#ffc2d518" Accent5="#ffff9501" Accent1="#fff353a8"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#33000000" Name="Shining" ID="14">
+        <ColorScheme Accent6="#fff9c18a" Accent1="#fff4e7ed" Accent7="#ffd195c0" Accent3="#ffbf8096" Accent5="#ffde6c36" Accent2="#ff653445" Accent4="#ffb678c2" Accent8="#fffa9970"/>
+        <ColorScheme Accent3="#ffefab94" Accent4="#fff0909b" Accent6="#ffcc7eb0" Accent7="#ffad717d" Accent2="#ffeacd98" Accent8="#ffb16353" Accent5="#ffeb6d71" Accent1="#ffebc4db"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#33000000" Name="Texture" ID="15">
+        <ColorScheme Accent6="#ffc3986d" Accent1="#fffbeec9" Accent7="#ffa19574" Accent3="#fff0a22e" Accent5="#ffb58b80" Accent2="#ff4e3b30" Accent4="#ffa5644e" Accent8="#ffc17529"/>
+        <ColorScheme Accent3="#ffe2a577" Accent4="#ffdc9d88" Accent6="#ffad717d" Accent7="#ffdf7c39" Accent2="#ffab855f" Accent8="#fff8755e" Accent5="#ffeacd98" Accent1="#ffd37463"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#33000000" Name="Cross" ID="16">
+        <ColorScheme Accent6="#ff52c9ba" Accent1="#ffd6ecff" Accent7="#ff37bee6" Accent3="#ff7fd13b" Accent5="#fffeb80a" Accent2="#ff4e5b6f" Accent4="#fff059a0" Accent8="#ff8ea2d2"/>
+        <ColorScheme Accent3="#fff5d061" Accent4="#ffaa92ce" Accent6="#fff87481" Accent7="#ff48cfae" Accent2="#ffb8ba19" Accent8="#ff3687bc" Accent5="#ffffa07a" Accent1="#ff6a8ed0"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#33000000" Name="Edraw" ID="17">
+        <ColorScheme Accent6="#ff8064a2" Accent1="#ff1f497d" Accent7="#ff4bacc6" Accent3="#ff4f81bd" Accent5="#ff9bbb59" Accent2="#ffada572" Accent4="#ffc0504d" Accent8="#fff79646"/>
+        <ColorScheme Accent3="#ffe0b805" Accent4="#ffa48dc7" Accent6="#ff54b9c9" Accent7="#ff0168a5" Accent2="#ffeb7b8b" Accent8="#ff248973" Accent5="#ff6184bf" Accent1="#ff97a310"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#33000000" Name="Gray" ID="18">
+        <ColorScheme Accent6="#ff808080" Accent1="#fff8f8f8" Accent7="#ff5f5f5f" Accent3="#ffdddddd" Accent5="#ff969696" Accent2="#ff000000" Accent4="#ffb2b2b2" Accent8="#ff4d4d4d"/>
+        <ColorScheme Accent3="#ff363636" Accent4="#ff2f2f2f" Accent6="#ff212121" Accent7="#ff1a1a1a" Accent2="#ff3d3d3d" Accent8="#ff121212" Accent5="#ff282828" Accent1="#ff434343"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#33000000" Name="Convene" ID="19">
+        <ColorScheme Accent6="#ff729cd6" Accent1="#ffdef5fa" Accent7="#ff8a9ece" Accent3="#ff6ac5db" Accent5="#fff08e59" Accent2="#ff464646" Accent4="#ffeb747a" Accent8="#ffb96f80"/>
+        <ColorScheme Accent3="#ff3687bc" Accent4="#fffca798" Accent6="#ffc57e43" Accent7="#ffaab2bd" Accent2="#ff8181c1" Accent8="#ff50bec1" Accent5="#fff1a500" Accent1="#ffac678c"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#33000000" Name="Mission" ID="20">
+        <ColorScheme Accent6="#ff39639d" Accent1="#ffdef5fa" Accent7="#ff474b78" Accent3="#ff2da2bf" Accent5="#ffeb641b" Accent2="#ff464646" Accent4="#ffda1f28" Accent8="#ff7d3c4a"/>
+        <ColorScheme Accent3="#ff873f35" Accent4="#ff9d232b" Accent6="#ffd4532c" Accent7="#ff838991" Accent2="#ff233971" Accent8="#ff00ae9d" Accent5="#ffb1476c" Accent1="#ff5c3c1d"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#33000000" Name="Decent" ID="21">
+        <ColorScheme Accent6="#ffc0beaf" Accent1="#ffeaebde" Accent7="#ffcec597" Accent3="#ff95b998" Accent5="#ffa8cdd7" Accent2="#ff676a55" Accent4="#ffb0ccb0" Accent8="#ffe8b7b7"/>
+        <ColorScheme Accent3="#ffefc1b1" Accent4="#fff0abc1" Accent6="#ffc0caa0" Accent7="#ff859e7b" Accent2="#ffeacd98" Accent8="#ff5e848d" Accent5="#ffa2c1d8" Accent1="#ffd3bbd2"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#33000000" Name="Peak" ID="22">
+        <ColorScheme Accent6="#ff7592d5" Accent1="#ffc9c2d1" Accent7="#ff8573cc" Accent3="#ffcab86f" Accent5="#ff74b7cd" Accent2="#ff525056" Accent4="#ffa0b489" Accent8="#ffb78ac4"/>
+        <ColorScheme Accent3="#ffe5a893" Accent4="#ffd6c47d" Accent6="#ff77b37b" Accent7="#ff689db5" Accent2="#ffe58d8f" Accent8="#ff3c678f" Accent5="#ffb3c576" Accent1="#ffd08aa6"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#33000000" Name="Oriel" ID="23">
+        <ColorScheme Accent6="#fff3d14b" Accent1="#fffff39d" Accent7="#ffb5bfd9" Accent3="#fffb944f" Accent5="#ffe9725c" Accent2="#ff575f6d" Accent4="#ff8ca9df" Accent8="#ff8a8e95"/>
+        <ColorScheme Accent3="#ffff7b53" Accent4="#fff0abc1" Accent6="#ffc6a5c8" Accent7="#ffaab2bd" Accent2="#fff3cb7b" Accent8="#ff7b6148" Accent5="#ff6a8dbd" Accent1="#ffb6c9c9"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#33000000" Name="Aspect" ID="24">
+        <ColorScheme Accent6="#ff7dae73" Accent1="#ffe3ded1" Accent7="#ff8d76a5" Accent3="#fff89430" Accent5="#ff73a6c4" Accent2="#ff323232" Accent4="#ffce5977" Accent8="#ffbd975e"/>
+        <ColorScheme Accent2="#ff0194c7" Accent7="#ffeb7b8b" Accent3="#ffaab2bd" Accent6="#ff50bec1" Accent8="#ff4a7090" Accent4="#fff0abc1" Accent5="#ff2c97be" Accent1="#ffe6be60"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#33000000" Name="Balance" ID="25">
+        <ColorScheme Accent6="#ffaf7e6d" Accent1="#ffe9e5dc" Accent7="#ff986d6d" Accent3="#ffed744b" Accent5="#ffa79c9d" Accent2="#ff696464" Accent4="#ffdd6453" Accent8="#ffab9978"/>
+        <ColorScheme Accent2="#ff85afbc" Accent7="#ffe8ae7b" Accent3="#ff6eae9e" Accent6="#ffe5858a" Accent8="#ff5d7f79" Accent4="#ff6281ae" Accent5="#ff2c97be" Accent1="#ffb6c9c9"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#33000000" Name="Passion" ID="26">
+        <ColorScheme Accent6="#ffc586e3" Accent1="#ffd2d2d2" Accent7="#ff69a6f8" Accent3="#fffda4ca" Accent5="#ffe659d5" Accent2="#ff620027" Accent4="#ffff4a93" Accent8="#ff89a4dc"/>
+        <ColorScheme Accent2="#ff74dccb" Accent7="#fffd8c5f" Accent3="#ff6dd097" Accent6="#fffad08c" Accent8="#fffd6153" Accent4="#ff83d360" Accent5="#ffe2e57b" Accent1="#ff73c9e3"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#33000000" Name="Country" ID="27">
+        <ColorScheme Accent6="#fffada7a" Accent1="#ffdde9ec" Accent7="#ffb88472" Accent3="#ffa3abcd" Accent5="#ffd2da7a" Accent2="#ff46465d" Accent4="#ff9fb8cd" Accent8="#ffa28a82"/>
+        <ColorScheme Accent2="#ffec8e99" Accent7="#ffc7c7c7" Accent3="#ff7dccc3" Accent6="#ffe0b805" Accent8="#ff7b6148" Accent4="#ffc6a5c8" Accent5="#ffaac643" Accent1="#fffca798"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#33000000" Name="Fluency" ID="28">
+        <ColorScheme Accent6="#ff10cf9b" Accent1="#ffdbf5f9" Accent7="#ff7cca62" Accent3="#ff0f6fc6" Accent5="#ff0bd0d9" Accent2="#ff04617b" Accent4="#ff009dd9" Accent8="#ffa5c249"/>
+        <ColorScheme Accent2="#fff38d6b" Accent7="#ff9072b9" Accent3="#fff5586b" Accent6="#ffc88aee" Accent8="#ff5e5ea6" Accent4="#fff5539c" Accent5="#ffd878d0" Accent1="#ffeab862"/>
+    </ThemeColor>
+    <ThemeColor Shadow="#33000000" Name="Dusk" ID="29">
+        <ColorScheme Accent6="#ffb9945b" Accent1="#fffffff4" Accent7="#ff85adbc" Accent3="#ff918415" Accent5="#ffafb591" Accent2="#ff2f2f2f" Accent4="#ffc47546" Accent8="#ffe5b440"/>
+        <ColorScheme Accent2="#fff38d6b" Accent7="#ffa381ab" Accent3="#ff517ea3" Accent6="#ffb0bd3d" Accent8="#ff2f5170" Accent4="#ff8bbcda" Accent5="#ff54b9c9" Accent1="#ffca809d"/>
+    </ThemeColor>
+	
+	<ThemeColor Name="Common" ID="50" Shadow="#21000000">
+        <ColorScheme Accent1="#ffffffff" Accent6="#ff2da2bf" Accent7="#ff34c2c2" Accent2="#ff50ad76" Accent3="#ff476482" Accent4="#fff56582" Accent5="#ffffcd55" Accent8="#ff216993"/>
+        <ColorScheme Accent1="#ff2da2bf" Accent6="#ff50ad76" Accent7="#ff34c2c2" Accent2="#ff476482" Accent3="#fff56582" Accent4="#ffffcd55" Accent5="#ff216993" Accent8="#ff2da2bf"/>
+    </ThemeColor>
+     <ThemeColor Name="Angel 1" ID="51" Shadow="#21000000">
+        <ColorScheme Accent1="#fff9f8f8" Accent6="#ff378a7c" Accent7="#ffff7979" Accent2="#fff4454b" Accent3="#ff293f4a" Accent4="#fffabe11" Accent5="#ff3fb59e" Accent8="#ffa6b9b0"/>
+        <ColorScheme Accent1="#fff4454b" Accent6="#ffff7979" Accent7="#ffa6b9b0" Accent2="#ff293f4a" Accent3="#fffabe11" Accent4="#ff3fb59e" Accent5="#ff378a7c" Accent8="#ff8ec8c9"/>
+    </ThemeColor>
+	 <ThemeColor Name="Angel 2" ID="52" Shadow="#21000000">
+        <ColorScheme Accent1="#fff9f8f8" Accent6="#fffa6e1c" Accent7="#ff609299" Accent2="#ffefcb42" Accent3="#ff35696d" Accent4="#fff1e05c" Accent5="#ff99d5d6" Accent8="#fffa8556"/>
+        <ColorScheme Accent1="#ffefcb42" Accent6="#ff609299" Accent7="#fffa8556" Accent2="#ff35696d" Accent3="#fff1e05c" Accent4="#ff99d5d6" Accent5="#fffa6e1c" Accent8="#ff8ec8c9"/>
+    </ThemeColor>
+	 <ThemeColor Name="Angel 3" ID="53" Shadow="#21000000">
+        <ColorScheme Accent1="#fff9f8f8" Accent6="#ff4565ab" Accent7="#ff316978" Accent2="#ff66b5af" Accent3="#ff07253a" Accent4="#ff748788" Accent5="#fff23d45" Accent8="#ffea8125"/>
+        <ColorScheme Accent1="#ff66b5af" Accent6="#ff316978" Accent7="#ffea8125" Accent2="#ff07253a" Accent3="#ff748788" Accent4="#fff23d45" Accent5="#ff4565ab" Accent8="#ff8ec8c9"/>
+    </ThemeColor>
+	 <ThemeColor Name="Angel 4" ID="54" Shadow="#21000000">
+        <ColorScheme Accent1="#fff9f8f8" Accent6="#ff3d9db5" Accent7="#ff3c6f9e" Accent2="#ff4fbcbe" Accent3="#ff33b5a6" Accent4="#ff3a849d" Accent5="#ff185b74" Accent8="#ff4a707e"/>
+        <ColorScheme Accent1="#ff4fbcbe" Accent6="#ff3c6f9e" Accent7="#ff4a707e" Accent2="#ff33b5a6" Accent3="#ff3a849d" Accent4="#ff185b74" Accent5="#ff3d9db5" Accent8="#ff8ec8c9"/>
+    </ThemeColor>
+	 <ThemeColor Name="Angel 5" ID="55" Shadow="#21000000">
+        <ColorScheme Accent1="#fff9f8f8" Accent6="#ff79b58f" Accent7="#ffcfb07d" Accent2="#ff6dc7df" Accent3="#ff1faa99" Accent4="#fff5aa22" Accent5="#ff858180" Accent8="#ff5174b5"/>
+        <ColorScheme Accent1="#ff6dc7df" Accent6="#ffcfb07d" Accent7="#ff5174b5" Accent2="#ff1faa99" Accent3="#fff5aa22" Accent4="#ff858180" Accent5="#ff79b58f" Accent8="#ff8ec8c9"/>
+    </ThemeColor>
+	 <ThemeColor Name="Angel 6" ID="56" Shadow="#21000000">
+        <ColorScheme Accent1="#fff9f8f8" Accent6="#ffe3ccb2" Accent7="#ffb5dace" Accent2="#fffac345" Accent3="#ff24333a" Accent4="#ffef7b65" Accent5="#ff84daa8" Accent8="#ff79a781"/>
+        <ColorScheme Accent1="#fffac345" Accent6="#ffb5dace" Accent7="#ff79a781" Accent2="#ff24333a" Accent3="#ffef7b65" Accent4="#ff84daa8" Accent5="#ffe3ccb2" Accent8="#ff8ec8c9"/>
+    </ThemeColor>
+	 <ThemeColor Name="Angel 7" ID="57" Shadow="#21000000">
+        <ColorScheme Accent1="#fff9f8f8" Accent6="#ff585392" Accent7="#ff534070" Accent2="#ff30a68d" Accent3="#ff23384b" Accent4="#fffad15a" Accent5="#fffa567d" Accent8="#fffa7952"/>
+        <ColorScheme Accent1="#ff30a68d" Accent6="#ff534070" Accent7="#fffa7952" Accent2="#ff23384b" Accent3="#fffad15a" Accent4="#fffa567d" Accent5="#ff585392" Accent8="#ff8ec8c9"/>
+    </ThemeColor>
+	 <ThemeColor Name="Angel 8" ID="58" Shadow="#21000000">
+        <ColorScheme Accent1="#fff9f8f8" Accent6="#ff7fb4e0" Accent7="#ff24566b" Accent2="#ffb1c483" Accent3="#fff0c887" Accent4="#ff6b8ca7" Accent5="#ff454142" Accent8="#ff9fa392"/>
+        <ColorScheme Accent1="#ffb1c483" Accent6="#ff24566b" Accent7="#ff9fa392" Accent2="#fff0c887" Accent3="#ff6b8ca7" Accent4="#ff454142" Accent5="#ff7fb4e0" Accent8="#ff8ec8c9"/>
+    </ThemeColor>
+	 <ThemeColor Name="Angel 9" ID="59" Shadow="#21000000">
+        <ColorScheme Accent1="#fff9f8f8" Accent6="#ff7aacdd" Accent7="#ffa4c3a7" Accent2="#ff707c8d" Accent3="#ff8ec8c9" Accent4="#fff5c63a" Accent5="#ffe56e5e" Accent8="#ffc0c1c1"/>
+        <ColorScheme Accent1="#ff707c8d" Accent6="#ffa4c3a7" Accent7="#ffc0c1c1" Accent2="#ff8ec8c9" Accent3="#fff5c63a" Accent4="#ffe56e5e" Accent5="#ff7aacdd" Accent8="#ff8ec8c9"/>
+    </ThemeColor>
+    <ThemeColor Name="Aromas" ID="60" Shadow="#21000000">
+        <ColorScheme Accent1="#fffef6eb" Accent6="#ff61a2d1" Accent7="#fff68b81" Accent2="#ffefa950" Accent3="#ff45aebc" Accent4="#fff27078" Accent5="#ffa2b973" Accent8="#ffea8ca0"/>
+        <ColorScheme Accent1="#ffefa950" Accent6="#fff68b81" Accent7="#ffea8ca0" Accent2="#fff27078" Accent3="#ff45aebc" Accent4="#ffa2b973" Accent5="#ff61a2d1" Accent8="#ff45aebc"/>
+    </ThemeColor>
+
+        <ThemeColor Name="Secret" ID="61" Shadow="#21000000">
+        <ColorScheme Accent1="#fff4e9d3" Accent6="#ffaf9f7d" Accent7="#ffabae6e" Accent2="#ff97b472" Accent3="#ffcb4032" Accent4="#ff48362c" Accent5="#ffe9b643" Accent8="#ff882a21"/>
+        <ColorScheme Accent1="#ffe9b643" Accent6="#ffabae6e" Accent7="#ff97b472" Accent2="#ffcb4032" Accent3="#ff48362c" Accent4="#ffe9b643" Accent5="#ff882a21" Accent8="#ffaf9f7d"/>
+    </ThemeColor>
+    	<ThemeColor Name="Candy" ID="62" Shadow="#21000000">
+        <ColorScheme Accent1="#fff1f1f1" Accent6="#fffdb933" Accent7="#ffef8f8a" Accent2="#fffbdd50" Accent3="#ffa5d35b" Accent4="#ff59bedf" Accent5="#ffa49ed7" Accent8="#ff4fc1cb"/>
+        <ColorScheme Accent1="#fffbdd50" Accent6="#ffef8f8a" Accent7="#ffa5d35b" Accent2="#ff59bedf" Accent3="#ffa49ed7" Accent4="#fffdb933" Accent5="#ff4fc1cb" Accent8="#ff59bedf"/>
+    </ThemeColor>
+        <ThemeColor Name="Peace" ID="63" Shadow="#21000000">
+        <ColorScheme Accent1="#ffe6e9e2" Accent6="#ffc9c1ae" Accent7="#ff819daa" Accent2="#ff8f7c76" Accent3="#ff46505c" Accent4="#ffb2d8db" Accent5="#ff92818b" Accent8="#ff8f99aa"/>
+        <ColorScheme Accent1="#ff8f7c76" Accent6="#ff819daa" Accent7="#ff8f99aa" Accent2="#ffb2d8db" Accent3="#ff92818b" Accent4="#ff46505c" Accent5="#ffc9c1ae" Accent8="#ffe6e9e2"/>
+    </ThemeColor>
+       <ThemeColor Name="Sincere" ID="64" Shadow="#21000000">
+        <ColorScheme Accent1="#fffef6eb" Accent6="#ff525564" Accent7="#ff8fb08c" Accent2="#ff96c0ce" Accent3="#ffc25b56" Accent4="#ffbeb9b5" Accent5="#ff74828f" Accent8="#81a0c5"/>
+        <ColorScheme Accent1="#ffb6aba6" Accent6="#ffbeb9b5" Accent7="#ff96c0ce" Accent2="#ffc25b56" Accent3="#ff525564" Accent4="#ff8fb08c" Accent5="#ff74828f" Accent8="#ffb6aba6"/>
+    </ThemeColor>
+       <ThemeColor Name="Dream" ID="65" Shadow="#21000000">
+        <ColorScheme Accent1="#fffefefe" Accent6="#ff4a7eaa" Accent7="#ff92b9ec" Accent2="#ff6091cb" Accent3="#ff7d7081" Accent4="#ffb8d3de" Accent5="#ff1a3d75" Accent8="#ffc8beb9"/>
+        <ColorScheme Accent1="#ff1a3d75" Accent6="#fff1e9e6" Accent7="#ff6091cb" Accent2="#ffb8d3de" Accent3="#ff7d7081" Accent4="#ff92b9ec" Accent5="#ffc8beb9" Accent8="#ff6091cb"/>
+     	  </ThemeColor>
+    <ThemeColor Name="Ease" ID="66" Shadow="#21000000">
+        <ColorScheme Accent1="#fff6f3e9" Accent6="#ff8397cc" Accent7="#ffabcc96" Accent2="#ff98c5ab" Accent3="#ffce7898" Accent4="#ffccb647" Accent5="#ffd6dee4" Accent8="#ffaa5271"/>
+        <ColorScheme Accent1="#ffabcc96" Accent6="#ffabcc96" Accent7="#ff8397cc" Accent2="#ffce7898" Accent3="#ffccb647" Accent4="#ffaa5271" Accent5="#ffd6dee4" Accent8="#ffce7898"/>
+    </ThemeColor>
+    <ThemeColor Name="Stream" ID="67" Shadow="#21000000">
+        <ColorScheme Accent1="#fff9f8f8" Accent6="#ffb1cf4b" Accent7="#ff77c8d6" Accent2="#ff34c2c2" Accent3="#ffff9b89" Accent4="#ff5fb7f1" Accent5="#ffffd87a" Accent8="#ffd5bb8d"/>
+        <ColorScheme Accent1="#ff92aa7c" Accent6="#ffb06363" Accent7="#ffdfd7a8" Accent2="#ffdd6155" Accent3="#ffdfd7a8" Accent4="#ffc7c890" Accent5="#ffb06363" Accent8="#ffcebd5d"/>
+    </ThemeColor>
+        <ThemeColor Name="Blossom" ID="68" Shadow="#21000000">
+        <ColorScheme Accent1="#fff4f4ee" Accent6="#ff00aade" Accent7="#fff19856" Accent2="#ffa50283" Accent3="#ffbbcf4c" Accent4="#fffad139" Accent5="#ffe8505c" Accent8="#ffa4cca7"/>
+        <ColorScheme Accent1="#ffa50283" Accent6="#fff19856" Accent7="#ffa4cca7" Accent2="#ffbbcf4c" Accent3="#fffad139" Accent4="#ffe8505c" Accent5="#ff00aade" Accent8="#ffbbcf4c"/>
+    </ThemeColor>
+         <ThemeColor Name="Horizon" ID="69" Shadow="#21000000">
+        <ColorScheme Accent1="#ffede8d2" Accent6="#ff92aa7c" Accent7="#ffb06363" Accent2="#ff90c29f" Accent3="#ffdd6155" Accent4="#ffdfd7a8" Accent5="#ffcebd5d" Accent8="#ffc7c890"/>
+        <ColorScheme Accent1="#ffefa950" Accent6="#ff27078" Accent7="#ff45aebc" Accent2="#ffa2b973" Accent3="#ff61a2d1" Accent4="#ff938296" Accent5="#ffea8ca0" Accent8="#ffefa950"/>
+    </ThemeColor>
+    <ColorPool>
+        <Color V="#b60717"/>
+        <Color V="#d7091d"/>
+        <Color V="#c85179"/>
+        <Color V="#e85464"/>
+        <Color V="#eb6d71"/>
+        <Color V="#e6609d"/>
+        <Color V="#e297b5"/>
+        <Color V="#ef8f8a"/>
+        <Color V="#f0909b"/>
+        <Color V="#ffa07a"/>
+        <Color V="#efab94"/>
+        <Color V="#f6bfbc"/>
+        <Color V="#ead6e8"/>
+        <Color V="#fed6e5"/>
+        <Color V="#fde1e7"/>
+        <Color V="#0e2350"/>
+        <Color V="#233a70"/>
+        <Color V="#402f78"/>
+        <Color V="#08488f"/>
+        <Color V="#0168a5"/>
+        <Color V="#3e62ae"/>
+        <Color V="#5383c3"/>
+        <Color V="#007fcc"/>
+        <Color V="#008ccc"/>
+        <Color V="#2ca9e0"/>
+        <Color V="#00b4f0"/>
+        <Color V="#30c9f7"/>
+        <Color V="#89c3eb"/>
+        <Color V="#a0d8ef"/>
+        <Color V="#cfebf6"/>
+        <Color V="#004234"/>
+        <Color V="#005831"/>
+        <Color V="#006360"/>
+        <Color V="#556b2f"/>
+        <Color V="#007947"/>
+        <Color V="#1d953f"/>
+        <Color V="#00ae9d"/>
+        <Color V="#50bec1"/>
+        <Color V="#19cbb1"/>
+        <Color V="#46ba7d"/>
+        <Color V="#00af54"/>
+        <Color V="#7fb80e"/>
+        <Color V="#a3cf62"/>
+        <Color V="#bed742"/>
+        <Color V="#cde6c7"/>
+        <Color V="#e35020"/>
+        <Color V="#ec6901"/>
+        <Color V="#f08300"/>
+        <Color V="#f29952"/>
+        <Color V="#f1a500"/>
+        <Color V="#ffaf00"/>
+        <Color V="#fdb933"/>
+        <Color V="#f9ca31"/>
+        <Color V="#ffd900"/>
+        <Color V="#ffec00"/>
+        <Color V="#fcf384"/>
+        <Color V="#fed372"/>
+        <Color V="#eacd98"/>
+        <Color V="#ffdead"/>
+        <Color V="#fde9d0"/>
+        <Color V="#793372"/>
+        <Color V="#813f84"/>
+        <Color V="#674196"/>
+        <Color V="#745398"/>
+        <Color V="#96689f"/>
+        <Color V="#9d5b8b"/>
+        <Color V="#cc7eb0"/>
+        <Color V="#aa92ce"/>
+        <Color V="#c6a5c8"/>
+        <Color V="#ebc4db"/>
+        <Color V="#5a291a"/>
+        <Color V="#763c30"/>
+        <Color V="#944e2a"/>
+        <Color V="#aa5527"/>
+        <Color V="#bf793e"/>
+        <Color V="#b4866c"/>
+        <Color V="#deb887"/>
+        <Color V="#d4cdc7"/>
+        <Color V="#cad4cc"/>
+        <Color V="#000000"/>
+        <Color V="#3e3938"/>
+        <Color V="#595757"/>
+        <Color V="#717070"/>
+        <Color V="#888889"/>
+        <Color V="#9e9f9f"/>
+        <Color V="#b4b5b5"/>
+        <Color V="#cdcece"/>
+        <Color V="#dcdcdd"/>
+        <Color V="#eeeeee"/>
+        <Color V="#ffffff"/>
+    </ColorPool>
+</ThemeColors>

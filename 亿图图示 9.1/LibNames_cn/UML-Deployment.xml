@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="UML Deployment Diagram">
+    <Elem Prompt="包" Name="包" PromptU="Package" NameU="Package"/>
+    <Elem Prompt="对象" Name="对象" PromptU="Object" NameU="Object"/>
+    <Elem Prompt="节点" Name="节点" PromptU="Node" NameU="Node"/>
+    <Elem Prompt="组件" Name="组件" PromptU="Component" NameU="Component"/>
+    <Elem Prompt="节点实例" Name="节点实例" PromptU="Node Instance" NameU="Node Instance"/>
+    <Elem Prompt="组件实例" Name="组件实例" PromptU="Component Instance" NameU="Component Instance"/>
+    <Elem Prompt="用户" Name="用户" PromptU="Actor" NameU="Actor"/>
+    <Elem Prompt="接口 2" Name="接口 2" PromptU="Interface 2" NameU="Interface 2"/>
+    <Elem Prompt="接口" Name="接口" PromptU="Interface" NameU="Interface"/>
+    <Elem Prompt="通信" Name="通信" PromptU="Comunication" NameU="Comunication"/>
+    <Elem Prompt="继承" Name="继承" PromptU="Inheritance" NameU="Inheritance"/>
+    <Elem Prompt="单向依赖/通讯" Name="单向依赖/通讯" PromptU="One-way Dependency/Comunication" NameU="One-way Dependency"/>
+    <Elem Prompt="双向依赖/通讯" Name="双向依赖/通讯" PromptU="Two-way Dependency/Comunication" NameU="Two-way Dependency"/>
+    <Elem Prompt="二元关联" Name="二元关联" PromptU="Binary Association" NameU="Binary Association"/>
+    <Elem Prompt="数据流" Name="数据流" PromptU="Data Flow" NameU="Data Flow"/>
+    <Elem Prompt="简单" Name="简单" PromptU="Simple" NameU="Simple"/>
+    <Elem Prompt="阻碍" Name="阻碍" PromptU="Balking" NameU="Balking"/>
+    <Elem Prompt="异步" Name="异步" PromptU="Asynchronous" NameU="Asynchronous"/>
+    <Elem Prompt="类关系" Name="类关系" PromptU="Class Relationship" NameU="Class Relationship"/>
+    <Elem Prompt="注释" Name="注释" PromptU="Note" NameU="Note"/>
+    <Elem Prompt="约束" Name="约束" PromptU="Constraint" NameU="Constraint"/>
+</Lib>

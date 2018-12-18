@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Business Scene">
+    <Elem NameU="White Collar" Name="白领" PromptU="White Collar" Prompt="白领"/>
+    <Elem NameU="Sign the contact" Name="签约" PromptU="Sign the contact" Prompt="签约"/>
+    <Elem NameU="Conference" Name="会议" PromptU="Conference" Prompt="会议"/>
+    <Elem NameU="Sorting files" Name="找文件" PromptU="Sorting files" Prompt="找文件"/>
+    <Elem NameU="Meeting 1" Name="会议1" PromptU="Meeting 1" Prompt="会议1"/>
+    <Elem NameU="Talking" Name="交谈" PromptU="Talking" Prompt="交谈"/>
+    <Elem NameU="Meeting 2" Name="会议2" PromptU="Meeting 2" Prompt="会议2"/>
+    <Elem NameU="Working" Name="工作" PromptU="Working" Prompt="工作"/>
+    <Elem NameU="Employee" Name="员工" PromptU="Employee" Prompt="员工"/>
+    <Elem NameU="Speech" Name="演讲" PromptU="Speech" Prompt="演讲"/>
+    <Elem NameU="Manager sign files" Name="经理签署文件" PromptU="Manager sign files" Prompt="经理签署文件"/>
+    <Elem NameU="Discuss" Name="讨论" PromptU="Discuss" Prompt="讨论"/>
+    <Elem NameU="Negotiation" Name="谈判" PromptU="Negotiation" Prompt="谈判"/>
+    <Elem NameU="Awards ceremony" Name="颁奖典礼" PromptU="Awards ceremony" Prompt="颁奖典礼"/>
+    <Elem NameU="Globalization" Name="全球化" PromptU="Globalization" Prompt="全球化"/>
+    <Elem NameU="Reception" Name="交际" PromptU="Reception" Prompt="交际"/>
+    <Elem NameU="Video conference" Name="视频会议" PromptU="Video conference" Prompt="视频会议"/>
+    <Elem NameU="Three people meeting" Name="三人会议" PromptU="Three people meeting" Prompt="三人会议"/>
+    <Elem NameU="Two people discuss" Name="面对面讨论" PromptU="Two people discuss" Prompt="面对面讨论"/>
+    <Elem NameU="Training" Name="培训" PromptU="Training" Prompt="培训"/>
+    <Elem NameU="Report work" Name="报告工作" PromptU="Report work" Prompt="报告工作"/>
+    <Elem NameU="Sign contract" Name="签合同" PromptU="Sign contract" Prompt="签合同"/>
+    <Elem NameU="Group meeting" Name="小组讨论" PromptU="Group meeting" Prompt="小组讨论"/>
+    <Elem NameU="Payment" Name="付款" PromptU="Payment" Prompt="付款"/>
+    <Elem NameU="Secretary" Name="前台" PromptU="Secretary" Prompt="前台"/>
+    <Elem NameU="Timing" Name="时间" PromptU="Timing" Prompt="时间"/>
+    <Elem NameU="New idea 1" Name="新观点1" PromptU="New idea 1" Prompt="新观点1"/>
+    <Elem NameU="The horn propaganda" Name="号角宣传" PromptU="The horn propaganda" Prompt="号角宣传"/>
+    <Elem NameU="New idea 2" Name="新观点2" PromptU="New idea 2" Prompt="新观点2"/>
+    <Elem NameU="Reporting" Name="报告" PromptU="Reporting" Prompt="报告"/>
+    <Elem NameU="New idea 3" Name="新观点3" PromptU="New idea 3" Prompt="新观点3"/>
+    <Elem NameU="Presentation" Name="讲演" PromptU="Presentation" Prompt="讲演"/>
+    <Elem NameU="New idea 4" Name="新观点4" PromptU="New idea 4" Prompt="新观点4"/>
+    <Elem NameU="Goal Setting" Name="目标设定" PromptU="Goal Setting" Prompt="目标设定"/>
+    <Elem NameU="Checking" Name="检查" PromptU="Checking" Prompt="检查"/>
+    <Elem NameU="Shopping" Name="购物" PromptU="Shopping" Prompt="购物"/>
+    <Elem NameU="Deadline" Name="截止日期" PromptU="Deadline" Prompt="截止日期"/>
+    <Elem NameU="Purchase" Name="购物" PromptU="Purchase" Prompt="购物"/>
+    <Elem NameU="Make Profit" Name="盈利" PromptU="Make Profit" Prompt="盈利"/>
+    <Elem NameU="Pathway" Name="分叉路标" PromptU="Pathway" Prompt="分叉路标"/>
+    <Elem NameU="Unemployment" Name="解雇" PromptU="Unemployment" Prompt="解雇"/>
+    <Elem NameU="Ride a bike" Name="骑单车" PromptU="Ride a bike" Prompt="骑单车"/>
+    <Elem NameU="Business Trip" Name="出差" PromptU="Business Trip" Prompt="出差"/>
+    <Elem NameU="Coffee time" Name="休息时间" PromptU="Coffee time" Prompt="休息时间"/>
+    <Elem NameU="By train" Name="坐火车" PromptU="By train" Prompt="坐火车"/>
+    <Elem NameU="By Bus" Name="坐公交车" PromptU="By Bus" Prompt="坐公交车"/>
+    <Elem NameU="By airplane" Name="坐飞机" PromptU="By airplane" Prompt="坐飞机"/>
+    <Elem NameU="Firm Framework 1" Name="公司框架1" PromptU="Firm Framework 1" Prompt="公司框架1"/>
+    <Elem NameU="Firm Framework 2" Name="公司框架2" PromptU="Firm Framework 2" Prompt="公司框架2"/>
+    <Elem NameU="Firm Framework 3" Name="公司框架3" PromptU="Firm Framework 3" Prompt="公司框架3"/>
+    <Elem NameU="Firm Framework 4" Name="公司框架4" PromptU="Firm Framework 4" Prompt="公司框架4"/>
+    <Elem NameU="Firm Framework 5" Name="公司框架5" PromptU="Firm Framework 5" Prompt="公司框架5"/>
+    <Elem NameU="Firm Framework 6" Name="公司框架6" PromptU="Firm Framework 6" Prompt="公司框架6"/>
+    <Elem NameU="Firm Framework 7" Name="公司框架7" PromptU="Firm Framework 7" Prompt="公司框架7"/>
+    <Elem NameU="Firm Framework 8" Name="公司框架8" PromptU="Firm Framework 8" Prompt="公司框架8"/>
+</Lib>

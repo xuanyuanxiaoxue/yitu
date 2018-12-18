@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Business - Flat">
+    <Elem NameU="Indicates a street sign" PromptU="Indicates a street sign" Name="路标" Prompt="路标"/>
+    <Elem NameU="Deflection board" PromptU="Deflection board" Name="路标" Prompt="路标"/>
+    <Elem NameU="American dollar" PromptU="American dollar" Name="美元" Prompt="美元"/>
+    <Elem NameU="Euro" PromptU="Euro" Name="欧元" Prompt="欧元"/>
+    <Elem NameU="RMB" PromptU="RMB" Name="人民币" Prompt="人民币"/>
+    <Elem NameU="VISA" PromptU="VISA" Name="签证" Prompt="签证"/>
+    <Elem NameU="Handshake" PromptU="Handshake" Name="握手" Prompt="握手"/>
+    <Elem NameU="Cheers" PromptU="Cheers" Name="干杯" Prompt="干杯"/>
+    <Elem NameU="Competition" PromptU="Competition" Name="竞争" Prompt="竞争"/>
+    <Elem NameU="Unity" PromptU="Unity" Name="团结" Prompt="团结"/>
+    <Elem NameU="Unity" PromptU="Unity" Name="团结" Prompt="团结"/>
+    <Elem NameU="Goal" PromptU="Goal" Name="目标" Prompt="目标"/>
+    <Elem NameU="Earth" PromptU="Earth" Name="地球" Prompt="地球"/>
+    <Elem NameU="Portfolio" PromptU="Portfolio" Name="公文包" Prompt="公文包"/>
+    <Elem NameU="Portfolio" PromptU="Portfolio" Name="公文包" Prompt="公文包"/>
+    <Elem NameU="Loudspeaker" PromptU="Loudspeaker" Name="喇叭" Prompt="喇叭"/>
+    <Elem NameU="Clock" PromptU="Clock" Name="时钟" Prompt="时钟"/>
+    <Elem NameU="E-mail" PromptU="E-mail" Name="E-mail" Prompt="E-mail"/>
+    <Elem NameU="thoughts" PromptU="thoughts" Name="思想" Prompt="思想"/>
+    <Elem NameU="Thoughts" PromptU="Thoughts" Name="思想" Prompt="思想"/>
+    <Elem NameU="Folder" PromptU="Folder" Name="文件夹" Prompt="文件夹"/>
+    <Elem NameU="Check" PromptU="Check" Name="核对打钩" Prompt="核对打钩"/>
+    <Elem NameU="Character relationship" PromptU="Character relationship " Name="人物关系" Prompt="人物关系"/>
+    <Elem NameU="Cargo container" PromptU="Cargo container" Name="行李箱" Prompt="行李箱"/>
+    <Elem NameU="Gold medal" PromptU="Gold medal" Name="金牌" Prompt="金牌"/>
+    <Elem NameU="Gold medal" PromptU="Gold medal" Name="金牌" Prompt="金牌"/>
+    <Elem NameU="Trophy" PromptU="Trophy" Name="奖杯" Prompt="奖杯"/>
+    <Elem NameU="Ranking list" PromptU="Ranking list" Name="排名表" Prompt="排名表"/>
+    <Elem NameU="Goal achievement objective" PromptU="Goal achievement objective" Name="逐步实现目标" Prompt="逐步实现目标"/>
+    <Elem NameU="Column Chart" PromptU="Column Chart" Name="柱状图" Prompt="柱状图"/>
+    <Elem NameU="Column Chart" PromptU="Column Chart" Name="柱状图" Prompt="柱状图"/>
+    <Elem NameU="Column Chart" PromptU="Column Chart" Name="柱状图" Prompt="柱状图"/>
+    <Elem NameU="Finger phone" PromptU="Finger phone" Name="手指和手机" Prompt="手指和手机"/>
+    <Elem NameU="Shopping cart" PromptU="Shopping cart" Name="购物车" Prompt="购物车"/>
+    <Elem NameU="Phone Order" PromptU="Phone Order" Name="电话订购" Prompt="电话订购"/>
+    <Elem NameU="iPad" PromptU="iPad" Name="iPad" Prompt="iPad"/>
+    <Elem NameU="Cyber shop" PromptU="Cyber shop" Name="网购" Prompt="网购"/>
+    <Elem NameU="A fork on the road" PromptU="A fork on the road" Name="十字路口" Prompt="十字路口"/>
+    <Elem NameU="Balance" PromptU="Balance" Name="天平" Prompt="天平"/>
+    <Elem NameU="Charge" PromptU="Charge" Name="充电" Prompt="充电"/>
+    <Elem NameU="File and a pencil" PromptU="File and a pencil" Name="文件和一支铅笔" Prompt="文件和一支铅笔"/>
+    <Elem NameU="Cloud Files" PromptU="Cloud Files" Name="云文件" Prompt="云文件"/>
+    <Elem NameU="News" PromptU="News" Name="新闻" Prompt="新闻"/>
+    <Elem NameU="News" PromptU="News" Name="新闻" Prompt="新闻"/>
+    <Elem NameU="Exclamation mark" PromptU="Exclamation mark" Name="感叹号" Prompt="感叹号"/>
+    <Elem NameU="Question mark" PromptU="Question mark" Name="问号" Prompt="问号"/>
+    <Elem NameU="Commodity" PromptU="Commodity" Name="商品" Prompt="商品"/>
+    <Elem NameU="Commodity" PromptU="Commodity" Name="商品" Prompt="商品"/>
+    <Elem NameU="Trailer" PromptU="Trailer" Name="拖车" Prompt="拖车"/>
+    <Elem NameU="Magnifying glass" PromptU="Magnifying glass" Name="放大镜" Prompt="放大镜"/>
+    <Elem NameU="Quality verification" PromptU="Quality verification" Name="质量验证" Prompt="质量验证"/>
+    <Elem NameU="Truck" PromptU="Truck" Name="卡车" Prompt="卡车"/>
+    <Elem NameU="Truck" PromptU="Truck" Name="卡车" Prompt="卡车"/>
+    <Elem NameU="Airplane" PromptU="Airplane" Name="飞机" Prompt="飞机"/>
+    <Elem NameU="Gear 1" PromptU="Gear 1" Name="齿轮 1" Prompt="齿轮 1"/>
+    <Elem NameU="Gear 2" PromptU="Gear 2" Name="齿轮 2" Prompt="齿轮 2"/>
+    <Elem NameU="Gear 3" PromptU="Gear 3" Name="齿轮 3" Prompt="齿轮 3"/>
+    <Elem NameU="Gear 4" PromptU="Gear 4" Name="齿轮 4" Prompt="齿轮 4"/>
+    <Elem NameU="Dialog editor" PromptU="Dialog editor" Name="对话框" Prompt="对话框"/>
+    <Elem NameU="Dialog editor" PromptU="Dialog editor" Name="对话框" Prompt="对话框"/>
+    <Elem NameU="Dialog editor" PromptU="Dialog editor" Name="对话框" Prompt="对话框"/>
+    <Elem NameU="Customer Services" PromptU="Customer Services" Name="客服" Prompt="客服"/>
+    <Elem NameU="People" PromptU="People" Name="家庭" Prompt="家庭"/>
+    <Elem NameU="Woman" PromptU="Woman" Name="女士" Prompt="女士"/>
+	<Elem NameU="Woman" PromptU="Woman" Name="女士" Prompt="女士"/>
+	<Elem NameU="Woman" PromptU="Woman" Name="女士" Prompt="女士"/>
+	<Elem NameU="Woman" PromptU="Woman" Name="女士" Prompt="女士"/>
+    <Elem NameU="Man" PromptU="Man" Name="男士" Prompt="男士"/>
+    <Elem NameU="Cooperation" PromptU="Cooperation" Name="合作" Prompt="合作"/>
+	<Elem NameU="Businessman" PromptU="Businessman" Name="商业人士" Prompt="商业人士"/>
+	<Elem NameU="Businessman" PromptU="Businessman" Name="商业人士" Prompt="商业人士"/>
+	<Elem NameU="Businessman" PromptU="Businessman" Name="商业人士" Prompt="商业人士"/>
+	<Elem NameU="Thinking" PromptU="Thinking" Name="思考" Prompt="思考"/>
+	<Elem NameU="Working" PromptU="Working" Name="工作中" Prompt="工作中"/>
+	<Elem NameU="Go to Work" PromptU="Go to Work" Name="去上班" Prompt="去上班"/>
+	<Elem NameU="Go to Work 2" PromptU="Go to Work 2" Name="去上班" Prompt="去上班"/>
+	<Elem NameU="Go to Work 3" PromptU="Go to Work 3" Name="去上班" Prompt="去上班"/>
+	<Elem NameU="Talking" PromptU="Talking" Name="谈话" Prompt="谈话"/>
+	<Elem NameU="Drinking Coffee" PromptU="Drinking Coffee" Name="喝咖啡" Prompt="喝咖啡"/>
+	<Elem NameU="Playing Computer" PromptU="Playing Computer" Name="用电脑" Prompt="用电脑"/>
+	<Elem NameU="Business Travel" PromptU="Business Travel" Name="出差" Prompt="出差"/>
+	<Elem NameU="Talking on the Phone 1" PromptU="Talking on the Phone 1" Name="打电话" Prompt="打电话"/>
+	<Elem NameU="Talking on the Phone 2" PromptU="Talking on the Phone 2" Name="打电话" Prompt="打电话"/>
+	<Elem NameU="Talking on the Phone 3" PromptU="Talking on the Phone 3" Name="打电话" Prompt="打电话"/>
+	<Elem NameU="Talking on the Phone" PromptU="Talking on the Phone" Name="打电话" Prompt="打电话"/>
+	<Elem NameU="Business Man with Loudspeaker" PromptU="Business Man with Loudspeaker" Name="拿喇叭的人" Prompt="拿喇叭的人"/>
+	<Elem NameU="People with Trophy" PromptU="People with Trophy" Name="拿奖杯的人" Prompt="拿奖杯的人"/>
+	<Elem NameU="People with Trophy" PromptU="People with Trophy" Name="拿奖杯的人" Prompt="拿奖杯的人"/>
+	<Elem NameU="Thinking People" PromptU="Thinking People" Name="正在思考" Prompt="正在思考"/>
+	<Elem NameU="Thinking People" PromptU="Thinking People" Name="正在思考" Prompt="正在思考"/>
+	<Elem NameU="Happy" PromptU="Happy" Name="开心" Prompt="开心"/>
+	<Elem NameU="Man Celebrating" PromptU="Man Celebrating" Name="庆祝" Prompt="庆祝"/>
+	<Elem NameU="Discussing" PromptU="Discussing" Name="讨论" Prompt="讨论"/>
+	<Elem NameU="Talking about Business" PromptU="Talking about Business" Name="洽谈" Prompt="洽谈"/>
+	<Elem NameU="Busy Working" PromptU="Busy Working" Name="正在工作" Prompt="正在工作"/>
+	<Elem NameU="People Celebrating" PromptU="People Celebrating" Name="很多人庆祝" Prompt="很多人庆祝"/>
+	<Elem NameU="People Celebrating" PromptU="People Celebrating" Name="很多人庆祝" Prompt="很多人庆祝"/>
+    <Elem NameU="Progress Bar" PromptU="Progress Bar" Name="进度条" Prompt="进度条"/>
+</Lib>

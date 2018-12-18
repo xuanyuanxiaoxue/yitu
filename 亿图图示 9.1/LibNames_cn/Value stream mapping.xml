@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Value Stream Map Shapes">
+    <Elem Prompt="生产控制" Name="生产控制" PromptU="Production Control" NameU="Production Control"/>
+    <Elem Prompt="生产控制" Name="生产控制 2" PromptU="Production control" NameU="Production Control 2"/>
+    <Elem Prompt="流程" Name="流程" PromptU="Process" NameU="Process"/>
+    <Elem Prompt="客户/供应商" Name="客户/供应商" PromptU="Customer / Supplier" NameU="Customer / Supplier"/>
+    <Elem Prompt="库存" Name="库存" PromptU="Inventory" NameU="Inventory"/>
+    <Elem Prompt="库存2 " Name="库存2" PromptU="Inventory 2 " NameU="Inventory 2"/>
+    <Elem Prompt="运输箭头" Name="运输箭头" PromptU="Shipment Arrow" NameU="Shipment Arrow"/>
+    <Elem Prompt="上推箭头" Name="上推箭头" PromptU="Push Arrow" NameU="Push Arrow"/>
+    <Elem Prompt="电子信息" Name="电子信息" PromptU="Electronic Information Flow" NameU="Electronic Information Flow"/>
+    <Elem Prompt="电子信息2" Name="电子信息2" PromptU="Electronic Information Flow 2" NameU="Electronic Information Flow 2"/>
+    <Elem Prompt="人工信息流" Name="人工信息流" PromptU="Manual Information Flow" NameU="Manual Information Flow"/>
+    <Elem Prompt="运输卡车" Name="运输卡车" PromptU="External Shipment" NameU="External Shipment"/>
+    <Elem Prompt="空运" Name="空运" PromptU="Airplan Shipment" NameU="Airplan Shipment"/>
+    <Elem Prompt="铁路货运" Name="铁路货运" PromptU="Rail Shipment" NameU="Rail Shipment"/>
+    <Elem Prompt="交叉货仓" Name="交叉货仓" PromptU="Cross-Dock" NameU="Cross-Dock"/>
+    <Elem Prompt="时间线片断" Name="时间线片断" PromptU="Timeline segment" NameU="Timeline Segment"/>
+    <Elem Prompt="时间线终点" Name="时间线终点" PromptU="Timeline end segment" NameU="Timeline End Segment"/>
+    <Elem Prompt="时间线汇总" Name="时间线汇总" PromptU="Timeline total" NameU="Timeline Total"/>
+    <Elem Prompt="数据表" Name="数据表" PromptU="Data Table" NameU="Data Table"/>
+    <Elem Prompt="数据表 2" Name="数据表 2" PromptU="Data Table 2" NameU="Data Table 2"/>
+    <Elem Prompt="取材看板" Name="取材看板" PromptU="Withdrawal Kanban" NameU="Withdrawal Kanban"/>
+    <Elem Prompt="批量取材看板" Name="批量取材看板" PromptU="Withdrawal Batch Kanban" NameU="Withdrawal Batch Kanban"/>
+    <Elem Prompt="生产看板" Name="生产看板" PromptU="Production Kanban" NameU="Production Kanban"/>
+    <Elem Prompt="批量看板" Name="批量看板" PromptU="Batch Kanban" NameU="Batch Kanban"/>
+    <Elem Prompt="注释" Name="注释" PromptU="Note" NameU="Note"/>
+    <Elem Prompt="超市" Name="超市" PromptU="Supermarket" NameU="Supermarket"/>
+    <Elem Prompt="安全/缓冲储备" Name="安全/缓冲储备" PromptU="Safety Stock" NameU="Safety Stock"/>
+    <Elem Prompt="仓库" Name="仓库" PromptU="Warehouse" NameU="Warehouse"/>
+    <Elem Prompt="控制中心" Name="控制中心" PromptU="Control center" NameU="Control Center"/>
+    <Elem Prompt="工作间" Name="工作间" PromptU="Workcell" NameU="Workcell"/>
+    <Elem Prompt="信号看板" Name="信号看板" PromptU="Signal Kanban" NameU="Signal Kanban"/>
+    <Elem Prompt="看板公告" Name="看板公告" PromptU="Kanban Post" NameU="Kanban Post"/>
+    <Elem Prompt="生产量视察" Name="生产量视察" PromptU="Go See Production" NameU="Go See Production"/>
+    <Elem Prompt="语言信息" Name="语言信息" PromptU="Verbal Information" NameU="Verbal Information"/>
+    <Elem Prompt="电话" Name="电话" PromptU="Phone" NameU="Phone"/>
+    <Elem Prompt="MRP/ERP" Name="MRP/ERP" PromptU="MRP/ERP" NameU="MRP/ERP"/>
+    <Elem Prompt="Kaizen 爆发" Name="Kaizen 爆发" PromptU="Kaizen Burst" NameU="Kaizen Burst"/>
+    <Elem Prompt="FIFO 通道" Name="FIFO 通道" PromptU="FIFO Lane" NameU="FIFO Lane"/>
+    <Elem Prompt="FIFO 通道" Name="FIFO 通道 2" PromptU="FIFO Lane" NameU="FIFO Lane 2"/>
+    <Elem Prompt="负荷量" Name="负荷量" PromptU="Load Leveling" NameU="Load Leveling"/>
+    <Elem Prompt="顺序下拉球" Name="顺序下拉球" PromptU="Sequenced Pull Ball" NameU="Sequenced Pull Ball"/>
+    <Elem Prompt="物理下拉" Name="物理下拉" PromptU="Physical Pull" NameU="Physical Pull"/>
+    <Elem Prompt="下拉箭头" Name="下拉箭头 1" PromptU="Pull Arrow" NameU="Pull Arrow 1"/>
+    <Elem Prompt="下拉箭头" Name="下拉箭头 2" PromptU="Pull Arrow" NameU="Pull Arrow 2"/>
+    <Elem Prompt="下拉箭头" Name="下拉箭头 3" PromptU="Pull Arrow" NameU="Pull Arrow 3"/>
+</Lib>

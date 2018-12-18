@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="3D Directional Maps">
+    <Elem Prompt="道路 1" Name="道路 1" PromptU="Road 1" NameU="Road 1"/>
+    <Elem Prompt="道路 2" Name="道路 2" PromptU="Road 2" NameU="Road 2"/>
+    <Elem Prompt="道路 3" Name="道路 3" PromptU="Road 3" NameU="Road 3"/>
+    <Elem Prompt="道路 5" Name="道路 5" PromptU="Road 5" NameU="Road 5"/>
+    <Elem Prompt="高架铁路 1" Name="高架铁路 1" PromptU="Elevated 1" NameU="Elevated 1"/>
+    <Elem Prompt="高架铁路 2" Name="高架铁路 2" PromptU="Elevated 2" NameU="Elevated 2"/>
+    <Elem Prompt="三岔路" Name="三岔路" PromptU="Tree roads" NameU="Tree roads"/>
+    <Elem Prompt="十字交叉路" Name="十字交叉路" PromptU="Cross roads" NameU="Cross roads"/>
+    <Elem Prompt="直行道 1" Name="直行道 1" PromptU="Straight road 1" NameU="Straight road 1"/>
+    <Elem Prompt="直行道 2" Name="直行道 2" PromptU="Straight road 2" NameU="Straight road 2"/>
+    <Elem Prompt="拐角 1" Name="拐角 1" PromptU="Corner 1" NameU="Corner 1"/>
+    <Elem Prompt="拐角 2" Name="拐角 2" PromptU="Corner 2" NameU="Corner 2"/>
+    <Elem Prompt="十字路口" Name="十字路口" PromptU="Cross walks" NameU="Cross walks"/>
+    <Elem Prompt="道路 4" Name="道路 4" PromptU="Road 4" NameU="Road 4"/>
+    <Elem Prompt="桥" Name="桥" PromptU="Bridge" NameU="Bridge"/>
+    <Elem Prompt="桥 2" Name="桥 2" PromptU="Bridge 2" NameU="Bridge 2"/>
+    <Elem Prompt="河" Name="河" PromptU="River" NameU="River"/>
+    <Elem Prompt="树 1" Name="树 1" PromptU="Tree 1" NameU="Tree 1"/>
+    <Elem Prompt="树" Name="树 2" PromptU="Tree" NameU="Tree 2"/>
+    <Elem Prompt="人行天桥" Name="人行天桥" PromptU="Pedestrian bridge" NameU="Pedestrian bridge"/>
+    <Elem Prompt="单行道" Name="单行道" PromptU="One way" NameU="One way"/>
+    <Elem Prompt="地面 1" Name="地面 1" PromptU="Land 1" NameU="Land 1"/>
+    <Elem Prompt="地面 2" Name="地面 2" PromptU="Land 2" NameU="Land 2"/>
+    <Elem Prompt="地面 3" Name="地面 3" PromptU="Land 3" NameU="Land 3"/>
+    <Elem Prompt="地面 4" Name="地面 4" PromptU="Land 4" NameU="Land 4"/>
+    <Elem Prompt="地面 5" Name="地面 5" PromptU="Land 5" NameU="Land 5"/>
+    <Elem Prompt="地面 6" Name="地面 6" PromptU="Land 6" NameU="Land 6"/>
+    <Elem Prompt="地面 7" Name="地面 7" PromptU="Land 7" NameU="Land 7"/>
+    <Elem Prompt="地面 8" Name="地面 8" PromptU="Land 8" NameU="Land 8"/>
+    <Elem Prompt="地面 9" Name="地面 9" PromptU="Land 9" NameU="Land 9"/>
+    <Elem Prompt="小方块" Name="小方块" PromptU="Small Block" NameU="Small Block"/>
+    <Elem Prompt="小方块 2" Name="小方块 2" PromptU="Small Block 2" NameU="Small Block 2"/>
+    <Elem Prompt="长方块" Name="长方块" PromptU="Long Block" NameU="Long Block"/>
+    <Elem Prompt="长方块 2" Name="长方块 2" PromptU="Long Block 2" NameU="Long Block 2"/>
+    <Elem Prompt="方形块" Name="方形块" PromptU="Square Block" NameU="Square Block"/>
+    <Elem Prompt="方块" Name="方块" PromptU="Block" NameU="Block"/>
+    <Elem Prompt="方块 2" Name="方块 2" PromptU="Block 2" NameU="Block 2"/>
+    <Elem Prompt="建筑" Name="建筑" PromptU="Building Block" NameU="Building Block"/>
+    <Elem Prompt="住宅" Name="住宅" PromptU="House" NameU="House"/>
+    <Elem Prompt="办公室" Name="办公室" PromptU="Office" NameU="Office"/>
+    <Elem Prompt="建筑" Name="建筑" PromptU="Building" NameU="Building"/>
+    <Elem Prompt="工厂" Name="工厂" PromptU="Factory" NameU="Factory"/>
+    <Elem Prompt="加油站" Name="加油站" PromptU="Petrol station" NameU="Petrol Station"/>
+    <Elem Prompt="商店" Name="商店" PromptU="Store" NameU="Store"/>
+    <Elem Prompt="医院" Name="医院" PromptU="Hospital" NameU="Hospital"/>
+    <Elem Prompt="机场" Name="机场" PromptU="Airport" NameU="Airport"/>
+    <Elem Prompt="标志" Name="标志" PromptU="Mark" NameU="Mark"/>
+</Lib>

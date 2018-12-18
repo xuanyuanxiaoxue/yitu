@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Themes Version="8.0">
+    <Theme ID="3" Name="常用">
+        <ThemeColor V="3"/>
+        <ThemeEffect V="3"/>
+        <ThemeText V="1"/>
+        <ThemeConnector V="1"/>
+    </Theme>
+    <Theme ID="1" Name="扁平">
+        <ThemeColor V="1"/>
+        <ThemeEffect V="1"/>
+        <ThemeText V="1"/>
+        <ThemeConnector V="1"/>
+    </Theme>
+    <Theme ID="2" Name="纯色">
+        <ThemeColor V="2"/>
+        <ThemeEffect V="2"/>
+        <ThemeText V="2"/>
+        <ThemeConnector V="4"/>
+    </Theme>
+    <Theme ID="4" Name="曲角">
+        <ThemeColor V="4"/>
+        <ThemeEffect V="4"/>
+        <ThemeText V="3"/>
+        <ThemeConnector V="5"/>
+    </Theme>
+    <Theme ID="5" Name="条纹">
+        <ThemeColor V="5"/>
+        <ThemeEffect V="5"/>
+        <ThemeText V="1"/>
+        <ThemeConnector V="2"/>
+    </Theme>
+    <Theme ID="6" Name="复古">
+        <ThemeColor V="6"/>
+        <ThemeEffect V="6"/>
+        <ThemeText V="4"/>
+        <ThemeConnector V="2"/>
+    </Theme>
+    <Theme ID="7" Name="折纸">
+        <ThemeColor V="7"/>
+        <ThemeEffect V="7"/>
+        <ThemeText V="5"/>
+        <ThemeConnector V="5"/>
+    </Theme>
+    <Theme ID="8" Name="高光">
+        <ThemeColor V="8"/>
+        <ThemeEffect V="8"/>
+        <ThemeText V="1"/>
+        <ThemeConnector V="1"/>
+    </Theme>
+    <Theme ID="9" Name="放射">
+        <ThemeColor V="9"/>
+        <ThemeEffect V="9"/>
+        <ThemeText V="6"/>
+        <ThemeConnector V="1"/>
+    </Theme>
+    <Theme ID="10" Name="透光">
+        <ThemeColor V="10"/>
+        <ThemeEffect V="10"/>
+        <ThemeText V="3"/>
+        <ThemeConnector V="1"/>
+    </Theme>
+    <Theme ID="11" Name="技术">
+        <ThemeColor V="11"/>
+        <ThemeEffect V="11"/>
+        <ThemeText V="3"/>
+        <ThemeConnector V="2"/>
+    </Theme>
+    <Theme ID="12" Name="自然">
+        <ThemeColor V="12"/>
+        <ThemeEffect V="12"/>
+        <ThemeText V="7"/>
+        <ThemeConnector V="2"/>
+    </Theme>
+    <Theme ID="13" Name="工程">
+        <ThemeColor V="13"/>
+        <ThemeEffect V="13"/>
+        <ThemeText V="1"/>
+        <ThemeConnector V="2"/>
+    </Theme>
+    <Theme ID="14" Name="按钮">
+        <ThemeColor V="14"/>
+        <ThemeEffect V="14"/>
+        <ThemeText V="1"/>
+        <ThemeConnector V="5"/>
+    </Theme>
+    <Theme ID="15" Name="纹理">
+        <ThemeColor V="15"/>
+        <ThemeEffect V="15"/>
+        <ThemeText V="2"/>
+        <ThemeConnector V="5"/>
+    </Theme>
+    <Theme ID="16" Name="柔和">
+        <ThemeColor V="16"/>
+        <ThemeEffect V="16"/>
+        <ThemeText V="1"/>
+        <ThemeConnector V="1"/>
+    </Theme>
+</Themes>

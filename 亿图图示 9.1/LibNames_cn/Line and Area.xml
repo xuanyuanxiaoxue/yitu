@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Line and Area">
+    <Elem Prompt="如何使用线图和面积图" Name="如何使用线形图和面积图" PromptU="How to use Line/Area/Scatter" NameU="How to use Line/Area/Scatter"/>
+    <Elem Prompt="线形图" Name="线形图" PromptU="Line" NameU="Line"/>
+    <Elem Prompt="线形图 2" Name="线形图 2" PromptU="Thick Line" NameU="Line 2"/>
+    <Elem Prompt="百分比线形图" Name="百分比线形图" PromptU="100% Line" NameU="100% Line"/>
+    <Elem Prompt="百分比线形图 2" Name="百分比线形图 2" PromptU="100% Thick Line" NameU="100% Line 2"/>
+    <Elem Prompt="图" Name="步线形图" PromptU="Step Line" NameU="Step Line"/>
+    <Elem Prompt="直角折线图 2" Name="直角折线图 2" PromptU="Step Line 2" NameU="Step Line 2"/>
+    <Elem Prompt="面积图" Name="面积图" PromptU="Area" NameU="Area"/>
+    <Elem Prompt="面积图 2" Name="面积图 2" PromptU="Area 2" NameU="Area 2"/>
+    <Elem Prompt="阶梯面积图" Name="阶梯面积图" PromptU="Step Area" NameU="Step Area"/>
+    <Elem Prompt="散点图" Name="散点图" PromptU="Point" NameU="Point"/>
+    <Elem Prompt="带标注的散点图" Name="带标注的散点图" PromptU="Line with Marker" NameU="Line with Marker"/>
+    <Elem Prompt="带标注的散点图 2" Name="带标注的散点图 2" PromptU="Line with Marker 2" NameU="Line with Marker 2"/>
+</Lib>

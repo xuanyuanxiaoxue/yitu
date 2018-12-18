@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Map Pointers">
+    <Elem Prompt="位置" Name="位置" PromptU="Location 1" NameU="Location 1"/>
+    <Elem Prompt="位置" Name="位置" PromptU="Location 2" NameU="Location 2"/>
+    <Elem Prompt="位置" Name="位置" PromptU="Location 3" NameU="Location 3"/>
+    <Elem Prompt="位置" Name="位置" PromptU="Location" NameU="Location"/>
+    <Elem Prompt="位置" Name="位置" PromptU="Location 4" NameU="Location 4"/>
+    <Elem Prompt="位置" Name="位置" PromptU="Location 6" NameU="Location 6"/>
+    <Elem Prompt="位置" Name="位置" PromptU="Location 7" NameU="Location 7"/>
+    <Elem Prompt="位置" Name="位置" PromptU="Location 8" NameU="Location 8"/>
+    <Elem Prompt="位置" Name="位置" PromptU="Location 9" NameU="Location 9"/>
+    <Elem Prompt="位置" Name="位置" PromptU="Location 10" NameU="Location 10"/>
+    <Elem Prompt="位置" Name="位置" PromptU="Location 11" NameU="Location 11"/>
+    <Elem Prompt="位置" Name="位置" PromptU="Location 12" NameU="Location 12"/>
+    <Elem Prompt="位置" Name="位置" PromptU="Location 13" NameU="Location 13"/>
+    <Elem Prompt="位置" Name="位置" PromptU="Location 14" NameU="Location 14"/>
+    <Elem Prompt="位置" Name="位置" PromptU="Location 15" NameU="Location 15"/>
+    <Elem Prompt="位置" Name="位置" PromptU="Location 16" NameU="Location 16"/>
+    <Elem Prompt="位置" Name="位置" PromptU="Location 17" NameU="Location 17"/>
+    <Elem Prompt="位置" Name="位置" PromptU="Location 18" NameU="Location 18"/>
+    <Elem Prompt="位置" Name="位置" PromptU="Location 19" NameU="Location 19"/>
+    <Elem Prompt="旗帜" Name="旗帜" PromptU="Flags" NameU="Flags"/>
+    <Elem Prompt="旗帜" Name="旗帜" PromptU="Flags" NameU="Flags"/>
+    <Elem Prompt="旗帜" Name="旗帜" PromptU="Flags" NameU="Flags"/>
+    <Elem Prompt="旗帜标注" Name="旗帜标注" PromptU="Callout Flag" NameU="Callout Flag"/>
+    <Elem Prompt="飞机" Name="飞机" PromptU="Aircraft" NameU="Aircraft"/>
+    <Elem Prompt="飞机" Name="飞机" PromptU="Aircraft" NameU="Aircraft"/>
+    <Elem Prompt="飞机" Name="飞机" PromptU="Aircraft" NameU="Aircraft"/>
+    <Elem Prompt="象棋" Name="象棋" PromptU="Chess" NameU="Chess"/>
+    <Elem Prompt="象棋" Name="象棋" PromptU="Chess" NameU="Chess"/>
+    <Elem Prompt="全方向气泡标注" Name="全方向气泡标注" PromptU="Box Callout with all directions" NameU="Box Callout with all directions"/>
+    <Elem Prompt="全方向椭圆气泡标注" Name="全方向椭圆气泡标注" PromptU="Oval Callout with all directions" NameU="Oval Callout with all directions"/>
+    <Elem Prompt="圆形气泡标注" Name="圆形气泡标注" PromptU="Circular Callout" NameU="Circular Callout"/>
+    <Elem Prompt="长方形标注" Name="长方形标注" PromptU="Rectangle width Line" NameU="Rectangle width Line"/>
+    <Elem Prompt="线条标注" Name="线条标注" PromptU="Line Text" NameU="Line Text"/>
+    <Elem Prompt="线条标注" Name="线条标注" PromptU="Line Text" NameU="Line Text"/>
+    <Elem Prompt="线条标注" Name="线条标注" PromptU="Line Text" NameU="Line Text"/>
+    <Elem Prompt="方向" Name="方向" PromptU="Compass" NameU="Compass"/>
+</Lib>

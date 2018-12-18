@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="GCP Networking">
+    <Elem NameU="Cloud CDN" Name="云 CDN" PromptU="Cloud CDN" Prompt="云 CDN"/>
+    <Elem NameU="Cloud DNS" Name="云 DNS" PromptU="Cloud DNS" Prompt="云 DNS"/>
+    <Elem NameU="Cloud External IP Addresses" Name="云外部IP地址" PromptU="Cloud External IP Addresses" Prompt="云外部IP地址"/>
+    <Elem NameU="Cloud Firewall Rules" Name="云防火墙规则" PromptU="Cloud Firewall Rules" Prompt="云防火墙规则"/>
+    <Elem NameU="Cloud Interconnect" Name="云内部链接" PromptU="Cloud Interconnect" Prompt="云内部链接"/>
+    <Elem NameU="Cloud Load Balancing" Name="云负载平衡" PromptU="Cloud Load Balancing" Prompt="云负载平衡"/>
+    <Elem NameU="Cloud Network" Name="云网络" PromptU="Cloud Network" Prompt="云网络"/>
+    <Elem NameU="Cloud Partner Interconnect" Name="云内部合作伙伴" PromptU="Cloud Partner Interconnect" Prompt="云内部合作伙伴"/>
+    <Elem NameU="Cloud Routes" Name="云路径" PromptU="Cloud Routes" Prompt="云路径"/>
+    <Elem NameU="Cloud Router" Name="云路由器" PromptU="Cloud Router" Prompt="云路由器"/>
+    <Elem NameU="Cloud VPN" Name="云 VPN" PromptU="Cloud VPN" Prompt="云 VPN"/>
+    <Elem NameU="Virtual Private Cloud" Name="虚拟个人云储存" PromptU="Virtual Private Cloud" Prompt="虚拟个人云储存"/>
+</Lib>

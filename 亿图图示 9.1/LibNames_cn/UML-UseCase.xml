@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="UML Use Case Diagram">
+    <Elem Prompt="角色" Name="角色" PromptU="Actor" NameU="Actor"/>
+    <Elem Prompt="用例" Name="用例" PromptU="Use Case" NameU="Use Case"/>
+    <Elem Prompt="包" Name="包" PromptU="Package" NameU="Package"/>
+    <Elem Prompt="对象" Name="对象" PromptU="Object" NameU="Object"/>
+    <Elem Prompt="系统边界" Name="系统边界" PromptU="System Boundary" NameU="System Boundary"/>
+    <Elem Prompt="直线连接线" Name="直线连接线" PromptU="Straight connector" NameU="Straight connector"/>
+    <Elem Prompt="通信" Name="通信" PromptU="Communication" NameU="Communication"/>
+    <Elem Prompt="泛化" Name="泛化" PromptU="Generalization" NameU="Generalization"/>
+    <Elem Prompt="包含" Name="包含" PromptU="Include" NameU="Include"/>
+    <Elem Prompt="排除" Name="排除" PromptU="Exclude" NameU="Exclude"/>
+    <Elem Prompt="接口" Name="接口" PromptU="Interface" NameU="Interface"/>
+    <Elem Prompt="约束" Name="约束" PromptU="Constraint" NameU="Constraint"/>
+    <Elem Prompt="注释" Name="注释" PromptU="Note" NameU="Note"/>
+</Lib>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Azure General Symbols">
+    <Elem NameU="Number" Name="数字" PromptU="Number" Prompt="数字"/>
+    <Elem NameU="Attachment" Name="附件" PromptU="Attachment" Prompt="附件"/>
+    <Elem NameU="Audio" Name="音频" PromptU="Audio" Prompt="音频"/>
+    <Elem NameU="Bug" Name="错误" PromptU="Bug" Prompt="错误"/>
+    <Elem NameU="Cable Settop TV Box" Name="有线电视机顶盒" PromptU="Cable Settop TV Box" Prompt="有线电视机顶盒"/>
+    <Elem NameU="Calendar" Name="日历" PromptU="Calendar" Prompt="日历"/>
+    <Elem NameU="Chart" Name="图表" PromptU="Chart" Prompt="图表"/>
+    <Elem NameU="Checkmark Success" Name="检查标记成功" PromptU="Checkmark Success" Prompt="检查标记成功"/>
+    <Elem NameU="Continous Cycle Circle" Name="连续循环圈" PromptU="Continous Cycle Circle" Prompt="连续循环圈"/>
+    <Elem NameU="Crossout failure" Name="删除错误" PromptU="Crossout failure" Prompt="删除错误"/>
+    <Elem NameU="Cut And Paste" Name="剪切和粘贴" PromptU="Cut And Paste" Prompt="剪切和粘贴"/>
+    <Elem NameU="Favorite" Name="喜好" PromptU="Favorite" Prompt="喜好"/>
+    <Elem NameU="Folder" Name="文件夹" PromptU="Folder" Prompt="文件夹"/>
+    <Elem NameU="Game Controller" Name="游戏遥控器" PromptU="Game Controller" Prompt="游戏遥控器"/>
+    <Elem NameU="Gears" Name="齿轮" PromptU="Gears" Prompt="齿轮"/>
+    <Elem NameU="Like" Name="喜欢" PromptU="Like" Prompt="喜欢"/>
+    <Elem NameU="Not Allowed" Name="禁止" PromptU="Not Allowed" Prompt="禁止"/>
+    <Elem NameU="Premium Star" Name="高级星" PromptU="Premium Star" Prompt="高级星"/>
+    <Elem NameU="Slider Bar Horizontal" Name="水平滑杆" PromptU="Slider Bar Horizontal" Prompt="水平滑杆"/>
+    <Elem NameU="Slider Bar Vertical" Name="垂直滑杆" PromptU="Slider Bar Vertical" Prompt="垂直滑杆"/>
+    <Elem NameU="Task List Or Backlog" Name="任务清单" PromptU="Task List Or Backlog" Prompt="任务清单"/>
+    <Elem NameU="Graph" Name="图片" PromptU="Graph" Prompt="图片"/>
+    <Elem NameU="Tasks" Name="任务" PromptU="Tasks" Prompt="任务"/>
+    <Elem NameU="Tunnel" Name="途径" PromptU="Tunnel" Prompt="途径"/>
+    <Elem NameU="User" Name="用户" PromptU="User" Prompt="用户"/>
+    <Elem NameU="Video" Name="视频" PromptU="Video" Prompt="视频"/>
+</Lib>

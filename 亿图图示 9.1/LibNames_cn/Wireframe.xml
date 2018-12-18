@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Wireframe">
+    <Elem Prompt="标签" Name="标签" PromptU="Label" NameU="Label"/>
+    <Elem Prompt="标签" Name="标签 2" PromptU="Label" NameU="Label 2"/>
+    <Elem Prompt="徽标" Name="徽标" PromptU="Logo" NameU="Logo"/>
+    <Elem Prompt="圆角矩形" Name="圆角矩形" PromptU="Rounded Rect" NameU="Rounded Rect"/>
+    <Elem Prompt="矩形面板" Name="矩形面板" PromptU="Panel/Rect" NameU="Panel/Rect"/>
+    <Elem Prompt="群组" Name="群组" PromptU="Group" NameU="Group"/>
+    <Elem Prompt="框架" Name="框架" PromptU="Frame" NameU="Frame"/>
+    <Elem Prompt="垂直分隔栏" Name="垂直分隔栏" PromptU="Vertical Seperator" NameU="Vertical Seperator"/>
+    <Elem Prompt="水平分隔栏" Name="水平分隔栏" PromptU="Horizontal Seperator" NameU="Horizontal Seperator"/>
+    <Elem Prompt="浏览器" Name="浏览器" PromptU="Browser" NameU="Browser"/>
+    <Elem Prompt="对话窗口" Name="对话窗口" PromptU="Window/Dialog" NameU="Window/Dialog"/>
+    <Elem Prompt="图片占位符" Name="图片占位符" PromptU="Image Placeholder" NameU="Image Placeholder"/>
+    <Elem Prompt="图片占位符" Name="图片占位符 2" PromptU="Image Placeholder" NameU="Image Placeholder 2"/>
+    <Elem Prompt="文本区" Name="文本区" PromptU="Text Field" NameU="Text Field"/>
+    <Elem Prompt="文本" Name="文本" PromptU="Text" NameU="Text"/>
+    <Elem Prompt="超链接文本" Name="超链接文本" PromptU="Hyperlink Text" NameU="Hyperlink Text"/>
+    <Elem Prompt="文本块" Name="文本块" PromptU="Text Block" NameU="Text Block"/>
+    <Elem Prompt="文本块" Name="文本块 2" PromptU="Text Block" NameU="Text Block 2"/>
+    <Elem Prompt="按钮" Name="按钮" PromptU="Button" NameU="Button"/>
+    <Elem Prompt="按钮" Name="按钮 2" PromptU="Button" NameU="Button 2"/>
+    <Elem Prompt="按钮" Name="按钮 3" PromptU="Button" NameU="Button 3"/>
+    <Elem Prompt="按钮" Name="按钮 4" PromptU="Button" NameU="Button 4"/>
+    <Elem Prompt="复选框" Name="复选框" PromptU="Check Box" NameU="Check Box"/>
+    <Elem Prompt="复选框组" Name="复选框组" PromptU="Check Box Group" NameU="Check Box Group"/>
+    <Elem Prompt="单选按钮" Name="单选按钮" PromptU="Radio Button" NameU="Radio Button"/>
+    <Elem Prompt="单选按钮组" Name="单选按钮组" PromptU="Radio Group" NameU="Radio Group"/>
+    <Elem Prompt="组合框" Name="组合框" PromptU="Combox" NameU="Combox"/>
+    <Elem Prompt="标签" Name="标签" PromptU="Tabs" NameU="Tabs"/>
+    <Elem Prompt="垂直标签" Name="垂直标签" PromptU="Vertical Tabs" NameU="Vertical Tabs"/>
+    <Elem Prompt="菜单栏" Name="菜单栏" PromptU="Menu Bar" NameU="Menu Bar"/>
+    <Elem Prompt="菜单栏" Name="菜单栏 2" PromptU="Menu Bar" NameU="Menu Bar 2"/>
+    <Elem Prompt="日期选择" Name="日期选择" PromptU="Date picker" NameU="Date picker"/>
+    <Elem Prompt="数值调节控制" Name="数值调节控制" PromptU="Spin Control" NameU="Spin Control"/>
+    <Elem Prompt="搜索框" Name="搜索框" PromptU="Search Box" NameU="Search Box"/>
+    <Elem Prompt="搜索框" Name="搜索框 2" PromptU="Search Box" NameU="Search Box 2"/>
+    <Elem Prompt="菜单项目" Name="菜单项目" PromptU="Menu items" NameU="Menu items"/>
+    <Elem Prompt="列表" Name="列表" PromptU="List" NameU="List"/>
+    <Elem Prompt="滑动器" Name="滑动器" PromptU="Slider" NameU="Slider"/>
+    <Elem Prompt="垂直滑动器" Name="垂直滑动器" PromptU="Vertical Slider" NameU="Vertical Slider"/>
+    <Elem Prompt="进度条" Name="进度条" PromptU="Progress Bar" NameU="Progress Bar"/>
+    <Elem Prompt="进度条" Name="进度条 2" PromptU="Progress Bar" NameU="Progress Bar 2"/>
+    <Elem Prompt="水平滚动条" Name="水平滚动条" PromptU="Horizontal Scrollbar" NameU="Horizontal Scrollbar"/>
+    <Elem Prompt="垂直滚动条" Name="垂直滚动条" PromptU="Vertical Scollbar" NameU="Vertical Scollbar"/>
+    <Elem Prompt="网络摄像头" Name="网络摄像头" PromptU="Webcam" NameU="Webcam"/>
+    <Elem Prompt="影音播放器" Name="影音播放器" PromptU="Video Player" NameU="Video Player"/>
+    <Elem Prompt="颜色选择" Name="颜色选择" PromptU="Color Picker" NameU="Color Picker"/>
+    <Elem Prompt="帮助按钮" Name="帮助按钮" PromptU="Help Button" NameU="Help Button"/>
+    <Elem Prompt="隐缩" Name="隐缩" PromptU="Collapse" NameU="Collapse"/>
+    <Elem Prompt="扩展" Name="扩展" PromptU="Expand" NameU="Expand"/>
+    <Elem Prompt="星星评分" Name="星星评分" PromptU="Star Ratings" NameU="Star Ratings"/>
+    <Elem Prompt="线图占位符" Name="线图占位符" PromptU="Line Graph Placeholder" NameU="Line Graph Placeholder"/>
+    <Elem Prompt="饼图占位符" Name="饼图占位符" PromptU="Pie Chart Placeholder" NameU="Pie Chart Placeholder"/>
+    <Elem Prompt="条型图占位符" Name="条型图占位符" PromptU="Bar Chart Placeholder" NameU="Bar Chart Placeholder"/>
+    <Elem Prompt="日历占位符" Name="日历占位符" PromptU="Calendar placeholder" NameU="Calendar placeholder"/>
+    <Elem Prompt="标尺占位符" Name="标尺占位符" PromptU="Grid Placeholder" NameU="Grid Placeholder"/>
+    <Elem Prompt="代码占位符" Name="代码占位符" PromptU="Code placeholder" NameU="Code placeholder"/>
+    <Elem Prompt="地图占位符" Name="地图占位符" PromptU="Map Placeholder" NameU="Map Placeholder"/>
+    <Elem Prompt="标签云" Name="标签云" PromptU="Tag Cloud" NameU="Tag Cloud"/>
+</Lib>

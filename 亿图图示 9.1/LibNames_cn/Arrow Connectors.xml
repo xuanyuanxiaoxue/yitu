@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Arrow Connectors">
+    <Elem Prompt="45度单向箭头" Name="单向箭头" PromptU="45 degree single arrow" NameU="Single Arrow"/>
+    <Elem Prompt="燕尾箭头" Name="燕尾箭头" PromptU="Arrow with tail" NameU="Arrow with tail"/>
+    <Elem Prompt="45度双向箭头" Name="双向箭头" PromptU="45 degree Double arrow" NameU="Double Arrow"/>
+    <Elem Prompt="花式箭头" Name="花式箭头" PromptU="Fancy arrow" NameU="Fancy arrow"/>
+    <Elem Prompt="45度圆尾箭头" Name="圆尾箭头" PromptU="45 degree round tail arrow" NameU="Round tail arrow"/>
+    <Elem Prompt="可调整箭头" Name="可调整箭头" PromptU="Flexible Arrow" NameU="Flexible Arrow"/>
+    <Elem Prompt="可调整箭头" Name="可调整箭头" PromptU="Flexible Arrow" NameU="Flexible Arrow"/>
+    <Elem Prompt="可调整箭头" Name="可调整箭头" PromptU="Flexible Arrow" NameU="Flexible Arrow"/>
+    <Elem Prompt="可调整箭头" Name="可调整箭头" PromptU="Flexible Arrow" NameU="Flexible Arrow"/>
+    <Elem Prompt="可调整箭头" Name="可调整箭头" PromptU="Flexible Arrow" NameU="Flexible Arrow"/>
+    <Elem Prompt="可调整箭头" Name="可调整箭头" PromptU="Flexible Arrow" NameU="Flexible Arrow"/>
+    <Elem Prompt="尾部开放式箭头" Name="尾部开放式箭头" PromptU="Open end arrow" NameU="Open end arrow"/>
+    <Elem Prompt="弯曲箭头" Name="弯曲箭头" PromptU="Elbow Arrow" NameU="Elbow Arrow"/>
+    <Elem Prompt="弯曲箭头" Name="弯曲箭头" PromptU="Elbow Arrow" NameU="Elbow Arrow"/>
+    <Elem Prompt="弯曲箭头" Name="弯曲箭头" PromptU="Bent arrow" NameU="Bent arrow"/>
+    <Elem Prompt="弯曲箭头" Name="弯曲箭头" PromptU="Bent arrow" NameU="Bent arrow"/>
+    <Elem Prompt="可调整S形箭头" Name="可调整S形箭头" PromptU="Flexible S type arrow" NameU="Flexible S type arrow"/>
+    <Elem Prompt="可调整U形箭头" Name="可调整U形箭头" PromptU="Flexible U type arrow" NameU="Flexible U type arrow"/>
+    <Elem Prompt="可改变弯曲方向" Name="右弯曲箭头" PromptU="Can change the bent direction" NameU="Bent right arrow"/>
+    <Elem Prompt="可改变弯曲方向" Name="向上弯曲箭头" PromptU="Can change the bent direction" NameU="Bent up arrow"/>
+    <Elem Prompt="可调整箭头" Name="可调整箭头" PromptU="Flexible arrow" NameU="Flexible arrow"/>
+    <Elem Prompt="可调整箭头" Name="可调整箭头" PromptU="Flexible arrow" NameU="Flexible arrow"/>
+</Lib>

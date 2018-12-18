@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="User">
+    <Elem NameU="Add User" Name="添加用户" PromptU="Add User" Prompt="添加用户"/>
+    <Elem NameU="Delete User" Name="删除用户" PromptU="Delete User" Prompt="删除用户"/>
+    <Elem NameU="Remove User" Name="移除用户" PromptU="Remove User" Prompt="移除用户"/>
+    <Elem NameU="Administrator" Name="管理员" PromptU="Administrator" Prompt="管理员"/>
+    <Elem NameU="Export User" Name="导出用户" PromptU="Export User" Prompt="导出用户"/>
+    <Elem NameU="Import User" Name="导入用户" PromptU="Import User" Prompt="导入用户"/>
+    <Elem NameU="Download User" Name="下载用户" PromptU="Download User" Prompt="下载用户"/>
+    <Elem NameU="Upload User" Name="上传用户" PromptU="Upload User" Prompt="上传用户"/>
+    <Elem NameU="Online User" Name="网络用户" PromptU="Online User" Prompt="网络用户"/>
+    <Elem NameU="Warning User" Name="警告用户" PromptU="Warning User" Prompt="警告用户"/>
+    <Elem NameU="Edit User" Name="编辑用户" PromptU="Edit User" Prompt="编辑用户"/>
+    <Elem NameU="Like User Profile" Name="特别用户" PromptU="Like User Profile" Prompt="特别用户"/>
+    <Elem NameU="Locked User" Name="锁定用户" PromptU="Locked User" Prompt="锁定用户"/>
+    <Elem NameU="Unlocked User" Name="解锁用户" PromptU="Unlocked User" Prompt="解锁用户"/>
+    <Elem NameU="Mail User" Name="邮件用户" PromptU="Mail User" Prompt="邮件用户"/>
+    <Elem NameU="Approve User" Name="用户通过" PromptU="Approve User" Prompt="用户通过"/>
+    <Elem NameU="Denied User" Name="拒绝用户" PromptU="Denied User" Prompt="拒绝用户"/>
+    <Elem NameU="Find User" Name="找寻用户" PromptU="Find User" Prompt="找寻用户"/>
+    <Elem NameU="Skype Commercial User" Name="商业网络电话用户" PromptU="Skype Commercial User" Prompt="商业网络电话用户"/>
+    <Elem NameU="Favorite User" Name="星标用户" PromptU="Favorite User" Prompt="星标用户"/>
+    <Elem NameU="Loading User" Name="加载用户" PromptU="Loading User" Prompt="加载用户"/>
+    <Elem NameU="Unknown User" Name="未知用户" PromptU="Unknown User" Prompt="未知用户"/>
+    <Elem NameU="User Store" Name="用户存储" PromptU="User Store" Prompt="用户存储"/>
+    <Elem NameU="Outlook User" Name="Outlook用户" PromptU="Outlook User" Prompt="Outlook用户"/>
+    <Elem NameU="Csv File" Name="Csv文件" PromptU="Csv File" Prompt="Csv文件"/>
+    <Elem NameU="Cloud User" Name="云用户" PromptU="Cloud User" Prompt="云用户"/>
+    <Elem NameU="Role Group" Name="角色分组" PromptU="Role Group" Prompt="角色分组"/>
+    <Elem NameU="Mobile User" Name="移动用户" PromptU="Mobile User" Prompt="移动用户"/>
+    <Elem NameU="Home User" Name="家庭用户" PromptU="Home User" Prompt="家庭用户"/>
+    <Elem NameU="Communication" Name="通信" PromptU="Communication" Prompt="通信"/>
+    <Elem NameU="UM-Enabled User" Name="UM用户" PromptU="UM-Enabled User" Prompt="UM用户"/>
+    <Elem NameU="Response Group" Name="响应组" PromptU="Response Group" Prompt="响应组"/>
+    <Elem NameU="Tenant Admin" Name="租户管理" PromptU="Tenant Admin" Prompt="租户管理"/>
+    <Elem NameU="Role Group" Name="角色分组" PromptU="Role Group" Prompt="角色分组"/>
+    <Elem NameU="Dynamic Distribution Group" Name="动态通讯组" PromptU="Dynamic Distribution Group" Prompt="动态通讯组"/>
+    <Elem NameU="Call Center Agent" Name="呼叫中心" PromptU="Call Center Agent" Prompt="呼叫中心"/>
+    <Elem NameU="User" Name="用户" PromptU="User" Prompt="用户"/>
+    <Elem NameU="Users" Name="用户" PromptU="Users" Prompt="用户"/>
+    <Elem NameU="Users" Name="用户" PromptU="Users" Prompt="用户"/>
+    <Elem NameU="Meeting" Name="会议" PromptU="Meeting" Prompt="会议"/>
+</Lib>

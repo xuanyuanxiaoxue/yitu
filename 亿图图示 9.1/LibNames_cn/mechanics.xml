@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Mechanics">
+    <Elem Prompt="静止" Name="静止" PromptU="Rest" NameU="Rest"/>
+    <Elem Prompt="砝码" Name="砝码" PromptU="Weight" NameU="Weight"/>
+    <Elem Prompt="球" Name="球" PromptU="Ball" NameU="Ball"/>
+    <Elem Prompt="楼梯" Name="楼梯" PromptU="Staircase" NameU="Staircase"/>
+    <Elem Prompt="平衡" Name="平衡" PromptU="Balance" NameU="Balance"/>
+    <Elem Prompt="平衡" Name="平衡" PromptU="Balance" NameU="Balance"/>
+    <Elem Prompt="杠杆作用" Name="杠杆作用" PromptU="leverage" NameU="leverage"/>
+    <Elem Prompt="平衡" Name="平衡" PromptU="Balance" NameU="Balance"/>
+    <Elem Prompt="秤" Name="秤" PromptU="Steelyard" NameU="Steelyard"/>
+    <Elem Prompt="SPST" Name="SPST" PromptU="SPST" NameU="SPST"/>
+    <Elem Prompt="电池" Name="电池" PromptU="Battery" NameU="Battery"/>
+    <Elem Prompt="电池" Name="电池" PromptU="Cell" NameU="Cell"/>
+    <Elem Prompt="蓄电池" Name=" 蓄电池" PromptU="Accumulator" NameU="Accumulator"/>
+    <Elem Prompt="电压表" Name="电压表" PromptU="Voltmeter" NameU="Voltmeter"/>
+    <Elem Prompt="电压表1" Name="电压表1" PromptU="Voltmeter1" NameU="Voltmeter1"/>
+    <Elem Prompt="电压表2" Name="电压表2" PromptU="Voltmeter2" NameU="Voltmeter2"/>
+    <Elem Prompt="安培表" Name="安培表" PromptU="Ammeter" NameU="Ammeter"/>
+    <Elem Prompt="安培表1" Name="安培表1" PromptU="Ammeter1" NameU="Ammeter1"/>
+    <Elem Prompt="安培表2" Name="安培表2" PromptU="Ammeter2" NameU="Ammeter2"/>
+    <Elem Prompt="灯" Name="灯" PromptU="Lamp" NameU="Lamp"/>
+    <Elem Prompt="灯1" Name="灯1" PromptU="Lamp1" NameU="Lamp1"/>
+    <Elem Prompt="灯2" Name="灯2" PromptU="Lamp2" NameU="Lamp2"/>
+    <Elem Prompt="电阻" Name="电阻" PromptU="Resistance" NameU="Resistance"/>
+    <Elem Prompt="电阻1" Name="电阻1" PromptU="Resistance1" NameU="Resistance1"/>
+    <Elem Prompt="电阻2" Name="电阻2" PromptU="Resistance2" NameU="Resistance2"/>
+    <Elem Prompt="弹簧" Name="弹簧" PromptU="Spring" NameU="Spring"/>
+    <Elem Prompt="弹簧" Name="弹簧" PromptU="Spring" NameU="Spring"/>
+    <Elem Prompt="弹簧" Name="弹簧" PromptU="Spring" NameU="Spring"/>
+    <Elem Prompt="树桩" Name="树桩" PromptU="Stub" NameU="Stub"/>
+    <Elem Prompt="木棍" Name="木棍" PromptU="Stick" NameU="Stick"/>
+    <Elem Prompt="弹簧秤" Name="弹簧秤" PromptU="Spring Balance" NameU="Spring Balance"/>
+    <Elem Prompt="砝码 2" Name="砝码 2" PromptU="Weight 2" NameU="Weight 2"/>
+    <Elem Prompt="砝码 3" Name="砝码 3" PromptU="Weight 3" NameU="Weight 3"/>
+    <Elem Prompt="水槽" Name="水槽" PromptU="Flume" NameU="Flume"/>
+    <Elem Prompt="数学摆" Name="数学摆" PromptU="Mathematical Pendulum" NameU="Mathematical Pendulum"/>
+    <Elem Prompt="滑轮" Name="滑轮" PromptU="Block" NameU="Block"/>
+    <Elem Prompt="滑轮组" Name="滑轮组" PromptU="Pulley Block" NameU="Pulley Block"/>
+    <Elem Prompt="定滑轮" Name="定滑轮" PromptU="Crown Block" NameU="Crown Block"/>
+    <Elem Prompt="动滑轮 1" Name="动滑轮 1" PromptU="Travelling Block 1" NameU="Travelling Block 1"/>
+    <Elem Prompt="动滑轮 2" Name="动滑轮 2" PromptU="Travelling Block 2" NameU="Travelling Block 2"/>
+    <Elem Prompt="动滑轮 3" Name="动滑轮 3" PromptU="Travelling Block 3" NameU="Travelling Block 3"/>
+    <Elem Prompt="动滑轮组 1" Name="动滑轮组 1" PromptU="Travelling Bulley Block 1" NameU="Travelling Bulley Block 1"/>
+    <Elem Prompt="动滑轮组 2" Name="动滑轮组 2" PromptU="Travelling Bulley Block 2" NameU="Travelling Bulley Block 2"/>
+    <Elem Prompt="电梯" Name="电梯" PromptU="Elevator" NameU="Elevator"/>
+    <Elem Prompt="矢量" Name="矢量" PromptU="Vector" NameU="Vector"/>
+    <Elem Prompt="角度" Name="角度" PromptU="Angle" NameU="Angle"/>
+    <Elem Prompt="抛物线运动路径" Name="抛物线运动路径" PromptU="Parabolic Motion Path" NameU="Parabolic Motion Path"/>
+    <Elem Prompt="椭圆运动路径" Name="椭圆运动路径" PromptU="Elliptical Motion Path" NameU="Elliptical Motion Path"/>
+    <Elem Prompt="直线运动路径" Name="直线运动路径" PromptU="Line Motion Path" NameU="Line Motion Path"/>
+    <Elem Prompt="斜坡" Name="斜坡" PromptU="Bevel" NameU="Bevel"/>
+    <Elem Prompt="半圆槽车" Name="半圆槽车" PromptU="Semi-Circle Slot Vehicle" NameU="Semi-Circle Slot Vehicle"/>
+    <Elem Prompt="1/4圆槽车" Name="1/4圆槽车" PromptU="1/4 Circle Slot Vehicle" NameU="1/4 Circle Slot Vehicle"/>
+    <Elem Prompt="拖车" Name="拖车" PromptU="Trailer" NameU="Trailer"/>
+    <Elem Prompt="平板车" Name="平板车" PromptU="Flat Vehicle" NameU="Flat Vehicle"/>
+    <Elem Prompt="拖车" Name="拖车" PromptU="Trailer" NameU="Trailer"/>
+    <Elem Prompt="传送带" Name="传送带" PromptU="Transmittal Strap" NameU="Transmittal Strap"/>
+    <Elem Prompt="推" Name="推" PromptU="Push" NameU="Push"/>
+    <Elem Prompt="拉" Name="拉" PromptU="Pull" NameU="Pull"/>
+    <Elem Prompt="拉" Name="拉" PromptU="Pull" NameU="Pull"/>
+    <Elem Prompt="地球" Name="地球" PromptU="Earth" NameU="Earth"/>
+    <Elem Prompt="电压表" Name="电压表" PromptU="Voltmeter" NameU="Voltmeter"/>
+    <Elem Prompt="安培计" Name="安培计" PromptU="Amperometer" NameU="Amperometer"/>
+    <Elem Prompt="电压表" Name="电压表" PromptU="Voltmeter" NameU="Voltmeter"/>
+    <Elem Prompt="安培计" Name="安培计" PromptU="Amperometer" NameU="Amperometer"/>
+    <Elem Prompt="验电器" Name="验电器" PromptU="Electroscope" NameU="Electroscope"/>
+    <Elem Prompt="烧杯" Name="烧杯" PromptU="Beaker" NameU="Beaker"/>
+    <Elem Prompt="量筒" Name="量筒" PromptU="Measuring Cylinder" NameU="Measuring Cylinder"/>
+    <Elem Prompt="砝码" Name="砝码" PromptU="Weight" NameU="Weight"/>
+    <Elem Prompt="砝码" Name="砝码" PromptU="Weight" NameU="Weight"/>
+    <Elem Prompt="砝码" Name="砝码" PromptU="Weight" NameU="Weight"/>
+    <Elem Prompt="弹簧秤" Name="弹簧秤" PromptU="weight beam" NameU="weight beam"/>
+    <Elem Prompt="卡尺" Name="卡尺" PromptU="caliper" NameU="caliper"/>
+    <Elem Prompt="单摆" Name="单摆" PromptU="Simple Pendulum" NameU="Simple Pendulum"/>
+    <Elem Prompt="静止" Name="静止" PromptU="Rest" NameU="Rest"/>
+    <Elem Prompt="静止" Name="静止" PromptU="Rest" NameU="Rest"/>
+    <Elem Prompt="静止" Name="静止" PromptU="Rest" NameU="Rest"/>
+    <Elem Prompt="静止" Name="静止" PromptU="Rest" NameU="Rest"/>
+    <Elem Prompt="静止" Name="静止" PromptU="Rest" NameU="Rest"/>
+    <Elem Prompt="坐标" Name="坐标" PromptU="Coordinates" NameU="Coordinates"/>
+    <Elem Prompt="坐标" Name="坐标" PromptU="Coordinates" NameU="Coordinates"/>
+    <Elem Prompt="磁铁1" Name="磁铁1" PromptU="Magnet" NameU="Magnet"/>
+    <Elem Prompt="磁铁1" Name="磁铁1" PromptU="Magnet" NameU="Magnet"/>
+    <Elem Prompt="磁铁1" Name="磁铁1" PromptU="Magnet" NameU="Magnet"/>
+    <Elem Prompt="磁铁1" Name="磁铁1" PromptU="Magnet" NameU="Magnet"/>
+    <Elem Prompt="磁铁1" Name="磁铁1" PromptU="Magnet" NameU="Magnet"/>
+    <Elem Prompt="磁铁1" Name="磁铁1" PromptU="Magnet" NameU="Magnet"/>
+    <Elem Prompt="电磁式继电器" Name="电磁式继电器" PromptU="Electromagnetic Relay" NameU="Electromagnetic Relay"/>
+    <Elem Prompt="纸带打点定时器" Name="纸带打点定时器" PromptU="Ticker-Tape Timer" NameU="Ticker-Tape Timer"/>
+</Lib>

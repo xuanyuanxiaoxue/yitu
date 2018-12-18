@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Africa">
+    <Elem Prompt="阿尔及利亚" Name="阿尔及利亚" PromptU="Algeria" NameU="Algeria"/>
+    <Elem Prompt="安哥拉" Name="安哥拉" PromptU="Angola" NameU="Angola"/>
+    <Elem Prompt="贝宁湾" Name="贝宁湾" PromptU="Benin" NameU="Benin"/>
+    <Elem Prompt="博茨瓦纳" Name="博茨瓦纳" PromptU="Botswana" NameU="Botswana"/>
+    <Elem Prompt="布基纳法索" Name="布基纳法索" PromptU="Burkina Faso" NameU="Burkina Faso"/>
+    <Elem Prompt="布隆迪" Name="布隆迪" PromptU="Burundi" NameU="Burundi"/>
+    <Elem Prompt="喀麦隆" Name="喀麦隆" PromptU="Cameroon" NameU="Cameroon"/>
+    <Elem Prompt="中非共和国" Name="中非共和国" PromptU="Central African Republic" NameU="Central African Republic"/>
+    <Elem Prompt="乍得" Name="乍得" PromptU="Chad" NameU="Chad"/>
+    <Elem Prompt="刚果" Name="刚果" PromptU="Congo" NameU="Congo"/>
+    <Elem Prompt="刚果 (金)" Name="刚果 (金)" PromptU="Congo (DRC)" NameU="Congo (DRC)"/>
+    <Elem Prompt="科特迪瓦" Name="科特迪瓦" PromptU="Cote d'lvoire" NameU="Cote d'lvoire"/>
+    <Elem Prompt="吉布提" Name="吉布提" PromptU="Djibouti" NameU="Djibouti"/>
+    <Elem Prompt="埃及" Name="埃及" PromptU="Egypt" NameU="Egypt"/>
+    <Elem Prompt="赤道几内亚" Name="赤道几内亚" PromptU="Equatorial Guinea" NameU="Equatorial Guinea"/>
+    <Elem Prompt="厄立特里亚" Name="厄立特里亚" PromptU="Eritrea" NameU="Eritrea"/>
+    <Elem Prompt="埃塞俄比亚" Name="埃塞俄比亚" PromptU="Ethiopia" NameU="Ethiopia"/>
+    <Elem Prompt="加蓬" Name="加蓬" PromptU="Gabon" NameU="Gabon"/>
+    <Elem Prompt="冈比亚" Name="冈比亚" PromptU="Gambia" NameU="Gambia"/>
+    <Elem Prompt="加纳" Name="加纳" PromptU="Ghana" NameU="Ghana"/>
+    <Elem Prompt="几内亚" Name="几内亚" PromptU="Guinea" NameU="Guinea"/>
+    <Elem Prompt="几内亚比绍共和国" Name="几内亚比绍共和国" PromptU="Guinea-Bissau" NameU="Guinea-Bissau"/>
+    <Elem Prompt="肯尼亚" Name="肯尼亚" PromptU="Kenya" NameU="Kenya"/>
+    <Elem Prompt="莱索托" Name="莱索托" PromptU="Lesotho" NameU="Lesotho"/>
+    <Elem Prompt="利比里亚" Name="利比里亚" PromptU="Liberia" NameU="Liberia"/>
+    <Elem Prompt="利比亚" Name="利比亚" PromptU="Libya" NameU="Libya"/>
+    <Elem Prompt="马达加斯加岛" Name="马达加斯加岛" PromptU="Madagascar" NameU="Madagascar"/>
+    <Elem Prompt="马拉维" Name="马拉维" PromptU="Malawi" NameU="Malawi"/>
+    <Elem Prompt="马里" Name="马里" PromptU="Mali" NameU="Mali"/>
+    <Elem Prompt="毛利塔尼亚" Name="毛利塔尼亚" PromptU="Mauritania" NameU="Mauritania"/>
+    <Elem Prompt="摩洛哥" Name="摩洛哥" PromptU="Morocco" NameU="Morocco"/>
+    <Elem Prompt="莫桑比克" Name="莫桑比克" PromptU="Mozambique" NameU="Mozambique"/>
+    <Elem Prompt="纳米比亚" Name="纳米比亚" PromptU="Namibia" NameU="Namibia"/>
+    <Elem Prompt="尼日尔" Name="尼日尔" PromptU="Niger" NameU="Niger"/>
+    <Elem Prompt="尼日利亚" Name="尼日利亚" PromptU="Nigeria" NameU="Nigeria"/>
+    <Elem Prompt="卢旺达" Name="卢旺达" PromptU="Rwanda" NameU="Rwanda"/>
+    <Elem Prompt="塞内加尔" Name="塞内加尔" PromptU="Senegal" NameU="Senegal"/>
+    <Elem Prompt="塞拉利昂" Name="塞拉利昂" PromptU="Sierra Leone" NameU="Sierra Leone"/>
+    <Elem Prompt="索马里" Name="索马里" PromptU="Somalia" NameU="Somalia"/>
+    <Elem Prompt="南非" Name="南非" PromptU="South Africa" NameU="South Africa"/>
+    <Elem Prompt="苏丹" Name="苏丹" PromptU="Sudan" NameU="Sudan"/>
+    <Elem Prompt="斯威士兰" Name="斯威士兰" PromptU="Swaziland" NameU="Swaziland"/>
+    <Elem Prompt="坦桑尼亚" Name="坦桑尼亚" PromptU="Tanzania" NameU="Tanzania"/>
+    <Elem Prompt="多哥" Name="多哥" PromptU="Togo" NameU="Togo"/>
+    <Elem Prompt="突尼斯" Name="突尼斯" PromptU="Tunisia" NameU="Tunisia"/>
+    <Elem Prompt="乌干达" Name="乌干达" PromptU="Uganda" NameU="Uganda"/>
+    <Elem Prompt="西萨摩亚" Name="西萨摩亚" PromptU="Western Sahara" NameU="Western Sahara"/>
+    <Elem Prompt="赞比亚" Name="赞比亚" PromptU="Zambia" NameU="Zambia"/>
+    <Elem Prompt="津巴布韦" Name="津巴布韦" PromptU="Zimbabwe" NameU="Zimbabwe"/>
+    <Elem Prompt="乍得湖" Name="乍得湖" PromptU="Lake Chad" NameU="Lake Chad"/>
+    <Elem Prompt="马拉维湖" Name="马拉维湖" PromptU="Lake Malawi" NameU="Lake Malawi"/>
+    <Elem Prompt="艾伯特湖" Name="艾伯特湖" PromptU="Lake Albert" NameU="Lake Albert"/>
+    <Elem Prompt="加里巴湖" Name="加里巴湖" PromptU="Lake Kariba" NameU="Lake Kariba"/>
+    <Elem Prompt="塞伍湖" Name="塞伍湖" PromptU="Lake Kivu" NameU="Lake Kivu"/>
+    <Elem Prompt="姆韦鲁湖" Name="姆韦鲁湖" PromptU="Lake Mweru" NameU="Lake Mweru"/>
+    <Elem Prompt="坦嗝尼喀湖" Name="坦嗝尼喀湖" PromptU="Lake Tanganyika" NameU="Lake Tanganyika"/>
+    <Elem Prompt="图尔卡湖" Name="图尔卡湖" PromptU="Lake Turkana" NameU="Lake Turkana"/>
+    <Elem Prompt="维多利亚湖" Name="维多利亚湖" PromptU="Lake Victoria" NameU="Lake Victoria"/>
+    <Elem Prompt="沃儿特湖" Name="沃儿特湖" PromptU="Lake Volta" NameU="Lake Volta"/>
+    <Elem Prompt="纳塞尔湖" Name="纳塞尔湖" PromptU="Lake Nasser" NameU="Lake Nasser"/>
+    <Elem Prompt="非洲" Name="非洲" PromptU="Africa" NameU="Africa"/>
+</Lib>

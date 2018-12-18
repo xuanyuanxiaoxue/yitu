@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Booch OOD">
+    <Elem Prompt="类属性" Name="类属性" PromptU="Class Properties" NameU="Class Properties"/>
+    <Elem Prompt="类关系" Name="类关系" PromptU="Class Relationship" NameU="Class Relationship"/>
+    <Elem Prompt="类" Name="类" PromptU="Class" NameU="Class"/>
+    <Elem Prompt="对象初始化" Name="对象初始化" PromptU="Instantiated Class" NameU="Instantiated Class"/>
+    <Elem Prompt="装饰" Name="装饰" PromptU="Visibility Adomment" NameU="Visibility Adomment"/>
+    <Elem Prompt="对象关系" Name="对象关系" PromptU="Object Relationship" NameU="Object Relationship"/>
+    <Elem Prompt="数据流" Name="数据流" PromptU="Data Flow" NameU="Data Flow"/>
+    <Elem Prompt="同步" Name="同步" PromptU="Synchronous" NameU="Synchronous"/>
+    <Elem Prompt="简单" Name="简单" PromptU="Simple" NameU="Simple"/>
+    <Elem Prompt="回调" Name="回调" PromptU="Barking" NameU="Barking"/>
+    <Elem Prompt="异步" Name="异步" PromptU="Asynchronous" NameU="Asynchronous"/>
+    <Elem Prompt="超时" Name="超时" PromptU="Timeout" NameU="Timeout"/>
+    <Elem Prompt="处理/设备" Name="处理/设备" PromptU="Processor or Device" NameU="Processor/Device"/>
+    <Elem Prompt="状态" Name="状态" PromptU="State Icon" NameU="State Icon"/>
+    <Elem Prompt="主模块" Name="主模块" PromptU="Main Module" NameU="Main Module"/>
+    <Elem Prompt="历史" Name="历史" PromptU="History" NameU="History"/>
+    <Elem Prompt="子系统名" Name="子系统名" PromptU="Subsystem Name" NameU="Subsystem Name"/>
+    <Elem Prompt="模块" Name="模块" PromptU="Module" NameU="Module"/>
+    <Elem Prompt="OIG 对象" Name="OIG 对象" PromptU="OIG Object" NameU="OIG Object"/>
+    <Elem Prompt="箭头" Name="箭头" PromptU="Arrow" NameU="Arrow"/>
+    <Elem Prompt="CRC: 卡证" Name="CRC: 卡证" PromptU="CRC: Class Card" NameU="CRC: Class Card"/>
+    <Elem Prompt="消息" Name="消息" PromptU="Message" NameU="Message"/>
+    <Elem Prompt="引用" Name="引用" PromptU="Reference" NameU="Reference"/>
+</Lib>

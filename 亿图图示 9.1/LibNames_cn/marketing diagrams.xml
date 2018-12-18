@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Marketing Diagrams">
+    <Elem Prompt="流程步骤" Name="流程步骤" PromptU="Step Process" NameU="Step Process"/>
+    <Elem Prompt="流程步骤" Name="流程步骤 2" PromptU="Step Process" NameU="Step Process 2"/>
+    <Elem Prompt="圆形发散图" Name="圆形发散图" PromptU="Circle-spoke Diagram" NameU="Circle-spoke Diagram"/>
+    <Elem Prompt="市场分析" Name="市场分析" PromptU="Market Analysis" NameU="Market Analysis"/>
+    <Elem Prompt="营销组合" Name="营销组合" PromptU="Marketing Mix" NameU="Marketing Mix"/>
+    <Elem Prompt="营销组合" Name="营销组合 2" PromptU="Marketing Mix" NameU="Marketing Mix 2"/>
+    <Elem Prompt="范围" Name="范围" PromptU="Scope" NameU="Scope"/>
+    <Elem Prompt="范围" Name="范围 2" PromptU="Scope" NameU="Scope 2"/>
+    <Elem Prompt="六西格玛" Name="六西格玛" PromptU="6 Sigma" NameU="6 Sigma"/>
+    <Elem Prompt="齿轮" Name="齿轮" PromptU="Gear" NameU="Gear"/>
+    <Elem Prompt="PLC" Name="PLC" PromptU="PLC" NameU="PLC"/>
+    <Elem Prompt="应用流程" Name="应用流程" PromptU="Adoption process" NameU="Adoption Process"/>
+    <Elem Prompt="标准曲线" Name="标准曲线" PromptU="Normal curve" NameU="Normal Curve"/>
+    <Elem Prompt="矩形" Name="矩形" PromptU="Rectangle" NameU="Rectangle"/>
+    <Elem Prompt="文本块" Name="文本块" PromptU="Text Block" NameU="Text Block"/>
+    <Elem Prompt="3D矩形" Name="3D矩形" PromptU="3D Box" NameU="3D Box"/>
+    <Elem Prompt="圆" Name="圆" PromptU="Circle" NameU="Circle"/>
+    <Elem Prompt="3D圆" Name="3D圆" PromptU="3D Circle" NameU="3D Circle"/>
+</Lib>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Equipment - Heat Exchanges">
+    <Elem Prompt="管式交换器制造商协会 BEM" Name="管式交换器制造商协会 BEM" PromptU="TEMA TYPE BEM" NameU="TEMA TYPE BEM"/>
+    <Elem Prompt="管式交换器制造商协会 BEU" Name="管式交换器制造商协会 BEU" PromptU="TEMA TYPE BEU" NameU="TEMA TYPE BEU"/>
+    <Elem Prompt="管式交换器制造商协会 AEM" Name="管式交换器制造商协会 AEM" PromptU="TEMA TYPE AEM" NameU="TEMA TYPE AEM"/>
+    <Elem Prompt="管式交换器制造商协会 AEL" Name="管式交换器制造商协会 AEL" PromptU="TEMA TYPE AEL" NameU="TEMA TYPE AEL"/>
+    <Elem Prompt="管式交换器制造商协会 NEN" Name="管式交换器制造商协会 NEN" PromptU="TEMA TYPE NEN" NameU="TEMA TYPE NEN"/>
+    <Elem Prompt="管式交换器制造商协会 BKU" Name="管式交换器制造商协会 BKU" PromptU="TEMA TYPE BKU" NameU="TEMA TYPE BKU"/>
+    <Elem Prompt="板式换热器" Name="板式换热器" PromptU="Plate exchanger" NameU="Plate exchanger"/>
+    <Elem Prompt="板框式换热器" Name="板框式换热器" PromptU="Plate and frame heat exchanger" NameU="Plate and frame heat exchanger"/>
+    <Elem Prompt="烘干机" Name="烘干机" PromptU="Dryer" NameU="Dryer"/>
+    <Elem Prompt="冷却塔" Name="冷却塔" PromptU="Cooling tower" NameU="Cooling tower"/>
+    <Elem Prompt="冷却塔 2" Name="冷却塔 2" PromptU="Cooling tower 2" NameU="Cooling tower 2"/>
+    <Elem Prompt="冷却塔 3" Name="冷却塔 3" PromptU="Cooling tower 3" NameU="Cooling tower 3"/>
+    <Elem Prompt="喷雾冷却器" Name="喷雾冷却器" PromptU="Spray cooler" NameU="Spray cooler"/>
+    <Elem Prompt="强制通风冷却塔" Name="强制通风冷却塔" PromptU="Forced-draft cooling tower" NameU="Forced-draft cooling tower"/>
+    <Elem Prompt="吸风冷却塔" Name="吸风冷却塔" PromptU="Induced-draft cooling tower" NameU="Induced-draft cooling tower"/>
+    <Elem Prompt="热交换机" Name="热交换机" PromptU="Heat exchanger" NameU="Heat exchanger"/>
+    <Elem Prompt="热交换机 2" Name="热交换机 2" PromptU="Heat exchanger 2" NameU="Heat exchanger 2"/>
+    <Elem Prompt="热交换机 3" Name="热交换机 3" PromptU="Heat exchanger 3" NameU="Heat exchanger 3"/>
+    <Elem Prompt="加热器" Name="加热器" PromptU="Heater" NameU="Heater"/>
+    <Elem Prompt="交换机" Name="交换机" PromptU="Exchanger" NameU="Exchanger"/>
+    <Elem Prompt="冷凝器" Name="冷凝器" PromptU="Condenser" NameU="Condenser"/>
+    <Elem Prompt="壳管热" Name="壳管热" PromptU="Shell and tube heat" NameU="Shell and tube heat"/>
+    <Elem Prompt="壳管热 2" Name="壳管热 2" PromptU="Shell and tube heat 2" NameU="Shell and tube heat 2"/>
+    <Elem Prompt="壳管热 3" Name="壳管热 3" PromptU="Shell and tube heat 3" NameU="Shell and tube heat 3"/>
+    <Elem Prompt="冷却器" Name="冷却器" PromptU="Cooler" NameU="Cooler"/>
+    <Elem Prompt="吹风式冷却器" Name="吹风式冷却器" PromptU="Air-blown cooler" NameU="Air-blown cooler"/>
+    <Elem Prompt="诱导流空气冷却器" Name="诱导流空气冷却器" PromptU="Induced flow air cooler" NameU="Induced flow air cooler"/>
+    <Elem Prompt="鳍叶式风扇冷却器" Name="鳍叶式风扇冷却器" PromptU="Fin-fan cooler" NameU="Fin-fan cooler"/>
+    <Elem Prompt="电热器" Name="电热器" PromptU="Electric heater" NameU="Electric heater"/>
+    <Elem Prompt="直管式热交换器" Name="直管式热交换器" PromptU="Straight tubes heat exchanger" NameU="Straight tubes heat exchanger"/>
+    <Elem Prompt="盘管换热器" Name="盘管换热器" PromptU="Coil tubes heat exchanger" NameU="Coil tubes heat exchanger"/>
+    <Elem Prompt="管翅式换热器" Name="管翅式换热器" PromptU="Finned tubes heat exchanger" NameU="Finned tubes heat exchanger"/>
+    <Elem Prompt="浮头换热器" Name="浮头换热器" PromptU="Floating head heat exchanger" NameU="Floating head heat exchanger"/>
+    <Elem Prompt="板式换热器" Name="板式换热器" PromptU="Plate heat exchanger" NameU="Plate heat exchanger"/>
+    <Elem Prompt="釜式热交换器" Name="釜式热交换器" PromptU="Kettle heat exchanger" NameU="Kettle heat exchanger"/>
+    <Elem Prompt="重沸器热交换器" Name="重沸器热交换器" PromptU="Reboiler heat exchanger" NameU="Reboiler heat exchanger"/>
+    <Elem Prompt="重沸器" Name="重沸器" PromptU="Reboiler" NameU="Reboiler"/>
+    <Elem Prompt="单通道换热器" Name="单通道换热器" PromptU="Single pass heat exchanger" NameU="Single pass heat exchanger"/>
+    <Elem Prompt="单通道换热器" Name="单通道换热器" PromptU="Single pass heat exchanger" NameU="Single pass heat exchanger"/>
+    <Elem Prompt="套管换热器" Name="套管换热器" PromptU="Double pipe heat exchanger" NameU="Double pipe heat exchanger"/>
+    <Elem Prompt="发夹式热换器" Name="发夹式热换器" PromptU="Hairpin exchanger" NameU="Hairpin exchanger"/>
+    <Elem Prompt="螺旋型换热器" Name="螺旋型换热器" PromptU="Spiral heat exchanger" NameU="Spiral heat exchanger"/>
+    <Elem Prompt="螺旋型换热器 2" Name="螺旋型换热器 2" PromptU="Spiral heat exchanger 2" NameU="Spiral heat exchanger 2"/>
+    <Elem Prompt="空气冷却换热器" Name="空气冷却换热器" PromptU="Air cooled exchanger" NameU="Air cooled exchanger"/>
+    <Elem Prompt="压块机" Name="压块机" PromptU="Briquetting machine" NameU="Briquetting machine"/>
+    <Elem Prompt="U形管热交换器" Name="U形管热交换器" PromptU="U-Tube heat exchanger" NameU="U-Tube heat exchanger"/>
+    <Elem Prompt="U形管热交换器" Name="U形管热交换器" PromptU="U-tube heat exchanger" NameU="U-tube heat exchanger"/>
+    <Elem Prompt="锅炉" Name="锅炉" PromptU="Boiler" NameU="Boiler"/>
+    <Elem Prompt="油燃器" Name="油燃器" PromptU="Oil burner" NameU="Oil burner"/>
+    <Elem Prompt="火焰加热器" Name="火焰加热器" PromptU="Fired heater" NameU="Fired heater"/>
+    <Elem Prompt="立式涡轮机" Name="立式涡轮机" PromptU="Vertical turbine" NameU="Vertical turbine"/>
+    <Elem Prompt="冷凝器" Name="冷凝器" PromptU="Condenser" NameU="Condenser"/>
+    <Elem Prompt="抽油烟机" Name="抽油烟机" PromptU="Extractor hood" NameU="Extractor hood"/>
+    <Elem Prompt="软管卷盘" Name="软管卷盘" PromptU="Hose reel" NameU="Hose reel"/>
+    <Elem Prompt="清水水利站" Name="清水水利站" PromptU="Light water station" NameU="Light water station"/>
+    <Elem Prompt="炉膛" Name="炉膛" PromptU="Combustion chamber" NameU="Combustion chamber"/>
+    <Elem Prompt="消音器" Name="消音器" PromptU="Silencer" NameU="Silencer"/>
+    <Elem Prompt="薄膜蒸发器" Name="薄膜蒸发器" PromptU="Thin-Film evaporator" NameU="Thin-Film evaporator"/>
+    <Elem Prompt="通风孔" Name="通风孔" PromptU="Vent" NameU="Vent"/>
+</Lib>

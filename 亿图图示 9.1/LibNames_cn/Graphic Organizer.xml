@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Graphic Organizer">
+    <Elem Prompt="蜜蜂" Name="蜜蜂" PromptU="Bee" NameU="Bee"/>
+    <Elem Prompt="螃蟹" Name="螃蟹" PromptU="Crab" NameU="Crab"/>
+    <Elem Prompt="鲸鱼" Name="鲸鱼" PromptU="Whale" NameU="Whale"/>
+    <Elem Prompt="小丑鱼尼莫" Name="小丑鱼尼莫" PromptU="Fish" NameU="Fish"/>
+    <Elem Prompt="小丑鱼尼莫" Name="小丑鱼尼莫" PromptU="Fish" NameU="Fish"/>
+    <Elem Prompt="青蛙" Name="青蛙" PromptU="Frog" NameU="Frog"/>
+    <Elem Prompt="牛" Name="牛" PromptU="Cow" NameU="Cow"/>
+    <Elem Prompt="毛毛虫" Name="毛毛虫" PromptU="Caterpillar" NameU="Caterpillar"/>
+    <Elem Prompt="蜘蛛网" Name="蜘蛛网" PromptU="Spider Web" NameU="Spider Web"/>
+    <Elem Prompt="冰激凌" Name="冰激凌" PromptU="Ice Cream" NameU="Ice Cream"/>
+    <Elem Prompt="树" Name="数" PromptU="Tree" NameU="Tree"/>
+    <Elem Prompt="苹果" Name="苹果" PromptU="Apple" NameU="Apple"/>
+    <Elem Prompt="番茄" Name="番茄" PromptU="Tomato" NameU="Tomato"/>
+    <Elem Prompt="太阳" Name="太阳" PromptU="Sun" NameU="Sun"/>
+    <Elem Prompt="气球" Name="气球" PromptU="Balloon" NameU="Balloon"/>
+    <Elem Prompt="花朵" Name="花朵" PromptU="Flower" NameU="Flower"/>
+    <Elem Prompt="叶子" Name="叶子" PromptU="Leaf" NameU="Leaf"/>
+    <Elem Prompt="树林" Name="树林" PromptU="Trees" NameU="Trees"/>
+    <Elem Prompt="糖果 1" Name="糖果 1" PromptU="Candy 1" NameU="Candy 1"/>
+    <Elem Prompt="糖果 2" Name="糖果 2" PromptU="Candy 2" NameU="Candy 2"/>
+    <Elem Prompt="云朵" Name="云朵" PromptU="Cloud" NameU="Cloud"/>
+    <Elem Prompt="水滴" Name="水滴" PromptU="Water Drop" NameU="Water Drop"/>
+    <Elem Prompt="手" Name="手" PromptU="Hand" NameU="Hand"/>
+    <Elem Prompt="房子" Name="房子" PromptU="House" NameU="House"/>
+    <Elem Prompt="雨伞" Name="雨伞" PromptU="Umbrella" NameU="Umbrella"/>
+</Lib>

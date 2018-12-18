@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="PID Buildings">
+    <Elem Prompt="拱式建筑" Name="拱式建筑" PromptU="Arch-style building" NameU="Arch-style building"/>
+    <Elem Prompt="商业建筑 1" Name="商业建筑 1" PromptU="Commercial building 1" NameU="Commercial building 1"/>
+    <Elem Prompt="商业建筑 2" Name="商业建筑 2" PromptU="Commercial building 2" NameU="Commercial building 2"/>
+    <Elem Prompt="工厂 1" Name="工厂 1" PromptU="Factory 1" NameU="Factory 1"/>
+    <Elem Prompt="工厂 2" Name="工厂 2" PromptU="Factory 2" NameU="Factory 2"/>
+    <Elem Prompt="工厂 3" Name="工厂 3" PromptU="Factory 3" NameU="Factory 3"/>
+    <Elem Prompt="工业建筑 1" Name="工业建筑 1" PromptU="Industrial building 1" NameU="Industrial building 1"/>
+    <Elem Prompt="工业建筑 2" Name="工业建筑 2" PromptU="Industrial building 2" NameU="Industrial building 2"/>
+    <Elem Prompt="工业建筑 3" Name="工业建筑 3" PromptU="Industrial building 3" NameU="Industrial building 3"/>
+    <Elem Prompt="工业建筑 4" Name="工业建筑 4" PromptU="Industrial building 4" NameU="Industrial building 4"/>
+    <Elem Prompt="工业建筑 5" Name="工业建筑 5" PromptU="Industrial building 5" NameU="Industrial building 5"/>
+    <Elem Prompt="工业建筑 6" Name="工业建筑 6" PromptU="Industrial building 6" NameU="Industrial building 6"/>
+    <Elem Prompt="工业建筑 7" Name="工业建筑 7" PromptU="Industrial building 7" NameU="Industrial building 7"/>
+    <Elem Prompt="屋顶倾斜的工业建筑" Name="屋顶倾斜的工业建筑" PromptU="Industrial building with slanted roof" NameU="Industrial building with slanted roof"/>
+    <Elem Prompt="有烟囱的工业建筑" Name="有烟囱的工业建筑" PromptU="Industrial building with stack" NameU="Industrial building with stack"/>
+    <Elem Prompt="模块化办公室 1" Name="模块化办公室 1" PromptU="Modular office 1" NameU="Modular office 1"/>
+    <Elem Prompt="模块化办公室 2" Name="模块化办公室 2" PromptU="Modular office 2" NameU="Modular office 2"/>
+    <Elem Prompt="室外围栏" Name="室外围栏" PromptU="Outdoor enclosure" NameU="Outdoor enclosure"/>
+    <Elem Prompt="住所" Name="住所" PromptU="Shelter" NameU="Shelter"/>
+    <Elem Prompt="公用事业设施建筑物（灰色）" Name="公用事业设施建筑物（灰色）" PromptU="Utility building (gray)" NameU="Utility building (gray)"/>
+    <Elem Prompt="公用事业设施建筑物（绿色）" Name="公用事业设施建筑物（绿色）" PromptU="Utility building (green)" NameU="Utility building (green)"/>
+    <Elem Prompt="牲畜屋" Name="牲畜屋" PromptU="Pig and Bull House" NameU="Pig and Bull House"/>
+</Lib>

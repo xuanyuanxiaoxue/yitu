@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Cisco Security Stealthwatch">
+    <Elem NameU="Agent" Name="检查" PromptU="Agent" Prompt="检查"/>
+    <Elem NameU="Aggregator" Name="聚合" PromptU="Aggregator" Prompt="聚合"/>
+    <Elem NameU="Cisco Stealthwatch Learning Network License" Name="网络许可证" PromptU="Cisco Stealthwatch Learning Network License" Prompt="网络许可证"/>
+    <Elem NameU="Cisco Stealthwatch UDP Director" Name="UDP导向器" PromptU="Cisco Stealthwatch UDP Director" Prompt="UDP导向器"/>
+    <Elem NameU="Cloud" Name="云储存" PromptU="Cloud" Prompt="云储存"/>
+    <Elem NameU="Cloud License" Name="云储存许可证" PromptU="Cloud License" Prompt="云储存许可证"/>
+    <Elem NameU="Concentrator" Name="集中器" PromptU="Concentrator" Prompt="集中器"/>
+    <Elem NameU="Database Storage Array" Name="数据储存数组" PromptU="Database Storage Array" Prompt="数据储存数组"/>
+    <Elem NameU="Desktop/Client" Name="桌面/用户" PromptU="Desktop/Client" Prompt="桌面/用户"/>
+    <Elem NameU="Firewall" Name="防火墙" PromptU="Firewall" Prompt="防火墙"/>
+    <Elem NameU="Flow Collector Management" Name="流程收集管理" PromptU="Flow Collector Management" Prompt="流程收集管理"/>
+    <Elem NameU="Flow Sensor" Name="流量传感器" PromptU="Flow Sensor" Prompt="流量传感器"/>
+    <Elem NameU="Laptop" Name="笔记本" PromptU="Laptop" Prompt="笔记本"/>
+    <Elem NameU="Learning Agent" Name="处理中心" PromptU="Learning Agent" Prompt="处理中心"/>
+    <Elem NameU="Legacy Server" Name="旧版服务器" PromptU="Legacy Server" Prompt="旧版服务器"/>
+    <Elem NameU="Management Console" Name="管理界面" PromptU="Management Console" Prompt="管理界面"/>
+    <Elem NameU="Phone" Name="手机" PromptU="Phone" Prompt="手机"/>
+    <Elem NameU="Proxy License" Name="代理许可证" PromptU="Proxy License" Prompt="代理许可证"/>
+    <Elem NameU="Router" Name="路径" PromptU="Router" Prompt="路径"/>
+    <Elem NameU="Server" Name="服务器" PromptU="Server" Prompt="服务器"/>
+    <Elem NameU="Switch" Name="交换" PromptU="Switch" Prompt="交换"/>
+    <Elem NameU="Tablet" Name="平板电脑" PromptU="Tablet" Prompt="平板电脑"/>
+    <Elem NameU="Threat Feed" Name="安全警告" PromptU="Threat Feed" Prompt="安全警告"/>
+    <Elem NameU="User" Name="用户" PromptU="User" Prompt="用户"/>
+    <Elem NameU="Virtual Machine" Name="虚拟机" PromptU="Virtual Machine" Prompt="虚拟机"/>
+    <Elem NameU="Web Proxy" Name="网络代理" PromptU="Web Proxy" Prompt="网络代理"/>
+    <Elem NameU="Wifi / WAP" Name="无限网络/WAP" PromptU="Wifi / WAP" Prompt="无限网络/WAP"/>
+    <Elem NameU="Wireless Controller" Name="无限接收器" PromptU="Wireless Controller" Prompt="无线接收器"/>
+</Lib>

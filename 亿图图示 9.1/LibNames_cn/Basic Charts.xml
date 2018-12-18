@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Basic Charts">
+    <Elem Prompt="条形图" Name="条形图" PromptU="Bar Chart" NameU="Bar Chart"/>
+    <Elem Prompt="条形图" Name="条形图" PromptU="Bar Chart" NameU="Bar Chart"/>
+    <Elem Prompt="条形图" Name="条形图" PromptU="Bar Chart" NameU="Bar Chart"/>
+    <Elem Prompt="条形图" Name="条形图" PromptU="Bar Chart" NameU="Bar Chart"/>
+    <Elem Prompt="条形图" Name="条形图" PromptU="Bar Chart" NameU="Bar Chart"/>
+    <Elem Prompt="条形图" Name="条形图" PromptU="Bar Chart" NameU="Bar Chart"/>
+    <Elem Prompt="柱状图" Name="柱状图" PromptU="Column Chart" NameU="Column Chart"/>
+    <Elem Prompt="柱状图" Name="柱状图" PromptU="Column Chart" NameU="Column Chart"/>
+    <Elem Prompt="柱状图" Name="柱状图" PromptU="Column Chart" NameU="Column Chart"/>
+    <Elem Prompt="饼图" Name="饼图" PromptU="Pie" NameU="Pie"/>
+    <Elem Prompt="饼图" Name="饼图" PromptU="Pie" NameU="Pie"/>
+    <Elem Prompt="饼图" Name="饼图" PromptU="Percentage Pie" NameU="Percentage Pie"/>
+    <Elem Prompt="饼图" Name="饼图" PromptU="Control Point Pie" NameU="Control Point Pie"/>
+    <Elem Prompt="环型图" Name="环型图" PromptU="Doughnut" NameU="Doughnut"/>
+    <Elem Prompt="环型图" Name="环型图" PromptU="Doughnut" NameU="Doughnut"/>
+    <Elem Prompt="环型图" Name="环型图" PromptU="Doughnut" NameU="Doughnut"/>
+    <Elem Prompt="圆进度指示" Name="圆进度指示" PromptU="Circle Indicator" NameU="Circle Indicator"/>
+    <Elem Prompt="圆进度指示" Name="圆进度指示" PromptU="Circle Indicator" NameU="Circle Indicator"/>
+    <Elem Prompt="圆进度指示" Name="圆进度指示" PromptU="Circle Indicator" NameU="Circle Indicator"/>
+    <Elem Prompt="圆进度指示" Name="圆进度指示" PromptU="Circle Indicator" NameU="Circle Indicator"/>
+    <Elem Prompt="圆进度指示" Name="圆进度指示" PromptU="Circle Indicator" NameU="Circle Indicator"/>
+    <Elem Prompt="进度条" Name="进度条" PromptU="Progress Bar" NameU="Progress Bar"/>
+    <Elem Prompt="圆进度指示" Name="圆进度指示" PromptU="Circle Indicator" NameU="Circle Indicator"/>
+    <Elem Prompt="圆进度指示" Name="圆进度指示" PromptU="Circle Indicator" NameU="Circle Indicator"/>
+    <Elem Prompt="圆进度指示" Name="圆进度指示" PromptU="Circle Indicator" NameU="Circle Indicator"/>
+    <Elem Prompt="圆进度指示" Name="圆进度指示" PromptU="Circle Indicator" NameU="Circle Indicator"/>
+    <Elem Prompt="圆进度指示" Name="圆进度指示" PromptU="Circle Indicator" NameU="Circle Indicator"/>
+    <Elem Prompt="圆进度指示" Name="圆进度指示" PromptU="Circle Indicator" NameU="Circle Indicator"/>
+    <Elem Prompt="圆进度指示" Name="圆进度指示" PromptU="Circle Indicator" NameU="Circle Indicator"/>
+    <Elem Prompt="圆进度指示" Name="圆进度指示" PromptU="Circle Indicator" NameU="Circle Indicator"/>
+    <Elem Prompt="圆进度指示" Name="圆进度指示" PromptU="Circle Indicator" NameU="Circle Indicator"/>
+    <Elem Prompt="圆进度指示" Name="圆进度指示" PromptU="Circle Indicator" NameU="Circle Indicator"/>
+    <Elem Prompt="圆进度指示" Name="圆进度指示" PromptU="Circle Indicator" NameU="Circle Indicator"/>
+    <Elem Prompt="圆进度指示" Name="圆进度指示" PromptU="Circle Indicator" NameU="Circle Indicator"/>
+    <Elem Prompt="圆进度指示" Name="圆进度指示" PromptU="Circle Indicator" NameU="Circle Indicator"/>
+    <Elem Prompt="圆进度指示" Name="圆进度指示" PromptU="Circle Indicator" NameU="Circle Indicator"/>
+    <Elem Prompt="圆进度指示" Name="圆进度指示" PromptU="Circle Indicator" NameU="Circle Indicator"/>
+    <Elem Prompt="圆进度指示" Name="圆进度指示" PromptU="Circle Indicator" NameU="Circle Indicator"/>
+    <Elem Prompt="圆进度指示" Name="圆进度指示" PromptU="Circle Indicator" NameU="Circle Indicator"/>
+    <Elem Prompt="圆进度指示" Name="圆进度指示" PromptU="Circle Indicator" NameU="Circle Indicator"/>
+    <Elem Prompt="圆进度指示" Name="圆进度指示" PromptU="Circle Indicator" NameU="Circle Indicator"/>
+    <Elem Prompt="半圆进度指示" Name="半圆进度指示" PromptU="Semicircular Indicator" NameU="Semicircular Indicator"/>
+    <Elem Prompt="条形进度指示" Name="条形进度指示" PromptU="Bar Indicator" NameU="Bar Indicator"/>
+    <Elem Prompt="条形进度指示" Name="条形进度指示" PromptU="Bar Indicator" NameU="Bar Indicator"/>
+    <Elem Prompt="柱状进度指示" Name="柱状进度指示" PromptU="Column Indicator" NameU="Column Indicator"/>
+    <Elem Prompt="电池指示" Name="电池指示" PromptU="Battery Indicator" NameU="Battery Indicator"/>
+    <Elem Prompt="电池指示" Name="电池指示" PromptU="Battery Indicator" NameU="Battery Indicator"/>
+    <Elem Prompt="百分比指示" Name="百分比指示" PromptU="Percentage Indicator" NameU="Percentage Indicator"/>
+    <Elem Prompt="百分比指示" Name="百分比指示" PromptU="Percentage Indicator" NameU="Percentage Indicator"/>
+    <Elem Prompt="百分比指示" Name="百分比指示" PromptU="Percentage Indicator" NameU="Percentage Indicator"/>
+    <Elem Prompt="百分比指示" Name="百分比指示" PromptU="Percentage Indicator" NameU="Percentage Indicator"/>
+    <Elem Prompt="百分比指示" Name="百分比指示" PromptU="Percentage Indicator" NameU="Percentage Indicator"/>
+    <Elem Prompt="百分比指示" Name="百分比指示" PromptU="Percentage Indicator" NameU="Percentage Indicator"/>
+    <Elem Prompt="百分比指示" Name="百分比指示" PromptU="Percentage Indicator" NameU="Percentage Indicator"/>
+    <Elem Prompt="百分比指示" Name="百分比指示" PromptU="Percentage Indicator" NameU="Percentage Indicator"/>
+    <Elem Prompt="百分比指示" Name="百分比指示" PromptU="Percentage Indicator" NameU="Percentage Indicator"/>
+    <Elem Prompt="钟表指示" Name="钟表指示" PromptU="Clock Chart" NameU="Clock Chart"/>
+    <Elem Prompt="女性百分比" Name="女性百分比" PromptU="Woman" NameU="Woman"/>
+    <Elem Prompt="男性百分比" Name="男性百分比" PromptU="Man" NameU="Man"/>
+    <Elem Prompt="男性百分比" Name="男性百分比" PromptU="Men" NameU="Men"/>
+    <Elem Prompt="女性百分比" Name="女性百分比" PromptU="Women" NameU="Women"/>
+    <Elem Prompt="多人百分比" Name="多人百分比" PromptU="People" NameU="People"/>
+    <Elem Prompt="试管指示" Name="试管指示" PromptU="Test Tube Chart" NameU="Test Tube Chart"/>
+    <Elem Prompt="试管指示" Name="试管指示" PromptU="Test Tube Chart" NameU="Test Tube Chart"/>
+    <Elem Prompt="水滴指示" Name="水滴指示" PromptU="Water Drop Chart" NameU="Water Drop Chart"/>
+    <Elem Prompt="柱状图" Name="柱状图" PromptU="Column Chart" NameU="Column Chart"/>
+    <Elem Prompt="条形图" Name="条形图" PromptU="Bar Chart" NameU="Bar Chart"/>
+    <Elem Prompt="向上箭头" Name="向上箭头" PromptU="Up Arrow" NameU="Up Arrow"/>
+    <Elem Prompt="点赞大拇指" Name="点赞大拇指" PromptU="Like Thumb" NameU="Like Thumb"/>
+    <Elem Prompt="数据分析表" Name="数据分析表" PromptU="Data Analysis Table" NameU="Data Analysis Table"/>
+    <Elem Prompt="数据分析表" Name="数据分析表" PromptU="Data Analysis Table" NameU="Data Analysis Table"/>
+    <Elem Prompt="层叠环形表" Name="层叠环形表" PromptU="Scale Map" NameU="Scale Map"/>
+    <Elem Prompt="层叠环形表" Name="层叠环形表" PromptU="Stacked Circle Chart" NameU="Stacked Circle Chart"/>
+</Lib>

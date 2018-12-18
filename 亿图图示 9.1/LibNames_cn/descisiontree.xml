@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Decision Tree">
+    <Elem Prompt="决策节点" Name="决策节点" PromptU="Decision Made Node" NameU="Decision Made Node"/>
+    <Elem Prompt="事件节点" Name="事件节点" PromptU="Chance Event Node" NameU="Chance Event Node"/>
+    <Elem Prompt="结束" Name="结束" PromptU="Endpoints" NameU="Endpoints"/>
+    <Elem Prompt="可替代分支" Name="可替代分支" PromptU="Branches of alternatives" NameU="Branches of alternatives"/>
+    <Elem Prompt="可替代分支" Name="可替代分支 2" PromptU="Branches of alternatives 2" NameU="Branches of alternatives 2"/>
+    <Elem Prompt="拒绝替代" Name="拒绝替代" PromptU="Rejected Alternative" NameU="Rejected Alternative"/>
+    <Elem Prompt="拒绝替代" Name="拒绝替代 2" PromptU="Rejected Alternative 2" NameU="Rejected Alternative 2"/>
+    <Elem Prompt="结果或实用程序" Name="结果或实用程序" PromptU="Outcome or utility" NameU="Outcome or utility"/>
+    <Elem Prompt="机率" Name="机率" PromptU="Probability" NameU="Probability"/>
+    <Elem Prompt="预期值" Name="预期值" PromptU="Expected Value" NameU="Expected Value"/>
+    <Elem Prompt="节点指定一个选择" Name="节点指定一个选择" PromptU="Node Designating a Choice" NameU="Node Designating a Choice"/>
+    <Elem Prompt="回报" Name="回报" PromptU="Payoff" NameU="Payoff"/>
+</Lib>

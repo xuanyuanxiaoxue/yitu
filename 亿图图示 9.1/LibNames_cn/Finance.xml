@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Finance">
+    <Elem NameU="Gold Bullion" Name="金条" PromptU="Gold Bullion" Prompt="Gold Bullion"/>
+    <Elem NameU="Silver Bullion" Name="银条" PromptU="Silver Bullion" Prompt="白银"/>
+    <Elem NameU="Diamond" Name="钻石" PromptU="Diamond" Prompt="Diamond"/>
+    <Elem NameU="Cash" Name="现金" PromptU="Cash" Prompt="现金"/>
+    <Elem NameU="Coin" Name="硬币" PromptU="Coin" Prompt="硬币"/>
+    <Elem NameU="Deposit" Name="储蓄" PromptU="Deposit" Prompt="储蓄"/>
+    <Elem NameU="Check" Name="支票" PromptU="Check" Prompt="支票"/>
+    <Elem NameU="Bank Card" Name="银行卡" PromptU="Bank Card" Prompt="银行卡"/>
+    <Elem NameU="Credit Card" Name="信用卡" PromptU="Credit Card" Prompt="信用卡"/>
+    <Elem NameU="Money" Name="钱" PromptU="Money" Prompt="钱"/>
+    <Elem NameU="Cash Payment" Name="现金支付" PromptU="Cash Payment" Prompt="现金支付"/>
+    <Elem NameU="Online Payment" Name="网上支付" PromptU="Online Payment" Prompt="网上支付"/>
+    <Elem NameU="Mobile Payment" Name="手机支付" PromptU="Mobile Payment" Prompt="手机支付"/>
+    <Elem NameU="Mail Payment" Name="邮汇支付" PromptU="Mail Payment" Prompt="邮汇支付"/>
+    <Elem NameU="Accounting" Name="会计核算" PromptU="Accounting" Prompt="会计核算"/>
+    <Elem NameU="Golden Eggs" Name="金蛋" PromptU="Golden Eggs" Prompt="金蛋"/>
+    <Elem NameU="Investment" Name="投资" PromptU="Investment" Prompt="投资"/>
+    <Elem NameU="Bonds" Name="债券" PromptU="Bonds" Prompt="债券"/>
+    <Elem NameU="Stock" Name="股票" PromptU="Stock" Prompt="股票"/>
+    <Elem NameU="Data" Name="数据" PromptU="Data" Prompt="数据"/>
+    <Elem NameU="Auction" Name="拍卖" PromptU="Auction" Prompt="拍卖"/>
+    <Elem NameU="Balance 2" Name="天平2" PromptU="Balance 2" Prompt="天平2"/>
+    <Elem NameU="Antique" Name="古董" PromptU="Antique" Prompt="古董"/>
+    <Elem NameU="Bank" Name="银行" PromptU="Bank" Prompt="银行"/>
+    <Elem NameU="Safe" Name="保险柜" PromptU="Safe" Prompt="保险柜"/>
+    <Elem NameU="Security 1" Name="安全 1" PromptU="Security 1" Prompt="安全 1"/>
+    <Elem NameU="Security 2" Name="安全 2" PromptU="Security 2" Prompt="安全 2"/>
+    <Elem NameU="Balance 1" Name="天平1" PromptU="Balance 1" Prompt="天平1"/>
+    <Elem NameU="Roulette" Name="轮盘" PromptU="Roulette" Prompt="轮盘"/>
+    <Elem NameU="Choice" Name="抉择" PromptU="Choice" Prompt="抉择"/>
+    <Elem NameU="Hourglass" Name="沙漏" PromptU="Hourglass" Prompt="沙漏"/>
+    <Elem NameU="Service" Name="服务" PromptU="Service" Prompt="服务"/>
+    <Elem NameU="Steering Wheel" Name="方向盘" PromptU="Steering Wheel" Prompt="方向盘"/>
+</Lib>

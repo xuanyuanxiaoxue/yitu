@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Fashion Clothes">
+    <Elem NameU="Dress with Collar" Name="连衣裙" PromptU="Dress with Collar" Prompt="连衣裙"/>
+    <Elem NameU="Strapless Dress" Name="连衣裙" PromptU="Strapless Dress" Prompt="连衣裙"/>
+    <Elem NameU="Strapless Dress - Long" Name="连衣裙" PromptU="Strapless Dress - Long" Prompt="连衣裙"/>
+    <Elem NameU="One Strap Dress" Name="连衣裙" PromptU="One Strap Dress" Prompt="连衣裙"/>
+    <Elem NameU="Dress 1" Name="连衣裙 1" PromptU="Dress 1" Prompt="连衣裙 1"/>
+    <Elem NameU="Sleeveless Dress" Name="连衣裙" PromptU="Sleeveless Dress" Prompt="连衣裙"/>
+    <Elem NameU="Off Shoulder Dress" Name="连衣裙" PromptU="Off Shoulder Dress" Prompt="连衣裙"/>
+    <Elem NameU="Dress 2" Name="连衣裙 2" PromptU=" Dress2" Prompt="连衣裙 2"/>
+    <Elem NameU="Pegged Skirt" Name="半裙" PromptU="Pegged Skirt" Prompt="半裙"/>
+    <Elem NameU="Gored Skirt" Name="半裙" PromptU="Gored Skirt" Prompt="半裙"/>
+    <Elem NameU="Sleeveless Skirt" Name="无袖连衣裙" PromptU="Sleeveless Skirt" Prompt="无袖连衣裙"/>
+    <Elem NameU="Underwaist" Name="背心" PromptU="Underwaist" Prompt="背心"/>
+    <Elem NameU="Swimsuit" Name="女士泳衣" PromptU="Swimsuit" Prompt="女士泳衣"/>
+    <Elem NameU="Layered Skirt" Name="半裙" PromptU="Layered Skirt" Prompt="半裙"/>
+    <Elem NameU="Women Coat 1" Name="女士大衣" PromptU="Women Coat 1" Prompt="女士大衣"/>
+    <Elem NameU="Women Coat 2" Name="女士大衣" PromptU="Women Coat 2" Prompt="女士大衣"/>
+    <Elem NameU="Women Coat 3" Name="女士大衣" PromptU="Women Coat 3" Prompt="女士大衣"/>
+    <Elem NameU="Women Jacket" Name="女士夹克" PromptU="Women Jacket" Prompt="女士夹克"/>
+    <Elem NameU="Women Blazer" Name="女士西装" PromptU="Women Blazer" Prompt="女士西装"/>
+    <Elem NameU="Women Blazer 2" Name="女士西装" PromptU="Women Blazer 2" Prompt="女士西装"/>
+    <Elem NameU="Women Blazer 3" Name="女士西装" PromptU="Women Blazer 3" Prompt="女士西装"/>
+    <Elem NameU="Women Short Sleeve Shirt" Name="系带衬衫" PromptU="Women Short Sleeve Shirt" Prompt="系带衬衫"/>
+    <Elem NameU="Men Shirt 1" Name="男士衬衫 1" PromptU="Men Shirt 1" Prompt="男士衬衫 1"/>
+    <Elem NameU="Men Shirt 2" Name="男士衬衫" PromptU="Men Shirt 2" Prompt="男士衬衫"/>
+    <Elem NameU="Men T-shirt 1" Name="男士T恤1" PromptU="Men T-shirt 1" Prompt="男士T恤1"/>
+    <Elem NameU="Men T-shirt 2" Name="男士T恤2" PromptU="Men T-shirt 2" Prompt="男士T恤2"/>
+    <Elem NameU="Men T-shirt 3" Name="男士T恤3" PromptU="Men T-shirt 3" Prompt="男士T恤3"/>
+    <Elem NameU="Men T-shirt 4" Name="男士T恤 4" PromptU="Men T-shirt 4" Prompt="男士T恤 4"/>
+    <Elem NameU="Jeans" Name="牛仔裤" PromptU="Jeans" Prompt="牛仔裤"/>
+    <Elem NameU="Breeches" Name="马裤" PromptU="Breeches" Prompt="马裤"/>
+    <Elem NameU="Overalls" Name="背带裤" PromptU="Overalls" Prompt="背带裤"/>
+    <Elem NameU="Breeches" Name="马裤" PromptU="Breeches" Prompt="马裤"/>
+    <Elem NameU="Short Pants 1" Name="短裤 1" PromptU="Short Pants 1" Prompt="短裤1"/>
+    <Elem NameU="Short Pants 2" Name="短裤 2" PromptU="Short Pants 2" Prompt="短裤 2"/>
+    <Elem NameU="Superman Costume" Name="超人服" PromptU="Superman Costume" Prompt="超人服"/>
+    <Elem NameU="Short Pants" Name="短裤" PromptU="Short Pants" Prompt="短裤"/>
+    <Elem NameU="Children T-Shirt" Name="儿童T恤" PromptU="Children T-Shirt" Prompt="儿童T恤"/>
+    <Elem NameU="Girl Vest" Name="儿童马甲" PromptU="Girl Vest" Prompt="儿童马甲"/>
+    <Elem NameU="Girl Jacket" Name="女童外套" PromptU="Girl Jacket" Prompt="女童外套"/>
+    <Elem NameU="Children T-shirt and Pants" Name="儿童套装" PromptU="Children T-shirt and Pants" Prompt="儿童套装"/>
+    <Elem NameU="Children T-shirt" Name="儿童T恤" PromptU="Children T-shirt" Prompt="儿童T恤"/>
+    <Elem NameU="Sock 1" Name="袜子" PromptU="Sock 1" Prompt="袜子"/>
+    <Elem NameU="Sock 2" Name="袜子" PromptU="Sock 2" Prompt="袜子"/>
+    <Elem NameU="Sock 3" Name="袜子" PromptU="Sock 3" Prompt="袜子"/>
+    <Elem NameU="Sock 4" Name="袜子" PromptU="Sock 4" Prompt="袜子"/>
+    <Elem NameU="High-heeled Shoes 1" Name="高跟鞋 1" PromptU="High-heeled Shoes 1" Prompt="高跟鞋 1"/>
+    <Elem NameU="High-heeled Shoes 4" Name="高跟鞋 4" PromptU="High-heeled Shoes 4" Prompt="高跟鞋"/>
+    <Elem NameU="High-heeled Shoes 2" Name="高跟鞋" PromptU="High-heeled Shoes 2" Prompt="高跟鞋"/>
+    <Elem NameU="High-heeled Shoes 3" Name="高跟鞋 3" PromptU="High-heeled Shoes 3" Prompt="高跟鞋 3"/>
+    <Elem NameU="High-heeled Shoes 5" Name="高跟鞋 5" PromptU="High-heeled Shoes 5" Prompt="高跟鞋 5"/>
+    <Elem NameU="High-heeled Shoes 6" Name="高跟鞋 6" PromptU="High-heeled Shoes 6" Prompt="高跟鞋 6"/>
+    <Elem NameU="High-heeled Shoes 7" Name="高跟鞋 7" PromptU="High-heeled Shoes 7" Prompt="高跟鞋 7"/>
+    <Elem NameU="High-heeled Shoes 8" Name="高跟鞋8" PromptU="High-heeled Shoes 8" Prompt="高跟鞋 8"/>
+    <Elem NameU="Men Boot 1" Name="男士靴 1" PromptU="男士靴 1" Prompt="男士靴 1"/>
+    <Elem NameU="Men Boot 2" Name="男士靴 2" PromptU="Men Boot 2" Prompt="男士靴 2"/>
+    <Elem NameU="Sneaker" Name="运动鞋" PromptU="Sneaker" Prompt="运动鞋"/>
+    <Elem NameU="Boot" Name="靴子" PromptU="Boot" Prompt="靴子"/>
+</Lib>

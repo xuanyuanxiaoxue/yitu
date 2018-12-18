@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Calendar">
+    <Elem Prompt="大日历" Name="大日历" PromptU="Big Calendar" NameU="Big Calendar"/>
+    <Elem Prompt="水平大日历" Name="大日历 2" PromptU="Horizontal Big Calendar" NameU="Big Calendar 2"/>
+    <Elem Prompt="有图片的日历" Name="有图片的日历" PromptU="Vertical calendar with image" NameU="Image Calendar"/>
+    <Elem Prompt="垂直日历" Name="日历" PromptU="Vertical month Calendar" NameU="Month Calendar"/>
+    <Elem Prompt="水平月历" Name="月历 2" PromptU="Horizontal month Calendar" NameU="Month Calendar 2"/>
+    <Elem Prompt="中型日历" Name="中型日历" PromptU="Medium Calendar" NameU="Medium Calendar"/>
+    <Elem Prompt="中型日历" Name="中型日历 2" PromptU="Medium Calendar" NameU="Medium Calendar 2"/>
+    <Elem Prompt="小型日历" Name="小型日历" PromptU="Small Calendar" NameU="Small Calendar"/>
+    <Elem Prompt="小型日历" Name="小型日历 2" PromptU="Small Calendar" NameU="Small Calendar 2"/>
+    <Elem Prompt="可设置时间跨度,以周为单位" Name="周日历" PromptU="Can change the week number of the calendar" NameU="Weeks Calendar"/>
+    <Elem Prompt="每周工作日历" Name="每周工作日历 2" PromptU="Week Task Calendar" NameU="Week Task Calendar 2"/>
+    <Elem Prompt="任务块" Name="任务块" PromptU="Task Block" NameU="Task Block"/>
+    <Elem Prompt="任务块" Name="任务块 2" PromptU="Task Block" NameU="Task Block 2"/>
+    <Elem Prompt="事件" Name="事件" PromptU="Event" NameU="Event"/>
+    <Elem Prompt="短事件" Name="事件" PromptU="Short Event" NameU="Short Event"/>
+    <Elem Prompt="消息" Name="消息" PromptU="Message" NameU="Message"/>
+    <Elem Prompt="消息" Name="消息 2" PromptU="Message" NameU="Message 2"/>
+    <Elem Prompt="消息" Name="消息 3" PromptU="Message" NameU="Message 3"/>
+    <Elem Prompt="短消息" Name="消息" PromptU="Short Message" NameU="Short Message"/>
+    <Elem Prompt="短消息" Name="短消息 2" PromptU="Short Message" NameU="Short Message 2"/>
+</Lib>

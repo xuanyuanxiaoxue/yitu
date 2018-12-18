@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Computers and Monitors">
+    <Elem Prompt="台式电脑" Name="台式电脑" PromptU="Desktop PC" NameU="Desktop PC"/>
+    <Elem Prompt="台式电脑" Name="台式电脑 2" PromptU="Desktop PC" NameU="Desktop PC 2"/>
+    <Elem Prompt="机箱" Name="机箱" PromptU="Tower Box" NameU="Tower Box"/>
+    <Elem Prompt="笔记本" Name="笔记本" PromptU="Surface" NameU="Surface"/>
+    <Elem Prompt="笔记本电脑" Name="笔记本电脑" PromptU="Laptop Computer" NameU="Laptop Computer"/>
+    <Elem Prompt="LCD 显示器" Name="LCD 显示器" PromptU="LCD Monitor" NameU="LCD Monitor"/>
+    <Elem Prompt="iMac" Name="iMac" PromptU="iMac" NameU="iMac"/>
+    <Elem Prompt="Mac Air" Name="Mac Air" PromptU="Mac Air" NameU="Mac Air"/>
+    <Elem Prompt="Mac电脑" Name="Mac电脑" PromptU="Mac Computer" NameU="Mac Computer"/>
+    <Elem Prompt="Mac Pro" Name="Mac Pro" PromptU="Mac Pro" NameU="Mac Pro"/>
+    <Elem Prompt="Mac Pro" Name="Mac Pro" PromptU="Mac Pro" NameU="Mac Pro"/>
+    <Elem Prompt="Mini Mac" Name="Mini Mac" PromptU="Mini Mac" NameU="Mini Mac"/>
+    <Elem Prompt="平板电脑" Name="平板电脑" PromptU="Tablet Computer" NameU="Tablet Computer"/>
+    <Elem Prompt="Pad" Name="Pad" PromptU="Pad" NameU="Pad"/>
+    <Elem Prompt="LCD 显示器" Name="LCD 显示器 2" PromptU="LCD monitor" NameU="LCD Monitor 2"/>
+    <Elem Prompt="查询计算机" Name="查询计算机" PromptU="Query computer" NameU="Query computer"/>
+    <Elem Prompt="查询计算机 2" Name="查询计算机 2" PromptU="Query computer 2" NameU="Query computer 2"/>
+</Lib>

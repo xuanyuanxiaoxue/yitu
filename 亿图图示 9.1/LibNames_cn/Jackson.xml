@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Jackson">
+    <Elem Prompt="过程" Name="过程" PromptU="Procedure" NameU="Procedure"/>
+    <Elem Prompt="过程 2" Name="过程 2" PromptU="Procedure 2" NameU="Procedure 2"/>
+    <Elem Prompt="进程" Name="进程" PromptU="Process" NameU="Process"/>
+    <Elem Prompt="进程 2" Name="进程 2" PromptU="Process 2" NameU="Process 2"/>
+    <Elem Prompt="树型连接线" Name="树型连接线" PromptU="Tree connector" NameU="Tree connector"/>
+    <Elem Prompt="逻辑连接线" Name="逻辑连接线" PromptU="Logical connector" NameU="Logical connector"/>
+</Lib>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Canada">
+    <Elem Prompt="艾伯塔省" Name="艾伯塔省" PromptU="Alberta" NameU="Alberta"/>
+    <Elem Prompt="卑诗省" Name="卑诗省" PromptU="British Columbia" NameU="British Columbia"/>
+    <Elem Prompt="马里拖巴省" Name="马里拖巴省" PromptU="Manitoba" NameU="Manitoba"/>
+    <Elem Prompt="新不伦瑞克省" Name="新不伦瑞克省" PromptU="New Brunswick" NameU="New Brunswick"/>
+    <Elem Prompt="纽芬兰省" Name="纽芬兰省" PromptU="Newfoundland" NameU="Newfoundland"/>
+    <Elem Prompt="加拿大北方" Name="加拿大北方" PromptU="Nothern Territories" NameU="Nothern Territories"/>
+    <Elem Prompt="新斯科夏省" Name="新斯科夏省" PromptU="Nova Scotia" NameU="Nova Scotia"/>
+    <Elem Prompt="安大略省" Name="安大略省" PromptU="Ontario" NameU="Ontario"/>
+    <Elem Prompt="爱德华王子岛省" Name="爱德华王子岛省" PromptU="Prince Edward Island" NameU="Prince Edward Island"/>
+    <Elem Prompt="魁北克省" Name="魁北克省" PromptU="Quebec" NameU="Quebec"/>
+    <Elem Prompt="萨斯喀彻省" Name="萨斯喀彻省" PromptU="Saskatchewan" NameU="Saskatchewan"/>
+    <Elem Prompt="育空省" Name="育空省" PromptU="Yukon" NameU="Yukon"/>
+    <Elem Prompt="加拿大" Name="加拿大" PromptU="Canada" NameU="Canada"/>
+</Lib>

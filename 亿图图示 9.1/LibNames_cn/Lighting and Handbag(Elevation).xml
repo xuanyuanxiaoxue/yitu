@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Lighting and Handbag (Elevation)">
+    <Elem Prompt="灯 1" Name="灯 1" PromptU="Lighting 1" NameU="Lighting 1"/>
+    <Elem Prompt="灯 2" Name="灯 2" PromptU="Lighting 2" NameU="Lighting 2"/>
+    <Elem Prompt="灯 3" Name="灯 3" PromptU="Lighting 3" NameU="Lighting 3"/>
+    <Elem Prompt="灯 4" Name="灯 4" PromptU="Lighting 4" NameU="Lighting 4"/>
+    <Elem Prompt="灯 5" Name="灯 5" PromptU="Lighting 5" NameU="Lighting 5"/>
+    <Elem Prompt="灯 6" Name="灯 6" PromptU="Lighting 6" NameU="Lighting 6"/>
+    <Elem Prompt="灯 7" Name="灯 7" PromptU="Lighting 7" NameU="Lighting 7"/>
+    <Elem Prompt="灯 8" Name="灯 8" PromptU="Lighting 8" NameU="Lighting 8"/>
+    <Elem Prompt="灯 9" Name="灯 9" PromptU="Lighting 9" NameU="Lighting 9"/>
+    <Elem Prompt="灯 10" Name="灯 10" PromptU="Lighting 10" NameU="Lighting 10"/>
+    <Elem Prompt="灯 11" Name="灯 11" PromptU="Lighting 11" NameU="Lighting 11"/>
+    <Elem Prompt="灯 12" Name="灯 12" PromptU="Lighting 12" NameU="Lighting 12"/>
+    <Elem Prompt="手袋 1" Name="手袋 1" PromptU="Handbag 1" NameU="Handbag 1"/>
+    <Elem Prompt="手袋 2" Name="手袋 2" PromptU="Handbag 2" NameU="Handbag 2"/>
+    <Elem Prompt="手袋 3" Name="手袋 3" PromptU="Handbag 3" NameU="Handbag 3"/>
+    <Elem Prompt="手袋 4" Name="手袋 4" PromptU="Handbag 4" NameU="Handbag 4"/>
+    <Elem Prompt="手袋 5" Name="手袋 5" PromptU="Handbag 5" NameU="Handbag 5"/>
+    <Elem Prompt="衣服" Name="衣服" PromptU="Clothing" NameU="Clothing"/>
+    <Elem Prompt="衣服" Name="衣服" PromptU="Clothing" NameU="Clothing"/>
+    <Elem Prompt="衣服" Name="衣服" PromptU="Clothing" NameU="Clothing"/>
+    <Elem Prompt="鞋子 1" Name="鞋子 1" PromptU="Shoe 1" NameU="Shoe 1"/>
+    <Elem Prompt="鞋子 2" Name="鞋子 2" PromptU="Shoe 2" NameU="Shoe 2"/>
+    <Elem Prompt="鞋子 3" Name="鞋子 3" PromptU="Shoe 3" NameU="Shoe 3"/>
+    <Elem Prompt="鞋子 4" Name="鞋子 4" PromptU="Shoe 4" NameU="Shoe 4"/>
+    <Elem Prompt="鞋子 5" Name="鞋子 5" PromptU="Shoe 5" NameU="Shoe 5"/>
+    <Elem Prompt="模特 1" Name="模特 1" PromptU="Model 1" NameU="Model 1"/>
+    <Elem Prompt="模特 2" Name="模特 2" PromptU="Model 2" NameU="Model 2"/>
+    <Elem Prompt="模特 3" Name="模特 3" PromptU="Model 3" NameU="Model 3"/>
+    <Elem Prompt="模特 4" Name="模特 4" PromptU="Model 4" NameU="Model 4"/>
+    <Elem Prompt="模特 5" Name="模特 5" PromptU="Model 5" NameU="Model 5"/>
+    <Elem Prompt="模特 6" Name="模特 6" PromptU="Model 6" NameU="Model 6"/>
+    <Elem Prompt="展示架" Name="展示架" PromptU="Showing stand" NameU="Showing stand"/>
+    <Elem Prompt="钻石 " Name="钻石" PromptU="Diamond " NameU="Diamond"/>
+    <Elem Prompt="钻石" Name="钻石" PromptU="Diamond" NameU="Diamond"/>
+    <Elem Prompt="钻石" Name="钻石" PromptU="Diamond" NameU="Diamond"/>
+    <Elem Prompt="钻石" Name="钻石" PromptU="Diamond" NameU="Diamond"/>
+    <Elem Prompt="钻石" Name="钻石" PromptU="Diamond" NameU="Diamond"/>
+    <Elem Prompt="钻石" Name="钻石" PromptU="Diamond" NameU="Diamond"/>
+    <Elem Prompt="钻石" Name="钻石" PromptU="Diamond" NameU="Diamond"/>
+    <Elem Prompt="钻石" Name="钻石" PromptU="Diamond" NameU="Diamond"/>
+    <Elem Prompt="钻石" Name="钻石" PromptU="Diamond" NameU="Diamond"/>
+</Lib>

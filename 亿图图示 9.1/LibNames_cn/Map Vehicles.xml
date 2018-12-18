@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Map Vehicles">
+    <Elem Prompt="黄色的轿车(二维)" Name="黄色的轿车(二维)" PromptU="Yellow car(2D)" NameU="Yellow car(2D)"/>
+    <Elem Prompt="绿色的轿车(二维)" Name="绿色的轿车(二维)" PromptU="Green car(2D)" NameU="Green car(2D)"/>
+    <Elem Prompt="红色的轿车(二维)" Name="红色的轿车(二维)" PromptU="Red car(2D)" NameU="Red car(2D)"/>
+    <Elem Prompt="豪华轿车" Name="豪华轿车" PromptU="Limousine" NameU="Limousine"/>
+    <Elem Prompt="卡车" Name="卡车" PromptU="Truck" NameU="Truck"/>
+    <Elem Prompt="绿色轿车(三维)" Name="绿色轿车(三维)" PromptU="Green car(3D)" NameU="Green car(3D)"/>
+    <Elem Prompt="绿色轿车(三维) 2" Name="绿色轿车(三维) 2" PromptU="Green car(3D) 2" NameU="Green car(3D) 2"/>
+    <Elem Prompt="红色轿车(三维)" Name="红色轿车(三维)" PromptU="Red car(3D)" NameU="Red car(3D)"/>
+    <Elem Prompt="红色轿车(三维) 2" Name="红色轿车(三维) 2" PromptU="Red car(3D) 2" NameU="Red car(3D) 2"/>
+    <Elem Prompt="黑色轿车(三维)" Name="黑色轿车(三维)" PromptU="Black car(3D)" NameU="Black car(3D)"/>
+    <Elem Prompt="黑色轿车(三维) 2" Name="黑色轿车(三维) 2" PromptU="Black car(3D) 2" NameU="Black car(3D) 2"/>
+    <Elem Prompt="卡车(三维)" Name="卡车(三维)" PromptU="Truck(3D)" NameU="Truck(3D)"/>
+    <Elem Prompt="卡车(三维) 2" Name="卡车(三维) 2" PromptU="Truck(3D) 2" NameU="Truck(3D) 2"/>
+    <Elem Prompt="桔色卡车(三维)" Name="桔色卡车(三维)" PromptU="Orange truck(3D)" NameU="Orange truck(3D)"/>
+    <Elem Prompt="桔色卡车(三维) 2" Name="桔色卡车(三维) 2" PromptU="Orange truck(3D) 2" NameU="Orange truck(3D) 2"/>
+</Lib>

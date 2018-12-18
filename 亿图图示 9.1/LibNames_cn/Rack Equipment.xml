@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Lib NameU="Rack Equipment">
+    <Elem Prompt="机架" Name="机架" PromptU="Rack" NameU="Rack"/>
+    <Elem Prompt="1U 插线面板" Name="1U 插线面板" PromptU="1U Patch Panel" NameU="1U Patch Panel"/>
+    <Elem Prompt="2U 插线面板" Name="2U 插线面板" PromptU="2U Patch Panel" NameU="2U Patch Panel"/>
+    <Elem Prompt="1U 交换机" Name="1U 交换机" PromptU="1U Switch" NameU="1U Switch"/>
+    <Elem Prompt="2U 交换机" Name="2U 交换机" PromptU="2U Switch" NameU="2U Switch"/>
+    <Elem Prompt="路由器" Name="路由器" PromptU="Router" NameU="Router"/>
+    <Elem Prompt="磁盘阵列" Name="磁盘阵列" PromptU="Raid" NameU="Raid"/>
+    <Elem Prompt="4U 服务器" Name="4U 服务器" PromptU="4U Server" NameU="4U Server"/>
+    <Elem Prompt="2U 服务器" Name="2U 服务器" PromptU="2U Server" NameU="2U Server"/>
+    <Elem Prompt="UPS" Name="UPS" PromptU="UPS" NameU="UPS"/>
+    <Elem Prompt="网桥" Name="网桥" PromptU="Bridge" NameU="Bridge"/>
+    <Elem Prompt="6U 显示器" Name="6U 显示器" PromptU="6U Monitor" NameU="6U Monitor"/>
+    <Elem Prompt="磁带驱动器" Name="磁带驱动器" PromptU="Tape Drive" NameU="Tape Drive"/>
+    <Elem Prompt="键盘" Name="键盘" PromptU="Keyboard" NameU="Keyboard"/>
+    <Elem Prompt="电源板" Name="电源板" PromptU="Power Strip" NameU="Power Strip"/>
+    <Elem Prompt="可改变U数量" Name="1U 机架" PromptU="Can change the number of U" NameU="1U Shelf"/>
+    <Elem Prompt="可改变U数量" Name="2U 机架" PromptU="Can change the number of U" NameU="2U Shelf"/>
+    <Elem Prompt="可替换设备" Name="可替换设备" PromptU="Alternative Device" NameU="Alternative Device"/>
+    <Elem Prompt="可替换设备 2" Name="可替换设备 2" PromptU="Alternative Device 2" NameU="Alternative Device 2"/>
+    <Elem Prompt="开关" Name="开关" PromptU="Switch" NameU="Switch"/>
+    <Elem Prompt="开关" Name="开关" PromptU="Switch" NameU="Switch"/>
+    <Elem Prompt="开关" Name="开关" PromptU="Switch" NameU="Switch"/>
+    <Elem Prompt="开关" Name="开关" PromptU="Switch" NameU="Switch"/>
+    <Elem Prompt="1U 交换机" Name="1U 交换机" PromptU="1U Switch" NameU="1U Switch"/>
+    <Elem Prompt="1U 交换机" Name="1U 交换机" PromptU="1U Switch" NameU="1U Switch"/>
+    <Elem Prompt="2u以太网交换机" Name="2u以太网交换机" PromptU="2u ethernet switch" NameU="2u ethernet switch"/>
+    <Elem Prompt="开关 (ws-c2960-24tc-l)" Name="开关 (ws-c2960-24tc-l)" PromptU="Switch (ws-c2960-24tc-l)" NameU="Switch (ws-c2960-24tc-l)"/>
+    <Elem Prompt="开关 (ws-c3560-24ps-s)" Name="开关 (ws-c3560-24ps-s)" PromptU="Switch (ws-c3560-24ps-s)" NameU="Switch (ws-c3560-24ps-s)"/>
+    <Elem Prompt="开关 (ws-c3560-48ps-s)" Name="开关 (ws-c3560-48ps-s)" PromptU="Switch (ws-c3560-48ps-s)" NameU="Switch (ws-c3560-48ps-s)"/>
+    <Elem Prompt="开关 (ws-c2960-48tc-l)" Name="开关 (ws-c2960-48tc-l)" PromptU="Switch (ws-c2960-48tc-l)" NameU="Switch (ws-c2960-48tc-l)"/>
+    <Elem Prompt="服务器" Name="服务器" PromptU="Server" NameU="Server"/>
+    <Elem Prompt="服务器" Name="服务器" PromptU="Server" NameU="Server"/>
+    <Elem Prompt="服务器" Name="服务器" PromptU="Server" NameU="Server"/>
+    <Elem Prompt="服务器" Name="服务器" PromptU="Server" NameU="Server"/>
+    <Elem Prompt="服务器" Name="服务器" PromptU="Server" NameU="Server"/>
+    <Elem Prompt="服务器" Name="服务器" PromptU="Server" NameU="Server"/>
+    <Elem Prompt="服务器" Name="服务器" PromptU="Server" NameU="Server"/>
+    <Elem Prompt="服务器" Name="服务器" PromptU="Server" NameU="Server"/>
+    <Elem Prompt="X服务器" Name="X服务器" PromptU="X Server" NameU="X Server"/>
+    <Elem Prompt="X服务器 RAID" Name="X服务器 RAID" PromptU="X Server RAID" NameU="X Server RAID"/>
+    <Elem Prompt="服务器" Name="服务器" PromptU="Server" NameU="Server"/>
+    <Elem Prompt="服务器" Name="服务器" PromptU="Server" NameU="Server"/>
+    <Elem Prompt="服务器 pc" Name="服务器 pc" PromptU="Server pc" NameU="Server pc"/>
+    <Elem Prompt="机架式液晶显示器" Name="机架式液晶显示器" PromptU="Rack mount lcd monitor" NameU="Rack mount lcd monitor"/>
+    <Elem Prompt="纤维接线板（A型）" Name="纤维接线板（A型）" PromptU="Fibre Patch Panel(Type A)" NameU="Fibre Patch Panel(Type A)"/>
+    <Elem Prompt="纤维接线板（B型）" Name="纤维接线板（B型）" PromptU="Fibre Patch Panel(Type B)" NameU="Fibre Patch Panel(Type B)"/>
+    <Elem Prompt="纤维接线板（C型）" Name="纤维接线板（C型）" PromptU="Fibre Patch Panel(Type C)" NameU="Fibre Patch Panel(Type C)"/>
+    <Elem Prompt="1U逆变器" Name="1U逆变器" PromptU="1U Spacer" NameU="1U Spacer"/>
+    <Elem Prompt="1U托盘" Name="1U托盘" PromptU="1U Tray" NameU="1U Tray"/>
+    <Elem Prompt="2U磁盘阵列" Name="2U磁盘阵列" PromptU="2U RAID Array" NameU="2U RAID Array"/>
+    <Elem Prompt="3U磁盘阵列" Name="3U磁盘阵列" PromptU="3U RAID Array" NameU="3U RAID Array"/>
+    <Elem Prompt="管理UPS" Name="管理UPS" PromptU="Managed UPS" NameU="Managed UPS"/>
+    <Elem Prompt="UPS" Name="UPS" PromptU="UPS" NameU="UPS"/>
+    <Elem Prompt="UPS" Name="UPS" PromptU="UPS" NameU="UPS"/>
+    <Elem Prompt="UPS" Name="UPS" PromptU="UPS" NameU="UPS"/>
+    <Elem Prompt="机架" Name="机架" PromptU="Rack" NameU="Rack"/>
+    <Elem Prompt="1U电缆管理" Name="1U电缆管理" PromptU="1U Cable Management" NameU="1U Cable Management"/>
+    <Elem Prompt="2U电缆管理" Name="2U电缆管理" PromptU="2U Cable Management" NameU="2U Cable Management"/>
+    <Elem Prompt="机架" Name="机架" PromptU="Rack" NameU="Rack"/>
+    <Elem Prompt="机架" Name="机架" PromptU="Rack" NameU="Rack"/>
+    <Elem Prompt="机架" Name="机架" PromptU="Rack" NameU="Rack"/>
+</Lib>
